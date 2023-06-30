@@ -1,0 +1,137 @@
+{
+    "commits_count": 8,
+    "date_started": "2016-12-01",
+    "date_updated": "2016-11-30",
+    "description": "JavaScript exploit : Firefox version 41 - 50 are affected. Easy fix by disabling JavaScript (use NoScript for better leverage). Victim must visit website using correct version of Tor in order to be potentially deanonymized.",
+    "forks_count": 15,
+    "html_url": "https://github.com/649/TOR-0day",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "TOR-0day",
+    "repo_owner": "649",
+    "repotime": "2016-11-30, 20:27:07",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 3,
+    "date_started": "2016-10-13",
+    "date_updated": "2016-11-30",
+    "description": "Prevents Session Hijacking",
+    "forks_count": 0,
+    "html_url": "https://github.com/DominicVonk/SecSession",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "SecSession",
+    "repo_owner": "DominicVonk",
+    "repotime": "2016-11-30, 11:48:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2016-10-08",
+    "date_updated": "2016-11-13",
+    "description": "<no description>",
+    "forks_count": 4,
+    "html_url": "https://github.com/SaturnsVoid/UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Visual Basic",
+    "repo_name": "UAC-Bypass",
+    "repo_owner": "SaturnsVoid",
+    "repotime": "2016-11-13, 16:55:51",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 15,
+    "date_started": "2016-09-12",
+    "date_updated": "2016-11-11",
+    "description": "LFIter2 Local File Include (LFI) Tool - Auto File Extractor &amp;amp; Username Bruteforcer",
+    "forks_count": 5,
+    "html_url": "https://github.com/3mrgnc3/LFIter2",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "LFIter2",
+    "repo_owner": "3mrgnc3",
+    "repotime": "2016-11-11, 21:24:54",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 3,
+    "date_started": "2016-11-11",
+    "date_updated": "2016-11-10",
+    "description": "Based on PoC enigma0x3.net",
+    "forks_count": 2,
+    "html_url": "https://github.com/fudmario/Bypass-UAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Visual Basic",
+    "repo_name": "Bypass-UAC",
+    "repo_owner": "fudmario",
+    "repotime": "2016-11-10, 23:17:23",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 78,
+    "date_started": "2012-08-10",
+    "date_updated": "2016-11-08",
+    "description": "interprocess code injection for Mac OS X",
+    "forks_count": 160,
+    "html_url": "https://github.com/rentzsch/mach_inject",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "mach_inject",
+    "repo_owner": "rentzsch",
+    "repotime": "2016-11-08, 09:21:39",
+    "stargazers_count": 780,
+    "watchers_count": 780
+}
+{
+    "commits_count": 4,
+    "date_started": "2016-11-03",
+    "date_updated": "2016-11-03",
+    "description": "ROP based Movfuscator VM",
+    "forks_count": 14,
+    "html_url": "https://github.com/FSecureLABS/avrop",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Assembly",
+    "repo_name": "avrop",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2016-11-03, 16:05:32",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 17,
+    "date_started": "2016-10-30",
+    "date_updated": "2016-11-01",
+    "description": "<no description>",
+    "forks_count": 8,
+    "html_url": "https://github.com/black-bunny/LinKern-x86_64-bypass-SMEP-KASLR-kptr_restric",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C",
+    "repo_name": "LinKern-x86_64-bypass-SMEP-KASLR-kptr_restric",
+    "repo_owner": "black-bunny",
+    "repotime": "2016-11-01, 19:57:06",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
