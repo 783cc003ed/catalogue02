@@ -6,7 +6,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/Ryan-T-Bell/Gitstack-RCE",
     "keywords": [
-        "unauthenticated remote code execution"
+        "unauthenticated remote code execution",
+        "unauthenticated rce"
     ],
     "language": "Python",
     "repo_name": "Gitstack-RCE",
@@ -102,6 +103,23 @@
     "watchers_count": 3686
 }
 {
+    "commits_count": 11,
+    "date_started": "2023-06-23",
+    "date_updated": "2023-06-29",
+    "description": "An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE",
+    "forks_count": 3,
+    "html_url": "https://github.com/MikeTheHash/CVE-2018-5955",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-5955",
+    "repo_owner": "MikeTheHash",
+    "repotime": "2023-06-29, 23:12:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 18,
     "date_started": "2023-06-21",
     "date_updated": "2023-06-29",
@@ -123,7 +141,7 @@
     "date_started": "2023-06-29",
     "date_updated": "2023-06-29",
     "description": "Linux kernel LPE practice with an NPD vulnerability",
-    "forks_count": 4,
+    "forks_count": 6,
     "html_url": "https://github.com/TurtleARM/CVE-2023-3338",
     "keywords": [
         "lpe vulnerability"
@@ -132,8 +150,8 @@
     "repo_name": "CVE-2023-3338",
     "repo_owner": "TurtleARM",
     "repotime": "2023-06-29, 17:12:43",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 10203,
@@ -444,23 +462,6 @@
     "repotime": "2023-06-24, 00:02:46",
     "stargazers_count": 5430,
     "watchers_count": 5430
-}
-{
-    "commits_count": 7,
-    "date_started": "2023-06-23",
-    "date_updated": "2023-06-23",
-    "description": "An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE",
-    "forks_count": 3,
-    "html_url": "https://github.com/MikeTheHash/CVE-2018-5955",
-    "keywords": [
-        "unauthenticated rce"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2018-5955",
-    "repo_owner": "MikeTheHash",
-    "repotime": "2023-06-23, 21:56:08",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 15,
