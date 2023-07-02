@@ -192,7 +192,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2023-06-29",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 5318,
+    "forks_count": 5319,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -201,8 +201,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2023-06-29, 15:51:25",
-    "stargazers_count": 27391,
-    "watchers_count": 27391
+    "stargazers_count": 27402,
+    "watchers_count": 27402
 }
 {
     "commits_count": 10,
@@ -893,7 +893,7 @@
     "date_started": "2023-02-15",
     "date_updated": "2023-06-18",
     "description": "Write-up for another forgotten Windows vulnerability (0day): Microsoft Windows Contacts (VCF/Contact/LDAP) syslink control href attribute escape, which was not fully fixed as CVE-2022-44666 in the patches released on December, 2022.",
-    "forks_count": 21,
+    "forks_count": 22,
     "html_url": "https://github.com/j00sean/CVE-2022-44666",
     "keywords": [
         "Microsoft 0day",
@@ -1190,8 +1190,8 @@
     "repo_name": "HBSQLI",
     "repo_owner": "SAPT01",
     "repotime": "2023-06-14, 21:48:38",
-    "stargazers_count": 135,
-    "watchers_count": 135
+    "stargazers_count": 137,
+    "watchers_count": 137
 }
 {
     "commits_count": 9,
@@ -1450,8 +1450,8 @@
     "repo_name": "CVE-2023-25157",
     "repo_owner": "win3zz",
     "repotime": "2023-06-08, 14:35:21",
-    "stargazers_count": 110,
-    "watchers_count": 110
+    "stargazers_count": 111,
+    "watchers_count": 111
 }
 {
     "commits_count": 2,
@@ -1803,23 +1803,6 @@
     "repotime": "2023-06-04, 14:36:19",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 101,
-    "date_started": "2022-07-27",
-    "date_updated": "2023-06-04",
-    "description": "Simple python script supported with BurpBouty profile that helps you to detect SQL injection &amp;quot;Error based&amp;quot; by sending multiple requests with 14 payloads and checking for 152 regex patterns for different databases.",
-    "forks_count": 95,
-    "html_url": "https://github.com/eslam3kl/SQLiDetector",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "BlitzBasic",
-    "repo_name": "SQLiDetector",
-    "repo_owner": "eslam3kl",
-    "repotime": "2023-06-04, 02:45:18",
-    "stargazers_count": 500,
-    "watchers_count": 500
 }
 {
     "commits_count": 3,
