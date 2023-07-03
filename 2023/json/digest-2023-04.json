@@ -136,6 +136,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 2,
+    "date_started": "2023-04-28",
+    "date_updated": "2023-04-28",
+    "description": "FineReport channel Deserialization Vulnerabilities RCE",
+    "forks_count": 2,
+    "html_url": "https://github.com/Avento/FineReport_channel_Deserialization_Vulnerabilities_RCE",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "FineReport_channel_Deserialization_Vulnerabilities_RCE",
+    "repo_owner": "Avento",
+    "repotime": "2023-04-28, 18:11:48",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
     "commits_count": 7,
     "date_started": "2022-01-25",
     "date_updated": "2023-04-27",
@@ -174,7 +191,7 @@
     "date_started": "2023-04-06",
     "date_updated": "2023-04-27",
     "description": "GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept)",
-    "forks_count": 2,
+    "forks_count": 3,
     "html_url": "https://github.com/Avento/CVE-2023-0669",
     "keywords": [
         "rce proof of concept"
