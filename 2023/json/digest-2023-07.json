@@ -16,6 +16,23 @@
     "watchers_count": 603
 }
 {
+    "commits_count": 2,
+    "date_started": "2023-06-22",
+    "date_updated": "2023-07-03",
+    "description": "CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c. ",
+    "forks_count": 2,
+    "html_url": "https://github.com/ChriSanders22/CVE-2023-35829-poc",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2023-35829-poc",
+    "repo_owner": "ChriSanders22",
+    "repotime": "2023-07-03, 15:16:04",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
     "commits_count": 631,
     "date_started": "2013-06-25",
     "date_updated": "2023-07-03",
