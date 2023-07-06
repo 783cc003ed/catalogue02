@@ -914,7 +914,7 @@
     "date_started": "2021-11-10",
     "date_updated": "2021-11-09",
     "description": "PHPMailer PHPMailer – A full-featured email creation and transfer class for PHP Test status codecov.io Latest Stable Version Total Downloads License API Docs  Features Probably the world's most popular code for sending email from PHP! Used by many open-source projects: WordPress, Drupal, 1CRM, SugarCRM, Yii, Joomla! and many more Integrated SMTP support – send without a local mail server Send emails with multiple To, CC, BCC and Reply-to addresses Multipart/alternative emails for mail clients that do not read HTML email Add attachments, including inline Support for UTF-8 content and 8bit, base64, binary, and quoted-printable encodings SMTP authentication with LOGIN, PLAIN, CRAM-MD5, and XOAUTH2 mechanisms over SMTPS and SMTP+STARTTLS transports Validates email addresses automatically Protects against header injection attacks Error messages in over 50 languages! DKIM and S/MIME signing support Compatible with PHP 5.5 and later, including PHP 8.1 Namespaced to prevent name clashes Much m...",
-    "forks_count": 6,
+    "forks_count": 7,
     "html_url": "https://github.com/MateusNobreSilva/app_send_mail",
     "keywords": [
         "hard coded password"
