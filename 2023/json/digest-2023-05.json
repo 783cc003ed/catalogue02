@@ -64,8 +64,8 @@
     "repo_name": "main",
     "repo_owner": "phprouter",
     "repotime": "2023-05-30, 11:30:34",
-    "stargazers_count": 380,
-    "watchers_count": 380
+    "stargazers_count": 382,
+    "watchers_count": 382
 }
 {
     "commits_count": 1,
@@ -293,8 +293,8 @@
     "repo_name": "srdi-rs",
     "repo_owner": "memN0ps",
     "repotime": "2023-05-27, 15:11:51",
-    "stargazers_count": 240,
-    "watchers_count": 240
+    "stargazers_count": 242,
+    "watchers_count": 242
 }
 {
     "commits_count": 10,
@@ -444,8 +444,8 @@
     "repo_name": "NlsCodeInjectionThroughRegistry",
     "repo_owner": "NtQuerySystemInformation",
     "repotime": "2023-05-23, 15:44:15",
-    "stargazers_count": 118,
-    "watchers_count": 118
+    "stargazers_count": 119,
+    "watchers_count": 119
 }
 {
     "commits_count": 7,
@@ -1256,7 +1256,7 @@
     "date_started": "2022-05-08",
     "date_updated": "2023-05-07",
     "description": "An XSS exploitation command-line interface and payload generator.",
-    "forks_count": 146,
+    "forks_count": 147,
     "html_url": "https://github.com/t3l3machus/toxssin",
     "keywords": [
         "xss"
@@ -1265,8 +1265,8 @@
     "repo_name": "toxssin",
     "repo_owner": "t3l3machus",
     "repotime": "2023-05-07, 17:25:58",
-    "stargazers_count": 1019,
-    "watchers_count": 1019
+    "stargazers_count": 1021,
+    "watchers_count": 1021
 }
 {
     "commits_count": 13,
@@ -1621,4 +1621,21 @@
     "repotime": "2023-05-01, 19:07:01",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 34,
+    "date_started": "2023-04-30",
+    "date_updated": "2023-05-01",
+    "description": "GregsBestFriend process injection code created from the White Knight Labs Offensive Development course",
+    "forks_count": 19,
+    "html_url": "https://github.com/WKL-Sec/GregsBestFriend",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "GregsBestFriend",
+    "repo_owner": "WKL-Sec",
+    "repotime": "2023-05-01, 07:08:58",
+    "stargazers_count": 92,
+    "watchers_count": 92
 }
