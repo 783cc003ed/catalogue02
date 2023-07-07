@@ -758,24 +758,6 @@
     "watchers_count": 59
 }
 {
-    "commits_count": 205,
-    "date_started": "2022-09-03",
-    "date_updated": "2023-05-15",
-    "description": "Tests URLs for Local File Inclusion (LFI), Remote File Inclusion (RFI),   SQL injection (SQLi), and Cross Site Scripting (XSS), Server Side Template Injection (SSTI), and Open Redirects.",
-    "forks_count": 7,
-    "html_url": "https://github.com/ronin-rb/ronin-vulns",
-    "keywords": [
-        "local file inclusion",
-        "cross-side-scripting"
-    ],
-    "language": "Ruby",
-    "repo_name": "ronin-vulns",
-    "repo_owner": "ronin-rb",
-    "repotime": "2023-05-15, 21:47:01",
-    "stargazers_count": 41,
-    "watchers_count": 41
-}
-{
     "commits_count": 89,
     "date_started": "2021-05-26",
     "date_updated": "2023-05-15",
