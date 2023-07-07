@@ -1,4 +1,38 @@
 {
+    "commits_count": 829,
+    "date_started": "2012-07-18",
+    "date_updated": "2023-07-07",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 400,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2023-07-07, 05:49:05",
+    "stargazers_count": 1247,
+    "watchers_count": 1247
+}
+{
+    "commits_count": 43,
+    "date_started": "2023-07-05",
+    "date_updated": "2023-07-07",
+    "description": "The Common Vulnerabilities Exposures (CVE) Database",
+    "forks_count": 0,
+    "html_url": "https://github.com/justakazh/CVE_Database",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE_Database",
+    "repo_owner": "justakazh",
+    "repotime": "2023-07-07, 07:16:13",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 558,
     "date_started": "2022-03-19",
     "date_updated": "2023-07-07",
@@ -18,6 +52,23 @@
     "watchers_count": 541
 }
 {
+    "commits_count": 22,
+    "date_started": "2023-06-25",
+    "date_updated": "2023-07-06",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/a-r-a-d-e-m-m/Responding_to_a_Zero-Day_Vulnerability",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Responding_to_a_Zero-Day_Vulnerability",
+    "repo_owner": "a-r-a-d-e-m-m",
+    "repotime": "2023-07-06, 23:30:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 7,
     "date_started": "2023-06-29",
     "date_updated": "2023-07-06",
@@ -33,6 +84,23 @@
     "repotime": "2023-07-06, 11:21:12",
     "stargazers_count": 19,
     "watchers_count": 19
+}
+{
+    "commits_count": 10204,
+    "date_started": "2012-06-26",
+    "date_updated": "2023-07-06",
+    "description": "Automatic SQL injection and database takeover tool",
+    "forks_count": 5326,
+    "html_url": "https://github.com/sqlmapproject/sqlmap",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlmap",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2023-07-06, 10:43:43",
+    "stargazers_count": 27446,
+    "watchers_count": 27446
 }
 {
     "commits_count": 966,
@@ -69,6 +137,40 @@
     "watchers_count": 43
 }
 {
+    "commits_count": 103,
+    "date_started": "2019-04-19",
+    "date_updated": "2023-07-05",
+    "description": "Top disclosed reports from HackerOne",
+    "forks_count": 481,
+    "html_url": "https://github.com/reddelexc/hackerone-reports",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "hackerone-reports",
+    "repo_owner": "reddelexc",
+    "repotime": "2023-07-05, 15:48:02",
+    "stargazers_count": 2246,
+    "watchers_count": 2246
+}
+{
+    "commits_count": 187,
+    "date_started": "2018-02-27",
+    "date_updated": "2023-07-05",
+    "description": "SQL injection protection module",
+    "forks_count": 62,
+    "html_url": "https://github.com/nearform/sql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sql",
+    "repo_owner": "nearform",
+    "repotime": "2023-07-05, 16:17:17",
+    "stargazers_count": 201,
+    "watchers_count": 201
+}
+{
     "commits_count": 1062,
     "date_started": "2020-06-02",
     "date_updated": "2023-07-05",
@@ -84,6 +186,23 @@
     "repotime": "2023-07-05, 22:15:29",
     "stargazers_count": 1196,
     "watchers_count": 1196
+}
+{
+    "commits_count": 215,
+    "date_started": "2018-12-19",
+    "date_updated": "2023-07-05",
+    "description": "TypeScript clients for databases that prevent SQL Injection",
+    "forks_count": 47,
+    "html_url": "https://github.com/ForbesLindesay/atdatabases",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "TypeScript",
+    "repo_name": "atdatabases",
+    "repo_owner": "ForbesLindesay",
+    "repotime": "2023-07-05, 10:14:05",
+    "stargazers_count": 543,
+    "watchers_count": 543
 }
 {
     "commits_count": 314,
@@ -370,6 +489,23 @@
     "watchers_count": 1087
 }
 {
+    "commits_count": 107,
+    "date_started": "2022-10-01",
+    "date_updated": "2023-07-03",
+    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
+    "forks_count": 153,
+    "html_url": "https://github.com/r0oth3x49/ghauri",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "ghauri",
+    "repo_owner": "r0oth3x49",
+    "repotime": "2023-07-03, 16:33:07",
+    "stargazers_count": 1259,
+    "watchers_count": 1259
+}
+{
     "commits_count": 631,
     "date_started": "2013-06-25",
     "date_updated": "2023-07-03",
@@ -417,6 +553,6 @@
     "repo_name": "SQLiDetector",
     "repo_owner": "eslam3kl",
     "repotime": "2023-07-02, 02:39:48",
-    "stargazers_count": 500,
-    "watchers_count": 500
+    "stargazers_count": 501,
+    "watchers_count": 501
 }
