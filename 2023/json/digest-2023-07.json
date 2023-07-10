@@ -1,4 +1,21 @@
 {
+    "commits_count": 1121,
+    "date_started": "2018-11-07",
+    "date_updated": "2023-07-10",
+    "description": "Dependency injection via APT (source code generation) ala &amp;quot;Server side Dagger DI&amp;quot;",
+    "forks_count": 17,
+    "html_url": "https://github.com/avaje/avaje-inject",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "avaje-inject",
+    "repo_owner": "avaje",
+    "repotime": "2023-07-10, 15:10:30",
+    "stargazers_count": 144,
+    "watchers_count": 144
+}
+{
     "commits_count": 337,
     "date_started": "2017-08-24",
     "date_updated": "2023-07-09",
@@ -31,6 +48,23 @@
     "repotime": "2023-07-08, 02:29:30",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 1544,
+    "date_started": "2019-09-10",
+    "date_updated": "2023-07-08",
+    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
+    "forks_count": 219,
+    "html_url": "https://github.com/smart-doc-group/smart-doc",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "smart-doc",
+    "repo_owner": "smart-doc-group",
+    "repotime": "2023-07-08, 11:30:02",
+    "stargazers_count": 1093,
+    "watchers_count": 1093
 }
 {
     "commits_count": 840,
@@ -121,23 +155,6 @@
     "watchers_count": 541
 }
 {
-    "commits_count": 1541,
-    "date_started": "2019-09-10",
-    "date_updated": "2023-07-08",
-    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
-    "forks_count": 218,
-    "html_url": "https://github.com/smart-doc-group/smart-doc",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Java",
-    "repo_name": "smart-doc",
-    "repo_owner": "smart-doc-group",
-    "repotime": "2023-07-08, 02:15:42",
-    "stargazers_count": 1090,
-    "watchers_count": 1090
-}
-{
     "commits_count": 19,
     "date_started": "2023-04-06",
     "date_updated": "2023-07-07",
@@ -221,23 +238,6 @@
     "repotime": "2023-07-07, 14:15:28",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 1117,
-    "date_started": "2018-11-07",
-    "date_updated": "2023-07-07",
-    "description": "Dependency injection via APT (source code generation) ala &amp;quot;Server side Dagger DI&amp;quot;",
-    "forks_count": 17,
-    "html_url": "https://github.com/avaje/avaje-inject",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Java",
-    "repo_name": "avaje-inject",
-    "repo_owner": "avaje",
-    "repotime": "2023-07-07, 17:53:12",
-    "stargazers_count": 142,
-    "watchers_count": 142
 }
 {
     "commits_count": 12,
@@ -372,8 +372,8 @@
     "repo_name": "VContainer",
     "repo_owner": "hadashiA",
     "repotime": "2023-07-05, 22:15:29",
-    "stargazers_count": 1199,
-    "watchers_count": 1199
+    "stargazers_count": 1204,
+    "watchers_count": 1204
 }
 {
     "commits_count": 215,
