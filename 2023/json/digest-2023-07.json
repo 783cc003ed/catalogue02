@@ -103,6 +103,23 @@
     "watchers_count": 6
 }
 {
+    "commits_count": 71,
+    "date_started": "2022-12-01",
+    "date_updated": "2023-07-09",
+    "description": "FIshShell is a multi-session handler and Windows &amp;amp; Linux backdoor payload generator. It allows users\\targets to connect to the server (other machines running the multi-handler)  after which the server admin/attacker can join sessions and also get a non-interactive reverse shell.",
+    "forks_count": 1,
+    "html_url": "https://github.com/TriDEntApollO/FishShell",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "FishShell",
+    "repo_owner": "TriDEntApollO",
+    "repotime": "2023-07-09, 23:16:58",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
     "commits_count": 337,
     "date_started": "2017-08-24",
     "date_updated": "2023-07-09",

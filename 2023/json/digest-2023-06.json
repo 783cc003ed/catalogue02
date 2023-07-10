@@ -243,7 +243,7 @@
     "date_started": "2022-01-08",
     "date_updated": "2023-06-26",
     "description": "a burp extension which creates dynamic payloads to reveal injection flaws(LFI, RCE, SQLi), generates user access tables to spot authentication/authorization issues, and copy Http requests as JavaScript code.",
-    "forks_count": 58,
+    "forks_count": 59,
     "html_url": "https://github.com/volkandindar/agartha",
     "keywords": [
         "lfi",
@@ -253,8 +253,8 @@
     "repo_name": "agartha",
     "repo_owner": "volkandindar",
     "repotime": "2023-06-26, 15:21:30",
-    "stargazers_count": 286,
-    "watchers_count": 286
+    "stargazers_count": 287,
+    "watchers_count": 287
 }
 {
     "commits_count": 21,
@@ -398,8 +398,8 @@
     "repo_name": "Exploit-Development",
     "repo_owner": "VoidSec",
     "repotime": "2023-06-22, 22:49:44",
-    "stargazers_count": 163,
-    "watchers_count": 163
+    "stargazers_count": 164,
+    "watchers_count": 164
 }
 {
     "commits_count": 15,
@@ -1405,23 +1405,6 @@
     "repotime": "2023-06-05, 11:37:50",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 68,
-    "date_started": "2022-12-01",
-    "date_updated": "2023-06-05",
-    "description": "FIshShell is a multi-session handler and Windows &amp;amp; Linux backdoor payload generator. It allows users\\targets to connect to the server (other machines running the multi-handler)  after which the server admin/attacker can join sessions and also get a non-interactive reverse shell.",
-    "forks_count": 1,
-    "html_url": "https://github.com/TriDEntApollO/FishShell",
-    "keywords": [
-        "session attack"
-    ],
-    "language": "Python",
-    "repo_name": "FishShell",
-    "repo_owner": "TriDEntApollO",
-    "repotime": "2023-06-05, 17:06:40",
-    "stargazers_count": 4,
-    "watchers_count": 4
 }
 {
     "commits_count": 8,
