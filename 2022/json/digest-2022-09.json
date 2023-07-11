@@ -1073,23 +1073,6 @@
 }
 {
     "commits_count": 26,
-    "date_started": "2023-04-25",
-    "date_updated": "2022-09-19",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/GrayHatZone/CVE-2022-37706-LPE-exploit",
-    "keywords": [
-        "lpe exploit"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2022-37706-LPE-exploit",
-    "repo_owner": "GrayHatZone",
-    "repotime": "2022-09-19, 20:41:34",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 26,
     "date_started": "2022-09-12",
     "date_updated": "2022-09-19",
     "description": "A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04)",
@@ -1105,6 +1088,23 @@
     "repotime": "2022-09-19, 20:41:34",
     "stargazers_count": 214,
     "watchers_count": 214
+}
+{
+    "commits_count": 26,
+    "date_started": "2023-04-25",
+    "date_updated": "2022-09-19",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/GrayHatZone/CVE-2022-37706-LPE-exploit",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2022-37706-LPE-exploit",
+    "repo_owner": "GrayHatZone",
+    "repotime": "2022-09-19, 20:41:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 36,
@@ -1861,8 +1861,8 @@
     "repo_name": "SQL-injection-bypass",
     "repo_owner": "Junehck",
     "repotime": "2022-09-07, 21:03:02",
-    "stargazers_count": 539,
-    "watchers_count": 539
+    "stargazers_count": 540,
+    "watchers_count": 540
 }
 {
     "commits_count": 3,
@@ -2205,8 +2205,8 @@
     "repo_name": "Advanced-SQL-Injection-Cheatsheet",
     "repo_owner": "kleiton0x00",
     "repotime": "2022-09-04, 17:36:34",
-    "stargazers_count": 2165,
-    "watchers_count": 2165
+    "stargazers_count": 2166,
+    "watchers_count": 2166
 }
 {
     "commits_count": 16,
