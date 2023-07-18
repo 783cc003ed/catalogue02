@@ -982,7 +982,7 @@
     "date_started": "2016-06-16",
     "date_updated": "2022-07-14",
     "description": "🇺🇦 Windows driver with usermode interface which can hide processes, file-system and registry objects, protect processes and etc",
-    "forks_count": 451,
+    "forks_count": 452,
     "html_url": "https://github.com/JKornev/hidden",
     "keywords": [
         "Windows rce"
@@ -991,8 +991,8 @@
     "repo_name": "hidden",
     "repo_owner": "JKornev",
     "repotime": "2022-07-14, 00:48:44",
-    "stargazers_count": 1402,
-    "watchers_count": 1402
+    "stargazers_count": 1405,
+    "watchers_count": 1405
 }
 {
     "commits_count": 1,
@@ -1380,6 +1380,23 @@
     "repotime": "2022-07-10, 00:18:22",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-07-10",
+    "date_updated": "2022-07-10",
+    "description": "Heap-based buffer overflow in aswRdr.sys (aka the TDI RDR driver) in avast! Home and Professional 4.8.1356.0 allows local users to cause a denial of service (memory corruption) or possibly gain privileges via crafted arguments to IOCTL 0x80002024.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fengjixuchui/CVE-2009-4049",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2009-4049",
+    "repo_owner": "fengjixuchui",
+    "repotime": "2022-07-10, 00:18:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 11,
