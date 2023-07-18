@@ -1,7 +1,7 @@
 {
-    "commits_count": 333,
+    "commits_count": 340,
     "date_started": "2022-12-04",
-    "date_updated": "2023-07-16",
+    "date_updated": "2023-07-17",
     "description": "Documentation of strategies and methods for the OSCP exam ranging from target enumeration, vulnerability assessment, exploits, to privilege escalation.",
     "forks_count": 1,
     "html_url": "https://github.com/Kwangyun/Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
@@ -13,7 +13,7 @@
     "language": null,
     "repo_name": "Pen-Test-Guidebook-Cheatsheet-OSCP-Preperation-",
     "repo_owner": "Kwangyun",
-    "repotime": "2023-07-16, 17:32:34",
+    "repotime": "2023-07-17, 17:33:51",
     "stargazers_count": 6,
     "watchers_count": 6
 }
@@ -35,6 +35,23 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 16,
+    "date_started": "2022-08-18",
+    "date_updated": "2023-07-16",
+    "description": "Hijack the Google Message Web session using QRPhishing",
+    "forks_count": 0,
+    "html_url": "https://github.com/chitranjan-gupta/QRPhishing",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "JavaScript",
+    "repo_name": "QRPhishing",
+    "repo_owner": "chitranjan-gupta",
+    "repotime": "2023-07-16, 12:01:58",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 1069,
     "date_started": "2012-07-18",
     "date_updated": "2023-07-16",
@@ -52,6 +69,23 @@
     "watchers_count": 1254
 }
 {
+    "commits_count": 3,
+    "date_started": "2023-07-15",
+    "date_updated": "2023-07-16",
+    "description": "DirTravScan - A tool for automated detection of directory traversal vulnerabilities in web applications. Using an extensive list of payloads, potential vulnerabilities are identified to detect and fix security vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/THMethical/DirTravScan",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "DirTravScan",
+    "repo_owner": "THMethical",
+    "repotime": "2023-07-16, 01:03:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 22,
     "date_started": "2023-07-12",
     "date_updated": "2023-07-15",
@@ -67,6 +101,42 @@
     "repotime": "2023-07-15, 04:47:59",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-05-10",
+    "date_updated": "2023-07-14",
+    "description": "CVE-2008-5862: Directory traversal vulnerability in webcamXP 5.3.2.375 and 5.3.2.410 build 2132 allows remote attackers to read arbitrary files via a ..%2F (encoded dot dot slash) in the URI.",
+    "forks_count": 2,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2008-5862-EXPLOIT",
+    "keywords": [
+        "directory traversal attack",
+        "directory traversal vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2008-5862-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2023-07-14, 07:12:08",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-05-06",
+    "date_updated": "2023-07-14",
+    "description": "Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT",
+    "keywords": [
+        "directory traversal vulnerability",
+        "directory traversal attack"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2021-41773-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2023-07-14, 06:57:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 1064,
@@ -103,6 +173,23 @@
     "watchers_count": 2392
 }
 {
+    "commits_count": 14,
+    "date_started": "2022-11-14",
+    "date_updated": "2023-07-14",
+    "description": "0day vulnerabilities and their CVEs - which are discovered by our team",
+    "forks_count": 0,
+    "html_url": "https://github.com/HVLRED/Security-Research",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Security-Research",
+    "repo_owner": "HVLRED",
+    "repotime": "2023-07-14, 08:30:59",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 976,
     "date_started": "2022-06-20",
     "date_updated": "2023-07-14",
@@ -137,6 +224,23 @@
     "repotime": "2023-07-14, 00:11:56",
     "stargazers_count": 545,
     "watchers_count": 545
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-06-23",
+    "date_updated": "2023-07-13",
+    "description": "An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE",
+    "forks_count": 3,
+    "html_url": "https://github.com/MikeTheHash/CVE-2018-5955",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-5955",
+    "repo_owner": "MikeTheHash",
+    "repotime": "2023-07-13, 22:14:43",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 221,
@@ -333,23 +437,6 @@
     "repotime": "2023-07-11, 22:37:53",
     "stargazers_count": 4,
     "watchers_count": 4
-}
-{
-    "commits_count": 13,
-    "date_started": "2023-06-23",
-    "date_updated": "2023-07-12",
-    "description": "An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE",
-    "forks_count": 3,
-    "html_url": "https://github.com/MikeTheHash/CVE-2018-5955",
-    "keywords": [
-        "unauthenticated rce"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2018-5955",
-    "repo_owner": "MikeTheHash",
-    "repotime": "2023-07-12, 00:35:10",
-    "stargazers_count": 2,
-    "watchers_count": 2
 }
 {
     "commits_count": 8,

@@ -710,7 +710,7 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 1173,
+    "commits_count": 1174,
     "date_started": "2020-06-03",
     "date_updated": "2023-06-16",
     "description": "ssh mitm server for security audits supporting public key authentication, session hijacking and file manipulation",
@@ -749,7 +749,7 @@
     "date_started": "2023-06-16",
     "date_updated": "2023-06-16",
     "description": "This is a Python script for automating checks for a particular WordPress Remote Code Execution (RCE) vulnerability. It reads a list of URLs from a file, attempts to exploit the vulnerability, and if successful, uploads a web shell to the server.",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/abuzer06/Wordpress_remote_code_execution_by_Abu",
     "keywords": [
         "remote code execution vulnerability"
@@ -958,7 +958,7 @@
     "date_started": "2023-06-12",
     "date_updated": "2023-06-13",
     "description": "CVE-2023-34362: MOVEit Transfer Unauthenticated RCE",
-    "forks_count": 23,
+    "forks_count": 24,
     "html_url": "https://github.com/sfewer-r7/CVE-2023-34362",
     "keywords": [
         "unauthenticated rce"
@@ -967,8 +967,8 @@
     "repo_name": "CVE-2023-34362",
     "repo_owner": "sfewer-r7",
     "repotime": "2023-06-13, 09:44:49",
-    "stargazers_count": 58,
-    "watchers_count": 58
+    "stargazers_count": 59,
+    "watchers_count": 59
 }
 {
     "commits_count": 3,
@@ -1569,8 +1569,8 @@
     "repo_name": "CVE-2023-2825",
     "repo_owner": "Occamsec",
     "repotime": "2023-06-02, 13:10:06",
-    "stargazers_count": 133,
-    "watchers_count": 133
+    "stargazers_count": 134,
+    "watchers_count": 134
 }
 {
     "commits_count": 5,
