@@ -303,7 +303,7 @@
     "date_started": "2018-03-11",
     "date_updated": "2023-01-31",
     "description": "Awesome XSS stuff",
-    "forks_count": 754,
+    "forks_count": 755,
     "html_url": "https://github.com/s0md3v/AwesomeXSS",
     "keywords": [
         "xss"
@@ -312,8 +312,8 @@
     "repo_name": "AwesomeXSS",
     "repo_owner": "s0md3v",
     "repotime": "2023-01-31, 16:07:13",
-    "stargazers_count": 4445,
-    "watchers_count": 4445
+    "stargazers_count": 4446,
+    "watchers_count": 4446
 }
 {
     "commits_count": 2,
@@ -1703,6 +1703,23 @@
     "repotime": "2023-01-24, 18:40:38",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 460,
+    "date_started": "2018-12-07",
+    "date_updated": "2023-01-24",
+    "description": "A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.",
+    "forks_count": 240,
+    "html_url": "https://github.com/TH3xACE/SUDO_KILLER",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "SUDO_KILLER",
+    "repo_owner": "TH3xACE",
+    "repotime": "2023-01-24, 17:10:10",
+    "stargazers_count": 1935,
+    "watchers_count": 1935
 }
 {
     "commits_count": 2,
@@ -5064,8 +5081,8 @@
     "repo_name": "XSS-Payloads",
     "repo_owner": "RenwaX23",
     "repotime": "2023-01-02, 10:56:27",
-    "stargazers_count": 1008,
-    "watchers_count": 1008
+    "stargazers_count": 1009,
+    "watchers_count": 1009
 }
 {
     "commits_count": 6,
