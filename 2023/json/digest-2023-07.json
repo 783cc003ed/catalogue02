@@ -157,6 +157,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 13,
+    "date_started": "2022-05-03",
+    "date_updated": "2023-07-18",
+    "description": "Lesson plan with demo application detailing exploitation of server-side template injection to achieve remote-code execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/limsammy/flask-rce-ssti-poc-lesson",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "flask-rce-ssti-poc-lesson",
+    "repo_owner": "limsammy",
+    "repotime": "2023-07-18, 17:30:30",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 1143,
     "date_started": "2018-11-07",
     "date_updated": "2023-07-19",
@@ -172,6 +189,24 @@
     "repotime": "2023-07-19, 07:53:21",
     "stargazers_count": 147,
     "watchers_count": 147
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-04-22",
+    "date_updated": "2023-07-19",
+    "description": "Umbraco CMS 7.12.4 - (Authenticated) Remote Code Execution",
+    "forks_count": 2,
+    "html_url": "https://github.com/Jonoans/Umbraco-RCE",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Umbraco-RCE",
+    "repo_owner": "Jonoans",
+    "repotime": "2023-07-19, 02:11:58",
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 1,
