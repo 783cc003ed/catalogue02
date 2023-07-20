@@ -106,6 +106,23 @@
     "watchers_count": 1567
 }
 {
+    "commits_count": 71,
+    "date_started": "2023-06-06",
+    "date_updated": "2023-07-19",
+    "description": "Our objective is to update the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups",
+    "forks_count": 0,
+    "html_url": "https://github.com/IRB0T/IOC",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "IOC",
+    "repo_owner": "IRB0T",
+    "repotime": "2023-07-19, 10:58:05",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 3,
     "date_started": "2023-07-19",
     "date_updated": "2023-07-19",
@@ -165,7 +182,8 @@
     "html_url": "https://github.com/PunGrumpy/zero-day-exploit-hands-on",
     "keywords": [
         "zero-day exploitation",
-        "zero-day exploit"
+        "zero-day exploit",
+        "zero-day vulnerability"
     ],
     "language": null,
     "repo_name": "zero-day-exploit-hands-on",
@@ -173,6 +191,40 @@
     "repotime": "2023-07-19, 00:37:05",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-04-17",
+    "date_updated": "2023-07-18",
+    "description": "Trophy list of zero-day vulnerabilities discovered by Skinny R&amp;amp;D members",
+    "forks_count": 0,
+    "html_url": "https://github.com/skinnyrad/Trophies",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Trophies",
+    "repo_owner": "skinnyrad",
+    "repotime": "2023-07-18, 10:05:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 37,
+    "date_started": "2022-07-01",
+    "date_updated": "2023-07-18",
+    "description": "Trophy list of zero-day vulnerabilities that I discovered",
+    "forks_count": 0,
+    "html_url": "https://github.com/Halcy0nic/Trophies",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Trophies",
+    "repo_owner": "Halcy0nic",
+    "repotime": "2023-07-18, 10:05:33",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 157,
@@ -208,23 +260,6 @@
     "repotime": "2023-07-18, 15:25:51",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 70,
-    "date_started": "2023-06-06",
-    "date_updated": "2023-07-18",
-    "description": "Our objective is to update the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups",
-    "forks_count": 0,
-    "html_url": "https://github.com/IRB0T/IOC",
-    "keywords": [
-        "zero-day vulnerability"
-    ],
-    "language": null,
-    "repo_name": "IOC",
-    "repo_owner": "IRB0T",
-    "repotime": "2023-07-18, 11:50:24",
-    "stargazers_count": 2,
-    "watchers_count": 2
 }
 {
     "commits_count": 1549,
@@ -632,28 +667,11 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 6,
-    "date_started": "2023-04-17",
-    "date_updated": "2023-07-10",
-    "description": "Trophy list of zero-day vulnerabilities discovered by Skinny R&amp;amp;D members",
-    "forks_count": 0,
-    "html_url": "https://github.com/skinnyrad/Trophies",
-    "keywords": [
-        "zero-day vulnerability"
-    ],
-    "language": null,
-    "repo_name": "Trophies",
-    "repo_owner": "skinnyrad",
-    "repotime": "2023-07-10, 19:46:23",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 112,
     "date_started": "2022-10-01",
     "date_updated": "2023-07-11",
     "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
-    "forks_count": 158,
+    "forks_count": 159,
     "html_url": "https://github.com/r0oth3x49/ghauri",
     "keywords": [
         "sql injection"
@@ -662,8 +680,8 @@
     "repo_name": "ghauri",
     "repo_owner": "r0oth3x49",
     "repotime": "2023-07-11, 02:03:54",
-    "stargazers_count": 1289,
-    "watchers_count": 1289
+    "stargazers_count": 1295,
+    "watchers_count": 1295
 }
 {
     "commits_count": 1154,
@@ -1036,7 +1054,7 @@
     "date_started": "2018-12-19",
     "date_updated": "2023-07-05",
     "description": "TypeScript clients for databases that prevent SQL Injection",
-    "forks_count": 47,
+    "forks_count": 48,
     "html_url": "https://github.com/ForbesLindesay/atdatabases",
     "keywords": [
         "sql injection"
@@ -1045,8 +1063,8 @@
     "repo_name": "atdatabases",
     "repo_owner": "ForbesLindesay",
     "repotime": "2023-07-05, 10:14:05",
-    "stargazers_count": 547,
-    "watchers_count": 547
+    "stargazers_count": 548,
+    "watchers_count": 548
 }
 {
     "commits_count": 7,
@@ -1144,23 +1162,6 @@
     "watchers_count": 43
 }
 {
-    "commits_count": 36,
-    "date_started": "2022-07-01",
-    "date_updated": "2023-07-03",
-    "description": "Trophy list of zero-day vulnerabilities that I discovered",
-    "forks_count": 0,
-    "html_url": "https://github.com/Halcy0nic/Trophies",
-    "keywords": [
-        "zero-day vulnerability"
-    ],
-    "language": null,
-    "repo_name": "Trophies",
-    "repo_owner": "Halcy0nic",
-    "repotime": "2023-07-03, 17:43:29",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
     "commits_count": 577,
     "date_started": "2015-03-12",
     "date_updated": "2023-07-03",
@@ -1242,6 +1243,6 @@
     "repo_name": "SQLiDetector",
     "repo_owner": "eslam3kl",
     "repotime": "2023-07-02, 02:39:48",
-    "stargazers_count": 504,
-    "watchers_count": 504
+    "stargazers_count": 505,
+    "watchers_count": 505
 }
