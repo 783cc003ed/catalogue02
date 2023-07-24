@@ -477,7 +477,7 @@
     "date_updated": "2021-02-13",
     "description": "commands git clone https://github.com/Screetsec/Brutal.git cd Brutal chmod +x Brutal.sh sudo ./Brutal.sh or sudo su ./Brutal.sh about : Now Teensy can be use for penetration Teensy like a rubber ducky , why im choose teensy ? because the price very cheap for me . t’s extremely useful for executing scripts on a target machine without the need for human-to-keyboard interaction ( HID -ATTACK ) .When you insert the device, it will be detected as a keyboard, and using the microprocessor and onboard flash memory storage, you can send a very fast set of keystrokes to the target’s machine and completely compromise it, regardless of autorun. I’ve used it in my security testing to run recon or enumeration scripts, execute reverse shells, exploit local DLL hijack/privilege escalation vulnerabilities, and get all password . Now im develop new tools the name is Brutal Brutal Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interf...",
     "forks_count": 0,
-    "html_url": "https://github.com/clic-kbait/Brutal",
+    "html_url": "https://github.com/clino-mania/Brutal",
     "keywords": [
         "escalation of privileges exploitation",
         "escalation of privileges vulnerability",
@@ -485,7 +485,7 @@
     ],
     "language": null,
     "repo_name": "Brutal",
-    "repo_owner": "clic-kbait",
+    "repo_owner": "clino-mania",
     "repotime": "2021-02-13, 12:13:21",
     "stargazers_count": 0,
     "watchers_count": 0
