@@ -5675,6 +5675,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 3,
+    "date_started": "2022-09-25",
+    "date_updated": "2022-10-02",
+    "description": "User Account Control (UAC) is a mandatory access control enforcement feature introduced with Microsoft's Windows Vista and Windows Server 2008 operating systems, with a more relaxed version also present in Windows 7, Windows Server 2008 R2, Windows 8, Windows Server 2012, Windows 8.1, Windows Server 2012 R2, Windows 10, and Windows 11. It aims to improve the security of Microsoft Windows by limiting application software to standard user privileges until an administrator authorises an increase or elevation. In this way, only applications trusted by the user may receive administrative privileges and malware are kept from compromising the operating system. In other words, a user account may have administrator privileges assigned to it, but applications that the user runs do not inherit those privileges unless they are approved beforehand or the user explicitly authorises it.  UAC uses Mandatory Integrity Control to isolate running processes with different privileges. To reduce the possibi...",
+    "forks_count": 2,
+    "html_url": "https://github.com/HUGOW04/BypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "BypassUAC",
+    "repo_owner": "HUGOW04",
+    "repotime": "2022-10-02, 22:58:37",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
     "commits_count": 2,
     "date_started": "2022-09-29",
     "date_updated": "2022-10-02",
@@ -5860,22 +5877,4 @@
     "repotime": "2022-10-01, 01:53:02",
     "stargazers_count": 21,
     "watchers_count": 21
-}
-{
-    "commits_count": 33,
-    "date_started": "2019-06-08",
-    "date_updated": "2022-10-01",
-    "description": "Local file inclusion exploitation tool",
-    "forks_count": 94,
-    "html_url": "https://github.com/mzfr/liffy",
-    "keywords": [
-        "lfi",
-        "local file inclusion"
-    ],
-    "language": "Python",
-    "repo_name": "liffy",
-    "repo_owner": "mzfr",
-    "repotime": "2022-10-01, 00:05:20",
-    "stargazers_count": 591,
-    "watchers_count": 591
 }

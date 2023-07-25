@@ -71,6 +71,24 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 34,
+    "date_started": "2019-06-08",
+    "date_updated": "2023-07-24",
+    "description": "Local file inclusion exploitation tool",
+    "forks_count": 94,
+    "html_url": "https://github.com/mzfr/liffy",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "liffy",
+    "repo_owner": "mzfr",
+    "repotime": "2023-07-24, 15:25:11",
+    "stargazers_count": 591,
+    "watchers_count": 591
+}
+{
     "commits_count": 988,
     "date_started": "2022-06-20",
     "date_updated": "2023-07-24",
@@ -1119,8 +1137,8 @@
     "repo_name": "Automated-MUlti-UAC-Bypass",
     "repo_owner": "x0xr00t",
     "repotime": "2023-07-08, 01:49:22",
-    "stargazers_count": 135,
-    "watchers_count": 135
+    "stargazers_count": 136,
+    "watchers_count": 136
 }
 {
     "commits_count": 5,
@@ -1391,7 +1409,7 @@
     "date_started": "2022-01-27",
     "date_updated": "2023-07-04",
     "description": "A collection of weaponized LPE exploits written in Go",
-    "forks_count": 8,
+    "forks_count": 9,
     "html_url": "https://github.com/jm33-m0/go-lpe",
     "keywords": [
         "lpe exploit",
