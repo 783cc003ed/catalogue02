@@ -50,6 +50,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 9,
+    "date_started": "2023-07-11",
+    "date_updated": "2023-07-24",
+    "description": "Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (&amp;lt;= v.1.2.1)",
+    "forks_count": 2,
+    "html_url": "https://github.com/entr0pie/CVE-2023-27163",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-27163",
+    "repo_owner": "entr0pie",
+    "repotime": "2023-07-24, 21:59:20",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
     "commits_count": 578,
     "date_started": "2022-03-19",
     "date_updated": "2023-07-25",
@@ -173,8 +190,8 @@
     "repo_name": "liffy",
     "repo_owner": "mzfr",
     "repotime": "2023-07-24, 15:25:11",
-    "stargazers_count": 591,
-    "watchers_count": 591
+    "stargazers_count": 592,
+    "watchers_count": 592
 }
 {
     "commits_count": 988,
@@ -227,6 +244,23 @@
     "repotime": "2023-07-22, 15:51:23",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 118,
+    "date_started": "2023-06-13",
+    "date_updated": "2023-07-22",
+    "description": "𝗥𝗮𝗱𝗵𝗲 is a tool that automatically enumerates subdomains, checks if they are live, and finds &amp;quot;Unauthenticated cache purge&amp;quot; and &amp;quot;Server-Side Request Forgery (SSRF)&amp;quot; vulnerabilities or issues.",
+    "forks_count": 0,
+    "html_url": "https://github.com/R4HUL-INDIAN/Radhe",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Shell",
+    "repo_name": "Radhe",
+    "repo_owner": "R4HUL-INDIAN",
+    "repotime": "2023-07-22, 17:33:15",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 5,
@@ -335,7 +369,7 @@
     "date_started": "2017-10-31",
     "date_updated": "2023-07-21",
     "description": "the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&amp;amp;java scripts, device memory extraction, data decryption, and encryption, etc. ",
-    "forks_count": 463,
+    "forks_count": 464,
     "html_url": "https://github.com/charles2gan/GDA-android-reversing-Tool",
     "keywords": [
         "memory leak vulnerability"
@@ -344,8 +378,8 @@
     "repo_name": "GDA-android-reversing-Tool",
     "repo_owner": "charles2gan",
     "repotime": "2023-07-21, 15:33:14",
-    "stargazers_count": 3405,
-    "watchers_count": 3405
+    "stargazers_count": 3409,
+    "watchers_count": 3409
 }
 {
     "commits_count": 8,
@@ -926,23 +960,6 @@
 }
 {
     "commits_count": 8,
-    "date_started": "2023-07-11",
-    "date_updated": "2023-07-11",
-    "description": "Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (&amp;lt;= v.1.2.1)",
-    "forks_count": 1,
-    "html_url": "https://github.com/entr0pie/CVE-2023-27163",
-    "keywords": [
-        "server side request forgery"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2023-27163",
-    "repo_owner": "entr0pie",
-    "repotime": "2023-07-11, 22:37:53",
-    "stargazers_count": 8,
-    "watchers_count": 8
-}
-{
-    "commits_count": 8,
     "date_started": "2023-06-29",
     "date_updated": "2023-07-12",
     "description": "Linux kernel LPE practice with an NPD vulnerability",
@@ -1505,8 +1522,8 @@
     "repo_name": "lfimg",
     "repo_owner": "thimc",
     "repotime": "2023-07-02, 11:23:08",
-    "stargazers_count": 218,
-    "watchers_count": 218
+    "stargazers_count": 219,
+    "watchers_count": 219
 }
 {
     "commits_count": 102,
