@@ -575,8 +575,8 @@
     "repo_name": "TrustedPath-UACBypass-BOF",
     "repo_owner": "netero1010",
     "repotime": "2021-08-16, 15:49:54",
-    "stargazers_count": 98,
-    "watchers_count": 98
+    "stargazers_count": 99,
+    "watchers_count": 99
 }
 {
     "commits_count": 5,
@@ -692,7 +692,7 @@
     "date_started": "2019-10-26",
     "date_updated": "2021-08-10",
     "description": "C&amp;&#35;35; tool for UAC bypasses",
-    "forks_count": 50,
+    "forks_count": 51,
     "html_url": "https://github.com/FatRodzianko/SharpBypassUAC",
     "keywords": [
         "uac bypass"
@@ -810,23 +810,6 @@
     "watchers_count": 36
 }
 {
-    "commits_count": 5,
-    "date_started": "2020-12-02",
-    "date_updated": "2021-08-07",
-    "description": "SQL Injection Vulnerability Scanner made with Python",
-    "forks_count": 35,
-    "html_url": "https://github.com/americo/sqlifinder",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Python",
-    "repo_name": "sqlifinder",
-    "repo_owner": "americo",
-    "repotime": "2021-08-07, 03:46:36",
-    "stargazers_count": 143,
-    "watchers_count": 143
-}
-{
     "commits_count": 33,
     "date_started": "2016-05-18",
     "date_updated": "2021-08-05",
@@ -865,7 +848,7 @@
     "date_started": "2021-08-02",
     "date_updated": "2021-08-04",
     "description": "This is a PoC for bypassing UAC using DLL hijacking and abusing the &amp;quot;Trusted Directories&amp;quot; verification. ",
-    "forks_count": 51,
+    "forks_count": 52,
     "html_url": "https://github.com/SecuProject/DLLHijackingScanner",
     "keywords": [
         "uac bypass"
