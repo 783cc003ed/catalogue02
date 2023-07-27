@@ -241,6 +241,23 @@
     "watchers_count": 129
 }
 {
+    "commits_count": 1,
+    "date_started": "2019-11-18",
+    "date_updated": "2019-11-18",
+    "description": "BlueKeep is a use-after-free vulnerability, meaning that the program tries to use memory after it is supposed to have discarded it. The vulnerability lies in termdd.sys, which is the RDP kernel driver. A user can exploit this by opening an RDP connection to a remote computer called a channel – in this case a default RDP channel called MS_T210 – and sending specially crafted data to it. The exploit runs code on Windows XP, they said, but warned that it would probably crash Windows 7 or Server 2008 machines. By sending a specially crafted packet an attacker is able to set the value for the Channel ID to something the RDP service isn’t expecting, this causes a memory corruption bug that will create the conditions for Remote Code Execution to occur. Should the attacker choose to follow up with packets designed to take advantage of this flaw remote code execution can be achieved with System user privileges. There are no payloads. This is just a PoC. HOWEVER it is easily ported to an exploit...",
+    "forks_count": 0,
+    "html_url": "https://github.com/sherlocksecurity/Bluekeep-POC",
+    "keywords": [
+        "Windows use after free poc"
+    ],
+    "language": null,
+    "repo_name": "Bluekeep-POC",
+    "repo_owner": "sherlocksecurity",
+    "repotime": "2019-11-18, 02:21:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 183,
     "date_started": "2019-08-04",
     "date_updated": "2019-11-17",
@@ -659,8 +676,8 @@
     "repo_name": "SolrExp",
     "repo_owner": "k8gege",
     "repotime": "2019-11-02, 15:18:02",
-    "stargazers_count": 47,
-    "watchers_count": 47
+    "stargazers_count": 46,
+    "watchers_count": 46
 }
 {
     "commits_count": 0,
