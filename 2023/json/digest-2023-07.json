@@ -35,6 +35,23 @@
     "watchers_count": 554
 }
 {
+    "commits_count": 2,
+    "date_started": "2023-07-27",
+    "date_updated": "2023-07-27",
+    "description": "Security patch (1.0.6) provided in good faith for potentially dangerous gateway memleaks. Users visiting deceptive sites that do not inform them that a component of their backend contains undocumented memory-related vulnerabilities may put them at risk of their data being used in ways they have not consented to",
+    "forks_count": 0,
+    "html_url": "https://github.com/eaglerarchive/eagl3rxbungee-memory-leak-patch",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": null,
+    "repo_name": "eagl3rxbungee-memory-leak-patch",
+    "repo_owner": "eaglerarchive",
+    "repotime": "2023-07-27, 15:50:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 7,
     "date_started": "2020-12-02",
     "date_updated": "2023-07-27",
@@ -629,7 +646,7 @@
     "date_started": "2017-10-31",
     "date_updated": "2023-07-21",
     "description": "the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&amp;amp;java scripts, device memory extraction, data decryption, and encryption, etc. ",
-    "forks_count": 467,
+    "forks_count": 469,
     "html_url": "https://github.com/charles2gan/GDA-android-reversing-Tool",
     "keywords": [
         "memory leak vulnerability"
@@ -638,8 +655,8 @@
     "repo_name": "GDA-android-reversing-Tool",
     "repo_owner": "charles2gan",
     "repotime": "2023-07-21, 15:33:14",
-    "stargazers_count": 3418,
-    "watchers_count": 3418
+    "stargazers_count": 3435,
+    "watchers_count": 3435
 }
 {
     "commits_count": 8,
