@@ -414,7 +414,7 @@
     "date_started": "2019-09-07",
     "date_updated": "2019-09-16",
     "description": "initial exploit for CVE-2019-0708, BlueKeep CVE-2019-0708 BlueKeep RDP Remote Windows Kernel Use After Free  The RDP termdd.sys driver improperly handles binds to internal-only channel MS_T120, allowing a malformed Disconnect Provider Indication message to cause use-after-free. With a controllable data/size remote nonpaged pool spray, an indirect call gadget of the freed channel is used to achieve arbitrary code execution.",
-    "forks_count": 13,
+    "forks_count": 15,
     "html_url": "https://github.com/wqsemc/CVE-2019-0708",
     "keywords": [
         "Windows use after free",
