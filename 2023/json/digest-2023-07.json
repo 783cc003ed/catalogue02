@@ -236,8 +236,8 @@
     "repo_name": "CVE-2023-27163",
     "repo_owner": "entr0pie",
     "repotime": "2023-07-29, 15:48:19",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 3,
@@ -1789,7 +1789,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/prasannakumar227/SmartBridgeTeam-2.4",
     "keywords": [
-        "session hijacking vulnerability"
+        "session hijacking vulnerability",
+        "session vulnerability"
     ],
     "language": "Python",
     "repo_name": "SmartBridgeTeam-2.4",
