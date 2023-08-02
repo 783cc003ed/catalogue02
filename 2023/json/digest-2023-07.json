@@ -670,7 +670,7 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 461,
+    "commits_count": 463,
     "date_started": "2018-12-07",
     "date_updated": "2023-07-24",
     "description": "A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.",
@@ -685,8 +685,8 @@
     "repo_name": "SUDO_KILLER",
     "repo_owner": "TH3xACE",
     "repotime": "2023-07-24, 16:58:32",
-    "stargazers_count": 1944,
-    "watchers_count": 1944
+    "stargazers_count": 1946,
+    "watchers_count": 1946
 }
 {
     "commits_count": 34,
@@ -1003,7 +1003,7 @@
     "date_started": "2023-04-25",
     "date_updated": "2023-07-18",
     "description": "An AWS IAM policy statement parser and query tool.",
-    "forks_count": 5,
+    "forks_count": 6,
     "html_url": "https://github.com/RhinoSecurityLabs/IAMActionHunter",
     "keywords": [
         "by_owner"
@@ -1012,8 +1012,8 @@
     "repo_name": "IAMActionHunter",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2023-07-18, 13:26:41",
-    "stargazers_count": 89,
-    "watchers_count": 89
+    "stargazers_count": 97,
+    "watchers_count": 97
 }
 {
     "commits_count": 9,
