@@ -16,6 +16,23 @@
     "watchers_count": 3
 }
 {
+    "commits_count": 72,
+    "date_started": "2023-06-30",
+    "date_updated": "2023-07-31",
+    "description": "Egyscan The Best web vulnerability scanner; it's a multifaceted security powerhouse designed to fortify your web applications against malicious threats. Let's delve into the tasks and functions that make Egyscan an indispensable tool in your security arsenal:",
+    "forks_count": 15,
+    "html_url": "https://github.com/dragonked2/Egyscan",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Egyscan",
+    "repo_owner": "dragonked2",
+    "repotime": "2023-07-31, 19:28:49",
+    "stargazers_count": 79,
+    "watchers_count": 79
+}
+{
     "commits_count": 502,
     "date_started": "2017-03-06",
     "date_updated": "2023-07-31",
@@ -101,23 +118,6 @@
     "watchers_count": 1263
 }
 {
-    "commits_count": 71,
-    "date_started": "2023-06-30",
-    "date_updated": "2023-07-30",
-    "description": "Egyscan The Best web vulnerability scanner; it's a multifaceted security powerhouse designed to fortify your web applications against malicious threats. Let's delve into the tasks and functions that make Egyscan an indispensable tool in your security arsenal:",
-    "forks_count": 15,
-    "html_url": "https://github.com/dragonked2/Egyscan",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "Egyscan",
-    "repo_owner": "dragonked2",
-    "repotime": "2023-07-30, 19:58:08",
-    "stargazers_count": 77,
-    "watchers_count": 77
-}
-{
     "commits_count": 58,
     "date_started": "2020-04-25",
     "date_updated": "2023-07-30",
@@ -139,7 +139,7 @@
     "date_started": "2023-07-27",
     "date_updated": "2023-07-31",
     "description": "UAC Bypass By Abusing Kerberos Tickets",
-    "forks_count": 27,
+    "forks_count": 30,
     "html_url": "https://github.com/wh0amitz/KRBUACBypass",
     "keywords": [
         "uac bypass"
@@ -148,8 +148,8 @@
     "repo_name": "KRBUACBypass",
     "repo_owner": "wh0amitz",
     "repotime": "2023-07-31, 00:26:53",
-    "stargazers_count": 230,
-    "watchers_count": 230
+    "stargazers_count": 270,
+    "watchers_count": 270
 }
 {
     "commits_count": 375,
@@ -421,8 +421,8 @@
     "repo_name": "FineReport_channel_Deserialization_Vulnerabilities_RCE",
     "repo_owner": "Avento",
     "repotime": "2023-07-27, 10:44:43",
-    "stargazers_count": 22,
-    "watchers_count": 22
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 1,
@@ -813,7 +813,7 @@
     "date_started": "2017-10-31",
     "date_updated": "2023-07-21",
     "description": "the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&amp;amp;java scripts, device memory extraction, data decryption, and encryption, etc. ",
-    "forks_count": 469,
+    "forks_count": 470,
     "html_url": "https://github.com/charles2gan/GDA-android-reversing-Tool",
     "keywords": [
         "memory leak vulnerability"
@@ -822,15 +822,15 @@
     "repo_name": "GDA-android-reversing-Tool",
     "repo_owner": "charles2gan",
     "repotime": "2023-07-21, 15:33:14",
-    "stargazers_count": 3438,
-    "watchers_count": 3438
+    "stargazers_count": 3441,
+    "watchers_count": 3441
 }
 {
     "commits_count": 14,
     "date_started": "2021-08-29",
     "date_updated": "2023-07-21",
     "description": "An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.",
-    "forks_count": 13,
+    "forks_count": 14,
     "html_url": "https://github.com/h4r5h1t/webcopilot",
     "keywords": [
         "rce vulnerability"
@@ -839,8 +839,8 @@
     "repo_name": "webcopilot",
     "repo_owner": "h4r5h1t",
     "repotime": "2023-07-21, 12:39:11",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 28,
+    "watchers_count": 28
 }
 {
     "commits_count": 8,
@@ -1316,8 +1316,8 @@
     "repo_name": "CVE-2022-37969",
     "repo_owner": "fortra",
     "repotime": "2023-07-11, 13:50:28",
-    "stargazers_count": 104,
-    "watchers_count": 104
+    "stargazers_count": 105,
+    "watchers_count": 105
 }
 {
     "commits_count": 12,
@@ -1391,8 +1391,8 @@
     "repo_name": "Windows_LPE_AFD_CVE-2023-21768",
     "repo_owner": "chompie1337",
     "repotime": "2023-07-10, 12:35:37",
-    "stargazers_count": 423,
-    "watchers_count": 423
+    "stargazers_count": 424,
+    "watchers_count": 424
 }
 {
     "commits_count": 13,
@@ -1700,8 +1700,8 @@
     "repo_name": "Awesome-Exploit",
     "repo_owner": "Threekiii",
     "repotime": "2023-07-05, 09:49:54",
-    "stargazers_count": 291,
-    "watchers_count": 291
+    "stargazers_count": 293,
+    "watchers_count": 293
 }
 {
     "commits_count": 17,
