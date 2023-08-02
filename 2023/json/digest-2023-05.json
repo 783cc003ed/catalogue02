@@ -402,17 +402,18 @@
     "date_started": "2023-05-24",
     "date_updated": "2023-05-24",
     "description": "LFI-FINDER is an open-source tool available on GitHub that focuses on detecting Local File Inclusion (LFI) vulnerabilities",
-    "forks_count": 20,
+    "forks_count": 24,
     "html_url": "https://github.com/capture0x/LFI-FINDER",
     "keywords": [
-        "local file inclusion"
+        "local file inclusion",
+        "lfi"
     ],
     "language": "Python",
     "repo_name": "LFI-FINDER",
     "repo_owner": "capture0x",
     "repotime": "2023-05-24, 10:32:59",
-    "stargazers_count": 87,
-    "watchers_count": 87
+    "stargazers_count": 112,
+    "watchers_count": 112
 }
 {
     "commits_count": 30,
@@ -709,7 +710,7 @@
     "date_started": "2023-05-05",
     "date_updated": "2023-05-16",
     "description": "Lfi Scan Tool",
-    "forks_count": 10,
+    "forks_count": 13,
     "html_url": "https://github.com/capture0x/Lfi-Space",
     "keywords": [
         "lfi"
@@ -718,8 +719,8 @@
     "repo_name": "Lfi-Space",
     "repo_owner": "capture0x",
     "repotime": "2023-05-16, 07:51:05",
-    "stargazers_count": 59,
-    "watchers_count": 59
+    "stargazers_count": 61,
+    "watchers_count": 61
 }
 {
     "commits_count": 89,
