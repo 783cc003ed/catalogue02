@@ -17,8 +17,8 @@
     "repo_name": "Chrome-Android-and-Windows-0day-RCE-SBX",
     "repo_owner": "emredavut",
     "repotime": "2022-06-30, 13:05:55",
-    "stargazers_count": 141,
-    "watchers_count": 141
+    "stargazers_count": 142,
+    "watchers_count": 142
 }
 {
     "commits_count": 1,
@@ -411,8 +411,8 @@
     "repo_name": "friendly-windows-malware",
     "repo_owner": "ariary",
     "repotime": "2022-06-23, 14:02:38",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 13,
@@ -735,6 +735,23 @@
     "repotime": "2022-06-16, 23:12:25",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-06-16",
+    "date_updated": "2022-06-16",
+    "description": "This repository is a Dockerized php application containing a LFI (Local File Inclusion) vulnerability which can lead to RCE (Remote Code Execution).",
+    "forks_count": 0,
+    "html_url": "https://github.com/moeinfatehi/lfi-to-rce-scenario",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "lfi-to-rce-scenario",
+    "repo_owner": "moeinfatehi",
+    "repotime": "2022-06-16, 19:30:29",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 7,
