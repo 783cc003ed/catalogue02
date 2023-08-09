@@ -229,7 +229,7 @@
     "date_started": "2019-05-19",
     "date_updated": "2023-04-24",
     "description": "XSS payloads designed to turn alert(1) into P1",
-    "forks_count": 188,
+    "forks_count": 190,
     "html_url": "https://github.com/hakluke/weaponised-XSS-payloads",
     "keywords": [
         "xss"
@@ -238,8 +238,8 @@
     "repo_name": "weaponised-XSS-payloads",
     "repo_owner": "hakluke",
     "repotime": "2023-04-24, 22:13:58",
-    "stargazers_count": 1088,
-    "watchers_count": 1088
+    "stargazers_count": 1091,
+    "watchers_count": 1091
 }
 {
     "commits_count": 5,
@@ -792,30 +792,6 @@
 }
 {
     "commits_count": 16,
-    "date_started": "2022-11-11",
-    "date_updated": "2023-04-10",
-    "description": "I have developed a malware program using the C programming language, which includes various malicious features such as privilege escalation exploit, lsass dumper, reverse shell, keylogging, IAT hooking, DLL injection, and more. It should be noted that the program is constantly being updated, and some versions may not be fully functional.",
-    "forks_count": 0,
-    "html_url": "https://github.com/IlayTheVuln/WindowsOffender",
-    "keywords": [
-        "Windows escalation of privileges exploit",
-        "Win escalation of privileges",
-        "escalation of privileges exploit",
-        "Win escalation of privileges exploit",
-        "Win escalation of privileges exploitation",
-        "escalation of privileges exploitation",
-        "Windows escalation of privileges exploitation",
-        "Windows escalation of privileges"
-    ],
-    "language": "C",
-    "repo_name": "WindowsOffender",
-    "repo_owner": "IlayTheVuln",
-    "repotime": "2023-04-10, 16:17:35",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 16,
     "date_started": "2023-04-24",
     "date_updated": "2023-04-10",
     "description": "I have developed a malware program using the C programming language, which includes various malicious features such as privilege escalation exploit, lsass dumper, reverse shell, keylogging, IAT hooking, DLL injection, and more. It should be noted that the program is constantly being updated, and some versions may not be fully functional.",
@@ -837,6 +813,30 @@
     "repotime": "2023-04-10, 16:17:35",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-11-11",
+    "date_updated": "2023-04-10",
+    "description": "I have developed a malware program using the C programming language, which includes various malicious features such as privilege escalation exploit, lsass dumper, reverse shell, keylogging, IAT hooking, DLL injection, and more. It should be noted that the program is constantly being updated, and some versions may not be fully functional.",
+    "forks_count": 0,
+    "html_url": "https://github.com/IlayTheVuln/WindowsOffender",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "Win escalation of privileges",
+        "escalation of privileges exploit",
+        "Win escalation of privileges exploit",
+        "Win escalation of privileges exploitation",
+        "escalation of privileges exploitation",
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges"
+    ],
+    "language": "C",
+    "repo_name": "WindowsOffender",
+    "repo_owner": "IlayTheVuln",
+    "repotime": "2023-04-10, 16:17:35",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 3,
