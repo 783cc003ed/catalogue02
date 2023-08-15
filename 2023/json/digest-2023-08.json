@@ -1,4 +1,23 @@
 {
+    "commits_count": 431,
+    "date_started": "2022-12-04",
+    "date_updated": "2023-08-14",
+    "description": "Documentation of strategies and methods for the OSCP exam ranging from target enumeration, vulnerability assessment, exploits, to privilege escalation.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Kwangyun/Penetration-Testing-Guidebook-OSCP-Preperation-",
+    "keywords": [
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Penetration-Testing-Guidebook-OSCP-Preperation-",
+    "repo_owner": "Kwangyun",
+    "repotime": "2023-08-14, 23:12:41",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
     "commits_count": 1012,
     "date_started": "2022-06-20",
     "date_updated": "2023-08-15",
@@ -86,23 +105,21 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 427,
-    "date_started": "2022-12-04",
-    "date_updated": "2023-08-12",
-    "description": "Documentation of strategies and methods for the OSCP exam ranging from target enumeration, vulnerability assessment, exploits, to privilege escalation.",
-    "forks_count": 1,
-    "html_url": "https://github.com/Kwangyun/Penetration-Testing-Guidebook-OSCP-Preperation-",
+    "commits_count": 103,
+    "date_started": "2022-07-27",
+    "date_updated": "2023-08-13",
+    "description": "Simple python script supported with BurpBouty profile that helps you to detect SQL injection &amp;quot;Error based&amp;quot; by sending multiple requests with 14 payloads and checking for 152 regex patterns for different databases.",
+    "forks_count": 98,
+    "html_url": "https://github.com/eslam3kl/SQLiDetector",
     "keywords": [
-        "escalation of privileges vulnerability",
-        "escalation of privileges exploitation",
-        "escalation of privileges exploit"
+        "sql injection"
     ],
-    "language": null,
-    "repo_name": "Penetration-Testing-Guidebook-OSCP-Preperation-",
-    "repo_owner": "Kwangyun",
-    "repotime": "2023-08-12, 17:02:05",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "language": "BlitzBasic",
+    "repo_name": "SQLiDetector",
+    "repo_owner": "eslam3kl",
+    "repotime": "2023-08-13, 01:49:17",
+    "stargazers_count": 512,
+    "watchers_count": 512
 }
 {
     "commits_count": 41,
@@ -137,6 +154,23 @@
     "repotime": "2023-08-12, 08:26:17",
     "stargazers_count": 6,
     "watchers_count": 6
+}
+{
+    "commits_count": 1157,
+    "date_started": "2012-07-18",
+    "date_updated": "2023-08-12",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 401,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2023-08-12, 10:49:31",
+    "stargazers_count": 1265,
+    "watchers_count": 1265
 }
 {
     "commits_count": 1565,
@@ -211,23 +245,6 @@
     "repotime": "2023-08-11, 15:10:19",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 1155,
-    "date_started": "2012-07-18",
-    "date_updated": "2023-08-10",
-    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 401,
-    "html_url": "https://github.com/ron190/jsql-injection",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Java",
-    "repo_name": "jsql-injection",
-    "repo_owner": "ron190",
-    "repotime": "2023-08-10, 23:30:12",
-    "stargazers_count": 1265,
-    "watchers_count": 1265
 }
 {
     "commits_count": 160,
@@ -459,7 +476,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2023-08-05",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 5375,
+    "forks_count": 5382,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -468,8 +485,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2023-08-05, 11:14:45",
-    "stargazers_count": 27745,
-    "watchers_count": 27745
+    "stargazers_count": 27778,
+    "watchers_count": 27778
 }
 {
     "commits_count": 2,

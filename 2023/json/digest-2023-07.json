@@ -432,7 +432,7 @@
     "date_started": "2018-07-10",
     "date_updated": "2023-07-26",
     "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-    "forks_count": 1588,
+    "forks_count": 1589,
     "html_url": "https://github.com/kgretzky/evilginx2",
     "keywords": [
         "session attack"
@@ -441,8 +441,8 @@
     "repo_name": "evilginx2",
     "repo_owner": "kgretzky",
     "repotime": "2023-07-26, 19:22:49",
-    "stargazers_count": 8020,
-    "watchers_count": 8020
+    "stargazers_count": 8029,
+    "watchers_count": 8029
 }
 {
     "commits_count": 284,
@@ -518,7 +518,7 @@
     "date_started": "2018-12-07",
     "date_updated": "2023-07-24",
     "description": "A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.",
-    "forks_count": 241,
+    "forks_count": 242,
     "html_url": "https://github.com/TH3xACE/SUDO_KILLER",
     "keywords": [
         "escalation of privileges exploit",
@@ -529,8 +529,8 @@
     "repo_name": "SUDO_KILLER",
     "repo_owner": "TH3xACE",
     "repotime": "2023-07-24, 16:58:32",
-    "stargazers_count": 1952,
-    "watchers_count": 1952
+    "stargazers_count": 1953,
+    "watchers_count": 1953
 }
 {
     "commits_count": 34,
@@ -1136,7 +1136,7 @@
     "date_started": "2022-10-01",
     "date_updated": "2023-07-11",
     "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
-    "forks_count": 168,
+    "forks_count": 169,
     "html_url": "https://github.com/r0oth3x49/ghauri",
     "keywords": [
         "sql injection"
@@ -1145,8 +1145,8 @@
     "repo_name": "ghauri",
     "repo_owner": "r0oth3x49",
     "repotime": "2023-07-11, 02:03:54",
-    "stargazers_count": 1352,
-    "watchers_count": 1352
+    "stargazers_count": 1357,
+    "watchers_count": 1357
 }
 {
     "commits_count": 1154,
@@ -1626,21 +1626,4 @@
     "repotime": "2023-07-02, 11:23:08",
     "stargazers_count": 224,
     "watchers_count": 224
-}
-{
-    "commits_count": 102,
-    "date_started": "2022-07-27",
-    "date_updated": "2023-07-02",
-    "description": "Simple python script supported with BurpBouty profile that helps you to detect SQL injection &amp;quot;Error based&amp;quot; by sending multiple requests with 14 payloads and checking for 152 regex patterns for different databases.",
-    "forks_count": 98,
-    "html_url": "https://github.com/eslam3kl/SQLiDetector",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "BlitzBasic",
-    "repo_name": "SQLiDetector",
-    "repo_owner": "eslam3kl",
-    "repotime": "2023-07-02, 02:39:48",
-    "stargazers_count": 512,
-    "watchers_count": 512
 }
