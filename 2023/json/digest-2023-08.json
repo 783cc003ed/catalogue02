@@ -122,6 +122,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 206,
+    "date_started": "2021-08-24",
+    "date_updated": "2023-08-14",
+    "description": "Protect untrusted requests from SSRF",
+    "forks_count": 3,
+    "html_url": "https://github.com/hanover-computing/got-ssrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "JavaScript",
+    "repo_name": "got-ssrf",
+    "repo_owner": "hanover-computing",
+    "repotime": "2023-08-14, 03:25:53",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
     "commits_count": 85,
     "date_started": "2022-07-01",
     "date_updated": "2023-08-14",
@@ -435,11 +452,11 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 648,
+    "commits_count": 649,
     "date_started": "2013-06-25",
     "date_updated": "2023-08-08",
     "description": "Cleans HTML to avoid XSS attacks",
-    "forks_count": 194,
+    "forks_count": 195,
     "html_url": "https://github.com/mganss/HtmlSanitizer",
     "keywords": [
         "xss"
@@ -456,7 +473,7 @@
     "date_started": "2018-06-13",
     "date_updated": "2023-08-07",
     "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
-    "forks_count": 607,
+    "forks_count": 610,
     "html_url": "https://github.com/RhinoSecurityLabs/pacu",
     "keywords": [
         "exploitation",
@@ -466,8 +483,8 @@
     "repo_name": "pacu",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2023-08-07, 15:19:47",
-    "stargazers_count": 3602,
-    "watchers_count": 3602
+    "stargazers_count": 3609,
+    "watchers_count": 3609
 }
 {
     "commits_count": 9,
@@ -588,8 +605,8 @@
     "repo_name": "CVE-2023-3519",
     "repo_owner": "BishopFox",
     "repotime": "2023-08-04, 15:36:02",
-    "stargazers_count": 156,
-    "watchers_count": 156
+    "stargazers_count": 158,
+    "watchers_count": 158
 }
 {
     "commits_count": 15,
