@@ -205,24 +205,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 480,
-    "date_started": "2022-01-08",
-    "date_updated": "2023-06-26",
-    "description": "a burp extension which creates dynamic payloads to reveal injection flaws(LFI, RCE, SQLi), generates user access tables to spot authentication/authorization issues, and copy Http requests as JavaScript code.",
-    "forks_count": 59,
-    "html_url": "https://github.com/volkandindar/agartha",
-    "keywords": [
-        "lfi",
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "agartha",
-    "repo_owner": "volkandindar",
-    "repotime": "2023-06-26, 15:21:30",
-    "stargazers_count": 287,
-    "watchers_count": 287
-}
-{
     "commits_count": 21,
     "date_started": "2023-06-08",
     "date_updated": "2023-06-24",

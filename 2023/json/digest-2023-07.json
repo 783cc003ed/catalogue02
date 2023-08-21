@@ -33,6 +33,24 @@
     "watchers_count": 5
 }
 {
+    "commits_count": 484,
+    "date_started": "2022-01-08",
+    "date_updated": "2023-07-31",
+    "description": "a burp extension creates dynamic payloads to reveal injection flaws(LFI, RCE, SQLi), generates user access tables to spot authentication/authorization issues, and copys Http requests as JavaScript code.",
+    "forks_count": 62,
+    "html_url": "https://github.com/volkandindar/agartha",
+    "keywords": [
+        "lfi",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "agartha",
+    "repo_owner": "volkandindar",
+    "repotime": "2023-07-31, 09:30:06",
+    "stargazers_count": 297,
+    "watchers_count": 297
+}
+{
     "commits_count": 12,
     "date_started": "2023-01-28",
     "date_updated": "2023-07-30",
@@ -200,8 +218,8 @@
     "repo_name": "V3n0M-Scanner",
     "repo_owner": "v3n0m-Scanner",
     "repotime": "2023-07-28, 15:05:27",
-    "stargazers_count": 1329,
-    "watchers_count": 1329
+    "stargazers_count": 1330,
+    "watchers_count": 1330
 }
 {
     "commits_count": 2,
@@ -496,8 +514,8 @@
     "repo_name": "liffy",
     "repo_owner": "mzfr",
     "repotime": "2023-07-24, 15:25:11",
-    "stargazers_count": 600,
-    "watchers_count": 600
+    "stargazers_count": 601,
+    "watchers_count": 601
 }
 {
     "commits_count": 7,
@@ -634,8 +652,8 @@
     "repo_name": "GDA-android-reversing-Tool",
     "repo_owner": "charles2gan",
     "repotime": "2023-07-21, 15:33:14",
-    "stargazers_count": 3475,
-    "watchers_count": 3475
+    "stargazers_count": 3479,
+    "watchers_count": 3479
 }
 {
     "commits_count": 14,
@@ -1513,7 +1531,7 @@
     "date_started": "2020-02-13",
     "date_updated": "2023-07-02",
     "description": "Image preview support for lf (list files) using Überzug",
-    "forks_count": 45,
+    "forks_count": 46,
     "html_url": "https://github.com/thimc/lfimg",
     "keywords": [
         "lfi"
