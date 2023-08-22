@@ -35,6 +35,41 @@
     "watchers_count": 1266
 }
 {
+    "commits_count": 47,
+    "date_started": "2023-05-22",
+    "date_updated": "2023-08-21",
+    "description": "NucleiFuzzer is a powerful automation tool for detecting xss,sqli,ssrf,open-redirect..etc vulnerabilities in web applications",
+    "forks_count": 56,
+    "html_url": "https://github.com/0xKayala/NucleiFuzzer",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "NucleiFuzzer",
+    "repo_owner": "0xKayala",
+    "repotime": "2023-08-21, 23:23:43",
+    "stargazers_count": 409,
+    "watchers_count": 409
+}
+{
+    "commits_count": 86,
+    "date_started": "2019-09-22",
+    "date_updated": "2023-08-21",
+    "description": "This Lab contain the sample codes which are vulnerable to Server-Side Request Forgery attack",
+    "forks_count": 158,
+    "html_url": "https://github.com/incredibleindishell/SSRF_Vulnerable_Lab",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "PHP",
+    "repo_name": "SSRF_Vulnerable_Lab",
+    "repo_owner": "incredibleindishell",
+    "repotime": "2023-08-21, 22:32:38",
+    "stargazers_count": 599,
+    "watchers_count": 599
+}
+{
     "commits_count": 141,
     "date_started": "2020-12-17",
     "date_updated": "2023-08-20",
@@ -67,6 +102,23 @@
     "repotime": "2023-08-21, 00:12:38",
     "stargazers_count": 3823,
     "watchers_count": 3823
+}
+{
+    "commits_count": 216,
+    "date_started": "2021-08-24",
+    "date_updated": "2023-08-20",
+    "description": "Protect untrusted requests from SSRF",
+    "forks_count": 3,
+    "html_url": "https://github.com/hanover-computing/got-ssrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "TypeScript",
+    "repo_name": "got-ssrf",
+    "repo_owner": "hanover-computing",
+    "repotime": "2023-08-20, 14:51:05",
+    "stargazers_count": 43,
+    "watchers_count": 43
 }
 {
     "commits_count": 1567,
@@ -211,8 +263,8 @@
     "commits_count": 157,
     "date_started": "2021-09-08",
     "date_updated": "2023-08-19",
-    "description": "UAC BYPASS win10 win11 ws2019 ws2022",
-    "forks_count": 30,
+    "description": "Automated Multi UAC BYPASS for win10|win11|ws2019|ws2022",
+    "forks_count": 33,
     "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
     "keywords": [
         "uac bypass"
@@ -221,25 +273,8 @@
     "repo_name": "Automated-MUlti-UAC-Bypass",
     "repo_owner": "x0xr00t",
     "repotime": "2023-08-19, 05:14:54",
-    "stargazers_count": 149,
-    "watchers_count": 149
-}
-{
-    "commits_count": 39,
-    "date_started": "2023-05-22",
-    "date_updated": "2023-08-19",
-    "description": "NucleiFuzzer is a powerful automation tool for detecting xss,sqli,ssrf,open-redirect..etc vulnerabilities in web applications",
-    "forks_count": 54,
-    "html_url": "https://github.com/0xKayala/NucleiFuzzer",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Shell",
-    "repo_name": "NucleiFuzzer",
-    "repo_owner": "0xKayala",
-    "repotime": "2023-08-19, 00:14:14",
-    "stargazers_count": 406,
-    "watchers_count": 406
+    "stargazers_count": 155,
+    "watchers_count": 155
 }
 {
     "commits_count": 11,
@@ -395,23 +430,6 @@
     "repotime": "2023-08-14, 15:34:53",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 206,
-    "date_started": "2021-08-24",
-    "date_updated": "2023-08-14",
-    "description": "Protect untrusted requests from SSRF",
-    "forks_count": 3,
-    "html_url": "https://github.com/hanover-computing/got-ssrf",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "JavaScript",
-    "repo_name": "got-ssrf",
-    "repo_owner": "hanover-computing",
-    "repotime": "2023-08-14, 03:25:53",
-    "stargazers_count": 43,
-    "watchers_count": 43
 }
 {
     "commits_count": 85,
@@ -603,8 +621,8 @@
     "repo_name": "KRBUACBypass",
     "repo_owner": "wh0amitz",
     "repotime": "2023-08-10, 10:51:59",
-    "stargazers_count": 349,
-    "watchers_count": 349
+    "stargazers_count": 353,
+    "watchers_count": 353
 }
 {
     "commits_count": 25,
@@ -796,8 +814,8 @@
     "repo_name": "LFI-FINDER",
     "repo_owner": "capture0x",
     "repotime": "2023-08-04, 16:53:05",
-    "stargazers_count": 179,
-    "watchers_count": 179
+    "stargazers_count": 183,
+    "watchers_count": 183
 }
 {
     "commits_count": 4,
