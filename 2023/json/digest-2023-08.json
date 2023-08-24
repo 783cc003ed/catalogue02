@@ -103,6 +103,23 @@
     "watchers_count": 561
 }
 {
+    "commits_count": 3,
+    "date_started": "2023-08-23",
+    "date_updated": "2023-08-23",
+    "description": "This repository contains the code and resources for my Machine Learning project on prediction of usage of ecommerce website and app, and other factors, using Linear Regression. The goal of this project was to develop a predictive model that can accurately estimate the yearly amount spent by the customers based on average session length and many mor",
+    "forks_count": 0,
+    "html_url": "https://github.com/Shravanah/Ecommerce",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Ecommerce",
+    "repo_owner": "Shravanah",
+    "repotime": "2023-08-23, 23:18:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2023-07-21",
     "date_updated": "2023-08-23",
@@ -119,23 +136,6 @@
     "repotime": "2023-08-23, 09:27:28",
     "stargazers_count": 167,
     "watchers_count": 167
-}
-{
-    "commits_count": 2,
-    "date_started": "2023-08-23",
-    "date_updated": "2023-08-23",
-    "description": "This repository contains the code and resources for my Machine Learning project on prediction of usage of ecommerce website and app, and other factors, using Linear Regression. The goal of this project was to develop a predictive model that can accurately estimate the yearly amount spent by the customers based on average session length and many mor",
-    "forks_count": 0,
-    "html_url": "https://github.com/Shravanah/Ecommerce",
-    "keywords": [
-        "session prediction"
-    ],
-    "language": null,
-    "repo_name": "Ecommerce",
-    "repo_owner": "Shravanah",
-    "repotime": "2023-08-23, 21:32:13",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 3,
@@ -801,7 +801,7 @@
     "date_started": "2023-08-09",
     "date_updated": "2023-08-11",
     "description": "WPS-Office 1-Click RCE exp 202308091546",
-    "forks_count": 40,
+    "forks_count": 41,
     "html_url": "https://github.com/b2git/WPS-0DAY-20230809",
     "keywords": [
         "rce vulnerability",
