@@ -23,7 +23,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
     "keywords": [
-        "Win 0day"
+        "Win 0day",
+        "0day exploit"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-38831-winrar-exploit",
@@ -112,7 +113,8 @@
     "keywords": [
         "Windows remote code execution exploit",
         "Windows remote code execution",
-        "Microsoft remote code execution exploit"
+        "Microsoft remote code execution exploit",
+        "Microsoft remote code execution"
     ],
     "language": "C#",
     "repo_name": "Hta-Exploit-Downloader-Malware-Builder-main",
@@ -413,8 +415,8 @@
     "repo_name": "SSRF_Vulnerable_Lab",
     "repo_owner": "incredibleindishell",
     "repotime": "2023-08-21, 22:32:38",
-    "stargazers_count": 600,
-    "watchers_count": 600
+    "stargazers_count": 601,
+    "watchers_count": 601
 }
 {
     "commits_count": 14,
