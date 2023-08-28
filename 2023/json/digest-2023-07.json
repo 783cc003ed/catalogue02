@@ -192,7 +192,7 @@
     "date_started": "2022-05-08",
     "date_updated": "2023-07-29",
     "description": "An XSS exploitation command-line interface and payload generator.",
-    "forks_count": 150,
+    "forks_count": 151,
     "html_url": "https://github.com/t3l3machus/toxssin",
     "keywords": [
         "xss"
@@ -201,8 +201,8 @@
     "repo_name": "toxssin",
     "repo_owner": "t3l3machus",
     "repotime": "2023-07-29, 09:20:48",
-    "stargazers_count": 1049,
-    "watchers_count": 1049
+    "stargazers_count": 1058,
+    "watchers_count": 1058
 }
 {
     "commits_count": 538,
@@ -1023,15 +1023,15 @@
     "repo_name": "CVE-2023-3338-DECPwn",
     "repo_owner": "TurtleARM",
     "repotime": "2023-07-12, 01:13:09",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 17,
     "date_started": "2023-03-09",
     "date_updated": "2023-07-11",
     "description": "Windows LPE exploit for CVE-2022-37969",
-    "forks_count": 31,
+    "forks_count": 32,
     "html_url": "https://github.com/fortra/CVE-2022-37969",
     "keywords": [
         "Windows lpe exploit",
