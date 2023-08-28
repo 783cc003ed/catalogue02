@@ -829,8 +829,8 @@
     "repo_name": "Commodity-Injection-Signatures",
     "repo_owner": "xsscx",
     "repotime": "2023-04-10, 20:54:32",
-    "stargazers_count": 355,
-    "watchers_count": 355
+    "stargazers_count": 356,
+    "watchers_count": 356
 }
 {
     "commits_count": 16,
@@ -861,7 +861,7 @@
     "date_started": "2022-11-11",
     "date_updated": "2023-04-10",
     "description": "I have developed a malware program using the C programming language, which includes various malicious features such as privilege escalation exploit, lsass dumper, reverse shell, keylogging, IAT hooking, DLL injection, and more. It should be noted that the program is constantly being updated, and some versions may not be fully functional.",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/IlayTheVuln/WindowsOffender",
     "keywords": [
         "Windows escalation of privileges exploit",
