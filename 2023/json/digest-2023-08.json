@@ -1,4 +1,72 @@
 {
+    "commits_count": 113,
+    "date_started": "2022-10-01",
+    "date_updated": "2023-08-27",
+    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
+    "forks_count": 168,
+    "html_url": "https://github.com/r0oth3x49/ghauri",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "ghauri",
+    "repo_owner": "r0oth3x49",
+    "repotime": "2023-08-27, 23:21:43",
+    "stargazers_count": 1378,
+    "watchers_count": 1378
+}
+{
+    "commits_count": 1165,
+    "date_started": "2012-07-18",
+    "date_updated": "2023-08-27",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 401,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2023-08-27, 14:44:14",
+    "stargazers_count": 1269,
+    "watchers_count": 1269
+}
+{
+    "commits_count": 105,
+    "date_started": "2022-07-27",
+    "date_updated": "2023-08-27",
+    "description": "Simple python script supported with BurpBouty profile that helps you to detect SQL injection &amp;quot;Error based&amp;quot; by sending multiple requests with 14 payloads and checking for 152 regex patterns for different databases.",
+    "forks_count": 99,
+    "html_url": "https://github.com/eslam3kl/SQLiDetector",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "BlitzBasic",
+    "repo_name": "SQLiDetector",
+    "repo_owner": "eslam3kl",
+    "repotime": "2023-08-27, 01:50:57",
+    "stargazers_count": 521,
+    "watchers_count": 521
+}
+{
+    "commits_count": 10217,
+    "date_started": "2012-06-26",
+    "date_updated": "2023-08-26",
+    "description": "Automatic SQL injection and database takeover tool",
+    "forks_count": 5396,
+    "html_url": "https://github.com/sqlmapproject/sqlmap",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlmap",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2023-08-26, 16:02:17",
+    "stargazers_count": 27906,
+    "watchers_count": 27906
+}
+{
     "commits_count": 457,
     "date_started": "2022-12-04",
     "date_updated": "2023-08-26",
@@ -165,7 +233,7 @@
     "date_started": "2018-07-10",
     "date_updated": "2023-08-24",
     "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-    "forks_count": 1600,
+    "forks_count": 1605,
     "html_url": "https://github.com/kgretzky/evilginx2",
     "keywords": [
         "session attack"
@@ -174,8 +242,8 @@
     "repo_name": "evilginx2",
     "repo_owner": "kgretzky",
     "repotime": "2023-08-24, 11:56:32",
-    "stargazers_count": 8100,
-    "watchers_count": 8100
+    "stargazers_count": 8138,
+    "watchers_count": 8138
 }
 {
     "commits_count": 93,
@@ -243,15 +311,15 @@
     "repo_name": "CVE-2023-3519",
     "repo_owner": "BishopFox",
     "repotime": "2023-08-23, 09:27:28",
-    "stargazers_count": 169,
-    "watchers_count": 169
+    "stargazers_count": 170,
+    "watchers_count": 170
 }
 {
     "commits_count": 3,
     "date_started": "2023-08-23",
     "date_updated": "2023-08-23",
     "description": "为更好帮助师傅们HW及日常安全巡检期间进行安全自查检测，银遁安全团队编写了最近公开漏洞的检测工具",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/SunSkyZRT/2023HW-0Day-vulnerability-detection",
     "keywords": [
         "0day vulnerability"
@@ -260,8 +328,8 @@
     "repo_name": "2023HW-0Day-vulnerability-detection",
     "repo_owner": "SunSkyZRT",
     "repotime": "2023-08-23, 16:40:35",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 4,
@@ -313,23 +381,6 @@
     "repotime": "2023-08-22, 21:04:46",
     "stargazers_count": 238,
     "watchers_count": 238
-}
-{
-    "commits_count": 1163,
-    "date_started": "2012-07-18",
-    "date_updated": "2023-08-22",
-    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 401,
-    "html_url": "https://github.com/ron190/jsql-injection",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Java",
-    "repo_name": "jsql-injection",
-    "repo_owner": "ron190",
-    "repotime": "2023-08-22, 20:45:34",
-    "stargazers_count": 1267,
-    "watchers_count": 1267
 }
 {
     "commits_count": 1,
@@ -471,23 +522,6 @@
     "watchers_count": 43
 }
 {
-    "commits_count": 104,
-    "date_started": "2022-07-27",
-    "date_updated": "2023-08-20",
-    "description": "Simple python script supported with BurpBouty profile that helps you to detect SQL injection &amp;quot;Error based&amp;quot; by sending multiple requests with 14 payloads and checking for 152 regex patterns for different databases.",
-    "forks_count": 98,
-    "html_url": "https://github.com/eslam3kl/SQLiDetector",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "BlitzBasic",
-    "repo_name": "SQLiDetector",
-    "repo_owner": "eslam3kl",
-    "repotime": "2023-08-20, 01:48:31",
-    "stargazers_count": 520,
-    "watchers_count": 520
-}
-{
     "commits_count": 15,
     "date_started": "2022-07-05",
     "date_updated": "2023-08-19",
@@ -538,23 +572,6 @@
     "repotime": "2023-08-19, 10:42:00",
     "stargazers_count": 1100,
     "watchers_count": 1100
-}
-{
-    "commits_count": 10215,
-    "date_started": "2012-06-26",
-    "date_updated": "2023-08-19",
-    "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 5393,
-    "html_url": "https://github.com/sqlmapproject/sqlmap",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Python",
-    "repo_name": "sqlmap",
-    "repo_owner": "sqlmapproject",
-    "repotime": "2023-08-19, 10:24:20",
-    "stargazers_count": 27878,
-    "watchers_count": 27878
 }
 {
     "commits_count": 157,
@@ -867,8 +884,8 @@
     "repo_name": "WPS-0DAY-20230809",
     "repo_owner": "b2git",
     "repotime": "2023-08-11, 21:34:35",
-    "stargazers_count": 120,
-    "watchers_count": 120
+    "stargazers_count": 121,
+    "watchers_count": 121
 }
 {
     "commits_count": 3,
