@@ -33,6 +33,42 @@
     "watchers_count": 476
 }
 {
+    "commits_count": 613,
+    "date_started": "2022-03-19",
+    "date_updated": "2023-08-29",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 109,
+    "html_url": "https://github.com/hktalent/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "hktalent",
+    "repotime": "2023-08-29, 00:09:38",
+    "stargazers_count": 562,
+    "watchers_count": 562
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-08-28",
+    "date_updated": "2023-08-28",
+    "description": "Analysis of Algorithms projects from the Fall 2023 semester at UAF.",
+    "forks_count": 0,
+    "html_url": "https://github.com/TechSolomon/cs411",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": null,
+    "repo_name": "cs411",
+    "repo_owner": "TechSolomon",
+    "repotime": "2023-08-28, 15:30:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 1,
     "date_started": "2023-08-28",
     "date_updated": "2023-08-28",
@@ -84,23 +120,21 @@
     "watchers_count": 3838
 }
 {
-    "commits_count": 612,
-    "date_started": "2022-03-19",
+    "commits_count": 9,
+    "date_started": "2023-08-27",
     "date_updated": "2023-08-28",
-    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-    "forks_count": 109,
-    "html_url": "https://github.com/hktalent/TOP",
+    "description": "An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23",
+    "forks_count": 10,
+    "html_url": "https://github.com/ignis-sec/CVE-2023-38831-RaRCE",
     "keywords": [
-        "rce exploit",
-        "rce poc",
-        "rce vulnerability"
+        "rce exploitation"
     ],
-    "language": "Shell",
-    "repo_name": "TOP",
-    "repo_owner": "hktalent",
-    "repotime": "2023-08-28, 00:09:40",
-    "stargazers_count": 561,
-    "watchers_count": 561
+    "language": "Python",
+    "repo_name": "CVE-2023-38831-RaRCE",
+    "repo_owner": "ignis-sec",
+    "repotime": "2023-08-28, 01:17:56",
+    "stargazers_count": 48,
+    "watchers_count": 48
 }
 {
     "commits_count": 113,
@@ -330,6 +364,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4,
+    "date_started": "2023-04-28",
+    "date_updated": "2023-08-25",
+    "description": "FineReport channel Deserialization Vulnerabilities RCE",
+    "forks_count": 12,
+    "html_url": "https://github.com/Avento/FineReport_channel_Deserialization_Vulnerabilities_RCE",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "FineReport_channel_Deserialization_Vulnerabilities_RCE",
+    "repo_owner": "Avento",
+    "repotime": "2023-08-25, 16:05:26",
+    "stargazers_count": 50,
+    "watchers_count": 50
+}
+{
     "commits_count": 7,
     "date_started": "2023-08-24",
     "date_updated": "2023-08-24",
@@ -456,7 +507,7 @@
     "date_started": "2023-07-21",
     "date_updated": "2023-08-23",
     "description": "RCE exploit for CVE-2023-3519",
-    "forks_count": 26,
+    "forks_count": 27,
     "html_url": "https://github.com/BishopFox/CVE-2023-3519",
     "keywords": [
         "rce exploit",
@@ -803,7 +854,7 @@
     "date_started": "2021-07-05",
     "date_updated": "2023-08-16",
     "description": "A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE",
-    "forks_count": 116,
+    "forks_count": 117,
     "html_url": "https://github.com/byt3bl33d3r/ItWasAllADream",
     "keywords": [
         "rce vulnerability"
