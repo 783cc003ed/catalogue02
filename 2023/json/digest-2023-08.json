@@ -1,4 +1,21 @@
 {
+    "commits_count": 49,
+    "date_started": "2023-05-22",
+    "date_updated": "2023-08-29",
+    "description": "NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications",
+    "forks_count": 67,
+    "html_url": "https://github.com/0xKayala/NucleiFuzzer",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "NucleiFuzzer",
+    "repo_owner": "0xKayala",
+    "repotime": "2023-08-29, 09:05:14",
+    "stargazers_count": 476,
+    "watchers_count": 476
+}
+{
     "commits_count": 1,
     "date_started": "2023-08-28",
     "date_updated": "2023-08-28",
@@ -141,19 +158,20 @@
     "date_started": "2023-08-25",
     "date_updated": "2023-08-27",
     "description": "CVE-2023-38831 winrar exploit generator",
-    "forks_count": 41,
+    "forks_count": 43,
     "html_url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
     "keywords": [
         "Win 0day",
         "0day exploit",
-        "Win 0day exploit"
+        "Win 0day exploit",
+        "Win 0day exploitation"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-38831-winrar-exploit",
     "repo_owner": "b1tg",
     "repotime": "2023-08-27, 11:22:18",
-    "stargazers_count": 278,
-    "watchers_count": 278
+    "stargazers_count": 288,
+    "watchers_count": 288
 }
 {
     "commits_count": 105,
@@ -504,23 +522,6 @@
     "watchers_count": 8
 }
 {
-    "commits_count": 47,
-    "date_started": "2023-05-22",
-    "date_updated": "2023-08-21",
-    "description": "NucleiFuzzer is a powerful automation tool for detecting xss,sqli,ssrf,open-redirect..etc vulnerabilities in web applications",
-    "forks_count": 57,
-    "html_url": "https://github.com/0xKayala/NucleiFuzzer",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Shell",
-    "repo_name": "NucleiFuzzer",
-    "repo_owner": "0xKayala",
-    "repotime": "2023-08-21, 23:23:43",
-    "stargazers_count": 414,
-    "watchers_count": 414
-}
-{
     "commits_count": 86,
     "date_started": "2019-09-22",
     "date_updated": "2023-08-21",
@@ -535,8 +536,8 @@
     "repo_name": "SSRF_Vulnerable_Lab",
     "repo_owner": "incredibleindishell",
     "repotime": "2023-08-21, 22:32:38",
-    "stargazers_count": 601,
-    "watchers_count": 601
+    "stargazers_count": 602,
+    "watchers_count": 602
 }
 {
     "commits_count": 14,
@@ -638,8 +639,8 @@
     "repo_name": "ssh-mitm",
     "repo_owner": "ssh-mitm",
     "repotime": "2023-08-19, 10:42:00",
-    "stargazers_count": 1100,
-    "watchers_count": 1100
+    "stargazers_count": 1103,
+    "watchers_count": 1103
 }
 {
     "commits_count": 157,
