@@ -1,4 +1,21 @@
 {
+    "commits_count": 56,
+    "date_started": "2023-05-22",
+    "date_updated": "2023-08-29",
+    "description": "NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications",
+    "forks_count": 68,
+    "html_url": "https://github.com/0xKayala/NucleiFuzzer",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "NucleiFuzzer",
+    "repo_owner": "0xKayala",
+    "repotime": "2023-08-29, 23:31:36",
+    "stargazers_count": 489,
+    "watchers_count": 489
+}
+{
     "commits_count": 1581,
     "date_started": "2019-09-10",
     "date_updated": "2023-08-29",
@@ -14,23 +31,6 @@
     "repotime": "2023-08-29, 14:15:28",
     "stargazers_count": 1123,
     "watchers_count": 1123
-}
-{
-    "commits_count": 49,
-    "date_started": "2023-05-22",
-    "date_updated": "2023-08-29",
-    "description": "NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications",
-    "forks_count": 67,
-    "html_url": "https://github.com/0xKayala/NucleiFuzzer",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Shell",
-    "repo_name": "NucleiFuzzer",
-    "repo_owner": "0xKayala",
-    "repotime": "2023-08-29, 09:05:14",
-    "stargazers_count": 476,
-    "watchers_count": 476
 }
 {
     "commits_count": 613,
@@ -124,7 +124,7 @@
     "date_started": "2023-08-27",
     "date_updated": "2023-08-28",
     "description": "An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23",
-    "forks_count": 10,
+    "forks_count": 12,
     "html_url": "https://github.com/ignis-sec/CVE-2023-38831-RaRCE",
     "keywords": [
         "rce exploitation"
@@ -133,8 +133,8 @@
     "repo_name": "CVE-2023-38831-RaRCE",
     "repo_owner": "ignis-sec",
     "repotime": "2023-08-28, 01:17:56",
-    "stargazers_count": 48,
-    "watchers_count": 48
+    "stargazers_count": 54,
+    "watchers_count": 54
 }
 {
     "commits_count": 113,
@@ -656,8 +656,8 @@
     "repo_name": "SSRF_Vulnerable_Lab",
     "repo_owner": "incredibleindishell",
     "repotime": "2023-08-21, 22:32:38",
-    "stargazers_count": 602,
-    "watchers_count": 602
+    "stargazers_count": 603,
+    "watchers_count": 603
 }
 {
     "commits_count": 14,
