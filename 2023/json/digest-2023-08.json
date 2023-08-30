@@ -1,4 +1,42 @@
 {
+    "commits_count": 8,
+    "date_started": "2023-08-30",
+    "date_updated": "2023-08-30",
+    "description": "Unauthenticated attackers can use this vulnerability to obtain sensitive database information and credentials, ultimately leading to server crashes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Despacito01/KSOA-SQL-INJECT",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "KSOA-SQL-INJECT",
+    "repo_owner": "Despacito01",
+    "repotime": "2023-08-30, 23:44:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-08-25",
+    "date_updated": "2023-08-30",
+    "description": "CVE-2023-38831 winrar exploit generator",
+    "forks_count": 66,
+    "html_url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
+    "keywords": [
+        "Win 0day",
+        "0day exploit",
+        "Win 0day exploit",
+        "Win 0day exploitation",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831-winrar-exploit",
+    "repo_owner": "b1tg",
+    "repotime": "2023-08-30, 22:20:43",
+    "stargazers_count": 476,
+    "watchers_count": 476
+}
+{
     "commits_count": 1184,
     "date_started": "2018-11-07",
     "date_updated": "2023-08-30",
@@ -308,27 +346,6 @@
     "repotime": "2023-08-27, 15:37:23",
     "stargazers_count": 31,
     "watchers_count": 31
-}
-{
-    "commits_count": 5,
-    "date_started": "2023-08-25",
-    "date_updated": "2023-08-27",
-    "description": "CVE-2023-38831 winrar exploit generator",
-    "forks_count": 51,
-    "html_url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
-    "keywords": [
-        "Win 0day",
-        "0day exploit",
-        "Win 0day exploit",
-        "Win 0day exploitation",
-        "0day exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2023-38831-winrar-exploit",
-    "repo_owner": "b1tg",
-    "repotime": "2023-08-27, 11:22:18",
-    "stargazers_count": 371,
-    "watchers_count": 371
 }
 {
     "commits_count": 105,
@@ -830,8 +847,8 @@
     "repo_name": "Automated-MUlti-UAC-Bypass",
     "repo_owner": "x0xr00t",
     "repotime": "2023-08-19, 05:14:54",
-    "stargazers_count": 155,
-    "watchers_count": 155
+    "stargazers_count": 157,
+    "watchers_count": 157
 }
 {
     "commits_count": 11,
@@ -1161,8 +1178,8 @@
     "repo_name": "KRBUACBypass",
     "repo_owner": "wh0amitz",
     "repotime": "2023-08-10, 10:51:59",
-    "stargazers_count": 357,
-    "watchers_count": 357
+    "stargazers_count": 363,
+    "watchers_count": 363
 }
 {
     "commits_count": 25,
