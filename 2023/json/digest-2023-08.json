@@ -105,6 +105,23 @@
     "watchers_count": 489
 }
 {
+    "commits_count": 8,
+    "date_started": "2023-08-29",
+    "date_updated": "2023-08-29",
+    "description": "A PHP Firewall to CUT OFF vulnerable Strings from the URL and redirect to homepage. No Error Messages. Can Protect Against: 1.SQLi, 2.LFI, 3.RFI, 4.SSI, 5. XSS, 6. CSRF, 7.Directory Traversal, 8. Clickjacking.",
+    "forks_count": 0,
+    "html_url": "https://github.com/jarircse16/Jarir_Cut_OFF_WAF",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Jarir_Cut_OFF_WAF",
+    "repo_owner": "jarircse16",
+    "repotime": "2023-08-29, 17:45:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 1,
     "date_started": "2023-08-28",
     "date_updated": "2023-08-29",
@@ -414,8 +431,8 @@
     "repo_name": "FineReport_channel_Deserialization_Vulnerabilities_RCE",
     "repo_owner": "Avento",
     "repotime": "2023-08-25, 16:05:26",
-    "stargazers_count": 50,
-    "watchers_count": 50
+    "stargazers_count": 51,
+    "watchers_count": 51
 }
 {
     "commits_count": 7,
