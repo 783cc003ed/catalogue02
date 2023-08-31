@@ -17,6 +17,23 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 47,
+    "date_started": "2021-10-17",
+    "date_updated": "2023-08-30",
+    "description": "Consider  the  design  of  a  database  for  a  web  site  that  allow  people  to  buy  and  sell  a  cypto called PPS (see website testing.ppswap.org). Only registered users can buy and sell PPS. Each user is identified by a userid, which is an email, first name, last name, birthday, address (street number, street, city, state, and zip code), balance of PPS and balance of dollar.  Initially, both PPS and dollar balances are zero. A user can withdraw and deposit dollars. A special user root (this is the only user whose id is root and not an email) initially will have the whole supply of PPS, which is 1T. A user will sell and buy PPS only with this special user root (in real life, this special root might be just a smart contract). The price of the PPS is set to 1M/$ initially. For the simplicity of this project, we assume each buy will increase the price by a little: each dollar can buy 1 less PPS after each buy. In the same way, each sell will decrease the price a little bit:  each  d...",
+    "forks_count": 0,
+    "html_url": "https://github.com/jonschumaker/PPS_Project",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Java",
+    "repo_name": "PPS_Project",
+    "repo_owner": "jonschumaker",
+    "repotime": "2023-08-30, 17:35:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 8,
     "date_started": "2023-08-30",
     "date_updated": "2023-08-30",
@@ -38,7 +55,7 @@
     "date_started": "2023-08-25",
     "date_updated": "2023-08-30",
     "description": "CVE-2023-38831 winrar exploit generator",
-    "forks_count": 70,
+    "forks_count": 72,
     "html_url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
     "keywords": [
         "Win 0day",
@@ -51,8 +68,8 @@
     "repo_name": "CVE-2023-38831-winrar-exploit",
     "repo_owner": "b1tg",
     "repotime": "2023-08-30, 22:20:43",
-    "stargazers_count": 484,
-    "watchers_count": 484
+    "stargazers_count": 487,
+    "watchers_count": 487
 }
 {
     "commits_count": 3,
@@ -62,14 +79,15 @@
     "forks_count": 0,
     "html_url": "https://github.com/z3r0sw0rd/CVE-2023-38831-PoC",
     "keywords": [
-        "zero-day exploit"
+        "zero-day exploit",
+        "zero-day poc"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-38831-PoC",
     "repo_owner": "z3r0sw0rd",
     "repotime": "2023-08-30, 10:08:06",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1184,
@@ -104,6 +122,23 @@
     "repotime": "2023-08-30, 11:34:07",
     "stargazers_count": 1384,
     "watchers_count": 1384
+}
+{
+    "commits_count": 48,
+    "date_started": "2022-03-20",
+    "date_updated": "2023-08-30",
+    "description": "Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin，online https://51pwn.com",
+    "forks_count": 23,
+    "html_url": "https://github.com/hktalent/go4Hacker",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Go",
+    "repo_name": "go4Hacker",
+    "repo_owner": "hktalent",
+    "repotime": "2023-08-30, 16:43:21",
+    "stargazers_count": 123,
+    "watchers_count": 123
 }
 {
     "commits_count": 11,
@@ -1388,8 +1423,8 @@
     "repo_name": "heob",
     "repo_owner": "ssbssa",
     "repotime": "2023-08-06, 14:47:38",
-    "stargazers_count": 128,
-    "watchers_count": 128
+    "stargazers_count": 129,
+    "watchers_count": 129
 }
 {
     "commits_count": 27,
@@ -1535,7 +1570,7 @@
     "date_started": "2019-04-19",
     "date_updated": "2023-08-03",
     "description": "Top disclosed reports from HackerOne",
-    "forks_count": 514,
+    "forks_count": 516,
     "html_url": "https://github.com/reddelexc/hackerone-reports",
     "keywords": [
         "xxe"
@@ -1544,8 +1579,8 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2023-08-03, 04:18:25",
-    "stargazers_count": 2492,
-    "watchers_count": 2492
+    "stargazers_count": 2496,
+    "watchers_count": 2496
 }
 {
     "commits_count": 2,
