@@ -1,4 +1,22 @@
 {
+    "commits_count": 3,
+    "date_started": "2023-08-30",
+    "date_updated": "2023-08-31",
+    "description": "This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC",
+    "keywords": [
+        "rce proof of concept",
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831-Winrar-Exploit-Generator-POC",
+    "repo_owner": "MorDavid",
+    "repotime": "2023-08-31, 02:32:08",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 8,
     "date_started": "2023-08-30",
     "date_updated": "2023-08-30",
@@ -20,7 +38,7 @@
     "date_started": "2023-08-25",
     "date_updated": "2023-08-30",
     "description": "CVE-2023-38831 winrar exploit generator",
-    "forks_count": 66,
+    "forks_count": 70,
     "html_url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
     "keywords": [
         "Win 0day",
@@ -33,8 +51,25 @@
     "repo_name": "CVE-2023-38831-winrar-exploit",
     "repo_owner": "b1tg",
     "repotime": "2023-08-30, 22:20:43",
-    "stargazers_count": 478,
-    "watchers_count": 478
+    "stargazers_count": 484,
+    "watchers_count": 484
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-08-30",
+    "date_updated": "2023-08-30",
+    "description": "Proof-of-Concept for CVE-2023-38831 Zero-Day vulnerability in WinRAR",
+    "forks_count": 0,
+    "html_url": "https://github.com/z3r0sw0rd/CVE-2023-38831-PoC",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831-PoC",
+    "repo_owner": "z3r0sw0rd",
+    "repotime": "2023-08-30, 10:08:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 1184,
@@ -201,7 +236,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/0xlane/windows-nps-no-rce",
     "keywords": [
-        "Windows rce"
+        "Windows rce",
+        "Win rce"
     ],
     "language": "Rust",
     "repo_name": "windows-nps-no-rce",
@@ -229,6 +265,23 @@
 }
 {
     "commits_count": 1,
+    "date_started": "2023-08-29",
+    "date_updated": "2023-08-29",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/ShviamM/zero-Day---Winrar",
+    "keywords": [
+        "Win zero-day"
+    ],
+    "language": null,
+    "repo_name": "zero-Day---Winrar",
+    "repo_owner": "ShviamM",
+    "repotime": "2023-08-29, 11:10:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
     "date_started": "2023-08-28",
     "date_updated": "2023-08-28",
     "description": "Analysis of Algorithms projects from the Fall 2023 semester at UAF.",
@@ -243,6 +296,23 @@
     "repotime": "2023-08-28, 15:30:01",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 22,
+    "date_started": "2023-08-28",
+    "date_updated": "2023-08-28",
+    "description": "Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831_ReverseShell_Winrar-RCE",
+    "repo_owner": "Maalfer",
+    "repotime": "2023-08-28, 11:32:04",
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 9,
