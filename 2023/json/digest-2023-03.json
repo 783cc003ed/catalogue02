@@ -313,23 +313,6 @@
 }
 {
     "commits_count": 2,
-    "date_started": "2023-03-22",
-    "date_updated": "2023-03-21",
-    "description": "This repository contains a Command and Control Center to be contacted during a XSS attack. It extracts the victims session cookie, performs stealth attacks and privilege escalation. The attacked web application is the MISM by Amir Sanni",
-    "forks_count": 0,
-    "html_url": "https://github.com/RBReif/commandAndControlCenterXSS",
-    "keywords": [
-        "session attack"
-    ],
-    "language": "PHP",
-    "repo_name": "commandAndControlCenterXSS",
-    "repo_owner": "RBReif",
-    "repotime": "2023-03-21, 23:01:37",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 2,
     "date_started": "2023-03-21",
     "date_updated": "2023-03-21",
     "description": "CloudSchool v3.0.1 is vulnerable to Cross Site Scripting (XSS). A normal user can steal session cookies of the admin users through notification received by the admin user.",
@@ -966,8 +949,8 @@
     "repo_name": "bincat",
     "repo_owner": "airbus-seclab",
     "repotime": "2023-03-08, 17:18:41",
-    "stargazers_count": 1522,
-    "watchers_count": 1522
+    "stargazers_count": 1524,
+    "watchers_count": 1524
 }
 {
     "commits_count": 19,

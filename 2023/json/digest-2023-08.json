@@ -3,18 +3,19 @@
     "date_started": "2023-08-30",
     "date_updated": "2023-08-31",
     "description": "This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC",
     "keywords": [
         "rce proof of concept",
-        "Win rce"
+        "Win rce",
+        "Win rce proof of concept"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-38831-Winrar-Exploit-Generator-POC",
     "repo_owner": "MorDavid",
     "repotime": "2023-08-31, 02:32:08",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 47,
@@ -30,6 +31,40 @@
     "repo_name": "PPS_Project",
     "repo_owner": "jonschumaker",
     "repotime": "2023-08-30, 17:35:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-08-30",
+    "date_updated": "2023-08-30",
+    "description": "Advanced phishing tool used for session &amp;amp; credential grabbing and bypassing 2FA using man-in-the-middle attack with standalone reverse proxy server.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kal1gh0st/Cipherishing",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Cipherishing",
+    "repo_owner": "kal1gh0st",
+    "repotime": "2023-08-30, 21:24:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-03-22",
+    "date_updated": "2023-08-30",
+    "description": "This repository contains a Command and Control Center to be contacted during a XSS attack. It extracts the victims session cookie, performs stealth attacks and privilege escalation. The attacked web application is the MISM by Amir Sanni",
+    "forks_count": 0,
+    "html_url": "https://github.com/RBReif/commandAndControlCenterXSS",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "commandAndControlCenterXSS",
+    "repo_owner": "RBReif",
+    "repotime": "2023-08-30, 20:22:54",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -632,7 +667,7 @@
     "date_started": "2018-07-10",
     "date_updated": "2023-08-24",
     "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-    "forks_count": 1611,
+    "forks_count": 1612,
     "html_url": "https://github.com/kgretzky/evilginx2",
     "keywords": [
         "session attack"
@@ -641,8 +676,8 @@
     "repo_name": "evilginx2",
     "repo_owner": "kgretzky",
     "repotime": "2023-08-24, 11:56:32",
-    "stargazers_count": 8150,
-    "watchers_count": 8150
+    "stargazers_count": 8156,
+    "watchers_count": 8156
 }
 {
     "commits_count": 93,
