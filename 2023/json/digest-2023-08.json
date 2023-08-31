@@ -1,4 +1,24 @@
 {
+    "commits_count": 4,
+    "date_started": "2023-08-30",
+    "date_updated": "2023-08-31",
+    "description": "This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.",
+    "forks_count": 1,
+    "html_url": "https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC",
+    "keywords": [
+        "rce proof of concept",
+        "Win rce",
+        "Win rce proof of concept",
+        "Win rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831-Winrar-Exploit-Generator-POC",
+    "repo_owner": "MorDavid",
+    "repotime": "2023-08-31, 18:07:48",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
     "commits_count": 615,
     "date_started": "2022-03-19",
     "date_updated": "2023-08-31",
@@ -16,25 +36,6 @@
     "repotime": "2023-08-31, 00:09:43",
     "stargazers_count": 562,
     "watchers_count": 562
-}
-{
-    "commits_count": 3,
-    "date_started": "2023-08-30",
-    "date_updated": "2023-08-31",
-    "description": "This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.",
-    "forks_count": 1,
-    "html_url": "https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC",
-    "keywords": [
-        "rce proof of concept",
-        "Win rce",
-        "Win rce proof of concept"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2023-38831-Winrar-Exploit-Generator-POC",
-    "repo_owner": "MorDavid",
-    "repotime": "2023-08-31, 02:32:08",
-    "stargazers_count": 3,
-    "watchers_count": 3
 }
 {
     "commits_count": 47,
@@ -109,7 +110,7 @@
     "date_started": "2023-08-25",
     "date_updated": "2023-08-30",
     "description": "CVE-2023-38831 winrar exploit generator",
-    "forks_count": 73,
+    "forks_count": 75,
     "html_url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
     "keywords": [
         "Win 0day",
@@ -122,8 +123,8 @@
     "repo_name": "CVE-2023-38831-winrar-exploit",
     "repo_owner": "b1tg",
     "repotime": "2023-08-30, 22:20:43",
-    "stargazers_count": 492,
-    "watchers_count": 492
+    "stargazers_count": 507,
+    "watchers_count": 507
 }
 {
     "commits_count": 3,
@@ -389,7 +390,7 @@
     "date_started": "2023-08-27",
     "date_updated": "2023-08-28",
     "description": "An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23",
-    "forks_count": 15,
+    "forks_count": 16,
     "html_url": "https://github.com/ignis-sec/CVE-2023-38831-RaRCE",
     "keywords": [
         "rce exploitation",
@@ -399,8 +400,8 @@
     "repo_name": "CVE-2023-38831-RaRCE",
     "repo_owner": "ignis-sec",
     "repotime": "2023-08-28, 01:17:56",
-    "stargazers_count": 71,
-    "watchers_count": 71
+    "stargazers_count": 89,
+    "watchers_count": 89
 }
 {
     "commits_count": 113,
@@ -745,8 +746,8 @@
     "repo_name": "CVE-2023-3519",
     "repo_owner": "BishopFox",
     "repotime": "2023-08-23, 09:27:28",
-    "stargazers_count": 170,
-    "watchers_count": 170
+    "stargazers_count": 171,
+    "watchers_count": 171
 }
 {
     "commits_count": 3,
@@ -1483,7 +1484,7 @@
     "date_started": "2023-05-24",
     "date_updated": "2023-08-04",
     "description": "LFI-FINDER is an open-source tool available on GitHub that focuses on detecting Local File Inclusion (LFI) vulnerabilities",
-    "forks_count": 39,
+    "forks_count": 40,
     "html_url": "https://github.com/capture0x/LFI-FINDER",
     "keywords": [
         "local file inclusion",
@@ -1493,8 +1494,8 @@
     "repo_name": "LFI-FINDER",
     "repo_owner": "capture0x",
     "repotime": "2023-08-04, 16:53:05",
-    "stargazers_count": 190,
-    "watchers_count": 190
+    "stargazers_count": 192,
+    "watchers_count": 192
 }
 {
     "commits_count": 4,
