@@ -53,6 +53,23 @@
     "watchers_count": 27942
 }
 {
+    "commits_count": 24,
+    "date_started": "2023-08-28",
+    "date_updated": "2023-08-31",
+    "description": "Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831_ReverseShell_Winrar-RCE",
+    "repo_owner": "Maalfer",
+    "repotime": "2023-08-31, 09:40:12",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 47,
     "date_started": "2021-10-17",
     "date_updated": "2023-08-30",
@@ -365,23 +382,6 @@
     "repotime": "2023-08-28, 15:30:01",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 22,
-    "date_started": "2023-08-28",
-    "date_updated": "2023-08-28",
-    "description": "Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.",
-    "forks_count": 1,
-    "html_url": "https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE",
-    "keywords": [
-        "Win rce"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2023-38831_ReverseShell_Winrar-RCE",
-    "repo_owner": "Maalfer",
-    "repotime": "2023-08-28, 11:32:04",
-    "stargazers_count": 6,
-    "watchers_count": 6
 }
 {
     "commits_count": 9,
@@ -1231,8 +1231,8 @@
     "repo_name": "HackSysExtremeVulnerableDriver",
     "repo_owner": "hacksysteam",
     "repotime": "2023-08-12, 01:01:59",
-    "stargazers_count": 2127,
-    "watchers_count": 2127
+    "stargazers_count": 2128,
+    "watchers_count": 2128
 }
 {
     "commits_count": 16,
