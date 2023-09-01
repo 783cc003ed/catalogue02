@@ -142,7 +142,7 @@
     "date_started": "2021-05-24",
     "date_updated": "2021-05-25",
     "description": "This is a small boot2root VM I created for my university’s cyber security group. It contains multiple remote vulnerabilities and multiple privilege escalation vectors. I did all of my testing for this VM on VirtualBox, so that’s the recommended platform. I have been informed that it also works with VMware, but I haven’t tested this personally.  This VM is specifically intended for newcomers to penetration testing. If you’re a beginner, you should hopefully find the difficulty of the VM to be just right.  Your goal is to remotely attack the VM and gain root privileges. Once you’ve finished, try to find other vectors you might have missed! If you enjoyed the VM or have questions, feel free to contact me at: josiah@vt.edu  If you finished the VM, please also consider posting a writeup! Writeups help you internalize what you worked on and help anyone else who might be struggling or wants to see someone else’s process. I look forward to reading them!",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/vshaliii/Basic-Pentesting-1-Vulnhub-Walkthrough",
     "keywords": [
         "escalation of privileges vulnerability"
