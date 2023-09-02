@@ -1,4 +1,38 @@
 {
+    "commits_count": 2,
+    "date_started": "2023-09-02",
+    "date_updated": "2023-09-02",
+    "description": "FOR EDUCATIONAL PURPOSES ONLY - DO NOT USE MALICIOUSLY. This python script utilises a buffer overflow vulnerability in Winamp v5.5732 to a gain reverse shell, allowing the attacker to conduct Remote Code Execution (RCE) on the target machine",
+    "forks_count": 0,
+    "html_url": "https://github.com/SimonHalabi/Winamp-Buffer-Overflow-Exploit",
+    "keywords": [
+        "Win remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Winamp-Buffer-Overflow-Exploit",
+    "repo_owner": "SimonHalabi",
+    "repotime": "2023-09-02, 21:13:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 159,
+    "date_started": "2021-09-08",
+    "date_updated": "2023-09-02",
+    "description": "Automated Multi UAC BYPASS for win10|win11|ws2019|ws2022",
+    "forks_count": 34,
+    "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Automated-MUlti-UAC-Bypass",
+    "repo_owner": "x0xr00t",
+    "repotime": "2023-09-02, 12:10:50",
+    "stargazers_count": 157,
+    "watchers_count": 157
+}
+{
     "commits_count": 56,
     "date_started": "2017-07-23",
     "date_updated": "2023-09-01",
