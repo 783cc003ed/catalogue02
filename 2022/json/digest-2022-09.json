@@ -1056,6 +1056,23 @@
 }
 {
     "commits_count": 26,
+    "date_started": "2023-04-25",
+    "date_updated": "2022-09-19",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/GrayHatZone/CVE-2022-37706-LPE-exploit",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2022-37706-LPE-exploit",
+    "repo_owner": "GrayHatZone",
+    "repotime": "2022-09-19, 20:41:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 26,
     "date_started": "2022-09-12",
     "date_updated": "2022-09-19",
     "description": "A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04)",
@@ -1071,23 +1088,6 @@
     "repotime": "2022-09-19, 20:41:34",
     "stargazers_count": 218,
     "watchers_count": 218
-}
-{
-    "commits_count": 26,
-    "date_started": "2023-04-25",
-    "date_updated": "2022-09-19",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/GrayHatZone/CVE-2022-37706-LPE-exploit",
-    "keywords": [
-        "lpe exploit"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2022-37706-LPE-exploit",
-    "repo_owner": "GrayHatZone",
-    "repotime": "2022-09-19, 20:41:34",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 36,
@@ -1835,7 +1835,7 @@
     "date_started": "2022-04-05",
     "date_updated": "2022-09-07",
     "description": "记录实战中的各种sql注入绕过姿势",
-    "forks_count": 68,
+    "forks_count": 69,
     "html_url": "https://github.com/Junehck/SQL-injection-bypass",
     "keywords": [
         "sql injection"
@@ -1844,8 +1844,8 @@
     "repo_name": "SQL-injection-bypass",
     "repo_owner": "Junehck",
     "repotime": "2022-09-07, 21:03:02",
-    "stargazers_count": 541,
-    "watchers_count": 541
+    "stargazers_count": 542,
+    "watchers_count": 542
 }
 {
     "commits_count": 3,
@@ -2179,7 +2179,7 @@
     "date_started": "2020-10-23",
     "date_updated": "2022-09-04",
     "description": "A cheat sheet that contains advanced queries for SQL Injection of all types.",
-    "forks_count": 563,
+    "forks_count": 565,
     "html_url": "https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet",
     "keywords": [
         "sql injection"
@@ -2188,8 +2188,8 @@
     "repo_name": "Advanced-SQL-Injection-Cheatsheet",
     "repo_owner": "kleiton0x00",
     "repotime": "2022-09-04, 17:36:34",
-    "stargazers_count": 2207,
-    "watchers_count": 2207
+    "stargazers_count": 2210,
+    "watchers_count": 2210
 }
 {
     "commits_count": 16,
