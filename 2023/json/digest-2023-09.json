@@ -6,7 +6,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/SimonHalabi/Winamp-Buffer-Overflow-Exploit",
     "keywords": [
-        "Win remote code execution"
+        "Win remote code execution",
+        "Win rce exploit"
     ],
     "language": "Python",
     "repo_name": "Winamp-Buffer-Overflow-Exploit",
@@ -50,6 +51,23 @@
     "repotime": "2023-09-02, 00:09:19",
     "stargazers_count": 563,
     "watchers_count": 563
+}
+{
+    "commits_count": 13,
+    "date_started": "2023-09-01",
+    "date_updated": "2023-09-01",
+    "description": "Used to extract entities from the BIBFRAME-XML for purposes of enrichment from external sources",
+    "forks_count": 0,
+    "html_url": "https://github.com/htrc/Metadata-bibframe-entities",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Scala",
+    "repo_name": "Metadata-bibframe-entities",
+    "repo_owner": "htrc",
+    "repotime": "2023-09-01, 17:18:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 56,
