@@ -232,7 +232,7 @@
     "date_started": "2022-07-18",
     "date_updated": "2022-09-27",
     "description": "ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC-exploit",
-    "forks_count": 10,
+    "forks_count": 11,
     "html_url": "https://github.com/viniciuspereiras/CVE-2022-35405",
     "keywords": [
         "remote code execution exploitation",
@@ -247,8 +247,8 @@
     "repo_name": "CVE-2022-35405",
     "repo_owner": "viniciuspereiras",
     "repotime": "2022-09-27, 11:52:32",
-    "stargazers_count": 28,
-    "watchers_count": 28
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 144,
@@ -1056,23 +1056,6 @@
 }
 {
     "commits_count": 26,
-    "date_started": "2023-04-25",
-    "date_updated": "2022-09-19",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/GrayHatZone/CVE-2022-37706-LPE-exploit",
-    "keywords": [
-        "lpe exploit"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2022-37706-LPE-exploit",
-    "repo_owner": "GrayHatZone",
-    "repotime": "2022-09-19, 20:41:34",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 26,
     "date_started": "2022-09-12",
     "date_updated": "2022-09-19",
     "description": "A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04)",
@@ -1088,6 +1071,23 @@
     "repotime": "2022-09-19, 20:41:34",
     "stargazers_count": 218,
     "watchers_count": 218
+}
+{
+    "commits_count": 26,
+    "date_started": "2023-04-25",
+    "date_updated": "2022-09-19",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/GrayHatZone/CVE-2022-37706-LPE-exploit",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2022-37706-LPE-exploit",
+    "repo_owner": "GrayHatZone",
+    "repotime": "2022-09-19, 20:41:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 36,
@@ -1283,7 +1283,7 @@
     "date_started": "2022-09-04",
     "date_updated": "2022-09-15",
     "description": "Application with SQL Injection vulnerability and possible privilege escalation. Free vulnerable app for ethical hacking / penetration testing training. ",
-    "forks_count": 12,
+    "forks_count": 13,
     "html_url": "https://github.com/filipkarc/sqli-postgres-rce-privesc-hacking-playground",
     "keywords": [
         "rce vulnerability"
@@ -1292,8 +1292,8 @@
     "repo_name": "sqli-postgres-rce-privesc-hacking-playground",
     "repo_owner": "filipkarc",
     "repotime": "2022-09-15, 11:35:19",
-    "stargazers_count": 61,
-    "watchers_count": 61
+    "stargazers_count": 62,
+    "watchers_count": 62
 }
 {
     "commits_count": 8,
