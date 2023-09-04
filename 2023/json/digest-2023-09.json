@@ -24,7 +24,8 @@
     "html_url": "https://github.com/K3rnel-Dev/WinrarExploit",
     "keywords": [
         "Win 0day",
-        "0day exploitation"
+        "0day exploitation",
+        "Win 0day exploit"
     ],
     "language": "Python",
     "repo_name": "WinrarExploit",
@@ -68,6 +69,23 @@
     "repotime": "2023-09-03, 00:10:16",
     "stargazers_count": 563,
     "watchers_count": 563
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-09-02",
+    "date_updated": "2023-09-03",
+    "description": "an exploit of Server-side request forgery (SSRF)",
+    "forks_count": 1,
+    "html_url": "https://github.com/errorfiathck/ssrf-exploit",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "ssrf-exploit",
+    "repo_owner": "errorfiathck",
+    "repotime": "2023-09-03, 00:53:47",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 1585,
