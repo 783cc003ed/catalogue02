@@ -179,6 +179,23 @@
     "commits_count": 1,
     "date_started": "2023-09-03",
     "date_updated": "2023-09-03",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/lourkeur/nixpkgs-python-dependency-bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Nix",
+    "repo_name": "nixpkgs-python-dependency-bypass",
+    "repo_owner": "lourkeur",
+    "repotime": "2023-09-03, 15:41:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-09-03",
+    "date_updated": "2023-09-03",
     "description": "a type of strategy video game in which the player must protect a specific area or path from attacks by enemies moving towards a specific objective. In this game, players build defensive structures, often called &amp;quot;castles,&amp;quot; along paths that enemies will traverse. This tower serves to attack or stop enemies that are approaching in various ways.",
     "forks_count": 0,
     "html_url": "https://github.com/farhandwi/Castle-Defence-With-Java-Main",
@@ -308,7 +325,8 @@
         "Win rce exploit",
         "Win remote code execution exploit",
         "Win rce",
-        "Win rce vulnerability"
+        "Win rce vulnerability",
+        "Win remote code execution vulnerability"
     ],
     "language": "Python",
     "repo_name": "Winamp-Buffer-Overflow-Exploit",
