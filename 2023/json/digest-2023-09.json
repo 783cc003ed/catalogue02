@@ -52,6 +52,23 @@
     "watchers_count": 1139
 }
 {
+    "commits_count": 8,
+    "date_started": "2023-01-25",
+    "date_updated": "2023-09-05",
+    "description": "unauthenticated (2.1.0 - 2.1.0.p11) / authenticated (&amp;lt;2.1.0p12) RCE exploit for Checkmk.",
+    "forks_count": 1,
+    "html_url": "https://github.com/gbrsh/checkmk-race",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "checkmk-race",
+    "repo_owner": "gbrsh",
+    "repotime": "2023-09-05, 13:29:25",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 5,
     "date_started": "2023-09-05",
     "date_updated": "2023-09-05",
@@ -289,6 +306,23 @@
     "repotime": "2023-09-04, 07:51:34",
     "stargazers_count": 160,
     "watchers_count": 160
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-09-03",
+    "date_updated": "2023-09-03",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Unauthenticated-RCE-FUXA-CVE-2023-33831",
+    "repo_owner": "rodolfomarianocy",
+    "repotime": "2023-09-03, 16:34:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 11,
@@ -580,7 +614,7 @@
     "date_started": "2023-09-01",
     "date_updated": "2023-09-01",
     "description": "Pwn2Own Vancouver 2023 Ubuntu LPE exploit",
-    "forks_count": 7,
+    "forks_count": 10,
     "html_url": "https://github.com/synacktiv/CVE-2023-35001",
     "keywords": [
         "lpe exploit",
@@ -590,8 +624,8 @@
     "repo_name": "CVE-2023-35001",
     "repo_owner": "synacktiv",
     "repotime": "2023-09-01, 09:48:33",
-    "stargazers_count": 47,
-    "watchers_count": 47
+    "stargazers_count": 73,
+    "watchers_count": 73
 }
 {
     "commits_count": 4,
