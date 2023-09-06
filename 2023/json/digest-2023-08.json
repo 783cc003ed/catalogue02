@@ -93,7 +93,7 @@
     "date_started": "2021-10-17",
     "date_updated": "2023-08-30",
     "description": "Consider  the  design  of  a  database  for  a  web  site  that  allow  people  to  buy  and  sell  a  cypto called PPS (see website testing.ppswap.org). Only registered users can buy and sell PPS. Each user is identified by a userid, which is an email, first name, last name, birthday, address (street number, street, city, state, and zip code), balance of PPS and balance of dollar.  Initially, both PPS and dollar balances are zero. A user can withdraw and deposit dollars. A special user root (this is the only user whose id is root and not an email) initially will have the whole supply of PPS, which is 1T. A user will sell and buy PPS only with this special user root (in real life, this special root might be just a smart contract). The price of the PPS is set to 1M/$ initially. For the simplicity of this project, we assume each buy will increase the price by a little: each dollar can buy 1 less PPS after each buy. In the same way, each sell will decrease the price a little bit:  each  d...",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/jonschumaker/PPS_Project",
     "keywords": [
         "hard coded password"
@@ -537,8 +537,8 @@
     "repo_name": "FineReport_channel_Deserialization_Vulnerabilities_RCE",
     "repo_owner": "Avento",
     "repotime": "2023-08-25, 16:05:26",
-    "stargazers_count": 53,
-    "watchers_count": 53
+    "stargazers_count": 54,
+    "watchers_count": 54
 }
 {
     "commits_count": 7,
@@ -616,7 +616,7 @@
     "date_started": "2023-06-30",
     "date_updated": "2023-08-24",
     "description": "Egyscan The Best web vulnerability scanner; it's a multifaceted security powerhouse designed to fortify your web applications against malicious threats. Let's delve into the tasks and functions that make Egyscan an indispensable tool in your security arsenal:",
-    "forks_count": 17,
+    "forks_count": 18,
     "html_url": "https://github.com/dragonked2/Egyscan",
     "keywords": [
         "rce vulnerability"
@@ -694,8 +694,8 @@
     "repo_name": "Struts2-RCE",
     "repo_owner": "prakharathreya",
     "repotime": "2023-08-23, 09:40:13",
-    "stargazers_count": 264,
-    "watchers_count": 264
+    "stargazers_count": 262,
+    "watchers_count": 262
 }
 {
     "commits_count": 6,
@@ -887,23 +887,6 @@
     "repotime": "2023-08-19, 21:27:01",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 1188,
-    "date_started": "2020-06-03",
-    "date_updated": "2023-08-19",
-    "description": "ssh mitm server for security audits supporting public key authentication, session hijacking and file manipulation",
-    "forks_count": 114,
-    "html_url": "https://github.com/ssh-mitm/ssh-mitm",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "Python",
-    "repo_name": "ssh-mitm",
-    "repo_owner": "ssh-mitm",
-    "repotime": "2023-08-19, 10:42:00",
-    "stargazers_count": 1104,
-    "watchers_count": 1104
 }
 {
     "commits_count": 11,
@@ -1581,8 +1564,8 @@
     "repo_name": "Log4j-RCE-Scanner",
     "repo_owner": "adilsoybali",
     "repotime": "2023-08-02, 01:05:20",
-    "stargazers_count": 248,
-    "watchers_count": 248
+    "stargazers_count": 247,
+    "watchers_count": 247
 }
 {
     "commits_count": 13,

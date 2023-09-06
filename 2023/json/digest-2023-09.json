@@ -1,4 +1,40 @@
 {
+    "commits_count": 621,
+    "date_started": "2022-03-19",
+    "date_updated": "2023-09-06",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 109,
+    "html_url": "https://github.com/hktalent/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "hktalent",
+    "repotime": "2023-09-06, 00:09:36",
+    "stargazers_count": 563,
+    "watchers_count": 563
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-09-05",
+    "date_updated": "2023-09-05",
+    "description": "EDUCATIONAL PURPOSES ONLY! Linux/x64 reverse TCP shell exploit via ELF memory processing",
+    "forks_count": 0,
+    "html_url": "https://github.com/Qyfashae/memfd_create_2023_Exploit",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "memfd_create_2023_Exploit",
+    "repo_owner": "Qyfashae",
+    "repotime": "2023-09-05, 14:33:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 1587,
     "date_started": "2019-09-10",
     "date_updated": "2023-09-05",
@@ -14,6 +50,40 @@
     "repotime": "2023-09-05, 19:23:57",
     "stargazers_count": 1139,
     "watchers_count": 1139
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-09-05",
+    "date_updated": "2023-09-05",
+    "description": "CVE-2023-41508 - A hard-coded password in Super Store Finder v3.6 allows attackers to access the administration panel.",
+    "forks_count": 0,
+    "html_url": "https://github.com/redblueteam/CVE-2023-41508",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-41508",
+    "repo_owner": "redblueteam",
+    "repotime": "2023-09-05, 16:52:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-09-05",
+    "date_updated": "2023-09-05",
+    "description": "CVE-2023-41507 A hard coded password in Super Store Finder v3.6 allows attackers to access the administration panel.",
+    "forks_count": 0,
+    "html_url": "https://github.com/redblueteam/CVE-2023-41507",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-41507",
+    "repo_owner": "redblueteam",
+    "repotime": "2023-09-05, 14:48:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -85,25 +155,6 @@
     "watchers_count": 46
 }
 {
-    "commits_count": 620,
-    "date_started": "2022-03-19",
-    "date_updated": "2023-09-05",
-    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-    "forks_count": 109,
-    "html_url": "https://github.com/hktalent/TOP",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "rce vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "TOP",
-    "repo_owner": "hktalent",
-    "repotime": "2023-09-05, 00:09:29",
-    "stargazers_count": 563,
-    "watchers_count": 563
-}
-{
     "commits_count": 10221,
     "date_started": "2012-06-26",
     "date_updated": "2023-09-04",
@@ -119,6 +170,23 @@
     "repotime": "2023-09-04, 18:47:25",
     "stargazers_count": 27973,
     "watchers_count": 27973
+}
+{
+    "commits_count": 1190,
+    "date_started": "2020-06-03",
+    "date_updated": "2023-09-04",
+    "description": "ssh mitm server for security audits supporting public key authentication, session hijacking and file manipulation",
+    "forks_count": 115,
+    "html_url": "https://github.com/ssh-mitm/ssh-mitm",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "ssh-mitm",
+    "repo_owner": "ssh-mitm",
+    "repotime": "2023-09-04, 18:16:09",
+    "stargazers_count": 1105,
+    "watchers_count": 1105
 }
 {
     "commits_count": 581,
@@ -348,6 +416,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4,
+    "date_started": "2023-09-02",
+    "date_updated": "2023-09-02",
+    "description": "This repository contains code for an OTP token device using an ATmega32 microcontroller for generating one-time passwords as the final project of the undergraduate microprocessor course.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MelvinMo/OTP-Hardware-Token-Device",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "C",
+    "repo_name": "OTP-Hardware-Token-Device",
+    "repo_owner": "MelvinMo",
+    "repotime": "2023-09-02, 18:25:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2,
     "date_started": "2023-09-02",
     "date_updated": "2023-09-02",
@@ -391,7 +476,7 @@
     "date_started": "2023-04-04",
     "date_updated": "2023-09-02",
     "description": "Session Hijacking Visual Exploitation",
-    "forks_count": 3,
+    "forks_count": 5,
     "html_url": "https://github.com/doyensec/Session-Hijacking-Visual-Exploitation",
     "keywords": [
         "session hijacking"
@@ -400,8 +485,8 @@
     "repo_name": "Session-Hijacking-Visual-Exploitation",
     "repo_owner": "doyensec",
     "repotime": "2023-09-02, 01:35:59",
-    "stargazers_count": 30,
-    "watchers_count": 30
+    "stargazers_count": 52,
+    "watchers_count": 52
 }
 {
     "commits_count": 13,
