@@ -521,8 +521,8 @@
     "repo_name": "extended-ssrf-search",
     "repo_owner": "Damian89",
     "repotime": "2021-02-11, 21:12:37",
-    "stargazers_count": 269,
-    "watchers_count": 269
+    "stargazers_count": 270,
+    "watchers_count": 270
 }
 {
     "commits_count": 1,
@@ -563,7 +563,7 @@
     "date_started": "2021-02-09",
     "date_updated": "2021-02-10",
     "description": "An SSRF detector tool written in golang. I have fixed some errors and added some more payloads to it. But the tool credits go to z0idsec.",
-    "forks_count": 11,
+    "forks_count": 12,
     "html_url": "https://github.com/R0X4R/ssrf-tool",
     "keywords": [
         "ssrf"
