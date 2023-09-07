@@ -50,6 +50,24 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 377,
+    "date_started": "2022-04-07",
+    "date_updated": "2023-09-06",
+    "description": "各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新",
+    "forks_count": 708,
+    "html_url": "https://github.com/helloexp/0day",
+    "keywords": [
+        "0day exploit",
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "0day",
+    "repo_owner": "helloexp",
+    "repotime": "2023-09-06, 17:32:18",
+    "stargazers_count": 1653,
+    "watchers_count": 1653
+}
+{
     "commits_count": 11,
     "date_started": "2023-09-04",
     "date_updated": "2023-09-06",
@@ -506,7 +524,7 @@
     "date_started": "2023-09-02",
     "date_updated": "2023-09-03",
     "description": "an exploit of Server-side request forgery (SSRF)",
-    "forks_count": 1,
+    "forks_count": 3,
     "html_url": "https://github.com/errorfiathck/ssrf-exploit",
     "keywords": [
         "server side request forgery"
@@ -515,8 +533,8 @@
     "repo_name": "ssrf-exploit",
     "repo_owner": "errorfiathck",
     "repotime": "2023-09-03, 00:53:47",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 18,
