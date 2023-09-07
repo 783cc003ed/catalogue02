@@ -547,8 +547,8 @@
     "repo_name": "CVE-2023-0297",
     "repo_owner": "JacobEbben",
     "repotime": "2023-05-21, 19:15:18",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 27,
@@ -1283,7 +1283,7 @@
     "date_started": "2016-07-11",
     "date_updated": "2023-05-02",
     "description": " QRLJacking or Quick Response Code Login Jacking is a simple-but-nasty attack vector affecting all the applications that relays on “Login with QR code” feature as a secure way to login into accounts which aims for hijacking users session by attackers.",
-    "forks_count": 609,
+    "forks_count": 610,
     "html_url": "https://github.com/OWASP/QRLJacking",
     "keywords": [
         "session hijacking attack",
