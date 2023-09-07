@@ -979,7 +979,7 @@
     "date_started": "2023-03-09",
     "date_updated": "2023-07-11",
     "description": "Windows LPE exploit for CVE-2022-37969",
-    "forks_count": 33,
+    "forks_count": 34,
     "html_url": "https://github.com/fortra/CVE-2022-37969",
     "keywords": [
         "Windows lpe exploit",
@@ -1352,24 +1352,6 @@
     "repotime": "2023-07-04, 19:51:45",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 23,
-    "date_started": "2022-01-27",
-    "date_updated": "2023-07-04",
-    "description": "A collection of weaponized LPE exploits written in Go",
-    "forks_count": 9,
-    "html_url": "https://github.com/jm33-m0/go-lpe",
-    "keywords": [
-        "lpe exploit",
-        "lpe exploitation"
-    ],
-    "language": "Go",
-    "repo_name": "go-lpe",
-    "repo_owner": "jm33-m0",
-    "repotime": "2023-07-04, 13:47:50",
-    "stargazers_count": 44,
-    "watchers_count": 44
 }
 {
     "commits_count": 2,
