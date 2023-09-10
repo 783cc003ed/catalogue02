@@ -1,4 +1,21 @@
 {
+    "commits_count": 3,
+    "date_started": "2023-09-09",
+    "date_updated": "2023-09-10",
+    "description": "A local file inclusion vulnerability can lead to Directory Traversal attacks, where an attacker will try to find and access files on the web server to gain more useful information, such as log files. Log files can reveal the structure of the application or expose paths to sensitive files.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ojasbhole/LFI",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "LFI",
+    "repo_owner": "Ojasbhole",
+    "repotime": "2023-09-10, 01:44:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 1,
     "date_started": "2023-09-09",
     "date_updated": "2023-09-08",
