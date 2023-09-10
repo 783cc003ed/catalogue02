@@ -24,7 +24,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/Ojasbhole/LFI",
     "keywords": [
-        "directory traversal vulnerability"
+        "directory traversal vulnerability",
+        "path traversal vulnerability"
     ],
     "language": null,
     "repo_name": "LFI",
@@ -32,6 +33,23 @@
     "repotime": "2023-09-10, 01:44:11",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 315,
+    "date_started": "2020-06-20",
+    "date_updated": "2023-09-09",
+    "description": "Check your WAF before an attacker does",
+    "forks_count": 129,
+    "html_url": "https://github.com/nemesida-waf/waf-bypass",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "waf-bypass",
+    "repo_owner": "nemesida-waf",
+    "repotime": "2023-09-09, 15:26:32",
+    "stargazers_count": 852,
+    "watchers_count": 852
 }
 {
     "commits_count": 69,
@@ -291,23 +309,6 @@
     "repotime": "2023-09-06, 22:10:31",
     "stargazers_count": 1281,
     "watchers_count": 1281
-}
-{
-    "commits_count": 313,
-    "date_started": "2020-06-20",
-    "date_updated": "2023-09-06",
-    "description": "Check your WAF before an attacker does",
-    "forks_count": 129,
-    "html_url": "https://github.com/nemesida-waf/waf-bypass",
-    "keywords": [
-        "lfi"
-    ],
-    "language": "Python",
-    "repo_name": "waf-bypass",
-    "repo_owner": "nemesida-waf",
-    "repotime": "2023-09-06, 16:23:53",
-    "stargazers_count": 853,
-    "watchers_count": 853
 }
 {
     "commits_count": 13,
