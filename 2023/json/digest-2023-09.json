@@ -35,6 +35,23 @@
     "watchers_count": 564
 }
 {
+    "commits_count": 9,
+    "date_started": "2023-09-11",
+    "date_updated": "2023-09-12",
+    "description": "Automatic Mass Tool for checking vulnerability in CVE-2022-4063 - InPost Gallery &amp;lt; 2.1.4.1 - Unauthenticated LFI to RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/im-hanzou/INPGer",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "INPGer",
+    "repo_owner": "im-hanzou",
+    "repotime": "2023-09-12, 04:31:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 3,
     "date_started": "2023-09-11",
     "date_updated": "2023-09-11",
@@ -45,7 +62,8 @@
         "Windows escalation of privileges exploit",
         "escalation of privileges exploitation",
         "Windows escalation of privileges exploitation",
-        "Windows escalation of privileges vulnerability"
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges vulnerability"
     ],
     "language": "C",
     "repo_name": "CVE-2010-0232",
@@ -781,8 +799,8 @@
     "repo_name": "Unauthenticated-RCE-FUXA-CVE-2023-33831",
     "repo_owner": "rodolfomarianocy",
     "repotime": "2023-09-03, 16:34:57",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 11,
