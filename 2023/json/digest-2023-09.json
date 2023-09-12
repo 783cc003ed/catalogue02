@@ -1,4 +1,21 @@
 {
+    "commits_count": 2285,
+    "date_started": "2009-12-19",
+    "date_updated": "2023-09-12",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "forks_count": 2145,
+    "html_url": "https://github.com/jhy/jsoup",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "jsoup",
+    "repo_owner": "jhy",
+    "repotime": "2023-09-12, 12:11:07",
+    "stargazers_count": 10305,
+    "watchers_count": 10305
+}
+{
     "commits_count": 627,
     "date_started": "2022-03-19",
     "date_updated": "2023-09-12",
@@ -27,7 +44,8 @@
     "keywords": [
         "Windows escalation of privileges exploit",
         "escalation of privileges exploitation",
-        "Windows escalation of privileges exploitation"
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges vulnerability"
     ],
     "language": "C",
     "repo_name": "CVE-2010-0232",
@@ -88,6 +106,23 @@
     "repotime": "2023-09-11, 14:49:43",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 654,
+    "date_started": "2013-06-25",
+    "date_updated": "2023-09-11",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 205,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2023-09-11, 11:18:46",
+    "stargazers_count": 1390,
+    "watchers_count": 1390
 }
 {
     "commits_count": 189,
@@ -169,7 +204,9 @@
     "html_url": "https://github.com/bestjectr/Hta-Exploit-Downloader-Malware-Builder",
     "keywords": [
         "Microsoft remote code execution",
-        "Microsoft remote code execution exploit"
+        "Microsoft remote code execution exploit",
+        "Windows remote code execution exploit",
+        "Windows remote code execution"
     ],
     "language": "C#",
     "repo_name": "Hta-Exploit-Downloader-Malware-Builder",
@@ -281,23 +318,6 @@
     "repotime": "2023-09-09, 10:42:04",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 2279,
-    "date_started": "2009-12-19",
-    "date_updated": "2023-09-09",
-    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2143,
-    "html_url": "https://github.com/jhy/jsoup",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Java",
-    "repo_name": "jsoup",
-    "repo_owner": "jhy",
-    "repotime": "2023-09-09, 11:08:18",
-    "stargazers_count": 10302,
-    "watchers_count": 10302
 }
 {
     "commits_count": 2,
