@@ -293,7 +293,8 @@
         "Win rce",
         "Win rce vulnerability",
         "Windows rce vulnerability",
-        "Windows rce exploitation"
+        "Windows rce exploitation",
+        "Windows rce exploit"
     ],
     "language": null,
     "repo_name": "Winrar_0-day_RCE_Exploitation",
@@ -366,7 +367,8 @@
     "keywords": [
         "directory traversal vulnerability",
         "path traversal vulnerability",
-        "path traversal attack"
+        "path traversal attack",
+        "directory traversal attack"
     ],
     "language": null,
     "repo_name": "LFI",
@@ -482,7 +484,7 @@
     "date_started": "2020-06-03",
     "date_updated": "2023-09-08",
     "description": "ssh mitm server for security audits supporting public key authentication, session hijacking and file manipulation",
-    "forks_count": 115,
+    "forks_count": 116,
     "html_url": "https://github.com/ssh-mitm/ssh-mitm",
     "keywords": [
         "session hijacking"
@@ -491,8 +493,8 @@
     "repo_name": "ssh-mitm",
     "repo_owner": "ssh-mitm",
     "repotime": "2023-09-08, 10:53:51",
-    "stargazers_count": 1107,
-    "watchers_count": 1107
+    "stargazers_count": 1109,
+    "watchers_count": 1109
 }
 {
     "commits_count": 59,
@@ -1058,7 +1060,7 @@
     "date_started": "2023-04-04",
     "date_updated": "2023-09-02",
     "description": "Session Hijacking Visual Exploitation",
-    "forks_count": 5,
+    "forks_count": 7,
     "html_url": "https://github.com/doyensec/Session-Hijacking-Visual-Exploitation",
     "keywords": [
         "session hijacking"
@@ -1067,8 +1069,8 @@
     "repo_name": "Session-Hijacking-Visual-Exploitation",
     "repo_owner": "doyensec",
     "repotime": "2023-09-02, 01:35:59",
-    "stargazers_count": 69,
-    "watchers_count": 69
+    "stargazers_count": 73,
+    "watchers_count": 73
 }
 {
     "commits_count": 13,
