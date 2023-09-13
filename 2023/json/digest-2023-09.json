@@ -70,6 +70,23 @@
     "watchers_count": 564
 }
 {
+    "commits_count": 13,
+    "date_started": "2023-09-11",
+    "date_updated": "2023-09-12",
+    "description": "Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php",
+    "forks_count": 0,
+    "html_url": "https://github.com/codeb0ss/CVE-2023-4238-PoC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-4238-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2023-09-12, 03:04:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 9,
     "date_started": "2023-09-11",
     "date_updated": "2023-09-12",
@@ -85,6 +102,23 @@
     "repotime": "2023-09-12, 04:31:45",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-01-12",
+    "date_updated": "2023-09-11",
+    "description": "Bash script to filter useful ROP gadgets from RP++ output while bypassing DEP to save y'all lots of time",
+    "forks_count": 0,
+    "html_url": "https://github.com/tr3sp4ss3rexe/ROP_Filter",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Shell",
+    "repo_name": "ROP_Filter",
+    "repo_owner": "tr3sp4ss3rexe",
+    "repotime": "2023-09-11, 20:35:27",
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 3,
@@ -112,7 +146,7 @@
     "date_started": "2019-02-23",
     "date_updated": "2023-09-11",
     "description": "K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
-    "forks_count": 2048,
+    "forks_count": 2049,
     "html_url": "https://github.com/k8gege/K8tools",
     "keywords": [
         "0day poc",
@@ -123,8 +157,8 @@
     "repo_name": "K8tools",
     "repo_owner": "k8gege",
     "repotime": "2023-09-11, 22:36:46",
-    "stargazers_count": 5312,
-    "watchers_count": 5312
+    "stargazers_count": 5313,
+    "watchers_count": 5313
 }
 {
     "commits_count": 348,
@@ -791,7 +825,7 @@
     "date_started": "2022-06-20",
     "date_updated": "2023-09-04",
     "description": "Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",
-    "forks_count": 469,
+    "forks_count": 472,
     "html_url": "https://github.com/hktalent/scan4all",
     "keywords": [
         "0day poc"
@@ -800,8 +834,8 @@
     "repo_name": "scan4all",
     "repo_owner": "hktalent",
     "repotime": "2023-09-04, 10:28:07",
-    "stargazers_count": 3914,
-    "watchers_count": 3914
+    "stargazers_count": 3935,
+    "watchers_count": 3935
 }
 {
     "commits_count": 2,
