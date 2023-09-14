@@ -34,24 +34,6 @@
 }
 {
     "commits_count": 2,
-    "date_started": "2022-04-15",
-    "date_updated": "2022-02-26",
-    "description": "<no description>",
-    "forks_count": 1,
-    "html_url": "https://github.com/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE",
-    "keywords": [
-        "Windows rce",
-        "Win rce"
-    ],
-    "language": "Rich Text Format",
-    "repo_name": "CVE-2022-21971-Windows-Runtime-RCE",
-    "repo_owner": "tufanturhan",
-    "repotime": "2022-02-26, 12:45:07",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 2,
     "date_started": "2022-02-26",
     "date_updated": "2022-02-26",
     "description": "PoC for CVE-2022-21971 &amp;quot;Windows Runtime Remote Code Execution Vulnerability&amp;quot;",
@@ -70,6 +52,24 @@
     "repotime": "2022-02-26, 12:45:07",
     "stargazers_count": 298,
     "watchers_count": 298
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-04-15",
+    "date_updated": "2022-02-26",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "Rich Text Format",
+    "repo_name": "CVE-2022-21971-Windows-Runtime-RCE",
+    "repo_owner": "tufanturhan",
+    "repotime": "2022-02-26, 12:45:07",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 2,
@@ -809,7 +809,7 @@
     "date_updated": "2022-02-12",
     "description": "This is a PoC written in Go for Wordpress Privilege Escalation. It was based on exploit´s logic of https://www.exploit-db.com/exploits/41006",
     "forks_count": 0,
-    "html_url": "https://github.com/atlas-51/WP-SupportPlusTicketSystemPE",
+    "html_url": "https://github.com/VP4triot/WP-SupportPlusTicketSystemPE",
     "keywords": [
         "escalation of privileges exploitation",
         "escalation of privileges poc",
@@ -817,7 +817,7 @@
     ],
     "language": "Go",
     "repo_name": "WP-SupportPlusTicketSystemPE",
-    "repo_owner": "atlas-51",
+    "repo_owner": "VP4triot",
     "repotime": "2022-02-12, 01:54:36",
     "stargazers_count": 0,
     "watchers_count": 0
