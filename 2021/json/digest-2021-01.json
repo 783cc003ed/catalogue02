@@ -695,7 +695,7 @@
     "date_started": "2021-01-01",
     "date_updated": "2021-01-06",
     "description": "Interactive Semi Automatic Image 2D Bounding Box Annotation and Labelling Tool using Multi Template Matching   An Interactive Semi Automatic Image 2D Bounding Box Annotation/Labelling Tool to aid the Annotater/User to rapidly create 2D Bounding Box Single Object Detection masks for large number of training images in a semi automatic manner in order to train an object detection deep neural network such as Mask R-CNN or U-Net. As the Annotater/User starts annotating/labelling by drawing a bounding box for a few number of images in the selected folder then the algorithm suggests bounding box predictions for the rest of the yet to be annotated/labelled images in the folder. If the predictions are right then the user/annotater can simply press the keyboard key 'y' which indicates that the detected bounding box is correct. If the prediction is wrong then the user/annotater can manually draw a rectangular 2D bounding box over the correct ROI (Region of interest) in the image and then press th...",
-    "forks_count": 4,
+    "forks_count": 5,
     "html_url": "https://github.com/robertarvind/Interactive-Semi-Automatic-Image-2D-Bounding-Box-Annotation-Tool-using-Multi-Template_Matching",
     "keywords": [
         "wrong input validation"
