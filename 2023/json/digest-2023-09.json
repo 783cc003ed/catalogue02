@@ -16,6 +16,46 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 4,
+    "date_started": "2023-09-11",
+    "date_updated": "2023-09-13",
+    "description": "Development of an exploit for privilege escalation in Windows systems ( NT / 2k / XP / 2K3 / VISTA / 2k8 / 7 ) using the vulnerability CVE-2010-0232",
+    "forks_count": 0,
+    "html_url": "https://github.com/azorfus/CVE-2010-0232",
+    "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit",
+        "Windows escalation of privileges"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2010-0232",
+    "repo_owner": "azorfus",
+    "repotime": "2023-09-13, 19:59:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-09-13",
+    "date_updated": "2023-09-13",
+    "description": "Reproduction of the memory leak occurring when WinUI windows are closed",
+    "forks_count": 0,
+    "html_url": "https://github.com/akainth015/WindowCloseMemLeakRepro",
+    "keywords": [
+        "Win memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "WindowCloseMemLeakRepro",
+    "repo_owner": "akainth015",
+    "repotime": "2023-09-13, 00:06:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 1601,
     "date_started": "2019-09-10",
     "date_updated": "2023-09-13",
@@ -226,29 +266,6 @@
     "repotime": "2023-09-11, 20:35:27",
     "stargazers_count": 5,
     "watchers_count": 5
-}
-{
-    "commits_count": 3,
-    "date_started": "2023-09-11",
-    "date_updated": "2023-09-11",
-    "description": "Development of an exploit for privilege escalation in Windows systems ( NT / 2k / XP / 2K3 / VISTA / 2k8 / 7 ) using the vulnerability CVE-2010-0232",
-    "forks_count": 0,
-    "html_url": "https://github.com/azorfus/CVE-2010-0232",
-    "keywords": [
-        "Windows escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "Windows escalation of privileges exploitation",
-        "Windows escalation of privileges vulnerability",
-        "escalation of privileges vulnerability",
-        "escalation of privileges exploit",
-        "Windows escalation of privileges"
-    ],
-    "language": "C",
-    "repo_name": "CVE-2010-0232",
-    "repo_owner": "azorfus",
-    "repotime": "2023-09-11, 20:37:53",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 434,
@@ -1196,8 +1213,8 @@
     "repo_name": "CVE-2023-35001",
     "repo_owner": "synacktiv",
     "repotime": "2023-09-01, 09:48:33",
-    "stargazers_count": 92,
-    "watchers_count": 92
+    "stargazers_count": 93,
+    "watchers_count": 93
 }
 {
     "commits_count": 4,
