@@ -18,6 +18,26 @@
     "watchers_count": 564
 }
 {
+    "commits_count": 17,
+    "date_started": "2022-12-13",
+    "date_updated": "2023-09-14",
+    "description": "Pwndoc local file inclusion to remote code execution of Node.js code on the server",
+    "forks_count": 9,
+    "html_url": "https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE",
+    "keywords": [
+        "local file inclusion",
+        "remote code execution exploit",
+        "lfi",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-45771-Pwndoc-LFI-to-RCE",
+    "repo_owner": "p0dalirius",
+    "repotime": "2023-09-14, 22:19:41",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
     "commits_count": 220,
     "date_started": "2021-08-24",
     "date_updated": "2023-09-14",
@@ -525,7 +545,7 @@
     "date_started": "2023-09-10",
     "date_updated": "2023-09-10",
     "description": "Mass Exploit - CVE-2023-1698 &amp;lt;  Unauthenticated Remote Command Execution",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/codeb0ss/CVE-2023-1698-PoC",
     "keywords": [
         "unauthenticated rce"
@@ -534,8 +554,8 @@
     "repo_name": "CVE-2023-1698-PoC",
     "repo_owner": "codeb0ss",
     "repotime": "2023-09-10, 04:36:35",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 3,
@@ -982,8 +1002,8 @@
     "repo_name": "Unauthenticated-RCE-FUXA-CVE-2023-33831",
     "repo_owner": "rodolfomarianocy",
     "repotime": "2023-09-03, 16:34:57",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 11,
