@@ -20,7 +20,7 @@
     "date_started": "2023-08-30",
     "date_updated": "2023-08-31",
     "description": "This is a POC for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC",
     "keywords": [
         "rce proof of concept",
