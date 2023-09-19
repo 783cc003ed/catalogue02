@@ -16,6 +16,40 @@
     "watchers_count": 1150
 }
 {
+    "commits_count": 660,
+    "date_started": "2013-06-25",
+    "date_updated": "2023-09-18",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 207,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2023-09-18, 13:00:40",
+    "stargazers_count": 1393,
+    "watchers_count": 1393
+}
+{
+    "commits_count": 125,
+    "date_started": "2019-10-02",
+    "date_updated": "2023-09-18",
+    "description": "This repository contains all the XSS cheatsheet data to allow contributions from the community.",
+    "forks_count": 69,
+    "html_url": "https://github.com/PortSwigger/xss-cheatsheet-data",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "xss-cheatsheet-data",
+    "repo_owner": "PortSwigger",
+    "repotime": "2023-09-18, 09:57:13",
+    "stargazers_count": 365,
+    "watchers_count": 365
+}
+{
     "commits_count": 212,
     "date_started": "2022-09-03",
     "date_updated": "2023-09-17",
@@ -68,6 +102,23 @@
     "repotime": "2023-09-18, 00:10:00",
     "stargazers_count": 566,
     "watchers_count": 566
+}
+{
+    "commits_count": 515,
+    "date_started": "2017-03-06",
+    "date_updated": "2023-09-17",
+    "description": "ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.",
+    "forks_count": 328,
+    "html_url": "https://github.com/ssl/ezXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "ezXSS",
+    "repo_owner": "ssl",
+    "repotime": "2023-09-17, 23:24:58",
+    "stargazers_count": 1666,
+    "watchers_count": 1666
 }
 {
     "commits_count": 1181,
@@ -484,11 +535,11 @@
     "watchers_count": 355
 }
 {
-    "commits_count": 2287,
+    "commits_count": 2288,
     "date_started": "2009-12-19",
     "date_updated": "2023-09-13",
     "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2147,
+    "forks_count": 2148,
     "html_url": "https://github.com/jhy/jsoup",
     "keywords": [
         "xss"
@@ -497,8 +548,8 @@
     "repo_name": "jsoup",
     "repo_owner": "jhy",
     "repotime": "2023-09-13, 08:59:13",
-    "stargazers_count": 10310,
-    "watchers_count": 10310
+    "stargazers_count": 10316,
+    "watchers_count": 10316
 }
 {
     "commits_count": 3,
@@ -638,23 +689,6 @@
     "repotime": "2023-09-11, 14:49:43",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 654,
-    "date_started": "2013-06-25",
-    "date_updated": "2023-09-11",
-    "description": "Cleans HTML to avoid XSS attacks",
-    "forks_count": 206,
-    "html_url": "https://github.com/mganss/HtmlSanitizer",
-    "keywords": [
-        "xss"
-    ],
-    "language": "C#",
-    "repo_name": "HtmlSanitizer",
-    "repo_owner": "mganss",
-    "repotime": "2023-09-11, 11:18:46",
-    "stargazers_count": 1394,
-    "watchers_count": 1394
 }
 {
     "commits_count": 190,
