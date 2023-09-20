@@ -979,23 +979,6 @@
     "watchers_count": 108
 }
 {
-    "commits_count": 1154,
-    "date_started": "2016-12-09",
-    "date_updated": "2023-07-10",
-    "description": "This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can be declaratively extended by additional operations, which can be used to reassemble and execute the existing functionalities according to project-specific requirements. But also completely new commands can be integrated quickly and easily via dependency injection.",
-    "forks_count": 16,
-    "html_url": "https://github.com/techdivision/import-cli-simple",
-    "keywords": [
-        "csv injection"
-    ],
-    "language": "PHP",
-    "repo_name": "import-cli-simple",
-    "repo_owner": "techdivision",
-    "repotime": "2023-07-10, 18:42:12",
-    "stargazers_count": 69,
-    "watchers_count": 69
-}
-{
     "commits_count": 3,
     "date_started": "2023-03-07",
     "date_updated": "2023-07-10",
