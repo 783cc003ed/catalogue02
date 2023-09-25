@@ -463,7 +463,7 @@
     "date_started": "2023-03-18",
     "date_updated": "2023-03-17",
     "description": "Security patch (1.0.6) provided in good faith for potentially dangerous gateway memleaks. Users visiting deceptive sites that do not inform them that a component of their backend contains undocumented memory-related vulnerabilities may put them at risk of their data being used in ways they have not consented to",
-    "forks_count": 10,
+    "forks_count": 11,
     "html_url": "https://github.com/lax1dude/eagl3rxbungee-memory-leak-patch",
     "keywords": [
         "memory leak vulnerability"
@@ -472,8 +472,8 @@
     "repo_name": "eagl3rxbungee-memory-leak-patch",
     "repo_owner": "lax1dude",
     "repotime": "2023-03-17, 23:08:20",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 19,
