@@ -242,23 +242,6 @@
     "watchers_count": 3
 }
 {
-    "commits_count": 184,
-    "date_started": "2013-08-03",
-    "date_updated": "2023-03-24",
-    "description": "A drop-in replacement for PHP's default session handler which stores session data in a MySQL database, providing better performance, better security and protection against session fixation and session hijacking",
-    "forks_count": 81,
-    "html_url": "https://github.com/stefangabos/Zebra_Session",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "PHP",
-    "repo_name": "Zebra_Session",
-    "repo_owner": "stefangabos",
-    "repotime": "2023-03-24, 15:05:38",
-    "stargazers_count": 163,
-    "watchers_count": 163
-}
-{
     "commits_count": 12,
     "date_started": "2022-11-14",
     "date_updated": "2023-03-23",
