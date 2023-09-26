@@ -16,6 +16,23 @@
     "watchers_count": 682
 }
 {
+    "commits_count": 2,
+    "date_started": "2023-09-26",
+    "date_updated": "2023-09-26",
+    "description": "Exploit for CVE-2023-32364",
+    "forks_count": 0,
+    "html_url": "https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape",
+    "keywords": [
+        "sandbox escape exploitation"
+    ],
+    "language": "Makefile",
+    "repo_name": "CVE-2023-32364-macos-app-sandbox-escape",
+    "repo_owner": "gergelykalman",
+    "repotime": "2023-09-26, 16:44:01",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
     "commits_count": 1195,
     "date_started": "2018-11-07",
     "date_updated": "2023-09-26",
@@ -84,6 +101,24 @@
     "repotime": "2023-09-26, 00:09:34",
     "stargazers_count": 568,
     "watchers_count": 568
+}
+{
+    "commits_count": 1281,
+    "date_started": "2018-06-13",
+    "date_updated": "2023-09-25",
+    "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
+    "forks_count": 621,
+    "html_url": "https://github.com/RhinoSecurityLabs/pacu",
+    "keywords": [
+        "exploitation",
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "pacu",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2023-09-25, 14:49:02",
+    "stargazers_count": 3676,
+    "watchers_count": 3676
 }
 {
     "commits_count": 64,
@@ -190,6 +225,23 @@
     "repotime": "2023-09-24, 07:45:20",
     "stargazers_count": 1438,
     "watchers_count": 1438
+}
+{
+    "commits_count": 414,
+    "date_started": "2018-07-17",
+    "date_updated": "2023-09-23",
+    "description": "CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool",
+    "forks_count": 522,
+    "html_url": "https://github.com/RhinoSecurityLabs/cloudgoat",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "cloudgoat",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2023-09-23, 15:06:02",
+    "stargazers_count": 2190,
+    "watchers_count": 2190
 }
 {
     "commits_count": 187,
@@ -648,23 +700,6 @@
     "repotime": "2023-09-16, 22:39:13",
     "stargazers_count": 458,
     "watchers_count": 458
-}
-{
-    "commits_count": 411,
-    "date_started": "2018-07-17",
-    "date_updated": "2023-09-15",
-    "description": "CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool",
-    "forks_count": 518,
-    "html_url": "https://github.com/RhinoSecurityLabs/cloudgoat",
-    "keywords": [
-        "by_owner"
-    ],
-    "language": "Python",
-    "repo_name": "cloudgoat",
-    "repo_owner": "RhinoSecurityLabs",
-    "repotime": "2023-09-15, 17:28:15",
-    "stargazers_count": 2180,
-    "watchers_count": 2180
 }
 {
     "commits_count": 5,
