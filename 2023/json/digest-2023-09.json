@@ -141,6 +141,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 114,
+    "date_started": "2022-10-01",
+    "date_updated": "2023-09-24",
+    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
+    "forks_count": 172,
+    "html_url": "https://github.com/r0oth3x49/ghauri",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "ghauri",
+    "repo_owner": "r0oth3x49",
+    "repotime": "2023-09-24, 07:45:20",
+    "stargazers_count": 1438,
+    "watchers_count": 1438
+}
+{
     "commits_count": 187,
     "date_started": "2013-08-03",
     "date_updated": "2023-09-23",
@@ -190,6 +207,23 @@
     "repotime": "2023-09-23, 04:34:19",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 1073,
+    "date_started": "2012-07-18",
+    "date_updated": "2023-09-22",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 404,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2023-09-22, 22:55:07",
+    "stargazers_count": 1290,
+    "watchers_count": 1290
 }
 {
     "commits_count": 21,
@@ -648,11 +682,11 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 3,
+    "commits_count": 7,
     "date_started": "2023-09-14",
     "date_updated": "2023-09-14",
     "description": "Bypassing UAC with SSPI Datagram Contexts ",
-    "forks_count": 21,
+    "forks_count": 26,
     "html_url": "https://github.com/antonioCoco/SspiUacBypass",
     "keywords": [
         "uac bypass"
@@ -661,8 +695,8 @@
     "repo_name": "SspiUacBypass",
     "repo_owner": "antonioCoco",
     "repotime": "2023-09-14, 23:03:22",
-    "stargazers_count": 126,
-    "watchers_count": 126
+    "stargazers_count": 157,
+    "watchers_count": 157
 }
 {
     "commits_count": 17,
@@ -1029,7 +1063,7 @@
     "date_started": "2018-02-27",
     "date_updated": "2023-09-11",
     "description": "SQL injection protection module",
-    "forks_count": 62,
+    "forks_count": 61,
     "html_url": "https://github.com/nearform/sql",
     "keywords": [
         "sql injection"
@@ -1264,7 +1298,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2023-09-07",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 5426,
+    "forks_count": 5443,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -1273,8 +1307,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2023-09-07, 11:03:01",
-    "stargazers_count": 28127,
-    "watchers_count": 28127
+    "stargazers_count": 28224,
+    "watchers_count": 28224
 }
 {
     "commits_count": 27,
@@ -1327,23 +1361,6 @@
     "repotime": "2023-09-07, 09:50:31",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 1169,
-    "date_started": "2012-07-18",
-    "date_updated": "2023-09-06",
-    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 404,
-    "html_url": "https://github.com/ron190/jsql-injection",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Java",
-    "repo_name": "jsql-injection",
-    "repo_owner": "ron190",
-    "repotime": "2023-09-06, 22:10:31",
-    "stargazers_count": 1287,
-    "watchers_count": 1287
 }
 {
     "commits_count": 13,
@@ -1551,8 +1568,8 @@
     "repo_name": "sql-injection-and-prevention",
     "repo_owner": "AswinBarath",
     "repotime": "2023-09-03, 13:05:27",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 3,
@@ -1642,8 +1659,8 @@
     "repo_name": "Automated-MUlti-UAC-Bypass",
     "repo_owner": "x0xr00t",
     "repotime": "2023-09-02, 12:10:50",
-    "stargazers_count": 160,
-    "watchers_count": 160
+    "stargazers_count": 162,
+    "watchers_count": 162
 }
 {
     "commits_count": 28,
@@ -1737,7 +1754,7 @@
     "date_started": "2023-09-01",
     "date_updated": "2023-09-01",
     "description": "Pwn2Own Vancouver 2023 Ubuntu LPE exploit",
-    "forks_count": 13,
+    "forks_count": 18,
     "html_url": "https://github.com/synacktiv/CVE-2023-35001",
     "keywords": [
         "lpe exploit",
@@ -1747,8 +1764,8 @@
     "repo_name": "CVE-2023-35001",
     "repo_owner": "synacktiv",
     "repotime": "2023-09-01, 09:48:33",
-    "stargazers_count": 96,
-    "watchers_count": 96
+    "stargazers_count": 102,
+    "watchers_count": 102
 }
 {
     "commits_count": 4,
