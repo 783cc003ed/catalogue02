@@ -197,7 +197,7 @@
     "date_started": "2018-10-15",
     "date_updated": "2023-05-27",
     "description": "Automatic SSRF fuzzer and exploitation tool",
-    "forks_count": 454,
+    "forks_count": 455,
     "html_url": "https://github.com/swisskyrepo/SSRFmap",
     "keywords": [
         "ssrf"
@@ -206,8 +206,8 @@
     "repo_name": "SSRFmap",
     "repo_owner": "swisskyrepo",
     "repotime": "2023-05-27, 21:30:08",
-    "stargazers_count": 2437,
-    "watchers_count": 2437
+    "stargazers_count": 2452,
+    "watchers_count": 2452
 }
 {
     "commits_count": 18,
@@ -230,7 +230,7 @@
     "commits_count": 59,
     "date_started": "2022-06-17",
     "date_updated": "2023-05-27",
-    "description": "Rusty Shellcode Reflective DLL Injection (sRDI) - A small reflective loader in Rust 4KB in size for generating position-independent code (PIC) in Rust. ",
+    "description": "Rusty Shellcode Reflective DLL Injection (sRDI) - A 4KB reflective loader for Position-Independent Code (PIC) generation in Rust (Codename: Venom)",
     "forks_count": 33,
     "html_url": "https://github.com/memN0ps/srdi-rs",
     "keywords": [
@@ -240,8 +240,8 @@
     "repo_name": "srdi-rs",
     "repo_owner": "memN0ps",
     "repotime": "2023-05-27, 15:11:51",
-    "stargazers_count": 259,
-    "watchers_count": 259
+    "stargazers_count": 261,
+    "watchers_count": 261
 }
 {
     "commits_count": 10,
@@ -823,7 +823,7 @@
     "date_started": "2015-12-18",
     "date_updated": "2023-05-11",
     "description": "Nodejs application intentionally vulnerable to SSRF",
-    "forks_count": 12,
+    "forks_count": 11,
     "html_url": "https://github.com/sethsec/Nodejs-SSRF-App",
     "keywords": [
         "ssrf"
@@ -1240,8 +1240,8 @@
     "repo_name": "QRLJacking",
     "repo_owner": "OWASP",
     "repotime": "2023-05-02, 22:17:30",
-    "stargazers_count": 1232,
-    "watchers_count": 1232
+    "stargazers_count": 1234,
+    "watchers_count": 1234
 }
 {
     "commits_count": 13,
@@ -1326,6 +1326,6 @@
     "repo_name": "GregsBestFriend",
     "repo_owner": "WKL-Sec",
     "repotime": "2023-05-01, 07:08:58",
-    "stargazers_count": 102,
-    "watchers_count": 102
+    "stargazers_count": 104,
+    "watchers_count": 104
 }
