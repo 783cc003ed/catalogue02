@@ -687,8 +687,8 @@
     "repo_name": "csv-injection-payloads",
     "repo_owner": "payloadbox",
     "repotime": "2023-06-16, 04:39:27",
-    "stargazers_count": 153,
-    "watchers_count": 153
+    "stargazers_count": 154,
+    "watchers_count": 154
 }
 {
     "commits_count": 3,
@@ -835,7 +835,7 @@
     "date_started": "2022-08-26",
     "date_updated": "2023-06-13",
     "description": "This repository contains a sample Java application vulnerable to command injection and server-side request forgery (SSRF).",
-    "forks_count": 5,
+    "forks_count": 6,
     "html_url": "https://github.com/DataDog/vulnerable-java-application",
     "keywords": [
         "server side request forgery"

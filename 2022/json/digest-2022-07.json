@@ -1227,7 +1227,7 @@
     "date_started": "2022-05-17",
     "date_updated": "2022-07-10",
     "description": "Our project aims to analyze and obtain an options investment strategy, having the Oil Futures (WTI Crude Oil) as underlying. The analysis is based on a Monte Carlo simulation that takes the historical data of the underlying from Yahoo Finance; it calculates its historical volatility and indicates its latest price (May 9, 2020). On the basis of the prices, the risk free rate and the maturity taken as reference (17 June 2020), it carries out “i” simulations, for a predetermined number of steps, estimating the average price at maturity. After running the Monte Carlo simulation, through the Black-Scholes-Merton model, we calculate the price of the options with the data of May 9, 2020. We also present an alternative calculation through the Black model (which are almost equal). Once the prices of the options have been calculated, we have evaluated which strategy to implement based on the options available on the market. We therefore opted for a Put Spread Ratio strategy which consists of buy...",
-    "forks_count": 2,
+    "forks_count": 3,
     "html_url": "https://github.com/giuseppecangemi/quantfinance",
     "keywords": [
         "use after free analysis"
