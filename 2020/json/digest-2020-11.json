@@ -69,7 +69,7 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 72,
+    "commits_count": 73,
     "date_started": "2019-10-29",
     "date_updated": "2020-11-27",
     "description": "Faster xss scanner,support  reflected-xss and dom-xss",
@@ -82,8 +82,8 @@
     "repo_name": "NoXss",
     "repo_owner": "lwzSoviet",
     "repotime": "2020-11-27, 16:01:11",
-    "stargazers_count": 427,
-    "watchers_count": 427
+    "stargazers_count": 428,
+    "watchers_count": 428
 }
 {
     "commits_count": 12,
@@ -269,7 +269,7 @@
     "date_started": "2020-11-15",
     "date_updated": "2020-11-18",
     "description": "Docker image to exploit RCE, try for pentest methods and test container security solutions (trivy, falco and etc.) ",
-    "forks_count": 35,
+    "forks_count": 36,
     "html_url": "https://github.com/Swordfish-Security/Pentest-In-Docker",
     "keywords": [
         "rce exploitation"

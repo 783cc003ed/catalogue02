@@ -36,6 +36,23 @@
     "watchers_count": 53
 }
 {
+    "commits_count": 663,
+    "date_started": "2013-06-25",
+    "date_updated": "2023-09-25",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 210,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2023-09-25, 15:55:11",
+    "stargazers_count": 1400,
+    "watchers_count": 1400
+}
+{
     "commits_count": 1212,
     "date_started": "2020-06-03",
     "date_updated": "2023-09-25",
@@ -86,6 +103,23 @@
     "repotime": "2023-09-21, 12:18:04",
     "stargazers_count": 50,
     "watchers_count": 50
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-09-21",
+    "date_updated": "2023-09-21",
+    "description": "Proof-of-Concept (POC) of CVE-2023-38831 Zero-Day vulnerability in WinRAR",
+    "forks_count": 1,
+    "html_url": "https://github.com/malvika-thakur/CVE-2023-38831",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831",
+    "repo_owner": "malvika-thakur",
+    "repotime": "2023-09-21, 15:00:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 3,
@@ -367,28 +401,11 @@
     "watchers_count": 69
 }
 {
-    "commits_count": 660,
-    "date_started": "2013-06-25",
-    "date_updated": "2023-09-18",
-    "description": "Cleans HTML to avoid XSS attacks",
-    "forks_count": 208,
-    "html_url": "https://github.com/mganss/HtmlSanitizer",
-    "keywords": [
-        "xss"
-    ],
-    "language": "C#",
-    "repo_name": "HtmlSanitizer",
-    "repo_owner": "mganss",
-    "repotime": "2023-09-18, 13:00:40",
-    "stargazers_count": 1394,
-    "watchers_count": 1394
-}
-{
     "commits_count": 125,
     "date_started": "2019-10-02",
     "date_updated": "2023-09-18",
     "description": "This repository contains all the XSS cheatsheet data to allow contributions from the community.",
-    "forks_count": 69,
+    "forks_count": 70,
     "html_url": "https://github.com/PortSwigger/xss-cheatsheet-data",
     "keywords": [
         "xss"
@@ -431,8 +448,8 @@
     "repo_name": "ezXSS",
     "repo_owner": "ssl",
     "repotime": "2023-09-17, 23:24:58",
-    "stargazers_count": 1667,
-    "watchers_count": 1667
+    "stargazers_count": 1669,
+    "watchers_count": 1669
 }
 {
     "commits_count": 318,
@@ -799,11 +816,11 @@
     "watchers_count": 355
 }
 {
-    "commits_count": 2288,
+    "commits_count": 2289,
     "date_started": "2009-12-19",
     "date_updated": "2023-09-13",
     "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2148,
+    "forks_count": 2151,
     "html_url": "https://github.com/jhy/jsoup",
     "keywords": [
         "xss"
@@ -812,8 +829,8 @@
     "repo_name": "jsoup",
     "repo_owner": "jhy",
     "repotime": "2023-09-13, 08:59:13",
-    "stargazers_count": 10318,
-    "watchers_count": 10318
+    "stargazers_count": 10327,
+    "watchers_count": 10327
 }
 {
     "commits_count": 3,
@@ -1379,7 +1396,7 @@
     "watchers_count": 43
 }
 {
-    "commits_count": 582,
+    "commits_count": 583,
     "date_started": "2015-03-12",
     "date_updated": "2023-09-04",
     "description": "㊙️ AntiXSS | Protection against Cross-site scripting (XSS) via PHP",
@@ -1392,8 +1409,8 @@
     "repo_name": "anti-xss",
     "repo_owner": "voku",
     "repotime": "2023-09-04, 17:36:40",
-    "stargazers_count": 620,
-    "watchers_count": 620
+    "stargazers_count": 621,
+    "watchers_count": 621
 }
 {
     "commits_count": 11,
