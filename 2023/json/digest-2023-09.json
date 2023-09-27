@@ -23,7 +23,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape",
     "keywords": [
-        "sandbox escape exploitation"
+        "sandbox escape exploitation",
+        "sandbox escape exploit"
     ],
     "language": "Makefile",
     "repo_name": "CVE-2023-32364-macos-app-sandbox-escape",
@@ -961,7 +962,7 @@
     "date_started": "2009-12-19",
     "date_updated": "2023-09-13",
     "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2151,
+    "forks_count": 2153,
     "html_url": "https://github.com/jhy/jsoup",
     "keywords": [
         "xss"
@@ -970,8 +971,8 @@
     "repo_name": "jsoup",
     "repo_owner": "jhy",
     "repotime": "2023-09-13, 08:59:13",
-    "stargazers_count": 10327,
-    "watchers_count": 10327
+    "stargazers_count": 10328,
+    "watchers_count": 10328
 }
 {
     "commits_count": 3,
@@ -1516,8 +1517,8 @@
     "repo_name": "anti-xss",
     "repo_owner": "voku",
     "repotime": "2023-09-04, 17:36:40",
-    "stargazers_count": 621,
-    "watchers_count": 621
+    "stargazers_count": 622,
+    "watchers_count": 622
 }
 {
     "commits_count": 11,
