@@ -38,6 +38,23 @@
     "watchers_count": 4
 }
 {
+    "commits_count": 14,
+    "date_started": "2023-08-31",
+    "date_updated": "2023-08-31",
+    "description": "Adversaries commonly abuse the Local Security Authority Subsystem Service (LSASS) to dump credentials for privilege escalation, data theft, and lateral movement. The process is a fruitful target for adversaries because of the sheer amount of sensitive information it stores in memory.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mazyaar/lsass_memory",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "lsass_memory",
+    "repo_owner": "mazyaar",
+    "repotime": "2023-08-31, 11:46:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 24,
     "date_started": "2023-08-28",
     "date_updated": "2023-08-31",
@@ -51,8 +68,8 @@
     "repo_name": "CVE-2023-38831_ReverseShell_Winrar-RCE",
     "repo_owner": "Maalfer",
     "repotime": "2023-08-31, 09:40:12",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 47,
@@ -658,8 +675,8 @@
     "repo_name": "CVE-2019-19781",
     "repo_owner": "VladRico",
     "repotime": "2023-08-21, 08:55:55",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 141,
