@@ -201,33 +201,6 @@
     "date_started": "2021-07-27",
     "date_updated": "2021-07-26",
     "description": "A Windows Kernel LPE exploit for HEVD.sys targeting a stack overflow vulnerability on Windows 10 64-bit 1607 (RS1)",
-    "forks_count": 4,
-    "html_url": "https://github.com/FULLSHADE/HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
-    "keywords": [
-        "Win lpe",
-        "Windows lpe exploit",
-        "Win lpe exploitation",
-        "Windows lpe",
-        "Windows lpe vulnerability",
-        "lpe vulnerability",
-        "Windows lpe exploitation",
-        "lpe exploit",
-        "Win lpe vulnerability",
-        "Win lpe exploit",
-        "lpe exploitation"
-    ],
-    "language": "C++",
-    "repo_name": "HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
-    "repo_owner": "FULLSHADE",
-    "repotime": "2021-07-26, 21:52:44",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
-    "commits_count": 6,
-    "date_started": "2021-07-27",
-    "date_updated": "2021-07-26",
-    "description": "A Windows Kernel LPE exploit for HEVD.sys targeting a stack overflow vulnerability on Windows 10 64-bit 1607 (RS1)",
     "forks_count": 1,
     "html_url": "https://github.com/NHPT/HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
     "keywords": [
@@ -249,6 +222,33 @@
     "repotime": "2021-07-26, 21:52:44",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-07-27",
+    "date_updated": "2021-07-26",
+    "description": "A Windows Kernel LPE exploit for HEVD.sys targeting a stack overflow vulnerability on Windows 10 64-bit 1607 (RS1)",
+    "forks_count": 4,
+    "html_url": "https://github.com/FULLSHADE/HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
+    "keywords": [
+        "Win lpe",
+        "Windows lpe exploit",
+        "Win lpe exploitation",
+        "Windows lpe",
+        "Windows lpe vulnerability",
+        "lpe vulnerability",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Win lpe vulnerability",
+        "Win lpe exploit",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
+    "repo_owner": "FULLSHADE",
+    "repotime": "2021-07-26, 21:52:44",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 4,
@@ -656,8 +656,8 @@
     "repo_name": "PrintNightmare-CVE-2021-1675-CVE-2021-34527",
     "repo_owner": "galoget",
     "repotime": "2021-07-12, 04:35:17",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 28,
