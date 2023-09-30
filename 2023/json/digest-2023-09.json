@@ -147,7 +147,8 @@
     "keywords": [
         "Windows rce",
         "Windows rce exploit",
-        "Windows rce exploitation"
+        "Windows rce exploitation",
+        "Windows rce poc"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-36884-MS-Office-HTML-RCE",
@@ -897,7 +898,7 @@
     "date_started": "2023-09-14",
     "date_updated": "2023-09-14",
     "description": "Bypassing UAC with SSPI Datagram Contexts ",
-    "forks_count": 26,
+    "forks_count": 27,
     "html_url": "https://github.com/antonioCoco/SspiUacBypass",
     "keywords": [
         "uac bypass"
@@ -906,8 +907,8 @@
     "repo_name": "SspiUacBypass",
     "repo_owner": "antonioCoco",
     "repotime": "2023-09-14, 23:03:22",
-    "stargazers_count": 157,
-    "watchers_count": 157
+    "stargazers_count": 165,
+    "watchers_count": 165
 }
 {
     "commits_count": 17,
@@ -1810,7 +1811,7 @@
     "date_started": "2021-09-08",
     "date_updated": "2023-09-02",
     "description": "Automated Multi UAC BYPASS for win10|win11|ws2019|ws2022",
-    "forks_count": 34,
+    "forks_count": 35,
     "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
     "keywords": [
         "uac bypass"
@@ -1819,8 +1820,8 @@
     "repo_name": "Automated-MUlti-UAC-Bypass",
     "repo_owner": "x0xr00t",
     "repotime": "2023-09-02, 12:10:50",
-    "stargazers_count": 162,
-    "watchers_count": 162
+    "stargazers_count": 164,
+    "watchers_count": 164
 }
 {
     "commits_count": 28,
