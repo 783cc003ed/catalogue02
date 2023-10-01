@@ -158,6 +158,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 354,
+    "date_started": "2019-09-17",
+    "date_updated": "2023-09-28",
+    "description": "This software allows you to perform a deauth attack with an ESP8266 against selected networks. The ESP8266 is a cheap and easy to use Wi-Fi SoC (System-on-a-Chip), programmable with the Arduino IDE. With this software flashed onto it, you can select a target network and start different attacks.  The deauth attack will, if the connection is vulnerable, disconnect the devices from the network. Because the attack is running constantly, the devices will be disconnected again and again. Depending on the network, that can either block a connection or slow it down.  The difference between deauthing and jamming: WiFi Jammers vs Deauthers | What's The Difference?  Other attacks also have been implemented, such as beacon and probe request flooding.  The deauth attack works by exploiting an old and known vulnerability in the 802.11 Wi-Fi protocol. Because these deauthentication frames, usually used to close a Wi-Fi connection safely, are unencrypted, it's very easy to spoof them. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/dfalt0/NodeMCU-ESP8266",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "NodeMCU-ESP8266",
+    "repo_owner": "dfalt0",
+    "repotime": "2023-09-28, 02:37:33",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 2292,
     "date_started": "2009-12-19",
     "date_updated": "2023-09-28",
@@ -1233,8 +1250,8 @@
     "repo_name": "K8tools",
     "repo_owner": "k8gege",
     "repotime": "2023-09-11, 22:36:46",
-    "stargazers_count": 5352,
-    "watchers_count": 5352
+    "stargazers_count": 5353,
+    "watchers_count": 5353
 }
 {
     "commits_count": 11,
