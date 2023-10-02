@@ -1218,24 +1218,6 @@
     "watchers_count": 55
 }
 {
-    "commits_count": 10,
-    "date_started": "2022-01-17",
-    "date_updated": "2022-05-03",
-    "description": "Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers",
-    "forks_count": 16,
-    "html_url": "https://github.com/p0dalirius/CVE-2022-21907-http.sys",
-    "keywords": [
-        "rce proof of concept",
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2022-21907-http.sys",
-    "repo_owner": "p0dalirius",
-    "repotime": "2022-05-03, 12:40:31",
-    "stargazers_count": 76,
-    "watchers_count": 76
-}
-{
     "commits_count": 9,
     "date_started": "2022-03-08",
     "date_updated": "2022-05-03",
