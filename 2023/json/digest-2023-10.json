@@ -16,6 +16,57 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 1197,
+    "date_started": "2018-11-07",
+    "date_updated": "2023-10-03",
+    "description": "Dependency injection via APT (source code generation) ala &amp;quot;Server-Side Dagger DI&amp;quot;",
+    "forks_count": 17,
+    "html_url": "https://github.com/avaje/avaje-inject",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "avaje-inject",
+    "repo_owner": "avaje",
+    "repotime": "2023-10-03, 21:39:59",
+    "stargazers_count": 163,
+    "watchers_count": 163
+}
+{
+    "commits_count": 1611,
+    "date_started": "2019-09-10",
+    "date_updated": "2023-10-03",
+    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
+    "forks_count": 229,
+    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "smart-doc",
+    "repo_owner": "TongchengOpenSource",
+    "repotime": "2023-10-03, 15:12:32",
+    "stargazers_count": 1166,
+    "watchers_count": 1166
+}
+{
+    "commits_count": 56,
+    "date_started": "2023-02-14",
+    "date_updated": "2023-10-03",
+    "description": "A simple tutorial on how to do reverse engineer and code injection on AMI BIOSes (Legacy)",
+    "forks_count": 5,
+    "html_url": "https://github.com/Theldus/AMI_BIOS_CodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Assembly",
+    "repo_name": "AMI_BIOS_CodeInjection",
+    "repo_owner": "Theldus",
+    "repotime": "2023-10-03, 00:03:53",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
     "commits_count": 99,
     "date_started": "2023-06-06",
     "date_updated": "2023-10-02",
@@ -86,25 +137,8 @@
     "repo_name": "HackSysExtremeVulnerableDriver",
     "repo_owner": "hacksysteam",
     "repotime": "2023-10-02, 13:08:15",
-    "stargazers_count": 2148,
-    "watchers_count": 2148
-}
-{
-    "commits_count": 52,
-    "date_started": "2023-02-14",
-    "date_updated": "2023-10-02",
-    "description": "A simple tutorial on how to do reverse engineer and code injection on AMI BIOSes (Legacy)",
-    "forks_count": 5,
-    "html_url": "https://github.com/Theldus/AMI_BIOS_CodeInjection",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "C",
-    "repo_name": "AMI_BIOS_CodeInjection",
-    "repo_owner": "Theldus",
-    "repotime": "2023-10-02, 00:12:13",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 2149,
+    "watchers_count": 2149
 }
 {
     "commits_count": 647,
@@ -202,7 +236,8 @@
     "html_url": "https://github.com/AiGptCode/Ai-Security-URL",
     "keywords": [
         "cross-side-scripting",
-        "server side request forgery"
+        "server side request forgery",
+        "path traversal vulnerability"
     ],
     "language": "Python",
     "repo_name": "Ai-Security-URL",

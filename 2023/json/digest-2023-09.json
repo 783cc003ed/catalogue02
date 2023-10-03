@@ -54,7 +54,7 @@
     "date_started": "2018-07-10",
     "date_updated": "2023-09-29",
     "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-    "forks_count": 1636,
+    "forks_count": 1638,
     "html_url": "https://github.com/kgretzky/evilginx2",
     "keywords": [
         "session attack"
@@ -63,8 +63,8 @@
     "repo_name": "evilginx2",
     "repo_owner": "kgretzky",
     "repotime": "2023-09-29, 00:51:26",
-    "stargazers_count": 8320,
-    "watchers_count": 8320
+    "stargazers_count": 8326,
+    "watchers_count": 8326
 }
 {
     "commits_count": 95,
@@ -279,23 +279,6 @@
     "watchers_count": 13
 }
 {
-    "commits_count": 1195,
-    "date_started": "2018-11-07",
-    "date_updated": "2023-09-26",
-    "description": "Dependency injection via APT (source code generation) ala &amp;quot;Server-Side Dagger DI&amp;quot;",
-    "forks_count": 17,
-    "html_url": "https://github.com/avaje/avaje-inject",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Java",
-    "repo_name": "avaje-inject",
-    "repo_owner": "avaje",
-    "repotime": "2023-09-26, 23:46:54",
-    "stargazers_count": 163,
-    "watchers_count": 163
-}
-{
     "commits_count": 1,
     "date_started": "2023-09-26",
     "date_updated": "2023-09-26",
@@ -505,23 +488,6 @@
     "repotime": "2023-09-21, 15:00:59",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 1609,
-    "date_started": "2019-09-10",
-    "date_updated": "2023-09-21",
-    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
-    "forks_count": 229,
-    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Java",
-    "repo_name": "smart-doc",
-    "repo_owner": "TongchengOpenSource",
-    "repotime": "2023-09-21, 16:54:44",
-    "stargazers_count": 1165,
-    "watchers_count": 1165
 }
 {
     "commits_count": 3,
