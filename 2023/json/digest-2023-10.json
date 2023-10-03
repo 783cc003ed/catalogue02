@@ -33,6 +33,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 9,
+    "date_started": "2023-10-02",
+    "date_updated": "2023-10-02",
+    "description": "CVE-2023-36845 PoC script automates the PoC for CVE-2023-36845 targeting Juniper Networks Junos OS's J-Web component on EX and SRX Series devices. It exploits a PHP flaw, allowing remote modification of the PHPRC variable. Successful exploitation can lead to code injection and execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/cyberh3als/CVE-2023-36845-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-36845-POC",
+    "repo_owner": "cyberh3als",
+    "repotime": "2023-10-02, 14:31:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 12,
     "date_started": "2022-01-17",
     "date_updated": "2023-10-02",
