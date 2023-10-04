@@ -1,12 +1,30 @@
 {
     "commits_count": 5,
+    "date_started": "2023-09-03",
+    "date_updated": "2023-10-03",
+    "description": "Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software.",
+    "forks_count": 1,
+    "html_url": "https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Unauthenticated-RCE-FUXA-CVE-2023-33831",
+    "repo_owner": "rodolfomarianocy",
+    "repotime": "2023-10-03, 23:52:03",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 5,
     "date_started": "2023-10-04",
     "date_updated": "2023-10-04",
     "description": "CVE-2023-33831 - FUXA &amp;lt; Unauthenticated Remote Code Execution [RCE]",
     "forks_count": 0,
     "html_url": "https://github.com/codeb0ss/CVE-2023-33831-PoC",
     "keywords": [
-        "0day poc"
+        "0day poc",
+        "unauthenticated rce"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-33831-PoC",
