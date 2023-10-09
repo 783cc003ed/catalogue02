@@ -703,7 +703,7 @@
     "date_started": "2022-02-14",
     "date_updated": "2022-02-14",
     "description": "Adminer is an open-source database management in a single PHP file. In adminer from version 4.0.0 and before 4.7.9 there is a server-side request forgery vulnerability. Users of Adminer versions bundling all drivers (e.g. `adminer.php`) are affected. This is fixed in version 4.7.9.",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/llhala/CVE-2021-21311",
     "keywords": [
         "server side request forgery"
