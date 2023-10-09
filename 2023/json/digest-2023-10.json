@@ -16,6 +16,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 670,
+    "date_started": "2013-06-25",
+    "date_updated": "2023-10-09",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 215,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2023-10-09, 09:16:06",
+    "stargazers_count": 1407,
+    "watchers_count": 1407
+}
+{
     "commits_count": 88,
     "date_started": "2022-07-01",
     "date_updated": "2023-10-08",
@@ -106,6 +123,25 @@
     "watchers_count": 1718
 }
 {
+    "commits_count": 926,
+    "date_started": "2018-12-07",
+    "date_updated": "2023-10-05",
+    "description": "A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.",
+    "forks_count": 244,
+    "html_url": "https://github.com/TH3xACE/SUDO_KILLER",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploitation"
+    ],
+    "language": "C",
+    "repo_name": "SUDO_KILLER",
+    "repo_owner": "TH3xACE",
+    "repotime": "2023-10-05, 22:36:07",
+    "stargazers_count": 1983,
+    "watchers_count": 1983
+}
+{
     "commits_count": 171,
     "date_started": "2021-09-08",
     "date_updated": "2023-10-04",
@@ -121,23 +157,6 @@
     "repotime": "2023-10-04, 18:59:12",
     "stargazers_count": 167,
     "watchers_count": 167
-}
-{
-    "commits_count": 668,
-    "date_started": "2013-06-25",
-    "date_updated": "2023-10-04",
-    "description": "Cleans HTML to avoid XSS attacks",
-    "forks_count": 212,
-    "html_url": "https://github.com/mganss/HtmlSanitizer",
-    "keywords": [
-        "xss"
-    ],
-    "language": "C#",
-    "repo_name": "HtmlSanitizer",
-    "repo_owner": "mganss",
-    "repotime": "2023-10-04, 16:26:07",
-    "stargazers_count": 1402,
-    "watchers_count": 1402
 }
 {
     "commits_count": 4,
@@ -351,7 +370,7 @@
     "date_started": "2015-05-28",
     "date_updated": "2023-10-02",
     "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
-    "forks_count": 511,
+    "forks_count": 512,
     "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
     "keywords": [
         "vulnerability",
@@ -365,8 +384,8 @@
     "repo_name": "HackSysExtremeVulnerableDriver",
     "repo_owner": "hacksysteam",
     "repotime": "2023-10-02, 13:08:15",
-    "stargazers_count": 2149,
-    "watchers_count": 2149
+    "stargazers_count": 2154,
+    "watchers_count": 2154
 }
 {
     "commits_count": 234,
