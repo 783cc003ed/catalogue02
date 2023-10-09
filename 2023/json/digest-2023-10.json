@@ -1,4 +1,21 @@
 {
+    "commits_count": 1,
+    "date_started": "2023-10-09",
+    "date_updated": "2023-10-09",
+    "description": "Shows stock market data from remote API using retrofit. Built on MVVM with clean architecture. Dependency injection (Dagger-Hilt), local caching (Room).  CSV parsing (OpenCSV), custom graph using Canvas. Tech Stack: Kotlin, Jetpack Compose, SQL",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sayantan-Bera/StockMarketApp",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "StockMarketApp",
+    "repo_owner": "Sayantan-Bera",
+    "repotime": "2023-10-09, 20:14:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 88,
     "date_started": "2022-07-01",
     "date_updated": "2023-10-08",
@@ -54,6 +71,23 @@
     "watchers_count": 3
 }
 {
+    "commits_count": 323,
+    "date_started": "2020-06-20",
+    "date_updated": "2023-10-07",
+    "description": "Check your WAF before an attacker does",
+    "forks_count": 135,
+    "html_url": "https://github.com/nemesida-waf/waf-bypass",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "waf-bypass",
+    "repo_owner": "nemesida-waf",
+    "repotime": "2023-10-07, 15:27:16",
+    "stargazers_count": 875,
+    "watchers_count": 875
+}
+{
     "commits_count": 83,
     "date_started": "2022-04-05",
     "date_updated": "2023-10-07",
@@ -104,6 +138,23 @@
     "repotime": "2023-10-04, 16:26:07",
     "stargazers_count": 1402,
     "watchers_count": 1402
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-07-27",
+    "date_updated": "2023-10-04",
+    "description": "Testing Google Guice for dependency injection and Google Guava for working with data records from a csv file.",
+    "forks_count": 0,
+    "html_url": "https://github.com/BongaGougota0/Google_Guice_Guava_Libraries",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Java",
+    "repo_name": "Google_Guice_Guava_Libraries",
+    "repo_owner": "BongaGougota0",
+    "repotime": "2023-10-04, 15:45:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -157,40 +208,6 @@
     "repotime": "2023-10-03, 21:17:45",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 321,
-    "date_started": "2020-06-20",
-    "date_updated": "2023-10-03",
-    "description": "Check your WAF before an attacker does",
-    "forks_count": 135,
-    "html_url": "https://github.com/nemesida-waf/waf-bypass",
-    "keywords": [
-        "lfi"
-    ],
-    "language": "Python",
-    "repo_name": "waf-bypass",
-    "repo_owner": "nemesida-waf",
-    "repotime": "2023-10-03, 17:39:22",
-    "stargazers_count": 872,
-    "watchers_count": 872
-}
-{
-    "commits_count": 3,
-    "date_started": "2023-07-27",
-    "date_updated": "2023-10-03",
-    "description": "Testing Google Guice for dependency injection and Google Guava for working with data records from a csv file.",
-    "forks_count": 0,
-    "html_url": "https://github.com/BongaGougota0/Google_Guice_Guava_Libraries",
-    "keywords": [
-        "csv injection"
-    ],
-    "language": "Java",
-    "repo_name": "Google_Guice_Guava_Libraries",
-    "repo_owner": "BongaGougota0",
-    "repotime": "2023-10-03, 16:31:36",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 1197,
