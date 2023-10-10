@@ -16,6 +16,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 21,
+    "date_started": "2021-03-26",
+    "date_updated": "2023-10-10",
+    "description": "Guide to SSRF",
+    "forks_count": 18,
+    "html_url": "https://github.com/MustafaSky/Guide-to-SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "Guide-to-SSRF",
+    "repo_owner": "MustafaSky",
+    "repotime": "2023-10-10, 11:17:21",
+    "stargazers_count": 58,
+    "watchers_count": 58
+}
+{
     "commits_count": 2,
     "date_started": "2019-02-26",
     "date_updated": "2023-10-10",
@@ -304,14 +321,15 @@
     "keywords": [
         "0day poc",
         "unauthenticated rce",
-        "unauthenticated remote code execution"
+        "unauthenticated remote code execution",
+        "remote code execution poc"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-33831-PoC",
     "repo_owner": "codeb0ss",
     "repotime": "2023-10-04, 04:15:12",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1130,
