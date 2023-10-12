@@ -3,7 +3,7 @@
     "date_started": "2023-09-28",
     "date_updated": "2023-10-12",
     "description": "MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit",
-    "forks_count": 2,
+    "forks_count": 3,
     "html_url": "https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE",
     "keywords": [
         "Windows rce",
@@ -63,6 +63,23 @@
     "watchers_count": 766
 }
 {
+    "commits_count": 1158,
+    "date_started": "2016-12-09",
+    "date_updated": "2023-10-11",
+    "description": "This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can be declaratively extended by additional operations, which can be used to reassemble and execute the existing functionalities according to project-specific requirements. But also completely new commands can be integrated quickly and easily via dependency injection.",
+    "forks_count": 15,
+    "html_url": "https://github.com/techdivision/import-cli-simple",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "PHP",
+    "repo_name": "import-cli-simple",
+    "repo_owner": "techdivision",
+    "repotime": "2023-10-11, 18:10:54",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
     "commits_count": 3,
     "date_started": "2023-03-18",
     "date_updated": "2023-10-10",
@@ -120,7 +137,7 @@
     "date_started": "2023-10-09",
     "date_updated": "2023-10-10",
     "description": "LPE exploit for CVE-2023-36802",
-    "forks_count": 15,
+    "forks_count": 20,
     "html_url": "https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802",
     "keywords": [
         "Win lpe exploitation",
@@ -133,8 +150,8 @@
     "repo_name": "Windows_MSKSSRV_LPE_CVE-2023-36802",
     "repo_owner": "chompie1337",
     "repotime": "2023-10-10, 13:44:05",
-    "stargazers_count": 53,
-    "watchers_count": 53
+    "stargazers_count": 66,
+    "watchers_count": 66
 }
 {
     "commits_count": 1,
@@ -692,8 +709,8 @@
     "repo_name": "HackSysExtremeVulnerableDriver",
     "repo_owner": "hacksysteam",
     "repotime": "2023-10-02, 13:08:15",
-    "stargazers_count": 2158,
-    "watchers_count": 2158
+    "stargazers_count": 2157,
+    "watchers_count": 2157
 }
 {
     "commits_count": 234,
