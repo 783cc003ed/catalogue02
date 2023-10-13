@@ -1,4 +1,38 @@
 {
+    "commits_count": 676,
+    "date_started": "2013-06-25",
+    "date_updated": "2023-10-13",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 218,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2023-10-13, 11:37:07",
+    "stargazers_count": 1411,
+    "watchers_count": 1411
+}
+{
+    "commits_count": 2298,
+    "date_started": "2009-12-19",
+    "date_updated": "2023-10-13",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "forks_count": 2163,
+    "html_url": "https://github.com/jhy/jsoup",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "jsoup",
+    "repo_owner": "jhy",
+    "repotime": "2023-10-13, 15:13:08",
+    "stargazers_count": 10343,
+    "watchers_count": 10343
+}
+{
     "commits_count": 1619,
     "date_started": "2019-09-10",
     "date_updated": "2023-10-12",
@@ -196,14 +230,15 @@
         "Windows lpe exploitation",
         "lpe exploit",
         "lpe exploitation",
-        "Windows lpe exploit"
+        "Windows lpe exploit",
+        "Windows lpe"
     ],
     "language": "C",
     "repo_name": "Windows_MSKSSRV_LPE_CVE-2023-36802",
     "repo_owner": "chompie1337",
     "repotime": "2023-10-10, 13:44:05",
-    "stargazers_count": 75,
-    "watchers_count": 75
+    "stargazers_count": 76,
+    "watchers_count": 76
 }
 {
     "commits_count": 1,
@@ -377,23 +412,6 @@
     "repotime": "2023-10-09, 16:28:51",
     "stargazers_count": 1343,
     "watchers_count": 1343
-}
-{
-    "commits_count": 670,
-    "date_started": "2013-06-25",
-    "date_updated": "2023-10-09",
-    "description": "Cleans HTML to avoid XSS attacks",
-    "forks_count": 215,
-    "html_url": "https://github.com/mganss/HtmlSanitizer",
-    "keywords": [
-        "xss"
-    ],
-    "language": "C#",
-    "repo_name": "HtmlSanitizer",
-    "repo_owner": "mganss",
-    "repotime": "2023-10-09, 09:16:06",
-    "stargazers_count": 1407,
-    "watchers_count": 1407
 }
 {
     "commits_count": 88,
@@ -727,8 +745,25 @@
     "repo_name": "HackSysExtremeVulnerableDriver",
     "repo_owner": "hacksysteam",
     "repotime": "2023-10-02, 13:08:15",
-    "stargazers_count": 2157,
-    "watchers_count": 2157
+    "stargazers_count": 2160,
+    "watchers_count": 2160
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-10-02",
+    "date_updated": "2023-10-02",
+    "description": "Session hijacking, also known as session theft or session fixation, is a cybersecurity attack that involves an attacker gaining unauthorized access to a user's session on a web application or online service",
+    "forks_count": 0,
+    "html_url": "https://github.com/RamakanthRGunishetty/Session-Hijacking",
+    "keywords": [
+        "session hijacking attack"
+    ],
+    "language": "Python",
+    "repo_name": "Session-Hijacking",
+    "repo_owner": "RamakanthRGunishetty",
+    "repotime": "2023-10-02, 09:39:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 234,
