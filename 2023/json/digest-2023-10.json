@@ -1,4 +1,23 @@
 {
+    "commits_count": 659,
+    "date_started": "2022-03-19",
+    "date_updated": "2023-10-14",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 112,
+    "html_url": "https://github.com/hktalent/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "hktalent",
+    "repotime": "2023-10-14, 00:09:26",
+    "stargazers_count": 577,
+    "watchers_count": 577
+}
+{
     "commits_count": 16,
     "date_started": "2023-10-01",
     "date_updated": "2023-10-13",
@@ -52,23 +71,21 @@
     "watchers_count": 10343
 }
 {
-    "commits_count": 658,
-    "date_started": "2022-03-19",
-    "date_updated": "2023-10-13",
-    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-    "forks_count": 112,
-    "html_url": "https://github.com/hktalent/TOP",
+    "commits_count": 8,
+    "date_started": "2023-10-11",
+    "date_updated": "2023-10-12",
+    "description": "CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase ",
+    "forks_count": 1,
+    "html_url": "https://github.com/nickswink/CVE-2023-38646",
     "keywords": [
-        "rce exploit",
-        "rce poc",
-        "rce vulnerability"
+        "unauthenticated rce"
     ],
-    "language": "Shell",
-    "repo_name": "TOP",
-    "repo_owner": "hktalent",
-    "repotime": "2023-10-13, 00:10:12",
-    "stargazers_count": 577,
-    "watchers_count": 577
+    "language": "Python",
+    "repo_name": "CVE-2023-38646",
+    "repo_owner": "nickswink",
+    "repotime": "2023-10-12, 10:41:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1619,
@@ -123,6 +140,23 @@
     "repotime": "2023-10-12, 11:59:20",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-03-25",
+    "date_updated": "2023-10-12",
+    "description": "Just another vulnerable app. A Golang webapp that contains an example of a SSRF(Server Side Request Forgery) vulnerability and its main goal is to describe how a malicious user could exploit it.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fguisso/doryl-site-check",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "HTML",
+    "repo_name": "doryl-site-check",
+    "repo_owner": "fguisso",
+    "repotime": "2023-10-12, 00:33:26",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 2,
@@ -258,7 +292,7 @@
     "date_started": "2023-10-09",
     "date_updated": "2023-10-10",
     "description": "LPE exploit for CVE-2023-36802",
-    "forks_count": 23,
+    "forks_count": 24,
     "html_url": "https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802",
     "keywords": [
         "Win lpe exploitation",
@@ -273,8 +307,8 @@
     "repo_name": "Windows_MSKSSRV_LPE_CVE-2023-36802",
     "repo_owner": "chompie1337",
     "repotime": "2023-10-10, 13:44:05",
-    "stargazers_count": 76,
-    "watchers_count": 76
+    "stargazers_count": 83,
+    "watchers_count": 83
 }
 {
     "commits_count": 1,
@@ -722,8 +756,8 @@
     "repo_name": "IOC",
     "repo_owner": "IRB0T",
     "repotime": "2023-10-02, 19:42:45",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 9,
