@@ -551,7 +551,7 @@
     "date_started": "2021-12-16",
     "date_updated": "2021-12-19",
     "description": "Escalate from a low-integrity Administrator account to NT AUTHORITY\\SYSTEM without an LPE exploit by combining a COM UAC bypass and Token Impersonation",
-    "forks_count": 61,
+    "forks_count": 63,
     "html_url": "https://github.com/FULLSHADE/Auto-Elevate",
     "keywords": [
         "uac bypass",
