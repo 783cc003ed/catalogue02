@@ -1,4 +1,21 @@
 {
+    "commits_count": 1235,
+    "date_started": "2018-11-07",
+    "date_updated": "2023-10-16",
+    "description": "Dependency injection via APT (source code generation) ala &amp;quot;Server-Side Dagger DI&amp;quot;",
+    "forks_count": 17,
+    "html_url": "https://github.com/avaje/avaje-inject",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "avaje-inject",
+    "repo_owner": "avaje",
+    "repotime": "2023-10-16, 20:26:54",
+    "stargazers_count": 165,
+    "watchers_count": 165
+}
+{
     "commits_count": 11,
     "date_started": "2023-10-16",
     "date_updated": "2023-10-16",
@@ -14,6 +31,23 @@
     "repotime": "2023-10-16, 18:02:50",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 1633,
+    "date_started": "2019-09-10",
+    "date_updated": "2023-10-16",
+    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
+    "forks_count": 234,
+    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "smart-doc",
+    "repo_owner": "TongchengOpenSource",
+    "repotime": "2023-10-16, 16:07:34",
+    "stargazers_count": 1180,
+    "watchers_count": 1180
 }
 {
     "commits_count": 17,
@@ -350,23 +384,6 @@
     "watchers_count": 2
 }
 {
-    "commits_count": 1619,
-    "date_started": "2019-09-10",
-    "date_updated": "2023-10-12",
-    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
-    "forks_count": 232,
-    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Java",
-    "repo_name": "smart-doc",
-    "repo_owner": "TongchengOpenSource",
-    "repotime": "2023-10-12, 20:44:12",
-    "stargazers_count": 1178,
-    "watchers_count": 1178
-}
-{
     "commits_count": 5,
     "date_started": "2023-09-28",
     "date_updated": "2023-10-12",
@@ -519,7 +536,7 @@
     "date_started": "2023-10-09",
     "date_updated": "2023-10-10",
     "description": "LPE exploit for CVE-2023-36802",
-    "forks_count": 27,
+    "forks_count": 29,
     "html_url": "https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802",
     "keywords": [
         "Win lpe exploitation",
@@ -534,8 +551,8 @@
     "repo_name": "Windows_MSKSSRV_LPE_CVE-2023-36802",
     "repo_owner": "chompie1337",
     "repotime": "2023-10-10, 13:44:05",
-    "stargazers_count": 89,
-    "watchers_count": 89
+    "stargazers_count": 92,
+    "watchers_count": 92
 }
 {
     "commits_count": 1,
@@ -641,23 +658,6 @@
     "watchers_count": 3699
 }
 {
-    "commits_count": 1202,
-    "date_started": "2018-11-07",
-    "date_updated": "2023-10-10",
-    "description": "Dependency injection via APT (source code generation) ala &amp;quot;Server-Side Dagger DI&amp;quot;",
-    "forks_count": 17,
-    "html_url": "https://github.com/avaje/avaje-inject",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Java",
-    "repo_name": "avaje-inject",
-    "repo_owner": "avaje",
-    "repotime": "2023-10-10, 09:41:55",
-    "stargazers_count": 164,
-    "watchers_count": 164
-}
-{
     "commits_count": 1,
     "date_started": "2023-10-09",
     "date_updated": "2023-10-09",
@@ -696,7 +696,7 @@
     "date_started": "2020-06-02",
     "date_updated": "2023-10-09",
     "description": "The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.",
-    "forks_count": 126,
+    "forks_count": 127,
     "html_url": "https://github.com/hadashiA/VContainer",
     "keywords": [
         "code injection"
@@ -705,8 +705,8 @@
     "repo_name": "VContainer",
     "repo_owner": "hadashiA",
     "repotime": "2023-10-09, 16:28:51",
-    "stargazers_count": 1343,
-    "watchers_count": 1343
+    "stargazers_count": 1347,
+    "watchers_count": 1347
 }
 {
     "commits_count": 88,
@@ -923,7 +923,7 @@
     "date_started": "2023-02-14",
     "date_updated": "2023-10-03",
     "description": "A simple tutorial on how to do reverse engineer and code injection on AMI BIOSes (Legacy)",
-    "forks_count": 5,
+    "forks_count": 6,
     "html_url": "https://github.com/Theldus/AMI_BIOS_CodeInjection",
     "keywords": [
         "code injection"
@@ -932,8 +932,8 @@
     "repo_name": "AMI_BIOS_CodeInjection",
     "repo_owner": "Theldus",
     "repotime": "2023-10-03, 00:03:53",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 99,
