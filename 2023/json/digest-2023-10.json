@@ -74,18 +74,19 @@
     "commits_count": 11,
     "date_started": "2023-10-16",
     "date_updated": "2023-10-16",
-    "description": "Quick exploit to test out rapid reset attack (CVE-2023-44487). Note: For education purpose only",
+    "description": "A python based exploit to test out rapid reset attack (CVE-2023-44487)",
     "forks_count": 0,
     "html_url": "https://github.com/studiogangster/CVE-2023-44487",
     "keywords": [
-        "zero-day exploit"
+        "zero-day exploit",
+        "zero-day exploitation"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-44487",
     "repo_owner": "studiogangster",
     "repotime": "2023-10-16, 18:02:50",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 1633,
@@ -571,8 +572,8 @@
     "repo_name": "Windows_MSKSSRV_LPE_CVE-2023-36802",
     "repo_owner": "chompie1337",
     "repotime": "2023-10-10, 13:44:05",
-    "stargazers_count": 95,
-    "watchers_count": 95
+    "stargazers_count": 96,
+    "watchers_count": 96
 }
 {
     "commits_count": 1,
