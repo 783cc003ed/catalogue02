@@ -539,7 +539,7 @@
     "date_started": "2019-08-05",
     "date_updated": "2019-08-05",
     "description": "SIP is widely used signaling protocol for controlling the communication on the internet, maintaining, establishing as well as terminating the sessions.  It works on the application layer which can create, modify and terminate sessions with the participants. It supports multimedia sessions/services on both wired and wireless networks like multimedia distribution, internet telephone calls.  We are implementing Cryptanalysis for a secure mutual authentication which is based on Elliptical Curve Discrete Logarithm problem for SIP which is immune to the attacks.  Authentication is a crucial process when a remote user wants to get services from a corresponding sever.  Most environment communications of SIP are unsafe which naturally raises the issue of providing security protection for communicating participants.  Therefore, we are trying to design a robust and efficient mutual authentication which is meaningful and interesting. ",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/Shivikam6/Elliptic-Curve-cryptography-based-mutual-authentication-scheme-for-session-initiation-protocol",
     "keywords": [
         "session attack"
