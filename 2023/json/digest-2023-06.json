@@ -48,8 +48,8 @@
     "repo_name": "CVEs",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2023-06-30, 07:39:19",
-    "stargazers_count": 680,
-    "watchers_count": 680
+    "stargazers_count": 681,
+    "watchers_count": 681
 }
 {
     "commits_count": 86,
@@ -107,7 +107,7 @@
     "date_started": "2023-06-28",
     "date_updated": "2023-06-29",
     "description": "Alpine hostapd-mana based RADIUS server",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/sensepost/berate_radius",
     "keywords": [
         "by_owner"
@@ -116,8 +116,8 @@
     "repo_name": "berate_radius",
     "repo_owner": "sensepost",
     "repotime": "2023-06-29, 14:25:56",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 681,
@@ -592,14 +592,14 @@
     "date_updated": "2023-06-16",
     "description": "On May 23, 2023 GitLab released version 16.0.1 which fixed a critical vulnerability, CVE-2023-2825, affecting the Community Edition (CE) and Enterprise Edition (EE) version 16.0.0. The vulnerability allows unauthenticated users to read arbitrary files through a path traversal bug.",
     "forks_count": 0,
-    "html_url": "https://github.com/EmmanuelCruzL/CVE-2023-2825",
+    "html_url": "https://github.com/Rubikcuv5/CVE-2023-2825",
     "keywords": [
         "path traversal vulnerability",
         "unauthenticated user"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-2825",
-    "repo_owner": "EmmanuelCruzL",
+    "repo_owner": "Rubikcuv5",
     "repotime": "2023-06-16, 19:22:26",
     "stargazers_count": 0,
     "watchers_count": 0

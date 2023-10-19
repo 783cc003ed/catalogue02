@@ -209,6 +209,23 @@
     "watchers_count": 68
 }
 {
+    "commits_count": 2,
+    "date_started": "2023-10-16",
+    "date_updated": "2023-10-16",
+    "description": "Fortinet unauthenticated RCE POC and writeup...",
+    "forks_count": 0,
+    "html_url": "https://github.com/m474r5/CVE-2023-27997-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-27997-RCE",
+    "repo_owner": "m474r5",
+    "repotime": "2023-10-16, 16:38:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 11,
     "date_started": "2023-10-16",
     "date_updated": "2023-10-16",
@@ -263,10 +280,10 @@
     "watchers_count": 4
 }
 {
-    "commits_count": 1,
+    "commits_count": 2,
     "date_started": "2023-10-16",
     "date_updated": "2023-10-16",
-    "description": "orangescrum 1.8.0 - LFI to Remote Command Execution RCE (unauthenticated)",
+    "description": "orangescrum 1.8.0 - Remote Command Execution RCE (unauthenticated)",
     "forks_count": 0,
     "html_url": "https://github.com/g1thub3r1st4/CVE-2021-44909",
     "keywords": [
@@ -275,7 +292,7 @@
     "language": null,
     "repo_name": "CVE-2021-44909",
     "repo_owner": "g1thub3r1st4",
-    "repotime": "2023-10-16, 05:54:24",
+    "repotime": "2023-10-16, 06:38:13",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -336,7 +353,7 @@
     "date_started": "2023-10-15",
     "date_updated": "2023-10-15",
     "description": "Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts &amp;lt; Unauthenticated Arbitrary File Upload/Exploit ",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/codeb0ss/CVE-2023-45603-PoC",
     "keywords": [
         "unauthenticated user"
@@ -345,8 +362,8 @@
     "repo_name": "CVE-2023-45603-PoC",
     "repo_owner": "codeb0ss",
     "repotime": "2023-10-15, 05:16:29",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 14,
@@ -745,8 +762,8 @@
     "repo_name": "pacu",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2023-10-09, 21:26:39",
-    "stargazers_count": 3699,
-    "watchers_count": 3699
+    "stargazers_count": 3716,
+    "watchers_count": 3716
 }
 {
     "commits_count": 1,
@@ -1149,8 +1166,8 @@
     "repo_name": "cloudgoat",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2023-10-01, 17:18:41",
-    "stargazers_count": 2211,
-    "watchers_count": 2211
+    "stargazers_count": 2218,
+    "watchers_count": 2218
 }
 {
     "commits_count": 4,
