@@ -986,6 +986,23 @@
 }
 {
     "commits_count": 3,
+    "date_started": "2022-03-02",
+    "date_updated": "2022-04-12",
+    "description": "This repository contains exploit and reverse-engineering source code regarding the Spectre-BHB/Branch History Injection vulnerability",
+    "forks_count": 16,
+    "html_url": "https://github.com/vusec/bhi-spectre-bhb",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "bhi-spectre-bhb",
+    "repo_owner": "vusec",
+    "repotime": "2022-04-12, 11:13:22",
+    "stargazers_count": 100,
+    "watchers_count": 100
+}
+{
+    "commits_count": 3,
     "date_started": "2022-04-12",
     "date_updated": "2022-04-12",
     "description": "TerraMaster TOS Unauthenticated Remote Command Execution(RCE) Vulnerability CVE-2022-24990",
