@@ -374,23 +374,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 19,
-    "date_started": "2022-08-25",
-    "date_updated": "2023-04-23",
-    "description": "UAC bypass by abusing RPC and debug objects.",
-    "forks_count": 61,
-    "html_url": "https://github.com/Kudaes/Elevator",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "C++",
-    "repo_name": "Elevator",
-    "repo_owner": "Kudaes",
-    "repotime": "2023-04-23, 21:36:49",
-    "stargazers_count": 499,
-    "watchers_count": 499
-}
-{
     "commits_count": 1,
     "date_started": "2023-04-23",
     "date_updated": "2023-04-23",
@@ -1028,7 +1011,8 @@
     "html_url": "https://github.com/UNICORDev/exploit-CVE-2020-5844",
     "keywords": [
         "remote code execution vulnerability",
-        "remote code execution exploitation"
+        "remote code execution exploitation",
+        "remote code execution exploit"
     ],
     "language": "Python",
     "repo_name": "exploit-CVE-2020-5844",
@@ -1273,7 +1257,7 @@
     "date_started": "2023-03-07",
     "date_updated": "2023-04-01",
     "description": "3 ways of bypassing admin restrictions/uac",
-    "forks_count": 10,
+    "forks_count": 11,
     "html_url": "https://github.com/EbolaMan-YT/UAC-Bypass",
     "keywords": [
         "uac bypass"
@@ -1282,8 +1266,8 @@
     "repo_name": "UAC-Bypass",
     "repo_owner": "EbolaMan-YT",
     "repotime": "2023-04-01, 18:19:06",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 79,
