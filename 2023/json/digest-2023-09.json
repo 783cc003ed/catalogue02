@@ -99,8 +99,8 @@
     "repo_name": "NodeMCU-ESP8266",
     "repo_owner": "dfalt0",
     "repotime": "2023-09-28, 02:37:33",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 25,
@@ -160,7 +160,7 @@
     "date_started": "2023-05-22",
     "date_updated": "2023-09-26",
     "description": "NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications",
-    "forks_count": 109,
+    "forks_count": 110,
     "html_url": "https://github.com/0xKayala/NucleiFuzzer",
     "keywords": [
         "ssrf"
@@ -169,8 +169,8 @@
     "repo_name": "NucleiFuzzer",
     "repo_owner": "0xKayala",
     "repotime": "2023-09-26, 21:23:54",
-    "stargazers_count": 731,
-    "watchers_count": 731
+    "stargazers_count": 738,
+    "watchers_count": 738
 }
 {
     "commits_count": 2,
@@ -618,7 +618,7 @@
     "watchers_count": 8
 }
 {
-    "commits_count": 222,
+    "commits_count": 223,
     "date_started": "2021-08-24",
     "date_updated": "2023-09-14",
     "description": "Protect untrusted requests from SSRF",
@@ -631,8 +631,8 @@
     "repo_name": "got-ssrf",
     "repo_owner": "hanover-computing",
     "repotime": "2023-09-14, 17:54:55",
-    "stargazers_count": 44,
-    "watchers_count": 44
+    "stargazers_count": 45,
+    "watchers_count": 45
 }
 {
     "commits_count": 19,
@@ -1167,14 +1167,15 @@
     "forks_count": 532,
     "html_url": "https://github.com/reddelexc/hackerone-reports",
     "keywords": [
-        "xxe"
+        "xxe",
+        "ssrf"
     ],
     "language": "Python",
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2023-09-07, 08:34:13",
-    "stargazers_count": 2608,
-    "watchers_count": 2608
+    "stargazers_count": 2609,
+    "watchers_count": 2609
 }
 {
     "commits_count": 15,
@@ -1464,7 +1465,7 @@
     "date_started": "2023-04-04",
     "date_updated": "2023-09-02",
     "description": "Session Hijacking Visual Exploitation",
-    "forks_count": 10,
+    "forks_count": 11,
     "html_url": "https://github.com/doyensec/Session-Hijacking-Visual-Exploitation",
     "keywords": [
         "session hijacking"
@@ -1473,8 +1474,8 @@
     "repo_name": "Session-Hijacking-Visual-Exploitation",
     "repo_owner": "doyensec",
     "repotime": "2023-09-02, 01:35:59",
-    "stargazers_count": 92,
-    "watchers_count": 92
+    "stargazers_count": 107,
+    "watchers_count": 107
 }
 {
     "commits_count": 13,
