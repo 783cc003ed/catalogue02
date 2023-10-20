@@ -336,6 +336,23 @@
 }
 {
     "commits_count": 2,
+    "date_started": "2019-10-16",
+    "date_updated": "2019-10-16",
+    "description": "This native code file aims to be complementary to the published Whatsapp GIF RCE exploit by Awakened , by calculating the system() function address and ROP gadget address for different types of devices, which then can be used to successfully exploit the vulnerability.  ",
+    "forks_count": 22,
+    "html_url": "https://github.com/valbrux/CVE-2019-11932-SupportApp",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2019-11932-SupportApp",
+    "repo_owner": "valbrux",
+    "repotime": "2019-10-16, 14:20:53",
+    "stargazers_count": 35,
+    "watchers_count": 35
+}
+{
+    "commits_count": 2,
     "date_started": "2019-10-15",
     "date_updated": "2019-10-15",
     "description": "Opera Mini Location Permission Spoof Vulnerability",

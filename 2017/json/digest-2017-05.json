@@ -272,6 +272,23 @@
 }
 {
     "commits_count": 1,
+    "date_started": "2017-05-10",
+    "date_updated": "2017-05-09",
+    "description": "RCE against WordPress 4.6; Python port of https://exploitbox.io/vuln/WordPress-Exploit-4-6-RCE-CODE-EXEC-CVE-2016-10033.html",
+    "forks_count": 6,
+    "html_url": "https://github.com/GeneralTesler/CVE-2016-10033",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-10033",
+    "repo_owner": "GeneralTesler",
+    "repotime": "2017-05-09, 20:31:56",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 1,
     "date_started": "2017-05-06",
     "date_updated": "2017-05-06",
     "description": "Browser's XSS Filter Bypass Cheat Sheet",

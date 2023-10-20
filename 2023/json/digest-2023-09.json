@@ -889,6 +889,23 @@
     "watchers_count": 5
 }
 {
+    "commits_count": 6,
+    "date_started": "2023-05-01",
+    "date_updated": "2023-09-11",
+    "description": "This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer.",
+    "forks_count": 6,
+    "html_url": "https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-46169-CACTI-1.2.22",
+    "repo_owner": "FredBrave",
+    "repotime": "2023-09-11, 12:56:27",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
     "commits_count": 434,
     "date_started": "2019-02-23",
     "date_updated": "2023-09-11",

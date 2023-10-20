@@ -908,6 +908,23 @@
 {
     "commits_count": 2,
     "date_started": "2021-03-07",
+    "date_updated": "2021-03-08",
+    "description": "CVE-2021-21972 Unauthorized RCE in VMware vCenter metasploit exploit script",
+    "forks_count": 6,
+    "html_url": "https://github.com/TaroballzChen/CVE-2021-21972",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-21972",
+    "repo_owner": "TaroballzChen",
+    "repotime": "2021-03-08, 01:12:01",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-03-07",
     "date_updated": "2021-03-07",
     "description": "A working PoC to CVE-2018-16763 ",
     "forks_count": 0,

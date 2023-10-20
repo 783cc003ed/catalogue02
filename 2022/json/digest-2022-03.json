@@ -90,7 +90,7 @@
     "date_started": "2022-03-30",
     "date_updated": "2022-03-30",
     "description": "CVE-2022-22963 Spring-Cloud-Function-SpEL_RCE_exploit",
-    "forks_count": 8,
+    "forks_count": 7,
     "html_url": "https://github.com/RanDengShiFu/CVE-2022-22963",
     "keywords": [
         "rce exploitation"
@@ -839,6 +839,23 @@
     "watchers_count": 14
 }
 {
+    "commits_count": 9,
+    "date_started": "2022-01-17",
+    "date_updated": "2022-03-15",
+    "description": "Skeleton (but pronounced like Peloton): A Zero-Click RCE exploit for CVE-2021-0326",
+    "forks_count": 7,
+    "html_url": "https://github.com/aemmitt-ns/skeleton",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "skeleton",
+    "repo_owner": "aemmitt-ns",
+    "repotime": "2022-03-15, 22:58:27",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
     "commits_count": 2,
     "date_started": "2022-03-15",
     "date_updated": "2022-03-15",
@@ -888,8 +905,8 @@
     "repo_name": "dompdf-rce",
     "repo_owner": "positive-security",
     "repotime": "2022-03-15, 11:55:55",
-    "stargazers_count": 171,
-    "watchers_count": 171
+    "stargazers_count": 172,
+    "watchers_count": 172
 }
 {
     "commits_count": 4,
