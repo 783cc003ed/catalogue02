@@ -329,6 +329,23 @@
 }
 {
     "commits_count": 4,
+    "date_started": "2022-04-01",
+    "date_updated": "2022-05-25",
+    "description": "A guessing game uses RSA (ASymmetric) to authenticate server and client to each other and  AES Symmetric key is used as a session key. Phase3 achieves mutual authentication, perfect forward secrecy (PFS), and immune against man-in-the-middle (MiM) attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Amer-Mosally/Exchange-Secure-Messages",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Exchange-Secure-Messages",
+    "repo_owner": "Amer-Mosally",
+    "repotime": "2022-05-25, 14:52:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
     "date_started": "2022-05-25",
     "date_updated": "2022-05-25",
     "description": "CVE-2022-29221 Proof of Concept Code - Smarty RCE",

@@ -37,7 +37,7 @@
     "date_started": "2018-07-10",
     "date_updated": "2023-09-29",
     "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-    "forks_count": 1647,
+    "forks_count": 1648,
     "html_url": "https://github.com/kgretzky/evilginx2",
     "keywords": [
         "session attack"
@@ -46,8 +46,8 @@
     "repo_name": "evilginx2",
     "repo_owner": "kgretzky",
     "repotime": "2023-09-29, 00:51:26",
-    "stargazers_count": 8374,
-    "watchers_count": 8374
+    "stargazers_count": 8384,
+    "watchers_count": 8384
 }
 {
     "commits_count": 2,
@@ -332,24 +332,6 @@
     "repotime": "2023-09-20, 13:49:52",
     "stargazers_count": 56,
     "watchers_count": 56
-}
-{
-    "commits_count": 158,
-    "date_started": "2021-02-26",
-    "date_updated": "2023-09-20",
-    "description": "Local File Inclusion discovery and exploitation tool",
-    "forks_count": 22,
-    "html_url": "https://github.com/hansmach1ne/LFImap",
-    "keywords": [
-        "lfi",
-        "local file inclusion"
-    ],
-    "language": "Python",
-    "repo_name": "LFImap",
-    "repo_owner": "hansmach1ne",
-    "repotime": "2023-09-20, 18:25:21",
-    "stargazers_count": 141,
-    "watchers_count": 141
 }
 {
     "commits_count": 4,
