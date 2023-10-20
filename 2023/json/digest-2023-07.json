@@ -187,11 +187,11 @@
     "watchers_count": 1099
 }
 {
-    "commits_count": 539,
+    "commits_count": 540,
     "date_started": "2013-10-21",
     "date_updated": "2023-07-28",
     "description": "Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns",
-    "forks_count": 433,
+    "forks_count": 434,
     "html_url": "https://github.com/v3n0m-Scanner/V3n0M-Scanner",
     "keywords": [
         "lfi"
@@ -541,7 +541,8 @@
     "forks_count": 18,
     "html_url": "https://github.com/h4r5h1t/webcopilot",
     "keywords": [
-        "rce vulnerability"
+        "rce vulnerability",
+        "lfi"
     ],
     "language": "Shell",
     "repo_name": "webcopilot",
