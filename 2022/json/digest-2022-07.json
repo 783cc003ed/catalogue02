@@ -780,7 +780,8 @@
     "forks_count": 9,
     "html_url": "https://github.com/sourceincite/randy",
     "keywords": [
-        "rce exploitation"
+        "rce exploitation",
+        "rce exploit"
     ],
     "language": "Java",
     "repo_name": "randy",
@@ -839,23 +840,6 @@
     "repotime": "2022-07-15, 16:54:05",
     "stargazers_count": 12,
     "watchers_count": 12
-}
-{
-    "commits_count": 5,
-    "date_started": "2018-10-24",
-    "date_updated": "2022-07-15",
-    "description": "<no description>",
-    "forks_count": 5,
-    "html_url": "https://github.com/mackleadmire/CVE-2018-3191-Rce-Exploit",
-    "keywords": [
-        "rce exploit"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2018-3191-Rce-Exploit",
-    "repo_owner": "mackleadmire",
-    "repotime": "2022-07-15, 07:06:22",
-    "stargazers_count": 18,
-    "watchers_count": 18
 }
 {
     "commits_count": 1,
@@ -1151,8 +1135,8 @@
     "repo_name": "Gopherus",
     "repo_owner": "tarunkant",
     "repotime": "2022-07-11, 17:41:56",
-    "stargazers_count": 2468,
-    "watchers_count": 2468
+    "stargazers_count": 2469,
+    "watchers_count": 2469
 }
 {
     "commits_count": 24,
@@ -1611,6 +1595,23 @@
     "repotime": "2022-07-06, 10:03:50",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-12-13",
+    "date_updated": "2022-07-06",
+    "description": "Scanner for Log4j RCE CVE-2021-44228",
+    "forks_count": 5,
+    "html_url": "https://github.com/thecyberneh/Log4j-RCE-Exploiter",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "Log4j-RCE-Exploiter",
+    "repo_owner": "thecyberneh",
+    "repotime": "2022-07-06, 06:07:55",
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 7,
