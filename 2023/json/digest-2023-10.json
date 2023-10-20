@@ -1,4 +1,21 @@
 {
+    "commits_count": 5,
+    "date_started": "2023-10-20",
+    "date_updated": "2023-10-20",
+    "description": "Joomla Unauthenticated Information Disclosure (CVE-2023-23752) exploit",
+    "forks_count": 0,
+    "html_url": "https://github.com/AlissoftCodes/CVE-2023-23752",
+    "keywords": [
+        "unauthenticated disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-23752",
+    "repo_owner": "AlissoftCodes",
+    "repotime": "2023-10-20, 10:36:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 3,
     "date_started": "2023-06-19",
     "date_updated": "2023-10-20",
@@ -16,6 +33,23 @@
     "repotime": "2023-10-20, 13:23:30",
     "stargazers_count": 51,
     "watchers_count": 51
+}
+{
+    "commits_count": 2314,
+    "date_started": "2009-12-19",
+    "date_updated": "2023-10-20",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "forks_count": 2168,
+    "html_url": "https://github.com/jhy/jsoup",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "jsoup",
+    "repo_owner": "jhy",
+    "repotime": "2023-10-20, 16:00:13",
+    "stargazers_count": 10349,
+    "watchers_count": 10349
 }
 {
     "commits_count": 665,
@@ -159,23 +193,6 @@
     "repotime": "2023-10-18, 08:49:30",
     "stargazers_count": 12,
     "watchers_count": 12
-}
-{
-    "commits_count": 2299,
-    "date_started": "2009-12-19",
-    "date_updated": "2023-10-18",
-    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2166,
-    "html_url": "https://github.com/jhy/jsoup",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Java",
-    "repo_name": "jsoup",
-    "repo_owner": "jhy",
-    "repotime": "2023-10-18, 10:31:36",
-    "stargazers_count": 10346,
-    "watchers_count": 10346
 }
 {
     "commits_count": 1023,
@@ -750,8 +767,8 @@
     "repo_name": "Windows_MSKSSRV_LPE_CVE-2023-36802",
     "repo_owner": "chompie1337",
     "repotime": "2023-10-10, 13:44:05",
-    "stargazers_count": 100,
-    "watchers_count": 100
+    "stargazers_count": 101,
+    "watchers_count": 101
 }
 {
     "commits_count": 1,
@@ -855,6 +872,23 @@
     "repotime": "2023-10-09, 21:26:39",
     "stargazers_count": 3716,
     "watchers_count": 3716
+}
+{
+    "commits_count": 30,
+    "date_started": "2017-09-19",
+    "date_updated": "2023-10-09",
+    "description": "Light weight library for Filter the Cross-site scripting in request For Spring Framwork / Spring-Boot,  logic can be use for servlet based(without using spring framework) application ",
+    "forks_count": 29,
+    "html_url": "https://github.com/techguy-bhushan/XssRequestFilters",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "XssRequestFilters",
+    "repo_owner": "techguy-bhushan",
+    "repotime": "2023-10-09, 21:41:28",
+    "stargazers_count": 40,
+    "watchers_count": 40
 }
 {
     "commits_count": 1,
