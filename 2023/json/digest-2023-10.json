@@ -1,4 +1,23 @@
 {
+    "commits_count": 3,
+    "date_started": "2023-06-19",
+    "date_updated": "2023-10-20",
+    "description": "SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.",
+    "forks_count": 5,
+    "html_url": "https://github.com/nuts7/CVE-2023-27372",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-27372",
+    "repo_owner": "nuts7",
+    "repotime": "2023-10-20, 13:23:30",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
     "commits_count": 665,
     "date_started": "2022-03-19",
     "date_updated": "2023-10-20",
@@ -14,8 +33,8 @@
     "repo_name": "TOP",
     "repo_owner": "hktalent",
     "repotime": "2023-10-20, 00:09:53",
-    "stargazers_count": 581,
-    "watchers_count": 581
+    "stargazers_count": 580,
+    "watchers_count": 580
 }
 {
     "commits_count": 159,
@@ -129,7 +148,7 @@
     "date_started": "2023-06-18",
     "date_updated": "2023-10-18",
     "description": "Openfire Console Authentication Bypass Vulnerability with RCE plugin",
-    "forks_count": 3,
+    "forks_count": 4,
     "html_url": "https://github.com/miko550/CVE-2023-32315",
     "keywords": [
         "rce vulnerability"
@@ -138,8 +157,8 @@
     "repo_name": "CVE-2023-32315",
     "repo_owner": "miko550",
     "repotime": "2023-10-18, 08:49:30",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 2299,
@@ -207,8 +226,8 @@
     "repo_name": "HtmlSanitizer",
     "repo_owner": "mganss",
     "repotime": "2023-10-17, 12:13:54",
-    "stargazers_count": 1412,
-    "watchers_count": 1412
+    "stargazers_count": 1413,
+    "watchers_count": 1413
 }
 {
     "commits_count": 2,
@@ -277,8 +296,8 @@
     "repo_name": "Egyscan",
     "repo_owner": "dragonked2",
     "repotime": "2023-10-16, 18:54:00",
-    "stargazers_count": 138,
-    "watchers_count": 138
+    "stargazers_count": 140,
+    "watchers_count": 140
 }
 {
     "commits_count": 1160,
@@ -988,8 +1007,8 @@
     "repo_name": "Unauthenticated-RCE-FUXA-CVE-2023-33831",
     "repo_owner": "rodolfomarianocy",
     "repotime": "2023-10-03, 23:52:03",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 5,

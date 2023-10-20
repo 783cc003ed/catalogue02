@@ -312,8 +312,8 @@
     "repo_name": "AwesomeXSS",
     "repo_owner": "s0md3v",
     "repotime": "2023-01-31, 16:07:13",
-    "stargazers_count": 4513,
-    "watchers_count": 4513
+    "stargazers_count": 4516,
+    "watchers_count": 4516
 }
 {
     "commits_count": 2,
@@ -4115,7 +4115,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/v0lp3/CVE-2022-39073",
     "keywords": [
-        "rce proof of concept"
+        "rce proof of concept",
+        "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2022-39073",

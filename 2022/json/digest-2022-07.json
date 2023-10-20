@@ -390,7 +390,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/Vulnmachines/OMIGOD_cve-2021-38647",
     "keywords": [
-        "unauthenticated rce"
+        "unauthenticated rce",
+        "rce vulnerability"
     ],
     "language": null,
     "repo_name": "OMIGOD_cve-2021-38647",
@@ -509,23 +510,6 @@
     "repotime": "2022-07-23, 12:18:18",
     "stargazers_count": 12,
     "watchers_count": 12
-}
-{
-    "commits_count": 2,
-    "date_started": "2021-05-22",
-    "date_updated": "2022-07-23",
-    "description": "PoC of how to exploit a RCE vulnerability of the example DAGs in Apache Airflow &amp;lt;1.10.11 ",
-    "forks_count": 4,
-    "html_url": "https://github.com/pberba/CVE-2020-11978",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2020-11978",
-    "repo_owner": "pberba",
-    "repotime": "2022-07-23, 07:58:35",
-    "stargazers_count": 6,
-    "watchers_count": 6
 }
 {
     "commits_count": 11,
@@ -1798,6 +1782,6 @@
     "repo_name": "xsser",
     "repo_owner": "epsylon",
     "repotime": "2022-07-01, 09:26:51",
-    "stargazers_count": 972,
-    "watchers_count": 972
+    "stargazers_count": 973,
+    "watchers_count": 973
 }

@@ -493,7 +493,7 @@
     "date_started": "2021-06-03",
     "date_updated": "2021-07-15",
     "description": "JAVA 漏洞靶场 (Vulnerability Environment For Java)",
-    "forks_count": 129,
+    "forks_count": 130,
     "html_url": "https://github.com/tangxiaofeng7/SecExample",
     "keywords": [
         "rce vulnerability"
@@ -1086,7 +1086,8 @@
         "Windows rce",
         "rce dos",
         "Windows rce exploit",
-        "Windows rce vulnerability"
+        "Windows rce vulnerability",
+        "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2021-31166-Exploit",

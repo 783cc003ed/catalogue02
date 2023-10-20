@@ -46,8 +46,8 @@
     "repo_name": "CVE-2022-24637",
     "repo_owner": "Lay0us1",
     "repotime": "2022-08-30, 19:09:40",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 7,
@@ -1286,6 +1286,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 3,
+    "date_started": "2022-08-09",
+    "date_updated": "2022-08-09",
+    "description": "Samble vulnerable app with RCE over prototype pollution",
+    "forks_count": 3,
+    "html_url": "https://github.com/vdeturckheim/pollute-me",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "pollute-me",
+    "repo_owner": "vdeturckheim",
+    "repotime": "2022-08-09, 10:20:13",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 1,
     "date_started": "2022-08-09",
     "date_updated": "2022-08-09",
@@ -1541,7 +1558,8 @@
     "keywords": [
         "Microsoft rce vulnerability",
         "Microsoft rce",
-        "Microsoft rce poc"
+        "Microsoft rce poc",
+        "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "follina",

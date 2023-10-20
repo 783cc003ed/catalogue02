@@ -255,7 +255,7 @@
     "date_started": "2019-07-12",
     "date_updated": "2022-09-27",
     "description": "🔱 Powerfull XSS Scanning and Parameter analysis tool&amp;amp;gem",
-    "forks_count": 220,
+    "forks_count": 221,
     "html_url": "https://github.com/hahwul/XSpear",
     "keywords": [
         "xss"
@@ -264,8 +264,8 @@
     "repo_name": "XSpear",
     "repo_owner": "hahwul",
     "repotime": "2022-09-27, 22:47:33",
-    "stargazers_count": 1041,
-    "watchers_count": 1041
+    "stargazers_count": 1043,
+    "watchers_count": 1043
 }
 {
     "commits_count": 6,
@@ -1261,6 +1261,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 15,
+    "date_started": "2022-08-15",
+    "date_updated": "2022-09-15",
+    "description": "App with Server Side Template Injection (SSTI) vulnerability - possible RCE - in Flask. Free vulnerable app for ethical hacking / penetration testing training. ",
+    "forks_count": 2,
+    "html_url": "https://github.com/filipkarc/ssti-flask-hacking-playground",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "ssti-flask-hacking-playground",
+    "repo_owner": "filipkarc",
+    "repotime": "2022-09-15, 11:35:42",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
     "commits_count": 3,
     "date_started": "2022-09-04",
     "date_updated": "2022-09-15",
@@ -1589,6 +1606,23 @@
     "repotime": "2022-09-11, 14:19:21",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-09-05",
+    "date_updated": "2022-09-10",
+    "description": "Simple Java project showcases two vulnerabilities - a SQL injection and a RCE that although simplified were inspired from two real-word CVEs",
+    "forks_count": 8,
+    "html_url": "https://github.com/CodeIntelligenceTesting/java-demo",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "java-demo",
+    "repo_owner": "CodeIntelligenceTesting",
+    "repotime": "2022-09-10, 18:34:13",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 191,

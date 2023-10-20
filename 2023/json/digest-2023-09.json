@@ -451,8 +451,8 @@
     "repo_name": "xss-cheatsheet-data",
     "repo_owner": "PortSwigger",
     "repotime": "2023-09-18, 09:57:13",
-    "stargazers_count": 366,
-    "watchers_count": 366
+    "stargazers_count": 367,
+    "watchers_count": 367
 }
 {
     "commits_count": 1,
@@ -1057,6 +1057,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 12,
+    "date_started": "2022-06-25",
+    "date_updated": "2023-09-09",
+    "description": "Vulnerable Client-Server Application (VuCSA) is made for learning how to perform penetration tests of non-http thick clients. It is written in Java (with JavaFX graphical user interface) and contains multiple challenges including SQL injection, RCE, XML vulnerabilities and more.",
+    "forks_count": 25,
+    "html_url": "https://github.com/Warxim/vucsa",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "vucsa",
+    "repo_owner": "Warxim",
+    "repotime": "2023-09-09, 18:19:07",
+    "stargazers_count": 80,
+    "watchers_count": 80
+}
+{
     "commits_count": 69,
     "date_started": "2022-11-18",
     "date_updated": "2023-09-09",
@@ -1281,7 +1298,7 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 582,
+    "commits_count": 583,
     "date_started": "2015-03-12",
     "date_updated": "2023-09-04",
     "description": "㊙️ AntiXSS | Protection against Cross-site scripting (XSS) via PHP",
@@ -1294,8 +1311,8 @@
     "repo_name": "anti-xss",
     "repo_owner": "voku",
     "repotime": "2023-09-04, 17:36:40",
-    "stargazers_count": 626,
-    "watchers_count": 626
+    "stargazers_count": 627,
+    "watchers_count": 627
 }
 {
     "commits_count": 11,

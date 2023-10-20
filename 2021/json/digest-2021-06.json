@@ -23,7 +23,8 @@
     "forks_count": 4,
     "html_url": "https://github.com/xbufu/CVE-2018-15961",
     "keywords": [
-        "unrestricted file upload"
+        "unrestricted file upload",
+        "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2018-15961",
@@ -723,6 +724,23 @@
     "repotime": "2021-06-04, 05:53:29",
     "stargazers_count": 53,
     "watchers_count": 53
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-05-22",
+    "date_updated": "2021-06-02",
+    "description": "PoC of how to exploit a RCE vulnerability of the example DAGs in Apache Airflow &amp;lt;1.10.11 ",
+    "forks_count": 3,
+    "html_url": "https://github.com/pberba/CVE-2020-11978",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-11978",
+    "repo_owner": "pberba",
+    "repotime": "2021-06-02, 02:15:53",
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 4,
