@@ -1771,7 +1771,7 @@
     "date_started": "2018-04-23",
     "date_updated": "2022-10-29",
     "description": "🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List",
-    "forks_count": 1511,
+    "forks_count": 1512,
     "html_url": "https://github.com/payloadbox/xss-payload-list",
     "keywords": [
         "xss"
@@ -1780,8 +1780,8 @@
     "repo_name": "xss-payload-list",
     "repo_owner": "payloadbox",
     "repotime": "2022-10-29, 12:49:04",
-    "stargazers_count": 4941,
-    "watchers_count": 4941
+    "stargazers_count": 4942,
+    "watchers_count": 4942
 }
 {
     "commits_count": 33,
@@ -4245,7 +4245,8 @@
         "zero-day vulnerability",
         "path traversal vulnerability",
         "0day vulnerability",
-        "zero-day exploit"
+        "zero-day exploit",
+        "0day exploit"
     ],
     "language": null,
     "repo_name": "CVE-2022-39802",
