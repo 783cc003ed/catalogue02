@@ -262,6 +262,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4,
+    "date_started": "2023-08-27",
+    "date_updated": "2023-08-27",
+    "description": "一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。",
+    "forks_count": 19,
+    "html_url": "https://github.com/Garck3h/cve-2023-38831",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Go",
+    "repo_name": "cve-2023-38831",
+    "repo_owner": "Garck3h",
+    "repotime": "2023-08-27, 22:35:00",
+    "stargazers_count": 93,
+    "watchers_count": 93
+}
+{
     "commits_count": 7,
     "date_started": "2023-08-26",
     "date_updated": "2023-08-27",
@@ -555,6 +572,23 @@
     "repotime": "2023-08-22, 21:04:46",
     "stargazers_count": 238,
     "watchers_count": 238
+}
+{
+    "commits_count": 141,
+    "date_started": "2023-07-25",
+    "date_updated": "2023-08-22",
+    "description": "各种漏洞批量扫描poc、exp，涵盖未授权、RCE、文件上传、sql注入、信息泄露等",
+    "forks_count": 37,
+    "html_url": "https://github.com/MzzdToT/HAC_Bored_Writing",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "HAC_Bored_Writing",
+    "repo_owner": "MzzdToT",
+    "repotime": "2023-08-22, 16:00:13",
+    "stargazers_count": 168,
+    "watchers_count": 168
 }
 {
     "commits_count": 1,

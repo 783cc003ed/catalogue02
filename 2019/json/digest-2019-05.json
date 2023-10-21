@@ -567,7 +567,8 @@
         "rce exploit",
         "0day poc",
         "xxe",
-        "rce exploitation"
+        "rce exploitation",
+        "rce poc"
     ],
     "language": "Ruby",
     "repo_name": "ZimbraExploit",
@@ -626,6 +627,23 @@
     "repotime": "2019-05-05, 14:55:36",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-05-03",
+    "date_updated": "2019-05-03",
+    "description": "CVE-2019-9978 - (PoC) RCE in Social WarFare Plugin (&amp;lt;=3.5.2)",
+    "forks_count": 9,
+    "html_url": "https://github.com/hash3liZer/CVE-2019-9978",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-9978",
+    "repo_owner": "hash3liZer",
+    "repotime": "2019-05-03, 11:18:02",
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 8,
