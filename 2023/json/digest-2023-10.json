@@ -1,4 +1,21 @@
 {
+    "commits_count": 10,
+    "date_started": "2023-10-22",
+    "date_updated": "2023-10-22",
+    "description": "Microsoft Windows HTA (HTML Application) - Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/GameProfRcs/Hta-Exploit-Downloader-Malware-Builder",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "Hta-Exploit-Downloader-Malware-Builder",
+    "repo_owner": "GameProfRcs",
+    "repotime": "2023-10-22, 15:54:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 667,
     "date_started": "2022-03-19",
     "date_updated": "2023-10-22",
@@ -42,7 +59,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/joaoviictorti/SeDebugAbuse-rs",
     "keywords": [
-        "escalation of privileges proof of concept"
+        "escalation of privileges proof of concept",
+        "Windows escalation of privileges"
     ],
     "language": "Rust",
     "repo_name": "SeDebugAbuse-rs",
@@ -50,6 +68,40 @@
     "repotime": "2023-10-21, 15:47:23",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 1088,
+    "date_started": "2020-06-02",
+    "date_updated": "2023-10-21",
+    "description": "The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.",
+    "forks_count": 127,
+    "html_url": "https://github.com/hadashiA/VContainer",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "VContainer",
+    "repo_owner": "hadashiA",
+    "repotime": "2023-10-21, 20:22:22",
+    "stargazers_count": 1355,
+    "watchers_count": 1355
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-10-21",
+    "date_updated": "2023-10-21",
+    "description": "Predict whether customer purchase a product or not in a session",
+    "forks_count": 0,
+    "html_url": "https://github.com/ajitsingh98/E-commerce-product-buyer-session-prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "E-commerce-product-buyer-session-prediction",
+    "repo_owner": "ajitsingh98",
+    "repotime": "2023-10-21, 15:51:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 6,
@@ -137,6 +189,23 @@
     "repotime": "2023-10-20, 13:23:30",
     "stargazers_count": 51,
     "watchers_count": 51
+}
+{
+    "commits_count": 1635,
+    "date_started": "2019-09-10",
+    "date_updated": "2023-10-20",
+    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
+    "forks_count": 238,
+    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "smart-doc",
+    "repo_owner": "TongchengOpenSource",
+    "repotime": "2023-10-20, 16:12:05",
+    "stargazers_count": 1185,
+    "watchers_count": 1185
 }
 {
     "commits_count": 2314,
@@ -293,8 +362,8 @@
     "repo_name": "CVE-2023-32315",
     "repo_owner": "miko550",
     "repotime": "2023-10-18, 08:49:30",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 108,
@@ -469,23 +538,6 @@
     "repotime": "2023-10-16, 18:02:50",
     "stargazers_count": 4,
     "watchers_count": 4
-}
-{
-    "commits_count": 1633,
-    "date_started": "2019-09-10",
-    "date_updated": "2023-10-16",
-    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
-    "forks_count": 237,
-    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Java",
-    "repo_name": "smart-doc",
-    "repo_owner": "TongchengOpenSource",
-    "repotime": "2023-10-16, 16:07:34",
-    "stargazers_count": 1185,
-    "watchers_count": 1185
 }
 {
     "commits_count": 17,
@@ -1008,23 +1060,6 @@
     "repotime": "2023-10-09, 20:14:34",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 1077,
-    "date_started": "2020-06-02",
-    "date_updated": "2023-10-09",
-    "description": "The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.",
-    "forks_count": 127,
-    "html_url": "https://github.com/hadashiA/VContainer",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "C#",
-    "repo_name": "VContainer",
-    "repo_owner": "hadashiA",
-    "repotime": "2023-10-09, 16:28:51",
-    "stargazers_count": 1352,
-    "watchers_count": 1352
 }
 {
     "commits_count": 88,
