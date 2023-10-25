@@ -86,6 +86,57 @@
     "watchers_count": 1414
 }
 {
+    "commits_count": 1072,
+    "date_started": "2012-07-18",
+    "date_updated": "2023-10-24",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 406,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2023-10-24, 13:31:59",
+    "stargazers_count": 1305,
+    "watchers_count": 1305
+}
+{
+    "commits_count": 62,
+    "date_started": "2023-05-22",
+    "date_updated": "2023-10-24",
+    "description": "NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications",
+    "forks_count": 113,
+    "html_url": "https://github.com/0xKayala/NucleiFuzzer",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "NucleiFuzzer",
+    "repo_owner": "0xKayala",
+    "repotime": "2023-10-24, 15:05:27",
+    "stargazers_count": 744,
+    "watchers_count": 744
+}
+{
+    "commits_count": 119,
+    "date_started": "2022-10-01",
+    "date_updated": "2023-10-24",
+    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
+    "forks_count": 184,
+    "html_url": "https://github.com/r0oth3x49/ghauri",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "ghauri",
+    "repo_owner": "r0oth3x49",
+    "repotime": "2023-10-24, 10:02:08",
+    "stargazers_count": 1543,
+    "watchers_count": 1543
+}
+{
     "commits_count": 111,
     "date_started": "2019-04-19",
     "date_updated": "2023-10-23",
@@ -157,23 +208,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 1066,
-    "date_started": "2012-07-18",
-    "date_updated": "2023-10-22",
-    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 406,
-    "html_url": "https://github.com/ron190/jsql-injection",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Java",
-    "repo_name": "jsql-injection",
-    "repo_owner": "ron190",
-    "repotime": "2023-10-22, 20:35:52",
-    "stargazers_count": 1303,
-    "watchers_count": 1303
-}
-{
     "commits_count": 44,
     "date_started": "2023-07-12",
     "date_updated": "2023-10-22",
@@ -191,21 +225,21 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 118,
-    "date_started": "2022-10-01",
+    "commits_count": 10229,
+    "date_started": "2012-06-26",
     "date_updated": "2023-10-22",
-    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
-    "forks_count": 183,
-    "html_url": "https://github.com/r0oth3x49/ghauri",
+    "description": "Automatic SQL injection and database takeover tool",
+    "forks_count": 5487,
+    "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
     ],
     "language": "Python",
-    "repo_name": "ghauri",
-    "repo_owner": "r0oth3x49",
-    "repotime": "2023-10-22, 15:04:48",
-    "stargazers_count": 1535,
-    "watchers_count": 1535
+    "repo_name": "sqlmap",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2023-10-22, 11:13:17",
+    "stargazers_count": 28626,
+    "watchers_count": 28626
 }
 {
     "commits_count": 7,
@@ -327,23 +361,6 @@
     "repotime": "2023-10-20, 10:36:55",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 10226,
-    "date_started": "2012-06-26",
-    "date_updated": "2023-10-20",
-    "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 5477,
-    "html_url": "https://github.com/sqlmapproject/sqlmap",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Python",
-    "repo_name": "sqlmap",
-    "repo_owner": "sqlmapproject",
-    "repotime": "2023-10-20, 15:24:41",
-    "stargazers_count": 28457,
-    "watchers_count": 28457
 }
 {
     "commits_count": 3,
@@ -573,8 +590,8 @@
     "repo_name": "acra",
     "repo_owner": "cossacklabs",
     "repotime": "2023-10-16, 23:09:18",
-    "stargazers_count": 1225,
-    "watchers_count": 1225
+    "stargazers_count": 1224,
+    "watchers_count": 1224
 }
 {
     "commits_count": 20,
@@ -854,8 +871,8 @@
     "repo_name": "atdatabases",
     "repo_owner": "ForbesLindesay",
     "repotime": "2023-10-14, 02:12:51",
-    "stargazers_count": 554,
-    "watchers_count": 554
+    "stargazers_count": 555,
+    "watchers_count": 555
 }
 {
     "commits_count": 1,
@@ -1029,7 +1046,7 @@
     "date_started": "2023-10-09",
     "date_updated": "2023-10-10",
     "description": "LPE exploit for CVE-2023-36802",
-    "forks_count": 29,
+    "forks_count": 30,
     "html_url": "https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802",
     "keywords": [
         "Win lpe exploitation",
@@ -1045,8 +1062,8 @@
     "repo_name": "Windows_MSKSSRV_LPE_CVE-2023-36802",
     "repo_owner": "chompie1337",
     "repotime": "2023-10-10, 13:44:05",
-    "stargazers_count": 102,
-    "watchers_count": 102
+    "stargazers_count": 111,
+    "watchers_count": 111
 }
 {
     "commits_count": 1,
