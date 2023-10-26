@@ -1,5 +1,5 @@
 {
-    "commits_count": 323,
+    "commits_count": 368,
     "date_started": "2023-10-22",
     "date_updated": "2023-10-26",
     "description": "Microsoft Windows HTA (HTML Application) - Remote Code Execution",
@@ -12,7 +12,7 @@
     "language": "C#",
     "repo_name": "Hta-Exploit-Downloader-Malware-Builder",
     "repo_owner": "GameProfRcs",
-    "repotime": "2023-10-26, 03:41:33",
+    "repotime": "2023-10-26, 15:22:49",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -53,6 +53,23 @@
     "watchers_count": 168
 }
 {
+    "commits_count": 8,
+    "date_started": "2023-10-24",
+    "date_updated": "2023-10-25",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/ARBUCHELI/OWASP-TOP-10-SERVER-SIDE-REQUEST-FORGERY",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "OWASP-TOP-10-SERVER-SIDE-REQUEST-FORGERY",
+    "repo_owner": "ARBUCHELI",
+    "repotime": "2023-10-25, 09:44:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2324,
     "date_started": "2009-12-19",
     "date_updated": "2023-10-25",
@@ -85,23 +102,6 @@
     "repotime": "2023-10-24, 22:44:29",
     "stargazers_count": 1683,
     "watchers_count": 1683
-}
-{
-    "commits_count": 2,
-    "date_started": "2023-10-24",
-    "date_updated": "2023-10-24",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/ARBUCHELI/OWASP-TOP-10-SERVER-SIDE-REQUEST-FORGERY",
-    "keywords": [
-        "server side request forgery"
-    ],
-    "language": null,
-    "repo_name": "OWASP-TOP-10-SERVER-SIDE-REQUEST-FORGERY",
-    "repo_owner": "ARBUCHELI",
-    "repotime": "2023-10-24, 21:45:40",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 686,
@@ -1079,8 +1079,8 @@
     "repo_name": "Windows_MSKSSRV_LPE_CVE-2023-36802",
     "repo_owner": "chompie1337",
     "repotime": "2023-10-10, 13:44:05",
-    "stargazers_count": 112,
-    "watchers_count": 112
+    "stargazers_count": 114,
+    "watchers_count": 114
 }
 {
     "commits_count": 1,
