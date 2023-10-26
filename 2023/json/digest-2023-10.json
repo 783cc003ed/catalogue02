@@ -172,6 +172,23 @@
     "watchers_count": 1543
 }
 {
+    "commits_count": 2,
+    "date_started": "2023-10-24",
+    "date_updated": "2023-10-24",
+    "description": "Proof-of-concept displaying how you can abuse a UAF to poison the tcache, by overwriting the fd pointer, forcing malloc to return an arbitrary pointer/address.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ihatetheheap/tcache_poisoning",
+    "keywords": [
+        "uaf proof of concept"
+    ],
+    "language": "C",
+    "repo_name": "tcache_poisoning",
+    "repo_owner": "ihatetheheap",
+    "repotime": "2023-10-24, 05:44:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 111,
     "date_started": "2019-04-19",
     "date_updated": "2023-10-23",
@@ -1451,7 +1468,7 @@
     "date_started": "2015-05-28",
     "date_updated": "2023-10-02",
     "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
-    "forks_count": 515,
+    "forks_count": 516,
     "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
     "keywords": [
         "vulnerability",
