@@ -62,7 +62,8 @@
     "keywords": [
         "zero-day exploit",
         "Microsoft zero-day",
-        "Microsoft zero-day exploit"
+        "Microsoft zero-day exploit",
+        "Microsoft zero-day vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-23397",
@@ -144,7 +145,7 @@
     "date_started": "2009-12-19",
     "date_updated": "2023-10-25",
     "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2170,
+    "forks_count": 2173,
     "html_url": "https://github.com/jhy/jsoup",
     "keywords": [
         "xss"
@@ -153,15 +154,15 @@
     "repo_name": "jsoup",
     "repo_owner": "jhy",
     "repotime": "2023-10-25, 10:54:15",
-    "stargazers_count": 10352,
-    "watchers_count": 10352
+    "stargazers_count": 10356,
+    "watchers_count": 10356
 }
 {
     "commits_count": 516,
     "date_started": "2017-03-06",
     "date_updated": "2023-10-24",
     "description": "ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.",
-    "forks_count": 335,
+    "forks_count": 336,
     "html_url": "https://github.com/ssl/ezXSS",
     "keywords": [
         "xss"
@@ -174,7 +175,7 @@
     "watchers_count": 1683
 }
 {
-    "commits_count": 686,
+    "commits_count": 687,
     "date_started": "2013-06-25",
     "date_updated": "2023-10-24",
     "description": "Cleans HTML to avoid XSS attacks",
@@ -187,8 +188,8 @@
     "repo_name": "HtmlSanitizer",
     "repo_owner": "mganss",
     "repotime": "2023-10-24, 13:40:52",
-    "stargazers_count": 1414,
-    "watchers_count": 1414
+    "stargazers_count": 1416,
+    "watchers_count": 1416
 }
 {
     "commits_count": 62,
