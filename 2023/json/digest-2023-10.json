@@ -1,4 +1,21 @@
 {
+    "commits_count": 7,
+    "date_started": "2023-10-27",
+    "date_updated": "2023-10-28",
+    "description": "CVE-2023-4966 - NetScaler ADC and NetScaler Gateway Memory Leak Exploit",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xKayala/CVE-2023-4966",
+    "keywords": [
+        "memory leak exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-4966",
+    "repo_owner": "0xKayala",
+    "repotime": "2023-10-28, 12:17:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 6,
     "date_started": "2023-08-28",
     "date_updated": "2023-10-27",
@@ -42,7 +59,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/r4pG0r/CVE-2023-46747-POC",
     "keywords": [
-        "unauthenticated rce"
+        "unauthenticated rce",
+        "unauthenticated remote code execution"
     ],
     "language": null,
     "repo_name": "CVE-2023-46747-POC",
@@ -142,6 +160,23 @@
     "repotime": "2023-10-26, 15:41:19",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 33,
+    "date_started": "2023-04-04",
+    "date_updated": "2023-10-26",
+    "description": "Session Hijacking Visual Exploitation",
+    "forks_count": 12,
+    "html_url": "https://github.com/doyensec/Session-Hijacking-Visual-Exploitation",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Session-Hijacking-Visual-Exploitation",
+    "repo_owner": "doyensec",
+    "repotime": "2023-10-26, 10:24:02",
+    "stargazers_count": 115,
+    "watchers_count": 115
 }
 {
     "commits_count": 143,
