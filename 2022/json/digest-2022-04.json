@@ -238,8 +238,8 @@
     "repo_name": "CVE-2022-24990",
     "repo_owner": "0xf4n9x",
     "repotime": "2022-04-25, 12:58:21",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 13,
@@ -392,7 +392,7 @@
     "date_started": "2022-07-12",
     "date_updated": "2022-04-22",
     "description": "&amp;&#35;35; Liberty House Club **A Parallel Binance Chain to Enable Smart Contracts**  _NOTE: This document is under development. Please check regularly for updates!_  &amp;&#35;35;&amp;&#35;35; Table of Contents - [Motivation](&amp;&#35;35;motivation) - [Design Principles](&amp;&#35;35;design-principles) - [Consensus and Validator Quorum](&amp;&#35;35;consensus-and-validator-quorum)   * [Proof of Staked Authority](&amp;&#35;35;proof-of-staked-authority)   * [Validator Quorum](&amp;&#35;35;validator-quorum)   * [Security and Finality](&amp;&#35;35;security-and-finality)   * [Reward](&amp;&#35;35;reward) - [Token Economy](&amp;&#35;35;token-economy)   * [Native Token](&amp;&#35;35;native-token)   * [Other Tokens](&amp;&#35;35;other-tokens) - [Cross-Chain Transfer and Communication](&amp;&#35;35;cross-chain-transfer-and-communication)   * [Cross-Chain Transfer](&amp;&#35;35;cross-chain-transfer)   * [BC to BSC Architecture](&amp;&#35;35;bc-to-bsc-architecture)   * [BSC to BC Architecture](&amp;&#35;35;bsc-to-bc-architecture)   * [Timeout and Error Handling](&amp;&#35;35;timeout-and-error-handling)   * [Cross-Chain User Experie...",
-    "forks_count": 0,
+    "forks_count": 4,
     "html_url": "https://github.com/Mdshobu/Liberty-House-Club-Whitepaper",
     "keywords": [
         "Win use after free proof of concept",

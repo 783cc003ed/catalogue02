@@ -255,8 +255,8 @@
     "repo_name": "iscsicpl_bypassUAC",
     "repo_owner": "hackerhouse-opensource",
     "repotime": "2022-07-27, 10:48:24",
-    "stargazers_count": 712,
-    "watchers_count": 712
+    "stargazers_count": 714,
+    "watchers_count": 714
 }
 {
     "commits_count": 9,
@@ -693,14 +693,14 @@
     "date_started": "2022-07-24",
     "date_updated": "2022-07-20",
     "description": "<no description>",
-    "forks_count": 1,
-    "html_url": "https://github.com/merlinepedra25/CVE-2022-34918-LPE-PoC",
+    "forks_count": 0,
+    "html_url": "https://github.com/merlinepedra/CVE-2022-34918-LPE-PoC",
     "keywords": [
         "lpe poc"
     ],
     "language": "C",
     "repo_name": "CVE-2022-34918-LPE-PoC",
-    "repo_owner": "merlinepedra25",
+    "repo_owner": "merlinepedra",
     "repotime": "2022-07-20, 10:03:37",
     "stargazers_count": 2,
     "watchers_count": 2
@@ -710,14 +710,14 @@
     "date_started": "2022-07-24",
     "date_updated": "2022-07-20",
     "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/merlinepedra/CVE-2022-34918-LPE-PoC",
+    "forks_count": 1,
+    "html_url": "https://github.com/merlinepedra25/CVE-2022-34918-LPE-PoC",
     "keywords": [
         "lpe poc"
     ],
     "language": "C",
     "repo_name": "CVE-2022-34918-LPE-PoC",
-    "repo_owner": "merlinepedra",
+    "repo_owner": "merlinepedra25",
     "repotime": "2022-07-20, 10:03:37",
     "stargazers_count": 2,
     "watchers_count": 2
@@ -1125,7 +1125,7 @@
     "date_started": "2018-08-11",
     "date_updated": "2022-07-11",
     "description": "This tool generates gopher link for exploiting SSRF and gaining RCE in various servers",
-    "forks_count": 392,
+    "forks_count": 393,
     "html_url": "https://github.com/tarunkant/Gopherus",
     "keywords": [
         "rce exploit",
