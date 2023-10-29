@@ -1,4 +1,23 @@
 {
+    "commits_count": 5,
+    "date_started": "2023-10-20",
+    "date_updated": "2023-10-28",
+    "description": "The Proof of concept for abusing SeDebugPrivilege (Privilege Escalation in Windows)",
+    "forks_count": 0,
+    "html_url": "https://github.com/joaoviictorti/SeDebugAbuse-rs",
+    "keywords": [
+        "escalation of privileges proof of concept",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges proof of concept"
+    ],
+    "language": "Rust",
+    "repo_name": "SeDebugAbuse-rs",
+    "repo_owner": "joaoviictorti",
+    "repotime": "2023-10-28, 19:13:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 7,
     "date_started": "2023-10-27",
     "date_updated": "2023-10-28",
@@ -433,25 +452,6 @@
     "repo_name": "reports-summary",
     "repo_owner": "holmes-py",
     "repotime": "2023-10-21, 15:37:47",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 2,
-    "date_started": "2023-10-20",
-    "date_updated": "2023-10-21",
-    "description": "The Proof of concept for abusing SeDebugPrivilege (Privilege Escalation in Windows)",
-    "forks_count": 0,
-    "html_url": "https://github.com/joaoviictorti/SeDebugAbuse-rs",
-    "keywords": [
-        "escalation of privileges proof of concept",
-        "Windows escalation of privileges",
-        "Windows escalation of privileges proof of concept"
-    ],
-    "language": "Rust",
-    "repo_name": "SeDebugAbuse-rs",
-    "repo_owner": "joaoviictorti",
-    "repotime": "2023-10-21, 15:47:23",
     "stargazers_count": 1,
     "watchers_count": 1
 }
