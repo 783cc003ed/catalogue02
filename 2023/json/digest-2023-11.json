@@ -1,4 +1,38 @@
 {
+    "commits_count": 2332,
+    "date_started": "2009-12-19",
+    "date_updated": "2023-11-03",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "forks_count": 2175,
+    "html_url": "https://github.com/jhy/jsoup",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "jsoup",
+    "repo_owner": "jhy",
+    "repotime": "2023-11-03, 10:10:37",
+    "stargazers_count": 10366,
+    "watchers_count": 10366
+}
+{
+    "commits_count": 693,
+    "date_started": "2013-06-25",
+    "date_updated": "2023-11-02",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 224,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2023-11-02, 12:26:23",
+    "stargazers_count": 1418,
+    "watchers_count": 1418
+}
+{
     "commits_count": 7,
     "date_started": "2023-11-01",
     "date_updated": "2023-11-01",
