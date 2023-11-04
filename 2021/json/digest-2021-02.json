@@ -529,7 +529,7 @@
     "date_started": "2021-02-11",
     "date_updated": "2021-02-10",
     "description": "A Burp extension adding a passive scan check to flag parameters whose name or value may indicate a possible insertion point for SSRF or LFI.",
-    "forks_count": 24,
+    "forks_count": 23,
     "html_url": "https://github.com/allyomalley/BurpParamFlagger",
     "keywords": [
         "lfi"
@@ -538,8 +538,8 @@
     "repo_name": "BurpParamFlagger",
     "repo_owner": "allyomalley",
     "repotime": "2021-02-10, 18:00:14",
-    "stargazers_count": 128,
-    "watchers_count": 128
+    "stargazers_count": 127,
+    "watchers_count": 127
 }
 {
     "commits_count": 3,
