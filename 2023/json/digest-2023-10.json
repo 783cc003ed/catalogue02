@@ -119,11 +119,28 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 43,
+    "date_started": "2023-08-18",
+    "date_updated": "2023-10-31",
+    "description": "实战场景较通用的 Java Rce 相关漏洞的利用方式 | Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios",
+    "forks_count": 11,
+    "html_url": "https://github.com/Whoopsunix/JavaRce",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "JavaRce",
+    "repo_owner": "Whoopsunix",
+    "repotime": "2023-10-31, 11:07:39",
+    "stargazers_count": 148,
+    "watchers_count": 148
+}
+{
     "commits_count": 2,
     "date_started": "2023-10-30",
     "date_updated": "2023-10-30",
     "description": "F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!",
-    "forks_count": 3,
+    "forks_count": 4,
     "html_url": "https://github.com/AliBrTab/CVE-2023-46747-POC",
     "keywords": [
         "unauthenticated remote code execution",
