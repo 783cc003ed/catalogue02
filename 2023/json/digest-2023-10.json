@@ -126,7 +126,8 @@
     "forks_count": 11,
     "html_url": "https://github.com/Whoopsunix/JavaRce",
     "keywords": [
-        "rce vulnerability"
+        "rce vulnerability",
+        "rce exploitation"
     ],
     "language": "Java",
     "repo_name": "JavaRce",
@@ -255,8 +256,8 @@
     "repo_name": "Maltrail-v0.53-Exploit",
     "repo_owner": "spookier",
     "repotime": "2023-10-29, 10:22:55",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 527,
@@ -1125,7 +1126,7 @@
     "date_started": "2023-10-11",
     "date_updated": "2023-10-12",
     "description": "CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase ",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/nickswink/CVE-2023-38646",
     "keywords": [
         "unauthenticated rce"
@@ -1134,8 +1135,8 @@
     "repo_name": "CVE-2023-38646",
     "repo_owner": "nickswink",
     "repotime": "2023-10-12, 10:41:01",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 5,
@@ -1193,7 +1194,7 @@
     "date_started": "2021-09-15",
     "date_updated": "2023-10-11",
     "description": "CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit",
-    "forks_count": 173,
+    "forks_count": 172,
     "html_url": "https://github.com/klezVirus/CVE-2021-40444",
     "keywords": [
         "Microsoft rce exploitation",
