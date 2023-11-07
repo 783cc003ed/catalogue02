@@ -123,7 +123,7 @@
     "date_started": "2023-10-30",
     "date_updated": "2023-10-30",
     "description": "F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!",
-    "forks_count": 4,
+    "forks_count": 5,
     "html_url": "https://github.com/AliBrTab/CVE-2023-46747-POC",
     "keywords": [
         "unauthenticated remote code execution",
@@ -135,8 +135,8 @@
     "repo_name": "CVE-2023-46747-POC",
     "repo_owner": "AliBrTab",
     "repotime": "2023-10-30, 19:26:14",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 738,
@@ -229,7 +229,7 @@
     "date_started": "2023-07-19",
     "date_updated": "2023-10-29",
     "description": "RCE Exploit For Maltrail-v0.53",
-    "forks_count": 3,
+    "forks_count": 4,
     "html_url": "https://github.com/spookier/Maltrail-v0.53-Exploit",
     "keywords": [
         "rce exploitation"
@@ -238,8 +238,8 @@
     "repo_name": "Maltrail-v0.53-Exploit",
     "repo_owner": "spookier",
     "repotime": "2023-10-29, 10:22:55",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 527,
@@ -382,6 +382,24 @@
     "repotime": "2023-10-26, 18:34:06",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 1293,
+    "date_started": "2018-06-13",
+    "date_updated": "2023-10-26",
+    "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
+    "forks_count": 632,
+    "html_url": "https://github.com/RhinoSecurityLabs/pacu",
+    "keywords": [
+        "exploitation",
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "pacu",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2023-10-26, 22:02:58",
+    "stargazers_count": 3751,
+    "watchers_count": 3751
 }
 {
     "commits_count": 99,
@@ -542,6 +560,23 @@
     "repotime": "2023-10-23, 19:19:01",
     "stargazers_count": 2645,
     "watchers_count": 2645
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-08-07",
+    "date_updated": "2023-10-23",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/sensepost/dresscode",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "dresscode",
+    "repo_owner": "sensepost",
+    "repotime": "2023-10-23, 14:02:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 16,
@@ -1307,24 +1342,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 1288,
-    "date_started": "2018-06-13",
-    "date_updated": "2023-10-09",
-    "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
-    "forks_count": 626,
-    "html_url": "https://github.com/RhinoSecurityLabs/pacu",
-    "keywords": [
-        "exploitation",
-        "by_owner"
-    ],
-    "language": "Python",
-    "repo_name": "pacu",
-    "repo_owner": "RhinoSecurityLabs",
-    "repotime": "2023-10-09, 21:26:39",
-    "stargazers_count": 3722,
-    "watchers_count": 3722
-}
-{
     "commits_count": 30,
     "date_started": "2017-09-19",
     "date_updated": "2023-10-09",
@@ -1666,7 +1683,7 @@
     "date_started": "2018-07-17",
     "date_updated": "2023-10-01",
     "description": "CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool",
-    "forks_count": 526,
+    "forks_count": 533,
     "html_url": "https://github.com/RhinoSecurityLabs/cloudgoat",
     "keywords": [
         "by_owner"
@@ -1675,8 +1692,8 @@
     "repo_name": "cloudgoat",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2023-10-01, 17:18:41",
-    "stargazers_count": 2219,
-    "watchers_count": 2219
+    "stargazers_count": 2240,
+    "watchers_count": 2240
 }
 {
     "commits_count": 4,
