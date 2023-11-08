@@ -517,7 +517,8 @@
     "forks_count": 10,
     "html_url": "https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE",
     "keywords": [
-        "lpe poc"
+        "lpe poc",
+        "Microsoft lpe"
     ],
     "language": "C",
     "repo_name": "CVE-2023-36802-MSKSSRV-LPE",
@@ -892,24 +893,6 @@
     "watchers_count": 13
 }
 {
-    "commits_count": 108,
-    "date_started": "2021-02-23",
-    "date_updated": "2023-10-17",
-    "description": "Repository for information about 0-days exploited in-the-wild.",
-    "forks_count": 77,
-    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
-    "keywords": [
-        "0day exploitation",
-        "0day exploit"
-    ],
-    "language": "HTML",
-    "repo_name": "0days-in-the-wild",
-    "repo_owner": "googleprojectzero",
-    "repotime": "2023-10-17, 19:22:05",
-    "stargazers_count": 641,
-    "watchers_count": 641
-}
-{
     "commits_count": 2,
     "date_started": "2023-01-20",
     "date_updated": "2023-10-17",
@@ -1229,8 +1212,8 @@
     "repo_name": "CVE-2021-40444",
     "repo_owner": "klezVirus",
     "repotime": "2023-10-11, 19:44:51",
-    "stargazers_count": 764,
-    "watchers_count": 764
+    "stargazers_count": 765,
+    "watchers_count": 765
 }
 {
     "commits_count": 14,

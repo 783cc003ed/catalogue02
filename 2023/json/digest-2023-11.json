@@ -130,7 +130,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/Pushkarup/CVE-2023-5360",
     "keywords": [
-        "unauthenticated rce"
+        "unauthenticated rce",
+        "unauthenticated user"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-5360",
@@ -210,6 +211,24 @@
     "repotime": "2023-11-04, 12:00:44",
     "stargazers_count": 10370,
     "watchers_count": 10370
+}
+{
+    "commits_count": 118,
+    "date_started": "2021-02-23",
+    "date_updated": "2023-11-03",
+    "description": "Repository for information about 0-days exploited in-the-wild.",
+    "forks_count": 80,
+    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "0days-in-the-wild",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2023-11-03, 08:33:26",
+    "stargazers_count": 659,
+    "watchers_count": 659
 }
 {
     "commits_count": 101,
