@@ -71,6 +71,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 59,
+    "date_started": "2023-02-14",
+    "date_updated": "2023-11-07",
+    "description": "A simple tutorial on how to do reverse engineer and code injection on AMI BIOSes (Legacy)",
+    "forks_count": 6,
+    "html_url": "https://github.com/Theldus/AMI_BIOS_CodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "AMI_BIOS_CodeInjection",
+    "repo_owner": "Theldus",
+    "repotime": "2023-11-07, 17:29:05",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
     "commits_count": 331,
     "date_started": "2020-06-20",
     "date_updated": "2023-11-07",
@@ -103,8 +120,25 @@
     "repo_name": "CVE-2023-46747-RCE",
     "repo_owner": "W01fh4cker",
     "repotime": "2023-11-07, 20:34:17",
-    "stargazers_count": 102,
-    "watchers_count": 102
+    "stargazers_count": 103,
+    "watchers_count": 103
+}
+{
+    "commits_count": 1288,
+    "date_started": "2018-11-07",
+    "date_updated": "2023-11-07",
+    "description": "Dependency injection via APT (source code generation) ala &amp;quot;Server-Side Dagger DI&amp;quot;",
+    "forks_count": 18,
+    "html_url": "https://github.com/avaje/avaje-inject",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "avaje-inject",
+    "repo_owner": "avaje",
+    "repotime": "2023-11-07, 06:13:31",
+    "stargazers_count": 171,
+    "watchers_count": 171
 }
 {
     "commits_count": 6,
@@ -374,23 +408,6 @@
     "repotime": "2023-11-03, 12:40:59",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 1282,
-    "date_started": "2018-11-07",
-    "date_updated": "2023-11-03",
-    "description": "Dependency injection via APT (source code generation) ala &amp;quot;Server-Side Dagger DI&amp;quot;",
-    "forks_count": 18,
-    "html_url": "https://github.com/avaje/avaje-inject",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Java",
-    "repo_name": "avaje-inject",
-    "repo_owner": "avaje",
-    "repotime": "2023-11-03, 05:52:54",
-    "stargazers_count": 171,
-    "watchers_count": 171
 }
 {
     "commits_count": 6,

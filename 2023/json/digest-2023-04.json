@@ -71,7 +71,7 @@
     "date_started": "2023-02-19",
     "date_updated": "2023-04-29",
     "description": "This novel way of using NtQueueApcThreadEx by abusing the ApcRoutine and SystemArgument[0-3] parameters by passing a random pop r32; ret gadget can be used for stealthy code injection. ",
-    "forks_count": 33,
+    "forks_count": 32,
     "html_url": "https://github.com/LloydLabs/ntqueueapcthreadex-ntdll-gadget-injection",
     "keywords": [
         "code injection"
@@ -80,8 +80,8 @@
     "repo_name": "ntqueueapcthreadex-ntdll-gadget-injection",
     "repo_owner": "LloydLabs",
     "repotime": "2023-04-29, 15:50:52",
-    "stargazers_count": 217,
-    "watchers_count": 217
+    "stargazers_count": 218,
+    "watchers_count": 218
 }
 {
     "commits_count": 15,
