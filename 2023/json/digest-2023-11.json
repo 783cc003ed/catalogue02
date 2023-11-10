@@ -1,4 +1,22 @@
 {
+    "commits_count": 12,
+    "date_started": "2023-09-02",
+    "date_updated": "2023-11-09",
+    "description": "an exploit of Server-side request forgery (SSRF)",
+    "forks_count": 5,
+    "html_url": "https://github.com/errorfiathck/ssrf-exploit",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "ssrf-exploit",
+    "repo_owner": "errorfiathck",
+    "repotime": "2023-11-09, 21:55:49",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
     "commits_count": 685,
     "date_started": "2022-03-19",
     "date_updated": "2023-11-09",
@@ -69,6 +87,58 @@
     "repotime": "2023-11-08, 09:41:47",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2022-12-12",
+    "date_updated": "2023-11-08",
+    "description": "A Server Side Request Forgery (SSRF) protection library. Made with 🖤 by Doyensec LLC.",
+    "forks_count": 5,
+    "html_url": "https://github.com/doyensec/safeurl",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "safeurl",
+    "repo_owner": "doyensec",
+    "repotime": "2023-11-08, 09:05:33",
+    "stargazers_count": 78,
+    "watchers_count": 78
+}
+{
+    "commits_count": 91,
+    "date_started": "2019-01-15",
+    "date_updated": "2023-11-07",
+    "description": "A list of resources for those interested in getting started in bug bounties",
+    "forks_count": 1760,
+    "html_url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "Resources-for-Beginner-Bug-Bounty-Hunters",
+    "repo_owner": "nahamsec",
+    "repotime": "2023-11-07, 22:30:26",
+    "stargazers_count": 9516,
+    "watchers_count": 9516
+}
+{
+    "commits_count": 97,
+    "date_started": "2021-03-06",
+    "date_updated": "2023-11-08",
+    "description": "ProxyLogon Pre-Auth SSRF To Arbitrary File Write",
+    "forks_count": 42,
+    "html_url": "https://github.com/Udyz/Proxylogon",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Proxylogon",
+    "repo_owner": "Udyz",
+    "repotime": "2023-11-08, 12:31:59",
+    "stargazers_count": 122,
+    "watchers_count": 122
 }
 {
     "commits_count": 59,
@@ -160,24 +230,6 @@
     "repotime": "2023-11-07, 10:41:40",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 8,
-    "date_started": "2023-09-02",
-    "date_updated": "2023-11-06",
-    "description": "an exploit of Server-side request forgery (SSRF)",
-    "forks_count": 5,
-    "html_url": "https://github.com/errorfiathck/ssrf-exploit",
-    "keywords": [
-        "server side request forgery",
-        "ssrf"
-    ],
-    "language": "Python",
-    "repo_name": "ssrf-exploit",
-    "repo_owner": "errorfiathck",
-    "repotime": "2023-11-06, 23:24:41",
-    "stargazers_count": 28,
-    "watchers_count": 28
 }
 {
     "commits_count": 1106,
