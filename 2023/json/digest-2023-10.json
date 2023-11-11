@@ -54,7 +54,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2023-10-31",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 5500,
+    "forks_count": 5508,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -63,8 +63,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2023-10-31, 15:16:15",
-    "stargazers_count": 28719,
-    "watchers_count": 28719
+    "stargazers_count": 28782,
+    "watchers_count": 28782
 }
 {
     "commits_count": 1089,
@@ -257,6 +257,23 @@
     "repotime": "2023-10-29, 10:22:55",
     "stargazers_count": 25,
     "watchers_count": 25
+}
+{
+    "commits_count": 106,
+    "date_started": "2022-07-27",
+    "date_updated": "2023-10-29",
+    "description": "Simple python script supported with BurpBouty profile that helps you to detect SQL injection &amp;quot;Error based&amp;quot; by sending multiple requests with 14 payloads and checking for 152 regex patterns for different databases.",
+    "forks_count": 105,
+    "html_url": "https://github.com/eslam3kl/SQLiDetector",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "BlitzBasic",
+    "repo_name": "SQLiDetector",
+    "repo_owner": "eslam3kl",
+    "repotime": "2023-10-29, 01:53:47",
+    "stargazers_count": 531,
+    "watchers_count": 531
 }
 {
     "commits_count": 527,
@@ -544,23 +561,6 @@
     "repotime": "2023-10-24, 15:05:27",
     "stargazers_count": 770,
     "watchers_count": 770
-}
-{
-    "commits_count": 119,
-    "date_started": "2022-10-01",
-    "date_updated": "2023-10-24",
-    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
-    "forks_count": 187,
-    "html_url": "https://github.com/r0oth3x49/ghauri",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Python",
-    "repo_name": "ghauri",
-    "repo_owner": "r0oth3x49",
-    "repotime": "2023-10-24, 10:02:08",
-    "stargazers_count": 1567,
-    "watchers_count": 1567
 }
 {
     "commits_count": 2,
