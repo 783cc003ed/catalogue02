@@ -89,6 +89,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 47,
+    "date_started": "2023-11-04",
+    "date_updated": "2023-11-09",
+    "description": "Mrco24-Lfi-Scanner is a high-speed Local File Inclusion (LFI) vulnerability scanning tool developed in the Go programming language. It's designed for efficient multi-threaded scanning of multiple URLs, comprehensive payload testing, and super-fast vulnerability detection. This repository contains the source code and documentation for the tool.",
+    "forks_count": 4,
+    "html_url": "https://github.com/mrco24/mrco24-lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Go",
+    "repo_name": "mrco24-lfi",
+    "repo_owner": "mrco24",
+    "repotime": "2023-11-09, 11:08:04",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
     "commits_count": 160,
     "date_started": "2013-11-05",
     "date_updated": "2023-11-08",
