@@ -141,6 +141,23 @@
     "watchers_count": 8
 }
 {
+    "commits_count": 3,
+    "date_started": "2023-11-09",
+    "date_updated": "2023-11-09",
+    "description": "This script is designed to test for SQL injection vulnerabilities in the 74CMS `weixin.php` file. The vulnerability arises due to the lack of customization of the `libxml_disable_entity_loader` function, allowing XML External Entity (XXE) Injection, leading to SQL injection vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Pushkarup/74cms-weixin-sqli",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "74cms-weixin-sqli",
+    "repo_owner": "Pushkarup",
+    "repotime": "2023-11-09, 10:19:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 160,
     "date_started": "2013-11-05",
     "date_updated": "2023-11-08",
