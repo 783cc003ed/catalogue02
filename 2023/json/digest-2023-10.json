@@ -277,25 +277,6 @@
     "watchers_count": 1690
 }
 {
-    "commits_count": 5,
-    "date_started": "2023-10-20",
-    "date_updated": "2023-10-28",
-    "description": "The Proof of concept for abusing SeDebugPrivilege (Privilege Escalation in Windows)",
-    "forks_count": 0,
-    "html_url": "https://github.com/joaoviictorti/SeDebugAbuse-rs",
-    "keywords": [
-        "escalation of privileges proof of concept",
-        "Windows escalation of privileges",
-        "Windows escalation of privileges proof of concept"
-    ],
-    "language": "Rust",
-    "repo_name": "SeDebugAbuse-rs",
-    "repo_owner": "joaoviictorti",
-    "repotime": "2023-10-28, 19:13:39",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 4,
     "date_started": "2023-10-28",
     "date_updated": "2023-10-28",
@@ -1460,8 +1441,8 @@
     "repo_name": "Automated-MUlti-UAC-Bypass",
     "repo_owner": "x0xr00t",
     "repotime": "2023-10-04, 18:59:12",
-    "stargazers_count": 173,
-    "watchers_count": 173
+    "stargazers_count": 172,
+    "watchers_count": 172
 }
 {
     "commits_count": 4,
@@ -1626,7 +1607,7 @@
     "date_started": "2015-05-28",
     "date_updated": "2023-10-02",
     "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
-    "forks_count": 519,
+    "forks_count": 520,
     "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
     "keywords": [
         "vulnerability",
