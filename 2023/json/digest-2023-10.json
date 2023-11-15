@@ -293,8 +293,8 @@
     "repo_name": "Ai-Security-URL",
     "repo_owner": "AiGptCode",
     "repotime": "2023-10-28, 02:00:14",
-    "stargazers_count": 36,
-    "watchers_count": 36
+    "stargazers_count": 38,
+    "watchers_count": 38
 }
 {
     "commits_count": 1,
@@ -422,23 +422,6 @@
     "repotime": "2023-10-26, 15:41:19",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 33,
-    "date_started": "2023-04-04",
-    "date_updated": "2023-10-26",
-    "description": "Session Hijacking Visual Exploitation",
-    "forks_count": 12,
-    "html_url": "https://github.com/doyensec/Session-Hijacking-Visual-Exploitation",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "JavaScript",
-    "repo_name": "Session-Hijacking-Visual-Exploitation",
-    "repo_owner": "doyensec",
-    "repotime": "2023-10-26, 10:24:02",
-    "stargazers_count": 125,
-    "watchers_count": 125
 }
 {
     "commits_count": 1375,
@@ -1580,7 +1563,7 @@
     "date_started": "2022-09-03",
     "date_updated": "2023-10-01",
     "description": "Tests URLs for Local File Inclusion (LFI), Remote File Inclusion (RFI),   SQL injection (SQLi), and Cross Site Scripting (XSS), Server Side Template Injection (SSTI), and Open Redirects.",
-    "forks_count": 11,
+    "forks_count": 12,
     "html_url": "https://github.com/ronin-rb/ronin-vulns",
     "keywords": [
         "local file inclusion",
