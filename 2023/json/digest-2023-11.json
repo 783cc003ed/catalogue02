@@ -1,4 +1,21 @@
 {
+    "commits_count": 8,
+    "date_started": "2023-11-01",
+    "date_updated": "2023-11-14",
+    "description": "Repo that reproduces a Chromium Webview memory leak",
+    "forks_count": 0,
+    "html_url": "https://github.com/pyricau/chromium-webview-leak",
+    "keywords": [
+        "Chromium memory leak"
+    ],
+    "language": "Kotlin",
+    "repo_name": "chromium-webview-leak",
+    "repo_owner": "pyricau",
+    "repotime": "2023-11-14, 15:07:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 22,
     "date_started": "2022-12-04",
     "date_updated": "2023-11-14",
@@ -163,6 +180,23 @@
     "watchers_count": 591
 }
 {
+    "commits_count": 34,
+    "date_started": "2021-05-17",
+    "date_updated": "2023-11-13",
+    "description": "Crack MSCHAPv2 challenge/responses quickly using a database of NT hashes",
+    "forks_count": 19,
+    "html_url": "https://github.com/sensepost/assless-chaps",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "assless-chaps",
+    "repo_owner": "sensepost",
+    "repotime": "2023-11-13, 15:09:44",
+    "stargazers_count": 112,
+    "watchers_count": 112
+}
+{
     "commits_count": 2347,
     "date_started": "2009-12-19",
     "date_updated": "2023-11-13",
@@ -238,7 +272,8 @@
     "forks_count": 5,
     "html_url": "https://github.com/sule01u/CVE-2023-46604",
     "keywords": [
-        "rce vulnerability"
+        "rce vulnerability",
+        "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-46604",
@@ -684,6 +719,23 @@
     "watchers_count": 5425
 }
 {
+    "commits_count": 5,
+    "date_started": "2023-11-03",
+    "date_updated": "2023-11-04",
+    "description": " Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604) ",
+    "forks_count": 11,
+    "html_url": "https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ",
+    "repo_owner": "SaumyajeetDas",
+    "repotime": "2023-11-04, 04:07:16",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
     "commits_count": 118,
     "date_started": "2021-02-23",
     "date_updated": "2023-11-03",
@@ -716,8 +768,8 @@
     "repo_name": "CVEs",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2023-11-03, 07:34:51",
-    "stargazers_count": 685,
-    "watchers_count": 685
+    "stargazers_count": 689,
+    "watchers_count": 689
 }
 {
     "commits_count": 4,
@@ -828,23 +880,6 @@
     "repotime": "2023-11-02, 10:35:58",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 7,
-    "date_started": "2023-11-01",
-    "date_updated": "2023-11-01",
-    "description": "Repo that reproduces a Chromium Webview memory leak",
-    "forks_count": 0,
-    "html_url": "https://github.com/pyricau/chromium-webview-leak",
-    "keywords": [
-        "Chromium memory leak"
-    ],
-    "language": "Kotlin",
-    "repo_name": "chromium-webview-leak",
-    "repo_owner": "pyricau",
-    "repotime": "2023-11-01, 15:17:11",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 90,
