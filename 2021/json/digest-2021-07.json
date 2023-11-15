@@ -955,23 +955,6 @@
 }
 {
     "commits_count": 147,
-    "date_started": "2021-09-21",
-    "date_updated": "2021-07-05",
-    "description": "Pricing and Matching  Scenario. Consider the scenario in which a shop has a number of promo codes to incentivize the customers that buy an item to buy a different item. The customers can belong to different classes and the promo codes can provide different discounts.  Environment. Imagine two items (referred to as first and second items; for each item we have an infinite number of units) and four customers’ classes. The daily number of customers of each class is described by a potentially different (truncated) Gaussian probability distribution. Each class is also associated with a potentially different conversion rate returning the probability that the user will buy the first item at a given price.  Once a buyer has bought the item, she/he can decide to buy the second item that can be or not promoted. There are four different promos P0, P1, P2, P3, each corresponding to a different level of discount. P0 corresponds to no discount. Given the total number of customers, the business unit ...",
-    "forks_count": 0,
-    "html_url": "https://github.com/FrancescaPietrobon/Pricing-and-Matching",
-    "keywords": [
-        "Windows use after free"
-    ],
-    "language": null,
-    "repo_name": "Pricing-and-Matching",
-    "repo_owner": "FrancescaPietrobon",
-    "repotime": "2021-07-05, 17:37:28",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 147,
     "date_started": "2021-03-09",
     "date_updated": "2021-07-05",
     "description": "Pricing and Matching  Scenario. Consider the scenario in which a shop has a number of promo codes to incentivize the customers that buy an item to buy a different item. The customers can belong to different classes and the promo codes can provide different discounts.  Environment. Imagine two items (referred to as first and second items; for each item we have an infinite number of units) and four customers’ classes. The daily number of customers of each class is described by a potentially different (truncated) Gaussian probability distribution. Each class is also associated with a potentially different conversion rate returning the probability that the user will buy the first item at a given price.  Once a buyer has bought the item, she/he can decide to buy the second item that can be or not promoted. There are four different promos P0, P1, P2, P3, each corresponding to a different level of discount. P0 corresponds to no discount. Given the total number of customers, the business unit ...",
@@ -983,6 +966,23 @@
     "language": "Python",
     "repo_name": "Pricing-and-Matching",
     "repo_owner": "FrancescoEmanueleStradi",
+    "repotime": "2021-07-05, 17:37:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 147,
+    "date_started": "2021-09-21",
+    "date_updated": "2021-07-05",
+    "description": "Pricing and Matching  Scenario. Consider the scenario in which a shop has a number of promo codes to incentivize the customers that buy an item to buy a different item. The customers can belong to different classes and the promo codes can provide different discounts.  Environment. Imagine two items (referred to as first and second items; for each item we have an infinite number of units) and four customers’ classes. The daily number of customers of each class is described by a potentially different (truncated) Gaussian probability distribution. Each class is also associated with a potentially different conversion rate returning the probability that the user will buy the first item at a given price.  Once a buyer has bought the item, she/he can decide to buy the second item that can be or not promoted. There are four different promos P0, P1, P2, P3, each corresponding to a different level of discount. P0 corresponds to no discount. Given the total number of customers, the business unit ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/FrancescaPietrobon/Pricing-and-Matching",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Pricing-and-Matching",
+    "repo_owner": "FrancescaPietrobon",
     "repotime": "2021-07-05, 17:37:28",
     "stargazers_count": 0,
     "watchers_count": 0
