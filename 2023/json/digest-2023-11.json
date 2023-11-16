@@ -1,4 +1,21 @@
 {
+    "commits_count": 2,
+    "date_started": "2023-11-16",
+    "date_updated": "2023-11-16",
+    "description": "XSS AND AUTHORIZATION In this session we cover cross-site scripting, very common vulnerabilities, as well as authorization failures.  What to learn XSS (Cross Site Scripting) XSS type Saved Reflected DOM Detection Exploitation Mitigation Bypass authorization and forced browsing Detection Exploitation Mitigation",
+    "forks_count": 0,
+    "html_url": "https://github.com/axlywb/web-hacking-vulnerability-lesson",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "web-hacking-vulnerability-lesson",
+    "repo_owner": "axlywb",
+    "repotime": "2023-11-16, 09:04:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 162,
     "date_started": "2013-11-05",
     "date_updated": "2023-11-15",
@@ -195,6 +212,23 @@
     "repotime": "2023-11-14, 00:09:56",
     "stargazers_count": 591,
     "watchers_count": 591
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-11-09",
+    "date_updated": "2023-11-13",
+    "description": "Identified 5 vulnerabilities and mitigated them 1. Password/Session management 2. SQL injection (SQLi) 3. Cross-site scripting (XSS) - Reflected 4. Cross-site scripting (XSS) - Stored 5. Cross site request forgery (CSRF)",
+    "forks_count": 0,
+    "html_url": "https://github.com/h600853/Dat152Oblig4",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "Dat152Oblig4",
+    "repo_owner": "h600853",
+    "repotime": "2023-11-13, 23:57:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 34,
