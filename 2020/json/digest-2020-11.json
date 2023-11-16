@@ -493,7 +493,7 @@
     "date_started": "2020-11-07",
     "date_updated": "2020-11-07",
     "description": "An ANN is a model based on a collection of connected units or nodes called &amp;quot;artificial neurons&amp;quot;, which loosely model the neurons in a biological brain. Each connection, like the synapses in a biological brain, can transmit information, a &amp;quot;signal&amp;quot;, from one artificial neuron to another. An artificial neuron that receives a signal can process it and then signal additional artificial neurons connected to it. In common ANN implementations, the signal at a connection between artificial neurons is a real number, and the output of each artificial neuron is computed by some non-linear function of the sum of its inputs. The connections between artificial neurons are called &amp;quot;edges&amp;quot;. Artificial neurons and edges typically have a weight that adjusts as learning proceeds. The weight increases or decreases the strength of the signal at a connection. Artificial neurons may have a threshold such that the signal is only sent if the aggregate signal crosses that threshold. ...",
-    "forks_count": 10,
+    "forks_count": 11,
     "html_url": "https://github.com/Aryia-Behroziuan/neurons",
     "keywords": [
         "Win use after free",
