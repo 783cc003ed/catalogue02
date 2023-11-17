@@ -16,6 +16,24 @@
     "watchers_count": 1314
 }
 {
+    "commits_count": 24,
+    "date_started": "2023-09-02",
+    "date_updated": "2023-11-17",
+    "description": "an exploit of Server-side request forgery (SSRF)",
+    "forks_count": 6,
+    "html_url": "https://github.com/errorfiathck/ssrf-exploit",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "ssrf-exploit",
+    "repo_owner": "errorfiathck",
+    "repotime": "2023-11-17, 11:54:30",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
     "commits_count": 3,
     "date_started": "2023-11-17",
     "date_updated": "2023-11-17",
@@ -171,6 +189,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 2,
+    "date_started": "2023-11-15",
+    "date_updated": "2023-11-15",
+    "description": "A simple http server designed to allow users to make a request to a url (to fetch content from news websites, for example). This code is purposely vulnerable to demonstrate the effect of server side request forgery attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Zende-Magloire/News_fetcher",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Go",
+    "repo_name": "News_fetcher",
+    "repo_owner": "Zende-Magloire",
+    "repotime": "2023-11-15, 14:40:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 12,
     "date_started": "2023-10-16",
     "date_updated": "2023-11-15",
@@ -237,24 +272,6 @@
     "repotime": "2023-11-15, 04:06:55",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 22,
-    "date_started": "2023-09-02",
-    "date_updated": "2023-11-14",
-    "description": "an exploit of Server-side request forgery (SSRF)",
-    "forks_count": 6,
-    "html_url": "https://github.com/errorfiathck/ssrf-exploit",
-    "keywords": [
-        "server side request forgery",
-        "ssrf"
-    ],
-    "language": "Python",
-    "repo_name": "ssrf-exploit",
-    "repo_owner": "errorfiathck",
-    "repotime": "2023-11-14, 17:29:42",
-    "stargazers_count": 29,
-    "watchers_count": 29
 }
 {
     "commits_count": 35,
@@ -536,8 +553,8 @@
     "repo_name": "NucleiFuzzer",
     "repo_owner": "0xKayala",
     "repotime": "2023-11-11, 11:53:28",
-    "stargazers_count": 774,
-    "watchers_count": 774
+    "stargazers_count": 782,
+    "watchers_count": 782
 }
 {
     "commits_count": 1,
@@ -703,7 +720,7 @@
     "date_started": "2019-01-15",
     "date_updated": "2023-11-07",
     "description": "A list of resources for those interested in getting started in bug bounties",
-    "forks_count": 1762,
+    "forks_count": 1767,
     "html_url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
     "keywords": [
         "ssrf"
@@ -712,8 +729,8 @@
     "repo_name": "Resources-for-Beginner-Bug-Bounty-Hunters",
     "repo_owner": "nahamsec",
     "repotime": "2023-11-07, 22:30:26",
-    "stargazers_count": 9532,
-    "watchers_count": 9532
+    "stargazers_count": 9539,
+    "watchers_count": 9539
 }
 {
     "commits_count": 97,
