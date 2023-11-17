@@ -373,7 +373,7 @@
     "date_started": "2017-02-09",
     "date_updated": "2021-05-15",
     "description": "Ivan Ricart Borges - Test for didactic purposes of web pages vulnerables to SQL injection using dbo database user with xp_cmdshell execution permissions. Using patterns from Internet search engines to extract potentially vulnerable web addresses and test them by changing the GET parameters using invalid Transact-SQL conversion function to cause through unhandled errors by IIS web server to show critical information. If certain features are given and using advanced injection techniques a malicious attacker could gain control of the entire system by executing shell commands in the SQL database engine.",
-    "forks_count": 11,
+    "forks_count": 12,
     "html_url": "https://github.com/iricartb/advanced-sql-injection-scanner",
     "keywords": [
         "Microsoft rce vulnerability",
