@@ -1,4 +1,38 @@
 {
+    "commits_count": 3,
+    "date_started": "2023-11-17",
+    "date_updated": "2023-11-17",
+    "description": "exploit for cve-2023-47246 SysAid RCE (shell upload)",
+    "forks_count": 1,
+    "html_url": "https://github.com/W01fh4cker/CVE-2023-47246-EXP",
+    "keywords": [
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-47246-EXP",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2023-11-17, 15:19:11",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 705,
+    "date_started": "2013-06-25",
+    "date_updated": "2023-11-16",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 234,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2023-11-16, 13:26:17",
+    "stargazers_count": 1427,
+    "watchers_count": 1427
+}
+{
     "commits_count": 48,
     "date_started": "2023-11-04",
     "date_updated": "2023-11-16",
@@ -168,8 +202,8 @@
     "repo_name": "Session-Hijacking-Visual-Exploitation",
     "repo_owner": "doyensec",
     "repotime": "2023-11-14, 14:30:31",
-    "stargazers_count": 127,
-    "watchers_count": 127
+    "stargazers_count": 136,
+    "watchers_count": 136
 }
 {
     "commits_count": 1161,
@@ -475,7 +509,7 @@
     "commits_count": 26,
     "date_started": "2023-11-01",
     "date_updated": "2023-11-10",
-    "description": "exploit for cve-2023-46747",
+    "description": "exploit for f5-big-ip RCE cve-2023-46747",
     "forks_count": 26,
     "html_url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
     "keywords": [
@@ -892,23 +926,6 @@
     "repotime": "2023-11-03, 19:24:43",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 698,
-    "date_started": "2013-06-25",
-    "date_updated": "2023-11-03",
-    "description": "Cleans HTML to avoid XSS attacks",
-    "forks_count": 233,
-    "html_url": "https://github.com/mganss/HtmlSanitizer",
-    "keywords": [
-        "xss"
-    ],
-    "language": "C#",
-    "repo_name": "HtmlSanitizer",
-    "repo_owner": "mganss",
-    "repotime": "2023-11-03, 11:45:58",
-    "stargazers_count": 1424,
-    "watchers_count": 1424
 }
 {
     "commits_count": 3,
