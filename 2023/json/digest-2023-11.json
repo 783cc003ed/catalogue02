@@ -72,6 +72,23 @@
     "watchers_count": 1314
 }
 {
+    "commits_count": 3,
+    "date_started": "2023-11-17",
+    "date_updated": "2023-11-17",
+    "description": "Path Traversal Vulnerability in Systematica SMTP Adapter and other sub-products",
+    "forks_count": 0,
+    "html_url": "https://github.com/fbkcs/CVE-2021-35975",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-35975",
+    "repo_owner": "fbkcs",
+    "repotime": "2023-11-17, 12:10:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 24,
     "date_started": "2023-09-02",
     "date_updated": "2023-11-17",
@@ -94,17 +111,18 @@
     "date_started": "2023-11-17",
     "date_updated": "2023-11-17",
     "description": "exploit for cve-2023-47246 SysAid RCE (shell upload)",
-    "forks_count": 1,
+    "forks_count": 3,
     "html_url": "https://github.com/W01fh4cker/CVE-2023-47246-EXP",
     "keywords": [
-        "0day exploitation"
+        "0day exploitation",
+        "0day exploit"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-47246-EXP",
     "repo_owner": "W01fh4cker",
     "repotime": "2023-11-17, 15:19:11",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 1640,
@@ -661,8 +679,8 @@
     "repo_name": "CVE-2023-46747-RCE",
     "repo_owner": "W01fh4cker",
     "repotime": "2023-11-10, 10:12:38",
-    "stargazers_count": 109,
-    "watchers_count": 109
+    "stargazers_count": 110,
+    "watchers_count": 110
 }
 {
     "commits_count": 2,
@@ -938,8 +956,8 @@
     "repo_name": "K8tools",
     "repo_owner": "k8gege",
     "repotime": "2023-11-05, 11:49:11",
-    "stargazers_count": 5435,
-    "watchers_count": 5435
+    "stargazers_count": 5436,
+    "watchers_count": 5436
 }
 {
     "commits_count": 5,
