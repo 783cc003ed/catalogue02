@@ -772,7 +772,7 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 933,
+    "commits_count": 935,
     "date_started": "2018-12-07",
     "date_updated": "2023-10-18",
     "description": "A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.",
