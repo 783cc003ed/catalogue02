@@ -3,19 +3,20 @@
     "date_started": "2023-11-19",
     "date_updated": "2023-11-20",
     "description": "Apt style exploitation of Chrome 0day CVE-2023-4357",
-    "forks_count": 0,
+    "forks_count": 7,
     "html_url": "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation",
     "keywords": [
         "Chrome 0day exploitation",
         "Chrome 0day",
-        "Chrome 0day exploit"
+        "Chrome 0day exploit",
+        "0day exploit"
     ],
     "language": "PHP",
     "repo_name": "CVE-2023-4357-APT-Style-exploitation",
     "repo_owner": "OgulcanUnveren",
     "repotime": "2023-11-20, 04:02:44",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 9,
@@ -216,7 +217,7 @@
     "date_started": "2023-11-17",
     "date_updated": "2023-11-17",
     "description": "exploit for cve-2023-47246 SysAid RCE (shell upload)",
-    "forks_count": 3,
+    "forks_count": 5,
     "html_url": "https://github.com/W01fh4cker/CVE-2023-47246-EXP",
     "keywords": [
         "0day exploitation",
@@ -226,8 +227,8 @@
     "repo_name": "CVE-2023-47246-EXP",
     "repo_owner": "W01fh4cker",
     "repotime": "2023-11-17, 15:19:11",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 1640,
@@ -786,8 +787,8 @@
     "repo_name": "CVE-2023-46747-RCE",
     "repo_owner": "W01fh4cker",
     "repotime": "2023-11-10, 10:12:38",
-    "stargazers_count": 112,
-    "watchers_count": 112
+    "stargazers_count": 113,
+    "watchers_count": 113
 }
 {
     "commits_count": 2,
