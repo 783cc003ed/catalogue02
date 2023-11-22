@@ -112,7 +112,7 @@
     "date_started": "2023-11-16",
     "date_updated": "2023-11-19",
     "description": "LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
-    "forks_count": 3,
+    "forks_count": 6,
     "html_url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
     "keywords": [
         "lpe vulnerability",
@@ -122,8 +122,8 @@
     "repo_name": "io_uring_LPE-CVE-2023-2598",
     "repo_owner": "ysanatomic",
     "repotime": "2023-11-19, 00:54:28",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 44,
+    "watchers_count": 44
 }
 {
     "commits_count": 5,
@@ -253,18 +253,19 @@
     "date_started": "2023-11-17",
     "date_updated": "2023-11-17",
     "description": "exploit for cve-2023-47246 SysAid RCE (shell upload)",
-    "forks_count": 6,
+    "forks_count": 9,
     "html_url": "https://github.com/W01fh4cker/CVE-2023-47246-EXP",
     "keywords": [
         "0day exploitation",
-        "0day exploit"
+        "0day exploit",
+        "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-47246-EXP",
     "repo_owner": "W01fh4cker",
     "repotime": "2023-11-17, 15:19:11",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 32,
+    "watchers_count": 32
 }
 {
     "commits_count": 1640,
@@ -564,7 +565,7 @@
     "date_started": "2023-08-18",
     "date_updated": "2023-11-14",
     "description": "实战场景较通用的 Java Rce 相关漏洞的利用方式 | Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios",
-    "forks_count": 11,
+    "forks_count": 12,
     "html_url": "https://github.com/Whoopsunix/JavaRce",
     "keywords": [
         "rce vulnerability",
@@ -574,8 +575,8 @@
     "repo_name": "JavaRce",
     "repo_owner": "Whoopsunix",
     "repotime": "2023-11-14, 17:18:46",
-    "stargazers_count": 158,
-    "watchers_count": 158
+    "stargazers_count": 159,
+    "watchers_count": 159
 }
 {
     "commits_count": 7,
@@ -1108,7 +1109,7 @@
     "date_started": "2023-11-03",
     "date_updated": "2023-11-04",
     "description": " Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604) ",
-    "forks_count": 11,
+    "forks_count": 13,
     "html_url": "https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ",
     "keywords": [
         "rce exploitation"
@@ -1117,8 +1118,8 @@
     "repo_name": "CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ",
     "repo_owner": "SaumyajeetDas",
     "repotime": "2023-11-04, 04:07:16",
-    "stargazers_count": 43,
-    "watchers_count": 43
+    "stargazers_count": 50,
+    "watchers_count": 50
 }
 {
     "commits_count": 118,
