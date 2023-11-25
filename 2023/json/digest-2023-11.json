@@ -33,6 +33,24 @@
     "watchers_count": 1610
 }
 {
+    "commits_count": 4,
+    "date_started": "2023-11-16",
+    "date_updated": "2023-11-23",
+    "description": "LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
+    "forks_count": 7,
+    "html_url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
+    "keywords": [
+        "lpe vulnerability",
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "io_uring_LPE-CVE-2023-2598",
+    "repo_owner": "ysanatomic",
+    "repotime": "2023-11-23, 20:36:52",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
     "commits_count": 1644,
     "date_started": "2019-09-10",
     "date_updated": "2023-11-23",
@@ -176,7 +194,7 @@
     "date_started": "2023-11-19",
     "date_updated": "2023-11-20",
     "description": "Apt style exploitation of Chrome 0day CVE-2023-4357",
-    "forks_count": 12,
+    "forks_count": 19,
     "html_url": "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation",
     "keywords": [
         "Chrome 0day exploitation",
@@ -189,8 +207,8 @@
     "repo_name": "CVE-2023-4357-APT-Style-exploitation",
     "repo_owner": "OgulcanUnveren",
     "repotime": "2023-11-20, 04:02:44",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 30,
+    "watchers_count": 30
 }
 {
     "commits_count": 5,
@@ -242,24 +260,6 @@
     "repotime": "2023-11-18, 23:20:08",
     "stargazers_count": 3,
     "watchers_count": 3
-}
-{
-    "commits_count": 3,
-    "date_started": "2023-11-16",
-    "date_updated": "2023-11-19",
-    "description": "LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
-    "forks_count": 6,
-    "html_url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
-    "keywords": [
-        "lpe vulnerability",
-        "lpe poc"
-    ],
-    "language": "C",
-    "repo_name": "io_uring_LPE-CVE-2023-2598",
-    "repo_owner": "ysanatomic",
-    "repotime": "2023-11-19, 00:54:28",
-    "stargazers_count": 44,
-    "watchers_count": 44
 }
 {
     "commits_count": 17,
