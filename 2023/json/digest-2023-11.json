@@ -265,6 +265,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 5,
+    "date_started": "2023-11-15",
+    "date_updated": "2023-11-19",
+    "description": "A simple http server designed to allow users to make a request to a url (to fetch content from news websites, for example). This code is purposely vulnerable to demonstrate the effect of server side request forgery attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Zende-Magloire/Insecure_news_fetcher",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Go",
+    "repo_name": "Insecure_news_fetcher",
+    "repo_owner": "Zende-Magloire",
+    "repotime": "2023-11-19, 21:51:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2023-11-19",
     "date_updated": "2023-11-20",
@@ -596,23 +613,6 @@
     "repo_name": "Lights-on-low-health-potential-exploits",
     "repo_owner": "richard9236",
     "repotime": "2023-11-15, 12:44:12",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 2,
-    "date_started": "2023-11-15",
-    "date_updated": "2023-11-15",
-    "description": "A simple http server designed to allow users to make a request to a url (to fetch content from news websites, for example). This code is purposely vulnerable to demonstrate the effect of server side request forgery attacks.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Zende-Magloire/News_fetcher",
-    "keywords": [
-        "server side request forgery"
-    ],
-    "language": "Go",
-    "repo_name": "News_fetcher",
-    "repo_owner": "Zende-Magloire",
-    "repotime": "2023-11-15, 14:40:40",
     "stargazers_count": 0,
     "watchers_count": 0
 }
