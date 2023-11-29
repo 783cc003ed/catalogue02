@@ -1473,11 +1473,11 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 235,
+    "commits_count": 242,
     "date_started": "2022-09-03",
     "date_updated": "2023-10-01",
     "description": "Tests URLs for Local File Inclusion (LFI), Remote File Inclusion (RFI),   SQL injection (SQLi), and Cross Site Scripting (XSS), Server Side Template Injection (SSTI), and Open Redirects.",
-    "forks_count": 12,
+    "forks_count": 13,
     "html_url": "https://github.com/ronin-rb/ronin-vulns",
     "keywords": [
         "local file inclusion",
