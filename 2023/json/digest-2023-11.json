@@ -1,4 +1,21 @@
 {
+    "commits_count": 2382,
+    "date_started": "2009-12-19",
+    "date_updated": "2023-11-30",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "forks_count": 2179,
+    "html_url": "https://github.com/jhy/jsoup",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "jsoup",
+    "repo_owner": "jhy",
+    "repotime": "2023-11-30, 16:21:04",
+    "stargazers_count": 10400,
+    "watchers_count": 10400
+}
+{
     "commits_count": 51,
     "date_started": "2023-08-18",
     "date_updated": "2023-11-30",
@@ -542,7 +559,7 @@
     "date_started": "2023-11-19",
     "date_updated": "2023-11-20",
     "description": "Apt style exploitation of Chrome 0day CVE-2023-4357",
-    "forks_count": 19,
+    "forks_count": 20,
     "html_url": "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation",
     "keywords": [
         "Chrome 0day exploitation",
@@ -555,8 +572,8 @@
     "repo_name": "CVE-2023-4357-APT-Style-exploitation",
     "repo_owner": "OgulcanUnveren",
     "repotime": "2023-11-20, 04:02:44",
-    "stargazers_count": 31,
-    "watchers_count": 31
+    "stargazers_count": 32,
+    "watchers_count": 32
 }
 {
     "commits_count": 5,
@@ -642,23 +659,6 @@
     "repotime": "2023-11-18, 09:13:44",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 2354,
-    "date_started": "2009-12-19",
-    "date_updated": "2023-11-18",
-    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2178,
-    "html_url": "https://github.com/jhy/jsoup",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Java",
-    "repo_name": "jsoup",
-    "repo_owner": "jhy",
-    "repotime": "2023-11-18, 19:36:59",
-    "stargazers_count": 10386,
-    "watchers_count": 10386
 }
 {
     "commits_count": 5,
@@ -1363,7 +1363,7 @@
     "date_started": "2022-05-08",
     "date_updated": "2023-11-07",
     "description": "An XSS exploitation command-line interface and payload generator.",
-    "forks_count": 159,
+    "forks_count": 160,
     "html_url": "https://github.com/t3l3machus/toxssin",
     "keywords": [
         "xss"
@@ -1372,8 +1372,8 @@
     "repo_name": "toxssin",
     "repo_owner": "t3l3machus",
     "repotime": "2023-11-07, 09:18:47",
-    "stargazers_count": 1112,
-    "watchers_count": 1112
+    "stargazers_count": 1114,
+    "watchers_count": 1114
 }
 {
     "commits_count": 546,
