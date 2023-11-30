@@ -190,6 +190,23 @@
     "watchers_count": 592
 }
 {
+    "commits_count": 717,
+    "date_started": "2013-06-25",
+    "date_updated": "2023-11-24",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 235,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2023-11-24, 16:26:57",
+    "stargazers_count": 1432,
+    "watchers_count": 1432
+}
+{
     "commits_count": 30,
     "date_started": "2023-11-05",
     "date_updated": "2023-11-24",
@@ -435,6 +452,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 16,
+    "date_started": "2023-11-17",
+    "date_updated": "2023-11-21",
+    "description": "全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.",
+    "forks_count": 24,
+    "html_url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-4357-Chrome-XXE",
+    "repo_owner": "xcanwin",
+    "repotime": "2023-11-21, 18:41:56",
+    "stargazers_count": 141,
+    "watchers_count": 141
+}
+{
     "commits_count": 1296,
     "date_started": "2018-11-07",
     "date_updated": "2023-11-21",
@@ -540,23 +574,6 @@
     "repotime": "2023-11-19, 13:09:06",
     "stargazers_count": 87,
     "watchers_count": 87
-}
-{
-    "commits_count": 9,
-    "date_started": "2023-11-17",
-    "date_updated": "2023-11-20",
-    "description": "Chrome XXE 漏洞 POC，实现对访客者本地文件读取",
-    "forks_count": 6,
-    "html_url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
-    "keywords": [
-        "xxe"
-    ],
-    "language": "HTML",
-    "repo_name": "CVE-2023-4357-Chrome-XXE",
-    "repo_owner": "xcanwin",
-    "repotime": "2023-11-20, 01:28:49",
-    "stargazers_count": 23,
-    "watchers_count": 23
 }
 {
     "commits_count": 101,
@@ -784,23 +801,6 @@
     "repotime": "2023-11-17, 11:47:26",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 705,
-    "date_started": "2013-06-25",
-    "date_updated": "2023-11-16",
-    "description": "Cleans HTML to avoid XSS attacks",
-    "forks_count": 234,
-    "html_url": "https://github.com/mganss/HtmlSanitizer",
-    "keywords": [
-        "xss"
-    ],
-    "language": "C#",
-    "repo_name": "HtmlSanitizer",
-    "repo_owner": "mganss",
-    "repotime": "2023-11-16, 13:26:17",
-    "stargazers_count": 1427,
-    "watchers_count": 1427
 }
 {
     "commits_count": 48,
@@ -1082,11 +1082,11 @@
     "watchers_count": 28872
 }
 {
-    "commits_count": 530,
+    "commits_count": 531,
     "date_started": "2017-03-06",
     "date_updated": "2023-11-12",
     "description": "ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.",
-    "forks_count": 335,
+    "forks_count": 336,
     "html_url": "https://github.com/ssl/ezXSS",
     "keywords": [
         "xss"
@@ -1095,8 +1095,8 @@
     "repo_name": "ezXSS",
     "repo_owner": "ssl",
     "repotime": "2023-11-12, 15:56:06",
-    "stargazers_count": 1688,
-    "watchers_count": 1688
+    "stargazers_count": 1696,
+    "watchers_count": 1696
 }
 {
     "commits_count": 12,
