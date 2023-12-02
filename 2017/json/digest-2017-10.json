@@ -211,7 +211,7 @@
     "date_started": "2017-10-13",
     "date_updated": "2017-10-13",
     "description": "[Patched] Sandbox escape Chrome exploit. Allows the execution of local binaries, read/write functions and exfiltration of Chrome OAuth tokens to remote server. More info: https://bugs.chromium.org/p/chromium/issues/detail?id=386988",
-    "forks_count": 17,
+    "forks_count": 19,
     "html_url": "https://github.com/649/Chrome-Sandbox-Exploit",
     "keywords": [
         "Chrome sandbox escape exploit",
@@ -227,8 +227,8 @@
     "repo_name": "Chrome-Sandbox-Exploit",
     "repo_owner": "649",
     "repotime": "2017-10-13, 16:28:18",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 28,
+    "watchers_count": 28
 }
 {
     "commits_count": 2,
