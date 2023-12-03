@@ -225,33 +225,6 @@
 }
 {
     "commits_count": 6,
-    "date_started": "2021-12-17",
-    "date_updated": "2021-07-26",
-    "description": "A Windows Kernel LPE exploit for HEVD.sys targeting a stack overflow vulnerability on Windows 10 64-bit 1607 (RS1)",
-    "forks_count": 3,
-    "html_url": "https://github.com/HaShem9/HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
-    "keywords": [
-        "Windows lpe",
-        "lpe vulnerability",
-        "Win lpe vulnerability",
-        "Win lpe exploit",
-        "Windows lpe exploit",
-        "lpe exploitation",
-        "Win lpe exploitation",
-        "Windows lpe vulnerability",
-        "lpe exploit",
-        "Windows lpe exploitation",
-        "Win lpe"
-    ],
-    "language": null,
-    "repo_name": "HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
-    "repo_owner": "HaShem9",
-    "repotime": "2021-07-26, 21:52:44",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 6,
     "date_started": "2021-07-27",
     "date_updated": "2021-07-26",
     "description": "A Windows Kernel LPE exploit for HEVD.sys targeting a stack overflow vulnerability on Windows 10 64-bit 1607 (RS1)",
@@ -276,6 +249,33 @@
     "repotime": "2021-07-26, 21:52:44",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-12-17",
+    "date_updated": "2021-07-26",
+    "description": "A Windows Kernel LPE exploit for HEVD.sys targeting a stack overflow vulnerability on Windows 10 64-bit 1607 (RS1)",
+    "forks_count": 3,
+    "html_url": "https://github.com/HaShem9/HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
+    "keywords": [
+        "Windows lpe",
+        "lpe vulnerability",
+        "Win lpe vulnerability",
+        "Win lpe exploit",
+        "Windows lpe exploit",
+        "lpe exploitation",
+        "Win lpe exploitation",
+        "Windows lpe vulnerability",
+        "lpe exploit",
+        "Windows lpe exploitation",
+        "Win lpe"
+    ],
+    "language": null,
+    "repo_name": "HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
+    "repo_owner": "HaShem9",
+    "repotime": "2021-07-26, 21:52:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -956,23 +956,6 @@
 }
 {
     "commits_count": 147,
-    "date_started": "2021-03-09",
-    "date_updated": "2021-07-05",
-    "description": "Pricing and Matching  Scenario. Consider the scenario in which a shop has a number of promo codes to incentivize the customers that buy an item to buy a different item. The customers can belong to different classes and the promo codes can provide different discounts.  Environment. Imagine two items (referred to as first and second items; for each item we have an infinite number of units) and four customers’ classes. The daily number of customers of each class is described by a potentially different (truncated) Gaussian probability distribution. Each class is also associated with a potentially different conversion rate returning the probability that the user will buy the first item at a given price.  Once a buyer has bought the item, she/he can decide to buy the second item that can be or not promoted. There are four different promos P0, P1, P2, P3, each corresponding to a different level of discount. P0 corresponds to no discount. Given the total number of customers, the business unit ...",
-    "forks_count": 1,
-    "html_url": "https://github.com/FrancescoEmanueleStradi/Pricing-and-Matching",
-    "keywords": [
-        "Windows use after free"
-    ],
-    "language": "Python",
-    "repo_name": "Pricing-and-Matching",
-    "repo_owner": "FrancescoEmanueleStradi",
-    "repotime": "2021-07-05, 17:37:28",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 147,
     "date_started": "2021-09-21",
     "date_updated": "2021-07-05",
     "description": "Pricing and Matching  Scenario. Consider the scenario in which a shop has a number of promo codes to incentivize the customers that buy an item to buy a different item. The customers can belong to different classes and the promo codes can provide different discounts.  Environment. Imagine two items (referred to as first and second items; for each item we have an infinite number of units) and four customers’ classes. The daily number of customers of each class is described by a potentially different (truncated) Gaussian probability distribution. Each class is also associated with a potentially different conversion rate returning the probability that the user will buy the first item at a given price.  Once a buyer has bought the item, she/he can decide to buy the second item that can be or not promoted. There are four different promos P0, P1, P2, P3, each corresponding to a different level of discount. P0 corresponds to no discount. Given the total number of customers, the business unit ...",
@@ -984,6 +967,23 @@
     "language": null,
     "repo_name": "Pricing-and-Matching",
     "repo_owner": "FrancescaPietrobon",
+    "repotime": "2021-07-05, 17:37:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 147,
+    "date_started": "2021-03-09",
+    "date_updated": "2021-07-05",
+    "description": "Pricing and Matching  Scenario. Consider the scenario in which a shop has a number of promo codes to incentivize the customers that buy an item to buy a different item. The customers can belong to different classes and the promo codes can provide different discounts.  Environment. Imagine two items (referred to as first and second items; for each item we have an infinite number of units) and four customers’ classes. The daily number of customers of each class is described by a potentially different (truncated) Gaussian probability distribution. Each class is also associated with a potentially different conversion rate returning the probability that the user will buy the first item at a given price.  Once a buyer has bought the item, she/he can decide to buy the second item that can be or not promoted. There are four different promos P0, P1, P2, P3, each corresponding to a different level of discount. P0 corresponds to no discount. Given the total number of customers, the business unit ...",
+    "forks_count": 1,
+    "html_url": "https://github.com/FrancescoEmanueleStradi/Pricing-and-Matching",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "Python",
+    "repo_name": "Pricing-and-Matching",
+    "repo_owner": "FrancescoEmanueleStradi",
     "repotime": "2021-07-05, 17:37:28",
     "stargazers_count": 0,
     "watchers_count": 0
