@@ -31,8 +31,8 @@
     "repo_name": "Linux-Kernel-VR-Exploitation",
     "repo_owner": "IdanBanani",
     "repotime": "2023-11-30, 20:19:31",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 52,
@@ -89,23 +89,6 @@
     "watchers_count": 970
 }
 {
-    "commits_count": 2382,
-    "date_started": "2009-12-19",
-    "date_updated": "2023-11-30",
-    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2179,
-    "html_url": "https://github.com/jhy/jsoup",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Java",
-    "repo_name": "jsoup",
-    "repo_owner": "jhy",
-    "repotime": "2023-11-30, 16:21:04",
-    "stargazers_count": 10401,
-    "watchers_count": 10401
-}
-{
     "commits_count": 1310,
     "date_started": "2018-11-07",
     "date_updated": "2023-11-30",
@@ -127,7 +110,7 @@
     "date_started": "2023-11-24",
     "date_updated": "2023-11-29",
     "description": "Binary Exploitation Skill. Gain RCE from arbitrary write.",
-    "forks_count": 5,
+    "forks_count": 7,
     "html_url": "https://github.com/n132/Libc-GOT-Hijacking",
     "keywords": [
         "rce exploitation"
@@ -136,8 +119,8 @@
     "repo_name": "Libc-GOT-Hijacking",
     "repo_owner": "n132",
     "repotime": "2023-11-29, 19:57:07",
-    "stargazers_count": 103,
-    "watchers_count": 103
+    "stargazers_count": 125,
+    "watchers_count": 125
 }
 {
     "commits_count": 158,
@@ -165,7 +148,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/mrnazu/CVE-2020-13405",
     "keywords": [
-        "unauthenticated disclosure"
+        "unauthenticated disclosure",
+        "unauthenticated user"
     ],
     "language": "HTML",
     "repo_name": "CVE-2020-13405",
@@ -192,29 +176,11 @@
     "watchers_count": 1218
 }
 {
-    "commits_count": 50,
-    "date_started": "2023-11-04",
-    "date_updated": "2023-11-29",
-    "description": "Mrco24-Lfi-Scanner is a high-speed Local File Inclusion (LFI) vulnerability scanning tool developed in the Go programming language. It's designed for efficient multi-threaded scanning of multiple URLs, comprehensive payload testing, and super-fast vulnerability detection. This repository contains the source code and documentation for the tool.",
-    "forks_count": 7,
-    "html_url": "https://github.com/mrco24/mrco24-lfi",
-    "keywords": [
-        "lfi",
-        "local file inclusion"
-    ],
-    "language": "Go",
-    "repo_name": "mrco24-lfi",
-    "repo_owner": "mrco24",
-    "repotime": "2023-11-29, 17:26:05",
-    "stargazers_count": 11,
-    "watchers_count": 11
-}
-{
     "commits_count": 67,
     "date_started": "2023-05-22",
     "date_updated": "2023-11-29",
     "description": "NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications",
-    "forks_count": 120,
+    "forks_count": 122,
     "html_url": "https://github.com/0xKayala/NucleiFuzzer",
     "keywords": [
         "ssrf"
@@ -223,8 +189,8 @@
     "repo_name": "NucleiFuzzer",
     "repo_owner": "0xKayala",
     "repotime": "2023-11-29, 14:42:33",
-    "stargazers_count": 806,
-    "watchers_count": 806
+    "stargazers_count": 812,
+    "watchers_count": 812
 }
 {
     "commits_count": 3,
@@ -410,8 +376,8 @@
     "repo_name": "CVE-2023-38831-winrar-exploit",
     "repo_owner": "b1tg",
     "repotime": "2023-11-26, 14:46:44",
-    "stargazers_count": 707,
-    "watchers_count": 707
+    "stargazers_count": 708,
+    "watchers_count": 708
 }
 {
     "commits_count": 1095,
@@ -431,7 +397,7 @@
     "watchers_count": 1418
 }
 {
-    "commits_count": 35,
+    "commits_count": 39,
     "date_started": "2023-09-26",
     "date_updated": "2023-11-25",
     "description": "KnowThyEnemy is a data analysis project that determines the most common origin country of sophisticated attacks (Zero-Day, Ransomware, IoT) and ranks them. Industries may utilize this ranking to better understand their attack surface. ",
@@ -467,23 +433,6 @@
     "watchers_count": 594
 }
 {
-    "commits_count": 4,
-    "date_started": "2023-10-10",
-    "date_updated": "2023-11-24",
-    "description": "Static analysis tool for detecting memory leaks in C programs",
-    "forks_count": 0,
-    "html_url": "https://github.com/jakerz0/413FinalProject",
-    "keywords": [
-        "memory leak analysis"
-    ],
-    "language": "Python",
-    "repo_name": "413FinalProject",
-    "repo_owner": "jakerz0",
-    "repotime": "2023-11-24, 09:33:33",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 717,
     "date_started": "2013-06-25",
     "date_updated": "2023-11-24",
@@ -497,15 +446,15 @@
     "repo_name": "HtmlSanitizer",
     "repo_owner": "mganss",
     "repotime": "2023-11-24, 16:26:57",
-    "stargazers_count": 1433,
-    "watchers_count": 1433
+    "stargazers_count": 1436,
+    "watchers_count": 1436
 }
 {
     "commits_count": 30,
     "date_started": "2023-11-05",
     "date_updated": "2023-11-24",
     "description": "Wordpress Plugin Canto &amp;lt; 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE)",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/leoanggal1/CVE-2023-3452-PoC",
     "keywords": [
         "remote code execution poc"
@@ -514,8 +463,8 @@
     "repo_name": "CVE-2023-3452-PoC",
     "repo_owner": "leoanggal1",
     "repotime": "2023-11-24, 13:55:00",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 125,
@@ -624,25 +573,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 371,
-    "date_started": "2015-02-01",
-    "date_updated": "2023-11-22",
-    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
-    "forks_count": 124,
-    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "xxe"
-    ],
-    "language": "HTML",
-    "repo_name": "Commodity-Injection-Signatures",
-    "repo_owner": "xsscx",
-    "repotime": "2023-11-22, 14:56:19",
-    "stargazers_count": 364,
-    "watchers_count": 364
-}
-{
     "commits_count": 107,
     "date_started": "2021-05-26",
     "date_updated": "2023-11-22",
@@ -715,7 +645,7 @@
     "date_started": "2023-11-17",
     "date_updated": "2023-11-21",
     "description": "全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.",
-    "forks_count": 24,
+    "forks_count": 25,
     "html_url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
     "keywords": [
         "xxe"
@@ -724,8 +654,8 @@
     "repo_name": "CVE-2023-4357-Chrome-XXE",
     "repo_owner": "xcanwin",
     "repotime": "2023-11-21, 18:41:56",
-    "stargazers_count": 143,
-    "watchers_count": 143
+    "stargazers_count": 148,
+    "watchers_count": 148
 }
 {
     "commits_count": 12,
@@ -797,8 +727,8 @@
     "repo_name": "CVE-2023-4357-APT-Style-exploitation",
     "repo_owner": "OgulcanUnveren",
     "repotime": "2023-11-20, 04:02:44",
-    "stargazers_count": 34,
-    "watchers_count": 34
+    "stargazers_count": 35,
+    "watchers_count": 35
 }
 {
     "commits_count": 5,
@@ -1005,8 +935,8 @@
     "repo_name": "CVE-2023-47246-EXP",
     "repo_owner": "W01fh4cker",
     "repotime": "2023-11-17, 15:19:11",
-    "stargazers_count": 38,
-    "watchers_count": 38
+    "stargazers_count": 39,
+    "watchers_count": 39
 }
 {
     "commits_count": 2,
@@ -1272,7 +1202,7 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 531,
+    "commits_count": 545,
     "date_started": "2017-03-06",
     "date_updated": "2023-11-12",
     "description": "ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.",
@@ -1285,8 +1215,8 @@
     "repo_name": "ezXSS",
     "repo_owner": "ssl",
     "repotime": "2023-11-12, 15:56:06",
-    "stargazers_count": 1697,
-    "watchers_count": 1697
+    "stargazers_count": 1700,
+    "watchers_count": 1700
 }
 {
     "commits_count": 12,
@@ -1374,8 +1304,8 @@
     "repo_name": "CVE-2023-46747-RCE",
     "repo_owner": "W01fh4cker",
     "repotime": "2023-11-10, 10:12:38",
-    "stargazers_count": 122,
-    "watchers_count": 122
+    "stargazers_count": 123,
+    "watchers_count": 123
 }
 {
     "commits_count": 10,
@@ -1451,7 +1381,7 @@
     "date_started": "2019-01-15",
     "date_updated": "2023-11-07",
     "description": "A list of resources for those interested in getting started in bug bounties",
-    "forks_count": 1773,
+    "forks_count": 1774,
     "html_url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
     "keywords": [
         "ssrf"
@@ -1460,8 +1390,8 @@
     "repo_name": "Resources-for-Beginner-Bug-Bounty-Hunters",
     "repo_owner": "nahamsec",
     "repotime": "2023-11-07, 22:30:26",
-    "stargazers_count": 9566,
-    "watchers_count": 9566
+    "stargazers_count": 9579,
+    "watchers_count": 9579
 }
 {
     "commits_count": 97,
@@ -1528,8 +1458,8 @@
     "repo_name": "toxssin",
     "repo_owner": "t3l3machus",
     "repotime": "2023-11-07, 09:18:47",
-    "stargazers_count": 1114,
-    "watchers_count": 1114
+    "stargazers_count": 1116,
+    "watchers_count": 1116
 }
 {
     "commits_count": 546,
@@ -1608,7 +1538,7 @@
     "date_started": "2023-11-03",
     "date_updated": "2023-11-04",
     "description": " Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604) ",
-    "forks_count": 16,
+    "forks_count": 17,
     "html_url": "https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ",
     "keywords": [
         "rce exploitation"
@@ -1617,26 +1547,8 @@
     "repo_name": "CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ",
     "repo_owner": "SaumyajeetDas",
     "repotime": "2023-11-04, 04:07:16",
-    "stargazers_count": 54,
-    "watchers_count": 54
-}
-{
-    "commits_count": 118,
-    "date_started": "2021-02-23",
-    "date_updated": "2023-11-03",
-    "description": "Repository for information about 0-days exploited in-the-wild.",
-    "forks_count": 79,
-    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
-    "keywords": [
-        "0day exploitation",
-        "0day exploit"
-    ],
-    "language": "HTML",
-    "repo_name": "0days-in-the-wild",
-    "repo_owner": "googleprojectzero",
-    "repotime": "2023-11-03, 08:33:26",
-    "stargazers_count": 661,
-    "watchers_count": 661
+    "stargazers_count": 59,
+    "watchers_count": 59
 }
 {
     "commits_count": 101,

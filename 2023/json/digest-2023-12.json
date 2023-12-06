@@ -1,4 +1,202 @@
 {
+    "commits_count": 372,
+    "date_started": "2015-02-01",
+    "date_updated": "2023-12-05",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 124,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2023-12-05, 14:40:23",
+    "stargazers_count": 364,
+    "watchers_count": 364
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-12-03",
+    "date_updated": "2023-12-05",
+    "description": "Prevent path traversal attacks at type level",
+    "forks_count": 0,
+    "html_url": "https://github.com/TheAlgorythm/path-ratchet",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Rust",
+    "repo_name": "path-ratchet",
+    "repo_owner": "TheAlgorythm",
+    "repotime": "2023-12-05, 20:19:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-12-02",
+    "date_updated": "2023-12-05",
+    "description": "This project shows a memory leak that can occur if code on the main window awaits a promise from within the iframe before performing memory cleanup. If the iframe is removed before the iframe promise resolves, the awaiting function will halt execution and cleanup code will never run.",
+    "forks_count": 1,
+    "html_url": "https://github.com/astegmaier/playground-hung-iframe-promise",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "HTML",
+    "repo_name": "playground-hung-iframe-promise",
+    "repo_owner": "astegmaier",
+    "repotime": "2023-12-05, 10:25:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-12-02",
+    "date_updated": "2023-12-05",
+    "description": "Foxit PDF Reader Remote Code Execution Exploit",
+    "forks_count": 26,
+    "html_url": "https://github.com/hacksysteam/CVE-2022-28672",
+    "keywords": [
+        "rce exploitation",
+        "remote code execution exploit",
+        "remote code execution exploitation",
+        "rce exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2022-28672",
+    "repo_owner": "hacksysteam",
+    "repotime": "2023-12-05, 17:52:40",
+    "stargazers_count": 114,
+    "watchers_count": 114
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-12-05",
+    "description": "Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit",
+    "forks_count": 60,
+    "html_url": "https://github.com/hacksysteam/CVE-2023-21608",
+    "keywords": [
+        "remote code execution exploit",
+        "remote code execution exploitation",
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2023-21608",
+    "repo_owner": "hacksysteam",
+    "repotime": "2023-12-05, 17:50:58",
+    "stargazers_count": 260,
+    "watchers_count": 260
+}
+{
+    "commits_count": 12,
+    "date_started": "2023-10-10",
+    "date_updated": "2023-12-04",
+    "description": "Static analysis tool for detecting memory leaks in C programs",
+    "forks_count": 0,
+    "html_url": "https://github.com/jakerz0/413FinalProject",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "Python",
+    "repo_name": "413FinalProject",
+    "repo_owner": "jakerz0",
+    "repotime": "2023-12-04, 17:59:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 267,
+    "date_started": "2022-09-03",
+    "date_updated": "2023-12-04",
+    "description": "Tests URLs for Local File Inclusion (LFI), Remote File Inclusion (RFI),   SQL injection (SQLi), and Cross Site Scripting (XSS), Server Side Template Injection (SSTI), and Open Redirects.",
+    "forks_count": 14,
+    "html_url": "https://github.com/ronin-rb/ronin-vulns",
+    "keywords": [
+        "local file inclusion",
+        "cross-side-scripting"
+    ],
+    "language": "Ruby",
+    "repo_name": "ronin-vulns",
+    "repo_owner": "ronin-rb",
+    "repotime": "2023-12-04, 14:45:48",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 121,
+    "date_started": "2021-02-23",
+    "date_updated": "2023-12-04",
+    "description": "Repository for information about 0-days exploited in-the-wild.",
+    "forks_count": 79,
+    "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "0days-in-the-wild",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2023-12-04, 11:04:36",
+    "stargazers_count": 666,
+    "watchers_count": 666
+}
+{
+    "commits_count": 51,
+    "date_started": "2023-11-04",
+    "date_updated": "2023-12-04",
+    "description": "Mrco24-Lfi-Scanner is a high-speed Local File Inclusion (LFI) vulnerability scanning tool developed in the Go programming language. It's designed for efficient multi-threaded scanning of multiple URLs, comprehensive payload testing, and super-fast vulnerability detection. This repository contains the source code and documentation for the tool.",
+    "forks_count": 7,
+    "html_url": "https://github.com/mrco24/mrco24-lfi",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": "Go",
+    "repo_name": "mrco24-lfi",
+    "repo_owner": "mrco24",
+    "repotime": "2023-12-04, 21:48:45",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 2386,
+    "date_started": "2009-12-19",
+    "date_updated": "2023-12-04",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "forks_count": 2179,
+    "html_url": "https://github.com/jhy/jsoup",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "jsoup",
+    "repo_owner": "jhy",
+    "repotime": "2023-12-04, 15:42:51",
+    "stargazers_count": 10411,
+    "watchers_count": 10411
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-12-17",
+    "date_updated": "2023-12-04",
+    "description": "Perform session hijacking on capative portal",
+    "forks_count": 0,
+    "html_url": "https://github.com/woanmeo11/bypass_capative_portal",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "bypass_capative_portal",
+    "repo_owner": "woanmeo11",
+    "repotime": "2023-12-04, 09:57:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 80,
     "date_started": "2017-09-24",
     "date_updated": "2023-12-03",
@@ -35,6 +233,40 @@
     "watchers_count": 1894
 }
 {
+    "commits_count": 215,
+    "date_started": "2021-09-08",
+    "date_updated": "2023-12-03",
+    "description": "Automated Multi UAC BYPASS for win10|win11|ws2019|ws2022",
+    "forks_count": 38,
+    "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C#",
+    "repo_name": "Automated-MUlti-UAC-Bypass",
+    "repo_owner": "x0xr00t",
+    "repotime": "2023-12-03, 17:17:11",
+    "stargazers_count": 178,
+    "watchers_count": 178
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-12-03",
+    "date_updated": "2023-12-03",
+    "description": "This script is designed to assist in the detection of possible misconfigurations that may lead to privilege escalation on a Windows system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/duck-sec/beadey-eyed-windows-mouse-windows-privesc-script",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "beadey-eyed-windows-mouse-windows-privesc-script",
+    "repo_owner": "duck-sec",
+    "repotime": "2023-12-03, 11:43:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 49,
     "date_started": "2023-10-16",
     "date_updated": "2023-12-02",
@@ -69,6 +301,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 6,
+    "date_started": "2023-12-01",
+    "date_updated": "2023-12-02",
+    "description": "Tiny CSV generator for browser and node that escapes values to avoid CSV injection attacks",
+    "forks_count": 0,
+    "html_url": "https://github.com/HenrikJoreteg/escaped-csv",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "escaped-csv",
+    "repo_owner": "HenrikJoreteg",
+    "repotime": "2023-12-02, 11:39:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2023-12-02",
     "date_updated": "2023-12-02",
@@ -84,23 +333,6 @@
     "repotime": "2023-12-02, 17:02:04",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 205,
-    "date_started": "2021-09-08",
-    "date_updated": "2023-12-01",
-    "description": "Automated Multi UAC BYPASS for win10|win11|ws2019|ws2022",
-    "forks_count": 38,
-    "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "C#",
-    "repo_name": "Automated-MUlti-UAC-Bypass",
-    "repo_owner": "x0xr00t",
-    "repotime": "2023-12-01, 18:37:51",
-    "stargazers_count": 176,
-    "watchers_count": 176
 }
 {
     "commits_count": 10238,

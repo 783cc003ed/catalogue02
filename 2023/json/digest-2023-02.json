@@ -87,46 +87,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 3,
-    "date_started": "2022-12-02",
-    "date_updated": "2023-02-27",
-    "description": "Foxit PDF Reader Remote Code Execution Exploit",
-    "forks_count": 26,
-    "html_url": "https://github.com/hacksysteam/CVE-2022-28672",
-    "keywords": [
-        "rce exploitation",
-        "remote code execution exploit",
-        "remote code execution exploitation",
-        "rce exploit"
-    ],
-    "language": "JavaScript",
-    "repo_name": "CVE-2022-28672",
-    "repo_owner": "hacksysteam",
-    "repotime": "2023-02-27, 10:23:07",
-    "stargazers_count": 114,
-    "watchers_count": 114
-}
-{
-    "commits_count": 4,
-    "date_started": "2023-01-30",
-    "date_updated": "2023-02-27",
-    "description": "Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit",
-    "forks_count": 60,
-    "html_url": "https://github.com/hacksysteam/CVE-2023-21608",
-    "keywords": [
-        "remote code execution exploit",
-        "remote code execution exploitation",
-        "rce exploitation",
-        "rce exploit"
-    ],
-    "language": "JavaScript",
-    "repo_name": "CVE-2023-21608",
-    "repo_owner": "hacksysteam",
-    "repotime": "2023-02-27, 10:21:16",
-    "stargazers_count": 260,
-    "watchers_count": 260
-}
-{
     "commits_count": 1,
     "date_started": "2023-02-27",
     "date_updated": "2023-02-27",
@@ -148,7 +108,7 @@
     "date_started": "2022-05-31",
     "date_updated": "2023-02-26",
     "description": "【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。",
-    "forks_count": 184,
+    "forks_count": 185,
     "html_url": "https://github.com/W01fh4cker/Serein",
     "keywords": [
         "0day exploit",
@@ -158,8 +118,8 @@
     "repo_name": "Serein",
     "repo_owner": "W01fh4cker",
     "repotime": "2023-02-26, 22:06:05",
-    "stargazers_count": 1069,
-    "watchers_count": 1069
+    "stargazers_count": 1080,
+    "watchers_count": 1080
 }
 {
     "commits_count": 3,
@@ -366,8 +326,8 @@
     "repo_name": "Email-Vulnerablity-Checker",
     "repo_owner": "BLACK-SCORP10",
     "repotime": "2023-02-22, 13:20:02",
-    "stargazers_count": 79,
-    "watchers_count": 79
+    "stargazers_count": 78,
+    "watchers_count": 78
 }
 {
     "commits_count": 2,
@@ -409,7 +369,7 @@
     "date_started": "2023-01-25",
     "date_updated": "2023-02-21",
     "description": "<no description>",
-    "forks_count": 61,
+    "forks_count": 62,
     "html_url": "https://github.com/trufflesecurity/xsshunter",
     "keywords": [
         "xss"
@@ -418,8 +378,8 @@
     "repo_name": "xsshunter",
     "repo_owner": "trufflesecurity",
     "repotime": "2023-02-21, 12:05:01",
-    "stargazers_count": 251,
-    "watchers_count": 251
+    "stargazers_count": 252,
+    "watchers_count": 252
 }
 {
     "commits_count": 14,
@@ -1075,8 +1035,8 @@
     "repo_name": "xssplatform",
     "repo_owner": "78778443",
     "repotime": "2023-02-15, 10:31:09",
-    "stargazers_count": 664,
-    "watchers_count": 664
+    "stargazers_count": 668,
+    "watchers_count": 668
 }
 {
     "commits_count": 2,
@@ -1378,7 +1338,7 @@
     "date_started": "2018-04-08",
     "date_updated": "2023-02-13",
     "description": "UAC bypass, Elevate, Persistence methods",
-    "forks_count": 388,
+    "forks_count": 387,
     "html_url": "https://github.com/rootm0s/WinPwnage",
     "keywords": [
         "uac bypass"
@@ -1387,8 +1347,8 @@
     "repo_name": "WinPwnage",
     "repo_owner": "rootm0s",
     "repotime": "2023-02-13, 10:43:12",
-    "stargazers_count": 2522,
-    "watchers_count": 2522
+    "stargazers_count": 2524,
+    "watchers_count": 2524
 }
 {
     "commits_count": 5,
@@ -1776,7 +1736,7 @@
     "date_started": "2020-01-29",
     "date_updated": "2023-02-08",
     "description": "LFI to RCE via phpinfo() assistance or via controlled log file",
-    "forks_count": 10,
+    "forks_count": 11,
     "html_url": "https://github.com/roughiz/lfito_rce",
     "keywords": [
         "lfi"
@@ -1785,8 +1745,8 @@
     "repo_name": "lfito_rce",
     "repo_owner": "roughiz",
     "repotime": "2023-02-08, 19:37:59",
-    "stargazers_count": 45,
-    "watchers_count": 45
+    "stargazers_count": 46,
+    "watchers_count": 46
 }
 {
     "commits_count": 2,
