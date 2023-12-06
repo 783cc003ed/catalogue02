@@ -89,23 +89,6 @@
     "watchers_count": 970
 }
 {
-    "commits_count": 1310,
-    "date_started": "2018-11-07",
-    "date_updated": "2023-11-30",
-    "description": "Dependency injection via APT (source code generation) ala &amp;quot;Server-Side Dagger DI&amp;quot;",
-    "forks_count": 18,
-    "html_url": "https://github.com/avaje/avaje-inject",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Java",
-    "repo_name": "avaje-inject",
-    "repo_owner": "avaje",
-    "repotime": "2023-11-30, 05:17:15",
-    "stargazers_count": 180,
-    "watchers_count": 180
-}
-{
     "commits_count": 21,
     "date_started": "2023-11-24",
     "date_updated": "2023-11-29",
@@ -163,7 +146,7 @@
     "date_started": "2019-09-10",
     "date_updated": "2023-11-30",
     "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
-    "forks_count": 243,
+    "forks_count": 244,
     "html_url": "https://github.com/TongchengOpenSource/smart-doc",
     "keywords": [
         "code injection"
@@ -172,8 +155,8 @@
     "repo_name": "smart-doc",
     "repo_owner": "TongchengOpenSource",
     "repotime": "2023-11-30, 00:12:09",
-    "stargazers_count": 1218,
-    "watchers_count": 1218
+    "stargazers_count": 1220,
+    "watchers_count": 1220
 }
 {
     "commits_count": 67,
@@ -1415,7 +1398,7 @@
     "date_started": "2023-02-14",
     "date_updated": "2023-11-07",
     "description": "A simple tutorial on how to do reverse engineer and code injection on AMI BIOSes (Legacy)",
-    "forks_count": 6,
+    "forks_count": 7,
     "html_url": "https://github.com/Theldus/AMI_BIOS_CodeInjection",
     "keywords": [
         "code injection"
