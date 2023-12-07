@@ -16,6 +16,43 @@
     "watchers_count": 4
 }
 {
+    "commits_count": 52,
+    "date_started": "2018-07-18",
+    "date_updated": "2023-12-07",
+    "description": "Notes about attacking Jenkins servers",
+    "forks_count": 299,
+    "html_url": "https://github.com/gquere/pwn_jenkins",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "pwn_jenkins",
+    "repo_owner": "gquere",
+    "repotime": "2023-12-07, 10:12:50",
+    "stargazers_count": 1694,
+    "watchers_count": 1694
+}
+{
+    "commits_count": 30,
+    "date_started": "2023-11-01",
+    "date_updated": "2023-12-07",
+    "description": "exploit for f5-big-ip RCE cve-2023-46747",
+    "forks_count": 29,
+    "html_url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46747-RCE",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2023-12-07, 11:10:06",
+    "stargazers_count": 123,
+    "watchers_count": 123
+}
+{
     "commits_count": 23,
     "date_started": "2023-10-10",
     "date_updated": "2023-12-06",
@@ -285,7 +322,7 @@
     "watchers_count": 24
 }
 {
-    "commits_count": 288,
+    "commits_count": 289,
     "date_started": "2017-02-07",
     "date_updated": "2023-12-04",
     "description": "The best tool for finding one gadget RCE in libc.so.6",
@@ -298,8 +335,8 @@
     "repo_name": "one_gadget",
     "repo_owner": "david942j",
     "repotime": "2023-12-04, 01:08:48",
-    "stargazers_count": 1894,
-    "watchers_count": 1894
+    "stargazers_count": 1895,
+    "watchers_count": 1895
 }
 {
     "commits_count": 215,
