@@ -291,6 +291,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 42,
+    "date_started": "2023-04-25",
+    "date_updated": "2023-11-28",
+    "description": "An AWS IAM policy statement parser and query tool.",
+    "forks_count": 8,
+    "html_url": "https://github.com/RhinoSecurityLabs/IAMActionHunter",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "IAMActionHunter",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2023-11-28, 12:55:28",
+    "stargazers_count": 126,
+    "watchers_count": 126
+}
+{
     "commits_count": 13,
     "date_started": "2023-11-22",
     "date_updated": "2023-11-28",
@@ -306,6 +323,23 @@
     "repotime": "2023-11-28, 09:57:14",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 416,
+    "date_started": "2018-07-17",
+    "date_updated": "2023-11-27",
+    "description": "CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool",
+    "forks_count": 540,
+    "html_url": "https://github.com/RhinoSecurityLabs/cloudgoat",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "cloudgoat",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2023-11-27, 18:58:32",
+    "stargazers_count": 2268,
+    "watchers_count": 2268
 }
 {
     "commits_count": 8,
@@ -571,6 +605,23 @@
     "repotime": "2023-11-22, 20:27:16",
     "stargazers_count": 11,
     "watchers_count": 11
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-11-22",
+    "date_updated": "2023-11-22",
+    "description": "A toy, C&amp;&#35;35; Cobalt Strike Beacon TCP to Named Pipe Frame Proxy",
+    "forks_count": 0,
+    "html_url": "https://github.com/sensepost/beacon-pipe-frame-proxy",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "C#",
+    "repo_name": "beacon-pipe-frame-proxy",
+    "repo_owner": "sensepost",
+    "repotime": "2023-11-22, 12:46:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 1201,
@@ -1200,6 +1251,23 @@
     "repotime": "2023-11-12, 15:56:06",
     "stargazers_count": 1700,
     "watchers_count": 1700
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-11-12",
+    "date_updated": "2023-11-12",
+    "description": "This script leverages CVE-2023046604 (Apache ActiveMQ) to generate a pseudo shell. The vulnerability allows for remote code execution due to unsafe deserialization within the OpenWire protocol.",
+    "forks_count": 2,
+    "html_url": "https://github.com/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46604-ActiveMQ-RCE-pseudoshell",
+    "repo_owner": "duck-sec",
+    "repotime": "2023-11-12, 13:49:27",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 12,
