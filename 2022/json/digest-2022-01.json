@@ -74,7 +74,7 @@
     "date_started": "2022-01-30",
     "date_updated": "2022-01-31",
     "description": "-- -- File generated with SQLiteStudio v3.2.1 on Sun Feb 7 14:58:28 2021 -- -- Text encoding used: System -- PRAGMA foreign_keys = off; BEGIN TRANSACTION;  -- Table: Commands CREATE TABLE Commands (Command_No INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, Name TEXT REFERENCES Programs (Name) NOT NULL, Description TEXT NOT NULL, Command TEXT, File BLOB); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (1, 'Kerbrute', 'brute single user password', 'kerbrute bruteuers [flags]', NULL); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (2, 'Kerbrute', 'brute username:password combos from file or stdin', 'kerbrute brutforce [flags]', NULL); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (3, 'Kerbrute', 'test a single password agains a list of users', 'kerbrute passwordspray [flags]', NULL); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (4, 'Kerbrute', 'Enumerate valid domain usernames vi...",
-    "forks_count": 7,
+    "forks_count": 6,
     "html_url": "https://github.com/Don-No7/Hack-SQL",
     "keywords": [
         "path traversal vulnerability",
