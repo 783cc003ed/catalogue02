@@ -55,7 +55,7 @@
     "date_started": "2023-11-01",
     "date_updated": "2023-12-07",
     "description": "exploit for f5-big-ip RCE cve-2023-46747",
-    "forks_count": 29,
+    "forks_count": 30,
     "html_url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
     "keywords": [
         "0day exploit",
@@ -86,6 +86,25 @@
     "repotime": "2023-12-06, 20:56:59",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-11-17",
+    "date_updated": "2023-12-07",
+    "description": "exploit for cve-2023-47246 SysAid RCE (shell upload)",
+    "forks_count": 9,
+    "html_url": "https://github.com/W01fh4cker/CVE-2023-47246-EXP",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-47246-EXP",
+    "repo_owner": "W01fh4cker",
+    "repotime": "2023-12-07, 10:55:01",
+    "stargazers_count": 39,
+    "watchers_count": 39
 }
 {
     "commits_count": 1,
@@ -140,6 +159,23 @@
     "repotime": "2023-12-06, 17:11:15",
     "stargazers_count": 2702,
     "watchers_count": 2702
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-12-06",
+    "date_updated": "2023-12-06",
+    "description": "PDF Silent EXPLOIT 0DAY",
+    "forks_count": 0,
+    "html_url": "https://github.com/AureoleHuertose2/PDF",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "PDF",
+    "repo_owner": "AureoleHuertose2",
+    "repotime": "2023-12-06, 12:37:13",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 2388,
@@ -255,7 +291,7 @@
     "date_started": "2021-02-23",
     "date_updated": "2023-12-04",
     "description": "Repository for information about 0-days exploited in-the-wild.",
-    "forks_count": 79,
+    "forks_count": 78,
     "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
     "keywords": [
         "0day exploitation",
@@ -265,8 +301,8 @@
     "repo_name": "0days-in-the-wild",
     "repo_owner": "googleprojectzero",
     "repotime": "2023-12-04, 11:04:36",
-    "stargazers_count": 666,
-    "watchers_count": 666
+    "stargazers_count": 671,
+    "watchers_count": 671
 }
 {
     "commits_count": 51,
