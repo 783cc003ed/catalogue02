@@ -34,24 +34,6 @@
 }
 {
     "commits_count": 2,
-    "date_started": "2022-04-15",
-    "date_updated": "2022-02-26",
-    "description": "<no description>",
-    "forks_count": 1,
-    "html_url": "https://github.com/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE",
-    "keywords": [
-        "Windows rce",
-        "Win rce"
-    ],
-    "language": "Rich Text Format",
-    "repo_name": "CVE-2022-21971-Windows-Runtime-RCE",
-    "repo_owner": "tufanturhan",
-    "repotime": "2022-02-26, 12:45:07",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 2,
     "date_started": "2022-02-26",
     "date_updated": "2022-02-26",
     "description": "PoC for CVE-2022-21971 &amp;quot;Windows Runtime Remote Code Execution Vulnerability&amp;quot;",
@@ -70,6 +52,24 @@
     "repotime": "2022-02-26, 12:45:07",
     "stargazers_count": 301,
     "watchers_count": 301
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-04-15",
+    "date_updated": "2022-02-26",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "Rich Text Format",
+    "repo_name": "CVE-2022-21971-Windows-Runtime-RCE",
+    "repo_owner": "tufanturhan",
+    "repotime": "2022-02-26, 12:45:07",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 2,
@@ -881,7 +881,7 @@
     "date_started": "2022-02-08",
     "date_updated": "2022-02-09",
     "description": "Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE)",
-    "forks_count": 157,
+    "forks_count": 158,
     "html_url": "https://github.com/ly4k/SpoolFool",
     "keywords": [
         "lpe exploit",
@@ -896,8 +896,8 @@
     "repo_name": "SpoolFool",
     "repo_owner": "ly4k",
     "repotime": "2022-02-09, 17:53:19",
-    "stargazers_count": 734,
-    "watchers_count": 734
+    "stargazers_count": 737,
+    "watchers_count": 737
 }
 {
     "commits_count": 1,
@@ -938,7 +938,7 @@
     "date_started": "2020-06-02",
     "date_updated": "2022-02-07",
     "description": "Unauthenticated attackers can cause a denial of service (resource consumption) by using the large list of registered .js files (from wp-includes/script-loader.php) to construct a series of requests to load every file many times.",
-    "forks_count": 1,
+    "forks_count": 0,
     "html_url": "https://github.com/DeyaaMuhammad/WPDOSLoader",
     "keywords": [
         "unauthenticated attacker"

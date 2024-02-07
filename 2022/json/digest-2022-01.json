@@ -74,7 +74,7 @@
     "date_started": "2022-01-30",
     "date_updated": "2022-01-31",
     "description": "-- -- File generated with SQLiteStudio v3.2.1 on Sun Feb 7 14:58:28 2021 -- -- Text encoding used: System -- PRAGMA foreign_keys = off; BEGIN TRANSACTION;  -- Table: Commands CREATE TABLE Commands (Command_No INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, Name TEXT REFERENCES Programs (Name) NOT NULL, Description TEXT NOT NULL, Command TEXT, File BLOB); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (1, 'Kerbrute', 'brute single user password', 'kerbrute bruteuers [flags]', NULL); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (2, 'Kerbrute', 'brute username:password combos from file or stdin', 'kerbrute brutforce [flags]', NULL); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (3, 'Kerbrute', 'test a single password agains a list of users', 'kerbrute passwordspray [flags]', NULL); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (4, 'Kerbrute', 'Enumerate valid domain usernames vi...",
-    "forks_count": 6,
+    "forks_count": 7,
     "html_url": "https://github.com/Don-No7/Hack-SQL",
     "keywords": [
         "path traversal vulnerability",
@@ -112,8 +112,8 @@
     "repo_name": "Hack-SQL",
     "repo_owner": "Don-No7",
     "repotime": "2022-01-31, 00:12:54",
-    "stargazers_count": 38,
-    "watchers_count": 38
+    "stargazers_count": 46,
+    "watchers_count": 46
 }
 {
     "commits_count": 2,
@@ -1107,6 +1107,6 @@
     "repo_name": "nate158g-m-w-n-l-p-d-a-o-e",
     "repo_owner": "Nate0634034090",
     "repotime": "2022-01-02, 15:08:01",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }

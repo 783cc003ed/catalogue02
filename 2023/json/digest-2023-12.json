@@ -1,4 +1,112 @@
 {
+    "commits_count": 2,
+    "date_started": "2023-12-18",
+    "date_updated": "2023-12-18",
+    "description": "Project consists of penetration testing; identified and exploited vulnerabilities using Kali Linux and Nmap. Conducted password spraying and privilege escalation on Linux and Windows systems. Established persistent network access and analyzed credentials",
+    "forks_count": 0,
+    "html_url": "https://github.com/Cyberscriber/Penetration_Testing",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Penetration_Testing",
+    "repo_owner": "Cyberscriber",
+    "repotime": "2023-12-18, 10:04:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-12-13",
+    "date_updated": "2023-12-13",
+    "description": "WordPress does not properly restrict which user fields are searchable via the REST API, allowing unauthenticated attackers to discern the email addresses of users who have published public posts on an affected website via an Oracle style attack",
+    "forks_count": 0,
+    "html_url": "https://github.com/pog007/CVE-2023-5561-PoC",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-5561-PoC",
+    "repo_owner": "pog007",
+    "repotime": "2023-12-13, 13:47:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-09-28",
+    "date_updated": "2023-12-12",
+    "description": "Linux &amp;amp; Android Kernel Vulnerability research and exploitation",
+    "forks_count": 2,
+    "html_url": "https://github.com/IdanBanani/Linux-Kernel-VR-Exploitation",
+    "keywords": [
+        "lpe exploitation",
+        "lpe vulnerability",
+        "lpe exploit"
+    ],
+    "language": null,
+    "repo_name": "Linux-Kernel-VR-Exploitation",
+    "repo_owner": "IdanBanani",
+    "repotime": "2023-12-12, 19:53:13",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-12-12",
+    "date_updated": "2023-12-12",
+    "description": "This repo will help exploit windows 10 specially version 1903",
+    "forks_count": 0,
+    "html_url": "https://github.com/rajkshk2/WINDOS-10-RCE",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": null,
+    "repo_name": "WINDOS-10-RCE",
+    "repo_owner": "rajkshk2",
+    "repotime": "2023-12-12, 19:35:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 28,
+    "date_started": "2018-02-13",
+    "date_updated": "2023-12-11",
+    "description": "The exploit samples database is a repository for **RCE** (remote code execution) exploits and Proof-of-Concepts for **WINDOWS**, the samples are uploaded for education purposes for red and blue teams.",
+    "forks_count": 188,
+    "html_url": "https://github.com/smgorelik/Windows-RCE-exploits",
+    "keywords": [
+        "Windows rce exploitation",
+        "Windows remote code execution",
+        "Win rce",
+        "Win rce proof of concept",
+        "remote code execution exploit",
+        "remote code execution exploitation",
+        "rce exploit",
+        "Windows remote code execution exploit",
+        "Win remote code execution exploit",
+        "Windows rce",
+        "Win remote code execution",
+        "Win rce exploitation",
+        "Windows rce exploit",
+        "remote code execution proof of concept",
+        "Windows remote code execution proof of concept",
+        "rce exploitation",
+        "Win remote code execution exploitation",
+        "Windows rce proof of concept",
+        "Win remote code execution proof of concept",
+        "Win rce exploit",
+        "Windows remote code execution exploitation",
+        "rce proof of concept"
+    ],
+    "language": null,
+    "repo_name": "Windows-RCE-exploits",
+    "repo_owner": "smgorelik",
+    "repotime": "2023-12-11, 17:30:33",
+    "stargazers_count": 734,
+    "watchers_count": 734
+}
+{
     "commits_count": 871,
     "date_started": "2023-07-05",
     "date_updated": "2023-12-07",
