@@ -1,4 +1,39 @@
 {
+    "commits_count": 275,
+    "date_started": "2022-09-03",
+    "date_updated": "2023-12-27",
+    "description": "Tests URLs for Local File Inclusion (LFI), Remote File Inclusion (RFI),   SQL injection (SQLi), and Cross Site Scripting (XSS), Server Side Template Injection (SSTI), and Open Redirects.",
+    "forks_count": 13,
+    "html_url": "https://github.com/ronin-rb/ronin-vulns",
+    "keywords": [
+        "local file inclusion",
+        "cross-side-scripting"
+    ],
+    "language": "Ruby",
+    "repo_name": "ronin-vulns",
+    "repo_owner": "ronin-rb",
+    "repotime": "2023-12-27, 21:23:54",
+    "stargazers_count": 50,
+    "watchers_count": 50
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-07-30",
+    "date_updated": "2023-12-27",
+    "description": "Microsoft Exchange Server Spoofing Vulnerability Exploit!",
+    "forks_count": 2,
+    "html_url": "https://github.com/0xrobiul/CVE-2021-41349",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2021-41349",
+    "repo_owner": "0xrobiul",
+    "repotime": "2023-12-27, 01:55:33",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
     "commits_count": 10,
     "date_started": "2022-04-06",
     "date_updated": "2023-12-20",
@@ -16,6 +51,23 @@
     "watchers_count": 18
 }
 {
+    "commits_count": 4,
+    "date_started": "2023-11-28",
+    "date_updated": "2023-12-19",
+    "description": "Customer Support System 1.0 - Local File Inclusion",
+    "forks_count": 0,
+    "html_url": "https://github.com/geraldoalcantara/CVE-2023-49544",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-49544",
+    "repo_owner": "geraldoalcantara",
+    "repotime": "2023-12-19, 17:29:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2,
     "date_started": "2023-12-18",
     "date_updated": "2023-12-18",
@@ -25,7 +77,8 @@
     "keywords": [
         "escalation of privileges vulnerability",
         "Windows escalation of privileges exploitation",
-        "Windows escalation of privileges exploit"
+        "Windows escalation of privileges exploit",
+        "escalation of privileges exploit"
     ],
     "language": null,
     "repo_name": "Penetration_Testing",
@@ -33,6 +86,23 @@
     "repotime": "2023-12-18, 10:04:02",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-07-23",
+    "date_updated": "2023-12-17",
+    "description": "Small python script to look for common vulnerabilities on SMTP server.",
+    "forks_count": 15,
+    "html_url": "https://github.com/mrlew1s/BrokenSMTP",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "BrokenSMTP",
+    "repo_owner": "mrlew1s",
+    "repotime": "2023-12-17, 18:52:09",
+    "stargazers_count": 42,
+    "watchers_count": 42
 }
 {
     "commits_count": 52,
@@ -515,24 +585,6 @@
     "repotime": "2023-12-05, 17:50:58",
     "stargazers_count": 260,
     "watchers_count": 260
-}
-{
-    "commits_count": 267,
-    "date_started": "2022-09-03",
-    "date_updated": "2023-12-04",
-    "description": "Tests URLs for Local File Inclusion (LFI), Remote File Inclusion (RFI),   SQL injection (SQLi), and Cross Site Scripting (XSS), Server Side Template Injection (SSTI), and Open Redirects.",
-    "forks_count": 14,
-    "html_url": "https://github.com/ronin-rb/ronin-vulns",
-    "keywords": [
-        "local file inclusion",
-        "cross-side-scripting"
-    ],
-    "language": "Ruby",
-    "repo_name": "ronin-vulns",
-    "repo_owner": "ronin-rb",
-    "repotime": "2023-12-04, 14:45:48",
-    "stargazers_count": 48,
-    "watchers_count": 48
 }
 {
     "commits_count": 121,
