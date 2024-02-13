@@ -52,6 +52,40 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 1,
+    "date_started": "2024-01-28",
+    "date_updated": "2024-01-29",
+    "description": "This lab demonstrates a simple example of insecure deserialization in PHP. Insecure deserialization is a vulnerability that can lead to remote code execution when an application deserializes untrusted data.",
+    "forks_count": 0,
+    "html_url": "https://github.com/TheWation/PHPDeserializationLab",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": "PHP",
+    "repo_name": "PHPDeserializationLab",
+    "repo_owner": "TheWation",
+    "repotime": "2024-01-29, 01:45:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-01-28",
+    "date_updated": "2024-01-28",
+    "description": "Jenkins 2.441 and earlier, LTS 2.426.2 and earlier does not disable a feature of its CLI command parser that replaces an '@' character followed by a file path in an argument with the file's contents, allowing unauthenticated attackers to read arbitrary files on the Jenkins controller file system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/raheel0x01/CVE-2024-23897",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2024-23897",
+    "repo_owner": "raheel0x01",
+    "repotime": "2024-01-28, 16:28:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 532,
     "date_started": "2020-08-12",
     "date_updated": "2024-01-28",
@@ -84,6 +118,23 @@
     "repotime": "2024-01-26, 18:59:39",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-01-22",
+    "date_updated": "2024-01-22",
+    "description": "A template injection vulnerability on older versions of Confluence Data Center and Server allows an unauthenticated attacker to achieve RCE on an affected instance. Customers using an affected version must take immediate action.",
+    "forks_count": 0,
+    "html_url": "https://github.com/cleverg0d/CVE-2023-22527",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-22527",
+    "repo_owner": "cleverg0d",
+    "repotime": "2024-01-22, 19:31:42",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 5,

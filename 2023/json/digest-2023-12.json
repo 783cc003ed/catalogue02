@@ -102,11 +102,28 @@
     "watchers_count": 5
 }
 {
+    "commits_count": 4,
+    "date_started": "2023-12-13",
+    "date_updated": "2023-12-14",
+    "description": "Unauthenticated Remote Code Execution with default Imagick",
+    "forks_count": 0,
+    "html_url": "https://github.com/ThatNotEasy/CVE-2023-4636",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-4636",
+    "repo_owner": "ThatNotEasy",
+    "repotime": "2023-12-14, 02:06:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 3,
     "date_started": "2023-12-13",
     "date_updated": "2023-12-13",
     "description": "WordPress does not properly restrict which user fields are searchable via the REST API, allowing unauthenticated attackers to discern the email addresses of users who have published public posts on an affected website via an Oracle style attack",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/pog007/CVE-2023-5561-PoC",
     "keywords": [
         "unauthenticated attacker"
@@ -226,6 +243,23 @@
     "repotime": "2023-12-09, 23:16:01",
     "stargazers_count": 90,
     "watchers_count": 90
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-12-09",
+    "date_updated": "2023-12-09",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/hunkaracar/Online-Traffic-Offense-Management-System-1.0---Remote-Code-Execution-RCE-Unauthenticated-",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Online-Traffic-Offense-Management-System-1.0---Remote-Code-Execution-RCE-Unauthenticated-",
+    "repo_owner": "hunkaracar",
+    "repotime": "2023-12-09, 06:28:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 871,
