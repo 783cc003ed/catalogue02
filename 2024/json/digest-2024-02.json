@@ -1,0 +1,164 @@
+{
+    "commits_count": 723,
+    "date_started": "2022-03-19",
+    "date_updated": "2024-02-13",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 121,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2024-02-13, 00:48:23",
+    "stargazers_count": 602,
+    "watchers_count": 602
+}
+{
+    "commits_count": 159,
+    "date_started": "2021-02-26",
+    "date_updated": "2024-02-11",
+    "description": "Local File Inclusion discovery and exploitation tool",
+    "forks_count": 23,
+    "html_url": "https://github.com/hansmach1ne/LFImap",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "LFImap",
+    "repo_owner": "hansmach1ne",
+    "repotime": "2024-02-11, 17:07:55",
+    "stargazers_count": 159,
+    "watchers_count": 159
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-09-04",
+    "date_updated": "2024-02-10",
+    "description": "A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder.  To get started, simply fork this repo.  CONTRIBUTING See ways of contributing to this repo. You can contribute solutions (will be published in this repo) to existing problems, add new projects, or remove existing ones. Make sure you follow all instructions properly.  Solutions You can find implementations of these projects in many other languages by other users in this repo.  Credits  Problems are motivated by the ones shared at:  Martyr2’s Mega Project List Rosetta Code Table of Contents Numbers Classic Algorithms Graph Data Structures Text Networking Classes Threading Web Files Databases Graphics and Multimedia Security Numbers Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.  Find e to the Nth Dig...",
+    "forks_count": 16,
+    "html_url": "https://github.com/ManojKumarPatnaik/Major-project-list",
+    "keywords": [
+        "Windows zero-day analysis",
+        "zero-day analysis",
+        "path traversal attack",
+        "Windows zero-day",
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Major-project-list",
+    "repo_owner": "ManojKumarPatnaik",
+    "repotime": "2024-02-10, 16:32:14",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 30,
+    "date_started": "2023-12-03",
+    "date_updated": "2024-02-09",
+    "description": "Prevent path traversal attacks at type level",
+    "forks_count": 0,
+    "html_url": "https://github.com/TheAlgorythm/path-ratchet",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Rust",
+    "repo_name": "path-ratchet",
+    "repo_owner": "TheAlgorythm",
+    "repotime": "2024-02-09, 16:10:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-04-01",
+    "date_updated": "2024-02-07",
+    "description": "URadar: Discovering Unrestricted File Upload Vulnerabilities Via Automatic and Adaptive Dynamic Testing",
+    "forks_count": 0,
+    "html_url": "https://github.com/Cyc1e183/URadar",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "URadar",
+    "repo_owner": "Cyc1e183",
+    "repotime": "2024-02-07, 11:47:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 116,
+    "date_started": "2021-05-26",
+    "date_updated": "2024-02-05",
+    "description": "Create, edit and write a2l files with this rust crate",
+    "forks_count": 6,
+    "html_url": "https://github.com/DanielT/a2lfile",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Rust",
+    "repo_name": "a2lfile",
+    "repo_owner": "DanielT",
+    "repotime": "2024-02-05, 23:18:09",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-03-15",
+    "date_updated": "2024-02-03",
+    "description": "A Path traversal vulnerability in the file upload functionality in tinyfilemanager.php in Tiny File Manager Project's Tiny File Manager &amp;lt;= 2.4.6 allows remote attackers with valid user accounts to upload malicious PHP files to the webroot and achieve code execution on the target server.",
+    "forks_count": 16,
+    "html_url": "https://github.com/febinrev/tinyfilemanager-2.4.3-exploit",
+    "keywords": [
+        "path traversal vulnerability",
+        "path traversal attack",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "tinyfilemanager-2.4.3-exploit",
+    "repo_owner": "febinrev",
+    "repotime": "2024-02-03, 12:21:11",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 56,
+    "date_started": "2021-08-29",
+    "date_updated": "2024-02-03",
+    "description": "An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.",
+    "forks_count": 106,
+    "html_url": "https://github.com/h4r5h1t/webcopilot",
+    "keywords": [
+        "rce vulnerability",
+        "lfi"
+    ],
+    "language": "Shell",
+    "repo_name": "webcopilot",
+    "repo_owner": "h4r5h1t",
+    "repotime": "2024-02-03, 05:33:57",
+    "stargazers_count": 462,
+    "watchers_count": 462
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-02-01",
+    "date_updated": "2024-02-01",
+    "description": "This password generator creates random combinations of characters to enhance the security of online accounts. It provides effective protection by generating hard-to-guess codes, thereby improving resistance against cyber attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MoZaidAlouli/Password-Generator",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "HTML",
+    "repo_name": "Password-Generator",
+    "repo_owner": "MoZaidAlouli",
+    "repotime": "2024-02-01, 14:22:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

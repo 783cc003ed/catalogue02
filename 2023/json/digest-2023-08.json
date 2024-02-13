@@ -248,7 +248,7 @@
     "date_started": "2023-08-27",
     "date_updated": "2023-08-27",
     "description": "一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。",
-    "forks_count": 19,
+    "forks_count": 22,
     "html_url": "https://github.com/Garck3h/cve-2023-38831",
     "keywords": [
         "rce poc"
@@ -257,8 +257,8 @@
     "repo_name": "cve-2023-38831",
     "repo_owner": "Garck3h",
     "repotime": "2023-08-27, 22:35:00",
-    "stargazers_count": 94,
-    "watchers_count": 94
+    "stargazers_count": 102,
+    "watchers_count": 102
 }
 {
     "commits_count": 7,
@@ -625,8 +625,8 @@
     "repo_name": "lfi",
     "repo_owner": "TomerAberbach",
     "repotime": "2023-08-20, 20:13:23",
-    "stargazers_count": 230,
-    "watchers_count": 230
+    "stargazers_count": 232,
+    "watchers_count": 232
 }
 {
     "commits_count": 15,
@@ -747,8 +747,8 @@
     "repo_name": "imagemagick-lfi-poc",
     "repo_owner": "Sybil-Scan",
     "repotime": "2023-08-16, 21:07:00",
-    "stargazers_count": 45,
-    "watchers_count": 45
+    "stargazers_count": 44,
+    "watchers_count": 44
 }
 {
     "commits_count": 3,
@@ -1057,24 +1057,6 @@
     "repotime": "2023-08-05, 12:57:21",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 15,
-    "date_started": "2023-05-24",
-    "date_updated": "2023-08-04",
-    "description": "LFI-FINDER is an open-source tool available on GitHub that focuses on detecting Local File Inclusion (LFI) vulnerabilities",
-    "forks_count": 50,
-    "html_url": "https://github.com/capture0x/LFI-FINDER",
-    "keywords": [
-        "local file inclusion",
-        "lfi"
-    ],
-    "language": "Python",
-    "repo_name": "LFI-FINDER",
-    "repo_owner": "capture0x",
-    "repotime": "2023-08-04, 16:53:05",
-    "stargazers_count": 228,
-    "watchers_count": 228
 }
 {
     "commits_count": 4,

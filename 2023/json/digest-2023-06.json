@@ -157,7 +157,7 @@
     "date_started": "2023-06-08",
     "date_updated": "2023-06-24",
     "description": "Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities",
-    "forks_count": 4,
+    "forks_count": 7,
     "html_url": "https://github.com/Chocapikk/LFIHunt",
     "keywords": [
         "local file inclusion",
@@ -167,8 +167,8 @@
     "repo_name": "LFIHunt",
     "repo_owner": "Chocapikk",
     "repotime": "2023-06-24, 15:56:47",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 15,
@@ -406,59 +406,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 9,
-    "date_started": "2022-04-21",
-    "date_updated": "2023-06-18",
-    "description": "A threat actor may re-use a stolen or leaked session identifier to access the user's account",
-    "forks_count": 0,
-    "html_url": "https://github.com/qeeqbox/session-replay",
-    "keywords": [
-        "session vulnerability"
-    ],
-    "language": null,
-    "repo_name": "session-replay",
-    "repo_owner": "qeeqbox",
-    "repotime": "2023-06-18, 14:58:27",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 7,
-    "date_started": "2022-04-25",
-    "date_updated": "2023-06-18",
-    "description": "A threat actor may access the user's account using a stolen or leaked valid (existing) session identifier",
-    "forks_count": 0,
-    "html_url": "https://github.com/qeeqbox/session-hijacking",
-    "keywords": [
-        "session hijacking",
-        "session hijacking vulnerability",
-        "session vulnerability"
-    ],
-    "language": null,
-    "repo_name": "session-hijacking",
-    "repo_owner": "qeeqbox",
-    "repotime": "2023-06-18, 14:57:48",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 7,
-    "date_started": "2022-04-21",
-    "date_updated": "2023-06-18",
-    "description": "A threat actor may trick a user into using a known session identifier to log in. after logging in, the session identifier is used to gain access to the user's account",
-    "forks_count": 0,
-    "html_url": "https://github.com/qeeqbox/session-fixation",
-    "keywords": [
-        "session vulnerability"
-    ],
-    "language": null,
-    "repo_name": "session-fixation",
-    "repo_owner": "qeeqbox",
-    "repotime": "2023-06-18, 14:56:40",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
     "commits_count": 18,
     "date_started": "2023-02-15",
     "date_updated": "2023-06-18",
@@ -495,8 +442,8 @@
     "repo_name": "XRCross",
     "repo_owner": "pikpikcu",
     "repotime": "2023-06-17, 23:38:40",
-    "stargazers_count": 295,
-    "watchers_count": 295
+    "stargazers_count": 304,
+    "watchers_count": 304
 }
 {
     "commits_count": 9,

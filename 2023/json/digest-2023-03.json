@@ -259,6 +259,23 @@
     "watchers_count": 10
 }
 {
+    "commits_count": 3,
+    "date_started": "2023-03-15",
+    "date_updated": "2023-03-23",
+    "description": "POC for RCE vulnerability in ParseExcel library, and ParseXLSX too, as a depending library",
+    "forks_count": 6,
+    "html_url": "https://github.com/haile01/perl_spreadsheet_excel_rce_poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "perl_spreadsheet_excel_rce_poc",
+    "repo_owner": "haile01",
+    "repotime": "2023-03-23, 17:06:22",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
     "commits_count": 12,
     "date_started": "2022-11-14",
     "date_updated": "2023-03-23",
@@ -850,24 +867,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 1,
-    "date_started": "2023-03-08",
-    "date_updated": "2023-03-08",
-    "description": "Judging Management System v1.0 - Unrestricted File Upload + RCE (Unauthenticated)",
-    "forks_count": 0,
-    "html_url": "https://github.com/angelopioamirante/CVE-2023-24317",
-    "keywords": [
-        "unrestricted file upload",
-        "unauthenticated rce"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2023-24317",
-    "repo_owner": "angelopioamirante",
-    "repotime": "2023-03-08, 23:02:30",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 31,
     "date_started": "2023-03-06",
     "date_updated": "2023-03-08",
@@ -1062,7 +1061,7 @@
     "date_started": "2022-03-26",
     "date_updated": "2023-03-05",
     "description": "spring-cloud / spring-cloud-function,spring.cloud.function.routing-expression,RCE,0day,0-day,POC,EXP,CVE-2022-22963",
-    "forks_count": 86,
+    "forks_count": 85,
     "html_url": "https://github.com/hktalent/spring-spel-0day-poc",
     "keywords": [
         "rce poc",
@@ -1091,8 +1090,8 @@
     "repo_name": "CVE-2020-2551",
     "repo_owner": "hktalent",
     "repotime": "2023-03-05, 20:40:58",
-    "stargazers_count": 207,
-    "watchers_count": 207
+    "stargazers_count": 209,
+    "watchers_count": 209
 }
 {
     "commits_count": 77,
@@ -1110,8 +1109,8 @@
     "repo_name": "IRC-Bot-Hunters",
     "repo_owner": "shipcod3",
     "repotime": "2023-03-05, 19:42:58",
-    "stargazers_count": 70,
-    "watchers_count": 70
+    "stargazers_count": 72,
+    "watchers_count": 72
 }
 {
     "commits_count": 9,

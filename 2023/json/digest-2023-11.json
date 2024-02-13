@@ -87,24 +87,6 @@
     "watchers_count": 125
 }
 {
-    "commits_count": 158,
-    "date_started": "2021-02-26",
-    "date_updated": "2023-11-29",
-    "description": "Local File Inclusion discovery and exploitation tool",
-    "forks_count": 22,
-    "html_url": "https://github.com/hansmach1ne/LFImap",
-    "keywords": [
-        "lfi",
-        "local file inclusion"
-    ],
-    "language": "Python",
-    "repo_name": "LFImap",
-    "repo_owner": "hansmach1ne",
-    "repotime": "2023-11-29, 15:18:10",
-    "stargazers_count": 152,
-    "watchers_count": 152
-}
-{
     "commits_count": 6,
     "date_started": "2023-11-29",
     "date_updated": "2023-11-29",
@@ -412,25 +394,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 701,
-    "date_started": "2022-03-19",
-    "date_updated": "2023-11-25",
-    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-    "forks_count": 116,
-    "html_url": "https://github.com/GhostTroops/TOP",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "rce vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "TOP",
-    "repo_owner": "GhostTroops",
-    "repotime": "2023-11-25, 00:09:53",
-    "stargazers_count": 594,
-    "watchers_count": 594
-}
-{
     "commits_count": 717,
     "date_started": "2013-06-25",
     "date_updated": "2023-11-24",
@@ -571,23 +534,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 107,
-    "date_started": "2021-05-26",
-    "date_updated": "2023-11-22",
-    "description": "Create, edit and write a2l files with this rust crate",
-    "forks_count": 6,
-    "html_url": "https://github.com/DanielT/a2lfile",
-    "keywords": [
-        "lfi"
-    ],
-    "language": "Rust",
-    "repo_name": "a2lfile",
-    "repo_owner": "DanielT",
-    "repotime": "2023-11-22, 20:27:16",
-    "stargazers_count": 11,
-    "watchers_count": 11
-}
-{
     "commits_count": 4,
     "date_started": "2023-11-22",
     "date_updated": "2023-11-22",
@@ -620,23 +566,6 @@
     "repotime": "2023-11-22, 13:02:21",
     "stargazers_count": 4310,
     "watchers_count": 4310
-}
-{
-    "commits_count": 2,
-    "date_started": "2023-04-01",
-    "date_updated": "2023-11-22",
-    "description": "URadar: Discovering Unrestricted File Upload Vulnerabilities Via Automatic and Adaptive Dynamic Testing",
-    "forks_count": 0,
-    "html_url": "https://github.com/Cyc1e183/URadar",
-    "keywords": [
-        "unrestricted file upload"
-    ],
-    "language": null,
-    "repo_name": "URadar",
-    "repo_owner": "Cyc1e183",
-    "repotime": "2023-11-22, 08:17:57",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 22,
@@ -750,7 +679,7 @@
     "date_started": "2023-11-18",
     "date_updated": "2023-11-19",
     "description": "<no description>",
-    "forks_count": 23,
+    "forks_count": 26,
     "html_url": "https://github.com/nathan31337/Splunk-RCE-poc",
     "keywords": [
         "rce poc"
@@ -759,8 +688,8 @@
     "repo_name": "Splunk-RCE-poc",
     "repo_owner": "nathan31337",
     "repotime": "2023-11-19, 13:09:06",
-    "stargazers_count": 99,
-    "watchers_count": 99
+    "stargazers_count": 108,
+    "watchers_count": 108
 }
 {
     "commits_count": 17,
@@ -904,7 +833,7 @@
     "date_started": "2023-11-17",
     "date_updated": "2023-11-17",
     "description": "Chrome Arbitrary File Read Vulnerability (0day)",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/CKevens/Chrome-Arbitrary-File-Read-Vulnerability-0day",
     "keywords": [
         "0day vulnerability",
@@ -915,8 +844,8 @@
     "repo_name": "Chrome-Arbitrary-File-Read-Vulnerability-0day",
     "repo_owner": "CKevens",
     "repotime": "2023-11-17, 11:47:26",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 164,
@@ -1266,6 +1195,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4,
+    "date_started": "2023-11-10",
+    "date_updated": "2023-11-09",
+    "description": "This repository is a tool to create a .suo that when run by visual studio's will achieve code execution",
+    "forks_count": 16,
+    "html_url": "https://github.com/moom825/visualstudio-suo-exploit",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "C#",
+    "repo_name": "visualstudio-suo-exploit",
+    "repo_owner": "moom825",
+    "repotime": "2023-11-09, 19:42:05",
+    "stargazers_count": 75,
+    "watchers_count": 75
+}
+{
     "commits_count": 10,
     "date_started": "2023-11-03",
     "date_updated": "2023-11-09",
@@ -1455,24 +1401,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 184,
-    "date_started": "2021-05-08",
-    "date_updated": "2023-11-05",
-    "description": "LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) vulnerabilities on a server.",
-    "forks_count": 19,
-    "html_url": "https://github.com/kostas-pa/LFITester",
-    "keywords": [
-        "lfi",
-        "local file inclusion"
-    ],
-    "language": "Python",
-    "repo_name": "LFITester",
-    "repo_owner": "kostas-pa",
-    "repotime": "2023-11-05, 16:15:56",
-    "stargazers_count": 90,
-    "watchers_count": 90
-}
-{
     "commits_count": 435,
     "date_started": "2019-02-23",
     "date_updated": "2023-11-05",
@@ -1581,25 +1509,8 @@
     "repo_name": "CVE-2023-36884-MS-Office-HTML-RCE",
     "repo_owner": "jakabakos",
     "repotime": "2023-11-02, 10:08:31",
-    "stargazers_count": 24,
-    "watchers_count": 24
-}
-{
-    "commits_count": 146,
-    "date_started": "2023-07-25",
-    "date_updated": "2023-11-02",
-    "description": "各种漏洞批量扫描poc、exp，涵盖未授权、RCE、文件上传、sql注入、信息泄露等",
-    "forks_count": 42,
-    "html_url": "https://github.com/MzzdToT/HAC_Bored_Writing",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "HAC_Bored_Writing",
-    "repo_owner": "MzzdToT",
-    "repotime": "2023-11-02, 10:46:48",
-    "stargazers_count": 189,
-    "watchers_count": 189
+    "stargazers_count": 31,
+    "watchers_count": 31
 }
 {
     "commits_count": 5,
@@ -1624,7 +1535,7 @@
     "date_started": "2023-10-31",
     "date_updated": "2023-11-01",
     "description": "Executing EXE Files From Memory",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/IntelSDM/PEFromMemory",
     "keywords": [
         "Windows rce"
@@ -1633,8 +1544,8 @@
     "repo_name": "PEFromMemory",
     "repo_owner": "IntelSDM",
     "repotime": "2023-11-01, 15:57:06",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 197,
