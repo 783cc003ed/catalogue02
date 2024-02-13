@@ -471,7 +471,7 @@
     "date_started": "2018-11-23",
     "date_updated": "2019-07-10",
     "description": "Phishing website detection system provides strong security mechanism to detect and prevent phishing domains from reaching user. This project presents a simple and portable approach to detect spoofed webpages and solve security vulnerabilities using Machine Learning.  It can be easily operated by anyone since all the major tasks are happening in the backend. The user is required to provide URL as input to the GUI and click on submit button. The output is shown as “YES” for phishing URL and “NO” for not phished URL.  PYTHON DEPENDENCIES:  • NumPy, Pandas, Scikit-learn: For Data cleaning, Data analysis and Data modelling. • Pickle: For exporting the model to local machine  • Tkinter, Pyqt, QtDesigner: For building up the Graphical User Interface (GUI) of the software.    To avoid the pain of installing independent packages and libraries of python, install Anaconda from www.anaconda.com. It is a Python data science platform which has all the ML libraries, Data analysis libraries, Jupyter N...",
-    "forks_count": 18,
+    "forks_count": 19,
     "html_url": "https://github.com/Komal01/phishing-URL-detection",
     "keywords": [
         "spoofing vulnerability"
@@ -480,8 +480,8 @@
     "repo_name": "phishing-URL-detection",
     "repo_owner": "Komal01",
     "repotime": "2019-07-10, 23:53:31",
-    "stargazers_count": 25,
-    "watchers_count": 25
+    "stargazers_count": 26,
+    "watchers_count": 26
 }
 {
     "commits_count": 3,
