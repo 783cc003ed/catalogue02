@@ -154,6 +154,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 38,
+    "date_started": "2023-10-09",
+    "date_updated": "2024-01-26",
+    "description": "Proof of Concept for RCE and information leakage on vulnerable AXIS Network Cameras",
+    "forks_count": 0,
+    "html_url": "https://github.com/mascencerro/axis-rce",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "axis-rce",
+    "repo_owner": "mascencerro",
+    "repotime": "2024-01-26, 14:44:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-01-25",
+    "date_updated": "2024-01-25",
+    "description": "Atlassian Confluence Remote Code Execution(RCE) Proof Of Concept",
+    "forks_count": 1,
+    "html_url": "https://github.com/MaanVader/CVE-2023-22527-POC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-22527-POC",
+    "repo_owner": "MaanVader",
+    "repotime": "2024-01-25, 18:43:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 4,
     "date_started": "2024-01-22",
     "date_updated": "2024-01-22",
@@ -292,8 +326,8 @@
     "repo_name": "CVE-2023-50164-PoC",
     "repo_owner": "sunnyvale-it",
     "repotime": "2024-01-16, 14:05:51",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 2,
