@@ -198,7 +198,8 @@
     "forks_count": 6,
     "html_url": "https://github.com/rvizx/CVE-2023-30547",
     "keywords": [
-        "sandbox escape exploitation"
+        "sandbox escape exploitation",
+        "sandbox escape vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-30547",
@@ -215,7 +216,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/rvizx/VM2-Exploit",
     "keywords": [
-        "sandbox escape exploitation"
+        "sandbox escape exploitation",
+        "sandbox escape vulnerability"
     ],
     "language": "Python",
     "repo_name": "VM2-Exploit",
@@ -364,8 +366,8 @@
     "repo_name": "LFITester",
     "repo_owner": "kostas-pa",
     "repotime": "2023-12-09, 23:16:01",
-    "stargazers_count": 90,
-    "watchers_count": 90
+    "stargazers_count": 92,
+    "watchers_count": 92
 }
 {
     "commits_count": 14,
@@ -542,23 +544,6 @@
     "repotime": "2023-12-06, 12:37:13",
     "stargazers_count": 3,
     "watchers_count": 3
-}
-{
-    "commits_count": 2388,
-    "date_started": "2009-12-19",
-    "date_updated": "2023-12-06",
-    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2179,
-    "html_url": "https://github.com/jhy/jsoup",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Java",
-    "repo_name": "jsoup",
-    "repo_owner": "jhy",
-    "repotime": "2023-12-06, 15:03:30",
-    "stargazers_count": 10413,
-    "watchers_count": 10413
 }
 {
     "commits_count": 9,

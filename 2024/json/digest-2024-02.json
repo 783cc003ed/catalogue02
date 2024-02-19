@@ -1,4 +1,55 @@
 {
+    "commits_count": 267,
+    "date_started": "2022-04-19",
+    "date_updated": "2024-02-19",
+    "description": "Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.",
+    "forks_count": 22,
+    "html_url": "https://github.com/Ostorlab/KEV",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "KEV",
+    "repo_owner": "Ostorlab",
+    "repotime": "2024-02-19, 12:15:24",
+    "stargazers_count": 450,
+    "watchers_count": 450
+}
+{
+    "commits_count": 759,
+    "date_started": "2013-06-25",
+    "date_updated": "2024-02-16",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 234,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2024-02-16, 15:53:44",
+    "stargazers_count": 1460,
+    "watchers_count": 1460
+}
+{
+    "commits_count": 598,
+    "date_started": "2017-03-06",
+    "date_updated": "2024-02-15",
+    "description": "ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.",
+    "forks_count": 336,
+    "html_url": "https://github.com/ssl/ezXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "ezXSS",
+    "repo_owner": "ssl",
+    "repotime": "2024-02-15, 17:46:13",
+    "stargazers_count": 1729,
+    "watchers_count": 1729
+}
+{
     "commits_count": 723,
     "date_started": "2022-03-19",
     "date_updated": "2024-02-13",
@@ -22,7 +73,7 @@
     "date_started": "2021-02-26",
     "date_updated": "2024-02-11",
     "description": "Local File Inclusion discovery and exploitation tool",
-    "forks_count": 23,
+    "forks_count": 25,
     "html_url": "https://github.com/hansmach1ne/LFImap",
     "keywords": [
         "lfi",
@@ -32,8 +83,8 @@
     "repo_name": "LFImap",
     "repo_owner": "hansmach1ne",
     "repotime": "2024-02-11, 17:07:55",
-    "stargazers_count": 159,
-    "watchers_count": 159
+    "stargazers_count": 161,
+    "watchers_count": 161
 }
 {
     "commits_count": 7,
@@ -166,7 +217,7 @@
     "date_started": "2021-08-29",
     "date_updated": "2024-02-03",
     "description": "An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.",
-    "forks_count": 106,
+    "forks_count": 107,
     "html_url": "https://github.com/h4r5h1t/webcopilot",
     "keywords": [
         "rce vulnerability",
@@ -176,8 +227,8 @@
     "repo_name": "webcopilot",
     "repo_owner": "h4r5h1t",
     "repotime": "2024-02-03, 05:33:57",
-    "stargazers_count": 462,
-    "watchers_count": 462
+    "stargazers_count": 467,
+    "watchers_count": 467
 }
 {
     "commits_count": 2,
