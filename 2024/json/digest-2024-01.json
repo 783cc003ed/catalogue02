@@ -133,8 +133,8 @@
     "repo_name": "Windows-Local-Privilege-Escalation-Cookbook",
     "repo_owner": "nickvourd",
     "repotime": "2024-01-28, 02:30:00",
-    "stargazers_count": 439,
-    "watchers_count": 439
+    "stargazers_count": 443,
+    "watchers_count": 443
 }
 {
     "commits_count": 5,
@@ -266,7 +266,8 @@
     "keywords": [
         "Windows escalation of privileges exploitation",
         "Windows escalation of privileges exploit",
-        "escalation of privileges exploit"
+        "escalation of privileges exploit",
+        "escalation of privileges vulnerability"
     ],
     "language": "HTML",
     "repo_name": "Windows-Privilege-Escalation",
@@ -431,6 +432,23 @@
     "repotime": "2024-01-07, 17:51:26",
     "stargazers_count": 238,
     "watchers_count": 238
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-01-03",
+    "date_updated": "2024-01-03",
+    "description": "This web application is intentionally made vulnerable to XML External Entity (XXE) attacks for educational purposes only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AliAbdollahiii/XXE-Vulnerable-App",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "HTML",
+    "repo_name": "XXE-Vulnerable-App",
+    "repo_owner": "AliAbdollahiii",
+    "repotime": "2024-01-03, 17:05:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 16,

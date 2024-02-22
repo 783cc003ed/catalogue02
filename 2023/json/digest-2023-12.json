@@ -34,6 +34,23 @@
     "watchers_count": 3
 }
 {
+    "commits_count": 18,
+    "date_started": "2023-12-17",
+    "date_updated": "2023-12-22",
+    "description": "XML eXternal Entities. The product processes an XML document that can contain XML entities with URIs that resolve to documents outside of the intended sphere of control, causing the product to embed incorrect documents into its output.",
+    "forks_count": 0,
+    "html_url": "https://github.com/QuwsarOhi/xxe-python",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "xxe-python",
+    "repo_owner": "QuwsarOhi",
+    "repotime": "2023-12-22, 20:04:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 10,
     "date_started": "2022-04-06",
     "date_updated": "2023-12-20",
