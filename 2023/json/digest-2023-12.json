@@ -188,6 +188,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4,
+    "date_started": "2023-12-17",
+    "date_updated": "2023-12-18",
+    "description": "xss_session_hijacking_example",
+    "forks_count": 0,
+    "html_url": "https://github.com/GabrielBahia/xss_session_hijacking_example",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "xss_session_hijacking_example",
+    "repo_owner": "GabrielBahia",
+    "repotime": "2023-12-18, 22:12:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 6,
     "date_started": "2023-01-09",
     "date_updated": "2023-12-18",
@@ -529,6 +546,23 @@
     "watchers_count": 737
 }
 {
+    "commits_count": 27,
+    "date_started": "2023-12-02",
+    "date_updated": "2023-12-11",
+    "description": "This project shows a memory leak that can occur if code on the main window awaits a promise from within the iframe before performing memory cleanup. If the iframe is removed before the iframe promise resolves, the awaiting function will halt execution and cleanup code will never run.",
+    "forks_count": 1,
+    "html_url": "https://github.com/astegmaier/playground-hung-iframe-promise",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "JavaScript",
+    "repo_name": "playground-hung-iframe-promise",
+    "repo_owner": "astegmaier",
+    "repotime": "2023-12-11, 17:05:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 22,
     "date_started": "2023-08-28",
     "date_updated": "2023-12-10",
@@ -542,6 +576,23 @@
     "repo_name": "cs411",
     "repo_owner": "TechSolomon",
     "repotime": "2023-12-10, 20:35:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2023-12-10",
+    "date_updated": "2023-12-10",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Albertmus123/session-hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "session-hijacking",
+    "repo_owner": "Albertmus123",
+    "repotime": "2023-12-10, 07:39:17",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -725,21 +776,21 @@
     "watchers_count": 3
 }
 {
-    "commits_count": 9,
-    "date_started": "2023-12-02",
-    "date_updated": "2023-12-05",
-    "description": "This project shows a memory leak that can occur if code on the main window awaits a promise from within the iframe before performing memory cleanup. If the iframe is removed before the iframe promise resolves, the awaiting function will halt execution and cleanup code will never run.",
-    "forks_count": 1,
-    "html_url": "https://github.com/astegmaier/playground-hung-iframe-promise",
+    "commits_count": 1,
+    "date_started": "2023-12-06",
+    "date_updated": "2023-12-06",
+    "description": "A python implementation of doyensec/Session-Hijacking-Visual-Exploitation",
+    "forks_count": 3,
+    "html_url": "https://github.com/MatthisC/Session-Hijacking-Visual-Exploitation-Python-Version",
     "keywords": [
-        "Windows memory leak"
+        "session hijacking"
     ],
-    "language": "HTML",
-    "repo_name": "playground-hung-iframe-promise",
-    "repo_owner": "astegmaier",
-    "repotime": "2023-12-05, 10:25:15",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "language": "Python",
+    "repo_name": "Session-Hijacking-Visual-Exploitation-Python-Version",
+    "repo_owner": "MatthisC",
+    "repotime": "2023-12-06, 10:37:56",
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 4,
@@ -849,23 +900,6 @@
     "repotime": "2023-12-04, 06:09:20",
     "stargazers_count": 180,
     "watchers_count": 180
-}
-{
-    "commits_count": 9,
-    "date_started": "2022-12-17",
-    "date_updated": "2023-12-04",
-    "description": "Perform session hijacking on capative portal",
-    "forks_count": 0,
-    "html_url": "https://github.com/woanmeo11/bypass_capative_portal",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "Python",
-    "repo_name": "bypass_capative_portal",
-    "repo_owner": "woanmeo11",
-    "repotime": "2023-12-04, 09:57:53",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 80,
