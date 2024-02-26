@@ -190,6 +190,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 5,
+    "date_started": "2024-01-26",
+    "date_updated": "2024-01-26",
+    "description": "Welcome to the repository dedicated to resources for studying Windows internals and privilege escalation techniques! This repository aims to provide a curated list of articles, tools, tutorials, and other valuable resources to aid in understanding the inner workings of the Windows operating system and various techniques used for privilege esca",
+    "forks_count": 0,
+    "html_url": "https://github.com/Youssefawad999/Windows-ResourcesWindows-Resources",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "Windows-ResourcesWindows-Resources",
+    "repo_owner": "Youssefawad999",
+    "repotime": "2024-01-26, 15:10:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 56,
     "date_started": "2018-07-18",
     "date_updated": "2024-01-26",
@@ -240,6 +257,24 @@
     "repotime": "2024-01-24, 15:56:34",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-12-03",
+    "date_updated": "2024-01-24",
+    "description": "This script is designed to assist in the detection of possible misconfigurations that may lead to privilege escalation on a Windows system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/duck-sec/beadey-eyed-windows-mouse-windows-privesc-script",
+    "keywords": [
+        "Windows escalation of privileges",
+        "Win escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "beadey-eyed-windows-mouse-windows-privesc-script",
+    "repo_owner": "duck-sec",
+    "repotime": "2024-01-24, 13:47:38",
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 32,
@@ -341,7 +376,8 @@
         "Windows escalation of privileges exploit",
         "escalation of privileges exploit",
         "escalation of privileges vulnerability",
-        "escalation of privileges exploitation"
+        "escalation of privileges exploitation",
+        "Windows escalation of privileges"
     ],
     "language": "HTML",
     "repo_name": "Windows-Privilege-Escalation",
@@ -506,6 +542,23 @@
     "repotime": "2024-01-10, 12:00:20",
     "stargazers_count": 10511,
     "watchers_count": 10511
+}
+{
+    "commits_count": 30,
+    "date_started": "2023-05-08",
+    "date_updated": "2024-01-09",
+    "description": "A PoC exploit for CVE-2019-15107 - Webmin Remote Code Execution",
+    "forks_count": 2,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-15107-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-01-09, 12:08:24",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 3,

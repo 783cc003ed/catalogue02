@@ -1,4 +1,21 @@
 {
+    "commits_count": 9,
+    "date_started": "2024-02-23",
+    "date_updated": "2024-02-26",
+    "description": "Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). Exploit.",
+    "forks_count": 2,
+    "html_url": "https://github.com/sharpicx/CVE-2024-1651-PoC",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-1651-PoC",
+    "repo_owner": "sharpicx",
+    "repotime": "2024-02-26, 23:36:38",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 274,
     "date_started": "2022-04-19",
     "date_updated": "2024-02-26",
@@ -69,6 +86,23 @@
     "watchers_count": 606
 }
 {
+    "commits_count": 6,
+    "date_started": "2024-02-23",
+    "date_updated": "2024-02-24",
+    "description": "Bu betik, Microsoft Outlook'ta keşfedilen ve CVSS değeri 9.8 olan önemli bir güvenlik açığı olan CVE-2024-21413 için bir kavram kanıtı (PoC) sunmaktadır. MonikerLink hatası olarak adlandırılan bu güvenlik açığı, yerel NTLM bilgilerinin potansiyel sızıntısı ve uzaktan kod çalıştırma olasılığı dahil olmak üzere geniş kapsamlı etkilere sahiptir.",
+    "forks_count": 3,
+    "html_url": "https://github.com/ahmetkarakayaoffical/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "keywords": [
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "repo_owner": "ahmetkarakayaoffical",
+    "repotime": "2024-02-24, 18:36:22",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 4,
     "date_started": "2024-02-21",
     "date_updated": "2024-02-21",
@@ -84,6 +118,23 @@
     "repotime": "2024-02-21, 10:08:41",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2024-02-20",
+    "date_updated": "2024-02-20",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "keywords": [
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "repo_owner": "Mdusmandasthaheer",
+    "repotime": "2024-02-20, 19:07:39",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 12,
@@ -103,6 +154,24 @@
     "watchers_count": 127
 }
 {
+    "commits_count": 9,
+    "date_started": "2024-02-16",
+    "date_updated": "2024-02-19",
+    "description": "Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "forks_count": 107,
+    "html_url": "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "repo_owner": "xaitax",
+    "repotime": "2024-02-19, 21:00:35",
+    "stargazers_count": 488,
+    "watchers_count": 488
+}
+{
     "commits_count": 3,
     "date_started": "2021-09-08",
     "date_updated": "2024-02-19",
@@ -120,21 +189,23 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 8,
-    "date_started": "2024-02-16",
-    "date_updated": "2024-02-18",
-    "description": "Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
-    "forks_count": 50,
-    "html_url": "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "commits_count": 34,
+    "date_started": "2022-05-19",
+    "date_updated": "2024-02-17",
+    "description": "Exploit for CVE-2020-5844 (Pandora FMS v7.0NG.742) - Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/UNICORDev/exploit-CVE-2020-5844",
     "keywords": [
-        "Microsoft remote code execution"
+        "remote code execution vulnerability",
+        "remote code execution exploitation",
+        "remote code execution exploit"
     ],
     "language": "Python",
-    "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
-    "repo_owner": "xaitax",
-    "repotime": "2024-02-18, 22:08:22",
-    "stargazers_count": 248,
-    "watchers_count": 248
+    "repo_name": "exploit-CVE-2020-5844",
+    "repo_owner": "UNICORDev",
+    "repotime": "2024-02-17, 12:50:35",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 41,
@@ -238,6 +309,24 @@
     "repotime": "2024-02-15, 17:46:13",
     "stargazers_count": 1729,
     "watchers_count": 1729
+}
+{
+    "commits_count": 50,
+    "date_started": "2015-06-30",
+    "date_updated": "2024-02-15",
+    "description": "My collection of exploit development skeletons for fuzzing, overwriting the stack, remote code execution, etc.",
+    "forks_count": 7,
+    "html_url": "https://github.com/shipcod3/sploitchits",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Classic ASP",
+    "repo_name": "sploitchits",
+    "repo_owner": "shipcod3",
+    "repotime": "2024-02-15, 19:00:48",
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 189,
