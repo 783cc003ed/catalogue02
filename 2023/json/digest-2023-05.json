@@ -318,7 +318,7 @@
     "date_started": "2022-02-01",
     "date_updated": "2023-05-24",
     "description": "Exploits and reports for CVE-2023-32162",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/LucaBarile/ZDI-CAN-16318",
     "keywords": [
         "0day vulnerability",
@@ -614,6 +614,23 @@
     "repo_name": "XML-external-entity-XXE-injection",
     "repo_owner": "Llam-a",
     "repotime": "2023-05-17, 20:00:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-05-11",
+    "date_updated": "2023-05-16",
+    "description": "Baron SameEdit Heap Overflow LPE 1-Day Exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/mutur4/CVE-2021-3156",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2021-3156",
+    "repo_owner": "mutur4",
+    "repotime": "2023-05-16, 23:53:25",
     "stargazers_count": 0,
     "watchers_count": 0
 }
