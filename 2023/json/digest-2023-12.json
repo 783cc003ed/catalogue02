@@ -1,4 +1,21 @@
 {
+    "commits_count": 3,
+    "date_started": "2023-12-28",
+    "date_updated": "2023-12-30",
+    "description": "Vulnerability of Critical Zero-Day in Barracuda Email Security",
+    "forks_count": 0,
+    "html_url": "https://github.com/vinzel-ops/vuln-barracuda",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vuln-barracuda",
+    "repo_owner": "vinzel-ops",
+    "repotime": "2023-12-30, 20:33:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 275,
     "date_started": "2022-09-03",
     "date_updated": "2023-12-27",
@@ -49,6 +66,23 @@
     "repotime": "2023-12-22, 20:04:39",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 28,
+    "date_started": "2023-11-29",
+    "date_updated": "2023-12-21",
+    "description": "CWE-416 Use-After-Free Vulnerability, Attack and Fix",
+    "forks_count": 0,
+    "html_url": "https://github.com/NVombat/Use-After-Free",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "Use-After-Free",
+    "repo_owner": "NVombat",
+    "repotime": "2023-12-21, 06:43:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 10,
@@ -118,6 +152,23 @@
     "repo_name": "Penetration_Testing",
     "repo_owner": "Cyberscriber",
     "repotime": "2023-12-18, 10:04:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2023-12-18",
+    "date_updated": "2023-12-18",
+    "description": "Expert analyses and high-quality write-ups on current one-day and zero-day vulnerabilities, detailing CVEs for the cybersecurity community. Maintained by the Fire-Null security research collective.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Fire-Null/Write-Ups",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Write-Ups",
+    "repo_owner": "Fire-Null",
+    "repotime": "2023-12-18, 17:24:41",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -216,7 +267,8 @@
     "html_url": "https://github.com/rvizx/CVE-2023-30547",
     "keywords": [
         "sandbox escape exploitation",
-        "sandbox escape vulnerability"
+        "sandbox escape vulnerability",
+        "sandbox escape poc"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-30547",
@@ -234,7 +286,8 @@
     "html_url": "https://github.com/rvizx/VM2-Exploit",
     "keywords": [
         "sandbox escape exploitation",
-        "sandbox escape vulnerability"
+        "sandbox escape vulnerability",
+        "sandbox escape poc"
     ],
     "language": "Python",
     "repo_name": "VM2-Exploit",
