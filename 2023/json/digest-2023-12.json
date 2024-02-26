@@ -16,6 +16,24 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 11,
+    "date_started": "2023-09-15",
+    "date_updated": "2023-12-28",
+    "description": "WPXStrike is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in WordPress",
+    "forks_count": 5,
+    "html_url": "https://github.com/nowak0x01/WPXStrike",
+    "keywords": [
+        "remote code execution vulnerability",
+        "rce vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "WPXStrike",
+    "repo_owner": "nowak0x01",
+    "repotime": "2023-12-28, 12:00:14",
+    "stargazers_count": 46,
+    "watchers_count": 46
+}
+{
     "commits_count": 275,
     "date_started": "2022-09-03",
     "date_updated": "2023-12-27",
@@ -34,6 +52,23 @@
     "watchers_count": 50
 }
 {
+    "commits_count": 5,
+    "date_started": "2023-12-26",
+    "date_updated": "2023-12-26",
+    "description": "PrestaXSRF is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in PrestaShop E-Commerce",
+    "forks_count": 5,
+    "html_url": "https://github.com/nowak0x01/PrestaXSRF",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "PrestaXSRF",
+    "repo_owner": "nowak0x01",
+    "repotime": "2023-12-26, 19:37:02",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
     "commits_count": 11,
     "date_started": "2022-07-30",
     "date_updated": "2023-12-27",
@@ -49,6 +84,23 @@
     "repotime": "2023-12-27, 01:55:33",
     "stargazers_count": 3,
     "watchers_count": 3
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-12-24",
+    "date_updated": "2023-12-24",
+    "description": "Drupalwned is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in Drupal CMS.",
+    "forks_count": 4,
+    "html_url": "https://github.com/nowak0x01/Drupalwned",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Drupalwned",
+    "repo_owner": "nowak0x01",
+    "repotime": "2023-12-24, 16:10:42",
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 18,
@@ -103,6 +155,23 @@
 }
 {
     "commits_count": 4,
+    "date_started": "2023-12-18",
+    "date_updated": "2023-12-19",
+    "description": "JoomSploit is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in Joomla CMS.",
+    "forks_count": 4,
+    "html_url": "https://github.com/nowak0x01/JoomSploit",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "JoomSploit",
+    "repo_owner": "nowak0x01",
+    "repotime": "2023-12-19, 18:22:31",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 4,
     "date_started": "2023-11-28",
     "date_updated": "2023-12-19",
     "description": "Customer Support System 1.0 - Local File Inclusion",
@@ -146,7 +215,8 @@
         "escalation of privileges vulnerability",
         "Windows escalation of privileges exploitation",
         "Windows escalation of privileges exploit",
-        "escalation of privileges exploit"
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
     ],
     "language": null,
     "repo_name": "Penetration_Testing",
@@ -171,6 +241,23 @@
     "repotime": "2023-12-18, 17:24:41",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2023-10-29",
+    "date_updated": "2023-12-18",
+    "description": "MajorDoMo Unauthenticated RCE: Deep Dive &amp;amp; Exploitation Techniques",
+    "forks_count": 4,
+    "html_url": "https://github.com/Chocapikk/CVE-2023-50917",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-50917",
+    "repo_owner": "Chocapikk",
+    "repotime": "2023-12-18, 02:15:27",
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 8,
@@ -249,7 +336,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/ron-imperva/CVE-2023-22524",
     "keywords": [
-        "rce proof of concept"
+        "rce proof of concept",
+        "rce vulnerability"
     ],
     "language": "HTML",
     "repo_name": "CVE-2023-22524",
@@ -339,7 +427,8 @@
     "html_url": "https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE",
     "keywords": [
         "path traversal attack",
-        "path traversal vulnerability"
+        "path traversal vulnerability",
+        "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-50164-Apache-Struts-RCE",
@@ -347,6 +436,23 @@
     "repotime": "2023-12-13, 08:18:08",
     "stargazers_count": 69,
     "watchers_count": 69
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-08-09",
+    "date_updated": "2023-12-13",
+    "description": "ParamFirstCheck identifies in a list of urls those containing a parameter of the top 25 of the most vulnerable parameters for SQLi, LFI, RCE and Open redirect",
+    "forks_count": 11,
+    "html_url": "https://github.com/mathis2001/ParamFirstCheck",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "ParamFirstCheck",
+    "repo_owner": "mathis2001",
+    "repotime": "2023-12-13, 13:39:54",
+    "stargazers_count": 32,
+    "watchers_count": 32
 }
 {
     "commits_count": 4,
@@ -454,8 +560,8 @@
     "repo_name": "LFITester",
     "repo_owner": "kostas-pa",
     "repotime": "2023-12-09, 23:16:01",
-    "stargazers_count": 92,
-    "watchers_count": 92
+    "stargazers_count": 93,
+    "watchers_count": 93
 }
 {
     "commits_count": 14,
@@ -777,8 +883,8 @@
     "repo_name": "remote-code-execution-sample",
     "repo_owner": "shawnmckinney",
     "repotime": "2023-12-03, 11:19:50",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 289,

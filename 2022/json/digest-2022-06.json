@@ -679,7 +679,7 @@
     "date_started": "2022-06-04",
     "date_updated": "2022-06-18",
     "description": "[CVE-2022-26134]Confluence OGNL expression injected RCE with sandbox bypass.",
-    "forks_count": 9,
+    "forks_count": 10,
     "html_url": "https://github.com/SNCKER/CVE-2022-26134",
     "keywords": [
         "rce vulnerability"
@@ -688,8 +688,8 @@
     "repo_name": "CVE-2022-26134",
     "repo_owner": "SNCKER",
     "repotime": "2022-06-18, 17:27:31",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 3,
@@ -852,13 +852,13 @@
     "date_updated": "2022-06-16",
     "description": "Instructions: How to Run? After you finish downloading the project, unzip the project file and head over to your XAMPP directory. There you’ll find a folder naming “htdocs”. Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one). Open your favorite browser; we recommend using Google Chrome or Mozilla Firefox. Then, go to URL “http://localhost/phpmyadmin“. Create a Database with a name that is provided inside the “01 LOGIN DETAILS &amp;amp; PROJECT INFO.txt”. Click on the “Import” tab and choose the database file (.sql) which is provided under the folder naming “DATABASE FILE”. After setting up all these, go to URL “http://localhost/[ ENTER_PROJECT_FOLDER_NAME_HERE ]“ All the login details are provided inside the project folder, check that out and enter in order to use it. And there you have it, a full setup of the Online Exam System Project in PHP. For this particular PHP project, PHP Version 5.6.3 or 7.4.12 is required because the project might not ...",
     "forks_count": 0,
-    "html_url": "https://github.com/pravinpandey721/online_exam_system",
+    "html_url": "https://github.com/pravinpandey1410/online_exam_system",
     "keywords": [
         "Chrome use after free"
     ],
     "language": "PHP",
     "repo_name": "online_exam_system",
-    "repo_owner": "pravinpandey721",
+    "repo_owner": "pravinpandey1410",
     "repotime": "2022-06-16, 01:13:00",
     "stargazers_count": 1,
     "watchers_count": 1
@@ -1372,8 +1372,8 @@
     "repo_name": "PoC-CVE-2022-30190",
     "repo_owner": "JMousqueton",
     "repotime": "2022-06-05, 23:06:11",
-    "stargazers_count": 151,
-    "watchers_count": 151
+    "stargazers_count": 155,
+    "watchers_count": 155
 }
 {
     "commits_count": 5,

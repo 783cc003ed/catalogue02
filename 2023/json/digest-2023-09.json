@@ -103,23 +103,6 @@
     "watchers_count": 78
 }
 {
-    "commits_count": 6,
-    "date_started": "2023-09-15",
-    "date_updated": "2023-09-27",
-    "description": "WPXStrike is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in WordPress",
-    "forks_count": 0,
-    "html_url": "https://github.com/nowak0x01/WPXStrike",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": "JavaScript",
-    "repo_name": "WPXStrike",
-    "repo_owner": "nowak0x01",
-    "repotime": "2023-09-27, 11:43:00",
-    "stargazers_count": 19,
-    "watchers_count": 19
-}
-{
     "commits_count": 2,
     "date_started": "2023-09-26",
     "date_updated": "2023-09-26",
@@ -434,8 +417,8 @@
     "repo_name": "godnslog",
     "repo_owner": "chennqqi",
     "repotime": "2023-09-16, 22:39:13",
-    "stargazers_count": 463,
-    "watchers_count": 463
+    "stargazers_count": 466,
+    "watchers_count": 466
 }
 {
     "commits_count": 10,
@@ -730,7 +713,7 @@
     "date_started": "2023-05-01",
     "date_updated": "2023-09-11",
     "description": "This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer.",
-    "forks_count": 6,
+    "forks_count": 8,
     "html_url": "https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22",
     "keywords": [
         "rce exploitation"
@@ -739,8 +722,8 @@
     "repo_name": "CVE-2022-46169-CACTI-1.2.22",
     "repo_owner": "FredBrave",
     "repotime": "2023-09-11, 12:56:27",
-    "stargazers_count": 33,
-    "watchers_count": 33
+    "stargazers_count": 35,
+    "watchers_count": 35
 }
 {
     "commits_count": 11,
@@ -880,7 +863,7 @@
     "date_started": "2022-06-25",
     "date_updated": "2023-09-09",
     "description": "Vulnerable Client-Server Application (VuCSA) is made for learning how to perform penetration tests of non-http thick clients. It is written in Java (with JavaFX graphical user interface) and contains multiple challenges including SQL injection, RCE, XML vulnerabilities and more.",
-    "forks_count": 25,
+    "forks_count": 27,
     "html_url": "https://github.com/Warxim/vucsa",
     "keywords": [
         "rce vulnerability"
@@ -889,8 +872,8 @@
     "repo_name": "vucsa",
     "repo_owner": "Warxim",
     "repotime": "2023-09-09, 18:19:07",
-    "stargazers_count": 87,
-    "watchers_count": 87
+    "stargazers_count": 90,
+    "watchers_count": 90
 }
 {
     "commits_count": 69,
