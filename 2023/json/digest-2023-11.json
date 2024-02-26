@@ -16,25 +16,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 52,
-    "date_started": "2023-08-18",
-    "date_updated": "2023-11-30",
-    "description": "实战场景较通用的 Java Rce 相关漏洞的利用方式 | Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios",
-    "forks_count": 13,
-    "html_url": "https://github.com/Whoopsunix/JavaRce",
-    "keywords": [
-        "rce vulnerability",
-        "rce exploitation",
-        "rce exploit"
-    ],
-    "language": "Java",
-    "repo_name": "JavaRce",
-    "repo_owner": "Whoopsunix",
-    "repotime": "2023-11-30, 23:55:50",
-    "stargazers_count": 176,
-    "watchers_count": 176
-}
-{
     "commits_count": 1,
     "date_started": "2023-11-30",
     "date_updated": "2023-11-30",
@@ -68,23 +49,6 @@
     "repotime": "2023-11-30, 08:32:25",
     "stargazers_count": 995,
     "watchers_count": 995
-}
-{
-    "commits_count": 21,
-    "date_started": "2023-11-24",
-    "date_updated": "2023-11-29",
-    "description": "Binary Exploitation Skill. Gain RCE from arbitrary write.",
-    "forks_count": 7,
-    "html_url": "https://github.com/n132/Libc-GOT-Hijacking",
-    "keywords": [
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "Libc-GOT-Hijacking",
-    "repo_owner": "n132",
-    "repotime": "2023-11-29, 19:57:07",
-    "stargazers_count": 125,
-    "watchers_count": 125
 }
 {
     "commits_count": 6,
@@ -1131,17 +1095,18 @@
     "date_started": "2023-11-10",
     "date_updated": "2023-11-09",
     "description": "This repository is a tool to create a .suo that when run by visual studio's will achieve code execution",
-    "forks_count": 16,
+    "forks_count": 17,
     "html_url": "https://github.com/moom825/visualstudio-suo-exploit",
     "keywords": [
-        "rce poc"
+        "rce poc",
+        "rce exploit"
     ],
     "language": "C#",
     "repo_name": "visualstudio-suo-exploit",
     "repo_owner": "moom825",
     "repotime": "2023-11-09, 19:42:05",
-    "stargazers_count": 75,
-    "watchers_count": 75
+    "stargazers_count": 82,
+    "watchers_count": 82
 }
 {
     "commits_count": 10,

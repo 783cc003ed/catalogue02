@@ -338,7 +338,8 @@
     "forks_count": 19,
     "html_url": "https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE",
     "keywords": [
-        "path traversal attack"
+        "path traversal attack",
+        "path traversal vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-50164-Apache-Struts-RCE",
@@ -535,7 +536,8 @@
     "keywords": [
         "0day exploitation",
         "0day exploit",
-        "rce exploitation"
+        "rce exploitation",
+        "rce exploit"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-47246-EXP",
@@ -672,6 +674,23 @@
     "repotime": "2023-12-05, 17:50:58",
     "stargazers_count": 260,
     "watchers_count": 260
+}
+{
+    "commits_count": 40,
+    "date_started": "2023-12-03",
+    "date_updated": "2023-12-05",
+    "description": "Vulnerable application that implements the following vulnerabilities: XSS, IDOR, SQL Injection, OS command injection, Path Traversal, Brute Force",
+    "forks_count": 0,
+    "html_url": "https://github.com/Oyagee/VulnApp",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "VulnApp",
+    "repo_owner": "Oyagee",
+    "repotime": "2023-12-05, 12:55:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 121,

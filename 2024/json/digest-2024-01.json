@@ -16,6 +16,25 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 74,
+    "date_started": "2023-08-18",
+    "date_updated": "2024-01-30",
+    "description": "实战场景较通用的 Java Rce 相关漏洞的利用方式 | Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios",
+    "forks_count": 29,
+    "html_url": "https://github.com/Whoopsunix/JavaRce",
+    "keywords": [
+        "rce vulnerability",
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "JavaRce",
+    "repo_owner": "Whoopsunix",
+    "repotime": "2024-01-30, 10:03:36",
+    "stargazers_count": 249,
+    "watchers_count": 249
+}
+{
     "commits_count": 9,
     "date_started": "2022-04-21",
     "date_updated": "2024-01-28",
@@ -154,23 +173,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 38,
-    "date_started": "2023-10-09",
-    "date_updated": "2024-01-26",
-    "description": "Proof of Concept for RCE and information leakage on vulnerable AXIS Network Cameras",
-    "forks_count": 0,
-    "html_url": "https://github.com/mascencerro/axis-rce",
-    "keywords": [
-        "rce proof of concept"
-    ],
-    "language": "Python",
-    "repo_name": "axis-rce",
-    "repo_owner": "mascencerro",
-    "repotime": "2024-01-26, 14:44:57",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 56,
     "date_started": "2018-07-18",
     "date_updated": "2024-01-26",
@@ -275,6 +277,25 @@
     "watchers_count": 3
 }
 {
+    "commits_count": 25,
+    "date_started": "2023-10-01",
+    "date_updated": "2024-01-20",
+    "description": "functions to exploit common web application vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Server-Side Request Forgery (SSRF), and Path Traversal.",
+    "forks_count": 6,
+    "html_url": "https://github.com/AiGptCode/Ai-Security-URL",
+    "keywords": [
+        "cross-side-scripting",
+        "server side request forgery",
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Ai-Security-URL",
+    "repo_owner": "AiGptCode",
+    "repotime": "2024-01-20, 15:31:10",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
     "commits_count": 1,
     "date_started": "2024-01-20",
     "date_updated": "2024-01-20",
@@ -356,7 +377,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/sunnyvale-it/CVE-2023-50164-PoC",
     "keywords": [
-        "rce proof of concept"
+        "rce proof of concept",
+        "path traversal vulnerability"
     ],
     "language": "Java",
     "repo_name": "CVE-2023-50164-PoC",
@@ -364,6 +386,23 @@
     "repotime": "2024-01-16, 14:05:51",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-01-14",
+    "date_updated": "2024-01-14",
+    "description": "Exploiting the FileBackupProvider of the Sieve application through the Path Traversal vulnerability and displaying the content of the internal database.",
+    "forks_count": 0,
+    "html_url": "https://github.com/muhammed9865/sieve-PT-exploitation",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Kotlin",
+    "repo_name": "sieve-PT-exploitation",
+    "repo_owner": "muhammed9865",
+    "repotime": "2024-01-14, 20:28:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 2,
@@ -432,6 +471,23 @@
     "repotime": "2024-01-09, 13:59:08",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-01-08",
+    "date_updated": "2024-01-08",
+    "description": "Public disclosure of Ivanti's Avalanche Path Traversal vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/JBalanza/CVE-2023-41474",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-41474",
+    "repo_owner": "JBalanza",
+    "repotime": "2024-01-08, 09:46:08",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 16,
