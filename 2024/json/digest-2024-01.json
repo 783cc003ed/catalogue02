@@ -328,6 +328,23 @@
     "watchers_count": 3
 }
 {
+    "commits_count": 2,
+    "date_started": "2024-01-06",
+    "date_updated": "2024-01-23",
+    "description": "Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit",
+    "forks_count": 0,
+    "html_url": "https://github.com/LucasPDiniz/CVE-2021-4034",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-4034",
+    "repo_owner": "LucasPDiniz",
+    "repotime": "2024-01-23, 01:05:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2024-01-22",
     "date_updated": "2024-01-22",
@@ -602,7 +619,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT",
     "keywords": [
-        "remote code execution exploitation"
+        "remote code execution exploitation",
+        "remote code execution exploit"
     ],
     "language": "Python",
     "repo_name": "CVE-2019-15107-EXPLOIT",
