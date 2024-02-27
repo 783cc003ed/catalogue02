@@ -121,6 +121,23 @@
     "watchers_count": 81
 }
 {
+    "commits_count": 30,
+    "date_started": "2020-12-01",
+    "date_updated": "2024-02-25",
+    "description": "《深入理解WEB漏洞之SSRF漏洞》Server-Side Request Forgery.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ASTTeam/SSRF",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "SSRF",
+    "repo_owner": "ASTTeam",
+    "repotime": "2024-02-25, 19:05:40",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 2,
     "date_started": "2024-02-25",
     "date_updated": "2024-02-24",
@@ -128,7 +145,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/BLACKpwn/Remote_Code_Execution-",
     "keywords": [
-        "Windows rce"
+        "Windows rce",
+        "Microsoft rce"
     ],
     "language": "Python",
     "repo_name": "Remote_Code_Execution-",
@@ -219,8 +237,8 @@
     "repo_name": "blackjump",
     "repo_owner": "tarimoe",
     "repotime": "2024-02-20, 17:03:22",
-    "stargazers_count": 127,
-    "watchers_count": 127
+    "stargazers_count": 128,
+    "watchers_count": 128
 }
 {
     "commits_count": 9,
@@ -239,6 +257,23 @@
     "repotime": "2024-02-19, 21:00:35",
     "stargazers_count": 488,
     "watchers_count": 488
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-02-19",
+    "date_updated": "2024-02-19",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ares-Judda/CWE-918-Server-Side-Request-Forgery-SSRF-",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "CWE-918-Server-Side-Request-Forgery-SSRF-",
+    "repo_owner": "Ares-Judda",
+    "repotime": "2024-02-19, 08:37:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 2,
@@ -377,6 +412,57 @@
     "repotime": "2024-02-16, 15:53:44",
     "stargazers_count": 1460,
     "watchers_count": 1460
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-02-16",
+    "date_updated": "2024-02-16",
+    "description": "CVE-2023-25203: Application Vulnerable to SSRF (Server Side Request Forgery) Attacks",
+    "forks_count": 0,
+    "html_url": "https://github.com/Trackflaw/CVE-2023-25203",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-25203",
+    "repo_owner": "Trackflaw",
+    "repotime": "2024-02-16, 09:50:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-02-16",
+    "date_updated": "2024-02-15",
+    "description": "Instrucciones. Elaborar una aplicación de consola en C++ que permita ejemplificar la vulnerabilidad falsificación de solicitudes del lado del servidor (Server-Side Request Forgery, SSRF) en equipos Windows.",
+    "forks_count": 0,
+    "html_url": "https://github.com/danieltlachy/PracticaCWE-918",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "C++",
+    "repo_name": "PracticaCWE-918",
+    "repo_owner": "danieltlachy",
+    "repotime": "2024-02-15, 23:02:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-02-16",
+    "date_updated": "2024-02-15",
+    "description": "En este repositorio se podrá encontrar el código correspondiente a la práctica realizada sobre el ataque Server-Side Request Forgery (SSRF).",
+    "forks_count": 0,
+    "html_url": "https://github.com/MiriamRZ03/CWE-918",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "C++",
+    "repo_name": "CWE-918",
+    "repo_owner": "MiriamRZ03",
+    "repotime": "2024-02-15, 21:50:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 26,

@@ -33,6 +33,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 1,
+    "date_started": "2023-12-29",
+    "date_updated": "2023-12-29",
+    "description": "Server-Side Request Forgery exploit for Request Baskets up to version 1.2.1",
+    "forks_count": 0,
+    "html_url": "https://github.com/mathias-mrsn/request-baskets-v121-ssrf",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "request-baskets-v121-ssrf",
+    "repo_owner": "mathias-mrsn",
+    "repotime": "2023-12-29, 22:10:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2,
     "date_started": "2023-12-29",
     "date_updated": "2023-12-29",
@@ -360,6 +377,23 @@
     "repo_name": "Write-Ups",
     "repo_owner": "Fire-Null",
     "repotime": "2023-12-18, 17:24:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-09-18",
+    "date_updated": "2023-12-18",
+    "description": "Project Miaow is a prove of concept to escalate privileges in Microsoft Azure using an ARM template deployment",
+    "forks_count": 1,
+    "html_url": "https://github.com/SecureHats/miaow",
+    "keywords": [
+        "Microsoft escalation of privileges"
+    ],
+    "language": "PowerShell",
+    "repo_name": "miaow",
+    "repo_owner": "SecureHats",
+    "repotime": "2023-12-18, 10:47:04",
     "stargazers_count": 0,
     "watchers_count": 0
 }

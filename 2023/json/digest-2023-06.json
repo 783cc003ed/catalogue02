@@ -679,7 +679,7 @@
     "date_started": "2022-08-26",
     "date_updated": "2023-06-13",
     "description": "This repository contains a sample Java application vulnerable to command injection and server-side request forgery (SSRF).",
-    "forks_count": 9,
+    "forks_count": 21,
     "html_url": "https://github.com/DataDog/vulnerable-java-application",
     "keywords": [
         "server side request forgery"
@@ -688,8 +688,8 @@
     "repo_name": "vulnerable-java-application",
     "repo_owner": "DataDog",
     "repotime": "2023-06-13, 11:47:51",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 4,
@@ -730,7 +730,7 @@
     "date_started": "2023-06-12",
     "date_updated": "2023-06-12",
     "description": " This repository contains a Python script that checks WordPress websites for the CVE-2022-3590 vulnerability, which exploits an unauthenticated blind Server-Side Request Forgery (SSRF) in the WordPress pingback feature.",
-    "forks_count": 2,
+    "forks_count": 3,
     "html_url": "https://github.com/hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner",
     "keywords": [
         "server side request forgery"
@@ -739,8 +739,8 @@
     "repo_name": "CVE-2022-3590-WordPress-Vulnerability-Scanner",
     "repo_owner": "hxlxmjxbbxs",
     "repotime": "2023-06-12, 14:25:51",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 10,

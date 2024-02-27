@@ -140,7 +140,7 @@
     "date_started": "2023-07-11",
     "date_updated": "2023-07-29",
     "description": "Proof-of-Concept for Server Side Request Forgery (SSRF) in request-baskets (&amp;lt;= v.1.2.1)",
-    "forks_count": 4,
+    "forks_count": 5,
     "html_url": "https://github.com/entr0pie/CVE-2023-27163",
     "keywords": [
         "server side request forgery"
@@ -149,8 +149,8 @@
     "repo_name": "CVE-2023-27163",
     "repo_owner": "entr0pie",
     "repotime": "2023-07-29, 15:48:19",
-    "stargazers_count": 25,
-    "watchers_count": 25
+    "stargazers_count": 27,
+    "watchers_count": 27
 }
 {
     "commits_count": 3,
@@ -915,23 +915,6 @@
     "repotime": "2023-07-09, 23:16:58",
     "stargazers_count": 7,
     "watchers_count": 7
-}
-{
-    "commits_count": 67,
-    "date_started": "2015-06-29",
-    "date_updated": "2023-07-08",
-    "description": "a nice code injection engine for Wii games",
-    "forks_count": 9,
-    "html_url": "https://github.com/Treeki/Kamek",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "C#",
-    "repo_name": "Kamek",
-    "repo_owner": "Treeki",
-    "repotime": "2023-07-08, 23:54:45",
-    "stargazers_count": 58,
-    "watchers_count": 58
 }
 {
     "commits_count": 5,
