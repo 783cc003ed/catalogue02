@@ -1,4 +1,21 @@
 {
+    "commits_count": 237,
+    "date_started": "2021-08-24",
+    "date_updated": "2024-01-31",
+    "description": "Protect untrusted requests from SSRF",
+    "forks_count": 3,
+    "html_url": "https://github.com/hanover-computing/got-ssrf",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "TypeScript",
+    "repo_name": "got-ssrf",
+    "repo_owner": "hanover-computing",
+    "repotime": "2024-01-31, 18:25:14",
+    "stargazers_count": 46,
+    "watchers_count": 46
+}
+{
     "commits_count": 2,
     "date_started": "2024-01-31",
     "date_updated": "2024-01-31",
@@ -494,6 +511,24 @@
     "watchers_count": 167
 }
 {
+    "commits_count": 33,
+    "date_started": "2023-09-02",
+    "date_updated": "2024-01-19",
+    "description": "an exploit of Server-side request forgery (SSRF)",
+    "forks_count": 8,
+    "html_url": "https://github.com/errorfiathck/ssrf-exploit",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "ssrf-exploit",
+    "repo_owner": "errorfiathck",
+    "repotime": "2024-01-19, 20:28:45",
+    "stargazers_count": 38,
+    "watchers_count": 38
+}
+{
     "commits_count": 72,
     "date_started": "2015-06-29",
     "date_updated": "2024-01-17",
@@ -801,6 +836,23 @@
     "repotime": "2024-01-06, 13:29:02",
     "stargazers_count": 2517,
     "watchers_count": 2517
+}
+{
+    "commits_count": 95,
+    "date_started": "2023-05-22",
+    "date_updated": "2024-01-06",
+    "description": "NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications",
+    "forks_count": 144,
+    "html_url": "https://github.com/0xKayala/NucleiFuzzer",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Shell",
+    "repo_name": "NucleiFuzzer",
+    "repo_owner": "0xKayala",
+    "repotime": "2024-01-06, 16:43:17",
+    "stargazers_count": 952,
+    "watchers_count": 952
 }
 {
     "commits_count": 2,

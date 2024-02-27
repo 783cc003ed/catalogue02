@@ -578,7 +578,7 @@
     "date_started": "2020-07-08",
     "date_updated": "2020-07-07",
     "description": "PYTHON CODE WALKTHROUGH Data Sourcing In order to run a discounted cash flow model (DCF), I needed data, so I found a free API that provided us with everything I needed. I wrote a code that saved every financial statement of every company in a separate text file. In this code, I asked to ping the API’s URL for every ticker, open a text file for one of the financial statements for one company ticker, dump all the data found by the code into this file, and close it. This process was repeated for every company in our company list and every statement I have a code for. By doing so I Ire able to store the data for every company locally and did not need to ping the API every time I ran our code. Once all the financial data for each company was stored in form of a balance sheet, income statement, cash flow statement, and company profile text file, I needed to pick out specific items required for our DCF model. Thus, I defined the functions that selected all required items from the respective ...",
-    "forks_count": 4,
+    "forks_count": 5,
     "html_url": "https://github.com/Nikkitaseth/ProjectAlpha",
     "keywords": [
         "Windows use after free"
@@ -587,8 +587,8 @@
     "repo_name": "ProjectAlpha",
     "repo_owner": "Nikkitaseth",
     "repotime": "2020-07-07, 23:52:50",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 7,
