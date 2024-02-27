@@ -163,7 +163,8 @@
     "html_url": "https://github.com/BLACKpwn/Remote_Code_Execution-",
     "keywords": [
         "Windows rce",
-        "Microsoft rce"
+        "Microsoft rce",
+        "Windows remote code execution"
     ],
     "language": "Python",
     "repo_name": "Remote_Code_Execution-",
@@ -188,6 +189,23 @@
     "repotime": "2024-02-24, 18:36:22",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 149,
+    "date_started": "2024-02-22",
+    "date_updated": "2024-02-22",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/ek3nk4r/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": null,
+    "repo_name": "Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+    "repo_owner": "ek3nk4r",
+    "repotime": "2024-02-22, 10:48:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 8,
@@ -659,7 +677,7 @@
     "date_started": "2021-02-26",
     "date_updated": "2024-02-11",
     "description": "Local File Inclusion discovery and exploitation tool",
-    "forks_count": 26,
+    "forks_count": 27,
     "html_url": "https://github.com/hansmach1ne/LFImap",
     "keywords": [
         "lfi",
@@ -884,6 +902,23 @@
     "repotime": "2024-02-03, 05:33:57",
     "stargazers_count": 474,
     "watchers_count": 474
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-02-02",
+    "date_updated": "2024-02-02",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/franciscogneto/Windows-2016-Server-Remote-Code-Execution-MS17-010",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Windows-2016-Server-Remote-Code-Execution-MS17-010",
+    "repo_owner": "franciscogneto",
+    "repotime": "2024-02-02, 16:33:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 2,
