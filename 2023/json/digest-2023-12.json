@@ -86,6 +86,24 @@
     "watchers_count": 3
 }
 {
+    "commits_count": 8,
+    "date_started": "2023-11-29",
+    "date_updated": "2023-12-25",
+    "description": "MicroWeber Unauthenticated User Database Disclosure - CVE-2020-13405",
+    "forks_count": 1,
+    "html_url": "https://github.com/mrnazu/CVE-2020-13405",
+    "keywords": [
+        "unauthenticated disclosure",
+        "unauthenticated user"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2020-13405",
+    "repo_owner": "mrnazu",
+    "repotime": "2023-12-25, 17:33:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 5,
     "date_started": "2023-12-24",
     "date_updated": "2023-12-24",
@@ -427,7 +445,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/pog007/CVE-2023-5561-PoC",
     "keywords": [
-        "unauthenticated attacker"
+        "unauthenticated attacker",
+        "unauthenticated user"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-5561-PoC",
@@ -581,6 +600,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 47,
+    "date_started": "2022-02-06",
+    "date_updated": "2023-12-10",
+    "description": "Quickly check Dockerhub rate (limit) as an unauthenticated user",
+    "forks_count": 0,
+    "html_url": "https://github.com/Allaman/dhrate",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Go",
+    "repo_name": "dhrate",
+    "repo_owner": "Allaman",
+    "repotime": "2023-12-10, 08:17:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 1,
     "date_started": "2023-12-10",
     "date_updated": "2023-12-10",
@@ -631,6 +667,23 @@
     "repotime": "2023-12-09, 06:28:13",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 34,
+    "date_started": "2018-07-27",
+    "date_updated": "2023-12-07",
+    "description": "Decorate the ruby CSV library to sanitize output CSV against CSV injection attacks.",
+    "forks_count": 12,
+    "html_url": "https://github.com/zvory/csv-safe",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Ruby",
+    "repo_name": "csv-safe",
+    "repo_owner": "zvory",
+    "repotime": "2023-12-07, 15:29:52",
+    "stargazers_count": 31,
+    "watchers_count": 31
 }
 {
     "commits_count": 871,

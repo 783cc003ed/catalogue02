@@ -35,6 +35,23 @@
     "watchers_count": 249
 }
 {
+    "commits_count": 3,
+    "date_started": "2024-01-29",
+    "date_updated": "2024-01-29",
+    "description": "A solid app with the clean architectural guidelines. Implements the use of dependency injection with Dagger-Hilt, SOLID principles, CSV parsing with OpenCSV, working with remote APIs using Retrofit, local caching with Room, custom drawing on a canvas using Compose, etc",
+    "forks_count": 0,
+    "html_url": "https://github.com/simbastart001/StockMarketApp",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "StockMarketApp",
+    "repo_owner": "simbastart001",
+    "repotime": "2024-01-29, 11:24:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 9,
     "date_started": "2022-04-21",
     "date_updated": "2024-01-28",
@@ -609,8 +626,25 @@
     "repo_name": "LFI-FINDER",
     "repo_owner": "capture0x",
     "repotime": "2024-01-07, 17:51:26",
-    "stargazers_count": 238,
-    "watchers_count": 238
+    "stargazers_count": 250,
+    "watchers_count": 250
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-01-06",
+    "date_updated": "2024-01-06",
+    "description": "This repository features a real-time stock market visualization app, demonstrating dynamic share price graphing. Built with Dagger-Hilt for clean dependency injection, it follows SOLID principles, employs OpenCSV for CSV parsing, uses Retrofit for remote API interaction, and integrates Room for local caching",
+    "forks_count": 0,
+    "html_url": "https://github.com/vivek-kumar12/StockMarketApp",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "StockMarketApp",
+    "repo_owner": "vivek-kumar12",
+    "repotime": "2024-01-06, 22:03:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 405,

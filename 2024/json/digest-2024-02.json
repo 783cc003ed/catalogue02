@@ -86,6 +86,57 @@
     "watchers_count": 606
 }
 {
+    "commits_count": 2,
+    "date_started": "2024-02-25",
+    "date_updated": "2024-02-25",
+    "description": "ManageEngine Application Manager 12 suffers from a blind SQLi vulnerability that may be used to gain unauthenticated remote code execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jake123otte1/ManageEngineRCE",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "ManageEngineRCE",
+    "repo_owner": "Jake123otte1",
+    "repotime": "2024-02-25, 18:16:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-02-20",
+    "date_updated": "2024-02-25",
+    "description": "Unauthenticated Remote Code Execution – Bricks &amp;lt;= 1.9.6",
+    "forks_count": 15,
+    "html_url": "https://github.com/Chocapikk/CVE-2024-25600",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-25600",
+    "repo_owner": "Chocapikk",
+    "repotime": "2024-02-25, 22:50:06",
+    "stargazers_count": 81,
+    "watchers_count": 81
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-02-25",
+    "date_updated": "2024-02-24",
+    "description": "CVE-2020-10189:  Microsoft Windows SMBv3 Remote Code Execution (RCE) ",
+    "forks_count": 0,
+    "html_url": "https://github.com/BLACKpwn/Remote_Code_Execution-",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "Python",
+    "repo_name": "Remote_Code_Execution-",
+    "repo_owner": "BLACKpwn",
+    "repotime": "2024-02-24, 22:58:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 6,
     "date_started": "2024-02-23",
     "date_updated": "2024-02-24",
@@ -101,6 +152,23 @@
     "repotime": "2024-02-24, 18:36:22",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-02-22",
+    "date_updated": "2024-02-22",
+    "description": "This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-25600-Bricks-Builder-plugin-for-WordPress",
+    "repo_owner": "Tornad0007",
+    "repotime": "2024-02-22, 03:27:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -185,6 +253,23 @@
     "repo_name": "Local-File-Inclusion-LFI-",
     "repo_owner": "ethicalhackersworld",
     "repotime": "2024-02-19, 07:45:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 28,
+    "date_started": "2024-02-18",
+    "date_updated": "2024-02-19",
+    "description": "CVE-2023-36845 – Unauthenticated Juniper Remote Code Execution Vulnerability Scanner",
+    "forks_count": 1,
+    "html_url": "https://github.com/e11i0t4lders0n/CVE-2023-36845",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2023-36845",
+    "repo_owner": "e11i0t4lders0n",
+    "repotime": "2024-02-19, 00:14:03",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -329,6 +414,41 @@
     "watchers_count": 18
 }
 {
+    "commits_count": 2,
+    "date_started": "2024-02-14",
+    "date_updated": "2024-02-13",
+    "description": "A simple Heap-based Buffer Overflow(with RCE) POC for Windows.",
+    "forks_count": 0,
+    "html_url": "https://github.com/x256-64/heapOverflow-win32-no-cfg",
+    "keywords": [
+        "Windows rce",
+        "Windows rce poc"
+    ],
+    "language": "C++",
+    "repo_name": "heapOverflow-win32-no-cfg",
+    "repo_owner": "x256-64",
+    "repotime": "2024-02-13, 20:34:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1162,
+    "date_started": "2016-12-09",
+    "date_updated": "2024-02-13",
+    "description": "This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can be declaratively extended by additional operations, which can be used to reassemble and execute the existing functionalities according to project-specific requirements. But also completely new commands can be integrated quickly and easily via dependency injection.",
+    "forks_count": 17,
+    "html_url": "https://github.com/techdivision/import-cli-simple",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "PHP",
+    "repo_name": "import-cli-simple",
+    "repo_owner": "techdivision",
+    "repotime": "2024-02-13, 11:49:43",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
     "commits_count": 189,
     "date_started": "2013-08-03",
     "date_updated": "2024-02-13",
@@ -344,6 +464,23 @@
     "repotime": "2024-02-13, 12:04:29",
     "stargazers_count": 167,
     "watchers_count": 167
+}
+{
+    "commits_count": 27,
+    "date_started": "2024-02-01",
+    "date_updated": "2024-02-12",
+    "description": "Keep track of everything - in style! Database solution for authenticated users, and local storage solution for unauthenticated users.",
+    "forks_count": 0,
+    "html_url": "https://github.com/paradimes/todolist",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "todolist",
+    "repo_owner": "paradimes",
+    "repotime": "2024-02-12, 23:01:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 9,
