@@ -300,7 +300,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/adminlove520/CVE-2023-22527",
     "keywords": [
-        "remote code execution poc"
+        "remote code execution poc",
+        "remote code execution vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-22527",
@@ -361,6 +362,23 @@
     "repotime": "2024-01-24, 13:44:29",
     "stargazers_count": 11,
     "watchers_count": 11
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-01-06",
+    "date_updated": "2024-01-23",
+    "description": "CVE-2023-52251 There is a Remote Code Execution vulnerability provectus/kafka-ui.",
+    "forks_count": 0,
+    "html_url": "https://github.com/BobTheShoplifter/CVE-2023-52251-POC",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2023-52251-POC",
+    "repo_owner": "BobTheShoplifter",
+    "repotime": "2024-01-23, 20:06:14",
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 10,
@@ -769,6 +787,23 @@
     "repo_name": "ESP32-UART_RCE",
     "repo_owner": "Jayers0",
     "repotime": "2024-01-14, 04:58:46",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-01-08",
+    "date_updated": "2024-01-13",
+    "description": "phpunit vulnerability | Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/haxorstars/phpunit-rce",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "phpunit-rce",
+    "repo_owner": "haxorstars",
+    "repotime": "2024-01-13, 17:49:58",
     "stargazers_count": 1,
     "watchers_count": 1
 }
