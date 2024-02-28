@@ -293,6 +293,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 4,
+    "date_started": "2024-01-25",
+    "date_updated": "2024-01-25",
+    "description": "CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC",
+    "forks_count": 0,
+    "html_url": "https://github.com/adminlove520/CVE-2023-22527",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-22527",
+    "repo_owner": "adminlove520",
+    "repotime": "2024-01-25, 18:22:13",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
     "commits_count": 766,
     "date_started": "2024-01-15",
     "date_updated": "2024-01-24",
@@ -336,7 +353,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/Avento/CVE-2023-22527_Confluence_RCE",
     "keywords": [
-        "rce vulnerability"
+        "rce vulnerability",
+        "remote code execution poc"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-22527_Confluence_RCE",
@@ -614,6 +632,23 @@
     "watchers_count": 7
 }
 {
+    "commits_count": 7,
+    "date_started": "2024-01-17",
+    "date_updated": "2024-01-17",
+    "description": "CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC",
+    "forks_count": 4,
+    "html_url": "https://github.com/ga0we1/CVE-2023-22527_Confluence_RCE",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-22527_Confluence_RCE",
+    "repo_owner": "ga0we1",
+    "repotime": "2024-01-17, 15:12:18",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 1,
     "date_started": "2024-01-16",
     "date_updated": "2024-01-16",
@@ -647,6 +682,23 @@
     "repotime": "2024-01-16, 14:05:51",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-08-25",
+    "date_updated": "2024-01-15",
+    "description": "A PoC exploit for CVE-2021-42013 - Apache 2.4.49 &amp;amp; 2.4.50 Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-42013-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-01-15, 11:01:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 3,
@@ -759,7 +811,8 @@
     "html_url": "https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT",
     "keywords": [
         "remote code execution exploitation",
-        "remote code execution exploit"
+        "remote code execution exploit",
+        "remote code execution poc"
     ],
     "language": "Python",
     "repo_name": "CVE-2019-15107-EXPLOIT",
