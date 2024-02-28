@@ -1974,7 +1974,7 @@
     "date_started": "2022-09-05",
     "date_updated": "2022-09-06",
     "description": " Bypass UAC on Windows 10/11 x64 using ms-settings DelegateExecute registry key.",
-    "forks_count": 9,
+    "forks_count": 12,
     "html_url": "https://github.com/hackerhouse-opensource/MsSettingsDelegateExecute",
     "keywords": [
         "uac bypass"
@@ -1983,8 +1983,8 @@
     "repo_name": "MsSettingsDelegateExecute",
     "repo_owner": "hackerhouse-opensource",
     "repotime": "2022-09-06, 09:06:46",
-    "stargazers_count": 74,
-    "watchers_count": 74
+    "stargazers_count": 76,
+    "watchers_count": 76
 }
 {
     "commits_count": 5,
@@ -2008,7 +2008,7 @@
     "date_started": "2022-09-05",
     "date_updated": "2022-09-06",
     "description": "Bypass UAC elevation on Windows 8 (build 9600) &amp;amp; above.",
-    "forks_count": 10,
+    "forks_count": 12,
     "html_url": "https://github.com/hackerhouse-opensource/envschtasksuacbypass",
     "keywords": [
         "uac bypass"
@@ -2017,15 +2017,15 @@
     "repo_name": "envschtasksuacbypass",
     "repo_owner": "hackerhouse-opensource",
     "repotime": "2022-09-06, 08:21:42",
-    "stargazers_count": 53,
-    "watchers_count": 53
+    "stargazers_count": 54,
+    "watchers_count": 54
 }
 {
     "commits_count": 3,
     "date_started": "2022-09-05",
     "date_updated": "2022-09-06",
     "description": "Exploits undocumented elevated COM interface ICMLuaUtil via process spoofing to edit registry  then calls ColorDataProxy to trigger UAC bypass. Win 7 &amp;amp; up.",
-    "forks_count": 22,
+    "forks_count": 24,
     "html_url": "https://github.com/hackerhouse-opensource/ColorDataProxyUACBypass",
     "keywords": [
         "uac bypass"
@@ -2034,8 +2034,8 @@
     "repo_name": "ColorDataProxyUACBypass",
     "repo_owner": "hackerhouse-opensource",
     "repotime": "2022-09-06, 08:13:21",
-    "stargazers_count": 131,
-    "watchers_count": 131
+    "stargazers_count": 132,
+    "watchers_count": 132
 }
 {
     "commits_count": 94,

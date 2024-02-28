@@ -1,4 +1,21 @@
 {
+    "commits_count": 237,
+    "date_started": "2021-09-08",
+    "date_updated": "2024-02-28",
+    "description": "Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022",
+    "forks_count": 58,
+    "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Automated-MUlti-UAC-Bypass",
+    "repo_owner": "x0xr00t",
+    "repotime": "2024-02-28, 17:10:14",
+    "stargazers_count": 314,
+    "watchers_count": 314
+}
+{
     "commits_count": 738,
     "date_started": "2022-03-19",
     "date_updated": "2024-02-28",
@@ -287,7 +304,8 @@
     "forks_count": 3,
     "html_url": "https://github.com/ahmetkarakayaoffical/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
     "keywords": [
-        "Microsoft remote code execution vulnerability"
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability"
     ],
     "language": null,
     "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
@@ -406,7 +424,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
     "keywords": [
-        "Microsoft remote code execution vulnerability"
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
@@ -433,22 +452,40 @@
     "watchers_count": 128
 }
 {
+    "commits_count": 4,
+    "date_started": "2024-02-20",
+    "date_updated": "2024-02-20",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/tathagat2000/Winston-Memory-Leak",
+    "keywords": [
+        "Win memory leak"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Winston-Memory-Leak",
+    "repo_owner": "tathagat2000",
+    "repotime": "2024-02-20, 08:52:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 9,
     "date_started": "2024-02-16",
     "date_updated": "2024-02-19",
     "description": "Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
-    "forks_count": 107,
+    "forks_count": 108,
     "html_url": "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
     "keywords": [
         "Microsoft remote code execution",
-        "Microsoft remote code execution vulnerability"
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
     "repo_owner": "xaitax",
     "repotime": "2024-02-19, 21:00:35",
-    "stargazers_count": 488,
-    "watchers_count": 488
+    "stargazers_count": 496,
+    "watchers_count": 496
 }
 {
     "commits_count": 1,
@@ -587,6 +624,23 @@
     "repotime": "2024-02-17, 21:22:29",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-02-16",
+    "date_updated": "2024-02-16",
+    "description": "Collection of UAC Bypass Techniques Weaponized as BOFs",
+    "forks_count": 41,
+    "html_url": "https://github.com/icyguider/UAC-BOF-Bonanza",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "UAC-BOF-Bonanza",
+    "repo_owner": "icyguider",
+    "repotime": "2024-02-16, 09:57:46",
+    "stargazers_count": 293,
+    "watchers_count": 293
 }
 {
     "commits_count": 759,
@@ -852,7 +906,7 @@
     "date_started": "2019-04-19",
     "date_updated": "2024-02-10",
     "description": "Top disclosed reports from HackerOne",
-    "forks_count": 588,
+    "forks_count": 589,
     "html_url": "https://github.com/reddelexc/hackerone-reports",
     "keywords": [
         "xxe",
@@ -862,8 +916,8 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2024-02-10, 19:46:39",
-    "stargazers_count": 3054,
-    "watchers_count": 3054
+    "stargazers_count": 3055,
+    "watchers_count": 3055
 }
 {
     "commits_count": 7,
@@ -1112,6 +1166,23 @@
     "repotime": "2024-02-02, 16:33:48",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-02-01",
+    "date_updated": "2024-02-01",
+    "description": "Directory Traversal attacks are common, allowing the attacker to manipulate the file system structure on the webserver.",
+    "forks_count": 0,
+    "html_url": "https://github.com/YanZengCyberSec/Directory-Traversal-Simulation",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Directory-Traversal-Simulation",
+    "repo_owner": "YanZengCyberSec",
+    "repotime": "2024-02-01, 11:02:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 2,

@@ -333,7 +333,7 @@
     "date_started": "2021-12-20",
     "date_updated": "2021-12-22",
     "description": "Log4j 漏洞本地检测脚本。 Scan all java processes on your host to check whether it's affected by log4j2 remote code execution vulnerability (CVE-2021-45046)",
-    "forks_count": 13,
+    "forks_count": 12,
     "html_url": "https://github.com/lijiejie/log4j2_vul_local_scanner",
     "keywords": [
         "remote code execution vulnerability"
@@ -429,8 +429,8 @@
     "repo_name": "Invoke-WinSATBypass",
     "repo_owner": "b4keSn4ke",
     "repotime": "2021-12-20, 20:49:23",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 9,

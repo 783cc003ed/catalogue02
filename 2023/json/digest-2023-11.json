@@ -467,7 +467,7 @@
     "date_started": "2023-11-17",
     "date_updated": "2023-11-21",
     "description": "全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.",
-    "forks_count": 26,
+    "forks_count": 33,
     "html_url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
     "keywords": [
         "xxe"
@@ -476,8 +476,8 @@
     "repo_name": "CVE-2023-4357-Chrome-XXE",
     "repo_owner": "xcanwin",
     "repotime": "2023-11-21, 18:41:56",
-    "stargazers_count": 149,
-    "watchers_count": 149
+    "stargazers_count": 176,
+    "watchers_count": 176
 }
 {
     "commits_count": 12,
@@ -917,23 +917,6 @@
     "repotime": "2023-11-13, 11:04:45",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 7,
-    "date_started": "2023-11-12",
-    "date_updated": "2023-11-12",
-    "description": "This script leverages CVE-2023046604 (Apache ActiveMQ) to generate a pseudo shell. The vulnerability allows for remote code execution due to unsafe deserialization within the OpenWire protocol.",
-    "forks_count": 2,
-    "html_url": "https://github.com/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2023-46604-ActiveMQ-RCE-pseudoshell",
-    "repo_owner": "duck-sec",
-    "repotime": "2023-11-12, 13:49:27",
-    "stargazers_count": 4,
-    "watchers_count": 4
 }
 {
     "commits_count": 12,

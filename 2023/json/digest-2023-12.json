@@ -67,6 +67,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 8,
+    "date_started": "2023-03-31",
+    "date_updated": "2023-12-29",
+    "description": "This tool is designed to test for file upload and XXE vulnerabilities by poisoning XLSX files.",
+    "forks_count": 5,
+    "html_url": "https://github.com/kljunowsky/XXElixir",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "XXElixir",
+    "repo_owner": "kljunowsky",
+    "repotime": "2023-12-29, 15:54:38",
+    "stargazers_count": 58,
+    "watchers_count": 58
+}
+{
     "commits_count": 11,
     "date_started": "2023-09-15",
     "date_updated": "2023-12-28",
@@ -83,6 +100,25 @@
     "repotime": "2023-12-28, 12:00:14",
     "stargazers_count": 46,
     "watchers_count": 46
+}
+{
+    "commits_count": 170,
+    "date_started": "2017-12-26",
+    "date_updated": "2023-12-28",
+    "description": "Java web common vulnerabilities and security code which is base on springboot and spring security",
+    "forks_count": 594,
+    "html_url": "https://github.com/JoyChou93/java-sec-code",
+    "keywords": [
+        "rce vulnerability",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Java",
+    "repo_name": "java-sec-code",
+    "repo_owner": "JoyChou93",
+    "repotime": "2023-12-28, 19:38:47",
+    "stargazers_count": 2195,
+    "watchers_count": 2195
 }
 {
     "commits_count": 275,
@@ -127,7 +163,8 @@
     "forks_count": 5,
     "html_url": "https://github.com/nowak0x01/PrestaXSRF",
     "keywords": [
-        "rce vulnerability"
+        "rce vulnerability",
+        "remote code execution vulnerability"
     ],
     "language": "JavaScript",
     "repo_name": "PrestaXSRF",
@@ -196,7 +233,8 @@
     "forks_count": 4,
     "html_url": "https://github.com/nowak0x01/Drupalwned",
     "keywords": [
-        "rce vulnerability"
+        "rce vulnerability",
+        "remote code execution vulnerability"
     ],
     "language": "JavaScript",
     "repo_name": "Drupalwned",
@@ -298,7 +336,8 @@
     "forks_count": 4,
     "html_url": "https://github.com/nowak0x01/JoomSploit",
     "keywords": [
-        "rce vulnerability"
+        "rce vulnerability",
+        "remote code execution vulnerability"
     ],
     "language": "JavaScript",
     "repo_name": "JoomSploit",
@@ -689,7 +728,8 @@
     "keywords": [
         "path traversal attack",
         "path traversal vulnerability",
-        "rce vulnerability"
+        "rce vulnerability",
+        "remote code execution vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-50164-Apache-Struts-RCE",
@@ -1264,23 +1304,6 @@
     "repotime": "2023-12-04, 01:08:48",
     "stargazers_count": 1895,
     "watchers_count": 1895
-}
-{
-    "commits_count": 215,
-    "date_started": "2021-09-08",
-    "date_updated": "2023-12-03",
-    "description": "Automated Multi UAC BYPASS for win10|win11|ws2019|ws2022",
-    "forks_count": 38,
-    "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "C#",
-    "repo_name": "Automated-MUlti-UAC-Bypass",
-    "repo_owner": "x0xr00t",
-    "repotime": "2023-12-03, 17:17:11",
-    "stargazers_count": 179,
-    "watchers_count": 179
 }
 {
     "commits_count": 49,

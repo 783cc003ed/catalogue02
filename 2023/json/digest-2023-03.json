@@ -481,7 +481,7 @@
     "date_started": "2023-03-18",
     "date_updated": "2023-03-18",
     "description": "CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell.",
-    "forks_count": 2,
+    "forks_count": 3,
     "html_url": "https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit",
     "keywords": [
         "remote code execution vulnerability",
@@ -491,8 +491,8 @@
     "repo_name": "CVE-2022-22963_Reverse-Shell-Exploit",
     "repo_owner": "J0ey17",
     "repotime": "2023-03-18, 17:17:55",
-    "stargazers_count": 22,
-    "watchers_count": 22
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 19,
@@ -585,7 +585,7 @@
     "date_started": "2020-03-01",
     "date_updated": "2023-03-16",
     "description": "This repository contains various XXE labs set up for different languages and their different parsers. This may alternatively serve as a playground to teach or test with Vulnerability scanners / WAF rules / Secure Configuration settings.",
-    "forks_count": 34,
+    "forks_count": 33,
     "html_url": "https://github.com/HLOverflow/XXE-study",
     "keywords": [
         "xxe"
@@ -594,8 +594,8 @@
     "repo_name": "XXE-study",
     "repo_owner": "HLOverflow",
     "repotime": "2023-03-16, 13:16:59",
-    "stargazers_count": 86,
-    "watchers_count": 86
+    "stargazers_count": 89,
+    "watchers_count": 89
 }
 {
     "commits_count": 4,

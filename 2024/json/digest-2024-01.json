@@ -346,6 +346,40 @@
     "watchers_count": 5
 }
 {
+    "commits_count": 10,
+    "date_started": "2023-11-12",
+    "date_updated": "2024-01-24",
+    "description": "This script leverages CVE-2023046604 (Apache ActiveMQ) to generate a pseudo shell. The vulnerability allows for remote code execution due to unsafe deserialization within the OpenWire protocol.",
+    "forks_count": 5,
+    "html_url": "https://github.com/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46604-ActiveMQ-RCE-pseudoshell",
+    "repo_owner": "duck-sec",
+    "repotime": "2024-01-24, 13:44:29",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-01-23",
+    "date_updated": "2024-01-23",
+    "description": "A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/Manh130902/CVE-2023-22527-POC",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-22527-POC",
+    "repo_owner": "Manh130902",
+    "repotime": "2024-01-23, 19:03:00",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
     "commits_count": 32,
     "date_started": "2024-01-16",
     "date_updated": "2024-01-23",
@@ -354,7 +388,8 @@
     "html_url": "https://github.com/Avento/CVE-2023-22527_Confluence_RCE",
     "keywords": [
         "rce vulnerability",
-        "remote code execution poc"
+        "remote code execution poc",
+        "remote code execution vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-22527_Confluence_RCE",
@@ -371,7 +406,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/ASTTeam/XXE",
     "keywords": [
-        "xml external entity"
+        "xml external entity",
+        "xxe"
     ],
     "language": null,
     "repo_name": "XXE",
@@ -622,7 +658,8 @@
     "forks_count": 4,
     "html_url": "https://github.com/febinrev/slippy-book-exploit",
     "keywords": [
-        "directory traversal vulnerability"
+        "directory traversal vulnerability",
+        "remote code execution vulnerability"
     ],
     "language": "Shell",
     "repo_name": "slippy-book-exploit",
@@ -639,7 +676,8 @@
     "forks_count": 4,
     "html_url": "https://github.com/ga0we1/CVE-2023-22527_Confluence_RCE",
     "keywords": [
-        "remote code execution poc"
+        "remote code execution poc",
+        "remote code execution vulnerability"
     ],
     "language": null,
     "repo_name": "CVE-2023-22527_Confluence_RCE",
@@ -1008,6 +1046,40 @@
     "repotime": "2024-01-03, 01:11:12",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-01-02",
+    "date_updated": "2024-01-02",
+    "description": "CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.",
+    "forks_count": 40,
+    "html_url": "https://github.com/hackerhouse-opensource/Stinger",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Stinger",
+    "repo_owner": "hackerhouse-opensource",
+    "repotime": "2024-01-02, 18:12:18",
+    "stargazers_count": 248,
+    "watchers_count": 248
+}
+{
+    "commits_count": 17,
+    "date_started": "2023-12-30",
+    "date_updated": "2024-01-02",
+    "description": "CIA UAC bypass implementation that utilizes elevated COM object to write to System32 and an auto-elevated process to execute as administrator.",
+    "forks_count": 26,
+    "html_url": "https://github.com/hackerhouse-opensource/Artillery",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "Artillery",
+    "repo_owner": "hackerhouse-opensource",
+    "repotime": "2024-01-02, 18:03:46",
+    "stargazers_count": 165,
+    "watchers_count": 165
 }
 {
     "commits_count": 4,
