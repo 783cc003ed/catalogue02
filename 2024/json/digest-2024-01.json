@@ -495,7 +495,7 @@
     "date_started": "2023-11-01",
     "date_updated": "2024-01-20",
     "description": "exploit for f5-big-ip RCE cve-2023-46747",
-    "forks_count": 38,
+    "forks_count": 39,
     "html_url": "https://github.com/W01fh4cker/CVE-2023-46747-RCE",
     "keywords": [
         "0day exploit",
@@ -507,8 +507,8 @@
     "repo_name": "CVE-2023-46747-RCE",
     "repo_owner": "W01fh4cker",
     "repotime": "2024-01-20, 10:27:51",
-    "stargazers_count": 167,
-    "watchers_count": 167
+    "stargazers_count": 168,
+    "watchers_count": 168
 }
 {
     "commits_count": 33,
@@ -578,6 +578,23 @@
     "repotime": "2024-01-17, 20:20:03",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-01-17",
+    "date_updated": "2024-01-17",
+    "description": " CVE-2023-44451, CVE-2023-52076: RCE Vulnerability affected popular Linux Distros including Mint, Kali, Parrot, Manjaro etc. EPUB File Parsing Directory Traversal Remote Code Execution",
+    "forks_count": 4,
+    "html_url": "https://github.com/febinrev/slippy-book-exploit",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "slippy-book-exploit",
+    "repo_owner": "febinrev",
+    "repotime": "2024-01-17, 16:12:12",
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 1,

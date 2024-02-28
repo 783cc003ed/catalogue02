@@ -467,6 +467,23 @@
     "watchers_count": 42
 }
 {
+    "commits_count": 5,
+    "date_started": "2023-12-17",
+    "date_updated": "2023-12-16",
+    "description": "cve-2001-1473",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xget/cve-2001-1473",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "cve-2001-1473",
+    "repo_owner": "0xget",
+    "repotime": "2023-12-16, 19:37:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 52,
     "date_started": "2023-11-04",
     "date_updated": "2023-12-16",
@@ -597,7 +614,8 @@
     "keywords": [
         "sandbox escape exploitation",
         "sandbox escape vulnerability",
-        "sandbox escape poc"
+        "sandbox escape poc",
+        "sandbox escape exploit"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-30547",
@@ -616,7 +634,8 @@
     "keywords": [
         "sandbox escape exploitation",
         "sandbox escape vulnerability",
-        "sandbox escape poc"
+        "sandbox escape poc",
+        "sandbox escape exploit"
     ],
     "language": "Python",
     "repo_name": "VM2-Exploit",
@@ -718,7 +737,7 @@
     "date_started": "2023-09-28",
     "date_updated": "2023-12-12",
     "description": "Linux &amp;amp; Android Kernel Vulnerability research and exploitation",
-    "forks_count": 2,
+    "forks_count": 3,
     "html_url": "https://github.com/IdanBanani/Linux-Kernel-VR-Exploitation",
     "keywords": [
         "lpe exploitation",
@@ -729,8 +748,8 @@
     "repo_name": "Linux-Kernel-VR-Exploitation",
     "repo_owner": "IdanBanani",
     "repotime": "2023-12-12, 19:53:13",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 1,
@@ -922,6 +941,23 @@
     "repo_name": "Online-Traffic-Offense-Management-System-1.0---Remote-Code-Execution-RCE-Unauthenticated-",
     "repo_owner": "hunkaracar",
     "repotime": "2023-12-09, 06:28:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-12-09",
+    "date_updated": "2023-12-09",
+    "description": "Create tar/zip/tgz/bz2 archives that can exploit directory traversal and symlink vulnerabilities",
+    "forks_count": 0,
+    "html_url": "https://github.com/tarimoe/evilarc-go",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "evilarc-go",
+    "repo_owner": "tarimoe",
+    "repotime": "2023-12-09, 19:16:40",
     "stargazers_count": 0,
     "watchers_count": 0
 }
