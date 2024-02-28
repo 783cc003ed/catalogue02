@@ -173,6 +173,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 21,
+    "date_started": "2019-01-23",
+    "date_updated": "2024-01-28",
+    "description": "  A tool to embed XXE and XSS payloads in docx, odt, pptx, xlsx files (oxml_xxe on steroids)",
+    "forks_count": 85,
+    "html_url": "https://github.com/whitel1st/docem",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "docem",
+    "repo_owner": "whitel1st",
+    "repotime": "2024-01-28, 15:41:50",
+    "stargazers_count": 465,
+    "watchers_count": 465
+}
+{
     "commits_count": 4,
     "date_started": "2024-01-28",
     "date_updated": "2024-01-28",
@@ -1064,6 +1081,23 @@
     "repotime": "2024-01-03, 17:05:19",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2016-12-11",
+    "date_updated": "2024-01-03",
+    "description": "A mini webserver with FTP support for XXE payloads",
+    "forks_count": 61,
+    "html_url": "https://github.com/staaldraad/xxeserv",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Go",
+    "repo_name": "xxeserv",
+    "repo_owner": "staaldraad",
+    "repotime": "2024-01-03, 14:07:24",
+    "stargazers_count": 318,
+    "watchers_count": 318
 }
 {
     "commits_count": 16,
