@@ -405,7 +405,7 @@
     "date_started": "2024-02-23",
     "date_updated": "2024-02-24",
     "description": "Bu betik, Microsoft Outlook'ta keşfedilen ve CVSS değeri 9.8 olan önemli bir güvenlik açığı olan CVE-2024-21413 için bir kavram kanıtı (PoC) sunmaktadır. MonikerLink hatası olarak adlandırılan bu güvenlik açığı, yerel NTLM bilgilerinin potansiyel sızıntısı ve uzaktan kod çalıştırma olasılığı dahil olmak üzere geniş kapsamlı etkilere sahiptir.",
-    "forks_count": 3,
+    "forks_count": 2,
     "html_url": "https://github.com/ahmetkarakayaoffical/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
     "keywords": [
         "Microsoft remote code execution vulnerability",
@@ -606,8 +606,8 @@
     "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
     "repo_owner": "xaitax",
     "repotime": "2024-02-19, 21:00:35",
-    "stargazers_count": 496,
-    "watchers_count": 496
+    "stargazers_count": 498,
+    "watchers_count": 498
 }
 {
     "commits_count": 1,
