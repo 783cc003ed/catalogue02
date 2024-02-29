@@ -935,6 +935,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 7,
+    "date_started": "2023-10-09",
+    "date_updated": "2023-10-11",
+    "description": "This is a script written in Python that allows the exploitation of the Metabase's software security flaw in the described in CVE 2023-38646.",
+    "forks_count": 3,
+    "html_url": "https://github.com/m3m0o/metabase-pre-auth-rce-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "metabase-pre-auth-rce-poc",
+    "repo_owner": "m3m0o",
+    "repotime": "2023-10-11, 17:54:14",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
     "commits_count": 19,
     "date_started": "2021-09-15",
     "date_updated": "2023-10-11",
