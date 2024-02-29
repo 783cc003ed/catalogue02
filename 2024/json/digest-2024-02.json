@@ -86,6 +86,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 1,
+    "date_started": "2024-02-27",
+    "date_updated": "2024-02-27",
+    "description": "Bug Report and Code Refactoring Analysis  Project Name: Notes Application  Bugs Identified:  Mismatch in HTTP methods (GET and POST) in route decorator and HTML form. Incorrect retrieval of note data from form submission. Lack of input validation. Absence of error handling mechanisms.",
+    "forks_count": 0,
+    "html_url": "https://github.com/crystalcodee/Code-Refactoring-and-Bug-Fixing",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "CSS",
+    "repo_name": "Code-Refactoring-and-Bug-Fixing",
+    "repo_owner": "crystalcodee",
+    "repotime": "2024-02-27, 21:06:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 12,
     "date_started": "2023-09-03",
     "date_updated": "2024-02-27",
@@ -426,7 +443,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/EpK1998/Tcp-attacks",
     "keywords": [
-        "session attack"
+        "session attack",
+        "session hijacking attack"
     ],
     "language": null,
     "repo_name": "Tcp-attacks",
