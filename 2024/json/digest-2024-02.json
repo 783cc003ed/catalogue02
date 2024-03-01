@@ -1096,6 +1096,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4718,
+    "date_started": "2017-05-29",
+    "date_updated": "2024-02-11",
+    "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
+    "forks_count": 159,
+    "html_url": "https://github.com/airbus-seclab/bincat",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "OCaml",
+    "repo_name": "bincat",
+    "repo_owner": "airbus-seclab",
+    "repotime": "2024-02-11, 23:18:58",
+    "stargazers_count": 1601,
+    "watchers_count": 1601
+}
+{
     "commits_count": 159,
     "date_started": "2021-02-26",
     "date_updated": "2024-02-11",
