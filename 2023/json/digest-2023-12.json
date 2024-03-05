@@ -125,7 +125,7 @@
     "date_started": "2022-09-03",
     "date_updated": "2023-12-27",
     "description": "Tests URLs for Local File Inclusion (LFI), Remote File Inclusion (RFI),   SQL injection (SQLi), and Cross Site Scripting (XSS), Server Side Template Injection (SSTI), and Open Redirects.",
-    "forks_count": 13,
+    "forks_count": 14,
     "html_url": "https://github.com/ronin-rb/ronin-vulns",
     "keywords": [
         "local file inclusion",
@@ -740,7 +740,7 @@
     "date_started": "2023-12-13",
     "date_updated": "2023-12-13",
     "description": "WordPress does not properly restrict which user fields are searchable via the REST API, allowing unauthenticated attackers to discern the email addresses of users who have published public posts on an affected website via an Oracle style attack",
-    "forks_count": 2,
+    "forks_count": 3,
     "html_url": "https://github.com/pog007/CVE-2023-5561-PoC",
     "keywords": [
         "unauthenticated attacker",
