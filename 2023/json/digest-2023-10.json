@@ -212,23 +212,6 @@
     "watchers_count": 2
 }
 {
-    "commits_count": 19,
-    "date_started": "2022-05-13",
-    "date_updated": "2023-10-26",
-    "description": "Venafi Adaptable Application driver for Imperva's cloud-based WAF that makes full use of current Imperva APIs.  Supports discovery of sites by direct scanning to extract public certificates. Validates via API when possible, falls back to spoofing for legacy websites. Fully supports sub-accounts used by many enterprise-level customers through the use of separate devices per sub-account as an option to creating sub-account specific API keys.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ccamacho1966/Venafi-AdaptApp-ImpervaCloud",
-    "keywords": [
-        "spoofing certificate"
-    ],
-    "language": "PowerShell",
-    "repo_name": "Venafi-AdaptApp-ImpervaCloud",
-    "repo_owner": "ccamacho1966",
-    "repotime": "2023-10-26, 18:34:06",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
     "commits_count": 1293,
     "date_started": "2018-06-13",
     "date_updated": "2023-10-26",
