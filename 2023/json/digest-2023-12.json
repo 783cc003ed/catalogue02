@@ -106,7 +106,7 @@
     "date_started": "2017-12-26",
     "date_updated": "2023-12-28",
     "description": "Java web common vulnerabilities and security code which is base on springboot and spring security",
-    "forks_count": 595,
+    "forks_count": 596,
     "html_url": "https://github.com/JoyChou93/java-sec-code",
     "keywords": [
         "rce vulnerability",
@@ -117,8 +117,8 @@
     "repo_name": "java-sec-code",
     "repo_owner": "JoyChou93",
     "repotime": "2023-12-28, 19:38:47",
-    "stargazers_count": 2203,
-    "watchers_count": 2203
+    "stargazers_count": 2208,
+    "watchers_count": 2208
 }
 {
     "commits_count": 275,
@@ -1009,13 +1009,13 @@
     "date_updated": "2023-12-09",
     "description": "Create tar/zip/tgz/bz2 archives that can exploit directory traversal and symlink vulnerabilities",
     "forks_count": 0,
-    "html_url": "https://github.com/tarimoe/evilarc-go",
+    "html_url": "https://github.com/tarihub/evilarc-go",
     "keywords": [
         "directory traversal vulnerability"
     ],
     "language": "Go",
     "repo_name": "evilarc-go",
-    "repo_owner": "tarimoe",
+    "repo_owner": "tarihub",
     "repotime": "2023-12-09, 19:16:40",
     "stargazers_count": 0,
     "watchers_count": 0
