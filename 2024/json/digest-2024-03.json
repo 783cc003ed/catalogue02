@@ -1,4 +1,21 @@
 {
+    "commits_count": 1762,
+    "date_started": "2019-09-10",
+    "date_updated": "2024-03-05",
+    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
+    "forks_count": 253,
+    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "smart-doc",
+    "repo_owner": "TongchengOpenSource",
+    "repotime": "2024-03-05, 15:17:28",
+    "stargazers_count": 1282,
+    "watchers_count": 1282
+}
+{
     "commits_count": 72,
     "date_started": "2023-10-29",
     "date_updated": "2024-03-04",
@@ -69,6 +86,23 @@
     "watchers_count": 1862
 }
 {
+    "commits_count": 1386,
+    "date_started": "2018-11-07",
+    "date_updated": "2024-03-04",
+    "description": "Dependency injection via APT (source code generation) ala &amp;quot;Server-Side Dagger DI&amp;quot;",
+    "forks_count": 18,
+    "html_url": "https://github.com/avaje/avaje-inject",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "avaje-inject",
+    "repo_owner": "avaje",
+    "repotime": "2024-03-04, 05:58:23",
+    "stargazers_count": 188,
+    "watchers_count": 188
+}
+{
     "commits_count": 3,
     "date_started": "2024-03-03",
     "date_updated": "2024-03-03",
@@ -86,6 +120,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 1189,
+    "date_started": "2020-06-02",
+    "date_updated": "2024-03-02",
+    "description": "The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.",
+    "forks_count": 139,
+    "html_url": "https://github.com/hadashiA/VContainer",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "VContainer",
+    "repo_owner": "hadashiA",
+    "repotime": "2024-03-02, 11:35:58",
+    "stargazers_count": 1576,
+    "watchers_count": 1576
+}
+{
     "commits_count": 7,
     "date_started": "2024-03-01",
     "date_updated": "2024-03-01",
@@ -99,6 +150,23 @@
     "repo_name": "Day--5-For-Loop-Range-and-Code-Project",
     "repo_owner": "Keshab0310",
     "repotime": "2024-03-01, 18:13:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 42,
+    "date_started": "2023-10-09",
+    "date_updated": "2024-03-01",
+    "description": "Proof of Concept for RCE and information leakage on vulnerable AXIS Network Cameras",
+    "forks_count": 0,
+    "html_url": "https://github.com/mascencerro/axis-rce",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "axis-rce",
+    "repo_owner": "mascencerro",
+    "repotime": "2024-03-01, 10:47:18",
     "stargazers_count": 0,
     "watchers_count": 0
 }

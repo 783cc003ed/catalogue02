@@ -118,40 +118,6 @@
     "watchers_count": 9523
 }
 {
-    "commits_count": 1184,
-    "date_started": "2020-06-02",
-    "date_updated": "2024-02-28",
-    "description": "The extra fast, minimum code size, GC-free DI (Dependency Injection) library running on Unity Game Engine.",
-    "forks_count": 139,
-    "html_url": "https://github.com/hadashiA/VContainer",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "C#",
-    "repo_name": "VContainer",
-    "repo_owner": "hadashiA",
-    "repotime": "2024-02-28, 06:25:40",
-    "stargazers_count": 1571,
-    "watchers_count": 1571
-}
-{
-    "commits_count": 1748,
-    "date_started": "2019-09-10",
-    "date_updated": "2024-02-28",
-    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
-    "forks_count": 254,
-    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Java",
-    "repo_name": "smart-doc",
-    "repo_owner": "TongchengOpenSource",
-    "repotime": "2024-02-28, 10:06:49",
-    "stargazers_count": 1278,
-    "watchers_count": 1278
-}
-{
     "commits_count": 27,
     "date_started": "2023-11-24",
     "date_updated": "2024-02-27",
@@ -168,6 +134,23 @@
     "repotime": "2024-02-27, 13:59:08",
     "stargazers_count": 166,
     "watchers_count": 166
+}
+{
+    "commits_count": 23,
+    "date_started": "2024-02-21",
+    "date_updated": "2024-02-27",
+    "description": "Code injection on Android without ptrace",
+    "forks_count": 5,
+    "html_url": "https://github.com/erfur/linjector-rs",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Rust",
+    "repo_name": "linjector-rs",
+    "repo_owner": "erfur",
+    "repotime": "2024-02-27, 18:09:06",
+    "stargazers_count": 47,
+    "watchers_count": 47
 }
 {
     "commits_count": 1,
@@ -397,23 +380,6 @@
     "repotime": "2024-02-25, 22:50:06",
     "stargazers_count": 92,
     "watchers_count": 92
-}
-{
-    "commits_count": 1382,
-    "date_started": "2018-11-07",
-    "date_updated": "2024-02-25",
-    "description": "Dependency injection via APT (source code generation) ala &amp;quot;Server-Side Dagger DI&amp;quot;",
-    "forks_count": 18,
-    "html_url": "https://github.com/avaje/avaje-inject",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Java",
-    "repo_name": "avaje-inject",
-    "repo_owner": "avaje",
-    "repotime": "2024-02-25, 13:44:52",
-    "stargazers_count": 186,
-    "watchers_count": 186
 }
 {
     "commits_count": 6,
@@ -818,23 +784,6 @@
     "repotime": "2024-02-17, 12:50:35",
     "stargazers_count": 4,
     "watchers_count": 4
-}
-{
-    "commits_count": 41,
-    "date_started": "2023-10-09",
-    "date_updated": "2024-02-17",
-    "description": "Proof of Concept for RCE and information leakage on vulnerable AXIS Network Cameras",
-    "forks_count": 0,
-    "html_url": "https://github.com/mascencerro/axis-rce",
-    "keywords": [
-        "rce proof of concept"
-    ],
-    "language": "Python",
-    "repo_name": "axis-rce",
-    "repo_owner": "mascencerro",
-    "repotime": "2024-02-17, 11:24:59",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 3,
