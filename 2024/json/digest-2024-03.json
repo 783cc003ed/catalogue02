@@ -18,6 +18,23 @@
     "watchers_count": 607
 }
 {
+    "commits_count": 1,
+    "date_started": "2024-03-05",
+    "date_updated": "2024-03-05",
+    "description": "POC to implement captcha, session management, sql-injection, csrf-attack",
+    "forks_count": 0,
+    "html_url": "https://github.com/kapilrawal18/captcha-session-sql-injection-poc",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "captcha-session-sql-injection-poc",
+    "repo_owner": "kapilrawal18",
+    "repotime": "2024-03-05, 19:29:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 1762,
     "date_started": "2019-09-10",
     "date_updated": "2024-03-05",
@@ -204,6 +221,23 @@
     "repotime": "2024-03-01, 10:47:18",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 239,
+    "date_started": "2018-07-10",
+    "date_updated": "2024-03-01",
+    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "forks_count": 1762,
+    "html_url": "https://github.com/kgretzky/evilginx2",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Go",
+    "repo_name": "evilginx2",
+    "repo_owner": "kgretzky",
+    "repotime": "2024-03-01, 16:03:28",
+    "stargazers_count": 9563,
+    "watchers_count": 9563
 }
 {
     "commits_count": 11,
