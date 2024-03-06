@@ -120,6 +120,24 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 16,
+    "date_started": "2022-07-05",
+    "date_updated": "2024-03-03",
+    "description": "Atlassian Confluence (CVE-2022-26134) - Unauthenticated Remote code execution (RCE)",
+    "forks_count": 11,
+    "html_url": "https://github.com/nxtexploit/CVE-2022-26134",
+    "keywords": [
+        "unauthenticated rce",
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "nxtexploit",
+    "repotime": "2024-03-03, 12:32:48",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
     "commits_count": 1189,
     "date_started": "2020-06-02",
     "date_updated": "2024-03-02",
@@ -167,6 +185,23 @@
     "repo_name": "axis-rce",
     "repo_owner": "mascencerro",
     "repotime": "2024-03-01, 10:47:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 50,
+    "date_started": "2024-02-29",
+    "date_updated": "2024-03-01",
+    "description": "sql injection ,stored XSS -cross side scripting ",
+    "forks_count": 0,
+    "html_url": "https://github.com/itay601/not-secure",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "Python",
+    "repo_name": "not-secure",
+    "repo_owner": "itay601",
+    "repotime": "2024-03-01, 12:12:42",
     "stargazers_count": 0,
     "watchers_count": 0
 }
