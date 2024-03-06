@@ -6,7 +6,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/okupay-teppi/TestWindowsLPEDriver",
     "keywords": [
-        "Windows lpe"
+        "Windows lpe",
+        "Win lpe"
     ],
     "language": "C++",
     "repo_name": "TestWindowsLPEDriver",
@@ -189,6 +190,24 @@
     "watchers_count": 21
 }
 {
+    "commits_count": 51,
+    "date_started": "2015-06-30",
+    "date_updated": "2024-03-02",
+    "description": "My collection of exploit development skeletons for fuzzing, overwriting the stack, remote code execution, etc.",
+    "forks_count": 7,
+    "html_url": "https://github.com/shipcod3/sploitchits",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Classic ASP",
+    "repo_name": "sploitchits",
+    "repo_owner": "shipcod3",
+    "repotime": "2024-03-02, 22:22:54",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
     "commits_count": 1,
     "date_started": "2024-03-02",
     "date_updated": "2024-03-02",
@@ -329,7 +348,7 @@
     "date_started": "2020-12-01",
     "date_updated": "2024-03-01",
     "description": "《深入理解WEB漏洞之SSRF漏洞》Server-Side Request Forgery.",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/ASTTeam/SSRF",
     "keywords": [
         "server side request forgery"
