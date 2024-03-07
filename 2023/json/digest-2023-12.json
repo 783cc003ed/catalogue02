@@ -398,6 +398,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 1395,
+    "date_started": "2016-11-14",
+    "date_updated": "2023-12-19",
+    "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (&amp;quot;transparent&amp;quot;) encryption. SQL, NoSQL.",
+    "forks_count": 121,
+    "html_url": "https://github.com/cossacklabs/acra",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Go",
+    "repo_name": "acra",
+    "repo_owner": "cossacklabs",
+    "repotime": "2023-12-19, 02:23:33",
+    "stargazers_count": 1275,
+    "watchers_count": 1275
+}
+{
     "commits_count": 6,
     "date_started": "2023-01-09",
     "date_updated": "2023-12-18",

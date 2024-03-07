@@ -1,4 +1,21 @@
 {
+    "commits_count": 1,
+    "date_started": "2024-03-07",
+    "date_updated": "2024-03-07",
+    "description": "In this project will showing the vulnerability and the solutions based in three scenario SQL injection, Missing function and access control MFAC, and Session Hijacking.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fireun/Software-Secure-Code",
+    "keywords": [
+        "session hijacking vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "Software-Secure-Code",
+    "repo_owner": "fireun",
+    "repotime": "2024-03-07, 11:42:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 25,
     "date_started": "2024-02-21",
     "date_updated": "2024-03-06",
@@ -249,7 +266,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/Jarif001/XSS-Attack",
     "keywords": [
-        "session vulnerability"
+        "session vulnerability",
+        "session attack"
     ],
     "language": "JavaScript",
     "repo_name": "XSS-Attack",
@@ -297,7 +315,7 @@
     "date_started": "2018-07-10",
     "date_updated": "2024-03-01",
     "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-    "forks_count": 1762,
+    "forks_count": 1764,
     "html_url": "https://github.com/kgretzky/evilginx2",
     "keywords": [
         "session attack"
@@ -306,8 +324,8 @@
     "repo_name": "evilginx2",
     "repo_owner": "kgretzky",
     "repotime": "2024-03-01, 16:03:28",
-    "stargazers_count": 9563,
-    "watchers_count": 9563
+    "stargazers_count": 9565,
+    "watchers_count": 9565
 }
 {
     "commits_count": 11,
