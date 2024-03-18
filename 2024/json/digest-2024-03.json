@@ -68,6 +68,42 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 538,
+    "date_started": "2018-12-07",
+    "date_updated": "2024-03-13",
+    "description": "A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.",
+    "forks_count": 246,
+    "html_url": "https://github.com/TH3xACE/SUDO_KILLER",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploitation"
+    ],
+    "language": "Shell",
+    "repo_name": "SUDO_KILLER",
+    "repo_owner": "TH3xACE",
+    "repotime": "2024-03-13, 17:20:42",
+    "stargazers_count": 2075,
+    "watchers_count": 2075
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-03-13",
+    "date_updated": "2024-03-13",
+    "description": "CVE-2024-21400 is a privilege escalation vulnerability that rates a CVSS score of 9.0.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MegaCorp001/CVE-2024-21400-POC",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-21400-POC",
+    "repo_owner": "MegaCorp001",
+    "repotime": "2024-03-13, 17:09:22",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
     "commits_count": 2,
     "date_started": "2024-03-13",
     "date_updated": "2024-03-13",
@@ -83,6 +119,40 @@
     "repotime": "2024-03-13, 16:06:06",
     "stargazers_count": 10,
     "watchers_count": 10
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-03-13",
+    "date_updated": "2024-03-13",
+    "description": "This script automates the detection and exploitation of SUID (Set User ID) and SGID (Set Group ID) privilege escalation vulnerabilities on Unix systems.",
+    "forks_count": 0,
+    "html_url": "https://github.com/claudiosc01/tool-suid-sgid",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "tool-suid-sgid",
+    "repo_owner": "claudiosc01",
+    "repotime": "2024-03-13, 01:33:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-02-05",
+    "date_updated": "2024-03-12",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/mansk1es/MSPCManagerServiceLPE_poc",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C++",
+    "repo_name": "MSPCManagerServiceLPE_poc",
+    "repo_owner": "mansk1es",
+    "repotime": "2024-03-12, 23:07:29",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 290,
