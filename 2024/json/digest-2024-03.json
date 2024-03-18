@@ -16,6 +16,27 @@
     "watchers_count": 1294
 }
 {
+    "commits_count": 10,
+    "date_started": "2021-09-04",
+    "date_updated": "2024-03-17",
+    "description": "A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder.  To get started, simply fork this repo.  CONTRIBUTING See ways of contributing to this repo. You can contribute solutions (will be published in this repo) to existing problems, add new projects, or remove existing ones. Make sure you follow all instructions properly.  Solutions You can find implementations of these projects in many other languages by other users in this repo.  Credits  Problems are motivated by the ones shared at:  Martyr2’s Mega Project List Rosetta Code Table of Contents Numbers Classic Algorithms Graph Data Structures Text Networking Classes Threading Web Files Databases Graphics and Multimedia Security Numbers Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.  Find e to the Nth Dig...",
+    "forks_count": 18,
+    "html_url": "https://github.com/ManojKumarPatnaik/Major-project-list",
+    "keywords": [
+        "Windows zero-day analysis",
+        "zero-day analysis",
+        "path traversal attack",
+        "Windows zero-day",
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Major-project-list",
+    "repo_owner": "ManojKumarPatnaik",
+    "repotime": "2024-03-17, 22:10:46",
+    "stargazers_count": 73,
+    "watchers_count": 73
+}
+{
     "commits_count": 12,
     "date_started": "2022-02-01",
     "date_updated": "2024-03-16",
@@ -49,6 +70,24 @@
     "repotime": "2024-03-15, 15:15:36",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 34,
+    "date_started": "2023-09-02",
+    "date_updated": "2024-03-14",
+    "description": "an exploit of Server-side request forgery (SSRF)",
+    "forks_count": 9,
+    "html_url": "https://github.com/errorfiathck/ssrf-exploit",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "ssrf-exploit",
+    "repo_owner": "errorfiathck",
+    "repotime": "2024-03-14, 23:04:10",
+    "stargazers_count": 38,
+    "watchers_count": 38
 }
 {
     "commits_count": 75,
@@ -111,14 +150,15 @@
     "forks_count": 0,
     "html_url": "https://github.com/MrCyberSec/CVE-2024-26198-Exchange-RCE",
     "keywords": [
-        "Microsoft rce"
+        "Microsoft rce",
+        "Microsoft remote code execution exploitation"
     ],
     "language": null,
     "repo_name": "CVE-2024-26198-Exchange-RCE",
     "repo_owner": "MrCyberSec",
     "repotime": "2024-03-13, 16:06:06",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 4,
@@ -153,6 +193,23 @@
     "repotime": "2024-03-12, 23:07:29",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-03-11",
+    "date_updated": "2024-03-12",
+    "description": "Website Inventory ini dibangun menggunakan framework Codeigniter Versi 3.1.11. Website yang merupakan tugas dari praktikum LabTI ini dilengkapi dengan fitur login, user dibuat menggunakan hard code dengan fungsi password_hash agar password terenkripsi dengan aman. Website ini dilengkapi dengan fitur tambah, edit, dan hapus item/ barang.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mmmdriyan-learn/pweb",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "HTML",
+    "repo_name": "pweb",
+    "repo_owner": "mmmdriyan-learn",
+    "repotime": "2024-03-12, 11:08:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 290,
