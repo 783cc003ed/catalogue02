@@ -54,6 +54,40 @@
     "watchers_count": 73
 }
 {
+    "commits_count": 5,
+    "date_started": "2024-03-17",
+    "date_updated": "2024-03-17",
+    "description": "The PoC demonstrates the potential for remote code execution by exploiting the identified security flaw.",
+    "forks_count": 0,
+    "html_url": "https://github.com/d0rb/CVE-2024-21762",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-21762",
+    "repo_owner": "d0rb",
+    "repotime": "2024-03-17, 11:20:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2024-03-15",
+    "date_updated": "2024-03-16",
+    "description": "A PoC exploit for CVE-2023-43208 - Mirth Connect Remote Code Execution (RCE)",
+    "forks_count": 6,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-43208-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-03-16, 17:22:26",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
     "commits_count": 12,
     "date_started": "2022-02-01",
     "date_updated": "2024-03-16",
@@ -180,6 +214,23 @@
     "commits_count": 2,
     "date_started": "2024-03-13",
     "date_updated": "2024-03-13",
+    "description": "CVE-2024-21411 POC Skype for Consumer Remote Code Execution Vulnerability (RCE)",
+    "forks_count": 0,
+    "html_url": "https://github.com/rkraper339/CVE-2024-21411-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-21411-POC",
+    "repo_owner": "rkraper339",
+    "repotime": "2024-03-13, 10:23:25",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-03-13",
+    "date_updated": "2024-03-13",
     "description": "CVE-2024-21400 is a privilege escalation vulnerability that rates a CVSS score of 9.0.",
     "forks_count": 0,
     "html_url": "https://github.com/MegaCorp001/CVE-2024-21400-POC",
@@ -219,7 +270,8 @@
     "html_url": "https://github.com/MrCyberSec/CVE-2024-26198-Exchange-RCE",
     "keywords": [
         "Microsoft rce",
-        "Microsoft remote code execution exploitation"
+        "Microsoft remote code execution exploitation",
+        "Microsoft remote code execution exploit"
     ],
     "language": null,
     "repo_name": "CVE-2024-26198-Exchange-RCE",
@@ -715,7 +767,7 @@
     "date_started": "2024-03-01",
     "date_updated": "2024-03-01",
     "description": "A PoC exploit for CVE-2024-25600 - WordPress Bricks Builder Remote Code Execution (RCE)",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT",
     "keywords": [
         "remote code execution poc"
@@ -724,8 +776,8 @@
     "repo_name": "CVE-2024-25600-EXPLOIT",
     "repo_owner": "K3ysTr0K3R",
     "repotime": "2024-03-01, 04:46:56",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 31,
