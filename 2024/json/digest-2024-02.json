@@ -50,6 +50,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 126,
+    "date_started": "2019-10-02",
+    "date_updated": "2024-02-29",
+    "description": "This repository contains all the XSS cheatsheet data to allow contributions from the community.",
+    "forks_count": 74,
+    "html_url": "https://github.com/PortSwigger/xss-cheatsheet-data",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "xss-cheatsheet-data",
+    "repo_owner": "PortSwigger",
+    "repotime": "2024-02-29, 11:44:38",
+    "stargazers_count": 374,
+    "watchers_count": 374
+}
+{
     "commits_count": 32,
     "date_started": "2024-02-19",
     "date_updated": "2024-02-29",
@@ -245,24 +262,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 9,
-    "date_started": "2024-02-23",
-    "date_updated": "2024-02-26",
-    "description": "Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). Exploit.",
-    "forks_count": 2,
-    "html_url": "https://github.com/sharpicx/CVE-2024-1651-PoC",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2024-1651-PoC",
-    "repo_owner": "sharpicx",
-    "repotime": "2024-02-26, 23:36:38",
-    "stargazers_count": 7,
-    "watchers_count": 7
-}
-{
     "commits_count": 31,
     "date_started": "2023-12-03",
     "date_updated": "2024-02-26",
@@ -454,6 +453,23 @@
     "repotime": "2024-02-22, 11:19:49",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 599,
+    "date_started": "2017-03-06",
+    "date_updated": "2024-02-22",
+    "description": "ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.",
+    "forks_count": 317,
+    "html_url": "https://github.com/ssl/ezXSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "ezXSS",
+    "repo_owner": "ssl",
+    "repotime": "2024-02-22, 16:56:38",
+    "stargazers_count": 1740,
+    "watchers_count": 1740
 }
 {
     "commits_count": 149,
@@ -804,23 +820,6 @@
     "watchers_count": 315
 }
 {
-    "commits_count": 759,
-    "date_started": "2013-06-25",
-    "date_updated": "2024-02-16",
-    "description": "Cleans HTML to avoid XSS attacks",
-    "forks_count": 234,
-    "html_url": "https://github.com/mganss/HtmlSanitizer",
-    "keywords": [
-        "xss"
-    ],
-    "language": "C#",
-    "repo_name": "HtmlSanitizer",
-    "repo_owner": "mganss",
-    "repotime": "2024-02-16, 15:53:44",
-    "stargazers_count": 1460,
-    "watchers_count": 1460
-}
-{
     "commits_count": 3,
     "date_started": "2024-02-16",
     "date_updated": "2024-02-16",
@@ -870,23 +869,6 @@
     "repotime": "2024-02-15, 21:50:14",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 598,
-    "date_started": "2017-03-06",
-    "date_updated": "2024-02-15",
-    "description": "ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.",
-    "forks_count": 336,
-    "html_url": "https://github.com/ssl/ezXSS",
-    "keywords": [
-        "xss"
-    ],
-    "language": "PHP",
-    "repo_name": "ezXSS",
-    "repo_owner": "ssl",
-    "repotime": "2024-02-15, 17:46:13",
-    "stargazers_count": 1729,
-    "watchers_count": 1729
 }
 {
     "commits_count": 2,

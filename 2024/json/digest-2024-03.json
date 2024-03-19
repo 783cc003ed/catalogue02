@@ -1,4 +1,21 @@
 {
+    "commits_count": 4,
+    "date_started": "2024-03-18",
+    "date_updated": "2024-03-18",
+    "description": "A proof of concept of the path traversal vulnerability in the python AioHTTP library =&amp;lt; 3.9.1",
+    "forks_count": 0,
+    "html_url": "https://github.com/z3rObyte/CVE-2024-23334-PoC",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-23334-PoC",
+    "repo_owner": "z3rObyte",
+    "repotime": "2024-03-18, 21:13:49",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 292,
     "date_started": "2022-04-19",
     "date_updated": "2024-03-18",
@@ -78,7 +95,8 @@
     "forks_count": 6,
     "html_url": "https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT",
     "keywords": [
-        "remote code execution poc"
+        "remote code execution poc",
+        "remote code execution exploitation"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-43208-EXPLOIT",
@@ -182,7 +200,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/Jake123otte1/ERPNext-SSTI-Hijack",
     "keywords": [
-        "unauthenticated remote code execution"
+        "unauthenticated remote code execution",
+        "unauthenticated attacker"
     ],
     "language": "Python",
     "repo_name": "ERPNext-SSTI-Hijack",
@@ -190,6 +209,23 @@
     "repotime": "2024-03-13, 14:04:44",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 764,
+    "date_started": "2013-06-25",
+    "date_updated": "2024-03-13",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 191,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2024-03-13, 17:48:29",
+    "stargazers_count": 1467,
+    "watchers_count": 1467
 }
 {
     "commits_count": 538,
@@ -271,7 +307,8 @@
     "keywords": [
         "Microsoft rce",
         "Microsoft remote code execution exploitation",
-        "Microsoft remote code execution exploit"
+        "Microsoft remote code execution exploit",
+        "remote code execution exploitation"
     ],
     "language": null,
     "repo_name": "CVE-2024-26198-Exchange-RCE",
@@ -366,6 +403,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 53,
+    "date_started": "2018-06-07",
+    "date_updated": "2024-03-09",
+    "description": "List of XSS Vectors/Payloads ",
+    "forks_count": 250,
+    "html_url": "https://github.com/RenwaX23/XSS-Payloads",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "XSS-Payloads",
+    "repo_owner": "RenwaX23",
+    "repotime": "2024-03-09, 22:41:56",
+    "stargazers_count": 1070,
+    "watchers_count": 1070
+}
+{
     "commits_count": 613,
     "date_started": "2020-08-12",
     "date_updated": "2024-03-09",
@@ -432,6 +486,24 @@
     "repotime": "2024-03-07, 23:12:55",
     "stargazers_count": 4,
     "watchers_count": 4
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-02-23",
+    "date_updated": "2024-03-07",
+    "description": "Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). Exploit.",
+    "forks_count": 2,
+    "html_url": "https://github.com/sharpicx/CVE-2024-1651-PoC",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-1651-PoC",
+    "repo_owner": "sharpicx",
+    "repotime": "2024-03-07, 17:23:51",
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 37,
@@ -640,6 +712,23 @@
     "repotime": "2024-03-03, 12:32:48",
     "stargazers_count": 21,
     "watchers_count": 21
+}
+{
+    "commits_count": 607,
+    "date_started": "2012-09-18",
+    "date_updated": "2024-03-03",
+    "description": "Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist",
+    "forks_count": 629,
+    "html_url": "https://github.com/leizongmin/js-xss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "HTML",
+    "repo_name": "js-xss",
+    "repo_owner": "leizongmin",
+    "repotime": "2024-03-03, 10:31:06",
+    "stargazers_count": 5082,
+    "watchers_count": 5082
 }
 {
     "commits_count": 51,
