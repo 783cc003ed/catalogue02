@@ -870,7 +870,7 @@
     "date_started": "2023-10-09",
     "date_updated": "2023-10-11",
     "description": "This is a script written in Python that allows the exploitation of the Metabase's software security flaw in the described in CVE 2023-38646.",
-    "forks_count": 3,
+    "forks_count": 4,
     "html_url": "https://github.com/m3m0o/metabase-pre-auth-rce-poc",
     "keywords": [
         "rce poc"
@@ -879,8 +879,8 @@
     "repo_name": "metabase-pre-auth-rce-poc",
     "repo_owner": "m3m0o",
     "repotime": "2023-10-11, 17:54:14",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 19,
@@ -905,8 +905,8 @@
     "repo_name": "CVE-2021-40444",
     "repo_owner": "klezVirus",
     "repotime": "2023-10-11, 19:44:51",
-    "stargazers_count": 782,
-    "watchers_count": 782
+    "stargazers_count": 783,
+    "watchers_count": 783
 }
 {
     "commits_count": 14,
@@ -1242,24 +1242,6 @@
     "repotime": "2023-10-02, 14:31:32",
     "stargazers_count": 2,
     "watchers_count": 2
-}
-{
-    "commits_count": 12,
-    "date_started": "2022-01-17",
-    "date_updated": "2023-10-02",
-    "description": "Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers",
-    "forks_count": 16,
-    "html_url": "https://github.com/p0dalirius/CVE-2022-21907-http.sys",
-    "keywords": [
-        "rce proof of concept",
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2022-21907-http.sys",
-    "repo_owner": "p0dalirius",
-    "repotime": "2023-10-02, 10:37:40",
-    "stargazers_count": 78,
-    "watchers_count": 78
 }
 {
     "commits_count": 171,
