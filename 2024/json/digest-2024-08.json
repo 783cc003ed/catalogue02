@@ -1,0 +1,357 @@
+{
+    "commits_count": 449,
+    "date_started": "2024-08-09",
+    "date_updated": "2024-08-14",
+    "description": "The WinRAR Exploit Builder is a C&amp;&#35;35; project designed to create an exploit targeting a vulnerability in WinRAR.",
+    "forks_count": 0,
+    "html_url": "https://github.com/00Romans00/WinRAR-Exploit-Builder",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "C#",
+    "repo_name": "WinRAR-Exploit-Builder",
+    "repo_owner": "00Romans00",
+    "repotime": "2024-08-14, 07:35:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-07-08",
+    "date_updated": "2024-08-14",
+    "description": "Remote Unauthenticated Code Execution Vulnerability in OpenSSH server (CVE-2024-6387)",
+    "forks_count": 6,
+    "html_url": "https://github.com/asterictnl-lvdw/CVE-2024-6387",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2024-6387",
+    "repo_owner": "asterictnl-lvdw",
+    "repotime": "2024-08-14, 09:15:57",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 440,
+    "date_started": "2022-04-19",
+    "date_updated": "2024-08-12",
+    "description": "Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.",
+    "forks_count": 29,
+    "html_url": "https://github.com/Ostorlab/KEV",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "KEV",
+    "repo_owner": "Ostorlab",
+    "repotime": "2024-08-12, 13:14:01",
+    "stargazers_count": 506,
+    "watchers_count": 506
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-08-10",
+    "date_updated": "2024-08-11",
+    "description": "This project demonstrates the discovery and exploitation of a Microsoft Defender vulnerability, enabling remote code execution through a reverse TCP PowerShell script. Identified as VULN-13190290130, the issue was reported to Microsoft and patched. This repository details the vulnerability, how it was exploited, and the steps taken to resolve it.",
+    "forks_count": 0,
+    "html_url": "https://github.com/shashankp914/Undetected-Reverse-TCP-Shell-via-PowerShell-in-Software-Setup-Exploiting-Windows-Defender-and-Edge",
+    "keywords": [
+        "Win remote code execution"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Undetected-Reverse-TCP-Shell-via-PowerShell-in-Software-Setup-Exploiting-Windows-Defender-and-Edge",
+    "repo_owner": "shashankp914",
+    "repotime": "2024-08-11, 14:58:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-08-10",
+    "date_updated": "2024-08-09",
+    "description": "This C code demonstrates a buffer overflow vulnerability by allowing user input to exceed the buffer's capacity, leading to potential memory corruption.",
+    "forks_count": 0,
+    "html_url": "https://github.com/joelzavala/buffer_overflow",
+    "keywords": [
+        "corruption overflow vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "buffer_overflow",
+    "repo_owner": "joelzavala",
+    "repotime": "2024-08-09, 22:08:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-06-24",
+    "date_updated": "2024-08-09",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/w3bn00b3r/Unauthenticated-Remote-Code-Execution-RCE---Poultry-Farm-Management-System-v1.0",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "Unauthenticated-Remote-Code-Execution-RCE---Poultry-Farm-Management-System-v1.0",
+    "repo_owner": "w3bn00b3r",
+    "repotime": "2024-08-09, 22:59:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 32,
+    "date_started": "2023-03-08",
+    "date_updated": "2024-08-09",
+    "description": "Evaluation Guide for the IAR C-RUN - Runtime Analysis Tool",
+    "forks_count": 1,
+    "html_url": "https://github.com/IARSystems/crun-evaluation-guide",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C",
+    "repo_name": "crun-evaluation-guide",
+    "repo_owner": "IARSystems",
+    "repotime": "2024-08-09, 09:18:18",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-08-09",
+    "date_updated": "2024-08-08",
+    "description": "Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/jdpsl/CVE-2024-6782",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2024-6782",
+    "repo_owner": "jdpsl",
+    "repotime": "2024-08-08, 23:26:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-08-08",
+    "date_updated": "2024-08-08",
+    "description": "The project demonstrates practical implementations of buffer overflow exploits, privilege escalation, and defeating security mechanisms like address space randomization. The code includes shellcode execution, bypassing DASH shell countermeasures, and analysis using debugging tools.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dd2257/Buffer-Overflow-Vulnerability-",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Buffer-Overflow-Vulnerability-",
+    "repo_owner": "dd2257",
+    "repotime": "2024-08-08, 15:24:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-08-06",
+    "date_updated": "2024-08-07",
+    "description": "autobloody-docker is a dockerised installation of autobloody which is a tool to automatically exploit Active Directory privilege escalation paths shown by BloodHound.",
+    "forks_count": 0,
+    "html_url": "https://github.com/incursi0n/autobloody-docker",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "autobloody-docker",
+    "repo_owner": "incursi0n",
+    "repotime": "2024-08-07, 19:12:00",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-08-07",
+    "date_updated": "2024-08-07",
+    "description": "LMAP (large language model mapper) is like NMAP for LLM, is an LLM Vulnerability Scanner and Zero-day Vulnerability Fuzzer.",
+    "forks_count": 0,
+    "html_url": "https://github.com/TrustAI-laboratory/LMAP",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "LMAP",
+    "repo_owner": "TrustAI-laboratory",
+    "repotime": "2024-08-07, 10:42:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-08-07",
+    "date_updated": "2024-08-07",
+    "description": "Proof of concept on Unauthenticated Administrator Email Disclosure CVE-2023-6444",
+    "forks_count": 0,
+    "html_url": "https://github.com/Wayne-Ker/CVE-2023-6444-POC",
+    "keywords": [
+        "unauthenticated disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-6444-POC",
+    "repo_owner": "Wayne-Ker",
+    "repotime": "2024-08-07, 12:23:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1580,
+    "date_started": "2018-06-13",
+    "date_updated": "2024-08-06",
+    "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
+    "forks_count": 682,
+    "html_url": "https://github.com/RhinoSecurityLabs/pacu",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "pacu",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2024-08-06, 10:48:24",
+    "stargazers_count": 4242,
+    "watchers_count": 4242
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-08-06",
+    "date_updated": "2024-08-06",
+    "description": "Calibre 远程代码执行（CVE-2024-6782）Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution.",
+    "forks_count": 3,
+    "html_url": "https://github.com/zangjiahe/CVE-2024-6782",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-6782",
+    "repo_owner": "zangjiahe",
+    "repotime": "2024-08-06, 23:35:37",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 23,
+    "date_started": "2024-07-31",
+    "date_updated": "2024-08-05",
+    "description": "DeadPotato is a windows privilege escalation utility from the Potato family of exploits, leveraging the SeImpersonate right to obtain SYSTEM privileges.        This script has been customized from the original GodPotato source code by BeichenDream.",
+    "forks_count": 31,
+    "html_url": "https://github.com/lypd0/DeadPotato",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "C#",
+    "repo_name": "DeadPotato",
+    "repo_owner": "lypd0",
+    "repotime": "2024-08-05, 14:53:10",
+    "stargazers_count": 215,
+    "watchers_count": 215
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-08-03",
+    "date_updated": "2024-08-03",
+    "description": "This repository contains a proof-of-concept (PoC) for a Windows Remote Code Execution vulnerability. It includes a simple web interface to execute a `ping` command on a Windows machine and display the results. The server also starts Notepad and Calculator applications as part of the demonstration.",
+    "forks_count": 0,
+    "html_url": "https://github.com/SleepTheGod/Windows-Remote-Code-Execution",
+    "keywords": [
+        "Win remote code execution"
+    ],
+    "language": "HTML",
+    "repo_name": "Windows-Remote-Code-Execution",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2024-08-03, 09:48:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-08-02",
+    "date_updated": "2024-08-02",
+    "description": "This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220 ",
+    "forks_count": 0,
+    "html_url": "https://github.com/charchit-subedi/chamilo-lms-unauthenticated-rce-poc",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "chamilo-lms-unauthenticated-rce-poc",
+    "repo_owner": "charchit-subedi",
+    "repotime": "2024-08-02, 02:17:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-06-03",
+    "date_updated": "2024-08-01",
+    "description": "A repository containing exploit code for disclosed zero-day vulnerabilities I've discovered. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/kwburns/CVE",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE",
+    "repo_owner": "kwburns",
+    "repotime": "2024-08-01, 21:41:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-08-01",
+    "date_updated": "2024-08-01",
+    "description": "CVE-2024-34102 unauthenticated RCE PoC for Magento/adobe commerce",
+    "forks_count": 0,
+    "html_url": "https://github.com/etx-Arn/CVE-2024-34102-RCE-PoC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-34102-RCE-PoC",
+    "repo_owner": "etx-Arn",
+    "repotime": "2024-08-01, 20:37:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-07-30",
+    "date_updated": "2024-08-01",
+    "description": "CVE-2024-34102 unauthenticated RCE PoC for Magento/adobe commerce",
+    "forks_count": 0,
+    "html_url": "https://github.com/etx-Arn/CVE-2024-34102-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-34102-RCE",
+    "repo_owner": "etx-Arn",
+    "repotime": "2024-08-01, 20:33:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 69,
+    "date_started": "2023-04-10",
+    "date_updated": "2024-08-01",
+    "description": "Analysis of vulnerabilities from security audit || CTF (Capture the Flag)",
+    "forks_count": 0,
+    "html_url": "https://github.com/dipa96/my-days-and-not",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "my-days-and-not",
+    "repo_owner": "dipa96",
+    "repotime": "2024-08-01, 12:20:22",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}

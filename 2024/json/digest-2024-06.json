@@ -1,0 +1,357 @@
+{
+    "commits_count": 3,
+    "date_started": "2024-01-06",
+    "date_updated": "2024-06-30",
+    "description": "Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit",
+    "forks_count": 0,
+    "html_url": "https://github.com/LucasPDiniz/CVE-2021-4034",
+    "keywords": [
+        "lpe vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-4034",
+    "repo_owner": "LucasPDiniz",
+    "repotime": "2024-06-30, 18:54:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-06-28",
+    "date_updated": "2024-06-28",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Redfox-Secuirty/NGINX-zero-day-vulnerability",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "NGINX-zero-day-vulnerability",
+    "repo_owner": "Redfox-Secuirty",
+    "repotime": "2024-06-28, 14:41:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2023-08-07",
+    "date_updated": "2024-06-28",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/sensepost/dresscode",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "dresscode",
+    "repo_owner": "sensepost",
+    "repotime": "2024-06-28, 10:35:26",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 488,
+    "date_started": "2018-07-17",
+    "date_updated": "2024-06-27",
+    "description": "CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool",
+    "forks_count": 592,
+    "html_url": "https://github.com/RhinoSecurityLabs/cloudgoat",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "cloudgoat",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2024-06-27, 20:42:25",
+    "stargazers_count": 2846,
+    "watchers_count": 2846
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-06-27",
+    "date_updated": "2024-06-27",
+    "description": "&amp;&#35;35;Exploit: GitStack 2.3.10 Unauthenticated Remote Code Execution &amp;&#35;35; Date: 2024.6.27 &amp;&#35;35; By: Lakshan Sameera(trexthedino) &amp;&#35;35; Category: remote ",
+    "forks_count": 0,
+    "html_url": "https://github.com/lakshan-sameera/GitStack-2.3.10-Unauthenticated-Remote-Code-Execution-full-pseudoshell-environment-",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "GitStack-2.3.10-Unauthenticated-Remote-Code-Execution-full-pseudoshell-environment-",
+    "repo_owner": "lakshan-sameera",
+    "repotime": "2024-06-27, 17:42:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-08-14",
+    "date_updated": "2024-06-22",
+    "description": "Kernel exploits consisting mostly of privilege escalation attacks against core components of Linux distribtions",
+    "forks_count": 0,
+    "html_url": "https://github.com/dubniczky/Kernel-Exploits",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "Kernel-Exploits",
+    "repo_owner": "dubniczky",
+    "repotime": "2024-06-22, 17:01:54",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 37,
+    "date_started": "2021-12-09",
+    "date_updated": "2024-06-18",
+    "description": "visually see issues with supported cipher suites",
+    "forks_count": 7,
+    "html_url": "https://github.com/sensepost/cipherchecks",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "cipherchecks",
+    "repo_owner": "sensepost",
+    "repotime": "2024-06-18, 14:45:40",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-03-21",
+    "date_updated": "2024-06-18",
+    "description": "An exploit for a Linux Kernel IPC Driver whose VM_MAYWRITE flag is not checked during its mmap implementation triggering an AAW and a Heap Overflow for LPE.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mutur4/Blunder-Kernel-Driver",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "Blunder-Kernel-Driver",
+    "repo_owner": "mutur4",
+    "repotime": "2024-06-18, 14:48:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 540,
+    "date_started": "2018-12-07",
+    "date_updated": "2024-06-17",
+    "description": "A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.",
+    "forks_count": 246,
+    "html_url": "https://github.com/TH3xACE/SUDO_KILLER",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "SUDO_KILLER",
+    "repo_owner": "TH3xACE",
+    "repotime": "2024-06-17, 18:10:56",
+    "stargazers_count": 2164,
+    "watchers_count": 2164
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-06-17",
+    "date_updated": "2024-06-17",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/csegedicsaba/jjwt-memory-leak-poc",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "Java",
+    "repo_name": "jjwt-memory-leak-poc",
+    "repo_owner": "csegedicsaba",
+    "repotime": "2024-06-17, 07:39:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-06-14",
+    "date_updated": "2024-06-13",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/Ieakd/0day-POC-for-CVE-2024-27173",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "0day-POC-for-CVE-2024-27173",
+    "repo_owner": "Ieakd",
+    "repotime": "2024-06-13, 23:07:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-06-13",
+    "date_updated": "2024-06-13",
+    "description": "Unauthenticated RCE Flaw in Rejetto HTTP File Server (CVE-2024-23692)",
+    "forks_count": 6,
+    "html_url": "https://github.com/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-23692-RCE-in-Rejetto-HFS",
+    "repo_owner": "jakabakos",
+    "repotime": "2024-06-13, 09:00:23",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-03-22",
+    "date_updated": "2024-06-12",
+    "description": "LPE exploit in the linux module n_gsm.c. This module is used to implement the GSM 07.10 multiplexing protocol. This type of error was “Race Condtiton” which results in “User - After - Free”. Looking at the code, I realized that this could be used to execute my code in the Linux kernel and get LPE on a potential victim.",
+    "forks_count": 5,
+    "html_url": "https://github.com/jmpr4xp4xm4n/GSM_Linux_Kernel_LPE_Nday_Exploit",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "GSM_Linux_Kernel_LPE_Nday_Exploit",
+    "repo_owner": "jmpr4xp4xm4n",
+    "repotime": "2024-06-12, 11:27:12",
+    "stargazers_count": 39,
+    "watchers_count": 39
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-06-11",
+    "date_updated": "2024-06-11",
+    "description": "Windows LPE",
+    "forks_count": 18,
+    "html_url": "https://github.com/RalfHacker/CVE-2024-26229-exploit",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2024-26229-exploit",
+    "repo_owner": "RalfHacker",
+    "repotime": "2024-06-11, 23:41:59",
+    "stargazers_count": 79,
+    "watchers_count": 79
+}
+{
+    "commits_count": 16,
+    "date_started": "2024-03-27",
+    "date_updated": "2024-06-11",
+    "description": "This tool will help you to find CVEs, exploits, or possible 0-Days for a specific technology.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mirak-kimko/VulnerabilitySearcher",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "VulnerabilitySearcher",
+    "repo_owner": "mirak-kimko",
+    "repotime": "2024-06-11, 16:37:54",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-06-06",
+    "date_updated": "2024-06-10",
+    "description": "POC I developed as a training on my  reverse engineering/exploit development skills ASLR and DEP Bypass for quotedb application",
+    "forks_count": 0,
+    "html_url": "https://github.com/mzdaemon/quotedb_alsr_dep_bypass",
+    "keywords": [
+        "aslr bypass exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "quotedb_alsr_dep_bypass",
+    "repo_owner": "mzdaemon",
+    "repotime": "2024-06-10, 19:34:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2022-07-10",
+    "date_updated": "2024-06-10",
+    "description": "We use kali linux and ubuntu to configure a vulnerable version of a minecraft server running log4j. We then use tools like nmap, metasploit, meterpreter, mimicatz, etc to enumerate and exploit the target and perform privilege escalation for our Fullstack Academy Cyber Bootcamp 2022.",
+    "forks_count": 0,
+    "html_url": "https://github.com/JacobAragon1/Log4j-minecraft-exploit",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Log4j-minecraft-exploit",
+    "repo_owner": "JacobAragon1",
+    "repotime": "2024-06-10, 17:27:33",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 13,
+    "date_started": "2024-06-06",
+    "date_updated": "2024-06-07",
+    "description": "PoC Exploit Code for information disclosure Vulnerability  on myscada Pro Product",
+    "forks_count": 0,
+    "html_url": "https://github.com/rootDR/MyscadaPRO-0Day",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "MyscadaPRO-0Day",
+    "repo_owner": "rootDR",
+    "repotime": "2024-06-07, 08:18:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-06-03",
+    "date_updated": "2024-06-03",
+    "description": "Apache HugeGraph Server Unauthenticated RCE - CVE-2024-27348 Proof of concept Exploit  ",
+    "forks_count": 7,
+    "html_url": "https://github.com/kljunowsky/CVE-2024-27348",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-27348",
+    "repo_owner": "kljunowsky",
+    "repotime": "2024-06-03, 21:20:10",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-06-02",
+    "date_updated": "2024-06-03",
+    "description": "Chrome Renderer 1day RCE via Type Confusion in Async Stack Trace (v8ctf submission)",
+    "forks_count": 4,
+    "html_url": "https://github.com/kaist-hacking/CVE-2023-6702",
+    "keywords": [
+        "Chrome rce"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2023-6702",
+    "repo_owner": "kaist-hacking",
+    "repotime": "2024-06-03, 14:03:40",
+    "stargazers_count": 67,
+    "watchers_count": 67
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-05-31",
+    "date_updated": "2024-06-01",
+    "description": "NJS Sandbox Escape Exploit ",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xbigshaq/njs-vr",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "njs-vr",
+    "repo_owner": "0xbigshaq",
+    "repotime": "2024-06-01, 14:25:53",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}

@@ -1,0 +1,493 @@
+{
+    "commits_count": 4,
+    "date_started": "2024-07-31",
+    "date_updated": "2024-07-31",
+    "description": "Demonstration of a critical vulnerability in WhatsApp that allows automatic execution of malicious .pyz (Python) files, leading to a reverse shell and privilege escalation on Windows systems. This exploit bypasses security checks in Windows Defender, UAC, antivirus software, and WhatsApp itself.",
+    "forks_count": 1,
+    "html_url": "https://github.com/r000t1ng/Reverse-Shell-Whatsapp",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Reverse-Shell-Whatsapp",
+    "repo_owner": "r000t1ng",
+    "repotime": "2024-07-31, 03:45:48",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-07-29",
+    "date_updated": "2024-07-30",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/mahmutaymahmutay/CiscoIOSXE-Unauthenticated-RCE-Exploit",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CiscoIOSXE-Unauthenticated-RCE-Exploit",
+    "repo_owner": "mahmutaymahmutay",
+    "repotime": "2024-07-30, 00:01:26",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-07-29",
+    "date_updated": "2024-07-29",
+    "description": "Windows AppLocker Driver (appid.sys) LPE",
+    "forks_count": 12,
+    "html_url": "https://github.com/Crowdfense/CVE-2024-21338",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2024-21338",
+    "repo_owner": "Crowdfense",
+    "repotime": "2024-07-29, 17:29:59",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-07-29",
+    "date_updated": "2024-07-29",
+    "description": "regreSSHion: Remote Unauthenticated Code Execution Vulnerability in OpenSSH server",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sincan2/regreSSHion",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "regreSSHion",
+    "repo_owner": "Sincan2",
+    "repotime": "2024-07-29, 09:08:00",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 23,
+    "date_started": "2024-05-02",
+    "date_updated": "2024-07-28",
+    "description": "Developed a fast and efficient privilege escalation inspection tool in Python for Linux, which identifies potential security vulnerabilities for gaining elevated privileges, enhancing the security assessment process by providing in-depth details of target machine privileges.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Abanteeka/Linux_PrivESC_Inspector",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Linux_PrivESC_Inspector",
+    "repo_owner": "Abanteeka",
+    "repotime": "2024-07-28, 23:35:15",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 17,
+    "date_started": "2024-07-07",
+    "date_updated": "2024-07-26",
+    "description": "This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220",
+    "forks_count": 2,
+    "html_url": "https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "chamilo-lms-unauthenticated-big-upload-rce-poc",
+    "repo_owner": "m3m0o",
+    "repotime": "2024-07-26, 21:19:17",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-07-26",
+    "date_updated": "2024-07-26",
+    "description": "2024HW重保情报、poc、0day共享群",
+    "forks_count": 0,
+    "html_url": "https://github.com/ansanyuan/2024HW",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "2024HW",
+    "repo_owner": "ansanyuan",
+    "repotime": "2024-07-26, 13:31:57",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-07-20",
+    "date_updated": "2024-07-24",
+    "description": "My proof of concept for a Local Privilege Escalation via msiexec in ZScaler Client Connector 3.7.2.18",
+    "forks_count": 0,
+    "html_url": "https://github.com/ewilded/ZScaler_msiexec_LPE_2023",
+    "keywords": [
+        "lpe proof of concept"
+    ],
+    "language": "C++",
+    "repo_name": "ZScaler_msiexec_LPE_2023",
+    "repo_owner": "ewilded",
+    "repotime": "2024-07-24, 04:55:20",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-07-22",
+    "date_updated": "2024-07-22",
+    "description": "PoC for LPE with QlikView",
+    "forks_count": 0,
+    "html_url": "https://github.com/pawlokk/qlikview-poc-CVE-2024-29863",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "PowerShell",
+    "repo_name": "qlikview-poc-CVE-2024-29863",
+    "repo_owner": "pawlokk",
+    "repotime": "2024-07-22, 09:40:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-07-22",
+    "date_updated": "2024-07-22",
+    "description": "PoC for LPE with @Risk Palisade",
+    "forks_count": 0,
+    "html_url": "https://github.com/pawlokk/-risk-palisade-poc",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C++",
+    "repo_name": "-risk-palisade-poc",
+    "repo_owner": "pawlokk",
+    "repotime": "2024-07-22, 08:34:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-07-22",
+    "date_updated": "2024-07-22",
+    "description": "PoC for LPE with Trend Micro Apex One ",
+    "forks_count": 0,
+    "html_url": "https://github.com/pawlokk/apexone-poc",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "PowerShell",
+    "repo_name": "apexone-poc",
+    "repo_owner": "pawlokk",
+    "repotime": "2024-07-22, 08:30:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2024-07-20",
+    "date_updated": "2024-07-20",
+    "description": "Unauthenticated Sensitive Information Disclosure",
+    "forks_count": 0,
+    "html_url": "https://github.com/aratane/CVE-2021-3831",
+    "keywords": [
+        "unauthenticated disclosure"
+    ],
+    "language": "PHP",
+    "repo_name": "CVE-2021-3831",
+    "repo_owner": "aratane",
+    "repotime": "2024-07-20, 16:41:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 21,
+    "date_started": "2024-05-12",
+    "date_updated": "2024-07-19",
+    "description": "Kernel Exploit for CVE-2016-6187 (Local Privilege Escalation)",
+    "forks_count": 0,
+    "html_url": "https://github.com/Milo-D/CVE-2016-6187_LPE",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2016-6187_LPE",
+    "repo_owner": "Milo-D",
+    "repotime": "2024-07-19, 05:03:18",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-05-27",
+    "date_updated": "2024-07-18",
+    "description": "Hash Form – Drag &amp;amp; Drop Form Builder &amp;lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution",
+    "forks_count": 3,
+    "html_url": "https://github.com/Chocapikk/CVE-2024-5084",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-5084",
+    "repo_owner": "Chocapikk",
+    "repotime": "2024-07-18, 01:40:18",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-07-17",
+    "date_updated": "2024-07-17",
+    "description": "Need admin on someone else's computer? No problem, this toolkit can escalate privileges of users and processes",
+    "forks_count": 0,
+    "html_url": "https://github.com/JancoNel/Windows-UAC-Toolkit",
+    "keywords": [
+        "Win escalation of privileges"
+    ],
+    "language": "Python",
+    "repo_name": "Windows-UAC-Toolkit",
+    "repo_owner": "JancoNel",
+    "repotime": "2024-07-17, 19:45:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-06-21",
+    "date_updated": "2024-07-17",
+    "description": "pocs &amp;amp; exploit for CVE-2023-24871 (rce + lpe)",
+    "forks_count": 12,
+    "html_url": "https://github.com/ynwarcs/CVE-2023-24871",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2023-24871",
+    "repo_owner": "ynwarcs",
+    "repotime": "2024-07-17, 14:33:46",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-06-23",
+    "date_updated": "2024-07-17",
+    "description": "poc for CVE-2023-23388 (LPE in Windows 10/11 bthserv service)",
+    "forks_count": 0,
+    "html_url": "https://github.com/ynwarcs/CVE-2023-23388",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2023-23388",
+    "repo_owner": "ynwarcs",
+    "repotime": "2024-07-17, 14:24:08",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-07-15",
+    "date_updated": "2024-07-15",
+    "description": "Zero-day vulnerabilities pose significant threats to software systems as they are exploited before developers can patch them. Predictive analytics offers a promising approach to identifying such vulnerabilities proactively. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/AmareshMuddebihal/-Implementation-of-Predictive-Analytics-for-Zero-Day-Vulnerability-Exploits",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "-Implementation-of-Predictive-Analytics-for-Zero-Day-Vulnerability-Exploits",
+    "repo_owner": "AmareshMuddebihal",
+    "repotime": "2024-07-15, 12:53:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-07-10",
+    "date_updated": "2024-07-10",
+    "description": "Rejetto HTTP File Server (HFS) 2.x - Unauthenticated RCE exploit module (CVE-2024-23692)",
+    "forks_count": 0,
+    "html_url": "https://github.com/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "Rejetto-HFS-2.x-RCE-CVE-2024-23692",
+    "repo_owner": "pradeepboo",
+    "repotime": "2024-07-10, 10:25:57",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-07-10",
+    "date_updated": "2024-07-09",
+    "description": "POC for CVE-2023-4220 - Chamilo LMS Unauthenticated Big Upload File Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/krishnan-tech/CVE-2023-4226-POC",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-4226-POC",
+    "repo_owner": "krishnan-tech",
+    "repotime": "2024-07-09, 22:26:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 35,
+    "date_started": "2024-04-25",
+    "date_updated": "2024-07-08",
+    "description": "CVE-2024-4040 CrushFTP SSTI LFI &amp;amp; Auth Bypass | Full Server Takeover | Wordlist Support",
+    "forks_count": 7,
+    "html_url": "https://github.com/Stuub/CVE-2024-4040-SSTI-LFI-PoC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-4040-SSTI-LFI-PoC",
+    "repo_owner": "Stuub",
+    "repotime": "2024-07-08, 00:47:57",
+    "stargazers_count": 52,
+    "watchers_count": 52
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-07-07",
+    "date_updated": "2024-07-07",
+    "description": "Unrestricted file upload in big file upload functionality in `/main/inc/lib/javascript/bigupload/inc/bigUpload.php` in Chamilo LMS &amp;lt;= v1.11.24 allows unauthenticated attackers to perform stored cross-site scripting attacks and obtain remote code execution via uploading of web shell.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220",
+    "repo_owner": "dollarboysushil",
+    "repotime": "2024-07-07, 22:02:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-07-05",
+    "date_updated": "2024-07-05",
+    "description": "Exploiter a Vulnerability detection and Exploitation tool for GeoServer Unauthenticated Remote Code Execution CVE-2024-36401.",
+    "forks_count": 1,
+    "html_url": "https://github.com/RevoltSecurities/CVE-2024-36401",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-36401",
+    "repo_owner": "RevoltSecurities",
+    "repotime": "2024-07-05, 21:03:08",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 25,
+    "date_started": "2024-07-02",
+    "date_updated": "2024-07-05",
+    "description": "PoC - Remote Unauthenticated Code Execution Vulnerability in OpenSSH server (Scanner and Exploit) ",
+    "forks_count": 20,
+    "html_url": "https://github.com/l0n3m4n/CVE-2024-6387",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2024-6387",
+    "repo_owner": "l0n3m4n",
+    "repotime": "2024-07-05, 23:19:28",
+    "stargazers_count": 45,
+    "watchers_count": 45
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-07-02",
+    "date_updated": "2024-07-02",
+    "description": "CVE-2023-23752 Unauthenticated Information Disclosure Showcase Using Devvortex From HTB.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0x0jr/HTB-Devvortex-CVE-2023-2375-PoC",
+    "keywords": [
+        "unauthenticated disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "HTB-Devvortex-CVE-2023-2375-PoC",
+    "repo_owner": "0x0jr",
+    "repotime": "2024-07-02, 17:46:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-07-02",
+    "date_updated": "2024-07-02",
+    "description": "CVE-2024-6387 : Vulnerability Detection tool  for regreSSHion Remote Unauthenticated Code Execution in OpenSSH Server",
+    "forks_count": 1,
+    "html_url": "https://github.com/th3gokul/CVE-2024-6387",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-6387",
+    "repo_owner": "th3gokul",
+    "repotime": "2024-07-02, 23:17:29",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 46,
+    "date_started": "2023-12-18",
+    "date_updated": "2024-07-02",
+    "description": "Expert analyses and high-quality write-ups on current one-day and zero-day vulnerabilities, detailing CVEs for the cybersecurity community. Maintained by the Fire-Null security research collective.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Fire-Null/Write-Ups",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Write-Ups",
+    "repo_owner": "Fire-Null",
+    "repotime": "2024-07-02, 11:10:35",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-07-02",
+    "date_updated": "2024-07-02",
+    "description": "Recently, the OpenSSH maintainers released security updates to fix a critical vulnerability that could lead to unauthenticated remote code execution (RCE) with root privileges. This vulnerability, identified as CVE-2024-6387, resides in the OpenSSH server component (sshd), which is designed to listen for connections from client applications.",
+    "forks_count": 1,
+    "html_url": "https://github.com/TAM-K592/CVE-2024-6387",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-6387",
+    "repo_owner": "TAM-K592",
+    "repotime": "2024-07-02, 11:23:00",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-07-01",
+    "date_updated": "2024-07-01",
+    "description": "Exploit script showcasing a mixture of CVE-2019-18818 and CVE-2019-19609 for unauthenticated remote code execution in Strapi CMS.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Hackhoven/Strapi-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Strapi-RCE",
+    "repo_owner": "Hackhoven",
+    "repotime": "2024-07-01, 19:23:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
