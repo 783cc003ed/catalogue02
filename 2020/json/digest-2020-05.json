@@ -29,27 +29,8 @@
     "repo_name": "CF-Access-verify",
     "repo_owner": "arunesh90",
     "repotime": "2020-05-31, 01:27:27",
-    "stargazers_count": 11,
-    "watchers_count": 11
-}
-{
-    "commits_count": 13,
-    "date_started": "2020-05-25",
-    "date_updated": "2020-05-30",
-    "description": "A python script to exploit  OpenEMR Version: &amp;lt; 5.0.1",
-    "forks_count": 1,
-    "html_url": "https://github.com/musyoka101/OpenEMR-5.0.1-Remote-Code-execution-Vulnerability-Exploit",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit",
-        "remote code execution vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "OpenEMR-5.0.1-Remote-Code-execution-Vulnerability-Exploit",
-    "repo_owner": "musyoka101",
-    "repotime": "2020-05-30, 07:17:55",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 7,
@@ -59,15 +40,14 @@
     "forks_count": 3,
     "html_url": "https://github.com/SyFi/PanaceaSoft-0day-Exploit",
     "keywords": [
-        "0day exploit",
-        "0day exploitation"
+        "0day exploit"
     ],
     "language": null,
     "repo_name": "PanaceaSoft-0day-Exploit",
     "repo_owner": "SyFi",
     "repotime": "2020-05-29, 20:11:26",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 2,
@@ -85,24 +65,6 @@
     "repotime": "2020-05-29, 22:12:04",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 23,
-    "date_started": "2020-05-28",
-    "date_updated": "2020-05-28",
-    "description": "Android Debug Bridge RCE exploit.",
-    "forks_count": 19,
-    "html_url": "https://github.com/Araknet/r0pwn",
-    "keywords": [
-        "rce exploit",
-        "rce exploitation"
-    ],
-    "language": null,
-    "repo_name": "r0pwn",
-    "repo_owner": "Araknet",
-    "repotime": "2020-05-28, 09:46:31",
-    "stargazers_count": 3,
-    "watchers_count": 3
 }
 {
     "commits_count": 7,
@@ -152,15 +114,15 @@
     "repo_name": "XSS_Cheat_Sheet_2020_Edition",
     "repo_owner": "heroanswer",
     "repotime": "2020-05-25, 22:38:14",
-    "stargazers_count": 495,
-    "watchers_count": 495
+    "stargazers_count": 499,
+    "watchers_count": 499
 }
 {
     "commits_count": 1,
     "date_started": "2020-05-25",
     "date_updated": "2020-05-25",
     "description": "PE Injection、DLL Injection、Process Injection、Thread Injection、Code Injection、Shellcode Injection、ELF Injection、Dylib Injection, including 400+Tools and 350+posts",
-    "forks_count": 130,
+    "forks_count": 139,
     "html_url": "https://github.com/alphaSeclab/injection-stuff",
     "keywords": [
         "code injection"
@@ -169,33 +131,15 @@
     "repo_name": "injection-stuff",
     "repo_owner": "alphaSeclab",
     "repotime": "2020-05-25, 05:00:33",
-    "stargazers_count": 476,
-    "watchers_count": 476
-}
-{
-    "commits_count": 1,
-    "date_started": "2020-05-24",
-    "date_updated": "2020-05-24",
-    "description": "QNAP pre-auth root RCE Exploit (CVE-2019-7192 ~ CVE-2019-7195)",
-    "forks_count": 33,
-    "html_url": "https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit",
-    "keywords": [
-        "rce exploit",
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2019-7192_QNAP_Exploit",
-    "repo_owner": "th3gundy",
-    "repotime": "2020-05-24, 19:28:29",
-    "stargazers_count": 78,
-    "watchers_count": 78
+    "stargazers_count": 499,
+    "watchers_count": 499
 }
 {
     "commits_count": 10,
     "date_started": "2019-07-20",
     "date_updated": "2020-05-24",
     "description": "redis ssrf gopher generater &amp;amp; redis ssrf to rce by master-slave-sync",
-    "forks_count": 17,
+    "forks_count": 18,
     "html_url": "https://github.com/xmsec/redis-ssrf",
     "keywords": [
         "ssrf"
@@ -204,8 +148,8 @@
     "repo_name": "redis-ssrf",
     "repo_owner": "xmsec",
     "repotime": "2020-05-24, 22:16:47",
-    "stargazers_count": 78,
-    "watchers_count": 78
+    "stargazers_count": 79,
+    "watchers_count": 79
 }
 {
     "commits_count": 5,
@@ -229,7 +173,7 @@
     "date_started": "2020-04-13",
     "date_updated": "2020-05-21",
     "description": "Spring Boot Actuator未授权访问【XXE、RCE】单/多目标检测",
-    "forks_count": 70,
+    "forks_count": 67,
     "html_url": "https://github.com/rabbitmask/SB-Actuator",
     "keywords": [
         "xxe"
@@ -238,8 +182,8 @@
     "repo_name": "SB-Actuator",
     "repo_owner": "rabbitmask",
     "repotime": "2020-05-21, 10:28:36",
-    "stargazers_count": 491,
-    "watchers_count": 491
+    "stargazers_count": 505,
+    "watchers_count": 505
 }
 {
     "commits_count": 1,
@@ -249,7 +193,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/einik1/Final-Project-Computer-Engineering---Cyber-Attakcs",
     "keywords": [
-        "session hijacking attack",
         "session attack"
     ],
     "language": "Python",
@@ -267,18 +210,14 @@
     "forks_count": 2,
     "html_url": "https://github.com/febinrev/privesc-post_exploit-collection",
     "keywords": [
-        "Windows escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "Windows escalation of privileges exploitation",
-        "Windows escalation of privileges",
         "escalation of privileges exploit"
     ],
     "language": "Shell",
     "repo_name": "privesc-post_exploit-collection",
     "repo_owner": "febinrev",
     "repotime": "2020-05-20, 01:48:34",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 13,
@@ -288,17 +227,7 @@
     "forks_count": 1,
     "html_url": "https://github.com/SkyBulk/Win10InfoleakPOCs",
     "keywords": [
-        "Win address leak",
-        "Windows address leak poc",
-        "address leak proof of concept",
-        "Win address leak poc",
-        "Windows address leak vulnerability",
-        "address leak vulnerability",
-        "Win address leak vulnerability",
-        "Win address leak proof of concept",
-        "Windows address leak",
-        "address leak poc",
-        "Windows address leak proof of concept"
+        "Win address leak"
     ],
     "language": null,
     "repo_name": "Win10InfoleakPOCs",
@@ -308,57 +237,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 78,
-    "date_started": "2013-10-24",
-    "date_updated": "2020-05-17",
-    "description": "xss.js.org",
-    "forks_count": 75,
-    "html_url": "https://github.com/tennc/xss",
-    "keywords": [
-        "xss"
-    ],
-    "language": "PHP",
-    "repo_name": "xss",
-    "repo_owner": "tennc",
-    "repotime": "2020-05-17, 17:30:15",
-    "stargazers_count": 65,
-    "watchers_count": 65
-}
-{
-    "commits_count": 4,
-    "date_started": "2018-10-27",
-    "date_updated": "2020-05-15",
-    "description": "Privacy Policy FirstName LastName built the Heart Heist app as a Free app. This SERVICE is provided by FirstName LastName at no cost and is intended for use as is.  This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.  If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.  The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Heart Heist unless otherwise defined in this Privacy Policy.  Information Collection and Use  For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I requ...",
-    "forks_count": 0,
-    "html_url": "https://github.com/trigaten/Privacy-Policy",
-    "keywords": [
-        "use after free disclosure"
-    ],
-    "language": null,
-    "repo_name": "Privacy-Policy",
-    "repo_owner": "trigaten",
-    "repotime": "2020-05-15, 18:20:59",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 37,
-    "date_started": "2019-10-18",
-    "date_updated": "2020-05-15",
-    "description": "The Project Femail is a Social Network built to connect women in order to learn and teach things to each other. The technology used to develop this application includes React.js (with Hooks and Redux), Express/Node.js, Flask/Python, HTML5, CSS 3, AWS S3, SQL/Postgres, Cookie Session/CSRF-Token against CSRF attacks, Jest and Socket.io. The project is still ongoing. ",
-    "forks_count": 0,
-    "html_url": "https://github.com/GiordanaFurquim/Femail-Social-Network",
-    "keywords": [
-        "session attack"
-    ],
-    "language": "TSQL",
-    "repo_name": "Femail-Social-Network",
-    "repo_owner": "GiordanaFurquim",
-    "repotime": "2020-05-15, 14:39:51",
-    "stargazers_count": 7,
-    "watchers_count": 7
-}
-{
     "commits_count": 4,
     "date_started": "2020-05-14",
     "date_updated": "2020-05-15",
@@ -366,11 +244,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/zveriu/CVE-2009-0229-PoC",
     "keywords": [
-        "Windows lpe poc",
-        "Windows lpe vulnerability",
-        "Windows lpe",
-        "lpe poc",
-        "lpe vulnerability"
+        "lpe poc"
     ],
     "language": null,
     "repo_name": "CVE-2009-0229-PoC",
@@ -387,11 +261,7 @@
     "forks_count": 8,
     "html_url": "https://github.com/bharadwajyas/TasScheduler_ALPC-Exploit",
     "keywords": [
-        "lpe exploit",
-        "Windows lpe exploit",
-        "Windows lpe",
-        "Windows lpe exploitation",
-        "lpe exploitation"
+        "lpe exploit"
     ],
     "language": "PowerShell",
     "repo_name": "TasScheduler_ALPC-Exploit",
@@ -401,40 +271,6 @@
     "watchers_count": 9
 }
 {
-    "commits_count": 5,
-    "date_started": "2020-05-12",
-    "date_updated": "2020-05-13",
-    "description": "CVE-2017-8759 | .NET Framework Remote Code Execution Vulnerability",
-    "forks_count": 0,
-    "html_url": "https://github.com/GayashanM/OHTS",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": null,
-    "repo_name": "OHTS",
-    "repo_owner": "GayashanM",
-    "repotime": "2020-05-13, 23:00:27",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 11,
-    "date_started": "2020-05-09",
-    "date_updated": "2020-05-13",
-    "description": "A POC Document from A-Z ",
-    "forks_count": 0,
-    "html_url": "https://github.com/KalinduWijekoon/Joomla-Object-Injection-x-forwarded-for-Header-RemoteCodeExecution",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": null,
-    "repo_name": "Joomla-Object-Injection-x-forwarded-for-Header-RemoteCodeExecution",
-    "repo_owner": "KalinduWijekoon",
-    "repotime": "2020-05-13, 12:39:19",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 1,
     "date_started": "2020-05-13",
     "date_updated": "2020-05-13",
@@ -442,71 +278,12 @@
     "forks_count": 0,
     "html_url": "https://github.com/ashensudu/Exploiting-Vulnerable-Server-for-Windows-7",
     "keywords": [
-        "Windows remote code execution vulnerability",
-        "Windows remote code execution",
-        "Windows remote code execution exploit",
-        "Win remote code execution exploit",
-        "Win remote code execution",
-        "Win remote code execution vulnerability",
-        "Win remote code execution exploitation",
-        "Windows remote code execution exploitation"
+        "Win remote code execution"
     ],
     "language": "Python",
     "repo_name": "Exploiting-Vulnerable-Server-for-Windows-7",
     "repo_owner": "ashensudu",
     "repotime": "2020-05-13, 11:38:04",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 5,
-    "date_started": "2020-05-12",
-    "date_updated": "2020-05-12",
-    "description": "Local Root vulnerability- CVE-2019-13272 / Security Bypass Vulnerability – CVE-2019-14287/Google Android - 'Stagefright' Remote Code Execution - CVE-2015-1538",
-    "forks_count": 1,
-    "html_url": "https://github.com/Tharana/vulnerability-exploitation",
-    "keywords": [
-        "remote code execution vulnerability",
-        "remote code execution exploitation"
-    ],
-    "language": null,
-    "repo_name": "vulnerability-exploitation",
-    "repo_owner": "Tharana",
-    "repotime": "2020-05-12, 23:43:10",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 2,
-    "date_started": "2020-05-12",
-    "date_updated": "2020-05-12",
-    "description": "UAC Bypass Via Registry Hijacking on Windows 10",
-    "forks_count": 3,
-    "html_url": "https://github.com/hydrasky-team/bypass_uac_via_registry_hijacking",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": null,
-    "repo_name": "bypass_uac_via_registry_hijacking",
-    "repo_owner": "hydrasky-team",
-    "repotime": "2020-05-12, 15:15:00",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 3,
-    "date_started": "2020-05-11",
-    "date_updated": "2020-05-11",
-    "description": "Google Android - 'Stagefright' Remote Code Execution - CVE-2015-1538",
-    "forks_count": 1,
-    "html_url": "https://github.com/Tharana/Android-vulnerability-exploitation",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": null,
-    "repo_name": "Android-vulnerability-exploitation",
-    "repo_owner": "Tharana",
-    "repotime": "2020-05-11, 17:05:54",
     "stargazers_count": 1,
     "watchers_count": 1
 }
@@ -518,9 +295,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/snix0/GitStack-RCE-Exploit-Shell",
     "keywords": [
-        "unauthenticated rce",
-        "unauthenticated remote code execution",
-        "remote code execution poc"
+        "unauthenticated rce"
     ],
     "language": "Python",
     "repo_name": "GitStack-RCE-Exploit-Shell",
@@ -528,42 +303,6 @@
     "repotime": "2020-05-11, 01:39:53",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 7,
-    "date_started": "2020-04-04",
-    "date_updated": "2020-05-10",
-    "description": "PoCs for CVE-2020-11108; an RCE and priv esc in Pi-hole",
-    "forks_count": 7,
-    "html_url": "https://github.com/Frichetten/CVE-2020-11108-PoC",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2020-11108-PoC",
-    "repo_owner": "Frichetten",
-    "repotime": "2020-05-10, 17:35:45",
-    "stargazers_count": 26,
-    "watchers_count": 26
-}
-{
-    "commits_count": 2,
-    "date_started": "2020-05-10",
-    "date_updated": "2020-05-10",
-    "description": "A Python script to exploit CVE-2020-8816, a remote code execution vulnerability on the Pi-hole",
-    "forks_count": 6,
-    "html_url": "https://github.com/AndreyRainchik/CVE-2020-8816",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit",
-        "remote code execution vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2020-8816",
-    "repo_owner": "AndreyRainchik",
-    "repotime": "2020-05-10, 14:33:19",
-    "stargazers_count": 9,
-    "watchers_count": 9
 }
 {
     "commits_count": 4,
@@ -587,7 +326,7 @@
     "date_started": "2020-05-09",
     "date_updated": "2020-05-10",
     "description": "LFI to RCE tool.",
-    "forks_count": 3,
+    "forks_count": 4,
     "html_url": "https://github.com/takabaya-shi/LFI2RCE",
     "keywords": [
         "lfi"
@@ -596,50 +335,15 @@
     "repo_name": "LFI2RCE",
     "repo_owner": "takabaya-shi",
     "repotime": "2020-05-10, 17:21:06",
-    "stargazers_count": 12,
-    "watchers_count": 12
-}
-{
-    "commits_count": 43,
-    "date_started": "2020-05-10",
-    "date_updated": "2020-05-10",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/pbr94/Shellshock-Bash-Remote-Code-Execution-Vulnerability-and-Exploitation",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution vulnerability"
-    ],
-    "language": null,
-    "repo_name": "Shellshock-Bash-Remote-Code-Execution-Vulnerability-and-Exploitation",
-    "repo_owner": "pbr94",
-    "repotime": "2020-05-10, 09:47:01",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 2,
-    "date_started": "2020-05-09",
-    "date_updated": "2020-05-10",
-    "description": "A simple Local File Inclusion detection tool written in python",
-    "forks_count": 0,
-    "html_url": "https://github.com/0xx7/LFIer",
-    "keywords": [
-        "local file inclusion"
-    ],
-    "language": "Python",
-    "repo_name": "LFIer",
-    "repo_owner": "0xx7",
-    "repotime": "2020-05-10, 03:59:51",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 3,
     "date_started": "2020-05-09",
     "date_updated": "2020-05-09",
     "description": "LFI Payloads List coolected from github repos",
-    "forks_count": 36,
+    "forks_count": 37,
     "html_url": "https://github.com/emadshanab/LFI-Payload-List",
     "keywords": [
         "lfi"
@@ -648,8 +352,8 @@
     "repo_name": "LFI-Payload-List",
     "repo_owner": "emadshanab",
     "repotime": "2020-05-09, 21:25:04",
-    "stargazers_count": 62,
-    "watchers_count": 62
+    "stargazers_count": 68,
+    "watchers_count": 68
 }
 {
     "commits_count": 2,
@@ -693,8 +397,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/wechicken456/first_rop",
     "keywords": [
-        "aslr bypass",
-        "aslr bypass exploit",
         "aslr bypass exploitation"
     ],
     "language": "Python",
@@ -703,29 +405,6 @@
     "repotime": "2020-05-08, 18:37:28",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 159,
-    "date_started": "2015-03-05",
-    "date_updated": "2020-05-07",
-    "description": "Miscellaneous exploit code",
-    "forks_count": 582,
-    "html_url": "https://github.com/XiphosResearch/exploits",
-    "keywords": [
-        "Windows rce exploitation",
-        "rce poc",
-        "Windows rce poc",
-        "rce exploit",
-        "Windows rce",
-        "Windows rce exploit",
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "exploits",
-    "repo_owner": "XiphosResearch",
-    "repotime": "2020-05-07, 21:20:14",
-    "stargazers_count": 1472,
-    "watchers_count": 1472
 }
 {
     "commits_count": 3,
@@ -745,42 +424,6 @@
     "watchers_count": 4
 }
 {
-    "commits_count": 2,
-    "date_started": "2020-05-05",
-    "date_updated": "2020-05-05",
-    "description": "Classification - Machine Learning This is ‘Classification’ tutorial which is a part of the Machine Learning course offered by Simplilearn. We will learn Classification algorithms, types of classification algorithms, support vector machines(SVM), Naive Bayes, Decision Tree and Random Forest Classifier in this tutorial.  Objectives Let us look at some of the objectives covered under this section of Machine Learning tutorial.  Define Classification and list its algorithms Describe Logistic Regression and Sigmoid Probability Explain K-Nearest Neighbors and KNN classification Understand Support Vector Machines, Polynomial Kernel, and Kernel Trick Analyze Kernel Support Vector Machines with an example Implement the Naïve Bayes Classifier Demonstrate Decision Tree Classifier Describe Random Forest Classifier Classification: Meaning Classification is a type of supervised learning. It specifies the class to which data elements belong to and is best used when the output has finite and discrete v...",
-    "forks_count": 40,
-    "html_url": "https://github.com/sayantann11/all-classification-templetes-for-ML",
-    "keywords": [
-        "Win use after free",
-        "use after free analysis",
-        "Win use after free analysis"
-    ],
-    "language": "Python",
-    "repo_name": "all-classification-templetes-for-ML",
-    "repo_owner": "sayantann11",
-    "repotime": "2020-05-05, 16:00:32",
-    "stargazers_count": 153,
-    "watchers_count": 153
-}
-{
-    "commits_count": 1,
-    "date_started": "2020-05-05",
-    "date_updated": "2020-05-05",
-    "description": "OpenWRT DOS Exploit, unfort. no RCE ;)",
-    "forks_count": 0,
-    "html_url": "https://github.com/mclab-hbrs/openwrt-dos-poc",
-    "keywords": [
-        "rce dos"
-    ],
-    "language": null,
-    "repo_name": "openwrt-dos-poc",
-    "repo_owner": "mclab-hbrs",
-    "repotime": "2020-05-05, 00:47:06",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
     "commits_count": 5,
     "date_started": "2020-05-04",
     "date_updated": "2020-05-05",
@@ -794,8 +437,8 @@
     "repo_name": "CVE-2020-3153",
     "repo_owner": "shubham0d",
     "repotime": "2020-05-05, 01:04:15",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 2,
@@ -805,31 +448,12 @@
     "forks_count": 3,
     "html_url": "https://github.com/moni545/Printer-Repair-Dubai",
     "keywords": [
-        "address leak analysis",
-        "use after free analysis"
+        "address leak analysis"
     ],
     "language": "PHP",
     "repo_name": "Printer-Repair-Dubai",
     "repo_owner": "moni545",
     "repotime": "2020-05-04, 22:08:38",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 0,
-    "date_started": "2020-05-04",
-    "date_updated": "2020-05-04",
-    "description": "Note-D3 technology (www.printerrepairdubai.ae). is an independent and locally technology company. We Repair service Any Printers brands!  Our experts will easily solve all your problems! Printer Repair in Dubai is not an easy task, but the most experienced specialists of our center will cope with a problem of any complexity. We work with HP, Canon and brands of other well-known manufacturers. We solve problems with the power supply, control boards, paper feed mechanism, gearbox, malfunctions in the operation of the guide carriage or the print head and all other difficulties that arise when working with office equipment. Leading Printer repair service center Dubai. Our center provides repair services for hp, Canon, Epson plotters, as well as wide format equipment from other manufacturers.  If you need Printer repair, then our service center will be your best choice, because:  we are engaged in Printer repair;  we care about our reputation, and therefore we put only branded parts on repa...",
-    "forks_count": 0,
-    "html_url": "https://github.com/moni545/Printer-Repair-Dubai-",
-    "keywords": [
-        "address leak analysis",
-        "use after free analysis"
-    ],
-    "language": null,
-    "repo_name": "Printer-Repair-Dubai-",
-    "repo_owner": "moni545",
-    "repotime": "2020-05-04, 18:06:07",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -864,26 +488,8 @@
     "repo_name": "alkaline-injector",
     "repo_owner": "uf0o",
     "repotime": "2020-05-03, 19:04:46",
-    "stargazers_count": 30,
-    "watchers_count": 30
-}
-{
-    "commits_count": 2,
-    "date_started": "2020-05-02",
-    "date_updated": "2020-05-02",
-    "description": "Remote code execution exploit against Morita Shogi 64 for Nintendo 64",
-    "forks_count": 3,
-    "html_url": "https://github.com/CTurt/shogihax",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "C",
-    "repo_name": "shogihax",
-    "repo_owner": "CTurt",
-    "repotime": "2020-05-02, 23:01:45",
-    "stargazers_count": 47,
-    "watchers_count": 47
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 5,
@@ -910,7 +516,6 @@
     "forks_count": 2,
     "html_url": "https://github.com/iosdec/Sandbox-Escape-POC-iOS-13.4.1-and-lower",
     "keywords": [
-        "sandbox escape poc",
         "sandbox escape exploit"
     ],
     "language": "Objective-C",

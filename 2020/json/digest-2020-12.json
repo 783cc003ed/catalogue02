@@ -1,22 +1,4 @@
 {
-    "commits_count": 5,
-    "date_started": "2020-11-13",
-    "date_updated": "2020-12-31",
-    "description": "Exploit for Laravel Remote Code Execution with API_KEY (CVE-2018-15133)",
-    "forks_count": 17,
-    "html_url": "https://github.com/aljavier/exploit_laravel_cve-2018-15133",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "exploit_laravel_cve-2018-15133",
-    "repo_owner": "aljavier",
-    "repotime": "2020-12-31, 16:34:30",
-    "stargazers_count": 44,
-    "watchers_count": 44
-}
-{
     "commits_count": 2,
     "date_started": "2020-12-30",
     "date_updated": "2020-12-30",
@@ -30,8 +12,8 @@
     "repo_name": "nima0011",
     "repo_owner": "nima0011",
     "repotime": "2020-12-30, 13:55:46",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 18,
@@ -47,8 +29,8 @@
     "repo_name": "Tenda-AC6-Root-Acces",
     "repo_owner": "cecada",
     "repotime": "2020-12-28, 23:41:59",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 1,
@@ -92,16 +74,14 @@
     "forks_count": 2,
     "html_url": "https://github.com/bookworm52/EthicalHackingFromScratch",
     "keywords": [
-        "hard coded password",
-        "spoofing certificate",
-        "spoofing vulnerability"
+        "hard coded password"
     ],
     "language": null,
     "repo_name": "EthicalHackingFromScratch",
     "repo_owner": "bookworm52",
     "repotime": "2020-12-26, 14:35:37",
-    "stargazers_count": 25,
-    "watchers_count": 25
+    "stargazers_count": 40,
+    "watchers_count": 40
 }
 {
     "commits_count": 2,
@@ -111,15 +91,14 @@
     "forks_count": 0,
     "html_url": "https://github.com/Derek1ization/Hack-pack-ON-STRIOD-2020",
     "keywords": [
-        "session hijacking attack",
-        "session attack"
+        "session hijacking attack"
     ],
     "language": null,
     "repo_name": "Hack-pack-ON-STRIOD-2020",
     "repo_owner": "Derek1ization",
     "repotime": "2020-12-25, 04:45:47",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 34,
@@ -129,8 +108,7 @@
     "forks_count": 13,
     "html_url": "https://github.com/0xtn/wp-mini-exploiter",
     "keywords": [
-        "0day exploit",
-        "0day exploitation"
+        "0day exploit"
     ],
     "language": "Python",
     "repo_name": "wp-mini-exploiter",
@@ -141,45 +119,27 @@
 }
 {
     "commits_count": 3,
-    "date_started": "2020-12-25",
+    "date_started": "2023-01-26",
     "date_updated": "2020-12-24",
     "description": "This module exploits an arbitrary file upload in the WordPress wpDiscuz plugin version 7.0.4. This flaw gave unauthenticated attackers the ability to upload arbitrary files, including PHP files, and achieve remote code execution on a vulnerable site’s server.",
-    "forks_count": 1,
-    "html_url": "https://github.com/hoanx-2146/wpDiscuz_unauthenticated_arbitrary_file_upload",
+    "forks_count": 0,
+    "html_url": "https://github.com/ABIRHOSSAIN10/wpDiscuz_unauthenticated_arbitrary_file_upload",
     "keywords": [
-        "unauthenticated attacker",
         "unauthenticated remote code execution"
     ],
-    "language": "Ruby",
+    "language": null,
     "repo_name": "wpDiscuz_unauthenticated_arbitrary_file_upload",
-    "repo_owner": "hoanx-2146",
+    "repo_owner": "ABIRHOSSAIN10",
     "repotime": "2020-12-24, 20:48:01",
-    "stargazers_count": 5,
-    "watchers_count": 5
-}
-{
-    "commits_count": 1,
-    "date_started": "2020-12-24",
-    "date_updated": "2020-12-25",
-    "description": "xxe服务器",
-    "forks_count": 0,
-    "html_url": "https://github.com/suanve/xxeserver",
-    "keywords": [
-        "xxe"
-    ],
-    "language": "Go",
-    "repo_name": "xxeserver",
-    "repo_owner": "suanve",
-    "repotime": "2020-12-25, 00:05:06",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 9,
     "date_started": "2020-12-24",
     "date_updated": "2020-12-24",
     "description": "A simple script to bypass UAC in windows 10.",
-    "forks_count": 6,
+    "forks_count": 7,
     "html_url": "https://github.com/Windows10-AdminHack/Admin-Hack-for-Windows",
     "keywords": [
         "uac bypass"
@@ -188,8 +148,8 @@
     "repo_name": "Admin-Hack-for-Windows",
     "repo_owner": "Windows10-AdminHack",
     "repotime": "2020-12-24, 15:53:53",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 5,
@@ -216,8 +176,7 @@
     "forks_count": 11,
     "html_url": "https://github.com/MisterSpyx/WP-SMTP-0DAY",
     "keywords": [
-        "0day exploit",
-        "0day exploitation"
+        "0day exploit"
     ],
     "language": "Python",
     "repo_name": "WP-SMTP-0DAY",
@@ -225,41 +184,6 @@
     "repotime": "2020-12-24, 07:43:45",
     "stargazers_count": 13,
     "watchers_count": 13
-}
-{
-    "commits_count": 3,
-    "date_started": "2020-06-01",
-    "date_updated": "2020-12-22",
-    "description": "SSLoth-based remote code execution exploit for the 3DS eShop application",
-    "forks_count": 1,
-    "html_url": "https://github.com/MrNbaYoh/trailerhax",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "trailerhax",
-    "repo_owner": "MrNbaYoh",
-    "repotime": "2020-12-22, 23:43:43",
-    "stargazers_count": 16,
-    "watchers_count": 16
-}
-{
-    "commits_count": 8,
-    "date_started": "2016-03-08",
-    "date_updated": "2020-12-22",
-    "description": "Automatically exported from code.google.com/p/lfimap",
-    "forks_count": 6,
-    "html_url": "https://github.com/aepereyra/lfimap",
-    "keywords": [
-        "lfi"
-    ],
-    "language": "Python",
-    "repo_name": "lfimap",
-    "repo_owner": "aepereyra",
-    "repotime": "2020-12-22, 12:28:43",
-    "stargazers_count": 2,
-    "watchers_count": 2
 }
 {
     "commits_count": 2,
@@ -303,49 +227,14 @@
     "forks_count": 12,
     "html_url": "https://github.com/eugenebmx/CVE-2020-13942",
     "keywords": [
-        "rce poc",
         "unauthenticated rce"
     ],
     "language": null,
     "repo_name": "CVE-2020-13942",
     "repo_owner": "eugenebmx",
     "repotime": "2020-12-21, 14:48:48",
-    "stargazers_count": 30,
-    "watchers_count": 30
-}
-{
-    "commits_count": 5,
-    "date_started": "2020-11-21",
-    "date_updated": "2020-12-20",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/hangyi00789/Local-File-Inclusion",
-    "keywords": [
-        "local file inclusion"
-    ],
-    "language": "Shell",
-    "repo_name": "Local-File-Inclusion",
-    "repo_owner": "hangyi00789",
-    "repotime": "2020-12-20, 19:11:53",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 16,
-    "date_started": "2020-12-07",
-    "date_updated": "2020-12-18",
-    "description": "Econmic analysis, using pyhton and SQL queries, of the default risk from each of the partners from the recent RCEP (Regional Comprehensive Economic Partnership) trade deal, from Asia-Pacific.",
-    "forks_count": 1,
-    "html_url": "https://github.com/Alva789ro/RCEP-Economic-Risk-Analysis",
-    "keywords": [
-        "rce analysis"
-    ],
-    "language": "Python",
-    "repo_name": "RCEP-Economic-Risk-Analysis",
-    "repo_owner": "Alva789ro",
-    "repotime": "2020-12-18, 18:28:51",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 1,
@@ -355,8 +244,6 @@
     "forks_count": 5,
     "html_url": "https://github.com/LIJI32/SnatchBox",
     "keywords": [
-        "sandbox escape vulnerability",
-        "sandbox escape exploitation",
         "sandbox escape exploit"
     ],
     "language": "Objective-C",
@@ -367,57 +254,21 @@
     "watchers_count": 30
 }
 {
-    "commits_count": 2,
-    "date_started": "2020-11-01",
-    "date_updated": "2020-12-18",
-    "description": "Secure login form system with the use of a MySQL database and a PDO connection to protect the database from SQL injection vulnerabilities and session hijacking.",
-    "forks_count": 0,
-    "html_url": "https://github.com/haghighisina/Secure-Login-Form-Authentication-System",
-    "keywords": [
-        "session vulnerability",
-        "session hijacking vulnerability"
-    ],
-    "language": "PHP",
-    "repo_name": "Secure-Login-Form-Authentication-System",
-    "repo_owner": "haghighisina",
-    "repotime": "2020-12-18, 16:24:33",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 5,
-    "date_started": "2020-12-17",
-    "date_updated": "2020-12-17",
-    "description": "Internet of Things workshop conducted on 19th December 2020 in association with Etisalat Digital and PTC.  In this session, we will take the engine data obtained on the cloud and use ThingWorx Analytics Server to create an engine failure prediction model based on the same. We’ll use Analytics to visualise and refine our machine learning model iteratively based on statistical methods. Our system will then be able to predict outcomes based on new incoming data in real-time with our early warning capacity automatically improving as more data is made available.  Prerequisites: Activate your free PTC Cloud trial developer account - https://developer.thingworx.com/en/resources/trials (No download required)",
-    "forks_count": 0,
-    "html_url": "https://github.com/The-Assembly/PredictiveIoT",
-    "keywords": [
-        "session prediction"
-    ],
-    "language": "Lua",
-    "repo_name": "PredictiveIoT",
-    "repo_owner": "The-Assembly",
-    "repotime": "2020-12-17, 21:12:20",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 28,
     "date_started": "2020-12-13",
     "date_updated": "2020-12-16",
     "description": "RCE for old gitlab version &amp;lt;= 11.4.7 &amp;amp; 12.4.0-12.8.1 and LFI for old gitlab versions 10.4 - 12.8.1",
-    "forks_count": 29,
+    "forks_count": 26,
     "html_url": "https://github.com/dotPY-hax/gitlab_RCE",
     "keywords": [
-        "rce exploit",
         "lfi"
     ],
     "language": "Python",
     "repo_name": "gitlab_RCE",
     "repo_owner": "dotPY-hax",
     "repotime": "2020-12-16, 21:36:45",
-    "stargazers_count": 156,
-    "watchers_count": 156
+    "stargazers_count": 157,
+    "watchers_count": 157
 }
 {
     "commits_count": 25,
@@ -427,8 +278,7 @@
     "forks_count": 21,
     "html_url": "https://github.com/jollheef/lpe",
     "keywords": [
-        "lpe exploit",
-        "lpe exploitation"
+        "lpe exploit"
     ],
     "language": "C",
     "repo_name": "lpe",
@@ -436,23 +286,6 @@
     "repotime": "2020-12-16, 16:55:09",
     "stargazers_count": 182,
     "watchers_count": 182
-}
-{
-    "commits_count": 1,
-    "date_started": "2020-12-16",
-    "date_updated": "2020-12-17",
-    "description": "基于注册表劫持BypassUAC",
-    "forks_count": 9,
-    "html_url": "https://github.com/Hzllaga/bypassUAC",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "C#",
-    "repo_name": "bypassUAC",
-    "repo_owner": "Hzllaga",
-    "repotime": "2020-12-17, 00:34:02",
-    "stargazers_count": 29,
-    "watchers_count": 29
 }
 {
     "commits_count": 3,
@@ -476,7 +309,7 @@
     "date_started": "2017-03-20",
     "date_updated": "2020-12-16",
     "description": "Android 检索手机目录方式的文件选择器，轻量且界面友好，定制性高。This is a lightweight file selector, it can select files by retrieve phone directory",
-    "forks_count": 219,
+    "forks_count": 213,
     "html_url": "https://github.com/leonHua/LFilePicker",
     "keywords": [
         "lfi"
@@ -493,7 +326,7 @@
     "date_started": "2017-01-10",
     "date_updated": "2020-12-15",
     "description": "A simple app to demo SQL Injection login bypass",
-    "forks_count": 18,
+    "forks_count": 17,
     "html_url": "https://github.com/appsecco/sqlinjectionloginbypass",
     "keywords": [
         "sql injection"
@@ -502,8 +335,8 @@
     "repo_name": "sqlinjectionloginbypass",
     "repo_owner": "appsecco",
     "repotime": "2020-12-15, 13:01:25",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 6,
@@ -540,23 +373,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 9,
-    "date_started": "2020-08-22",
-    "date_updated": "2020-12-13",
-    "description": "A password generator app that prompts questions for the user thus a random password specific to the user can be created. The app is responsive and can be used on the go for any device. The app is also very simple and small that gives a sense of security(coming from a small time coder) versus a huge program that has many vulnerabilities and hard to read.",
-    "forks_count": 0,
-    "html_url": "https://github.com/MrDawit/Password-Generator",
-    "keywords": [
-        "hard coded password"
-    ],
-    "language": "JavaScript",
-    "repo_name": "Password-Generator",
-    "repo_owner": "MrDawit",
-    "repotime": "2020-12-13, 23:17:58",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 1,
     "date_started": "2020-12-13",
     "date_updated": "2020-12-13",
@@ -578,26 +394,24 @@
     "date_started": "2019-03-02",
     "date_updated": "2020-12-13",
     "description": "Remote Command Execution as SYSTEM on Windows IoT Core (releases available for Python2.7 &amp;amp; Python3)",
-    "forks_count": 87,
+    "forks_count": 86,
     "html_url": "https://github.com/SafeBreach-Labs/SirepRAT",
     "keywords": [
-        "Windows rce",
-        "rce exploit",
         "Windows rce exploit"
     ],
     "language": "Python",
     "repo_name": "SirepRAT",
     "repo_owner": "SafeBreach-Labs",
     "repotime": "2020-12-13, 11:52:54",
-    "stargazers_count": 365,
-    "watchers_count": 365
+    "stargazers_count": 371,
+    "watchers_count": 371
 }
 {
     "commits_count": 15,
     "date_started": "2020-12-07",
     "date_updated": "2020-12-08",
     "description": "Web Vulnerability Detector (XSS,SQL,LFI,XST,WAF)",
-    "forks_count": 9,
+    "forks_count": 11,
     "html_url": "https://github.com/farinap5/webpwn",
     "keywords": [
         "lfi"
@@ -606,8 +420,8 @@
     "repo_name": "webpwn",
     "repo_owner": "farinap5",
     "repotime": "2020-12-08, 12:14:08",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 9,
@@ -634,7 +448,6 @@
     "forks_count": 4,
     "html_url": "https://github.com/dro/dell-flash64w-eop",
     "keywords": [
-        "escalation of privileges exploitation",
         "escalation of privileges exploit"
     ],
     "language": "C",
@@ -658,15 +471,15 @@
     "repo_name": "prototype",
     "repo_owner": "EMETEM-GLOBAL-ENTERPRISE",
     "repotime": "2020-12-06, 07:17:02",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 23,
     "date_started": "2019-07-08",
     "date_updated": "2020-12-06",
     "description": "Redis 4.x/5.x RCE",
-    "forks_count": 142,
+    "forks_count": 144,
     "html_url": "https://github.com/Dliv3/redis-rogue-server",
     "keywords": [
         "ssrf"
@@ -675,8 +488,8 @@
     "repo_name": "redis-rogue-server",
     "repo_owner": "Dliv3",
     "repotime": "2020-12-06, 15:02:12",
-    "stargazers_count": 454,
-    "watchers_count": 454
+    "stargazers_count": 515,
+    "watchers_count": 515
 }
 {
     "commits_count": 13,
@@ -694,23 +507,6 @@
     "repotime": "2020-12-06, 12:29:43",
     "stargazers_count": 92,
     "watchers_count": 92
-}
-{
-    "commits_count": 6,
-    "date_started": "2020-10-15",
-    "date_updated": "2020-12-05",
-    "description": "SpringBoot Actuator未授权自动化利用，支持信息泄漏/RCE",
-    "forks_count": 25,
-    "html_url": "https://github.com/LFYSec/ActuatorExploit",
-    "keywords": [
-        "rce exploit"
-    ],
-    "language": "Python",
-    "repo_name": "ActuatorExploit",
-    "repo_owner": "LFYSec",
-    "repotime": "2020-12-05, 21:57:34",
-    "stargazers_count": 231,
-    "watchers_count": 231
 }
 {
     "commits_count": 7,
@@ -743,8 +539,8 @@
     "repo_name": "sql_injection_basic",
     "repo_owner": "Y000o",
     "repotime": "2020-12-03, 23:13:22",
-    "stargazers_count": 53,
-    "watchers_count": 53
+    "stargazers_count": 56,
+    "watchers_count": 56
 }
 {
     "commits_count": 19,
@@ -798,23 +594,6 @@
     "watchers_count": 2
 }
 {
-    "commits_count": 32,
-    "date_started": "2020-04-16",
-    "date_updated": "2020-12-02",
-    "description": "A (purpousely) vulnerable, social-media-like, django web application",
-    "forks_count": 9,
-    "html_url": "https://github.com/jvlsg/HeadPage",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "HeadPage",
-    "repo_owner": "jvlsg",
-    "repotime": "2020-12-02, 17:35:04",
-    "stargazers_count": 11,
-    "watchers_count": 11
-}
-{
     "commits_count": 7,
     "date_started": "2020-11-29",
     "date_updated": "2020-12-02",
@@ -836,7 +615,7 @@
     "date_started": "2011-11-04",
     "date_updated": "2020-12-01",
     "description": "Damn Small XSS Scanner",
-    "forks_count": 136,
+    "forks_count": 127,
     "html_url": "https://github.com/stamparm/DSXS",
     "keywords": [
         "xss"
@@ -845,8 +624,8 @@
     "repo_name": "DSXS",
     "repo_owner": "stamparm",
     "repotime": "2020-12-01, 22:00:13",
-    "stargazers_count": 412,
-    "watchers_count": 412
+    "stargazers_count": 421,
+    "watchers_count": 421
 }
 {
     "commits_count": 2,
@@ -862,6 +641,6 @@
     "repo_name": "APT-0days-Reloaded",
     "repo_owner": "loneicewolf",
     "repotime": "2020-12-01, 12:25:32",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 2,
+    "watchers_count": 2
 }

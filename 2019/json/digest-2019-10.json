@@ -3,7 +3,7 @@
     "date_started": "2019-07-16",
     "date_updated": "2019-10-31",
     "description": "总结了一下2019年在JVM环境中使用XXE攻击的知识",
-    "forks_count": 11,
+    "forks_count": 12,
     "html_url": "https://github.com/LeadroyaL/java_xxe_2019",
     "keywords": [
         "xxe"
@@ -12,8 +12,8 @@
     "repo_name": "java_xxe_2019",
     "repo_owner": "LeadroyaL",
     "repotime": "2019-10-31, 16:21:39",
-    "stargazers_count": 58,
-    "watchers_count": 58
+    "stargazers_count": 57,
+    "watchers_count": 57
 }
 {
     "commits_count": 2,
@@ -23,54 +23,31 @@
     "forks_count": 1,
     "html_url": "https://github.com/chhaiyashrey/Attack-on-MODBUS-communication-to-get-Root-access-of-victim-PC-Provide-possible-solution-with-snort",
     "keywords": [
-        "spoofing session",
-        "session hijacking attack",
-        "session attack",
-        "session hijacking"
+        "session attack"
     ],
     "language": "Python",
     "repo_name": "Attack-on-MODBUS-communication-to-get-Root-access-of-victim-PC-Provide-possible-solution-with-snort",
     "repo_owner": "chhaiyashrey",
     "repotime": "2019-10-29, 14:26:36",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 2,
     "date_started": "2019-10-28",
     "date_updated": "2019-10-28",
     "description": "W3C Strategic Highlights  September 2019  This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For the previous edition, see the April 2019 W3C Strategic Highlights. For future editions of this report, please consult the latest version.  A Chinese translation is available.  ☰ Contents  Introduction Future Web Standards Meeting Industry Needs Web Payments Digital Publishing Media and Entertainment Web &amp;amp; Telecommunications Real-Time Communications (WebRTC) Web &amp;amp; Networks Automotive Web of Things Strengthening the Core of the Web HTML CSS Fonts SVG Audio Performance Web Performance WebAssembly Testing Browser Testing and Tools WebPlatform Tests Web of Data Web for All Security, Privacy, Identity Internationalization (i18n) Web Accessibility Outreach to the world W3C Developer Relations W3C Training Translations W3C Liaisons Introduction  This report highlights recent work of enhancem...",
-    "forks_count": 40,
+    "forks_count": 32,
     "html_url": "https://github.com/jettbrains/-L-",
     "keywords": [
-        "Chrome remote code execution exploitation",
-        "Chrome use after free exploitation",
-        "lack of input validation",
-        "use after free analysis",
-        "Microsoft remote code execution analysis",
-        "remote code execution analysis",
-        "Chrome use after free analysis",
-        "Chrome remote code execution",
-        "Microsoft use after free exploitation",
-        "use after free exploitation",
-        "Chrome use after free exploit",
-        "Microsoft use after free exploit",
-        "Microsoft use after free analysis",
-        "Microsoft remote code execution exploit",
-        "Microsoft remote code execution",
-        "Microsoft use after free",
-        "Microsoft remote code execution exploitation",
-        "Chrome remote code execution analysis",
-        "Chrome remote code execution exploit",
-        "Chrome use after free",
-        "use after free exploit"
+        "Microsoft remote code execution exploit"
     ],
     "language": null,
     "repo_name": "-L-",
     "repo_owner": "jettbrains",
     "repotime": "2019-10-28, 21:51:19",
-    "stargazers_count": 50,
-    "watchers_count": 50
+    "stargazers_count": 66,
+    "watchers_count": 66
 }
 {
     "commits_count": 13,
@@ -80,15 +57,14 @@
     "forks_count": 6,
     "html_url": "https://github.com/bindecy/ohsmap",
     "keywords": [
-        "aslr bypass",
         "Chrome aslr bypass"
     ],
     "language": "JavaScript",
     "repo_name": "ohsmap",
     "repo_owner": "bindecy",
     "repotime": "2019-10-28, 15:14:23",
-    "stargazers_count": 22,
-    "watchers_count": 22
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 18,
@@ -121,8 +97,8 @@
     "repo_name": "CVE-2018-17246",
     "repo_owner": "mpgn",
     "repotime": "2019-10-26, 15:28:33",
-    "stargazers_count": 59,
-    "watchers_count": 59
+    "stargazers_count": 58,
+    "watchers_count": 58
 }
 {
     "commits_count": 8,
@@ -138,8 +114,8 @@
     "repo_name": "alternative-vulnserver-exploits",
     "repo_owner": "Potato-Industries",
     "repotime": "2019-10-25, 14:55:01",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 3,
@@ -149,51 +125,14 @@
     "forks_count": 6,
     "html_url": "https://github.com/gquere/PulseSecure_session_hijacking",
     "keywords": [
-        "session hijacking attack",
-        "session attack",
-        "session hijacking"
+        "session attack"
     ],
     "language": null,
     "repo_name": "PulseSecure_session_hijacking",
     "repo_owner": "gquere",
     "repotime": "2019-10-24, 08:53:31",
-    "stargazers_count": 13,
-    "watchers_count": 13
-}
-{
-    "commits_count": 2,
-    "date_started": "2019-10-23",
-    "date_updated": "2019-10-23",
-    "description": "Double-free vulnerability in DDGifSlurp in decoding.c in libpl_droidsonroids_gif can read more https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/",
-    "forks_count": 8,
-    "html_url": "https://github.com/mRanonyMousTZ/CVE-2019-11932-whatsApp-exploit",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "C",
-    "repo_name": "CVE-2019-11932-whatsApp-exploit",
-    "repo_owner": "mRanonyMousTZ",
-    "repotime": "2019-10-23, 11:25:48",
-    "stargazers_count": 16,
-    "watchers_count": 16
-}
-{
-    "commits_count": 4,
-    "date_started": "2019-10-21",
-    "date_updated": "2019-10-23",
-    "description": "exploit CVE-2019-7609(kibana RCE) on right way by python2 scripts",
-    "forks_count": 65,
-    "html_url": "https://github.com/LandGrey/CVE-2019-7609",
-    "keywords": [
-        "rce exploit",
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2019-7609",
-    "repo_owner": "LandGrey",
-    "repotime": "2019-10-23, 15:10:34",
-    "stargazers_count": 158,
-    "watchers_count": 158
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 11,
@@ -209,8 +148,8 @@
     "repo_name": "WindowsBypassSMEP",
     "repo_owner": "polakow",
     "repotime": "2019-10-22, 15:04:36",
-    "stargazers_count": 25,
-    "watchers_count": 25
+    "stargazers_count": 24,
+    "watchers_count": 24
 }
 {
     "commits_count": 7,
@@ -230,23 +169,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 112,
-    "date_started": "2019-03-21",
-    "date_updated": "2019-10-21",
-    "description": "throwing LFI on massiveNus sims",
-    "forks_count": 4,
-    "html_url": "https://github.com/VMBoehm/MnuLFI",
-    "keywords": [
-        "lfi"
-    ],
-    "language": "Python",
-    "repo_name": "MnuLFI",
-    "repo_owner": "VMBoehm",
-    "repotime": "2019-10-21, 19:55:18",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
     "commits_count": 63,
     "date_started": "2018-11-11",
     "date_updated": "2019-10-21",
@@ -260,8 +182,8 @@
     "repo_name": "payloadtester_lfi_rfi",
     "repo_owner": "secf00tprint",
     "repotime": "2019-10-21, 17:34:21",
-    "stargazers_count": 32,
-    "watchers_count": 32
+    "stargazers_count": 37,
+    "watchers_count": 37
 }
 {
     "commits_count": 2,
@@ -277,8 +199,8 @@
     "repo_name": "CVE-2018-3760",
     "repo_owner": "mpgn",
     "repotime": "2019-10-21, 16:22:41",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 5,
@@ -288,9 +210,7 @@
     "forks_count": 2,
     "html_url": "https://github.com/mavlevin/CVE-2019-12181",
     "keywords": [
-        "lpe exploit",
-        "lpe vulnerability",
-        "lpe exploitation"
+        "lpe exploit"
     ],
     "language": "C",
     "repo_name": "CVE-2019-12181",
@@ -300,149 +220,11 @@
     "watchers_count": 8
 }
 {
-    "commits_count": 5,
-    "date_started": "2019-06-26",
-    "date_updated": "2019-10-18",
-    "description": "cve-2019-0604 SharePoint RCE exploit",
-    "forks_count": 67,
-    "html_url": "https://github.com/k8gege/CVE-2019-0604",
-    "keywords": [
-        "rce exploit",
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2019-0604",
-    "repo_owner": "k8gege",
-    "repotime": "2019-10-18, 22:49:09",
-    "stargazers_count": 104,
-    "watchers_count": 104
-}
-{
-    "commits_count": 3,
-    "date_started": "2019-10-17",
-    "date_updated": "2019-10-17",
-    "description": "Tool to searching sentry config on page or in javascript files and check blind SSRF",
-    "forks_count": 18,
-    "html_url": "https://github.com/xawdxawdx/sentrySSRF",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Python",
-    "repo_name": "sentrySSRF",
-    "repo_owner": "xawdxawdx",
-    "repotime": "2019-10-17, 15:53:49",
-    "stargazers_count": 67,
-    "watchers_count": 67
-}
-{
-    "commits_count": 2,
-    "date_started": "2019-10-16",
-    "date_updated": "2019-10-16",
-    "description": "This native code file aims to be complementary to the published Whatsapp GIF RCE exploit by Awakened , by calculating the system() function address and ROP gadget address for different types of devices, which then can be used to successfully exploit the vulnerability.  ",
-    "forks_count": 23,
-    "html_url": "https://github.com/valbrux/CVE-2019-11932-SupportApp",
-    "keywords": [
-        "rce exploitation",
-        "rce vulnerability"
-    ],
-    "language": "C++",
-    "repo_name": "CVE-2019-11932-SupportApp",
-    "repo_owner": "valbrux",
-    "repotime": "2019-10-16, 14:20:53",
-    "stargazers_count": 37,
-    "watchers_count": 37
-}
-{
-    "commits_count": 2,
-    "date_started": "2019-10-15",
-    "date_updated": "2019-10-15",
-    "description": "Opera Mini Location Permission Spoof Vulnerability",
-    "forks_count": 1,
-    "html_url": "https://github.com/c0d3G33k/CVE-2018-16135",
-    "keywords": [
-        "spoofing vulnerability"
-    ],
-    "language": null,
-    "repo_name": "CVE-2018-16135",
-    "repo_owner": "c0d3G33k",
-    "repotime": "2019-10-15, 14:33:12",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 2,
-    "date_started": "2020-03-21",
-    "date_updated": "2019-10-15",
-    "description": "Opera Mini Location Permission Spoof Vulnerability",
-    "forks_count": 0,
-    "html_url": "https://github.com/5l1v3r1/CVE-2018-16135",
-    "keywords": [
-        "spoofing vulnerability"
-    ],
-    "language": null,
-    "repo_name": "CVE-2018-16135",
-    "repo_owner": "5l1v3r1",
-    "repotime": "2019-10-15, 14:33:12",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2019-10-15",
-    "date_updated": "2019-10-15",
-    "description": "prevent access to the frontend of a website for unauthenticated users",
-    "forks_count": 0,
-    "html_url": "https://github.com/CuongMark/PreventAccess",
-    "keywords": [
-        "unauthenticated user"
-    ],
-    "language": "PHP",
-    "repo_name": "PreventAccess",
-    "repo_owner": "CuongMark",
-    "repotime": "2019-10-15, 12:10:54",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 10,
-    "date_started": "2019-09-30",
-    "date_updated": "2019-10-14",
-    "description": "a compilation of ressources for likelihood free inference (LFI undergrad project)",
-    "forks_count": 4,
-    "html_url": "https://github.com/VMBoehm/LFI-ressources",
-    "keywords": [
-        "lfi"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "LFI-ressources",
-    "repo_owner": "VMBoehm",
-    "repotime": "2019-10-14, 17:19:24",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
-    "commits_count": 1,
-    "date_started": "2019-10-14",
-    "date_updated": "2019-10-14",
-    "description": "Identity Management Service for movie website for CS 122b at UCI in Spring 2019. Responsibile for authenticating identities and to grant access to the set of services within the system. Exercise to protect corporate assets against threats including hacking, ransomware, phishing, and other malware attacks. Users have access to the system with &amp;quot;session&amp;quot; objects to establish privilege level and length of their session.",
-    "forks_count": 1,
-    "html_url": "https://github.com/msanchez77/edu.uci.ics.matthes3.service.idm",
-    "keywords": [
-        "session attack"
-    ],
-    "language": "Java",
-    "repo_name": "edu.uci.ics.matthes3.service.idm",
-    "repo_owner": "msanchez77",
-    "repotime": "2019-10-14, 15:25:58",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 2,
     "date_started": "2019-10-14",
     "date_updated": "2019-10-14",
     "description": "A simple SSRF-testing sheriff written in Go",
-    "forks_count": 61,
+    "forks_count": 56,
     "html_url": "https://github.com/teknogeek/ssrf-sheriff",
     "keywords": [
         "ssrf"
@@ -451,44 +233,8 @@
     "repo_name": "ssrf-sheriff",
     "repo_owner": "teknogeek",
     "repotime": "2019-10-14, 09:55:34",
-    "stargazers_count": 297,
-    "watchers_count": 297
-}
-{
-    "commits_count": 4,
-    "date_started": "2019-10-12",
-    "date_updated": "2019-10-14",
-    "description": "Insecure deserialization POC on .NET Framework applications. Attack vectors leads to RCE (Remote Code Execution)",
-    "forks_count": 3,
-    "html_url": "https://github.com/indrefi/Insecure-Deserialization-.NET-RCE",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "JavaScript",
-    "repo_name": "Insecure-Deserialization-.NET-RCE",
-    "repo_owner": "indrefi",
-    "repotime": "2019-10-14, 00:23:51",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 109,
-    "date_started": "2016-12-26",
-    "date_updated": "2019-10-13",
-    "description": "PHPMailer &amp;lt; 5.2.18 Remote Code Execution exploit and vulnerable container",
-    "forks_count": 150,
-    "html_url": "https://github.com/opsxcq/exploit-CVE-2016-10033",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit",
-        "remote code execution vulnerability"
-    ],
-    "language": "PHP",
-    "repo_name": "exploit-CVE-2016-10033",
-    "repo_owner": "opsxcq",
-    "repotime": "2019-10-13, 14:23:02",
-    "stargazers_count": 393,
-    "watchers_count": 393
+    "stargazers_count": 310,
+    "watchers_count": 310
 }
 {
     "commits_count": 9,
@@ -498,32 +244,14 @@
     "forks_count": 12,
     "html_url": "https://github.com/luke-goddard/LFI-Fuzzer-Burp-Suite",
     "keywords": [
-        "lfi",
-        "local file inclusion"
+        "lfi"
     ],
     "language": "Java",
     "repo_name": "LFI-Fuzzer-Burp-Suite",
     "repo_owner": "luke-goddard",
     "repotime": "2019-10-10, 23:00:02",
-    "stargazers_count": 33,
-    "watchers_count": 33
-}
-{
-    "commits_count": 32,
-    "date_started": "2019-01-18",
-    "date_updated": "2019-10-08",
-    "description": "A little graphical user interface to find memory leaks in the .net managed heap based on microsofts https://github.com/Microsoft/clrmd.",
-    "forks_count": 0,
-    "html_url": "https://github.com/czapek/MemoryDiagnostics",
-    "keywords": [
-        "Microsoft memory leak"
-    ],
-    "language": "C#",
-    "repo_name": "MemoryDiagnostics",
-    "repo_owner": "czapek",
-    "repotime": "2019-10-08, 12:22:15",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 39,
+    "watchers_count": 39
 }
 {
     "commits_count": 2,
@@ -560,29 +288,11 @@
     "watchers_count": 2
 }
 {
-    "commits_count": 3,
-    "date_started": "2019-10-06",
-    "date_updated": "2019-10-07",
-    "description": "Hosting proof of concept exploit code of the remote code execution vulnerabilities in the IcedTea-Web Java webstart implementation.",
-    "forks_count": 0,
-    "html_url": "https://github.com/irsl/icedtea-web-vulnerabilities",
-    "keywords": [
-        "remote code execution proof of concept",
-        "remote code execution vulnerability"
-    ],
-    "language": null,
-    "repo_name": "icedtea-web-vulnerabilities",
-    "repo_owner": "irsl",
-    "repotime": "2019-10-07, 09:00:52",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
     "commits_count": 1,
     "date_started": "2019-10-06",
     "date_updated": "2019-10-06",
     "description": "Wordlist to bruteforce for LFI",
-    "forks_count": 54,
+    "forks_count": 52,
     "html_url": "https://github.com/hussein98d/LFI-files",
     "keywords": [
         "lfi"
@@ -591,32 +301,15 @@
     "repo_name": "LFI-files",
     "repo_owner": "hussein98d",
     "repotime": "2019-10-06, 13:13:30",
-    "stargazers_count": 115,
-    "watchers_count": 115
-}
-{
-    "commits_count": 2,
-    "date_started": "2019-10-02",
-    "date_updated": "2019-10-02",
-    "description": "Cross-site scripting (XSS) is a type of computer security vulnerability typically found in web applications. XSS enables attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.",
-    "forks_count": 0,
-    "html_url": "https://github.com/vishwaratna/Cross-site-scripting-XSS-_vectors",
-    "keywords": [
-        "cross-side-scripting"
-    ],
-    "language": null,
-    "repo_name": "Cross-site-scripting-XSS-_vectors",
-    "repo_owner": "vishwaratna",
-    "repotime": "2019-10-02, 16:04:10",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 119,
+    "watchers_count": 119
 }
 {
     "commits_count": 8,
     "date_started": "2017-04-12",
     "date_updated": "2019-10-01",
     "description": "WEB SQLi Injection DB Dumper DATA Hacking Tool",
-    "forks_count": 58,
+    "forks_count": 57,
     "html_url": "https://github.com/quadcoreside/QuadCore-Web-SQLi-Injecter-DB-Dumper",
     "keywords": [
         "sql injection"
@@ -625,8 +318,8 @@
     "repo_name": "QuadCore-Web-SQLi-Injecter-DB-Dumper",
     "repo_owner": "quadcoreside",
     "repotime": "2019-10-01, 11:43:34",
-    "stargazers_count": 47,
-    "watchers_count": 47
+    "stargazers_count": 53,
+    "watchers_count": 53
 }
 {
     "commits_count": 9,

@@ -6,15 +6,14 @@
     "forks_count": 1,
     "html_url": "https://github.com/optionalCTF/Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911",
     "keywords": [
-        "rce proof of concept",
         "unauthenticated rce"
     ],
     "language": "Python",
     "repo_name": "Rocket.Chat-Automated-Account-Takeover-RCE-CVE-2021-22911",
     "repo_owner": "optionalCTF",
     "repotime": "2021-07-30, 23:00:52",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 3,
@@ -24,72 +23,31 @@
     "forks_count": 18,
     "html_url": "https://github.com/0dayNinja/Windows-x64-Processes-Injector",
     "keywords": [
-        "Windows 0day",
-        "Win 0day"
+        "Windows 0day"
     ],
     "language": "Assembly",
     "repo_name": "Windows-x64-Processes-Injector",
     "repo_owner": "0dayNinja",
     "repotime": "2021-07-30, 13:00:48",
-    "stargazers_count": 46,
-    "watchers_count": 46
-}
-{
-    "commits_count": 2,
-    "date_started": "2021-07-30",
-    "date_updated": "2021-07-30",
-    "description": "Aruba Instant (IAP) - Remote Code Execution Exploit",
-    "forks_count": 4,
-    "html_url": "https://github.com/0dayNinja/2021-25157",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "2021-25157",
-    "repo_owner": "0dayNinja",
-    "repotime": "2021-07-30, 12:40:23",
-    "stargazers_count": 11,
-    "watchers_count": 11
-}
-{
-    "commits_count": 3,
-    "date_started": "2021-07-30",
-    "date_updated": "2021-07-30",
-    "description": "WordPress Backup Guard Authenticated Remote Code Execution Exploit",
-    "forks_count": 7,
-    "html_url": "https://github.com/0dayNinja/CVE-2021-24155.rb",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "Ruby",
-    "repo_name": "CVE-2021-24155.rb",
-    "repo_owner": "0dayNinja",
-    "repotime": "2021-07-30, 12:35:54",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 48,
+    "watchers_count": 48
 }
 {
     "commits_count": 3,
     "date_started": "2021-07-29",
     "date_updated": "2021-07-29",
     "description": "Google Chrome Use After Free vulnerability reported by S4E Team",
-    "forks_count": 3,
+    "forks_count": 4,
     "html_url": "https://github.com/s4e-lab/CVE-2021-30573-PoC-Google-Chrome",
     "keywords": [
-        "Chrome use after free vulnerability",
-        "use after free poc",
-        "Chrome use after free",
-        "use after free vulnerability",
-        "Chrome use after free poc"
+        "Chrome use after free"
     ],
     "language": "HTML",
     "repo_name": "CVE-2021-30573-PoC-Google-Chrome",
     "repo_owner": "s4e-lab",
     "repotime": "2021-07-29, 16:18:37",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 7,
@@ -99,7 +57,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/ITxTristan/bash-recompiler",
     "keywords": [
-        "escalation of privileges exploitation",
         "escalation of privileges exploit"
     ],
     "language": "Shell",
@@ -117,8 +74,6 @@
     "forks_count": 1,
     "html_url": "https://github.com/brandonleegit/RemediateSeriousSAM",
     "keywords": [
-        "zero-day vulnerability",
-        "Microsoft zero-day vulnerability",
         "Microsoft zero-day"
     ],
     "language": "PowerShell",
@@ -129,28 +84,11 @@
     "watchers_count": 9
 }
 {
-    "commits_count": 3,
-    "date_started": "2021-07-28",
-    "date_updated": "2021-07-28",
-    "description": "This is a reference implementation of paper Bringing Old Photos Back to Life, CVPR2020 (Oral) by Ziyu Wan1, Bo Zhang2, Dongdong Chen3, Pan Zhang4, Dong Chen2, Jing Liao1, Fang Wen2 City University of Hong Kong, Microsoft Research Asia, Microsoft Cloud AI, 4 USTC   After placing an old photo restore example in this group I got several requests for doing the work for their personal image or some important historic image they have. Doing it individually is a time taken job hence I have created this colab notebook for the same.  Through this colab notebook we have tried to make a simple free web based old photo editor so that this can be easily used by any person with limited technical knowledge. And this appears like a web page for restoring their personal photos. Click on the play button at the corner of each code block. There are two code blocks. The first one is to download pre trained models, hence it takes some time. This first block needs to be executed only once for a session. The ...",
-    "forks_count": 0,
-    "html_url": "https://github.com/shatadal88/Simple-Old-photo-restore-",
-    "keywords": [
-        "Microsoft use after free"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "Simple-Old-photo-restore-",
-    "repo_owner": "shatadal88",
-    "repotime": "2021-07-28, 15:14:41",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
     "commits_count": 18,
     "date_started": "2021-06-03",
     "date_updated": "2021-07-27",
     "description": "Collection of shellcode injection and execution techniques",
-    "forks_count": 6,
+    "forks_count": 7,
     "html_url": "https://github.com/11philip22/CodeInjection",
     "keywords": [
         "code injection"
@@ -159,25 +97,8 @@
     "repo_name": "CodeInjection",
     "repo_owner": "11philip22",
     "repotime": "2021-07-27, 11:42:34",
-    "stargazers_count": 15,
-    "watchers_count": 15
-}
-{
-    "commits_count": 0,
-    "date_started": "2021-07-27",
-    "date_updated": "2021-07-27",
-    "description": "Google Measurement Controller-Controller Data Protection Terms The Measurement Services customer agreeing to these terms (“Customer”) has entered into an agreement with either Google or a third party reseller (as applicable) for the provision of the Measurement Services (as amended from time to time, the “Agreement”) through which services user interface Customer has enabled the Data Sharing Setting.  These Google Measurement Controller-Controller Data Protection Terms (“Controller Terms”) are entered into by Google and Customer. Where the Agreement is between Customer and Google, these Controller Terms supplement the Agreement. Where the Agreement is between Customer and a third party reseller, these Controller Terms form a separate agreement between Google and Customer.  For the avoidance of doubt, the provision of the Measurement Services is governed by the Agreement. These Controller Terms set out the data protection provisions relating to the Data Sharing Setting only but do not o...",
-    "forks_count": 0,
-    "html_url": "https://github.com/NestieGuilas/Additional-terms-applicable-to-data-shared-with-Google",
-    "keywords": [
-        "use after free proof of concept"
-    ],
-    "language": null,
-    "repo_name": "Additional-terms-applicable-to-data-shared-with-Google",
-    "repo_owner": "NestieGuilas",
-    "repotime": "2021-07-27, 07:25:51",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 15,
@@ -198,30 +119,20 @@
 }
 {
     "commits_count": 6,
-    "date_started": "2021-07-27",
+    "date_started": "2021-12-17",
     "date_updated": "2021-07-26",
     "description": "A Windows Kernel LPE exploit for HEVD.sys targeting a stack overflow vulnerability on Windows 10 64-bit 1607 (RS1)",
-    "forks_count": 4,
-    "html_url": "https://github.com/FULLSHADE/HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
+    "forks_count": 3,
+    "html_url": "https://github.com/HaShem9/HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
     "keywords": [
-        "Win lpe",
-        "Windows lpe exploit",
-        "Win lpe exploitation",
-        "Windows lpe",
-        "Windows lpe vulnerability",
-        "lpe vulnerability",
-        "Windows lpe exploitation",
-        "lpe exploit",
-        "Win lpe vulnerability",
-        "Win lpe exploit",
-        "lpe exploitation"
+        "lpe exploit"
     ],
-    "language": "C++",
+    "language": null,
     "repo_name": "HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
-    "repo_owner": "FULLSHADE",
+    "repo_owner": "HaShem9",
     "repotime": "2021-07-26, 21:52:44",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 6,
@@ -231,48 +142,11 @@
     "forks_count": 1,
     "html_url": "https://github.com/NHPT/HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
     "keywords": [
-        "Win lpe",
-        "Windows lpe exploit",
-        "Win lpe exploitation",
-        "Windows lpe",
-        "Windows lpe vulnerability",
-        "lpe vulnerability",
-        "Windows lpe exploitation",
-        "lpe exploit",
-        "Win lpe vulnerability",
-        "Win lpe exploit",
-        "lpe exploitation"
+        "lpe exploit"
     ],
     "language": null,
     "repo_name": "HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
     "repo_owner": "NHPT",
-    "repotime": "2021-07-26, 21:52:44",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 6,
-    "date_started": "2021-12-17",
-    "date_updated": "2021-07-26",
-    "description": "A Windows Kernel LPE exploit for HEVD.sys targeting a stack overflow vulnerability on Windows 10 64-bit 1607 (RS1)",
-    "forks_count": 3,
-    "html_url": "https://github.com/HaShem9/HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
-    "keywords": [
-        "Windows lpe",
-        "lpe vulnerability",
-        "Win lpe vulnerability",
-        "Win lpe exploit",
-        "Windows lpe exploit",
-        "lpe exploitation",
-        "Win lpe exploitation",
-        "Windows lpe vulnerability",
-        "lpe exploit",
-        "Windows lpe exploitation",
-        "Win lpe"
-    ],
-    "language": null,
-    "repo_name": "HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
-    "repo_owner": "HaShem9",
     "repotime": "2021-07-26, 21:52:44",
     "stargazers_count": 0,
     "watchers_count": 0
@@ -295,45 +169,11 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 18,
-    "date_started": "2021-07-26",
-    "date_updated": "2021-07-26",
-    "description": "This library fix php session hijacking and more weakness. Increase security!",
-    "forks_count": 1,
-    "html_url": "https://github.com/SessionShip/session-ship",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "PHP",
-    "repo_name": "session-ship",
-    "repo_owner": "SessionShip",
-    "repotime": "2021-07-26, 19:43:02",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 0,
-    "date_started": "2021-07-26",
-    "date_updated": "2021-07-26",
-    "description": " 9 Email Marketing Tips For Content Marketers Even “agnostics” regarding email marketing can't hash out the following evidence - the average ROI from this promotional practice is close to 3,800%. Measureless opportunities to scale up and relative cheapness, compared to other reaching-out channels, are the two reasons why the email marketing is fair-haired by businesses. However, this is not about the price and physical extent alone.  The chief advantage is a better alignment of communication with customers. If you hope a certain content strategy brings desirable results, overlooking the quality of mailing messages will be a sorry pitfall. Always keep in mind that newsletters, welcome, retention, and other emails are not just a brand's facade - but a powerful tool for generating conversions. By joining sides of email and content strategies, you can come up with synergy from both. In this guide, we’ll cover a few recommendations for content marketers on how to write email messages that w...",
-    "forks_count": 0,
-    "html_url": "https://github.com/ZulqarnainZilli/-9-Email-Marketing-Tips-For-Content-Marketers",
-    "keywords": [
-        "Win use after free"
-    ],
-    "language": null,
-    "repo_name": "-9-Email-Marketing-Tips-For-Content-Marketers",
-    "repo_owner": "ZulqarnainZilli",
-    "repotime": "2021-07-26, 08:52:33",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 12,
     "date_started": "2020-07-06",
     "date_updated": "2021-07-25",
     "description": "A POC Remote Desktop (RDP) session hijack utility for disconnected sessions",
-    "forks_count": 71,
+    "forks_count": 74,
     "html_url": "https://github.com/bohops/SharpRDPHijack",
     "keywords": [
         "session hijacking"
@@ -342,25 +182,8 @@
     "repo_name": "SharpRDPHijack",
     "repo_owner": "bohops",
     "repotime": "2021-07-25, 13:36:01",
-    "stargazers_count": 403,
-    "watchers_count": 403
-}
-{
-    "commits_count": 1,
-    "date_started": "2021-07-25",
-    "date_updated": "2021-07-25",
-    "description": "Paste the following code on tamper monkey replace the cookie..and your logged in (SESSION HIJACKING)",
-    "forks_count": 1,
-    "html_url": "https://github.com/VasishtaJava/Tamper-Mokey-Session-hijacking-script",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": null,
-    "repo_name": "Tamper-Mokey-Session-hijacking-script",
-    "repo_owner": "VasishtaJava",
-    "repotime": "2021-07-25, 12:51:29",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 413,
+    "watchers_count": 413
 }
 {
     "commits_count": 7,
@@ -393,15 +216,15 @@
     "repo_name": "BitTraversal",
     "repo_owner": "BitTheByte",
     "repotime": "2021-07-22, 17:21:25",
-    "stargazers_count": 26,
-    "watchers_count": 26
+    "stargazers_count": 28,
+    "watchers_count": 28
 }
 {
     "commits_count": 71,
     "date_started": "2017-08-19",
     "date_updated": "2021-07-22",
     "description": "Web-Security-Learning",
-    "forks_count": 1009,
+    "forks_count": 1013,
     "html_url": "https://github.com/CHYbeta/Web-Security-Learning",
     "keywords": [
         "xss"
@@ -410,25 +233,8 @@
     "repo_name": "Web-Security-Learning",
     "repo_owner": "CHYbeta",
     "repotime": "2021-07-22, 12:56:40",
-    "stargazers_count": 4127,
-    "watchers_count": 4127
-}
-{
-    "commits_count": 10,
-    "date_started": "2021-07-21",
-    "date_updated": "2021-07-21",
-    "description": "Leak the IP address and Geolocation of target whatsapp user",
-    "forks_count": 3,
-    "html_url": "https://github.com/attakercyebr/WhatsApp-Vulnerability-Location-Identification-",
-    "keywords": [
-        "address leak vulnerability"
-    ],
-    "language": "Batchfile",
-    "repo_name": "WhatsApp-Vulnerability-Location-Identification-",
-    "repo_owner": "attakercyebr",
-    "repotime": "2021-07-21, 18:41:06",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 4183,
+    "watchers_count": 4183
 }
 {
     "commits_count": 4,
@@ -478,15 +284,15 @@
     "repo_name": "dsnap",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2021-07-16, 15:47:29",
-    "stargazers_count": 57,
-    "watchers_count": 57
+    "stargazers_count": 70,
+    "watchers_count": 70
 }
 {
     "commits_count": 6,
     "date_started": "2021-07-16",
     "date_updated": "2021-07-16",
     "description": "Protect a process from code injection, termination and hooking",
-    "forks_count": 11,
+    "forks_count": 12,
     "html_url": "https://github.com/Rhydon1337/windows-kernel-process-protector",
     "keywords": [
         "code injection"
@@ -495,8 +301,8 @@
     "repo_name": "windows-kernel-process-protector",
     "repo_owner": "Rhydon1337",
     "repotime": "2021-07-16, 20:52:05",
-    "stargazers_count": 25,
-    "watchers_count": 25
+    "stargazers_count": 33,
+    "watchers_count": 33
 }
 {
     "commits_count": 24,
@@ -516,23 +322,6 @@
     "watchers_count": 8
 }
 {
-    "commits_count": 20,
-    "date_started": "2021-06-03",
-    "date_updated": "2021-07-15",
-    "description": "JAVA 漏洞靶场 (Vulnerability Environment For Java)",
-    "forks_count": 100,
-    "html_url": "https://github.com/tangxiaofeng7/SecExample",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "HTML",
-    "repo_name": "SecExample",
-    "repo_owner": "tangxiaofeng7",
-    "repotime": "2021-07-15, 17:11:24",
-    "stargazers_count": 394,
-    "watchers_count": 394
-}
-{
     "commits_count": 1,
     "date_started": "2021-07-14",
     "date_updated": "2021-07-15",
@@ -546,25 +335,8 @@
     "repo_name": "Google-Musurment-controller-controller-Data-Protection-Tearms",
     "repo_owner": "NestieGuilas",
     "repotime": "2021-07-15, 02:54:56",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 3,
-    "date_started": "2021-07-14",
-    "date_updated": "2021-07-14",
-    "description": " A simple lab created for testing CSTI vulnerability in AngularJS version 1.0.8, 1.3.20 and 1.5.8 using Sandbox Escape. ",
-    "forks_count": 0,
-    "html_url": "https://github.com/unk9vvn/angularjs-client-side-template-injection-lab",
-    "keywords": [
-        "sandbox escape vulnerability"
-    ],
-    "language": "PHP",
-    "repo_name": "angularjs-client-side-template-injection-lab",
-    "repo_owner": "unk9vvn",
-    "repotime": "2021-07-14, 21:45:23",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 2,
@@ -580,25 +352,8 @@
     "repo_name": "EksvancRawGithubLicense",
     "repo_owner": "BoysGmNg",
     "repotime": "2021-07-13, 15:09:53",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 2,
-    "date_started": "2021-07-13",
-    "date_updated": "2021-07-13",
-    "description": "CVE-2020-25134 Authenticated Local File Inclusion in settings/format",
-    "forks_count": 0,
-    "html_url": "https://github.com/ynsmroztas/CVE-2020-25134",
-    "keywords": [
-        "local file inclusion"
-    ],
-    "language": null,
-    "repo_name": "CVE-2020-25134",
-    "repo_owner": "ynsmroztas",
-    "repotime": "2021-07-13, 08:32:35",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 4,
@@ -631,8 +386,8 @@
     "repo_name": "byeintegrity5-uac",
     "repo_owner": "AzAgarampur",
     "repotime": "2021-07-12, 12:57:25",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 26,
+    "watchers_count": 26
 }
 {
     "commits_count": 9,
@@ -648,8 +403,8 @@
     "repo_name": "byeintegrity4-uac",
     "repo_owner": "AzAgarampur",
     "repotime": "2021-07-12, 12:57:11",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 7,
@@ -693,15 +448,14 @@
     "forks_count": 2,
     "html_url": "https://github.com/galoget/PrintNightmare-CVE-2021-1675-CVE-2021-34527",
     "keywords": [
-        "lpe exploit",
-        "lpe exploitation"
+        "lpe exploit"
     ],
     "language": "PowerShell",
     "repo_name": "PrintNightmare-CVE-2021-1675-CVE-2021-34527",
     "repo_owner": "galoget",
     "repotime": "2021-07-12, 04:35:17",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 28,
@@ -717,8 +471,8 @@
     "repo_name": "java-deserialization-of-untrusted-data-poc",
     "repo_owner": "EdoardoVignati",
     "repotime": "2021-07-12, 10:09:27",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 26,
+    "watchers_count": 26
 }
 {
     "commits_count": 6,
@@ -755,23 +509,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 7,
-    "date_started": "2021-06-19",
-    "date_updated": "2021-07-10",
-    "description": "PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 &amp;lt; 6.6.1 Remote Code Execution",
-    "forks_count": 0,
-    "html_url": "https://github.com/f4T1H21/CVE-2020-7247",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2020-7247",
-    "repo_owner": "f4T1H21",
-    "repotime": "2021-07-10, 14:26:06",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 12,
     "date_started": "2021-07-01",
     "date_updated": "2021-07-10",
@@ -789,44 +526,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 0,
-    "date_started": "2020-04-14",
-    "date_updated": "2021-07-10",
-    "description": "As we all know the situation in the world is going on the pandemic crisis all over the world of covid 19 everyone is scared and everything is just shut down the offices, industries, shops, schools and colleges people are advised to stay home and stay safe from this problem the only solution is now to stay in home so this is the time to do some thing at home rather then sitting alone and doing nothing at home and getting depressed from this corona virus you can use this time to learn new things and upgrade your skills for better growth so there are online study programs which are provided by our institute and you can learn selenium with java online training by our Institute that provides software testing training courses and classes online and offline to our candidtes so candidates should know how important is testing for a project to know that everything which is done on the project is working or not and there will be no errors and if there are you need to solve them in the process als...",
-    "forks_count": 0,
-    "html_url": "https://github.com/askme01/Learn-software-testing-online-Selenium-with-java",
-    "keywords": [
-        "Windows use after free",
-        "Windows remote code execution",
-        "Chrome remote code execution"
-    ],
-    "language": null,
-    "repo_name": "Learn-software-testing-online-Selenium-with-java",
-    "repo_owner": "askme01",
-    "repotime": "2021-07-10, 02:47:42",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 4,
-    "date_started": "2021-05-25",
-    "date_updated": "2021-07-09",
-    "description": "POC for CVE-2021-21974 VMWare ESXi RCE Exploit",
-    "forks_count": 47,
-    "html_url": "https://github.com/Shadow0ps/CVE-2021-21974",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2021-21974",
-    "repo_owner": "Shadow0ps",
-    "repotime": "2021-07-09, 15:38:41",
-    "stargazers_count": 169,
-    "watchers_count": 169
-}
-{
     "commits_count": 5,
     "date_started": "2021-07-09",
     "date_updated": "2021-07-09",
@@ -834,15 +533,14 @@
     "forks_count": 10,
     "html_url": "https://github.com/DevanshRaghav75/AutomationGuide",
     "keywords": [
-        "lfi",
         "ssrf"
     ],
     "language": null,
     "repo_name": "AutomationGuide",
     "repo_owner": "DevanshRaghav75",
     "repotime": "2021-07-09, 15:19:00",
-    "stargazers_count": 26,
-    "watchers_count": 26
+    "stargazers_count": 33,
+    "watchers_count": 33
 }
 {
     "commits_count": 7,
@@ -852,11 +550,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/rdboboia/disable-RegisterSpoolerRemoteRpcEndPoint",
     "keywords": [
-        "Microsoft remote code execution vulnerability",
-        "Windows remote code execution",
-        "remote code execution vulnerability",
-        "Microsoft remote code execution",
-        "Windows remote code execution vulnerability"
+        "Windows remote code execution"
     ],
     "language": "Batchfile",
     "repo_name": "disable-RegisterSpoolerRemoteRpcEndPoint",
@@ -873,11 +567,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/ozkanburgac/Windows-Print-Spooler-Remote-Code-Execution-Vulnerability",
     "keywords": [
-        "Windows remote code execution vulnerability",
-        "Windows remote code execution",
-        "Win remote code execution",
-        "remote code execution vulnerability",
-        "Win remote code execution vulnerability"
+        "Win remote code execution"
     ],
     "language": null,
     "repo_name": "Windows-Print-Spooler-Remote-Code-Execution-Vulnerability",
@@ -891,7 +581,7 @@
     "date_started": "2021-06-21",
     "date_updated": "2021-07-07",
     "description": "国光师傅的SSRF靶场docker环境",
-    "forks_count": 7,
+    "forks_count": 8,
     "html_url": "https://github.com/Duoduo-chino/ssrf_vul",
     "keywords": [
         "ssrf"
@@ -900,15 +590,15 @@
     "repo_name": "ssrf_vul",
     "repo_owner": "Duoduo-chino",
     "repotime": "2021-07-07, 14:51:00",
-    "stargazers_count": 25,
-    "watchers_count": 25
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 17,
     "date_started": "2021-07-06",
     "date_updated": "2021-07-07",
     "description": "Code Injection, Inject malicious payload via pagetables pml4.",
-    "forks_count": 57,
+    "forks_count": 56,
     "html_url": "https://github.com/kkent030315/PageTableInjection",
     "keywords": [
         "code injection"
@@ -917,25 +607,8 @@
     "repo_name": "PageTableInjection",
     "repo_owner": "kkent030315",
     "repotime": "2021-07-07, 09:02:29",
-    "stargazers_count": 191,
-    "watchers_count": 191
-}
-{
-    "commits_count": 1,
-    "date_started": "2021-07-06",
-    "date_updated": "2021-07-06",
-    "description": "A proof of concept script for the RCE found in PHP version 8.1.0-dev, by invoking &amp;quot;User-Agentt: zerodiumsystem&amp;quot; backdoor placed in the PHP source code.",
-    "forks_count": 0,
-    "html_url": "https://github.com/AN0NIT/PHP-8.1.0-dev_RCE",
-    "keywords": [
-        "rce proof of concept"
-    ],
-    "language": "Python",
-    "repo_name": "PHP-8.1.0-dev_RCE",
-    "repo_owner": "AN0NIT",
-    "repotime": "2021-07-06, 04:34:12",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 213,
+    "watchers_count": 213
 }
 {
     "commits_count": 1,
@@ -951,25 +624,8 @@
     "repo_name": "hecker",
     "repo_owner": "wahid987654321",
     "repotime": "2021-07-06, 15:24:11",
-    "stargazers_count": 25,
-    "watchers_count": 25
-}
-{
-    "commits_count": 147,
-    "date_started": "2021-09-21",
-    "date_updated": "2021-07-05",
-    "description": "Pricing and Matching  Scenario. Consider the scenario in which a shop has a number of promo codes to incentivize the customers that buy an item to buy a different item. The customers can belong to different classes and the promo codes can provide different discounts.  Environment. Imagine two items (referred to as first and second items; for each item we have an infinite number of units) and four customers’ classes. The daily number of customers of each class is described by a potentially different (truncated) Gaussian probability distribution. Each class is also associated with a potentially different conversion rate returning the probability that the user will buy the first item at a given price.  Once a buyer has bought the item, she/he can decide to buy the second item that can be or not promoted. There are four different promos P0, P1, P2, P3, each corresponding to a different level of discount. P0 corresponds to no discount. Given the total number of customers, the business unit ...",
-    "forks_count": 0,
-    "html_url": "https://github.com/FrancescaPietrobon/Pricing-and-Matching",
-    "keywords": [
-        "Windows use after free"
-    ],
-    "language": null,
-    "repo_name": "Pricing-and-Matching",
-    "repo_owner": "FrancescaPietrobon",
-    "repotime": "2021-07-05, 17:37:28",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 34,
+    "watchers_count": 34
 }
 {
     "commits_count": 147,
@@ -1002,8 +658,8 @@
     "repo_name": "Lfisuit",
     "repo_owner": "munjurHasan444",
     "repotime": "2021-07-05, 12:48:19",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 9,
@@ -1013,33 +669,14 @@
     "forks_count": 79,
     "html_url": "https://github.com/hlldz/CVE-2021-1675-LPE",
     "keywords": [
-        "lpe exploit",
-        "Windows lpe exploit",
-        "Windows lpe"
+        "lpe exploit"
     ],
     "language": "C",
     "repo_name": "CVE-2021-1675-LPE",
     "repo_owner": "hlldz",
     "repotime": "2021-07-05, 09:46:12",
-    "stargazers_count": 331,
-    "watchers_count": 331
-}
-{
-    "commits_count": 11,
-    "date_started": "2021-07-05",
-    "date_updated": "2021-07-05",
-    "description": "    TEMPLATE = app TARGET = franko-qt macx:TARGET = &amp;quot;Franko-Qt&amp;quot; VERSION = 0.8.5.5 INCLUDEPATH += src src/json src/qt QT += core gui network greaterThan(QT_MAJOR_VERSION, 4): QT += widgets DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE CONFIG += no_include_pwd CONFIG += thread  &amp;&#35;35; for boost 1.37, add -mt to the boost libraries &amp;&#35;35; use: qmake BOOST_LIB_SUFFIX=-mt &amp;&#35;35; for boost thread win32 with _win32 sufix &amp;&#35;35; use: BOOST_THREAD_LIB_SUFFIX=_win32-... &amp;&#35;35; or when linking against a specific BerkelyDB version: BDB_LIB_SUFFIX=-4.8  &amp;&#35;35; Dependency library locations can be customized with: &amp;&#35;35;    BOOST_INCLUDE_PATH, BOOST_LIB_PATH, BDB_INCLUDE_PATH, &amp;&#35;35;    BDB_LIB_PATH, OPENSSL_INCLUDE_PATH and OPENSSL_LIB_PATH respectively  OBJECTS_DIR = build MOC_DIR = build UI_DIR = build  &amp;&#35;35; use: qmake &amp;quot;RELEASE=1&amp;quot; contains(RELEASE, 1) {     &amp;&#35;35; Mac: compile for maximum compatibility (10.5, 32-bit)     macx:QMAKE_CXXFLAGS += -mmacosx-version-min=10.5...",
-    "forks_count": 1,
-    "html_url": "https://github.com/saadbitcoin/franko",
-    "keywords": [
-        "Windows use after free"
-    ],
-    "language": "C++",
-    "repo_name": "franko",
-    "repo_owner": "saadbitcoin",
-    "repotime": "2021-07-05, 05:44:19",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 329,
+    "watchers_count": 329
 }
 {
     "commits_count": 2,
@@ -1049,15 +686,7 @@
     "forks_count": 1,
     "html_url": "https://github.com/CnOxx1/CVE-2021-34527-1675",
     "keywords": [
-        "Windows 0day vulnerability",
-        "Windows 0day exploitation",
-        "Windows 0day analysis",
-        "0day analysis",
-        "Windows 0day exploit",
-        "0day vulnerability",
-        "0day exploitation",
-        "Windows 0day",
-        "0day exploit"
+        "Windows 0day"
     ],
     "language": null,
     "repo_name": "CVE-2021-34527-1675",
@@ -1065,24 +694,6 @@
     "repotime": "2021-07-05, 00:31:21",
     "stargazers_count": 6,
     "watchers_count": 6
-}
-{
-    "commits_count": 4,
-    "date_started": "2021-07-04",
-    "date_updated": "2021-07-04",
-    "description": "Cross-site scripting (XSS) is a type of vulnerability commonly found in web applications. This vulnerability makes it possible for attackers to inject malicious code (e.g. JavaScript programs) into victim’s web browser. Using this malicious code, attackers can steal a victim’s credentials, such as session cookies. The access control policies (i.e., the same origin policy) employed by browsers to protect those credentials can be bypassed by exploiting XSS vulnerabilities.",
-    "forks_count": 1,
-    "html_url": "https://github.com/hasanibnarif/Cross-Site-Scripting-XSS-Attack",
-    "keywords": [
-        "session vulnerability",
-        "session attack"
-    ],
-    "language": "JavaScript",
-    "repo_name": "Cross-Site-Scripting-XSS-Attack",
-    "repo_owner": "hasanibnarif",
-    "repotime": "2021-07-04, 20:05:30",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -1109,13 +720,7 @@
     "forks_count": 2,
     "html_url": "https://github.com/y0g3sh-99/CVE-2021-31166-Exploit",
     "keywords": [
-        "Windows rce exploitation",
-        "Windows rce dos",
-        "Windows rce",
-        "rce dos",
-        "Windows rce exploit",
-        "Windows rce vulnerability",
-        "rce vulnerability"
+        "Windows rce"
     ],
     "language": "Python",
     "repo_name": "CVE-2021-31166-Exploit",
@@ -1138,8 +743,8 @@
     "repo_name": "PrintNightmare",
     "repo_owner": "ozergoker",
     "repotime": "2021-07-03, 15:43:26",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 3,
@@ -1149,20 +754,14 @@
     "forks_count": 1,
     "html_url": "https://github.com/ptter23/CVE-2021-1675",
     "keywords": [
-        "zero-day vulnerability",
-        "Windows zero-day exploitation",
-        "Windows zero-day",
-        "zero-day exploitation",
-        "Windows zero-day exploit",
-        "zero-day exploit",
-        "Windows zero-day vulnerability"
+        "Windows zero-day"
     ],
     "language": null,
     "repo_name": "CVE-2021-1675",
     "repo_owner": "ptter23",
     "repotime": "2021-07-02, 13:07:45",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 18,
@@ -1172,8 +771,7 @@
     "forks_count": 21,
     "html_url": "https://github.com/evilashz/CVE-2021-1675-LPE-EXP",
     "keywords": [
-        "Windows lpe",
-        "Windows escalation of privileges"
+        "Windows lpe"
     ],
     "language": "C++",
     "repo_name": "CVE-2021-1675-LPE-EXP",
@@ -1181,57 +779,6 @@
     "repotime": "2021-07-02, 18:47:36",
     "stargazers_count": 57,
     "watchers_count": 57
-}
-{
-    "commits_count": 8,
-    "date_started": "2020-08-22",
-    "date_updated": "2021-07-02",
-    "description": "定制界面版POC/EXP脚本仓库",
-    "forks_count": 8,
-    "html_url": "https://github.com/Coldwave96/PocLibrary",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "PocLibrary",
-    "repo_owner": "Coldwave96",
-    "repotime": "2021-07-02, 18:00:44",
-    "stargazers_count": 9,
-    "watchers_count": 9
-}
-{
-    "commits_count": 2,
-    "date_started": "2021-07-02",
-    "date_updated": "2021-07-02",
-    "description": "in this repo i'll use msfvenom for creating a payload and save it as an apk file. After generating the payload, we need to setup a listener to Metasploit framework. Once the target downloads and installs the malicious apk then, an attacker can easily get back a meterpreter session on Metasploit. An attacker needs to do some social engineering to install apk on the victim’s mobile device.",
-    "forks_count": 1,
-    "html_url": "https://github.com/QMRonline/AndroidHacking",
-    "keywords": [
-        "session attack"
-    ],
-    "language": null,
-    "repo_name": "AndroidHacking",
-    "repo_owner": "QMRonline",
-    "repotime": "2021-07-02, 02:18:18",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 2,
-    "date_started": "2021-07-01",
-    "date_updated": "2021-07-01",
-    "description": "Scripts to temporarily fuck the permissions (and unfuck when the patch is released) to reduce the impact of the printer spooler zero day vulnerability",
-    "forks_count": 0,
-    "html_url": "https://github.com/alextannenbaum/printer-zeroday",
-    "keywords": [
-        "zero-day vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "printer-zeroday",
-    "repo_owner": "alextannenbaum",
-    "repotime": "2021-07-01, 17:46:09",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -1247,40 +794,6 @@
     "repo_name": "passwordGenerator.py",
     "repo_owner": "abhinavvatsa2011",
     "repotime": "2021-07-01, 21:27:09",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 11,
-    "date_started": "2021-06-29",
-    "date_updated": "2021-07-01",
-    "description": "Path Traversal Vulnerability in Systematica SMTP Adapter",
-    "forks_count": 0,
-    "html_url": "https://github.com/trump88/CVE-2021-35975",
-    "keywords": [
-        "path traversal vulnerability"
-    ],
-    "language": null,
-    "repo_name": "CVE-2021-35975",
-    "repo_owner": "trump88",
-    "repotime": "2021-07-01, 12:52:19",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 2,
-    "date_started": "2021-07-01",
-    "date_updated": "2021-07-01",
-    "description": "Hey Folks, in this repo we are going to demonstrate a method through which we can remotely access any windows machine by sending a link. Originally we would use the HTA attack feature provided by the setoolkit tool, by which we could broadcast our payload via a direct link and we would have a meterpreter session when the victim would double click on that payload. If you want to know about HTA attack, you can read from below.",
-    "forks_count": 0,
-    "html_url": "https://github.com/QMRonline/HackWindows10PC",
-    "keywords": [
-        "session attack"
-    ],
-    "language": null,
-    "repo_name": "HackWindows10PC",
-    "repo_owner": "QMRonline",
-    "repotime": "2021-07-01, 01:44:15",
     "stargazers_count": 0,
     "watchers_count": 0
 }

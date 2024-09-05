@@ -1,26 +1,9 @@
 {
-    "commits_count": 7,
-    "date_started": "2016-12-08",
-    "date_updated": "2016-12-30",
-    "description": "php写的个人研究测试用的  xss cookie 攻击管理平台,开源出来",
-    "forks_count": 13,
-    "html_url": "https://github.com/keyus/xss",
-    "keywords": [
-        "xss"
-    ],
-    "language": "PHP",
-    "repo_name": "xss",
-    "repo_owner": "keyus",
-    "repotime": "2016-12-30, 11:58:46",
-    "stargazers_count": 50,
-    "watchers_count": 50
-}
-{
     "commits_count": 40,
     "date_started": "2015-05-06",
     "date_updated": "2016-12-29",
     "description": "<no description>",
-    "forks_count": 88,
+    "forks_count": 82,
     "html_url": "https://github.com/Invoke-IR/ForensicPosters",
     "keywords": [
         "by_owner"
@@ -29,42 +12,8 @@
     "repo_name": "ForensicPosters",
     "repo_owner": "Invoke-IR",
     "repotime": "2016-12-29, 14:57:23",
-    "stargazers_count": 418,
-    "watchers_count": 418
-}
-{
-    "commits_count": 13,
-    "date_started": "2016-11-14",
-    "date_updated": "2016-12-27",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/gautamamrit/php-session-hijacking-2",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "PHP",
-    "repo_name": "php-session-hijacking-2",
-    "repo_owner": "gautamamrit",
-    "repotime": "2016-12-27, 05:14:16",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 4,
-    "date_started": "2016-12-26",
-    "date_updated": "2016-12-27",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/gautamamrit/php-session-hijacking-1",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "PHP",
-    "repo_name": "php-session-hijacking-1",
-    "repo_owner": "gautamamrit",
-    "repotime": "2016-12-27, 05:08:08",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 430,
+    "watchers_count": 430
 }
 {
     "commits_count": 4,
@@ -91,15 +40,14 @@
     "forks_count": 8,
     "html_url": "https://github.com/nulsec/zimbra-0day",
     "keywords": [
-        "0day exploit",
-        "0day exploitation"
+        "0day exploit"
     ],
     "language": "Perl",
     "repo_name": "zimbra-0day",
     "repo_owner": "nulsec",
     "repotime": "2016-12-22, 07:29:34",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 3,
@@ -126,7 +74,6 @@
     "forks_count": 7,
     "html_url": "https://github.com/p493z3r0/MacPoison",
     "keywords": [
-        "escalation of privileges exploitation",
         "escalation of privileges exploit"
     ],
     "language": "Objective-C",
@@ -135,40 +82,6 @@
     "repotime": "2016-12-16, 11:00:26",
     "stargazers_count": 32,
     "watchers_count": 32
-}
-{
-    "commits_count": 19,
-    "date_started": "2016-12-13",
-    "date_updated": "2016-12-16",
-    "description": "Simple Spring RestTemplate Framework",
-    "forks_count": 4,
-    "html_url": "https://github.com/bobdeng/ssrf",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Java",
-    "repo_name": "ssrf",
-    "repo_owner": "bobdeng",
-    "repotime": "2016-12-16, 10:27:29",
-    "stargazers_count": 6,
-    "watchers_count": 6
-}
-{
-    "commits_count": 2,
-    "date_started": "2016-12-15",
-    "date_updated": "2016-12-14",
-    "description": "Proof-of-Concept exploit for jscript9 bug (MS16-063) with CFG Bypass",
-    "forks_count": 22,
-    "html_url": "https://github.com/theori-io/jscript9-typedarray-cfg",
-    "keywords": [
-        "cfg bypass"
-    ],
-    "language": "HTML",
-    "repo_name": "jscript9-typedarray-cfg",
-    "repo_owner": "theori-io",
-    "repotime": "2016-12-14, 23:23:41",
-    "stargazers_count": 37,
-    "watchers_count": 37
 }
 {
     "commits_count": 2,
@@ -212,16 +125,14 @@
     "forks_count": 2,
     "html_url": "https://github.com/adityaks/moxa_miine_port_exploit",
     "keywords": [
-        "session vulnerability",
-        "session hijacking vulnerability",
-        "session hijacking"
+        "session vulnerability"
     ],
     "language": "Python",
     "repo_name": "moxa_miine_port_exploit",
     "repo_owner": "adityaks",
     "repotime": "2016-12-08, 10:44:12",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 537,
@@ -282,7 +193,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/Yadnyawalkya/hackRIT",
     "keywords": [
-        "escalation of privileges exploitation",
         "escalation of privileges exploit"
     ],
     "language": "Python",
@@ -300,9 +210,7 @@
     "forks_count": 2,
     "html_url": "https://github.com/malerisch/omnivista-8770-unauth-rce",
     "keywords": [
-        "unauthenticated rce",
-        "unauthenticated remote code execution",
-        "remote code execution poc"
+        "unauthenticated rce"
     ],
     "language": "Python",
     "repo_name": "omnivista-8770-unauth-rce",

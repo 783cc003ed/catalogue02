@@ -12,8 +12,8 @@
     "repo_name": "mem-leak-checker",
     "repo_owner": "Siprj",
     "repotime": "2015-04-27, 18:09:04",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 9,
@@ -34,38 +34,20 @@
 }
 {
     "commits_count": 2,
-    "date_started": "2015-04-16",
-    "date_updated": "2015-04-16",
-    "description": "Checks if given IP is vulnerable to MS015-024 (IIS Remote Code Execution Vulnerability). ",
-    "forks_count": 2,
-    "html_url": "https://github.com/upgoingstar/checkms15-034.py",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "checkms15-034.py",
-    "repo_owner": "upgoingstar",
-    "repotime": "2015-04-16, 15:08:56",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 2,
     "date_started": "2015-04-10",
     "date_updated": "2015-04-10",
     "description": "Proof of Concept OS X Application for RootPipe Privilege Escalation Vulnerability (CVE-2015-1130)",
     "forks_count": 2,
     "html_url": "https://github.com/Shmoopi/RootPipe-Demo",
     "keywords": [
-        "escalation of privileges proof of concept",
-        "escalation of privileges vulnerability"
+        "escalation of privileges proof of concept"
     ],
     "language": "Objective-C",
     "repo_name": "RootPipe-Demo",
     "repo_owner": "Shmoopi",
     "repotime": "2015-04-10, 17:03:16",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 6,
@@ -75,10 +57,7 @@
     "forks_count": 7,
     "html_url": "https://github.com/kpwn/phpmess",
     "keywords": [
-        "use after free exploit",
-        "use after free vulnerability",
-        "use after free exploitation",
-        "use after free poc"
+        "use after free exploit"
     ],
     "language": "PHP",
     "repo_name": "phpmess",
@@ -86,41 +65,6 @@
     "repotime": "2015-04-09, 01:19:24",
     "stargazers_count": 12,
     "watchers_count": 12
-}
-{
-    "commits_count": 17,
-    "date_started": "2013-01-02",
-    "date_updated": "2015-04-05",
-    "description": "This library helps to manage a client session cookie in node.js outside of connect/express sessions. It is desirable to maintain a htttpOnly cookie for express sessions (to auth users and prevent replay attacks by snatching the cookie via XSS) while at the same time storing some session state in a cookie that is accessable and modifiable to the client. ",
-    "forks_count": 0,
-    "html_url": "https://github.com/coen-hyde/cookie-swap",
-    "keywords": [
-        "session attack"
-    ],
-    "language": "JavaScript",
-    "repo_name": "cookie-swap",
-    "repo_owner": "coen-hyde",
-    "repotime": "2015-04-05, 12:39:12",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2015-04-05",
-    "date_updated": "2015-04-06",
-    "description": "Reference: http://www.secgeek.net/bookfresh-vulnerability/",
-    "forks_count": 49,
-    "html_url": "https://github.com/RickGray/Bypass-PHP-GD-Process-To-RCE",
-    "keywords": [
-        "rce exploit",
-        "rce vulnerability"
-    ],
-    "language": "PHP",
-    "repo_name": "Bypass-PHP-GD-Process-To-RCE",
-    "repo_owner": "RickGray",
-    "repotime": "2015-04-06, 01:25:56",
-    "stargazers_count": 141,
-    "watchers_count": 141
 }
 {
     "commits_count": 6,
@@ -147,8 +91,7 @@
     "forks_count": 5,
     "html_url": "https://github.com/googleinurl/lfiINURL",
     "keywords": [
-        "lfi",
-        "local file inclusion"
+        "lfi"
     ],
     "language": "PHP",
     "repo_name": "lfiINURL",

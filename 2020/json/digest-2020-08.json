@@ -1,38 +1,4 @@
 {
-    "commits_count": 7,
-    "date_started": "2018-10-23",
-    "date_updated": "2020-08-31",
-    "description": "CVE-2018-7600 POC (Drupal RCE)",
-    "forks_count": 7,
-    "html_url": "https://github.com/r3dxpl0it/CVE-2018-7600",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2018-7600",
-    "repo_owner": "r3dxpl0it",
-    "repotime": "2020-08-31, 16:52:13",
-    "stargazers_count": 7,
-    "watchers_count": 7
-}
-{
-    "commits_count": 9,
-    "date_started": "2020-08-31",
-    "date_updated": "2020-08-31",
-    "description": "<no description>",
-    "forks_count": 14,
-    "html_url": "https://github.com/BlasterX24/ssrf-tool",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": null,
-    "repo_name": "ssrf-tool",
-    "repo_owner": "BlasterX24",
-    "repotime": "2020-08-31, 11:43:30",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
     "commits_count": 13,
     "date_started": "2020-07-18",
     "date_updated": "2020-08-30",
@@ -40,7 +6,6 @@
     "forks_count": 1,
     "html_url": "https://github.com/ironspideytrip/OSCE-Prep-Zero-day-practice",
     "keywords": [
-        "zero-day exploitation",
         "zero-day exploit"
     ],
     "language": "Python",
@@ -58,7 +23,6 @@
     "forks_count": 1,
     "html_url": "https://github.com/murataydemir/CVE-2020-0688",
     "keywords": [
-        "Microsoft remote code execution",
         "Microsoft rce"
     ],
     "language": null,
@@ -69,29 +33,11 @@
     "watchers_count": 4
 }
 {
-    "commits_count": 13,
-    "date_started": "2020-01-11",
-    "date_updated": "2020-08-28",
-    "description": "CVE-2019-19781 - Remote Code Execution on Citrix ADC Netscaler exploit",
-    "forks_count": 38,
-    "html_url": "https://github.com/mpgn/CVE-2019-19781",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2019-19781",
-    "repo_owner": "mpgn",
-    "repotime": "2020-08-28, 16:09:18",
-    "stargazers_count": 155,
-    "watchers_count": 155
-}
-{
     "commits_count": 1,
     "date_started": "2020-08-28",
     "date_updated": "2020-08-28",
     "description": "Windows - Privilege Escalation Checklist",
-    "forks_count": 3,
+    "forks_count": 4,
     "html_url": "https://github.com/Guiomuh/LPE_checklist",
     "keywords": [
         "Windows lpe"
@@ -100,15 +46,15 @@
     "repo_name": "LPE_checklist",
     "repo_owner": "Guiomuh",
     "repotime": "2020-08-28, 14:16:10",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 55,
     "date_started": "2015-05-16",
     "date_updated": "2020-08-27",
     "description": "Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods.",
-    "forks_count": 302,
+    "forks_count": 310,
     "html_url": "https://github.com/enjoiz/XXEinjector",
     "keywords": [
         "xxe"
@@ -117,8 +63,8 @@
     "repo_name": "XXEinjector",
     "repo_owner": "enjoiz",
     "repotime": "2020-08-27, 14:33:25",
-    "stargazers_count": 1421,
-    "watchers_count": 1421
+    "stargazers_count": 1504,
+    "watchers_count": 1504
 }
 {
     "commits_count": 7,
@@ -128,22 +74,21 @@
     "forks_count": 15,
     "html_url": "https://github.com/RoqueNight/LFI---RCE-Cheat-Sheet",
     "keywords": [
-        "lfi",
-        "local file inclusion"
+        "lfi"
     ],
     "language": null,
     "repo_name": "LFI---RCE-Cheat-Sheet",
     "repo_owner": "RoqueNight",
     "repotime": "2020-08-26, 21:32:33",
-    "stargazers_count": 41,
-    "watchers_count": 41
+    "stargazers_count": 46,
+    "watchers_count": 46
 }
 {
     "commits_count": 18,
     "date_started": "2020-07-22",
     "date_updated": "2020-08-23",
     "description": "It's a teaching material",
-    "forks_count": 59,
+    "forks_count": 77,
     "html_url": "https://github.com/JalinWu/XSS-playground",
     "keywords": [
         "xss"
@@ -152,33 +97,15 @@
     "repo_name": "XSS-playground",
     "repo_owner": "JalinWu",
     "repotime": "2020-08-23, 21:27:30",
-    "stargazers_count": 63,
-    "watchers_count": 63
-}
-{
-    "commits_count": 3,
-    "date_started": "2020-08-23",
-    "date_updated": "2020-08-23",
-    "description": "通达OA&amp;lt;v11.5&amp;amp;v11.6版本RCE Exploit",
-    "forks_count": 14,
-    "html_url": "https://github.com/admintony/TongdaRCE",
-    "keywords": [
-        "rce exploit",
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "TongdaRCE",
-    "repo_owner": "admintony",
-    "repotime": "2020-08-23, 16:44:48",
-    "stargazers_count": 26,
-    "watchers_count": 26
+    "stargazers_count": 66,
+    "watchers_count": 66
 }
 {
     "commits_count": 28,
     "date_started": "2020-08-06",
     "date_updated": "2020-08-22",
     "description": "A library to snapshot the memory of lua for mem-analysis and find out memory leak problems.",
-    "forks_count": 1,
+    "forks_count": 3,
     "html_url": "https://github.com/WinsonLu/lua-snapshot",
     "keywords": [
         "memory leak analysis"
@@ -198,15 +125,14 @@
     "forks_count": 1,
     "html_url": "https://github.com/boku7/homeRent-SQLi-RCE",
     "keywords": [
-        "unauthenticated attacker",
         "unauthenticated rce"
     ],
     "language": "Python",
     "repo_name": "homeRent-SQLi-RCE",
     "repo_owner": "boku7",
     "repotime": "2020-08-21, 14:20:05",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 2,
@@ -230,7 +156,7 @@
     "date_started": "2019-03-15",
     "date_updated": "2020-08-20",
     "description": "XSSMap 是一款基于 Python3 开发用于检测 XSS 漏洞的工具",
-    "forks_count": 50,
+    "forks_count": 52,
     "html_url": "https://github.com/Jewel591/xssmap",
     "keywords": [
         "xss"
@@ -239,15 +165,15 @@
     "repo_name": "xssmap",
     "repo_owner": "Jewel591",
     "repotime": "2020-08-20, 09:25:40",
-    "stargazers_count": 250,
-    "watchers_count": 250
+    "stargazers_count": 257,
+    "watchers_count": 257
 }
 {
     "commits_count": 40,
     "date_started": "2017-06-25",
     "date_updated": "2020-08-19",
     "description": "XSS'OR - Hack with JavaScript.",
-    "forks_count": 378,
+    "forks_count": 376,
     "html_url": "https://github.com/evilcos/xssor2",
     "keywords": [
         "xss"
@@ -256,8 +182,8 @@
     "repo_name": "xssor2",
     "repo_owner": "evilcos",
     "repotime": "2020-08-19, 10:27:51",
-    "stargazers_count": 2095,
-    "watchers_count": 2095
+    "stargazers_count": 2112,
+    "watchers_count": 2112
 }
 {
     "commits_count": 5,
@@ -273,15 +199,15 @@
     "repo_name": "UAC-bypass-using-dll-injection",
     "repo_owner": "shubham0d",
     "repotime": "2020-08-18, 01:35:11",
-    "stargazers_count": 75,
-    "watchers_count": 75
+    "stargazers_count": 74,
+    "watchers_count": 74
 }
 {
     "commits_count": 183,
     "date_started": "2015-06-26",
     "date_updated": "2020-08-17",
     "description": "kadimus is a tool to check and exploit lfi vulnerability.",
-    "forks_count": 136,
+    "forks_count": 131,
     "html_url": "https://github.com/P0cL4bs/kadimus",
     "keywords": [
         "lfi"
@@ -290,8 +216,8 @@
     "repo_name": "kadimus",
     "repo_owner": "P0cL4bs",
     "repotime": "2020-08-17, 09:01:22",
-    "stargazers_count": 505,
-    "watchers_count": 505
+    "stargazers_count": 511,
+    "watchers_count": 511
 }
 {
     "commits_count": 3,
@@ -311,40 +237,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 11,
-    "date_started": "2020-08-14",
-    "date_updated": "2020-08-14",
-    "description": "Nagios XI 5.5.6 Remote Code Execution and Privilege Escalation",
-    "forks_count": 0,
-    "html_url": "https://github.com/ruthvikvegunta/nagiosxi_rce-to-root",
-    "keywords": [
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "nagiosxi_rce-to-root",
-    "repo_owner": "ruthvikvegunta",
-    "repotime": "2020-08-14, 22:06:46",
-    "stargazers_count": 11,
-    "watchers_count": 11
-}
-{
-    "commits_count": 6,
-    "date_started": "2018-12-02",
-    "date_updated": "2020-08-14",
-    "description": "Collection of XSS Payloads for fun and profit",
-    "forks_count": 61,
-    "html_url": "https://github.com/ihebski/XSS-Payloads",
-    "keywords": [
-        "xss"
-    ],
-    "language": null,
-    "repo_name": "XSS-Payloads",
-    "repo_owner": "ihebski",
-    "repotime": "2020-08-14, 13:19:13",
-    "stargazers_count": 147,
-    "watchers_count": 147
-}
-{
     "commits_count": 7,
     "date_started": "2020-08-13",
     "date_updated": "2020-08-13",
@@ -358,15 +250,15 @@
     "repo_name": "CVE-2016-4014",
     "repo_owner": "murataydemir",
     "repotime": "2020-08-13, 15:54:12",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 4,
     "date_started": "2020-08-12",
     "date_updated": "2020-08-12",
     "description": "Auto Shell upload &amp;amp; Patch vulnerability",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/kaadip93/vBulletin-0Day-Auto-shell",
     "keywords": [
         "0day vulnerability"
@@ -379,23 +271,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 0,
-    "date_started": "2020-08-12",
-    "date_updated": "2020-08-12",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/purple-WL/Discourse-sending-email-function-exist-Server-side-request-forgery-SSRF-",
-    "keywords": [
-        "server side request forgery"
-    ],
-    "language": null,
-    "repo_name": "Discourse-sending-email-function-exist-Server-side-request-forgery-SSRF-",
-    "repo_owner": "purple-WL",
-    "repotime": "2020-08-12, 06:35:13",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 8,
     "date_started": "2020-08-11",
     "date_updated": "2020-08-11",
@@ -403,10 +278,6 @@
     "forks_count": 2,
     "html_url": "https://github.com/VoidSec/CVE-2020-1337",
     "keywords": [
-        "0day exploit",
-        "Windows 0day poc",
-        "0day poc",
-        "Windows 0day exploit",
         "Windows 0day"
     ],
     "language": null,
@@ -421,7 +292,7 @@
     "date_started": "2012-05-28",
     "date_updated": "2020-08-11",
     "description": "Runtime Code Injection for Objective-C &amp;amp; Swift",
-    "forks_count": 564,
+    "forks_count": 565,
     "html_url": "https://github.com/johnno1962/injectionforxcode",
     "keywords": [
         "code injection"
@@ -430,8 +301,8 @@
     "repo_name": "injectionforxcode",
     "repo_owner": "johnno1962",
     "repotime": "2020-08-11, 06:26:28",
-    "stargazers_count": 6539,
-    "watchers_count": 6539
+    "stargazers_count": 6551,
+    "watchers_count": 6551
 }
 {
     "commits_count": 4,
@@ -464,8 +335,8 @@
     "repo_name": "0day-RCE-exploit-on-vBulletin-5xx",
     "repo_owner": "momika233",
     "repotime": "2020-08-11, 00:52:20",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 3,
@@ -481,15 +352,15 @@
     "repo_name": "Ruby-On-Rails-Path-Traversal-Vulnerability-CVE-2018-3760-",
     "repo_owner": "cyberharsh",
     "repotime": "2020-08-10, 16:49:37",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 6,
     "date_started": "2020-06-30",
     "date_updated": "2020-08-08",
     "description": "&amp;&#35;35; Pandas Homework - Pandas, Pandas, Pandas  &amp;&#35;35;&amp;&#35;35; Background  The data dive continues!  Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one of two** (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Before You Begin  1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.  2. Clone the new repository to your computer.  3. Inside your local git repository, create a directory for the Pandas Challenge you choose. Use folder names corresponding to the challenges: **HeroesOfPymoli** or  **PyCitySchools**.  4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.  5. Push the above changes to GitHub or GitLab.  &amp;&#35;3...",
-    "forks_count": 5,
+    "forks_count": 6,
     "html_url": "https://github.com/pnguenda/pandas-challenge",
     "keywords": [
         "use after free analysis"
@@ -498,8 +369,8 @@
     "repo_name": "pandas-challenge",
     "repo_owner": "pnguenda",
     "repotime": "2020-08-08, 23:57:45",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 6,
@@ -509,8 +380,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/kernelzeroday/0day-dev",
     "keywords": [
-        "0day exploitation",
-        "0day exploit"
+        "0day exploitation"
     ],
     "language": "C",
     "repo_name": "0day-dev",
@@ -527,24 +397,21 @@
     "forks_count": 3,
     "html_url": "https://github.com/hyd3sec/HouseRental_Unauth_RCE",
     "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit",
-        "unauthenticated remote code execution",
         "unauthenticated rce"
     ],
     "language": "Python",
     "repo_name": "HouseRental_Unauth_RCE",
     "repo_owner": "hyd3sec",
     "repotime": "2020-08-07, 21:39:02",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 34,
     "date_started": "2013-07-19",
     "date_updated": "2020-08-07",
     "description": "The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.",
-    "forks_count": 166,
+    "forks_count": 156,
     "html_url": "https://github.com/SpiderLabs/MCIR",
     "keywords": [
         "code injection"
@@ -553,8 +420,8 @@
     "repo_name": "MCIR",
     "repo_owner": "SpiderLabs",
     "repotime": "2020-08-07, 14:44:09",
-    "stargazers_count": 437,
-    "watchers_count": 437
+    "stargazers_count": 436,
+    "watchers_count": 436
 }
 {
     "commits_count": 5,
@@ -564,15 +431,14 @@
     "forks_count": 1,
     "html_url": "https://github.com/grines/selenium-grid-rce",
     "keywords": [
-        "Chrome rce",
-        "Chrome rce poc"
+        "Chrome rce"
     ],
     "language": "Python",
     "repo_name": "selenium-grid-rce",
     "repo_owner": "grines",
     "repotime": "2020-08-06, 23:00:39",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 2,
@@ -592,23 +458,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 3,
-    "date_started": "2020-08-06",
-    "date_updated": "2020-08-06",
-    "description": "Pi-hole ( &amp;lt;= 4.3.2)  authenticated remote code execution.",
-    "forks_count": 0,
-    "html_url": "https://github.com/team0se7en/CVE-2020-8816",
-    "keywords": [
-        "remote code execution exploit"
-    ],
-    "language": "Go",
-    "repo_name": "CVE-2020-8816",
-    "repo_owner": "team0se7en",
-    "repotime": "2020-08-06, 17:10:27",
-    "stargazers_count": 6,
-    "watchers_count": 6
-}
-{
     "commits_count": 1,
     "date_started": "2019-11-20",
     "date_updated": "2020-08-06",
@@ -622,8 +471,8 @@
     "repo_name": "mole",
     "repo_owner": "ztgrace",
     "repotime": "2020-08-06, 10:14:46",
-    "stargazers_count": 57,
-    "watchers_count": 57
+    "stargazers_count": 56,
+    "watchers_count": 56
 }
 {
     "commits_count": 1,
@@ -647,7 +496,7 @@
     "date_started": "2018-08-06",
     "date_updated": "2020-08-05",
     "description": "Recursively exploit path traversal vulnerability",
-    "forks_count": 4,
+    "forks_count": 5,
     "html_url": "https://github.com/Sjord/protravel",
     "keywords": [
         "path traversal vulnerability"
@@ -660,11 +509,11 @@
     "watchers_count": 7
 }
 {
-    "commits_count": 98,
+    "commits_count": 99,
     "date_started": "2016-05-19",
     "date_updated": "2020-08-05",
     "description": "NoSQLAttack is an open source Python tool to automate exploit MongoDB server IP on Internet and disclose the database data by MongoDB default configuration weaknesses and injection attacks.",
-    "forks_count": 92,
+    "forks_count": 91,
     "html_url": "https://github.com/youngyangyang04/NoSQLAttack",
     "keywords": [
         "sql injection"
@@ -673,8 +522,8 @@
     "repo_name": "NoSQLAttack",
     "repo_owner": "youngyangyang04",
     "repotime": "2020-08-05, 09:29:07",
-    "stargazers_count": 291,
-    "watchers_count": 291
+    "stargazers_count": 304,
+    "watchers_count": 304
 }
 {
     "commits_count": 10,
@@ -743,21 +592,4 @@
     "repotime": "2020-08-03, 14:25:15",
     "stargazers_count": 6,
     "watchers_count": 6
-}
-{
-    "commits_count": 43,
-    "date_started": "2020-07-27",
-    "date_updated": "2020-08-02",
-    "description": "A website where authenticated users have the ability to create a todo list. Each user and their todos are saved into a MongoDB to save all of their data. Passport and JWT is used to authenticate users. JWT is also used to hide specific routes that unauthenticated users should not have access too and same with some routes that should not be shown to authenticated users.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ubryce/Todo-Tracker",
-    "keywords": [
-        "unauthenticated user"
-    ],
-    "language": "JavaScript",
-    "repo_name": "Todo-Tracker",
-    "repo_owner": "ubryce",
-    "repotime": "2020-08-02, 18:45:59",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }

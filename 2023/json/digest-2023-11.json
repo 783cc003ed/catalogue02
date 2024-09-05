@@ -37,167 +37,17 @@
     "date_started": "2016-09-01",
     "date_updated": "2023-11-30",
     "description": "OWASP Joomla Vulnerability Scanner Project https://www.secologist.com/",
-    "forks_count": 242,
+    "forks_count": 243,
     "html_url": "https://github.com/OWASP/joomscan",
     "keywords": [
-        "0day exploit",
-        "0day vulnerability"
+        "0day exploit"
     ],
     "language": "Raku",
     "repo_name": "joomscan",
     "repo_owner": "OWASP",
     "repotime": "2023-11-30, 08:32:25",
-    "stargazers_count": 998,
-    "watchers_count": 998
-}
-{
-    "commits_count": 3,
-    "date_started": "2023-11-28",
-    "date_updated": "2023-11-29",
-    "description": "Unlock unparalleled cybersecurity defense with our sophisticated Microsoft Outlook Remote Code Execution Exploit – a revolutionary zero-click solution for seamless remote code execution.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Buyrealworldexploit/Microsoft-Outlook-Remote-Code-Execution-Exploit",
-    "keywords": [
-        "Microsoft remote code execution",
-        "Microsoft 0day exploit",
-        "Windows remote code execution exploitation",
-        "Windows remote code execution exploit",
-        "Windows 0day exploitation"
-    ],
-    "language": null,
-    "repo_name": "Microsoft-Outlook-Remote-Code-Execution-Exploit",
-    "repo_owner": "Buyrealworldexploit",
-    "repotime": "2023-11-29, 10:53:59",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 5,
-    "date_started": "2023-11-28",
-    "date_updated": "2023-11-29",
-    "description": "Discover a pre-authentication exploit affecting recent versions of Moodle with our cutting-edge 0day exploit. This exploit allows remote code execution, designed to work seamlessly with default installations and requires no authentication or user interaction.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Buyrealworldexploit/Moodle-4.3-Remote-Code-Execution-Exploit",
-    "keywords": [
-        "Windows remote code execution exploitation",
-        "Windows remote code execution exploit",
-        "Windows 0day exploitation"
-    ],
-    "language": null,
-    "repo_name": "Moodle-4.3-Remote-Code-Execution-Exploit",
-    "repo_owner": "Buyrealworldexploit",
-    "repotime": "2023-11-29, 10:53:46",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 4,
-    "date_started": "2023-11-28",
-    "date_updated": "2023-11-29",
-    "description": "Uncover the depths of the Simjacker vulnerability, an exploit actively utilized by a specific private company collaborating with governments for extensive individual monitoring. Simjacker represents a significant leap in complexity and sophistication compared to previous mobile core network attacks.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Buyrealworldexploit/Simjacker-Vulnerability",
-    "keywords": [
-        "0day vulnerability",
-        "Windows 0day exploitation"
-    ],
-    "language": null,
-    "repo_name": "Simjacker-Vulnerability",
-    "repo_owner": "Buyrealworldexploit",
-    "repotime": "2023-11-29, 10:53:33",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 6,
-    "date_started": "2023-11-28",
-    "date_updated": "2023-11-29",
-    "description": "exploit code has emerged for a significant Windows Remote Code Execution (RCE) vulnerability, also referred to as ThemeBleed. This security issue, scoring a high-severity rating, enables remote attackers to execute code on the target system.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Buyrealworldexploit/Windows-Remote-Code-Execution-Exploit",
-    "keywords": [
-        "Win remote code execution vulnerability",
-        "Win remote code execution",
-        "Win remote code execution exploitation",
-        "Windows remote code execution exploitation",
-        "0day vulnerability",
-        "Windows remote code execution exploit",
-        "Windows 0day exploitation"
-    ],
-    "language": null,
-    "repo_name": "Windows-Remote-Code-Execution-Exploit",
-    "repo_owner": "Buyrealworldexploit",
-    "repotime": "2023-11-29, 10:52:51",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 7,
-    "date_started": "2023-11-28",
-    "date_updated": "2023-11-29",
-    "description": "Unlock the power to hack almost any Instagram account with precision using our sophisticated exploit. Tailored for those seeking unrivaled access and control, this cutting-edge method sets a new standard in social engineering.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Buyrealworldexploit/Instagram-Hacking-Exploit",
-    "keywords": [
-        "Windows 0day exploitation"
-    ],
-    "language": null,
-    "repo_name": "Instagram-Hacking-Exploit",
-    "repo_owner": "Buyrealworldexploit",
-    "repotime": "2023-11-29, 10:52:28",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 42,
-    "date_started": "2023-04-25",
-    "date_updated": "2023-11-28",
-    "description": "An AWS IAM policy statement parser and query tool.",
-    "forks_count": 8,
-    "html_url": "https://github.com/RhinoSecurityLabs/IAMActionHunter",
-    "keywords": [
-        "by_owner"
-    ],
-    "language": "Python",
-    "repo_name": "IAMActionHunter",
-    "repo_owner": "RhinoSecurityLabs",
-    "repotime": "2023-11-28, 12:55:28",
-    "stargazers_count": 126,
-    "watchers_count": 126
-}
-{
-    "commits_count": 13,
-    "date_started": "2023-11-22",
-    "date_updated": "2023-11-28",
-    "description": "Reproducable memory leak",
-    "forks_count": 0,
-    "html_url": "https://github.com/MLB-BIOMETRIC/Microsoft.iOS.AVSemanticSegmentationMatte-memoryleak",
-    "keywords": [
-        "Microsoft memory leak"
-    ],
-    "language": "C#",
-    "repo_name": "Microsoft.iOS.AVSemanticSegmentationMatte-memoryleak",
-    "repo_owner": "MLB-BIOMETRIC",
-    "repotime": "2023-11-28, 09:57:14",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 416,
-    "date_started": "2018-07-17",
-    "date_updated": "2023-11-27",
-    "description": "CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool",
-    "forks_count": 540,
-    "html_url": "https://github.com/RhinoSecurityLabs/cloudgoat",
-    "keywords": [
-        "by_owner"
-    ],
-    "language": "Python",
-    "repo_name": "cloudgoat",
-    "repo_owner": "RhinoSecurityLabs",
-    "repotime": "2023-11-27, 18:58:32",
-    "stargazers_count": 2268,
-    "watchers_count": 2268
+    "stargazers_count": 1044,
+    "watchers_count": 1044
 }
 {
     "commits_count": 8,
@@ -230,36 +80,32 @@
     "repo_name": "Telco_Churn_Analysis",
     "repo_owner": "neyaziyonanacim",
     "repotime": "2023-11-26, 22:30:10",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 10,
     "date_started": "2023-08-25",
     "date_updated": "2023-11-26",
     "description": "CVE-2023-38831 winrar exploit generator",
-    "forks_count": 136,
+    "forks_count": 137,
     "html_url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
     "keywords": [
-        "Win 0day",
-        "0day exploit",
-        "Win 0day exploit",
-        "Win 0day exploitation",
-        "0day exploitation"
+        "Win 0day"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-38831-winrar-exploit",
     "repo_owner": "b1tg",
     "repotime": "2023-11-26, 14:46:44",
-    "stargazers_count": 749,
-    "watchers_count": 749
+    "stargazers_count": 781,
+    "watchers_count": 781
 }
 {
     "commits_count": 81,
     "date_started": "2023-08-28",
     "date_updated": "2023-11-26",
     "description": "A modern tool written in Python that automates your xss findings.",
-    "forks_count": 45,
+    "forks_count": 63,
     "html_url": "https://github.com/faiyazahmad07/xss_vibes",
     "keywords": [
         "xss"
@@ -268,60 +114,25 @@
     "repo_name": "xss_vibes",
     "repo_owner": "faiyazahmad07",
     "repotime": "2023-11-26, 11:00:56",
-    "stargazers_count": 229,
-    "watchers_count": 229
-}
-{
-    "commits_count": 30,
-    "date_started": "2023-11-05",
-    "date_updated": "2023-11-24",
-    "description": "Wordpress Plugin Canto &amp;lt; 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE)",
-    "forks_count": 1,
-    "html_url": "https://github.com/leoanggal1/CVE-2023-3452-PoC",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2023-3452-PoC",
-    "repo_owner": "leoanggal1",
-    "repotime": "2023-11-24, 13:55:00",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 343,
+    "watchers_count": 343
 }
 {
     "commits_count": 4,
     "date_started": "2023-11-16",
     "date_updated": "2023-11-23",
     "description": "LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.",
-    "forks_count": 9,
+    "forks_count": 12,
     "html_url": "https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
     "keywords": [
-        "lpe vulnerability",
         "lpe poc"
     ],
     "language": "C",
     "repo_name": "io_uring_LPE-CVE-2023-2598",
     "repo_owner": "ysanatomic",
     "repotime": "2023-11-23, 20:36:52",
-    "stargazers_count": 76,
-    "watchers_count": 76
-}
-{
-    "commits_count": 1,
-    "date_started": "2023-11-23",
-    "date_updated": "2023-11-23",
-    "description": "Admin Session Hijacking Script for the Hijack Machine in TryHackMe",
-    "forks_count": 0,
-    "html_url": "https://github.com/Praison001/THM---Hijack",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "Python",
-    "repo_name": "THM---Hijack",
-    "repo_owner": "Praison001",
-    "repotime": "2023-11-23, 14:53:37",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 86,
+    "watchers_count": 86
 }
 {
     "commits_count": 28,
@@ -331,34 +142,31 @@
     "forks_count": 9,
     "html_url": "https://github.com/jm33-m0/go-lpe",
     "keywords": [
-        "lpe exploit",
-        "lpe exploitation"
+        "lpe exploit"
     ],
     "language": "Go",
     "repo_name": "go-lpe",
     "repo_owner": "jm33-m0",
     "repotime": "2023-11-23, 14:47:52",
-    "stargazers_count": 45,
-    "watchers_count": 45
+    "stargazers_count": 50,
+    "watchers_count": 50
 }
 {
     "commits_count": 8,
     "date_started": "2023-10-20",
     "date_updated": "2023-11-22",
     "description": "The Proof of concept for abusing SeDebugPrivilege (Privilege Escalation in Windows)",
-    "forks_count": 0,
+    "forks_count": 2,
     "html_url": "https://github.com/joaoviictorti/SeDebugAbuse-rs",
     "keywords": [
-        "escalation of privileges proof of concept",
-        "Windows escalation of privileges",
-        "Windows escalation of privileges proof of concept"
+        "escalation of privileges proof of concept"
     ],
     "language": "Rust",
     "repo_name": "SeDebugAbuse-rs",
     "repo_owner": "joaoviictorti",
     "repotime": "2023-11-22, 18:30:49",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 4,
@@ -378,44 +186,10 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 1201,
-    "date_started": "2022-06-20",
-    "date_updated": "2023-11-22",
-    "description": "Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",
-    "forks_count": 525,
-    "html_url": "https://github.com/hktalent/scan4all",
-    "keywords": [
-        "0day poc"
-    ],
-    "language": "Go",
-    "repo_name": "scan4all",
-    "repo_owner": "hktalent",
-    "repotime": "2023-11-22, 13:02:21",
-    "stargazers_count": 4310,
-    "watchers_count": 4310
-}
-{
-    "commits_count": 22,
-    "date_started": "2022-10-29",
-    "date_updated": "2023-11-21",
-    "description": "UF Course Reviewer: A web app offering a platform for students to share and view reviews on UF courses. Features include course descriptions, prerequisites, and a review carousel. Users can contribute reviews upon login, with a seamless redirect to the login page for unauthenticated users.",
-    "forks_count": 0,
-    "html_url": "https://github.com/navidali/ratemyclass",
-    "keywords": [
-        "unauthenticated user"
-    ],
-    "language": "JavaScript",
-    "repo_name": "ratemyclass",
-    "repo_owner": "navidali",
-    "repotime": "2023-11-21, 16:14:58",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 16,
     "date_started": "2023-11-17",
     "date_updated": "2023-11-21",
-    "description": "全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.",
+    "description": "[漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.",
     "forks_count": 33,
     "html_url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
     "keywords": [
@@ -425,19 +199,18 @@
     "repo_name": "CVE-2023-4357-Chrome-XXE",
     "repo_owner": "xcanwin",
     "repotime": "2023-11-21, 18:41:56",
-    "stargazers_count": 178,
-    "watchers_count": 178
+    "stargazers_count": 195,
+    "watchers_count": 195
 }
 {
     "commits_count": 12,
     "date_started": "2023-09-18",
     "date_updated": "2023-11-20",
     "description": "7 Days To Die Zero Day Exploit To Remotely Wipe Server Files",
-    "forks_count": 0,
+    "forks_count": 2,
     "html_url": "https://github.com/IntelSDM/0-Day-To-Die",
     "keywords": [
-        "zero-day exploit",
-        "zero-day exploitation"
+        "zero-day exploit"
     ],
     "language": "C#",
     "repo_name": "0-Day-To-Die",
@@ -471,69 +244,14 @@
     "forks_count": 20,
     "html_url": "https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation",
     "keywords": [
-        "Chrome 0day exploitation",
-        "Chrome 0day",
-        "Chrome 0day exploit",
-        "0day exploit",
-        "0day exploitation"
+        "Chrome 0day"
     ],
     "language": "PHP",
     "repo_name": "CVE-2023-4357-APT-Style-exploitation",
     "repo_owner": "OgulcanUnveren",
     "repotime": "2023-11-20, 04:02:44",
-    "stargazers_count": 41,
-    "watchers_count": 41
-}
-{
-    "commits_count": 5,
-    "date_started": "2023-11-18",
-    "date_updated": "2023-11-19",
-    "description": "<no description>",
-    "forks_count": 24,
-    "html_url": "https://github.com/nathan31337/Splunk-RCE-poc",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "Splunk-RCE-poc",
-    "repo_owner": "nathan31337",
-    "repotime": "2023-11-19, 13:09:06",
-    "stargazers_count": 108,
-    "watchers_count": 108
-}
-{
-    "commits_count": 17,
-    "date_started": "2023-11-18",
-    "date_updated": "2023-11-19",
-    "description": "Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers",
-    "forks_count": 24,
-    "html_url": "https://github.com/danialhalo/SqliSniper",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Python",
-    "repo_name": "SqliSniper",
-    "repo_owner": "danialhalo",
-    "repotime": "2023-11-19, 03:12:04",
-    "stargazers_count": 160,
-    "watchers_count": 160
-}
-{
-    "commits_count": 5,
-    "date_started": "2023-10-30",
-    "date_updated": "2023-11-18",
-    "description": "A deliberately vulnerable web application exhibiting an unrestricted file upload vulnerability.",
-    "forks_count": 0,
-    "html_url": "https://github.com/lambdacasserole/unrestricted-file-upload-exercise",
-    "keywords": [
-        "unrestricted file upload"
-    ],
-    "language": "CSS",
-    "repo_name": "unrestricted-file-upload-exercise",
-    "repo_owner": "lambdacasserole",
-    "repotime": "2023-11-18, 20:09:06",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 42,
+    "watchers_count": 42
 }
 {
     "commits_count": 2,
@@ -587,39 +305,21 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 14,
-    "date_started": "2019-08-19",
+    "commits_count": 2,
+    "date_started": "2023-11-17",
     "date_updated": "2023-11-17",
-    "description": "Image Tragick Exploit Tool Using Burp Collaborator",
-    "forks_count": 9,
-    "html_url": "https://github.com/ankitk323/ImgRce",
+    "description": "I've created a login &amp;amp; registration page using HTML,CSS and javascript. It includes input validation and shows error messages on wrong inputs",
+    "forks_count": 0,
+    "html_url": "https://github.com/Waliya451/login-registeration",
     "keywords": [
-        "rce exploit",
-        "rce exploitation"
+        "wrong input validation"
     ],
-    "language": "Python",
-    "repo_name": "ImgRce",
-    "repo_owner": "ankitk323",
-    "repotime": "2023-11-17, 21:46:40",
-    "stargazers_count": 34,
-    "watchers_count": 34
-}
-{
-    "commits_count": 1117,
-    "date_started": "2012-07-18",
-    "date_updated": "2023-11-17",
-    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 406,
-    "html_url": "https://github.com/ron190/jsql-injection",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Java",
-    "repo_name": "jsql-injection",
-    "repo_owner": "ron190",
-    "repotime": "2023-11-17, 13:20:59",
-    "stargazers_count": 1315,
-    "watchers_count": 1315
+    "language": "HTML",
+    "repo_name": "login-registeration",
+    "repo_owner": "Waliya451",
+    "repotime": "2023-11-17, 20:41:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 3,
@@ -644,70 +344,16 @@
     "date_updated": "2023-11-17",
     "description": "Chrome Arbitrary File Read Vulnerability (0day)",
     "forks_count": 1,
-    "html_url": "https://github.com/CKevens/Chrome-Arbitrary-File-Read-Vulnerability-0day",
+    "html_url": "https://github.com/3yujw7njai/Chrome-Arbitrary-File-Read-Vulnerability-0day",
     "keywords": [
-        "0day vulnerability",
-        "Chrome 0day vulnerability",
         "Chrome 0day"
     ],
     "language": null,
     "repo_name": "Chrome-Arbitrary-File-Read-Vulnerability-0day",
-    "repo_owner": "CKevens",
+    "repo_owner": "3yujw7njai",
     "repotime": "2023-11-17, 11:47:26",
     "stargazers_count": 4,
     "watchers_count": 4
-}
-{
-    "commits_count": 164,
-    "date_started": "2013-11-05",
-    "date_updated": "2023-11-15",
-    "description": "Command line tool to edit resources of exe",
-    "forks_count": 172,
-    "html_url": "https://github.com/electron/rcedit",
-    "keywords": [
-        "Windows rce"
-    ],
-    "language": "C++",
-    "repo_name": "rcedit",
-    "repo_owner": "electron",
-    "repotime": "2023-11-15, 18:31:07",
-    "stargazers_count": 1439,
-    "watchers_count": 1439
-}
-{
-    "commits_count": 2,
-    "date_started": "2023-11-16",
-    "date_updated": "2023-11-16",
-    "description": "XSS AND AUTHORIZATION In this session we cover cross-site scripting, very common vulnerabilities, as well as authorization failures.  What to learn XSS (Cross Site Scripting) XSS type Saved Reflected DOM Detection Exploitation Mitigation Bypass authorization and forced browsing Detection Exploitation Mitigation",
-    "forks_count": 0,
-    "html_url": "https://github.com/axlywb/web-hacking-vulnerability-lesson",
-    "keywords": [
-        "session vulnerability"
-    ],
-    "language": null,
-    "repo_name": "web-hacking-vulnerability-lesson",
-    "repo_owner": "axlywb",
-    "repotime": "2023-11-16, 09:04:13",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2021-08-07",
-    "date_updated": "2023-11-15",
-    "description": "Potential exploits for my roblox game. Not including day zero's",
-    "forks_count": 0,
-    "html_url": "https://github.com/richard9236/Lights-on-low-health-potential-exploits",
-    "keywords": [
-        "zero-day exploitation",
-        "zero-day exploit"
-    ],
-    "language": null,
-    "repo_name": "Lights-on-low-health-potential-exploits",
-    "repo_owner": "richard9236",
-    "repotime": "2023-11-15, 12:44:12",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 8,
@@ -723,8 +369,8 @@
     "repo_name": "chromium-webview-leak",
     "repo_owner": "pyricau",
     "repotime": "2023-11-14, 15:07:40",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 22,
@@ -744,41 +390,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 24,
-    "date_started": "2023-11-11",
-    "date_updated": "2023-11-15",
-    "description": "Tool collection (intranet penetration/privilege escalation tools/remote overflow/vulnerability exploitation/scanning tools/password cracking/evasion tools/Exploit/APT/0day/Shellcode/Payload/privilege/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit ( Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
-    "forks_count": 1,
-    "html_url": "https://github.com/pushkkk/pushkkk.github.io",
-    "keywords": [
-        "0day vulnerability",
-        "0day exploitation"
-    ],
-    "language": null,
-    "repo_name": "pushkkk.github.io",
-    "repo_owner": "pushkkk",
-    "repotime": "2023-11-15, 04:06:55",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 1,
-    "date_started": "2023-11-14",
-    "date_updated": "2023-11-14",
-    "description": "This repo is for evidence and references for a CVE submission",
-    "forks_count": 0,
-    "html_url": "https://github.com/jcyuen1995/Local-File-Inclusion",
-    "keywords": [
-        "local file inclusion"
-    ],
-    "language": null,
-    "repo_name": "Local-File-Inclusion",
-    "repo_owner": "jcyuen1995",
-    "repotime": "2023-11-14, 14:47:10",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 8,
     "date_started": "2023-11-06",
     "date_updated": "2023-11-14",
@@ -786,12 +397,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/Avento/ZDI-CAN-22101",
     "keywords": [
-        "0day vulnerability",
-        "Microsoft 0day vulnerability",
-        "Microsoft 0day",
-        "Microsoft 0day disclosure",
-        "0day disclosure",
-        "server side request forgery"
+        "Microsoft 0day"
     ],
     "language": "Python",
     "repo_name": "ZDI-CAN-22101",
@@ -818,40 +424,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 34,
-    "date_started": "2021-05-17",
-    "date_updated": "2023-11-13",
-    "description": "Crack MSCHAPv2 challenge/responses quickly using a database of NT hashes",
-    "forks_count": 19,
-    "html_url": "https://github.com/sensepost/assless-chaps",
-    "keywords": [
-        "by_owner"
-    ],
-    "language": "Python",
-    "repo_name": "assless-chaps",
-    "repo_owner": "sensepost",
-    "repotime": "2023-11-13, 15:09:44",
-    "stargazers_count": 112,
-    "watchers_count": 112
-}
-{
-    "commits_count": 2,
-    "date_started": "2023-11-13",
-    "date_updated": "2023-11-13",
-    "description": "Statamic CMS versions &amp;lt;4.33.0 vulnerable to &amp;quot;Remote Code Execution&amp;quot; ",
-    "forks_count": 0,
-    "html_url": "https://github.com/Cyber-Wo0dy/CVE-2023-47129",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": null,
-    "repo_name": "CVE-2023-47129",
-    "repo_owner": "Cyber-Wo0dy",
-    "repotime": "2023-11-13, 09:24:03",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
     "commits_count": 7,
     "date_started": "2023-11-13",
     "date_updated": "2023-11-13",
@@ -869,41 +441,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 12,
-    "date_started": "2023-05-22",
-    "date_updated": "2023-11-12",
-    "description": "Device allow remote code execution because there is an adb open port with root permission",
-    "forks_count": 0,
-    "html_url": "https://github.com/amalrajpc/MXQ_Android-box_Vulnerability",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": null,
-    "repo_name": "MXQ_Android-box_Vulnerability",
-    "repo_owner": "amalrajpc",
-    "repotime": "2023-11-12, 18:44:21",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 10,
-    "date_started": "2023-11-06",
-    "date_updated": "2023-11-12",
-    "description": " CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool",
-    "forks_count": 5,
-    "html_url": "https://github.com/sule01u/CVE-2023-46604",
-    "keywords": [
-        "rce vulnerability",
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2023-46604",
-    "repo_owner": "sule01u",
-    "repotime": "2023-11-12, 18:40:14",
-    "stargazers_count": 34,
-    "watchers_count": 34
-}
-{
     "commits_count": 13,
     "date_started": "2023-01-28",
     "date_updated": "2023-11-11",
@@ -917,8 +454,8 @@
     "repo_name": "enzyme",
     "repo_owner": "camila314",
     "repotime": "2023-11-11, 08:35:03",
-    "stargazers_count": 93,
-    "watchers_count": 93
+    "stargazers_count": 101,
+    "watchers_count": 101
 }
 {
     "commits_count": 1,
@@ -936,24 +473,6 @@
     "repotime": "2023-11-10, 08:12:56",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 4,
-    "date_started": "2023-11-10",
-    "date_updated": "2023-11-09",
-    "description": "This repository is a tool to create a .suo that when run by visual studio's will achieve code execution",
-    "forks_count": 17,
-    "html_url": "https://github.com/moom825/visualstudio-suo-exploit",
-    "keywords": [
-        "rce poc",
-        "rce exploit"
-    ],
-    "language": "C#",
-    "repo_name": "visualstudio-suo-exploit",
-    "repo_owner": "moom825",
-    "repotime": "2023-11-09, 19:42:05",
-    "stargazers_count": 86,
-    "watchers_count": 86
 }
 {
     "commits_count": 10,
@@ -1011,42 +530,24 @@
     "date_started": "2022-12-12",
     "date_updated": "2023-11-08",
     "description": "A Server Side Request Forgery (SSRF) protection library. Made with 🖤 by Doyensec LLC.",
-    "forks_count": 6,
+    "forks_count": 8,
     "html_url": "https://github.com/doyensec/safeurl",
     "keywords": [
-        "server side request forgery",
         "ssrf"
     ],
     "language": "Go",
     "repo_name": "safeurl",
     "repo_owner": "doyensec",
     "repotime": "2023-11-08, 09:05:33",
-    "stargazers_count": 83,
-    "watchers_count": 83
-}
-{
-    "commits_count": 91,
-    "date_started": "2019-01-15",
-    "date_updated": "2023-11-07",
-    "description": "A list of resources for those interested in getting started in bug bounties",
-    "forks_count": 1823,
-    "html_url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": null,
-    "repo_name": "Resources-for-Beginner-Bug-Bounty-Hunters",
-    "repo_owner": "nahamsec",
-    "repotime": "2023-11-07, 22:30:26",
-    "stargazers_count": 10028,
-    "watchers_count": 10028
+    "stargazers_count": 89,
+    "watchers_count": 89
 }
 {
     "commits_count": 97,
     "date_started": "2021-03-06",
     "date_updated": "2023-11-08",
     "description": "ProxyLogon Pre-Auth SSRF To Arbitrary File Write",
-    "forks_count": 42,
+    "forks_count": 38,
     "html_url": "https://github.com/Udyz/Proxylogon",
     "keywords": [
         "ssrf"
@@ -1055,8 +556,8 @@
     "repo_name": "Proxylogon",
     "repo_owner": "Udyz",
     "repotime": "2023-11-08, 12:31:59",
-    "stargazers_count": 123,
-    "watchers_count": 123
+    "stargazers_count": 124,
+    "watchers_count": 124
 }
 {
     "commits_count": 59,
@@ -1072,59 +573,8 @@
     "repo_name": "AMI_BIOS_CodeInjection",
     "repo_owner": "Theldus",
     "repotime": "2023-11-07, 17:29:05",
-    "stargazers_count": 20,
-    "watchers_count": 20
-}
-{
-    "commits_count": 331,
-    "date_started": "2020-06-20",
-    "date_updated": "2023-11-07",
-    "description": "Check your WAF before an attacker does",
-    "forks_count": 137,
-    "html_url": "https://github.com/nemesida-waf/waf-bypass",
-    "keywords": [
-        "lfi"
-    ],
-    "language": "Python",
-    "repo_name": "waf-bypass",
-    "repo_owner": "nemesida-waf",
-    "repotime": "2023-11-07, 15:49:02",
-    "stargazers_count": 896,
-    "watchers_count": 896
-}
-{
-    "commits_count": 69,
-    "date_started": "2022-05-08",
-    "date_updated": "2023-11-07",
-    "description": "An XSS exploitation command-line interface and payload generator.",
-    "forks_count": 160,
-    "html_url": "https://github.com/t3l3machus/toxssin",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Python",
-    "repo_name": "toxssin",
-    "repo_owner": "t3l3machus",
-    "repotime": "2023-11-07, 09:18:47",
-    "stargazers_count": 1131,
-    "watchers_count": 1131
-}
-{
-    "commits_count": 546,
-    "date_started": "2023-10-31",
-    "date_updated": "2023-11-05",
-    "description": "The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks.",
-    "forks_count": 5,
-    "html_url": "https://github.com/justhyak/UAC-Bypass-FUD",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "C#",
-    "repo_name": "UAC-Bypass-FUD",
-    "repo_owner": "justhyak",
-    "repotime": "2023-11-05, 21:53:19",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 24,
+    "watchers_count": 24
 }
 {
     "commits_count": 6,
@@ -1134,127 +584,48 @@
     "forks_count": 0,
     "html_url": "https://github.com/Pushkarup/CVE-2023-5360",
     "keywords": [
-        "unauthenticated rce",
         "unauthenticated user"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-5360",
     "repo_owner": "Pushkarup",
     "repotime": "2023-11-06, 00:10:11",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
-    "commits_count": 435,
-    "date_started": "2019-02-23",
-    "date_updated": "2023-11-05",
-    "description": "K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
-    "forks_count": 2063,
-    "html_url": "https://github.com/k8gege/K8tools",
-    "keywords": [
-        "0day poc",
-        "0day exploitation",
-        "0day exploit"
-    ],
-    "language": "PowerShell",
-    "repo_name": "K8tools",
-    "repo_owner": "k8gege",
-    "repotime": "2023-11-05, 11:49:11",
-    "stargazers_count": 5440,
-    "watchers_count": 5440
-}
-{
-    "commits_count": 5,
-    "date_started": "2023-11-03",
-    "date_updated": "2023-11-04",
-    "description": " Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604) ",
-    "forks_count": 17,
-    "html_url": "https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ",
-    "keywords": [
-        "rce exploitation"
-    ],
-    "language": "Go",
-    "repo_name": "CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ",
-    "repo_owner": "SaumyajeetDas",
-    "repotime": "2023-11-04, 04:07:16",
-    "stargazers_count": 59,
-    "watchers_count": 59
-}
-{
-    "commits_count": 101,
-    "date_started": "2018-12-18",
-    "date_updated": "2023-11-03",
-    "description": "A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.",
-    "forks_count": 217,
-    "html_url": "https://github.com/RhinoSecurityLabs/CVEs",
-    "keywords": [
-        "proof-of-concept",
-        "by_owner"
-    ],
-    "language": "Python",
-    "repo_name": "CVEs",
-    "repo_owner": "RhinoSecurityLabs",
-    "repotime": "2023-11-03, 07:34:51",
-    "stargazers_count": 692,
-    "watchers_count": 692
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 4,
     "date_started": "2023-11-03",
     "date_updated": "2023-11-03",
     "description": "An Exploitation script developed to exploit the CVE-2023-20198 Cisco zero day vulnerability on their IOS routers ",
-    "forks_count": 2,
-    "html_url": "https://github.com/sanjai-AK47/CVE-2023-20198",
+    "forks_count": 3,
+    "html_url": "https://github.com/RevoltSecurities/CVE-2023-20198",
     "keywords": [
-        "zero-day exploitation",
-        "zero-day vulnerability",
         "zero-day exploit"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-20198",
-    "repo_owner": "sanjai-AK47",
+    "repo_owner": "RevoltSecurities",
     "repotime": "2023-11-03, 19:24:43",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 3,
-    "date_started": "2023-11-03",
-    "date_updated": "2023-11-03",
-    "description": "This repository contains a Python script for detecting various types of vulnerabilities in network logs, including XSS, SQL injection, CORS, SSTI, LDAP injection, CRLF injection, code injection, SSI, LFI, RFI, XPath injection, Expression Language (EL) injection, XML injection, and Server-Side Request Forgery (SSRF).",
-    "forks_count": 0,
-    "html_url": "https://github.com/kucheganesh/Anomaly-Detection-In-Network",
-    "keywords": [
-        "server side request forgery"
-    ],
-    "language": null,
-    "repo_name": "Anomaly-Detection-In-Network",
-    "repo_owner": "kucheganesh",
-    "repotime": "2023-11-03, 12:40:59",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 6,
     "date_started": "2023-09-28",
     "date_updated": "2023-11-02",
     "description": "MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit",
-    "forks_count": 9,
+    "forks_count": 10,
     "html_url": "https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE",
     "keywords": [
-        "Windows rce",
-        "Windows rce exploit",
-        "Windows rce exploitation",
-        "Windows rce poc",
-        "rce exploitation",
-        "rce poc"
+        "Windows rce exploit"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-36884-MS-Office-HTML-RCE",
     "repo_owner": "jakabakos",
     "repotime": "2023-11-02, 10:08:31",
-    "stargazers_count": 31,
-    "watchers_count": 31
+    "stargazers_count": 35,
+    "watchers_count": 35
 }
 {
     "commits_count": 5,
@@ -1264,8 +635,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/neosizzle/snow-crash",
     "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation"
+        "escalation of privileges exploit"
     ],
     "language": null,
     "repo_name": "snow-crash",
@@ -1279,7 +649,7 @@
     "date_started": "2023-10-31",
     "date_updated": "2023-11-01",
     "description": "Executing EXE Files From Memory",
-    "forks_count": 1,
+    "forks_count": 3,
     "html_url": "https://github.com/IntelSDM/PEFromMemory",
     "keywords": [
         "Windows rce"
@@ -1288,24 +658,6 @@
     "repo_name": "PEFromMemory",
     "repo_owner": "IntelSDM",
     "repotime": "2023-11-01, 15:57:06",
-    "stargazers_count": 6,
-    "watchers_count": 6
-}
-{
-    "commits_count": 197,
-    "date_started": "2023-10-30",
-    "date_updated": "2023-11-01",
-    "description": "Microsoft Windows HTA (HTML Application) - Remote Code Execution",
-    "forks_count": 0,
-    "html_url": "https://github.com/StarlinkCoinn/Hta-Exploit-Downloader-Malware-Builder",
-    "keywords": [
-        "Microsoft remote code execution",
-        "Windows remote code execution"
-    ],
-    "language": "C#",
-    "repo_name": "Hta-Exploit-Downloader-Malware-Builder",
-    "repo_owner": "StarlinkCoinn",
-    "repotime": "2023-11-01, 07:59:42",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 8,
+    "watchers_count": 8
 }

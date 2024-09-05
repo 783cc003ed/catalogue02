@@ -1,26 +1,9 @@
 {
     "commits_count": 5,
-    "date_started": "2016-01-26",
-    "date_updated": "2016-01-26",
-    "description": "<no description>",
-    "forks_count": 43,
-    "html_url": "https://github.com/diegslva/BypassUAC",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "C",
-    "repo_name": "BypassUAC",
-    "repo_owner": "diegslva",
-    "repotime": "2016-01-26, 15:30:03",
-    "stargazers_count": 19,
-    "watchers_count": 19
-}
-{
-    "commits_count": 5,
     "date_started": "2015-03-17",
     "date_updated": "2016-01-23",
     "description": "A small python script to check for Cross-Site Tracing (XST)",
-    "forks_count": 63,
+    "forks_count": 59,
     "html_url": "https://github.com/1N3/XSSTracer",
     "keywords": [
         "xss"
@@ -29,8 +12,8 @@
     "repo_name": "XSSTracer",
     "repo_owner": "1N3",
     "repotime": "2016-01-23, 11:28:19",
-    "stargazers_count": 135,
-    "watchers_count": 135
+    "stargazers_count": 134,
+    "watchers_count": 134
 }
 {
     "commits_count": 3,
@@ -80,43 +63,8 @@
     "repo_name": "XSS.png",
     "repo_owner": "LucaBongiorni",
     "repotime": "2016-01-16, 15:03:43",
-    "stargazers_count": 57,
-    "watchers_count": 57
-}
-{
-    "commits_count": 12,
-    "date_started": "2013-08-22",
-    "date_updated": "2016-01-15",
-    "description": "ZTE ZXV10 H108L Router with &amp;lt;= V1.0.01_WIND_A01 - Remote root RCE Exploit",
-    "forks_count": 22,
-    "html_url": "https://github.com/stasinopoulos/ZTExploit",
-    "keywords": [
-        "rce exploitation",
-        "rce exploit"
-    ],
-    "language": "Python",
-    "repo_name": "ZTExploit",
-    "repo_owner": "stasinopoulos",
-    "repotime": "2016-01-15, 13:58:22",
-    "stargazers_count": 50,
-    "watchers_count": 50
-}
-{
-    "commits_count": 6,
-    "date_started": "2016-01-13",
-    "date_updated": "2016-01-13",
-    "description": "This is a POC for the Fortigate OS Backdoor found in version 4.x up to 5.0.7",
-    "forks_count": 17,
-    "html_url": "https://github.com/zigoo0/Fortigate-RCE-Backdoor",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "Fortigate-RCE-Backdoor",
-    "repo_owner": "zigoo0",
-    "repotime": "2016-01-13, 14:27:46",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 56,
+    "watchers_count": 56
 }
 {
     "commits_count": 92,
@@ -151,58 +99,4 @@
     "repotime": "2016-01-06, 17:30:32",
     "stargazers_count": 6,
     "watchers_count": 6
-}
-{
-    "commits_count": 3,
-    "date_started": "2016-01-04",
-    "date_updated": "2016-01-04",
-    "description": "All versions of the Joomla! below 3.4.6 are known to be vulnerable. But exploitation is possible with PHP versions below 5.5.29, 5.6.13 and below 5.5.",
-    "forks_count": 9,
-    "html_url": "https://github.com/ZaleHack/joomla_rce_CVE-2015-8562",
-    "keywords": [
-        "rce exploitation",
-        "rce vulnerability"
-    ],
-    "language": null,
-    "repo_name": "joomla_rce_CVE-2015-8562",
-    "repo_owner": "ZaleHack",
-    "repotime": "2016-01-04, 13:40:17",
-    "stargazers_count": 7,
-    "watchers_count": 7
-}
-{
-    "commits_count": 2,
-    "date_started": "2016-01-04",
-    "date_updated": "2016-01-04",
-    "description": "This is the exploit code for HFS-HTTP File server. Versions 2.3.x were vulnerable to Remote code execution vulnerability. I",
-    "forks_count": 3,
-    "html_url": "https://github.com/iw00tr00t/HFS-Http-File-Server",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution vulnerability",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "HFS-Http-File-Server",
-    "repo_owner": "iw00tr00t",
-    "repotime": "2016-01-04, 09:04:38",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
-    "commits_count": 2,
-    "date_started": "2016-01-02",
-    "date_updated": "2016-01-02",
-    "description": "capture network traffic &amp;amp; session hijacking",
-    "forks_count": 0,
-    "html_url": "https://github.com/Lagdroid/session-hijacking",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "JavaScript",
-    "repo_name": "session-hijacking",
-    "repo_owner": "Lagdroid",
-    "repotime": "2016-01-02, 17:17:29",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }

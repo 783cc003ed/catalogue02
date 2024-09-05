@@ -6,10 +6,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/deezzhandzz/Blue",
     "keywords": [
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability",
-        "escalation of privileges exploit",
-        "session vulnerability"
+        "escalation of privileges exploit"
     ],
     "language": null,
     "repo_name": "Blue",
@@ -36,40 +33,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 6,
-    "date_started": "2021-02-28",
-    "date_updated": "2021-02-28",
-    "description": "OpenNetAdmin 18.1.1 is vulnerable to Remote Code Execution",
-    "forks_count": 0,
-    "html_url": "https://github.com/Kr0ff/OpenNetAdmin-18.1.1-Remote-Code-Execution",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "OpenNetAdmin-18.1.1-Remote-Code-Execution",
-    "repo_owner": "Kr0ff",
-    "repotime": "2021-02-28, 03:08:16",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 7,
-    "date_started": "2021-01-29",
-    "date_updated": "2021-02-27",
-    "description": "The goal of the challenge is to predict the likelihood of a user skipping any given song during a listening session.",
-    "forks_count": 1,
-    "html_url": "https://github.com/sahil-ansari-15/Spotify-Music-Skips-Action-Prediction",
-    "keywords": [
-        "session prediction"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "Spotify-Music-Skips-Action-Prediction",
-    "repo_owner": "sahil-ansari-15",
-    "repotime": "2021-02-27, 03:21:40",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 9,
     "date_started": "2020-11-30",
     "date_updated": "2021-02-26",
@@ -77,16 +40,14 @@
     "forks_count": 2,
     "html_url": "https://github.com/Zeop-CyberSec/fortios_vpnssl_traversal_leak",
     "keywords": [
-        "unauthenticated attacker",
-        "path traversal vulnerability",
-        "path traversal attack"
+        "unauthenticated attacker"
     ],
     "language": "Ruby",
     "repo_name": "fortios_vpnssl_traversal_leak",
     "repo_owner": "Zeop-CyberSec",
     "repotime": "2021-02-26, 17:40:06",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 1,
@@ -113,34 +74,14 @@
     "forks_count": 0,
     "html_url": "https://github.com/jc-base4sec/MS15-034",
     "keywords": [
-        "Windows remote code execution vulnerability",
-        "Windows remote code execution",
-        "Windows remote code execution exploit",
-        "Windows remote code execution exploitation"
+        "Windows remote code execution"
     ],
     "language": "Python",
     "repo_name": "MS15-034",
     "repo_owner": "jc-base4sec",
     "repotime": "2021-02-24, 13:28:39",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
-    "commits_count": 4,
-    "date_started": "2021-02-23",
-    "date_updated": "2021-02-24",
-    "description": "Robot researchers need the simulator to test their functions and algorithm before implementing into the real robot. Most of the time, a customizable Robot simulator is not available to the researcher. Some good options are available in the market, but their price is too high, not affordable. After much research, we found a better solution around all aspects, fully customizable and entirely free of cost. There are two sides. One is a 3D view of robotics ARM, and another is a joint controller of robotics ARM. For 3D simulation, CoppeliaSim is the best option. It is free of cost and Open Source. The C&amp;&#35;35; language is becoming famous for its managed code structure and ease of implementation. Our Robot controller is in the C&amp;&#35;35; language. For control and debug we use Microsoft visual studio 2019. It is an unparallel IDE for the programmer. In the CoppeliaSim little bit, Lua script is in associated functions. Communication Between the simulator and our application, we will use Remote API F...",
-    "forks_count": 0,
-    "html_url": "https://github.com/sudipchakraborty/Forward-Kinematics-Demonstration-Using-CoppeliaSim-and-C-",
-    "keywords": [
-        "Microsoft use after free"
-    ],
-    "language": null,
-    "repo_name": "Forward-Kinematics-Demonstration-Using-CoppeliaSim-and-C-",
-    "repo_owner": "sudipchakraborty",
-    "repotime": "2021-02-24, 17:01:01",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 18,
@@ -156,8 +97,8 @@
     "repo_name": "SQL_Injection_Payload",
     "repo_owner": "omurugur",
     "repotime": "2021-02-24, 00:49:49",
-    "stargazers_count": 101,
-    "watchers_count": 101
+    "stargazers_count": 104,
+    "watchers_count": 104
 }
 {
     "commits_count": 9,
@@ -167,7 +108,6 @@
     "forks_count": 2,
     "html_url": "https://github.com/omurugur/XXE_Payload_List",
     "keywords": [
-        "xml external entity",
         "xxe"
     ],
     "language": null,
@@ -182,18 +122,17 @@
     "date_started": "2019-05-29",
     "date_updated": "2021-02-24",
     "description": "Path Traversal Vulnerability Payload List",
-    "forks_count": 22,
+    "forks_count": 25,
     "html_url": "https://github.com/omurugur/Path_Travelsal_Payload_List",
     "keywords": [
-        "path traversal vulnerability",
         "path traversal attack"
     ],
     "language": null,
     "repo_name": "Path_Travelsal_Payload_List",
     "repo_owner": "omurugur",
     "repotime": "2021-02-24, 00:48:18",
-    "stargazers_count": 45,
-    "watchers_count": 45
+    "stargazers_count": 54,
+    "watchers_count": 54
 }
 {
     "commits_count": 1,
@@ -209,8 +148,8 @@
     "repo_name": "CVE-2020-0082-ExternalVibration",
     "repo_owner": "0x742",
     "repotime": "2021-02-23, 16:02:06",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 12,
@@ -234,18 +173,17 @@
     "date_started": "2021-01-12",
     "date_updated": "2021-02-22",
     "description": "SSRFuzz is a tool to find Server Side Request Forgery vulnerabilities, with CRLF chaining capabilities",
-    "forks_count": 20,
+    "forks_count": 22,
     "html_url": "https://github.com/ryandamour/ssrfuzz",
     "keywords": [
-        "server side request forgery",
         "ssrf"
     ],
     "language": "Go",
     "repo_name": "ssrfuzz",
     "repo_owner": "ryandamour",
     "repotime": "2021-02-22, 08:54:42",
-    "stargazers_count": 155,
-    "watchers_count": 155
+    "stargazers_count": 184,
+    "watchers_count": 184
 }
 {
     "commits_count": 3,
@@ -265,28 +203,11 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 2,
-    "date_started": "2021-02-21",
-    "date_updated": "2021-02-22",
-    "description": "__ Introduction: Clickthrough rate (CTR) __                    is a ratio showing how often people who see your ad end up clicking it. Clickthrough rate (CTR) can be used to gauge how well your keywords and ads are performing.           - CTR is the number of clicks that your ad receives divided by the number of times your ad is shown: clicks ÷ impressions = CTR. For example, if you had 5 clicks and 100 impressions, then your CTR would be 5%.                   - Each of your ads and keywords have their own CTRs that you can see listed in your account.                               - A high CTR is a good indication that users find your ads helpful and relevant. CTR also contributes to your keyword's expected CTR, which is a component of Ad Rank. Note that a good CTR is relative to what you're advertising and on which networks.                                                    &amp;gt; Credits: Google (https://support.google.com/adwords/answer/2615875?hl=en)                     Search adver...",
-    "forks_count": 0,
-    "html_url": "https://github.com/Sahil-Chavan/AdClickPrediction-CaseStudy",
-    "keywords": [
-        "session prediction"
-    ],
-    "language": null,
-    "repo_name": "AdClickPrediction-CaseStudy",
-    "repo_owner": "Sahil-Chavan",
-    "repotime": "2021-02-22, 00:29:11",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 54,
     "date_started": "2019-07-22",
     "date_updated": "2021-02-20",
     "description": "Dios sql injection",
-    "forks_count": 13,
+    "forks_count": 10,
     "html_url": "https://github.com/Rizsyad/diosqli",
     "keywords": [
         "sql injection"
@@ -295,25 +216,8 @@
     "repo_name": "diosqli",
     "repo_owner": "Rizsyad",
     "repotime": "2021-02-20, 19:56:53",
-    "stargazers_count": 18,
-    "watchers_count": 18
-}
-{
-    "commits_count": 4,
-    "date_started": "2015-09-11",
-    "date_updated": "2021-02-20",
-    "description": "CSCI Template made for iOSGods.com users!",
-    "forks_count": 4,
-    "html_url": "https://github.com/iOSGods/CS-Code-Injection-Template",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Objective-C",
-    "repo_name": "CS-Code-Injection-Template",
-    "repo_owner": "iOSGods",
-    "repotime": "2021-02-20, 04:38:07",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 19,
@@ -329,8 +233,8 @@
     "repo_name": "UACHooker",
     "repo_owner": "TheKevinWang",
     "repotime": "2021-02-19, 22:39:25",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 1,
@@ -348,25 +252,6 @@
     "repotime": "2021-02-18, 13:24:46",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 6,
-    "date_started": "2021-02-13",
-    "date_updated": "2021-02-17",
-    "description": "OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit",
-    "forks_count": 2,
-    "html_url": "https://github.com/QTranspose/CVE-2020-7247-exploit",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit",
-        "remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2020-7247-exploit",
-    "repo_owner": "QTranspose",
-    "repotime": "2021-02-17, 20:23:57",
-    "stargazers_count": 10,
-    "watchers_count": 10
 }
 {
     "commits_count": 60,
@@ -393,15 +278,14 @@
     "forks_count": 7,
     "html_url": "https://github.com/heru299/script-copy",
     "keywords": [
-        "empty string password",
         "Windows use after free"
     ],
     "language": null,
     "repo_name": "script-copy",
     "repo_owner": "heru299",
     "repotime": "2021-02-17, 06:38:02",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 15,
@@ -417,15 +301,15 @@
     "repo_name": "XSSTRON",
     "repo_owner": "RenwaX23",
     "repotime": "2021-02-15, 23:07:57",
-    "stargazers_count": 670,
-    "watchers_count": 670
+    "stargazers_count": 683,
+    "watchers_count": 683
 }
 {
     "commits_count": 31,
     "date_started": "2012-08-07",
     "date_updated": "2021-02-14",
     "description": "Automatic generate dll wrapper for code injection.",
-    "forks_count": 52,
+    "forks_count": 55,
     "html_url": "https://github.com/mavenlin/wrap_dll",
     "keywords": [
         "code injection"
@@ -434,8 +318,8 @@
     "repo_name": "wrap_dll",
     "repo_owner": "mavenlin",
     "repotime": "2021-02-14, 05:44:54",
-    "stargazers_count": 138,
-    "watchers_count": 138
+    "stargazers_count": 154,
+    "watchers_count": 154
 }
 {
     "commits_count": 35,
@@ -451,8 +335,8 @@
     "repo_name": "Bypass-UAC",
     "repo_owner": "ScriptKiddieTutorials",
     "repotime": "2021-02-14, 10:57:32",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 4,
@@ -479,23 +363,21 @@
     "forks_count": 0,
     "html_url": "https://github.com/anthophilee/Brutal",
     "keywords": [
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability",
         "escalation of privileges exploit"
     ],
     "language": null,
     "repo_name": "Brutal",
     "repo_owner": "anthophilee",
     "repotime": "2021-02-13, 12:13:21",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 10,
     "date_started": "2021-02-10",
     "date_updated": "2021-02-12",
     "description": "Powerfull Automatic Sql injection Tools Pack",
-    "forks_count": 40,
+    "forks_count": 41,
     "html_url": "https://github.com/Agressiv1njector/psqli-pro",
     "keywords": [
         "sql injection"
@@ -504,15 +386,15 @@
     "repo_name": "psqli-pro",
     "repo_owner": "Agressiv1njector",
     "repotime": "2021-02-12, 12:59:04",
-    "stargazers_count": 76,
-    "watchers_count": 76
+    "stargazers_count": 105,
+    "watchers_count": 105
 }
 {
     "commits_count": 28,
     "date_started": "2019-02-27",
     "date_updated": "2021-02-11",
     "description": "Smart ssrf scanner using different methods like parameter brute forcing in post and get...",
-    "forks_count": 71,
+    "forks_count": 70,
     "html_url": "https://github.com/Damian89/extended-ssrf-search",
     "keywords": [
         "ssrf"
@@ -521,8 +403,8 @@
     "repo_name": "extended-ssrf-search",
     "repo_owner": "Damian89",
     "repotime": "2021-02-11, 21:12:37",
-    "stargazers_count": 276,
-    "watchers_count": 276
+    "stargazers_count": 275,
+    "watchers_count": 275
 }
 {
     "commits_count": 1,
@@ -538,8 +420,8 @@
     "repo_name": "BurpParamFlagger",
     "repo_owner": "allyomalley",
     "repotime": "2021-02-10, 18:00:14",
-    "stargazers_count": 128,
-    "watchers_count": 128
+    "stargazers_count": 129,
+    "watchers_count": 129
 }
 {
     "commits_count": 3,
@@ -559,23 +441,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 12,
-    "date_started": "2021-02-09",
-    "date_updated": "2021-02-10",
-    "description": "An SSRF detector tool written in golang. I have fixed some errors and added some more payloads to it. But the tool credits go to z0idsec.",
-    "forks_count": 10,
-    "html_url": "https://github.com/R0X4R/ssrf-tool",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Go",
-    "repo_name": "ssrf-tool",
-    "repo_owner": "R0X4R",
-    "repotime": "2021-02-10, 09:14:01",
-    "stargazers_count": 40,
-    "watchers_count": 40
-}
-{
     "commits_count": 3,
     "date_started": "2021-01-12",
     "date_updated": "2021-02-09",
@@ -589,42 +454,8 @@
     "repo_name": "TGpyrate",
     "repo_owner": "noarchwastaken",
     "repotime": "2021-02-09, 09:21:32",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
-    "commits_count": 2,
-    "date_started": "2021-02-09",
-    "date_updated": "2021-02-09",
-    "description": "Proof Of Concept of RCE exploit in EJS web app",
-    "forks_count": 2,
-    "html_url": "https://github.com/mahsunon/Web-App-RCE-POC",
-    "keywords": [
-        "rce proof of concept"
-    ],
-    "language": "Python",
-    "repo_name": "Web-App-RCE-POC",
-    "repo_owner": "mahsunon",
-    "repotime": "2021-02-09, 11:24:36",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 5,
-    "date_started": "2020-12-24",
-    "date_updated": "2021-02-09",
-    "description": "POC for GitLabs Authenticated RCE in version 11.4.7 community edition",
-    "forks_count": 12,
-    "html_url": "https://github.com/ctrlsam/GitLab-11.4.7-RCE",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "GitLab-11.4.7-RCE",
-    "repo_owner": "ctrlsam",
-    "repotime": "2021-02-09, 10:35:21",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 53,
@@ -640,32 +471,15 @@
     "repo_name": "ToolBox",
     "repo_owner": "Ch0pin",
     "repotime": "2021-02-07, 08:19:39",
-    "stargazers_count": 10,
-    "watchers_count": 10
-}
-{
-    "commits_count": 3,
-    "date_started": "2021-01-02",
-    "date_updated": "2021-02-06",
-    "description": "The processes in continuity of image and sounds are partially interrupted, disrupted in more or less expected ways. Driving triggers signal lack, require input; I do my best to appease the waves. Solitude brings about conversation with the self and thus with the other, the limit that spills about rendering difference precariously pinned in place. A conversation with the Other within the self or that is non Other than the self or that the self dissimulates its own hollowness. Nostalgia projects a real reality, other than, that never was in fact. It then projects a potentiality hidden in impossibility. in that of a past that has flown. It isn't the frail child but the formless life that I now fancy myself with the tools to furnish. However, the possibility is blocked by present circumstance. A process of situating ourselves in the best possible reality, one of invalidation of possibility, runs through this nostalgia at a supra individual level. If identities like the coupling of man and ...",
-    "forks_count": 0,
-    "html_url": "https://github.com/marcosparajua/I-do-my-best-to-appease-the-waves",
-    "keywords": [
-        "lack of input validation"
-    ],
-    "language": "HTML",
-    "repo_name": "I-do-my-best-to-appease-the-waves",
-    "repo_owner": "marcosparajua",
-    "repotime": "2021-02-06, 21:18:33",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 19,
     "date_started": "2021-02-03",
     "date_updated": "2021-02-05",
     "description": "Escalate as Administrator bypassing the UAC affecting administrator accounts only.",
-    "forks_count": 63,
+    "forks_count": 62,
     "html_url": "https://github.com/0xyg3n/UAC_Exploit",
     "keywords": [
         "uac bypass"
@@ -674,8 +488,8 @@
     "repo_name": "UAC_Exploit",
     "repo_owner": "0xyg3n",
     "repotime": "2021-02-05, 22:23:01",
-    "stargazers_count": 245,
-    "watchers_count": 245
+    "stargazers_count": 252,
+    "watchers_count": 252
 }
 {
     "commits_count": 1,
@@ -695,38 +509,21 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 37,
-    "date_started": "2020-12-21",
-    "date_updated": "2021-02-04",
-    "description": "Workshop given at Hack in Paris 2019",
-    "forks_count": 36,
-    "html_url": "https://github.com/GoSecure/xxe-workshop",
-    "keywords": [
-        "xxe"
-    ],
-    "language": "JavaScript",
-    "repo_name": "xxe-workshop",
-    "repo_owner": "GoSecure",
-    "repotime": "2021-02-04, 15:10:48",
-    "stargazers_count": 115,
-    "watchers_count": 115
-}
-{
-    "commits_count": 12,
-    "date_started": "2021-01-31",
-    "date_updated": "2021-02-02",
-    "description": "A great setup for SQL Injection, xss and xxe (plus a few more) on Kali",
+    "commits_count": 6,
+    "date_started": "2021-02-04",
+    "date_updated": "2021-02-05",
+    "description": "simple bash script of CVE-2020-3452 Cisco ASA / Firepower Read-Only Path Traversal Vulnerability checker ",
     "forks_count": 2,
-    "html_url": "https://github.com/AssassinUKG/Sqli_Best_Setup",
+    "html_url": "https://github.com/faisalfs10x/Cisco-CVE-2020-3452-shodan-scanner",
     "keywords": [
-        "xxe"
+        "path traversal vulnerability"
     ],
-    "language": null,
-    "repo_name": "Sqli_Best_Setup",
-    "repo_owner": "AssassinUKG",
-    "repotime": "2021-02-02, 18:48:13",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "language": "Shell",
+    "repo_name": "Cisco-CVE-2020-3452-shodan-scanner",
+    "repo_owner": "faisalfs10x",
+    "repotime": "2021-02-05, 01:38:24",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 7,
@@ -770,8 +567,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/RpcSecurity/0day_spain",
     "keywords": [
-        "0day exploitation",
-        "0day exploit"
+        "0day exploitation"
     ],
     "language": null,
     "repo_name": "0day_spain",
@@ -788,8 +584,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/RpcSecurity/0day_nvr",
     "keywords": [
-        "0day exploitation",
-        "0day exploit"
+        "0day exploitation"
     ],
     "language": null,
     "repo_name": "0day_nvr",
@@ -797,23 +592,6 @@
     "repotime": "2021-02-01, 20:22:54",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 0,
-    "date_started": "2018-01-30",
-    "date_updated": "2021-02-01",
-    "description": "[17:11:39] [main/INFO] Prepared background image in bgskin folder. [17:11:41] [AWT-EventQueue-0/ERROR] Faield to query java java.io.IOException: Cannot run program &amp;quot;cmd&amp;quot;: CreateProcess error=2, 系统找不到指定的文件。      at java.lang.ProcessBuilder.start(Unknown Source)      at org.jackhuang.hellominecraft.util.system.IOUtils.readProcessByInputStream(IOUtils.java:301)      at org.jackhuang.hellominecraft.util.system.Java.queryRegSubFolders(Java.java:144)      at org.jackhuang.hellominecraft.util.system.Java.queryJava(Java.java:129)      at org.jackhuang.hellominecraft.util.system.Java.queryAllJavaHomeInWindowsByReg(Java.java:120)      at org.jackhuang.hellominecraft.util.system.Java.&amp;lt;clinit&amp;gt;(Java.java:41)      at org.jackhuang.hellominecraft.launcher.ui.GameSettingsPanel.initGui(GameSettingsPanel.java:106)      at org.jackhuang.hellominecraft.launcher.ui.GameSettingsPanel.onCreate(GameSettingsPanel.java:1298)      at org.jackhuang.hellominecraft.launcher.ui.MainFrame.selectTab(Ma...",
-    "forks_count": 0,
-    "html_url": "https://github.com/13894865204/-",
-    "keywords": [
-        "xml external entity"
-    ],
-    "language": null,
-    "repo_name": "-",
-    "repo_owner": "13894865204",
-    "repotime": "2021-02-01, 10:07:25",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 7,

@@ -12,23 +12,6 @@
     "repo_name": "Synthetic-speech-detection-using-fundamental-frequency-variation-and-spectral-features",
     "repo_owner": "monisankha",
     "repotime": "2020-11-30, 12:11:08",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 5,
-    "date_started": "2020-11-27",
-    "date_updated": "2020-11-29",
-    "description": "Remote Code Execution - OpenEMR CMS v5.0.2.1",
-    "forks_count": 1,
-    "html_url": "https://github.com/BvThTrd/openemr_RCE_5.0.2",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "openemr_RCE_5.0.2",
-    "repo_owner": "BvThTrd",
-    "repotime": "2020-11-29, 16:49:32",
     "stargazers_count": 1,
     "watchers_count": 1
 }
@@ -40,9 +23,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/ahictf/TCP-Session-Hijacking-Attack",
     "keywords": [
-        "session hijacking attack",
-        "session attack",
-        "session hijacking"
+        "session attack"
     ],
     "language": "Python",
     "repo_name": "TCP-Session-Hijacking-Attack",
@@ -73,7 +54,7 @@
     "date_started": "2019-10-29",
     "date_updated": "2020-11-27",
     "description": "Faster xss scanner,support  reflected-xss and dom-xss",
-    "forks_count": 73,
+    "forks_count": 71,
     "html_url": "https://github.com/lwzSoviet/NoXss",
     "keywords": [
         "xss"
@@ -82,8 +63,8 @@
     "repo_name": "NoXss",
     "repo_owner": "lwzSoviet",
     "repotime": "2020-11-27, 16:01:11",
-    "stargazers_count": 437,
-    "watchers_count": 437
+    "stargazers_count": 444,
+    "watchers_count": 444
 }
 {
     "commits_count": 12,
@@ -110,11 +91,7 @@
     "forks_count": 25,
     "html_url": "https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955",
     "keywords": [
-        "Windows rce exploitation",
-        "rce exploit",
-        "Windows rce",
-        "Windows rce exploit",
-        "rce exploitation"
+        "Windows rce"
     ],
     "language": "Batchfile",
     "repo_name": "git-lfs-RCE-exploit-CVE-2020-27955",
@@ -128,7 +105,7 @@
     "date_started": "2020-01-27",
     "date_updated": "2020-11-23",
     "description": "<no description>",
-    "forks_count": 5,
+    "forks_count": 6,
     "html_url": "https://github.com/sensepost/dual-pod-shock",
     "keywords": [
         "by_owner"
@@ -137,8 +114,8 @@
     "repo_name": "dual-pod-shock",
     "repo_owner": "sensepost",
     "repotime": "2020-11-23, 09:43:27",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 27,
+    "watchers_count": 27
 }
 {
     "commits_count": 3,
@@ -182,10 +159,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/teleplayer123/ROP-Format-Exploit",
     "keywords": [
-        "aslr bypass",
-        "aslr bypass vulnerability",
-        "aslr bypass exploitation",
-        "aslr bypass exploit"
+        "aslr bypass exploitation"
     ],
     "language": "Python",
     "repo_name": "ROP-Format-Exploit",
@@ -202,8 +176,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/Eutectico/Kenobi",
     "keywords": [
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability",
         "escalation of privileges exploit"
     ],
     "language": null,
@@ -218,7 +190,7 @@
     "date_started": "2020-11-19",
     "date_updated": "2020-11-20",
     "description": "Jailbreak for iOS 13.7 and earlier",
-    "forks_count": 37,
+    "forks_count": 36,
     "html_url": "https://github.com/jamf/FreeTheSandbox_LPE_POC_13.7",
     "keywords": [
         "lpe poc"
@@ -227,8 +199,8 @@
     "repo_name": "FreeTheSandbox_LPE_POC_13.7",
     "repo_owner": "jamf",
     "repotime": "2020-11-20, 10:32:38",
-    "stargazers_count": 226,
-    "watchers_count": 226
+    "stargazers_count": 224,
+    "watchers_count": 224
 }
 {
     "commits_count": 4,
@@ -244,15 +216,15 @@
     "repo_name": "Synode",
     "repo_owner": "sola-da",
     "repotime": "2020-11-19, 18:14:16",
-    "stargazers_count": 77,
-    "watchers_count": 77
+    "stargazers_count": 78,
+    "watchers_count": 78
 }
 {
     "commits_count": 4,
     "date_started": "2020-11-16",
     "date_updated": "2020-11-18",
     "description": "A modification of the apngopt to aid in heap exploitation",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/sensepost/apngopt",
     "keywords": [
         "by_owner"
@@ -261,43 +233,8 @@
     "repo_name": "apngopt",
     "repo_owner": "sensepost",
     "repotime": "2020-11-18, 16:24:30",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
-    "commits_count": 62,
-    "date_started": "2020-11-15",
-    "date_updated": "2020-11-18",
-    "description": "Docker image to exploit RCE, try for pentest methods and test container security solutions (trivy, falco and etc.) ",
-    "forks_count": 36,
-    "html_url": "https://github.com/Swordfish-Security/Pentest-In-Docker",
-    "keywords": [
-        "rce exploitation",
-        "rce exploit"
-    ],
-    "language": "Dockerfile",
-    "repo_name": "Pentest-In-Docker",
-    "repo_owner": "Swordfish-Security",
-    "repotime": "2020-11-18, 13:18:26",
-    "stargazers_count": 76,
-    "watchers_count": 76
-}
-{
-    "commits_count": 8,
-    "date_started": "2020-09-10",
-    "date_updated": "2020-11-17",
-    "description": "steal the fucking code you damn kids without even reading it ",
-    "forks_count": 0,
-    "html_url": "https://github.com/NikolaT3sla/wp-file-manager-0day-exploiter",
-    "keywords": [
-        "0day exploit"
-    ],
-    "language": "Python",
-    "repo_name": "wp-file-manager-0day-exploiter",
-    "repo_owner": "NikolaT3sla",
-    "repotime": "2020-11-17, 17:07:57",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 18,
@@ -324,15 +261,14 @@
     "forks_count": 3,
     "html_url": "https://github.com/kakamband/WPKiller",
     "keywords": [
-        "0day exploit",
-        "0day exploitation"
+        "0day exploit"
     ],
     "language": null,
     "repo_name": "WPKiller",
     "repo_owner": "kakamband",
     "repotime": "2020-11-13, 06:46:17",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 4,
@@ -348,8 +284,8 @@
     "repo_name": "Forklift_LPE",
     "repo_owner": "Traxes",
     "repotime": "2020-11-13, 14:41:37",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 9,
@@ -365,8 +301,8 @@
     "repo_name": "Ssrf-labs",
     "repo_owner": "Captain-K-101",
     "repotime": "2020-11-13, 18:41:14",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 34,
@@ -382,8 +318,8 @@
     "repo_name": "CVE-2020-13886",
     "repo_owner": "Ls4ss",
     "repotime": "2020-11-12, 11:34:25",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 5,
@@ -393,7 +329,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation",
     "keywords": [
-        "escalation of privileges exploitation",
         "escalation of privileges exploit"
     ],
     "language": "Shell",
@@ -404,28 +339,11 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 43,
-    "date_started": "2020-03-26",
-    "date_updated": "2020-11-11",
-    "description": "Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl and Filter Urls With OpenRedirection or SSRF Parameters.",
-    "forks_count": 49,
-    "html_url": "https://github.com/KathanP19/gaussrf",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Shell",
-    "repo_name": "gaussrf",
-    "repo_owner": "KathanP19",
-    "repotime": "2020-11-11, 21:34:03",
-    "stargazers_count": 165,
-    "watchers_count": 165
-}
-{
     "commits_count": 2,
     "date_started": "2020-11-11",
     "date_updated": "2020-11-11",
     "description": "<no description>",
-    "forks_count": 7,
+    "forks_count": 8,
     "html_url": "https://github.com/shifa123/lfi-php-writer-shellcode",
     "keywords": [
         "lfi"
@@ -434,25 +352,8 @@
     "repo_name": "lfi-php-writer-shellcode",
     "repo_owner": "shifa123",
     "repotime": "2020-11-11, 20:59:19",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
-    "commits_count": 61,
-    "date_started": "2016-08-14",
-    "date_updated": "2020-11-11",
-    "description": "Provide some tips to handle Injection into application code (OWASP TOP 10 - A1).",
-    "forks_count": 8,
-    "html_url": "https://github.com/righettod/injection-cheat-sheets",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Java",
-    "repo_name": "injection-cheat-sheets",
-    "repo_owner": "righettod",
-    "repotime": "2020-11-11, 03:42:41",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 1,
@@ -496,20 +397,14 @@
     "forks_count": 12,
     "html_url": "https://github.com/Aryia-Behroziuan/neurons",
     "keywords": [
-        "Win use after free",
-        "lack of input validation",
-        "use after free analysis",
-        "wrong input validation",
-        "Microsoft use after free analysis",
-        "Microsoft use after free",
-        "Win use after free analysis"
+        "Win use after free"
     ],
     "language": null,
     "repo_name": "neurons",
     "repo_owner": "Aryia-Behroziuan",
     "repotime": "2020-11-07, 15:47:06",
-    "stargazers_count": 42,
-    "watchers_count": 42
+    "stargazers_count": 55,
+    "watchers_count": 55
 }
 {
     "commits_count": 4,

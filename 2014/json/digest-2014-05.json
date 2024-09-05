@@ -1,21 +1,4 @@
 {
-    "commits_count": 18,
-    "date_started": "2013-03-28",
-    "date_updated": "2014-05-28",
-    "description": "Fault injection library",
-    "forks_count": 10,
-    "html_url": "https://github.com/dslab-epfl/lfi",
-    "keywords": [
-        "lfi"
-    ],
-    "language": "Objective-C",
-    "repo_name": "lfi",
-    "repo_owner": "dslab-epfl",
-    "repotime": "2014-05-28, 20:40:19",
-    "stargazers_count": 22,
-    "watchers_count": 22
-}
-{
     "commits_count": 14,
     "date_started": "2017-09-28",
     "date_updated": "2014-05-25",
@@ -40,8 +23,7 @@
     "forks_count": 5,
     "html_url": "https://github.com/inking/Internet_Explorer_11_Exploit",
     "keywords": [
-        "uaf exploit",
-        "uaf exploitation"
+        "uaf exploit"
     ],
     "language": "JavaScript",
     "repo_name": "Internet_Explorer_11_Exploit",
@@ -72,7 +54,7 @@
     "date_started": "2014-05-21",
     "date_updated": "2014-05-20",
     "description": "Local File Inclusion Exploitation Tool",
-    "forks_count": 26,
+    "forks_count": 21,
     "html_url": "https://github.com/oaass/liffy",
     "keywords": [
         "local file inclusion"
@@ -81,8 +63,8 @@
     "repo_name": "liffy",
     "repo_owner": "oaass",
     "repotime": "2014-05-20, 19:50:11",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 18,
@@ -126,7 +108,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/matthazinski/mempodipper-arch",
     "keywords": [
-        "escalation of privileges exploitation",
         "escalation of privileges exploit"
     ],
     "language": "C",
@@ -161,7 +142,6 @@
     "forks_count": 3,
     "html_url": "https://github.com/zandi/memory_corruption_paper",
     "keywords": [
-        "corruption overflow exploitation",
         "corruption overflow exploit"
     ],
     "language": "TeX",

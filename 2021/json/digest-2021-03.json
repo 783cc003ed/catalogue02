@@ -1,21 +1,4 @@
 {
-    "commits_count": 3,
-    "date_started": "2021-03-31",
-    "date_updated": "2021-03-31",
-    "description": "CVE-2021-21975 vRealize Operations Manager SSRF",
-    "forks_count": 7,
-    "html_url": "https://github.com/Al1ex/CVE-2021-21975",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": null,
-    "repo_name": "CVE-2021-21975",
-    "repo_owner": "Al1ex",
-    "repotime": "2021-03-31, 23:50:27",
-    "stargazers_count": 14,
-    "watchers_count": 14
-}
-{
     "commits_count": 7,
     "date_started": "2021-03-31",
     "date_updated": "2021-03-31",
@@ -50,23 +33,6 @@
     "watchers_count": 4
 }
 {
-    "commits_count": 1,
-    "date_started": "2021-03-30",
-    "date_updated": "2021-03-30",
-    "description": "Privacy Policy  HongKyu Chu built the FrenchVoca app as a Free app. This SERVICE is provided by HongKyu Chu at no cost and is intended for use as is.  This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.  If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.  The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at FrenchVoca unless otherwise defined in this Privacy Policy.  Information Collection and Use  For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be ret...",
-    "forks_count": 0,
-    "html_url": "https://github.com/chuhongkyu/2020",
-    "keywords": [
-        "use after free disclosure"
-    ],
-    "language": null,
-    "repo_name": "2020",
-    "repo_owner": "chuhongkyu",
-    "repotime": "2021-03-30, 23:29:32",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 6,
     "date_started": "2020-08-03",
     "date_updated": "2021-03-29",
@@ -74,9 +40,7 @@
     "forks_count": 5,
     "html_url": "https://github.com/boku7/StockManagement-XSS-Login-CredHarvester",
     "keywords": [
-        "session vulnerability",
-        "session attack",
-        "unauthenticated attacker"
+        "session attack"
     ],
     "language": "Python",
     "repo_name": "StockManagement-XSS-Login-CredHarvester",
@@ -93,15 +57,14 @@
     "forks_count": 0,
     "html_url": "https://github.com/mohd-tanveer/Malware-detection-using-Machine-Learning-Algorithms",
     "keywords": [
-        "zero-day exploitation",
         "zero-day exploit"
     ],
     "language": "Python",
     "repo_name": "Malware-detection-using-Machine-Learning-Algorithms",
     "repo_owner": "mohd-tanveer",
     "repotime": "2021-03-29, 22:03:04",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 6,
@@ -111,16 +74,14 @@
     "forks_count": 23,
     "html_url": "https://github.com/tandasat/SmmExploit",
     "keywords": [
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability",
         "escalation of privileges exploit"
     ],
     "language": null,
     "repo_name": "SmmExploit",
     "repo_owner": "tandasat",
     "repotime": "2021-03-29, 05:33:32",
-    "stargazers_count": 120,
-    "watchers_count": 120
+    "stargazers_count": 131,
+    "watchers_count": 131
 }
 {
     "commits_count": 10,
@@ -136,8 +97,8 @@
     "repo_name": "RunPE",
     "repo_owner": "0x9090",
     "repotime": "2021-03-29, 00:38:16",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 27,
@@ -157,45 +118,11 @@
     "watchers_count": 3
 }
 {
-    "commits_count": 10,
-    "date_started": "2016-07-19",
-    "date_updated": "2021-03-28",
-    "description": "IOTA Proof of Concept Application example. With tutorial.",
-    "forks_count": 54,
-    "html_url": "https://github.com/domschiener/leaderboard-example",
-    "keywords": [
-        "proof-of-concept"
-    ],
-    "language": "JavaScript",
-    "repo_name": "leaderboard-example",
-    "repo_owner": "domschiener",
-    "repotime": "2021-03-28, 03:12:10",
-    "stargazers_count": 64,
-    "watchers_count": 64
-}
-{
-    "commits_count": 22,
-    "date_started": "2021-03-19",
-    "date_updated": "2021-03-27",
-    "description": "cve-2021-22986 f5 rce 漏洞批量检测 poc",
-    "forks_count": 7,
-    "html_url": "https://github.com/S1xHcL/f5_rce_poc",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "f5_rce_poc",
-    "repo_owner": "S1xHcL",
-    "repotime": "2021-03-27, 18:02:59",
-    "stargazers_count": 28,
-    "watchers_count": 28
-}
-{
     "commits_count": 29,
     "date_started": "2020-07-16",
     "date_updated": "2021-03-26",
     "description": "xss钓鱼，cna插件配合php后端收杆",
-    "forks_count": 63,
+    "forks_count": 60,
     "html_url": "https://github.com/timwhitez/Doge-XSS-Phishing",
     "keywords": [
         "xss"
@@ -204,59 +131,8 @@
     "repo_name": "Doge-XSS-Phishing",
     "repo_owner": "timwhitez",
     "repotime": "2021-03-26, 12:36:20",
-    "stargazers_count": 266,
-    "watchers_count": 266
-}
-{
-    "commits_count": 1,
-    "date_started": "2021-03-25",
-    "date_updated": "2021-03-25",
-    "description": "<no description>",
-    "forks_count": 2,
-    "html_url": "https://github.com/The-Cracker-Technology/XXEinjector",
-    "keywords": [
-        "xxe"
-    ],
-    "language": "Ruby",
-    "repo_name": "XXEinjector",
-    "repo_owner": "The-Cracker-Technology",
-    "repotime": "2021-03-25, 15:00:31",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 8,
-    "date_started": "2021-03-25",
-    "date_updated": "2021-03-25",
-    "description": "Proof of concept for CVE-2020-11819 and CVE-2020-15946",
-    "forks_count": 0,
-    "html_url": "https://github.com/danyx07/PoC-RCE-Rukovoditel",
-    "keywords": [
-        "rce proof of concept"
-    ],
-    "language": "Python",
-    "repo_name": "PoC-RCE-Rukovoditel",
-    "repo_owner": "danyx07",
-    "repotime": "2021-03-25, 10:17:49",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 8,
-    "date_started": "2021-03-21",
-    "date_updated": "2021-03-24",
-    "description": "F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE",
-    "forks_count": 12,
-    "html_url": "https://github.com/Udyz/CVE-2021-22986-SSRF2RCE",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2021-22986-SSRF2RCE",
-    "repo_owner": "Udyz",
-    "repotime": "2021-03-24, 18:49:37",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 268,
+    "watchers_count": 268
 }
 {
     "commits_count": 9,
@@ -310,39 +186,21 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 35,
-    "date_started": "2018-08-26",
-    "date_updated": "2021-03-20",
-    "description": "PoC Thread Execution Hijacking for Win32 Code Injection",
-    "forks_count": 39,
-    "html_url": "https://github.com/josh0xA/ThreadBoat",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "C++",
-    "repo_name": "ThreadBoat",
-    "repo_owner": "josh0xA",
-    "repotime": "2021-03-20, 19:58:47",
-    "stargazers_count": 173,
-    "watchers_count": 173
-}
-{
     "commits_count": 4,
     "date_started": "2021-03-20",
     "date_updated": "2021-03-20",
     "description": "Dork Search ,  Vulnerability Scanner ,SQL Injection , XSS , LFI ,RFI",
-    "forks_count": 37,
+    "forks_count": 38,
     "html_url": "https://github.com/AngelSecurityTeam/SQLiDumper-AngelSecurityTeam",
     "keywords": [
-        "lfi",
-        "sql injection"
+        "lfi"
     ],
     "language": null,
     "repo_name": "SQLiDumper-AngelSecurityTeam",
     "repo_owner": "AngelSecurityTeam",
     "repotime": "2021-03-20, 14:03:45",
-    "stargazers_count": 132,
-    "watchers_count": 132
+    "stargazers_count": 153,
+    "watchers_count": 153
 }
 {
     "commits_count": 1,
@@ -352,33 +210,14 @@
     "forks_count": 3,
     "html_url": "https://github.com/ncasias/fb",
     "keywords": [
-        "Windows use after free",
-        "Win use after free",
-        "Chrome use after free"
+        "Windows use after free"
     ],
     "language": null,
     "repo_name": "fb",
     "repo_owner": "ncasias",
     "repotime": "2021-03-18, 14:49:32",
-    "stargazers_count": 8,
-    "watchers_count": 8
-}
-{
-    "commits_count": 4,
-    "date_started": "2021-03-18",
-    "date_updated": "2021-03-18",
-    "description": "CutePHP Cute News 2.1.2 RCE PoC",
-    "forks_count": 5,
-    "html_url": "https://github.com/thewhiteh4t/cve-2019-11447",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "cve-2019-11447",
-    "repo_owner": "thewhiteh4t",
-    "repotime": "2021-03-18, 15:14:50",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 49,
@@ -405,8 +244,6 @@
     "forks_count": 9,
     "html_url": "https://github.com/catmandx/CVE-2021-26855-Exchange-RCE",
     "keywords": [
-        "Microsoft rce exploitation",
-        "Microsoft rce",
         "Microsoft rce exploit"
     ],
     "language": null,
@@ -434,33 +271,14 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 4,
-    "date_started": "2021-03-17",
-    "date_updated": "2021-03-17",
-    "description": "This is a Poc for BIGIP iControl unauth RCE ",
-    "forks_count": 10,
-    "html_url": "https://github.com/dorkerdevil/CVE-2021-22986-Poc",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": null,
-    "repo_name": "CVE-2021-22986-Poc",
-    "repo_owner": "dorkerdevil",
-    "repotime": "2021-03-17, 10:40:03",
-    "stargazers_count": 51,
-    "watchers_count": 51
-}
-{
     "commits_count": 5,
     "date_started": "2021-03-17",
     "date_updated": "2021-03-17",
     "description": "ProxyLogon(CVE-2021-26855+CVE-2021-27065) Exchange Server RCE(SSRF-&amp;gt;GetWebShell)",
-    "forks_count": 35,
+    "forks_count": 34,
     "html_url": "https://github.com/p0wershe11/ProxyLogon",
     "keywords": [
-        "0day exploit",
-        "rce exploit",
-        "ssrf"
+        "0day exploit"
     ],
     "language": "Python",
     "repo_name": "ProxyLogon",
@@ -474,40 +292,17 @@
     "date_started": "2020-11-23",
     "date_updated": "2021-03-16",
     "description": "PoC demonstrating the use of cve-2020-1034 for privilege escalation",
-    "forks_count": 38,
+    "forks_count": 40,
     "html_url": "https://github.com/yardenshafir/CVE-2020-1034",
     "keywords": [
-        "Windows escalation of privileges exploit",
-        "escalation of privileges poc",
-        "escalation of privileges vulnerability",
-        "Windows escalation of privileges",
-        "Windows escalation of privileges vulnerability",
-        "escalation of privileges exploit",
-        "Windows escalation of privileges poc"
+        "escalation of privileges exploit"
     ],
     "language": "C++",
     "repo_name": "CVE-2020-1034",
     "repo_owner": "yardenshafir",
     "repotime": "2021-03-16, 15:53:37",
-    "stargazers_count": 110,
-    "watchers_count": 110
-}
-{
-    "commits_count": 9,
-    "date_started": "2021-03-15",
-    "date_updated": "2021-03-15",
-    "description": "(Supervised) Machine Learning Instructor: Paul Clough (paul.clough@peakindicators.com | p.d.clough@sheffield.ac.uk) This session will introduce libraries and functions in R for performing Machine Learning (ML). Machine Learning is typically viewed as a sub-field within Artificial Intelligence (AI): “The theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages” (Oxford English Dictionary, 2018). The most common forms of ML are: (i) supervised learning (e.g., prediction/regression and classification); (ii) unsupervised learning (e.g., clustering); and (iii) reinforcement learning. This session will focus on supervised ML. We will start by reviewing linear regression that forms a good starting point for understanding machine learning and may be something you are already familiar with. Then we will explore further algorithms that can be used for r...",
-    "forks_count": 0,
-    "html_url": "https://github.com/Amaryllis2021/-Supervised-Machine-Learning",
-    "keywords": [
-        "session prediction"
-    ],
-    "language": null,
-    "repo_name": "-Supervised-Machine-Learning",
-    "repo_owner": "Amaryllis2021",
-    "repotime": "2021-03-15, 19:10:53",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 114,
+    "watchers_count": 114
 }
 {
     "commits_count": 15,
@@ -517,8 +312,7 @@
     "forks_count": 4,
     "html_url": "https://github.com/sgnls/exchange-0days-202103",
     "keywords": [
-        "0day exploit",
-        "0day exploitation"
+        "0day exploit"
     ],
     "language": "PowerShell",
     "repo_name": "exchange-0days-202103",
@@ -541,8 +335,8 @@
     "repo_name": "ExchangeSSRFtoRCEExploit",
     "repo_owner": "evilashz",
     "repotime": "2021-03-15, 17:19:37",
-    "stargazers_count": 28,
-    "watchers_count": 28
+    "stargazers_count": 26,
+    "watchers_count": 26
 }
 {
     "commits_count": 3,
@@ -569,19 +363,14 @@
     "forks_count": 8,
     "html_url": "https://github.com/mil1200/ProxyLogon-CVE-2021-26855",
     "keywords": [
-        "Microsoft rce vulnerability",
-        "Microsoft rce",
-        "Microsoft rce exploit",
-        "rce exploitation",
-        "rce vulnerability",
-        "Microsoft rce exploitation"
+        "Microsoft rce exploit"
     ],
     "language": "Python",
     "repo_name": "ProxyLogon-CVE-2021-26855",
     "repo_owner": "mil1200",
     "repotime": "2021-03-15, 00:03:12",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 13,
@@ -597,8 +386,8 @@
     "repo_name": "exchange-ssrf-rce",
     "repo_owner": "jeningogo",
     "repotime": "2021-03-15, 01:39:15",
-    "stargazers_count": 78,
-    "watchers_count": 78
+    "stargazers_count": 77,
+    "watchers_count": 77
 }
 {
     "commits_count": 3,
@@ -652,59 +441,6 @@
     "watchers_count": 9
 }
 {
-    "commits_count": 2,
-    "date_started": "2021-03-11",
-    "date_updated": "2021-03-11",
-    "description": "Apache ActiveMQ Remote Code Execution Exploit",
-    "forks_count": 1,
-    "html_url": "https://github.com/cyberaguiar/CVE-2016-3088",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2016-3088",
-    "repo_owner": "cyberaguiar",
-    "repotime": "2021-03-11, 10:52:41",
-    "stargazers_count": 5,
-    "watchers_count": 5
-}
-{
-    "commits_count": 27,
-    "date_started": "2020-05-20",
-    "date_updated": "2021-03-10",
-    "description": "SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list",
-    "forks_count": 1278,
-    "html_url": "https://github.com/LandGrey/SpringBootVulExploit",
-    "keywords": [
-        "rce exploit",
-        "rce vulnerability"
-    ],
-    "language": "Java",
-    "repo_name": "SpringBootVulExploit",
-    "repo_owner": "LandGrey",
-    "repotime": "2021-03-10, 21:03:17",
-    "stargazers_count": 5452,
-    "watchers_count": 5452
-}
-{
-    "commits_count": 3,
-    "date_started": "2021-03-10",
-    "date_updated": "2021-03-10",
-    "description": "<no description>",
-    "forks_count": 1,
-    "html_url": "https://github.com/angels520/BypassUAC",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "C#",
-    "repo_name": "BypassUAC",
-    "repo_owner": "angels520",
-    "repotime": "2021-03-10, 16:13:03",
-    "stargazers_count": 7,
-    "watchers_count": 7
-}
-{
     "commits_count": 10,
     "date_started": "2021-03-06",
     "date_updated": "2021-03-10",
@@ -718,25 +454,8 @@
     "repo_name": "CVE-2021-26855-SSRF",
     "repo_owner": "pussycat0x",
     "repotime": "2021-03-10, 13:11:56",
-    "stargazers_count": 21,
-    "watchers_count": 21
-}
-{
-    "commits_count": 1,
-    "date_started": "2021-03-10",
-    "date_updated": "2021-03-10",
-    "description": "we propose a real-time online shopper behavior analysis system consisting of two modules which simultaneously predicts the visitor’s shopping intent and Web site abandonment likelihood. In the first module, we predict the purchasing intention of the visitor using aggregated page view data kept track during the visit along with some session and user information. The extracted features are fed to random forest (RF), support vector machines (SVMs) classifiers as input. We use oversampling and feature selection preprocessing steps to improve the performance and scalability of the classifiers. The results show that MLP that is calculated using resilient back propagation algorithm with weight backtracking produces significantly higher accuracy and F1 Score than RF and SVM. Another finding is that although click stream data obtained from the navigation path followed during the online visit convey important information about the purchasing intention of the visitor, combining them with session ...",
-    "forks_count": 1,
-    "html_url": "https://github.com/saikrishnaneelam/online-shopper-intention-",
-    "keywords": [
-        "session prediction"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "online-shopper-intention-",
-    "repo_owner": "saikrishnaneelam",
-    "repotime": "2021-03-10, 11:20:31",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 65,
@@ -760,7 +479,7 @@
     "date_started": "2018-07-27",
     "date_updated": "2021-03-09",
     "description": "A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\\SYSTEM. ",
-    "forks_count": 468,
+    "forks_count": 467,
     "html_url": "https://github.com/ohpe/juicy-potato",
     "keywords": [
         "Windows escalation of privileges"
@@ -769,29 +488,8 @@
     "repo_name": "juicy-potato",
     "repo_owner": "ohpe",
     "repotime": "2021-03-09, 21:08:38",
-    "stargazers_count": 2237,
-    "watchers_count": 2237
-}
-{
-    "commits_count": 18,
-    "date_started": "2021-03-09",
-    "date_updated": "2021-03-09",
-    "description": " Exploit Windows-Based BufferOverflow (vulnserver)",
-    "forks_count": 7,
-    "html_url": "https://github.com/ZeroMemoryEx/BufferOverFlow",
-    "keywords": [
-        "Windows rce exploitation",
-        "rce exploit",
-        "Windows rce",
-        "Windows rce exploit",
-        "rce exploitation"
-    ],
-    "language": "C",
-    "repo_name": "BufferOverFlow",
-    "repo_owner": "ZeroMemoryEx",
-    "repotime": "2021-03-09, 17:41:45",
-    "stargazers_count": 43,
-    "watchers_count": 43
+    "stargazers_count": 2374,
+    "watchers_count": 2374
 }
 {
     "commits_count": 11,
@@ -824,23 +522,6 @@
     "repo_name": "LFI-Generator",
     "repo_owner": "sultanzio",
     "repotime": "2021-03-09, 14:26:36",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2021-03-09",
-    "date_updated": "2021-03-09",
-    "description": "Create tar/zip archives that can exploit directory traversal vulnerabilities",
-    "forks_count": 2,
-    "html_url": "https://github.com/NatsuGaOwatta/evilarc3",
-    "keywords": [
-        "directory traversal vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "evilarc3",
-    "repo_owner": "NatsuGaOwatta",
-    "repotime": "2021-03-09, 14:49:27",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -883,7 +564,7 @@
     "date_started": "2021-03-08",
     "date_updated": "2021-03-08",
     "description": "NOTICE This repository contains the public FTC SDK for the SKYSTONE (2019-2020) competition season. If you are looking for the current season's FTC SDK software, please visit the new and permanent home of the public FTC SDK:  FtcRobotController repository  Welcome! This GitHub repository contains the source code that is used to build an Android app to control a FIRST Tech Challenge competition robot. To use this SDK, download/clone the entire project to your local computer.  Getting Started If you are new to robotics or new to the FIRST Tech Challenge, then you should consider reviewing the FTC Blocks Tutorial to get familiar with how to use the control system:        FTC Blocks Online Tutorial  Even if you are an advanced Java programmer, it is helpful to start with the FTC Blocks tutorial, and then migrate to the OnBot Java Tool or to Android Studio afterwards.  Downloading the Project If you are an Android Studio programmer, there are several ways to download this repo. Note that if...",
-    "forks_count": 52,
+    "forks_count": 57,
     "html_url": "https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020",
     "keywords": [
         "empty string password"
@@ -892,25 +573,8 @@
     "repo_name": "FTC-Skystone-Dark-Angels-Romania-2020",
     "repo_owner": "chrisneagu",
     "repotime": "2021-03-08, 13:45:12",
-    "stargazers_count": 83,
-    "watchers_count": 83
-}
-{
-    "commits_count": 122,
-    "date_started": "2013-09-27",
-    "date_updated": "2021-03-08",
-    "description": "Snapi Modular Capability Disclosure DSL",
-    "forks_count": 5,
-    "html_url": "https://github.com/pwnieexpress/snapi",
-    "keywords": [
-        "disclosure"
-    ],
-    "language": "Ruby",
-    "repo_name": "snapi",
-    "repo_owner": "pwnieexpress",
-    "repotime": "2021-03-08, 11:38:26",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 150,
+    "watchers_count": 150
 }
 {
     "commits_count": 1,
@@ -920,17 +584,6 @@
     "forks_count": 1,
     "html_url": "https://github.com/deezzhandzz/Tryhackme-ICE",
     "keywords": [
-        "Windows escalation of privileges exploit",
-        "Microsoft escalation of privileges vulnerability",
-        "escalation of privileges vulnerability",
-        "Microsoft escalation of privileges exploit",
-        "Microsoft escalation of privileges",
-        "Windows escalation of privileges exploitation",
-        "Windows escalation of privileges vulnerability",
-        "Microsoft escalation of privileges exploitation",
-        "session vulnerability",
-        "Windows escalation of privileges",
-        "escalation of privileges exploitation",
         "escalation of privileges exploit"
     ],
     "language": null,
@@ -941,40 +594,6 @@
     "watchers_count": 2
 }
 {
-    "commits_count": 2,
-    "date_started": "2021-03-07",
-    "date_updated": "2021-03-08",
-    "description": "CVE-2021-21972 Unauthorized RCE in VMware vCenter metasploit exploit script",
-    "forks_count": 6,
-    "html_url": "https://github.com/TaroballzChen/CVE-2021-21972",
-    "keywords": [
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2021-21972",
-    "repo_owner": "TaroballzChen",
-    "repotime": "2021-03-08, 01:12:01",
-    "stargazers_count": 20,
-    "watchers_count": 20
-}
-{
-    "commits_count": 2,
-    "date_started": "2021-03-07",
-    "date_updated": "2021-03-07",
-    "description": "A working PoC to CVE-2018-16763 ",
-    "forks_count": 0,
-    "html_url": "https://github.com/shoamshilo/Fuel-CMS-Remote-Code-Execution-1.4--RCE--",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "Fuel-CMS-Remote-Code-Execution-1.4--RCE--",
-    "repo_owner": "shoamshilo",
-    "repotime": "2021-03-07, 16:56:24",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
     "commits_count": 1,
     "date_started": "2021-03-24",
     "date_updated": "2021-03-06",
@@ -982,17 +601,14 @@
     "forks_count": 16,
     "html_url": "https://github.com/praetorian-inc/proxylogon-exploit",
     "keywords": [
-        "rce proof of concept",
-        "rce exploit",
-        "rce exploitation",
         "unauthenticated rce"
     ],
     "language": "Python",
     "repo_name": "proxylogon-exploit",
     "repo_owner": "praetorian-inc",
     "repotime": "2021-03-06, 18:08:56",
-    "stargazers_count": 46,
-    "watchers_count": 46
+    "stargazers_count": 45,
+    "watchers_count": 45
 }
 {
     "commits_count": 4,
@@ -1002,8 +618,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/giorgosrigas/Online-shoppers-Intention-Predictions-Supervised-Machine-Learning",
     "keywords": [
-        "session prediction",
-        "zero-day analysis"
+        "session prediction"
     ],
     "language": "Jupyter Notebook",
     "repo_name": "Online-shoppers-Intention-Predictions-Supervised-Machine-Learning",
@@ -1034,7 +649,7 @@
     "date_started": "2021-03-06",
     "date_updated": "2021-03-06",
     "description": "&amp;&#35;35; SU19CSE299S02G05  &amp;lt;p align=&amp;quot;center&amp;quot;&amp;gt;   &amp;lt;img width=&amp;quot;200&amp;quot; height=&amp;quot;200&amp;quot; src=&amp;quot;https://media.licdn.com/dms/image/C560BAQEFJPl7DXD1Dg/company-logo_200_200/0?e=2159024400&amp;amp;v=beta&amp;amp;t=4wzyvb7GBsvMovoet_LGS9uj_Gso_kmfWqCXnqydCDI&amp;quot;&amp;gt; &amp;lt;/p&amp;gt;  &amp;lt;h1 style=&amp;quot;text-align: center&amp;quot;&amp;gt;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;ensp;North South University&amp;lt;/h1&amp;gt;  &amp;&#35;35; &amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;ensp;Project Name: Stop Food Waste  **&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;CSE299: JUNIOR DESIGN**  **&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;&amp;amp;...",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/AnimeshMondol/CSE299-Project",
     "keywords": [
         "Chrome use after free"
@@ -1043,8 +658,8 @@
     "repo_name": "CSE299-Project",
     "repo_owner": "AnimeshMondol",
     "repotime": "2021-03-06, 12:32:37",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 3,
@@ -1054,11 +669,7 @@
     "forks_count": 1,
     "html_url": "https://github.com/jinouchi/exchange_zero_day",
     "keywords": [
-        "Microsoft zero-day exploit",
-        "Microsoft zero-day exploitation",
-        "Microsoft zero-day",
-        "zero-day exploitation",
-        "zero-day exploit"
+        "Microsoft zero-day"
     ],
     "language": "PowerShell",
     "repo_name": "exchange_zero_day",
@@ -1075,8 +686,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/DanielAzulayy/CTF-2021",
     "keywords": [
-        "lpe exploit",
-        "lpe exploitation"
+        "lpe exploit"
     ],
     "language": "CSS",
     "repo_name": "CTF-2021",
@@ -1099,8 +709,8 @@
     "repo_name": "Intrusion-Detection-System-based-on-anomaly",
     "repo_owner": "sumo2001",
     "repotime": "2021-03-05, 12:51:21",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 11,
@@ -1110,33 +720,14 @@
     "forks_count": 3,
     "html_url": "https://github.com/YOLOP0wn/TwiGit-Telegram-Hacking-News-Bot",
     "keywords": [
-        "0day poc",
-        "0day exploitation",
         "0day exploit"
     ],
     "language": "Python",
     "repo_name": "TwiGit-Telegram-Hacking-News-Bot",
     "repo_owner": "YOLOP0wn",
     "repotime": "2021-03-04, 12:24:12",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
-    "commits_count": 2,
-    "date_started": "2021-03-03",
-    "date_updated": "2021-03-03",
-    "description": "Textpattern &amp;lt;= 4.8.3 Remote code execution (Authenticated)",
-    "forks_count": 2,
-    "html_url": "https://github.com/ricardojoserf/textpattern-exploit-rce",
-    "keywords": [
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "textpattern-exploit-rce",
-    "repo_owner": "ricardojoserf",
-    "repotime": "2021-03-03, 17:04:41",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 53,
@@ -1152,23 +743,6 @@
     "repo_name": "dwn",
     "repo_owner": "sensepost",
     "repotime": "2021-03-02, 10:45:55",
-    "stargazers_count": 157,
-    "watchers_count": 157
-}
-{
-    "commits_count": 14,
-    "date_started": "2021-02-24",
-    "date_updated": "2021-03-01",
-    "description": "<no description>",
-    "forks_count": 67,
-    "html_url": "https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2021-21972-vCenter-6.5-7.0-RCE-POC",
-    "repo_owner": "QmF0c3UK",
-    "repotime": "2021-03-01, 10:10:44",
-    "stargazers_count": 136,
-    "watchers_count": 136
+    "stargazers_count": 156,
+    "watchers_count": 156
 }

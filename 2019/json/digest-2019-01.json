@@ -23,7 +23,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/wlsfla/ZDI-CAN-7591",
     "keywords": [
-        "Windows rce",
         "Windows 0day"
     ],
     "language": null,
@@ -58,15 +57,14 @@
     "forks_count": 16,
     "html_url": "https://github.com/hook-s3c/CVE-2018-18852",
     "keywords": [
-        "0day exploit",
-        "rce exploit"
+        "0day exploit"
     ],
     "language": "Python",
     "repo_name": "CVE-2018-18852",
     "repo_owner": "hook-s3c",
     "repotime": "2019-01-26, 03:48:47",
-    "stargazers_count": 47,
-    "watchers_count": 47
+    "stargazers_count": 46,
+    "watchers_count": 46
 }
 {
     "commits_count": 3,
@@ -103,40 +101,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 0,
-    "date_started": "2018-10-11",
-    "date_updated": "2019-01-19",
-    "description": "These two methods are very helpful to compact PST file of Microsoft Outlook. But if you’re looking for a professional solution to avoid all these manual steps and achieve best results, you should try the PST Compress tool provided by SysInfoTools Software. It’s a safe and easy-to-use application that requires no prior technical expertise. Via this software, you can safely compact PST file of any size without causing any damage or data loss. It can reduce PST file size by removing all the extra and unused space. The PST Compress tool is available with the demo version for free evaluation. By using the demo version, you can save first 5 emails of every PST file you select after compression. Corrupt PST File But if you have a corrupt PST file, then you can neither compress PST file nor can you split PST it. In such a critical situation, you must repair PST file with the help of scanpst.exe or any third-party PST Repair application.  Microsoft Outlook client has a wide range of smart featu...",
-    "forks_count": 0,
-    "html_url": "https://github.com/deanamb/Professional-Way-to-Compact-PST-File",
-    "keywords": [
-        "Microsoft use after free"
-    ],
-    "language": null,
-    "repo_name": "Professional-Way-to-Compact-PST-File",
-    "repo_owner": "deanamb",
-    "repotime": "2019-01-19, 07:07:33",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 202,
-    "date_started": "2017-04-25",
-    "date_updated": "2019-01-18",
-    "description": "ARTist's deployment application, for code-injection on an Android device.",
-    "forks_count": 12,
-    "html_url": "https://github.com/Project-ARTist/ArtistGui",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Java",
-    "repo_name": "ArtistGui",
-    "repo_owner": "Project-ARTist",
-    "repotime": "2019-01-18, 23:25:40",
-    "stargazers_count": 37,
-    "watchers_count": 37
-}
-{
     "commits_count": 14,
     "date_started": "2014-02-04",
     "date_updated": "2019-01-17",
@@ -158,7 +122,7 @@
     "date_started": "2018-02-23",
     "date_updated": "2019-01-15",
     "description": "Windows / Linux Local Privilege Escalation Workshop",
-    "forks_count": 262,
+    "forks_count": 248,
     "html_url": "https://github.com/sagishahar-zz/lpeworkshop",
     "keywords": [
         "Windows lpe"
@@ -167,42 +131,8 @@
     "repo_name": "lpeworkshop",
     "repo_owner": "sagishahar-zz",
     "repotime": "2019-01-15, 23:05:43",
-    "stargazers_count": 1008,
-    "watchers_count": 1008
-}
-{
-    "commits_count": 24,
-    "date_started": "2019-08-06",
-    "date_updated": "2019-01-15",
-    "description": "thinkphp v5.x 远程代码执行漏洞-POC集合",
-    "forks_count": 10,
-    "html_url": "https://github.com/oneoy/thinkphp-RCE-POC",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": null,
-    "repo_name": "thinkphp-RCE-POC",
-    "repo_owner": "oneoy",
-    "repotime": "2019-01-15, 15:04:12",
-    "stargazers_count": 21,
-    "watchers_count": 21
-}
-{
-    "commits_count": 24,
-    "date_started": "2019-01-08",
-    "date_updated": "2019-01-15",
-    "description": "thinkphp v5.x 远程代码执行漏洞-POC集合",
-    "forks_count": 238,
-    "html_url": "https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": null,
-    "repo_name": "thinkphp-RCE-POC-Collection",
-    "repo_owner": "SkyBlueEternal",
-    "repotime": "2019-01-15, 15:04:12",
-    "stargazers_count": 1087,
-    "watchers_count": 1087
+    "stargazers_count": 1004,
+    "watchers_count": 1004
 }
 {
     "commits_count": 2,
@@ -220,23 +150,6 @@
     "repotime": "2019-01-14, 19:40:11",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 5,
-    "date_started": "2019-01-14",
-    "date_updated": "2019-01-14",
-    "description": "Proof of Concept - RCE Exploitation : Web Shell on Apache Tomcat - Ensimag January 2018",
-    "forks_count": 3,
-    "html_url": "https://github.com/ygouzerh/CVE-2017-12617",
-    "keywords": [
-        "rce proof of concept"
-    ],
-    "language": "Java",
-    "repo_name": "CVE-2017-12617",
-    "repo_owner": "ygouzerh",
-    "repotime": "2019-01-14, 22:56:39",
-    "stargazers_count": 2,
-    "watchers_count": 2
 }
 {
     "commits_count": 2,
@@ -273,41 +186,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 2,
-    "date_started": "2019-01-12",
-    "date_updated": "2019-01-12",
-    "description": "An Exploit finder using the website: 0day.today",
-    "forks_count": 1,
-    "html_url": "https://github.com/AnisJokerDz/ExploitCov",
-    "keywords": [
-        "0day exploitation",
-        "0day exploit"
-    ],
-    "language": "PHP",
-    "repo_name": "ExploitCov",
-    "repo_owner": "AnisJokerDz",
-    "repotime": "2019-01-12, 19:09:18",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 2,
-    "date_started": "2019-01-11",
-    "date_updated": "2019-01-11",
-    "description": "webpwn3r ========  WebPwn3r - Web Applications Security Scanner.  By Ebrahim Hegazy - @Zigoo0  Thanks: @lnxg33k, @dia2diab @Aelhemily, @okamalo   Please send all your feedback and suggestions to: zigoo.blog['at']@gmail.com  How to use:  1- python scan.py  2- The tool will ask you if you want to scan URL or List of urls?      1- Enter number 1 to scan a URL          2- Enter number 2 to scan list of URL's      3- URL should be a full link with a parameters  .e.g http://localhost/rand/news.php?com=val&amp;amp;id=11&amp;amp;page=24&amp;amp;text=zigoo  same thing with the list of links.  Demo Video: https://www.youtube.com/watch?v=B6kDUk-ehOE  In it’s Current Public [Demo] version, WebPwn3r got below Features:  1- Scan a URL or List of URL’s  2- Detect and Exploit Remote Code  Injection Vulnerabilities.  3- ~ ~ ~ Remote Command  Execution Vulnerabilities.  4- ~ ~ ~ SQL Injection Vulnerabilities.  5- ~ ~ ~ Typical XSS Vulnerabilities.  6- Detect WebKnight WAF.  7- Improved Payloads to bypass Security F...",
-    "forks_count": 10,
-    "html_url": "https://github.com/hudacbr/webpwn3r",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "webpwn3r",
-    "repo_owner": "hudacbr",
-    "repotime": "2019-01-11, 22:46:45",
-    "stargazers_count": 28,
-    "watchers_count": 28
-}
-{
     "commits_count": 4,
     "date_started": "2019-01-08",
     "date_updated": "2019-01-11",
@@ -315,32 +193,14 @@
     "forks_count": 3,
     "html_url": "https://github.com/mfazrinizar/Anon-LFI-Executor",
     "keywords": [
-        "lfi",
-        "local file inclusion"
+        "lfi"
     ],
     "language": "Perl",
     "repo_name": "Anon-LFI-Executor",
     "repo_owner": "mfazrinizar",
     "repotime": "2019-01-11, 22:45:45",
-    "stargazers_count": 14,
-    "watchers_count": 14
-}
-{
-    "commits_count": 3,
-    "date_started": "2019-01-10",
-    "date_updated": "2019-01-11",
-    "description": "The Challenge Set up an automated test suite for the GitHub search repositories API resource. Add tests to cover searching repositories by author name, with pagination and sorting, as an unauthenticated user. Even though there are probably many scenarios you could think of, test up to ten scenarios that you think are the most critical for this resource. Set up an automated test suite for the GitHub search repositories API resource",
-    "forks_count": 0,
-    "html_url": "https://github.com/aatariq8/QA-Automation-Coding-Challenge-aatariq8",
-    "keywords": [
-        "unauthenticated user"
-    ],
-    "language": "Java",
-    "repo_name": "QA-Automation-Coding-Challenge-aatariq8",
-    "repo_owner": "aatariq8",
-    "repotime": "2019-01-11, 00:10:23",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 22,
@@ -407,8 +267,8 @@
     "repo_name": "SSRF_payload",
     "repo_owner": "grayddq",
     "repotime": "2019-01-09, 21:41:27",
-    "stargazers_count": 30,
-    "watchers_count": 30
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 1,
@@ -441,8 +301,8 @@
     "repo_name": "CVE-2018-11788",
     "repo_owner": "brianwrf",
     "repotime": "2019-01-06, 19:50:43",
-    "stargazers_count": 39,
-    "watchers_count": 39
+    "stargazers_count": 38,
+    "watchers_count": 38
 }
 {
     "commits_count": 10,
@@ -475,6 +335,6 @@
     "repo_name": "bbqsql",
     "repo_owner": "CiscoCXSecurity",
     "repotime": "2019-01-04, 14:23:19",
-    "stargazers_count": 697,
-    "watchers_count": 697
+    "stargazers_count": 711,
+    "watchers_count": 711
 }

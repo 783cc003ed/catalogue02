@@ -1,26 +1,9 @@
 {
-    "commits_count": 14,
-    "date_started": "2017-02-26",
-    "date_updated": "2017-02-26",
-    "description": "Implement defensive measures to protect an application against Cross-Site Scripting, SQL Injection, Cross-Site Request Forgery, Session Hijacking, and Session Fixation.",
-    "forks_count": 0,
-    "html_url": "https://github.com/sammanthp007/Forgery-Theft-and-Hijacking-Prevention",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "PHP",
-    "repo_name": "Forgery-Theft-and-Hijacking-Prevention",
-    "repo_owner": "sammanthp007",
-    "repotime": "2017-02-26, 16:48:32",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 7,
     "date_started": "2017-02-25",
     "date_updated": "2017-02-26",
     "description": "The Web Application Security Scanner is a web based application developed in Java-EE which checks vulnerabilities of other websites or web applications by getting website link in order to apply security injections on them like SQL Injection, Cross Side Scripting (XSS), Buffer Overflow and some other attacks as well. In this app, if a user can make his/her account, app will give him/her an API key, with this, a user can use our web services and app will give him/her a jar file of java classes which we have made along with research documents so user can continue further more research on this security project if he/she wants.This project is my final year project (FYP) of B.S (Software Engineering)",
-    "forks_count": 2,
+    "forks_count": 3,
     "html_url": "https://github.com/ShaikhInaam/My-FYP",
     "keywords": [
         "cross-side-scripting"
@@ -29,8 +12,8 @@
     "repo_name": "My-FYP",
     "repo_owner": "ShaikhInaam",
     "repotime": "2017-02-26, 09:05:51",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 9,
@@ -40,8 +23,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/SurbhiAggarwal04/Secure-Banking-System",
     "keywords": [
-        "session hijacking attack",
-        "session attack"
+        "session hijacking attack"
     ],
     "language": "Java",
     "repo_name": "Secure-Banking-System",
@@ -49,59 +31,6 @@
     "repotime": "2017-02-26, 00:15:21",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 0,
-    "date_started": "2017-02-23",
-    "date_updated": "2017-02-23",
-    "description": "Session Hijacking Poc &amp;amp; Tools (Source Code)",
-    "forks_count": 0,
-    "html_url": "https://github.com/nscho/session-login-hack",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": null,
-    "repo_name": "session-login-hack",
-    "repo_owner": "nscho",
-    "repotime": "2017-02-23, 23:22:23",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 4,
-    "date_started": "2017-02-19",
-    "date_updated": "2017-02-19",
-    "description": "Python script to exploit Local File Inclusions. ",
-    "forks_count": 0,
-    "html_url": "https://github.com/addi-sp-sp-4/LFI-exploiter",
-    "keywords": [
-        "local file inclusion"
-    ],
-    "language": "Python",
-    "repo_name": "LFI-exploiter",
-    "repo_owner": "addi-sp-sp-4",
-    "repotime": "2017-02-19, 16:39:51",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 3,
-    "date_started": "2015-05-20",
-    "date_updated": "2017-02-16",
-    "description": "This Metasploit module exploits a XSS vulnerability found in WordPress 4.2, 4.1.2, 4.1.1, and 3.9.3 it leverages the WP Plugin Editor to gain remote code execution.",
-    "forks_count": 3,
-    "html_url": "https://github.com/0sm0s1z/WordPress-Comment-Overflow",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution vulnerability",
-        "remote code execution exploit"
-    ],
-    "language": "Ruby",
-    "repo_name": "WordPress-Comment-Overflow",
-    "repo_owner": "0sm0s1z",
-    "repotime": "2017-02-16, 07:20:25",
-    "stargazers_count": 7,
-    "watchers_count": 7
 }
 {
     "commits_count": 1,
@@ -185,8 +114,8 @@
     "repo_name": "apd_launchpad",
     "repo_owner": "WJDigby",
     "repotime": "2017-02-08, 16:01:45",
-    "stargazers_count": 43,
-    "watchers_count": 43
+    "stargazers_count": 44,
+    "watchers_count": 44
 }
 {
     "commits_count": 2,
@@ -196,7 +125,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/german-namestnikov/sprashivai.ru_antispam_bypass",
     "keywords": [
-        "unauthenticated user",
         "unauthenticated attacker"
     ],
     "language": "Go",
@@ -211,7 +139,7 @@
     "date_started": "2017-01-31",
     "date_updated": "2017-02-02",
     "description": "A tool to mass scan SQL Injection Vulnerable websites from a file. ",
-    "forks_count": 39,
+    "forks_count": 37,
     "html_url": "https://github.com/the-c0d3r/sqli-scanner",
     "keywords": [
         "sql injection"

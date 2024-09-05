@@ -6,18 +6,14 @@
     "forks_count": 7,
     "html_url": "https://github.com/f1tz/CVE-2020-0796-LPE-EXP",
     "keywords": [
-        "lpe exploit",
-        "Windows lpe exploit",
-        "Windows lpe",
-        "Windows lpe exploitation",
-        "lpe exploitation"
+        "lpe exploit"
     ],
     "language": null,
     "repo_name": "CVE-2020-0796-LPE-EXP",
     "repo_owner": "f1tz",
     "repotime": "2020-03-31, 19:34:02",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 9,
@@ -44,20 +40,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/boltKrank/win_adobe_type_workaround",
     "keywords": [
-        "Win zero-day exploit",
-        "Windows remote code execution",
-        "Win zero-day exploitation",
-        "Windows zero-day exploitation",
-        "Windows zero-day",
-        "Windows remote code execution exploit",
-        "Win remote code execution exploit",
-        "Win remote code execution",
-        "Win remote code execution exploitation",
-        "Windows remote code execution exploitation",
-        "zero-day exploitation",
-        "Win zero-day",
-        "Windows zero-day exploit",
-        "zero-day exploit"
+        "Windows zero-day"
     ],
     "language": "Ruby",
     "repo_name": "win_adobe_type_workaround",
@@ -65,23 +48,6 @@
     "repotime": "2020-03-31, 11:21:48",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 32,
-    "date_started": "2019-09-30",
-    "date_updated": "2020-03-29",
-    "description": "A list of useful payloads and Bypass for Web Application Security and Bug Bounty/CTF",
-    "forks_count": 56,
-    "html_url": "https://github.com/R0X4R/D4rkXSS",
-    "keywords": [
-        "xss"
-    ],
-    "language": null,
-    "repo_name": "D4rkXSS",
-    "repo_owner": "R0X4R",
-    "repotime": "2020-03-29, 13:25:47",
-    "stargazers_count": 142,
-    "watchers_count": 142
 }
 {
     "commits_count": 4,
@@ -101,23 +67,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 1,
-    "date_started": "2020-03-25",
-    "date_updated": "2020-03-26",
-    "description": "收集了java XXE漏洞的demo及修复方式",
-    "forks_count": 3,
-    "html_url": "https://github.com/keven1z/XXEDemo",
-    "keywords": [
-        "xxe"
-    ],
-    "language": "Java",
-    "repo_name": "XXEDemo",
-    "repo_owner": "keven1z",
-    "repotime": "2020-03-26, 15:08:41",
-    "stargazers_count": 16,
-    "watchers_count": 16
-}
-{
     "commits_count": 2,
     "date_started": "2020-03-25",
     "date_updated": "2020-03-25",
@@ -131,25 +80,8 @@
     "repo_name": "FodhelperBypassUAC",
     "repo_owner": "idiotc4t",
     "repotime": "2020-03-25, 11:39:12",
-    "stargazers_count": 7,
-    "watchers_count": 7
-}
-{
-    "commits_count": 8,
-    "date_started": "2020-03-24",
-    "date_updated": "2020-03-24",
-    "description": "Type 1 Font Parsing Remote Code Execution Vulnerability Mitigation",
-    "forks_count": 0,
-    "html_url": "https://github.com/4lexaG/atmfd",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "atmfd",
-    "repo_owner": "4lexaG",
-    "repotime": "2020-03-24, 15:44:31",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 1,
@@ -167,41 +99,6 @@
     "repotime": "2020-03-24, 13:26:06",
     "stargazers_count": 4,
     "watchers_count": 4
-}
-{
-    "commits_count": 10,
-    "date_started": "2017-09-17",
-    "date_updated": "2020-03-23",
-    "description": "A proof of concept for Joomla's CVE-2015-8562 vulnerability (Object Injection RCE)",
-    "forks_count": 7,
-    "html_url": "https://github.com/VoidSec/Joomla_CVE-2015-8562",
-    "keywords": [
-        "rce proof of concept",
-        "rce vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "Joomla_CVE-2015-8562",
-    "repo_owner": "VoidSec",
-    "repotime": "2020-03-23, 16:55:55",
-    "stargazers_count": 7,
-    "watchers_count": 7
-}
-{
-    "commits_count": 103,
-    "date_started": "2020-04-15",
-    "date_updated": "2020-03-20",
-    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-    "forks_count": 0,
-    "html_url": "https://github.com/apumax-1/evilginx2",
-    "keywords": [
-        "session attack"
-    ],
-    "language": null,
-    "repo_name": "evilginx2",
-    "repo_owner": "apumax-1",
-    "repotime": "2020-03-20, 11:45:01",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 5,
@@ -268,8 +165,8 @@
     "repo_name": "CVE-2019-1218",
     "repo_owner": "d0gukank",
     "repotime": "2020-03-15, 00:07:19",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1,
@@ -289,40 +186,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 5,
-    "date_started": "2020-03-12",
-    "date_updated": "2020-03-13",
-    "description": "This script will apply the workaround for the vulnerability CVE-2020-0796 for the SMBv3 unauthenticated RCE",
-    "forks_count": 1,
-    "html_url": "https://github.com/Almorabea/SMBGhost-WorkaroundApplier",
-    "keywords": [
-        "unauthenticated rce"
-    ],
-    "language": "Python",
-    "repo_name": "SMBGhost-WorkaroundApplier",
-    "repo_owner": "Almorabea",
-    "repotime": "2020-03-13, 17:52:48",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 7,
-    "date_started": "2020-03-12",
-    "date_updated": "2020-03-13",
-    "description": "SMBv3 RCE vulnerability in SMBv3",
-    "forks_count": 1,
-    "html_url": "https://github.com/laolisafe/CVE-2020-0796",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": null,
-    "repo_name": "CVE-2020-0796",
-    "repo_owner": "laolisafe",
-    "repotime": "2020-03-13, 13:36:19",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
     "commits_count": 3,
     "date_started": "2020-03-12",
     "date_updated": "2020-03-12",
@@ -330,18 +193,14 @@
     "forks_count": 1,
     "html_url": "https://github.com/Dhoomralochana/Scanners-for-CVE-2020-0796-Testing",
     "keywords": [
-        "Microsoft remote code execution vulnerability",
-        "Windows remote code execution",
-        "remote code execution vulnerability",
-        "Microsoft remote code execution",
-        "Windows remote code execution vulnerability"
+        "Windows remote code execution"
     ],
     "language": null,
     "repo_name": "Scanners-for-CVE-2020-0796-Testing",
     "repo_owner": "Dhoomralochana",
     "repotime": "2020-03-12, 22:14:46",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 4,
@@ -357,15 +216,15 @@
     "repo_name": "cve-2020-0796",
     "repo_owner": "ButrintKomoni",
     "repotime": "2020-03-12, 11:19:34",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 75,
     "date_started": "2013-03-08",
     "date_updated": "2020-03-11",
     "description": "Rid_enum is a null session RID cycle attack for brute forcing domain controllers.",
-    "forks_count": 86,
+    "forks_count": 81,
     "html_url": "https://github.com/trustedsec/ridenum",
     "keywords": [
         "session attack"
@@ -382,7 +241,7 @@
     "date_started": "2017-04-06",
     "date_updated": "2020-03-11",
     "description": "Windows 8.1 and 10 UAC bypass abusing WinSxS in &amp;quot;dccw.exe&amp;quot;.",
-    "forks_count": 101,
+    "forks_count": 86,
     "html_url": "https://github.com/L3cr0f/DccwBypassUAC",
     "keywords": [
         "uac bypass"
@@ -391,8 +250,8 @@
     "repo_name": "DccwBypassUAC",
     "repo_owner": "L3cr0f",
     "repotime": "2020-03-11, 16:23:11",
-    "stargazers_count": 379,
-    "watchers_count": 379
+    "stargazers_count": 381,
+    "watchers_count": 381
 }
 {
     "commits_count": 5,
@@ -402,11 +261,7 @@
     "forks_count": 39,
     "html_url": "https://github.com/rip1s/CVE-2019-1458",
     "keywords": [
-        "lpe exploit",
-        "Windows lpe exploit",
-        "Windows lpe",
-        "Windows lpe exploitation",
-        "lpe exploitation"
+        "lpe exploit"
     ],
     "language": "C++",
     "repo_name": "CVE-2019-1458",
@@ -420,7 +275,7 @@
     "date_started": "2020-03-10",
     "date_updated": "2020-03-10",
     "description": " Once upon a time there was a lovely                           princess. But she had an enchantment                           upon her of a fearful sort which could                           only be broken by love's first kiss.                           She was locked away in a castle guarded                           by a terrible fire-breathing dragon.                           Many brave knights had attempted to                           free her from this dreadful prison,                           but non prevailed. She waited in the                           dragon's keep in the highest room of                           the tallest tower for her true love                           and true love's first kiss. (laughs)                           Like that's ever gonna happen. What                           a load of - (toilet flush)                  Allstar - by Smashmouth begins to play. Shrek goes about his                 day. While in a nearby town, the villagers get together to ...",
-    "forks_count": 9,
+    "forks_count": 5,
     "html_url": "https://github.com/rprokap/entremanure",
     "keywords": [
         "Windows use after free"
@@ -429,42 +284,8 @@
     "repo_name": "entremanure",
     "repo_owner": "rprokap",
     "repotime": "2020-03-10, 19:23:00",
-    "stargazers_count": 31,
-    "watchers_count": 31
-}
-{
-    "commits_count": 3,
-    "date_started": "2018-06-18",
-    "date_updated": "2020-03-09",
-    "description": "Dump sysmodule save data (and eventually restore it too)",
-    "forks_count": 6,
-    "html_url": "https://github.com/Adubbz/Compelled-Disclosure",
-    "keywords": [
-        "disclosure"
-    ],
-    "language": "C",
-    "repo_name": "Compelled-Disclosure",
-    "repo_owner": "Adubbz",
-    "repotime": "2020-03-09, 01:35:35",
-    "stargazers_count": 8,
-    "watchers_count": 8
-}
-{
-    "commits_count": 11,
-    "date_started": "2017-12-11",
-    "date_updated": "2020-03-05",
-    "description": "Intelligent XSS detection tool that uses human techniques for looking for reflected cross-site scripting (XSS) vulnerabilities",
-    "forks_count": 32,
-    "html_url": "https://github.com/secdec/xssmap",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Python",
-    "repo_name": "xssmap",
-    "repo_owner": "secdec",
-    "repotime": "2020-03-05, 10:20:24",
-    "stargazers_count": 126,
-    "watchers_count": 126
+    "stargazers_count": 36,
+    "watchers_count": 36
 }
 {
     "commits_count": 1,
@@ -482,23 +303,6 @@
     "repotime": "2020-03-05, 14:44:57",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 89,
-    "date_started": "2015-04-02",
-    "date_updated": "2020-03-02",
-    "description": "Not Another Code Injection Toolkit",
-    "forks_count": 5,
-    "html_url": "https://github.com/msmania/procjack",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "C++",
-    "repo_name": "procjack",
-    "repo_owner": "msmania",
-    "repotime": "2020-03-02, 21:17:24",
-    "stargazers_count": 15,
-    "watchers_count": 15
 }
 {
     "commits_count": 4,

@@ -16,40 +16,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 25,
-    "date_started": "2016-03-07",
-    "date_updated": "2016-02-28",
-    "description": "Code for diskless loading of ELF Shared Library using Reflective DLL Injection",
-    "forks_count": 15,
-    "html_url": "https://github.com/nsxz/ReflectiveELFLoader",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "C",
-    "repo_name": "ReflectiveELFLoader",
-    "repo_owner": "nsxz",
-    "repotime": "2016-02-28, 22:45:39",
-    "stargazers_count": 51,
-    "watchers_count": 51
-}
-{
-    "commits_count": 11,
-    "date_started": "2015-11-11",
-    "date_updated": "2016-02-27",
-    "description": "Local File Inclusion &amp;amp; Social Engineering Practice Site",
-    "forks_count": 2,
-    "html_url": "https://github.com/andolojm/php-lfi",
-    "keywords": [
-        "local file inclusion"
-    ],
-    "language": "PHP",
-    "repo_name": "php-lfi",
-    "repo_owner": "andolojm",
-    "repotime": "2016-02-27, 17:36:46",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 11,
     "date_started": "2017-09-19",
     "date_updated": "2016-02-27",
@@ -80,25 +46,8 @@
     "repo_name": "Xss-",
     "repo_owner": "Dhamuharker",
     "repotime": "2016-02-24, 12:42:57",
-    "stargazers_count": 82,
-    "watchers_count": 82
-}
-{
-    "commits_count": 10,
-    "date_started": "2015-06-21",
-    "date_updated": "2016-02-24",
-    "description": "Browser-side scripting security and cross platform mobile security examples",
-    "forks_count": 0,
-    "html_url": "https://github.com/stefankorun/web-security",
-    "keywords": [
-        "cross-side-scripting"
-    ],
-    "language": "JavaScript",
-    "repo_name": "web-security",
-    "repo_owner": "stefankorun",
-    "repotime": "2016-02-24, 00:05:47",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 83,
+    "watchers_count": 83
 }
 {
     "commits_count": 139,
@@ -201,21 +150,4 @@
     "repotime": "2016-02-13, 04:55:23",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 2,
-    "date_started": "2016-02-01",
-    "date_updated": "2016-02-01",
-    "description": "PoC code for android RCE with multidex and ZIP files",
-    "forks_count": 16,
-    "html_url": "https://github.com/nowsecure/android-rce-multidex-and-zip-files",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "android-rce-multidex-and-zip-files",
-    "repo_owner": "nowsecure",
-    "repotime": "2016-02-01, 11:54:08",
-    "stargazers_count": 39,
-    "watchers_count": 39
 }

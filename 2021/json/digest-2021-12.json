@@ -12,8 +12,8 @@
     "repo_name": "andor",
     "repo_owner": "sadicann",
     "repotime": "2021-12-31, 14:50:51",
-    "stargazers_count": 73,
-    "watchers_count": 73
+    "stargazers_count": 74,
+    "watchers_count": 74
 }
 {
     "commits_count": 12,
@@ -29,8 +29,8 @@
     "repo_name": "blind-ssrf-chains",
     "repo_owner": "assetnote",
     "repotime": "2021-12-31, 11:08:33",
-    "stargazers_count": 728,
-    "watchers_count": 728
+    "stargazers_count": 770,
+    "watchers_count": 770
 }
 {
     "commits_count": 1,
@@ -54,18 +54,17 @@
     "date_started": "2021-12-28",
     "date_updated": "2021-12-28",
     "description": "Local File Inclusion Scanner and Exploiter",
-    "forks_count": 5,
+    "forks_count": 4,
     "html_url": "https://github.com/S12cybersecurity/LFI-Paradise",
     "keywords": [
-        "lfi",
-        "local file inclusion"
+        "lfi"
     ],
     "language": "Python",
     "repo_name": "LFI-Paradise",
     "repo_owner": "S12cybersecurity",
     "repotime": "2021-12-28, 16:47:03",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 2,
@@ -85,25 +84,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 3,
-    "date_started": "2021-12-28",
-    "date_updated": "2021-12-28",
-    "description": "Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit",
-    "forks_count": 1,
-    "html_url": "https://github.com/MRacumen/CVE-2021-40444",
-    "keywords": [
-        "Microsoft remote code execution exploit",
-        "Microsoft remote code execution",
-        "Microsoft remote code execution exploitation"
-    ],
-    "language": "HTML",
-    "repo_name": "CVE-2021-40444",
-    "repo_owner": "MRacumen",
-    "repotime": "2021-12-28, 12:14:19",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 2,
     "date_started": "2021-12-27",
     "date_updated": "2021-12-27",
@@ -121,70 +101,18 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 5,
-    "date_started": "2021-12-20",
-    "date_updated": "2021-12-27",
-    "description": "Proof of Concept for CVE-2021-43891",
-    "forks_count": 1,
-    "html_url": "https://github.com/parsiya/code-wsl-rce",
-    "keywords": [
-        "rce proof of concept"
-    ],
-    "language": "JavaScript",
-    "repo_name": "code-wsl-rce",
-    "repo_owner": "parsiya",
-    "repotime": "2021-12-27, 09:00:25",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
-    "commits_count": 0,
-    "date_started": "2020-03-24",
-    "date_updated": "2021-12-27",
-    "description": "Version release : v1.0.16 Author : pedro ubuntu  [ r00t-3xp10it ] Codename: Aconite (Aconitum napellus) Distros Supported : Linux Ubuntu, Kali, Mint, Parrot OS Suspicious-Shell-Activity (SSA) RedTeam develop @2019 banner  LEGAL DISCLAMER The author does not hold any responsibility for the bad use of this tool, remember that attacking targets without prior consent is illegal and punished by law. So use this tool responsibly. FRAMEWORK DESCRIPTION The script will use msfvenom (metasploit) to generate shellcode in diferent formats ( C&amp;&#35;35; | python | ruby dll | msi | hta-psh | docm | apk | macho | elf | deb | mp4 | etc ) injects the shellcode generated into one template (example: python) &amp;quot;the python funtion will execute the shellcode into ram&amp;quot; and uses compilers like gcc (gnu cross compiler) or mingw32 or pyinstaller to build the executable file. It also starts a multi-handler to recive the remote connection (shell or meterpreter session).  'venom generator' reproduces some of t...",
-    "forks_count": 0,
-    "html_url": "https://github.com/Kinyas-tr/VENOM-1.0.16---metasploit-Shellcode-generator-compiller",
-    "keywords": [
-        "spoofing session"
-    ],
-    "language": null,
-    "repo_name": "VENOM-1.0.16---metasploit-Shellcode-generator-compiller",
-    "repo_owner": "Kinyas-tr",
-    "repotime": "2021-12-27, 05:12:38",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 5,
-    "date_started": "2021-12-26",
-    "date_updated": "2021-12-27",
-    "description": "Fully undetectable UAC Bypass exploit - https://youtu.be/KfOPW0XI99s ",
-    "forks_count": 3,
-    "html_url": "https://github.com/exploitblizzard/Love.exe",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": null,
-    "repo_name": "Love.exe",
-    "repo_owner": "exploitblizzard",
-    "repotime": "2021-12-27, 04:04:14",
-    "stargazers_count": 18,
-    "watchers_count": 18
-}
-{
     "commits_count": 12,
-    "date_started": "2021-12-26",
+    "date_started": "2021-12-28",
     "date_updated": "2021-12-26",
     "description": "Strapi 3.0.0-beta - Remote Code Execution (RCE) (Unauthenticated)",
-    "forks_count": 1,
-    "html_url": "https://github.com/Invertebr4do/strapiRCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/atlassion/strapiRCE",
     "keywords": [
-        "unauthenticated rce",
-        "unauthenticated remote code execution"
+        "unauthenticated rce"
     ],
-    "language": "Python",
+    "language": null,
     "repo_name": "strapiRCE",
-    "repo_owner": "Invertebr4do",
+    "repo_owner": "atlassion",
     "repotime": "2021-12-26, 02:02:43",
     "stargazers_count": 0,
     "watchers_count": 0
@@ -197,8 +125,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/LongWayHomie/CRS-RCE-Exploit",
     "keywords": [
-        "unauthenticated user",
-        "unauthenticated rce"
+        "unauthenticated user"
     ],
     "language": "Python",
     "repo_name": "CRS-RCE-Exploit",
@@ -232,7 +159,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/LongWayHomie/OAS-RCE-Exploit",
     "keywords": [
-        "unauthenticated user",
         "unauthenticated rce"
     ],
     "language": "Python",
@@ -241,40 +167,6 @@
     "repotime": "2021-12-23, 19:17:33",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 40,
-    "date_started": "2015-04-27",
-    "date_updated": "2021-12-23",
-    "description": "A proof of concept porting Flux concepts to C&amp;&#35;35; and WPF",
-    "forks_count": 10,
-    "html_url": "https://github.com/shiftkey/fluxsharp-proof-of-concept",
-    "keywords": [
-        "proof-of-concept"
-    ],
-    "language": "C#",
-    "repo_name": "fluxsharp-proof-of-concept",
-    "repo_owner": "shiftkey",
-    "repotime": "2021-12-23, 15:35:46",
-    "stargazers_count": 32,
-    "watchers_count": 32
-}
-{
-    "commits_count": 4,
-    "date_started": "2021-12-23",
-    "date_updated": "2021-12-23",
-    "description": "open detection and scanning tool for discovering and fuzzing for Log4J RCE CVE-2021-44228 vulnerability",
-    "forks_count": 6,
-    "html_url": "https://github.com/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2021-44228-log4jVulnScanner-metasploit",
-    "repo_owner": "TaroballzChen",
-    "repotime": "2021-12-23, 15:40:13",
-    "stargazers_count": 8,
-    "watchers_count": 8
 }
 {
     "commits_count": 2,
@@ -294,24 +186,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 12,
-    "date_started": "2021-12-19",
-    "date_updated": "2021-12-22",
-    "description": "Exploiting CVE-2021-44228 in vCenter for remote code execution and more. ",
-    "forks_count": 22,
-    "html_url": "https://github.com/puzzlepeaches/Log4jCenter",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "Log4jCenter",
-    "repo_owner": "puzzlepeaches",
-    "repotime": "2021-12-22, 09:56:21",
-    "stargazers_count": 95,
-    "watchers_count": 95
-}
-{
     "commits_count": 8,
     "date_started": "2021-08-12",
     "date_updated": "2021-12-22",
@@ -327,23 +201,6 @@
     "repotime": "2021-12-22, 17:23:31",
     "stargazers_count": 3,
     "watchers_count": 3
-}
-{
-    "commits_count": 5,
-    "date_started": "2021-12-20",
-    "date_updated": "2021-12-22",
-    "description": "Log4j 漏洞本地检测脚本。 Scan all java processes on your host to check whether it's affected by log4j2 remote code execution vulnerability (CVE-2021-45046)",
-    "forks_count": 12,
-    "html_url": "https://github.com/lijiejie/log4j2_vul_local_scanner",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "log4j2_vul_local_scanner",
-    "repo_owner": "lijiejie",
-    "repotime": "2021-12-22, 14:24:36",
-    "stargazers_count": 87,
-    "watchers_count": 87
 }
 {
     "commits_count": 7,
@@ -380,57 +237,21 @@
     "watchers_count": 11
 }
 {
-    "commits_count": 3,
-    "date_started": "2021-12-15",
-    "date_updated": "2021-12-21",
-    "description": "Small example on demonstrating the remote code execution vulnerability of Log4j2 in contrast to Log4j",
-    "forks_count": 0,
-    "html_url": "https://github.com/Warpguru/Log4jVulnerabilityTest",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": "Java",
-    "repo_name": "Log4jVulnerabilityTest",
-    "repo_owner": "Warpguru",
-    "repotime": "2021-12-21, 13:38:03",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 2,
     "date_started": "2021-12-21",
     "date_updated": "2021-12-20",
     "description": "   &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;!--[if IE 8]&amp;gt;&amp;lt;html class=&amp;quot;ie8&amp;quot; ng-app=&amp;quot;robloxApp&amp;quot;&amp;gt;&amp;lt;![endif]--&amp;gt; &amp;lt;!--[if gt IE 8]&amp;gt;&amp;lt;!--&amp;gt; &amp;lt;html&amp;gt; &amp;lt;!--&amp;lt;![endif]--&amp;gt; &amp;lt;head data-machine-id=&amp;quot;WEB7441&amp;quot;&amp;gt;     &amp;lt;!-- MachineID: WEB7441 --&amp;gt;     &amp;lt;title&amp;gt;Home - Roblox&amp;lt;/title&amp;gt;     &amp;lt;meta http-equiv=&amp;quot;X-UA-Compatible&amp;quot; content=&amp;quot;IE=edge,requiresActiveX=true&amp;quot; /&amp;gt; &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;author&amp;quot; content=&amp;quot;Roblox Corporation&amp;quot; /&amp;gt; &amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;Roblox is a global platform that brings people together through play.&amp;quot; /&amp;gt; &amp;lt;meta name=&amp;quot;keywords&amp;quot; content=&amp;quot;free games, online games, building games, virtual worlds, free mmo, gaming cloud, physics engine&amp;quot; /&amp;gt;      &amp;lt;meta name=&amp;quot;apple-itunes-app&amp;quot; content=...",
-    "forks_count": 30,
+    "forks_count": 42,
     "html_url": "https://github.com/stoupid999/roblox.com",
     "keywords": [
-        "Windows use after free",
-        "Microsoft use after free",
-        "Chrome use after free"
+        "Windows use after free"
     ],
     "language": null,
     "repo_name": "roblox.com",
     "repo_owner": "stoupid999",
     "repotime": "2021-12-20, 20:50:16",
-    "stargazers_count": 35,
-    "watchers_count": 35
-}
-{
-    "commits_count": 9,
-    "date_started": "2021-12-12",
-    "date_updated": "2021-12-20",
-    "description": "Powershell UAC Bypass script leveraging WinSAT.exe",
-    "forks_count": 3,
-    "html_url": "https://github.com/b4keSn4ke/Invoke-WinSATBypass",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "PowerShell",
-    "repo_name": "Invoke-WinSATBypass",
-    "repo_owner": "b4keSn4ke",
-    "repotime": "2021-12-20, 20:49:23",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 47,
+    "watchers_count": 47
 }
 {
     "commits_count": 9,
@@ -450,33 +271,11 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 4,
-    "date_started": "2021-10-21",
-    "date_updated": "2021-12-20",
-    "description": "anonfiles.com XSS 0day exploit",
-    "forks_count": 3,
-    "html_url": "https://github.com/BoofSec/anonfiles-xss-0day",
-    "keywords": [
-        "0day exploit",
-        "0day exploitation",
-        "zero-day poc",
-        "0day poc",
-        "zero-day exploitation",
-        "zero-day exploit"
-    ],
-    "language": "Python",
-    "repo_name": "anonfiles-xss-0day",
-    "repo_owner": "BoofSec",
-    "repotime": "2021-12-20, 23:40:05",
-    "stargazers_count": 13,
-    "watchers_count": 13
-}
-{
     "commits_count": 7,
     "date_started": "2021-12-18",
     "date_updated": "2021-12-20",
     "description": "QRLJacking attack implementation in JavaScript. Steal QR login session from services like WhatsApp and Telegram.",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/moh85/QRLJackingJS",
     "keywords": [
         "session attack"
@@ -485,8 +284,8 @@
     "repo_name": "QRLJackingJS",
     "repo_owner": "moh85",
     "repotime": "2021-12-20, 21:15:13",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 4,
@@ -506,26 +305,6 @@
     "watchers_count": 7
 }
 {
-    "commits_count": 11,
-    "date_started": "2021-12-17",
-    "date_updated": "2021-12-20",
-    "description": "Simulating Log4j Remote Code Execution (RCE) vulnerability in a flask web server using python's logging library with custom formatter that simulates lookup substitution by executing remote exploit code.",
-    "forks_count": 8,
-    "html_url": "https://github.com/Narasimha1997/py4jshell",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit",
-        "remote code execution vulnerability",
-        "rce vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "py4jshell",
-    "repo_owner": "Narasimha1997",
-    "repotime": "2021-12-20, 11:28:50",
-    "stargazers_count": 86,
-    "watchers_count": 86
-}
-{
     "commits_count": 5,
     "date_started": "2021-12-20",
     "date_updated": "2021-12-20",
@@ -533,37 +312,31 @@
     "forks_count": 1,
     "html_url": "https://github.com/XDragorteam/Log4j-automate-remote-code-execution-exe",
     "keywords": [
-        "Windows remote code execution vulnerability",
-        "Windows remote code execution",
-        "Windows remote code execution exploit",
-        "remote code execution vulnerability",
-        "Windows remote code execution exploitation"
+        "Windows remote code execution"
     ],
     "language": null,
     "repo_name": "Log4j-automate-remote-code-execution-exe",
     "repo_owner": "XDragorteam",
     "repotime": "2021-12-20, 05:57:01",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 35,
     "date_started": "2021-12-16",
     "date_updated": "2021-12-19",
     "description": "Escalate from a low-integrity Administrator account to NT AUTHORITY\\SYSTEM without an LPE exploit by combining a COM UAC bypass and Token Impersonation",
-    "forks_count": 65,
+    "forks_count": 63,
     "html_url": "https://github.com/FULLSHADE/Auto-Elevate",
     "keywords": [
-        "uac bypass",
-        "lpe exploit",
-        "lpe exploitation"
+        "lpe exploit"
     ],
     "language": "C++",
     "repo_name": "Auto-Elevate",
     "repo_owner": "FULLSHADE",
     "repotime": "2021-12-19, 17:06:18",
-    "stargazers_count": 146,
-    "watchers_count": 146
+    "stargazers_count": 149,
+    "watchers_count": 149
 }
 {
     "commits_count": 5,
@@ -604,53 +377,17 @@
     "date_started": "2021-12-19",
     "date_updated": "2021-12-19",
     "description": "CVE-2021-40444",
-    "forks_count": 25,
+    "forks_count": 24,
     "html_url": "https://github.com/34zY/Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit",
     "keywords": [
-        "Microsoft remote code execution exploit",
-        "remote code execution exploit",
-        "Microsoft remote code execution"
+        "Microsoft remote code execution exploit"
     ],
     "language": "Ruby",
     "repo_name": "Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit",
     "repo_owner": "34zY",
     "repotime": "2021-12-19, 09:27:33",
-    "stargazers_count": 65,
-    "watchers_count": 65
-}
-{
-    "commits_count": 40,
-    "date_started": "2021-12-12",
-    "date_updated": "2021-12-19",
-    "description": "Lists of affected components and affected apps/vendors by CVE-2021-44228 (aka Log4shell or Log4j RCE). This list is meant as a resource for security responders to be able to find and address the vulnerability ",
-    "forks_count": 8,
-    "html_url": "https://github.com/authomize/log4j-log4shell-affected",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": null,
-    "repo_name": "log4j-log4shell-affected",
-    "repo_owner": "authomize",
-    "repotime": "2021-12-19, 09:40:25",
-    "stargazers_count": 53,
-    "watchers_count": 53
-}
-{
-    "commits_count": 9,
-    "date_started": "2021-11-23",
-    "date_updated": "2021-12-19",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/AliMilani/telegram-session-hijacking",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "AutoIt",
-    "repo_name": "telegram-session-hijacking",
-    "repo_owner": "AliMilani",
-    "repotime": "2021-12-19, 10:33:39",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 64,
+    "watchers_count": 64
 }
 {
     "commits_count": 13,
@@ -670,93 +407,21 @@
     "watchers_count": 5
 }
 {
-    "commits_count": 186,
-    "date_started": "2012-02-13",
-    "date_updated": "2021-12-18",
-    "description": "Taint is a PHP extension, used for detecting XSS codes",
-    "forks_count": 137,
-    "html_url": "https://github.com/laruence/taint",
-    "keywords": [
-        "xss"
-    ],
-    "language": "C",
-    "repo_name": "taint",
-    "repo_owner": "laruence",
-    "repotime": "2021-12-18, 16:50:25",
-    "stargazers_count": 588,
-    "watchers_count": 588
-}
-{
-    "commits_count": 15,
-    "date_started": "2021-12-13",
-    "date_updated": "2021-12-17",
-    "description": "Nmap Log4Shell NSE script for discovery Apache Log4j RCE (CVE-2021-44228)",
-    "forks_count": 19,
-    "html_url": "https://github.com/giterlizzi/nmap-log4shell",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Lua",
-    "repo_name": "nmap-log4shell",
-    "repo_owner": "giterlizzi",
-    "repotime": "2021-12-17, 18:23:49",
-    "stargazers_count": 72,
-    "watchers_count": 72
-}
-{
     "commits_count": 12,
     "date_started": "2021-12-02",
     "date_updated": "2021-12-17",
     "description": "Windows MSI Installer LPE (CVE-2021-43883)",
-    "forks_count": 17,
+    "forks_count": 18,
     "html_url": "https://github.com/jbaines-r7/shakeitoff",
     "keywords": [
-        "lpe exploit",
-        "Windows lpe exploit",
-        "Windows lpe"
+        "lpe exploit"
     ],
     "language": "C++",
     "repo_name": "shakeitoff",
     "repo_owner": "jbaines-r7",
     "repotime": "2021-12-17, 07:53:51",
-    "stargazers_count": 73,
-    "watchers_count": 73
-}
-{
-    "commits_count": 28,
-    "date_started": "2021-12-10",
-    "date_updated": "2021-12-17",
-    "description": "Non intrusive log4j2 RCE vulnerability patch.",
-    "forks_count": 8,
-    "html_url": "https://github.com/Glavo/log4j-patch",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Java",
-    "repo_name": "log4j-patch",
-    "repo_owner": "Glavo",
-    "repotime": "2021-12-17, 20:32:10",
-    "stargazers_count": 66,
-    "watchers_count": 66
-}
-{
-    "commits_count": 17,
-    "date_started": "2021-12-12",
-    "date_updated": "2021-12-17",
-    "description": "A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell",
-    "forks_count": 34,
-    "html_url": "https://github.com/cyberxml/log4j-poc",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "rce exploitation"
-    ],
-    "language": "Java",
-    "repo_name": "log4j-poc",
-    "repo_owner": "cyberxml",
-    "repotime": "2021-12-17, 04:12:25",
-    "stargazers_count": 70,
-    "watchers_count": 70
+    "stargazers_count": 75,
+    "watchers_count": 75
 }
 {
     "commits_count": 4,
@@ -776,143 +441,6 @@
     "watchers_count": 7
 }
 {
-    "commits_count": 19,
-    "date_started": "2021-12-12",
-    "date_updated": "2021-12-16",
-    "description": "An All-In-One Pure Python PoC for CVE-2021-44228",
-    "forks_count": 30,
-    "html_url": "https://github.com/alexandre-lavoie/python-log4rce",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "python-log4rce",
-    "repo_owner": "alexandre-lavoie",
-    "repotime": "2021-12-16, 13:34:37",
-    "stargazers_count": 175,
-    "watchers_count": 175
-}
-{
-    "commits_count": 6,
-    "date_started": "2021-12-16",
-    "date_updated": "2021-12-16",
-    "description": "log4shell (CVE-2021-44228) scanning tool",
-    "forks_count": 2,
-    "html_url": "https://github.com/shamo0/CVE-2021-44228",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2021-44228",
-    "repo_owner": "shamo0",
-    "repotime": "2021-12-16, 14:00:15",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
-    "commits_count": 6,
-    "date_started": "2021-02-04",
-    "date_updated": "2021-12-16",
-    "description": "simple bash script of CVE-2020-3452 Cisco ASA / Firepower Read-Only Path Traversal Vulnerability checker ",
-    "forks_count": 0,
-    "html_url": "https://github.com/faisalfs10x/Cisco-CVE-2020-3452-shodan-scanner",
-    "keywords": [
-        "path traversal vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "Cisco-CVE-2020-3452-shodan-scanner",
-    "repo_owner": "faisalfs10x",
-    "repotime": "2021-12-16, 09:46:15",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 4,
-    "date_started": "2021-12-16",
-    "date_updated": "2021-12-16",
-    "description": "This Log4j RCE exploit originated from https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce",
-    "forks_count": 7,
-    "html_url": "https://github.com/roxas-tan/CVE-2021-44228",
-    "keywords": [
-        "rce exploitation"
-    ],
-    "language": "Java",
-    "repo_name": "CVE-2021-44228",
-    "repo_owner": "roxas-tan",
-    "repotime": "2021-12-16, 03:59:14",
-    "stargazers_count": 10,
-    "watchers_count": 10
-}
-{
-    "commits_count": 13,
-    "date_started": "2021-12-10",
-    "date_updated": "2021-12-16",
-    "description": "Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information",
-    "forks_count": 30,
-    "html_url": "https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept",
-    "keywords": [
-        "rce proof of concept",
-        "rce exploit"
-    ],
-    "language": "Java",
-    "repo_name": "Log4J-RCE-Proof-Of-Concept",
-    "repo_owner": "HyCraftHD",
-    "repotime": "2021-12-16, 02:33:48",
-    "stargazers_count": 180,
-    "watchers_count": 180
-}
-{
-    "commits_count": 1,
-    "date_started": "2021-12-15",
-    "date_updated": "2021-12-16",
-    "description": "A Remote Code Execution PoC for Log4Shell (CVE-2021-44228)",
-    "forks_count": 2,
-    "html_url": "https://github.com/ubitech/cve-2021-44228-rce-poc",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "Java",
-    "repo_name": "cve-2021-44228-rce-poc",
-    "repo_owner": "ubitech",
-    "repotime": "2021-12-16, 01:01:39",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 9,
-    "date_started": "2021-12-14",
-    "date_updated": "2021-12-15",
-    "description": "Tools for remediating the recent log4j2 RCE vulnerability (CVE-2021-44228)",
-    "forks_count": 10,
-    "html_url": "https://github.com/stripe/log4j-remediation-tools",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Go",
-    "repo_name": "log4j-remediation-tools",
-    "repo_owner": "stripe",
-    "repotime": "2021-12-15, 12:36:30",
-    "stargazers_count": 41,
-    "watchers_count": 41
-}
-{
-    "commits_count": 19,
-    "date_started": "2021-12-10",
-    "date_updated": "2021-12-15",
-    "description": "log4j rce test environment and poc",
-    "forks_count": 86,
-    "html_url": "https://github.com/leonjza/log4jpwn",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "log4jpwn",
-    "repo_owner": "leonjza",
-    "repotime": "2021-12-15, 19:17:43",
-    "stargazers_count": 307,
-    "watchers_count": 307
-}
-{
     "commits_count": 11,
     "date_started": "2021-12-15",
     "date_updated": "2021-12-15",
@@ -926,77 +454,8 @@
     "repo_name": "log4j-CVE-2021-44228",
     "repo_owner": "kubearmor",
     "repotime": "2021-12-15, 21:59:14",
-    "stargazers_count": 7,
-    "watchers_count": 7
-}
-{
-    "commits_count": 6,
-    "date_started": "2021-12-13",
-    "date_updated": "2021-12-15",
-    "description": "Log4Shell RCE Exploit - fully independent exploit does not require any 3rd party binaries.",
-    "forks_count": 67,
-    "html_url": "https://github.com/cyberstruggle/L4sh",
-    "keywords": [
-        "rce exploit",
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "L4sh",
-    "repo_owner": "cyberstruggle",
-    "repotime": "2021-12-15, 12:51:51",
-    "stargazers_count": 255,
-    "watchers_count": 255
-}
-{
-    "commits_count": 12,
-    "date_started": "2021-12-14",
-    "date_updated": "2021-12-14",
-    "description": "The project is a simple vulnerability Demo environment written by SpringBoot. Here, I deliberately wrote a vulnerability environment where there are arbitrary file uploads, and then use the `scan` attribute in the loghack configuration file to cooperate with the logback vulnerability to implement RCE.",
-    "forks_count": 13,
-    "html_url": "https://github.com/cn-panda/logbackRceDemo",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Java",
-    "repo_name": "logbackRceDemo",
-    "repo_owner": "cn-panda",
-    "repotime": "2021-12-14, 23:22:47",
-    "stargazers_count": 84,
-    "watchers_count": 84
-}
-{
-    "commits_count": 19,
-    "date_started": "2021-12-10",
-    "date_updated": "2021-12-14",
-    "description": "A script that checks for vulnerable Log4j (CVE-2021-44228) systems using injection of the payload in common HTTP headers.",
-    "forks_count": 25,
-    "html_url": "https://github.com/NorthwaveSecurity/log4jcheck",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "log4jcheck",
-    "repo_owner": "NorthwaveSecurity",
-    "repotime": "2021-12-14, 16:16:10",
-    "stargazers_count": 125,
-    "watchers_count": 125
-}
-{
-    "commits_count": 1,
-    "date_started": "2021-12-14",
-    "date_updated": "2021-12-14",
-    "description": "log4j 1.x RCE Poc -- CVE-2021-4104",
-    "forks_count": 10,
-    "html_url": "https://github.com/cckuailong/log4shell_1.x",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Java",
-    "repo_name": "log4shell_1.x",
-    "repo_owner": "cckuailong",
-    "repotime": "2021-12-14, 20:55:59",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 10,
@@ -1006,7 +465,6 @@
     "forks_count": 3,
     "html_url": "https://github.com/pedrohavay/exploit-CVE-2021-44228",
     "keywords": [
-        "rce proof of concept",
         "unauthenticated rce"
     ],
     "language": "Python",
@@ -1024,15 +482,14 @@
     "forks_count": 6,
     "html_url": "https://github.com/justakazh/Log4j-CVE-2021-44228",
     "keywords": [
-        "0day exploit",
-        "0day vulnerability"
+        "0day exploit"
     ],
     "language": "Python",
     "repo_name": "Log4j-CVE-2021-44228",
     "repo_owner": "justakazh",
     "repotime": "2021-12-13, 21:17:59",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 3,
@@ -1059,9 +516,7 @@
     "forks_count": 1,
     "html_url": "https://github.com/tomquinn8/Detection",
     "keywords": [
-        "zero-day poc",
-        "zero-day exploit",
-        "zero-day exploitation"
+        "zero-day exploit"
     ],
     "language": "Python",
     "repo_name": "Detection",
@@ -1075,11 +530,10 @@
     "date_started": "2021-12-12",
     "date_updated": "2021-12-12",
     "description": "Abuse Log4J CVE-2021-44228 to patch CVE-2021-44228 in vulnerable Minecraft game sessions to prevent exploitation in the session :) ",
-    "forks_count": 4,
+    "forks_count": 3,
     "html_url": "https://github.com/future-client/CVE-2021-44228",
     "keywords": [
-        "session vulnerability",
-        "rce vulnerability"
+        "session vulnerability"
     ],
     "language": "Java",
     "repo_name": "CVE-2021-44228",
@@ -1087,114 +541,6 @@
     "repotime": "2021-12-12, 12:37:11",
     "stargazers_count": 67,
     "watchers_count": 67
-}
-{
-    "commits_count": 25,
-    "date_started": "2021-12-10",
-    "date_updated": "2021-12-12",
-    "description": "Minecraft exploit allowing remote code execution via Minecraft chat",
-    "forks_count": 6,
-    "html_url": "https://github.com/The-Gopro336-Archive/PSA-MINERCRAFT-RCE-EXPLOIT",
-    "keywords": [
-        "rce exploit",
-        "remote code execution exploitation",
-        "remote code execution exploit",
-        "rce exploitation"
-    ],
-    "language": null,
-    "repo_name": "PSA-MINERCRAFT-RCE-EXPLOIT",
-    "repo_owner": "The-Gopro336-Archive",
-    "repotime": "2021-12-12, 11:08:15",
-    "stargazers_count": 31,
-    "watchers_count": 31
-}
-{
-    "commits_count": 9,
-    "date_started": "2021-12-12",
-    "date_updated": "2021-12-12",
-    "description": "Apache Druid remote code execution vulnerability - Apache Druid 远程代码执行漏洞利用 CVE-2021-25646",
-    "forks_count": 2,
-    "html_url": "https://github.com/j2ekim/CVE-2021-25646",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2021-25646",
-    "repo_owner": "j2ekim",
-    "repotime": "2021-12-12, 22:55:26",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 4,
-    "date_started": "2021-12-12",
-    "date_updated": "2021-12-12",
-    "description": "On December 5, 2021, Apache identified a vulnerability (later identified as CVE-2021-44228) in their widely used Log4j logging service. The vulnerability, also known as Log4shell, enables attackers to gain full control of affected servers by allowing unauthenticated remote code execution if the user is running an application utilizing the Java logging library. Log4j is heavily integrated into a broad set of devops frameworks, enterprise IT systems, and vendor software and cloud products.",
-    "forks_count": 0,
-    "html_url": "https://github.com/sud0x00/log4j-CVE-2021-44228",
-    "keywords": [
-        "unauthenticated user",
-        "unauthenticated remote code execution",
-        "unauthenticated attacker"
-    ],
-    "language": null,
-    "repo_name": "log4j-CVE-2021-44228",
-    "repo_owner": "sud0x00",
-    "repotime": "2021-12-12, 19:38:08",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
-    "commits_count": 5,
-    "date_started": "2021-12-10",
-    "date_updated": "2021-12-12",
-    "description": "Deploys an agent to fix  CVE-2021-44228 (Log4j RCE vulnerability) in a running JVM process",
-    "forks_count": 13,
-    "html_url": "https://github.com/simonis/Log4jPatch",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Java",
-    "repo_name": "Log4jPatch",
-    "repo_owner": "simonis",
-    "repotime": "2021-12-12, 11:32:57",
-    "stargazers_count": 108,
-    "watchers_count": 108
-}
-{
-    "commits_count": 2,
-    "date_started": "2021-12-12",
-    "date_updated": "2021-12-12",
-    "description": "CVE-2021-44228(Apache Log4j Remote Code Execution）",
-    "forks_count": 0,
-    "html_url": "https://github.com/RK800-DEV/apache-log4j-poc",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": null,
-    "repo_name": "apache-log4j-poc",
-    "repo_owner": "RK800-DEV",
-    "repotime": "2021-12-12, 16:17:44",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 6,
-    "date_started": "2021-12-12",
-    "date_updated": "2021-12-12",
-    "description": "A bare minimum proof-of-concept for Log4j2 JNDI RCE vulnerability (CVE-2021-44228/Log4Shell).",
-    "forks_count": 2,
-    "html_url": "https://github.com/unlimitedsola/log4j2-rce-poc",
-    "keywords": [
-        "rce proof of concept",
-        "rce vulnerability"
-    ],
-    "language": "Kotlin",
-    "repo_name": "log4j2-rce-poc",
-    "repo_owner": "unlimitedsola",
-    "repotime": "2021-12-12, 17:59:16",
-    "stargazers_count": 3,
-    "watchers_count": 3
 }
 {
     "commits_count": 3,
@@ -1210,25 +556,8 @@
     "repo_name": "jdbc-sqlxml-xxe",
     "repo_owner": "SecCoder-Security-Lab",
     "repotime": "2021-12-12, 14:15:55",
-    "stargazers_count": 53,
-    "watchers_count": 53
-}
-{
-    "commits_count": 11,
-    "date_started": "2019-06-04",
-    "date_updated": "2021-12-12",
-    "description": "Demo code for post &amp;lt;Restrictions of JNDI Manipulation RCE &amp;amp; Bypass&amp;gt;",
-    "forks_count": 49,
-    "html_url": "https://github.com/kxcode/JNDI-Exploit-Bypass-Demo",
-    "keywords": [
-        "rce exploit"
-    ],
-    "language": "Java",
-    "repo_name": "JNDI-Exploit-Bypass-Demo",
-    "repo_owner": "kxcode",
-    "repotime": "2021-12-12, 11:29:21",
-    "stargazers_count": 243,
-    "watchers_count": 243
+    "stargazers_count": 52,
+    "watchers_count": 52
 }
 {
     "commits_count": 7,
@@ -1250,170 +579,29 @@
 {
     "commits_count": 3,
     "date_started": "2021-12-11",
-    "date_updated": "2021-12-12",
-    "description": "                  DIGITAL    MARKETING      BY SARA ATIQ                                  INTRODUCTION      “It is a marketing technique that involves usage of digital mediums such as internet &amp;amp; wireless for creating awareness, consideration, purchase &amp;amp; loyalty for a brand product or a service&amp;quot;. It is the term used to describe any marketing efforts that place on the internet or a digital device. It has different channels that enable the business to entice their customer into buying their product &amp;amp; services. Philip Kotler is considered the father of digital marketing who is the author of 60 marketing books and provides us important lessons that can be applied to our digital strategy. Before digital marketing, we have Traditional marketing, which is a conventional mode of marketing that helps to reach out to the semi-targeted audience with various offline advertising &amp;amp; promotion modes.                              CONSTITUENT OF DIGITAL MARKETING                     ...",
-    "forks_count": 0,
-    "html_url": "https://github.com/digisarah14/Digitalworld",
-    "keywords": [
-        "unauthenticated user"
-    ],
-    "language": null,
-    "repo_name": "Digitalworld",
-    "repo_owner": "digisarah14",
-    "repotime": "2021-12-12, 01:57:31",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 12,
-    "date_started": "2021-12-10",
-    "date_updated": "2021-12-11",
-    "description": "quick 1.12.2 forge fix for the log4j RCE exploit",
-    "forks_count": 2,
-    "html_url": "https://github.com/Gav06/RceFix",
-    "keywords": [
-        "rce exploitation"
-    ],
-    "language": "Java",
-    "repo_name": "RceFix",
-    "repo_owner": "Gav06",
-    "repotime": "2021-12-11, 09:10:55",
-    "stargazers_count": 17,
-    "watchers_count": 17
-}
-{
-    "commits_count": 4,
-    "date_started": "2021-12-10",
-    "date_updated": "2021-12-11",
-    "description": "CVE-2017-12617 is a critical vulnerability leading to Remote Code Execution (RCE) in Apache Tomcat.",
-    "forks_count": 0,
-    "html_url": "https://github.com/LongWayHomie/CVE-2017-12617",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2017-12617",
-    "repo_owner": "LongWayHomie",
-    "repotime": "2021-12-11, 15:07:14",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2021-12-11",
     "date_updated": "2021-12-11",
     "description": "Log4j-RCE (CVE-2021-44228) Proof of Concept",
     "forks_count": 1,
     "html_url": "https://github.com/WYSIIWYG/Log4J_0day_RCE",
     "keywords": [
-        "rce proof of concept",
         "0day proof of concept"
     ],
     "language": null,
     "repo_name": "Log4J_0day_RCE",
     "repo_owner": "WYSIIWYG",
     "repotime": "2021-12-11, 21:31:47",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 15,
-    "date_started": "2021-12-11",
-    "date_updated": "2021-12-11",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/julio-cfa/PoC-IPFire-2.19-OINKCODE-Remote-Code-Execution-EXPLOIT",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "PoC-IPFire-2.19-OINKCODE-Remote-Code-Execution-EXPLOIT",
-    "repo_owner": "julio-cfa",
-    "repotime": "2021-12-11, 10:11:10",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 7,
-    "date_started": "2021-12-10",
-    "date_updated": "2021-12-11",
-    "description": "log4j2 remote code execution or IP leakage exploit (with examples)",
-    "forks_count": 26,
-    "html_url": "https://github.com/ilsubyeega/log4j2-rce-exploit",
-    "keywords": [
-        "rce exploit",
-        "remote code execution exploitation",
-        "remote code execution exploit",
-        "rce exploitation"
-    ],
-    "language": "Java",
-    "repo_name": "log4j2-rce-exploit",
-    "repo_owner": "ilsubyeega",
-    "repotime": "2021-12-11, 12:20:01",
-    "stargazers_count": 69,
-    "watchers_count": 69
-}
-{
-    "commits_count": 5,
-    "date_started": "2021-12-10",
-    "date_updated": "2021-12-11",
-    "description": "一个针对防御 log4j2 CVE-2021-44228 漏洞的 RASP 工具。 A Runtime Application Self-Protection module specifically designed for log4j2 RCE (CVE-2021-44228) defense.",
-    "forks_count": 23,
-    "html_url": "https://github.com/boundaryx/cloudrasp-log4j2",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Java",
-    "repo_name": "cloudrasp-log4j2",
-    "repo_owner": "boundaryx",
-    "repotime": "2021-12-11, 10:49:32",
-    "stargazers_count": 119,
-    "watchers_count": 119
-}
-{
-    "commits_count": 9,
-    "date_started": "2021-11-23",
-    "date_updated": "2021-12-10",
-    "description": "Server side request forgery",
-    "forks_count": 0,
-    "html_url": "https://github.com/nrvmodi/ssrf",
-    "keywords": [
-        "server side request forgery"
-    ],
-    "language": "Java",
-    "repo_name": "ssrf",
-    "repo_owner": "nrvmodi",
-    "repotime": "2021-12-10, 19:52:00",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 2,
-    "date_started": "2021-12-10",
-    "date_updated": "2021-12-10",
-    "description": "<no description>",
-    "forks_count": 64,
-    "html_url": "https://github.com/xiajun325/apache-log4j-rce-poc",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": null,
-    "repo_name": "apache-log4j-rce-poc",
-    "repo_owner": "xiajun325",
-    "repotime": "2021-12-10, 14:14:02",
-    "stargazers_count": 58,
-    "watchers_count": 58
 }
 {
     "commits_count": 16,
     "date_started": "2017-02-13",
     "date_updated": "2021-12-09",
     "description": "This code is vulnerable to SQL Injection and having SQLite database. For SQLite database, SQL Injection payloads are different so it is for fun. Just enjoy it \\m/",
-    "forks_count": 38,
+    "forks_count": 33,
     "html_url": "https://github.com/incredibleindishell/sqlite-lab",
     "keywords": [
-        "code injection",
-        "sql injection"
+        "code injection"
     ],
     "language": "PHP",
     "repo_name": "sqlite-lab",
@@ -1423,23 +611,6 @@
     "watchers_count": 160
 }
 {
-    "commits_count": 29,
-    "date_started": "2014-07-21",
-    "date_updated": "2021-12-09",
-    "description": "Proof of Concepts, Exploits",
-    "forks_count": 27,
-    "html_url": "https://github.com/ajinabraham/PoC",
-    "keywords": [
-        "proof-of-concept"
-    ],
-    "language": "Python",
-    "repo_name": "PoC",
-    "repo_owner": "ajinabraham",
-    "repotime": "2021-12-09, 02:44:24",
-    "stargazers_count": 28,
-    "watchers_count": 28
-}
-{
     "commits_count": 2,
     "date_started": "2021-10-08",
     "date_updated": "2021-12-08",
@@ -1447,14 +618,7 @@
     "forks_count": 3,
     "html_url": "https://github.com/IcmpOff/Microsoft-RDP-Remote-Code-Execution-Exploit",
     "keywords": [
-        "Microsoft remote code execution vulnerability",
-        "Windows remote code execution",
-        "remote code execution exploit",
-        "Windows remote code execution exploit",
-        "remote code execution vulnerability",
-        "Microsoft remote code execution exploit",
-        "Microsoft remote code execution",
-        "Windows remote code execution vulnerability"
+        "Windows remote code execution"
     ],
     "language": "Python",
     "repo_name": "Microsoft-RDP-Remote-Code-Execution-Exploit",
@@ -1485,7 +649,7 @@
     "date_started": "2020-05-07",
     "date_updated": "2021-12-08",
     "description": "An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects",
-    "forks_count": 157,
+    "forks_count": 158,
     "html_url": "https://github.com/ksharinarayanan/SSRFire",
     "keywords": [
         "ssrf"
@@ -1494,25 +658,8 @@
     "repo_name": "SSRFire",
     "repo_owner": "ksharinarayanan",
     "repotime": "2021-12-08, 09:52:11",
-    "stargazers_count": 878,
-    "watchers_count": 878
-}
-{
-    "commits_count": 335,
-    "date_started": "2013-07-20",
-    "date_updated": "2021-12-08",
-    "description": "A responsive, mobile-first accordion UI module for progressive disclosure on the web.",
-    "forks_count": 25,
-    "html_url": "https://github.com/mobify/bellows",
-    "keywords": [
-        "disclosure"
-    ],
-    "language": "JavaScript",
-    "repo_name": "bellows",
-    "repo_owner": "mobify",
-    "repotime": "2021-12-08, 02:00:39",
-    "stargazers_count": 141,
-    "watchers_count": 141
+    "stargazers_count": 935,
+    "watchers_count": 935
 }
 {
     "commits_count": 9,
@@ -1528,23 +675,6 @@
     "repo_name": "Grafana-0day",
     "repo_owner": "test502git",
     "repotime": "2021-12-07, 19:39:04",
-    "stargazers_count": 8,
-    "watchers_count": 8
-}
-{
-    "commits_count": 18,
-    "date_started": "2019-12-11",
-    "date_updated": "2021-12-06",
-    "description": "A collection of templates for generating vulnerability disclosure policies.",
-    "forks_count": 4,
-    "html_url": "https://github.com/CERTCC/vulnerability_disclosure_policy_templates",
-    "keywords": [
-        "disclosure"
-    ],
-    "language": null,
-    "repo_name": "vulnerability_disclosure_policy_templates",
-    "repo_owner": "CERTCC",
-    "repotime": "2021-12-06, 20:18:54",
     "stargazers_count": 8,
     "watchers_count": 8
 }
@@ -1566,23 +696,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 0,
-    "date_started": "2016-07-30",
-    "date_updated": "2021-12-05",
-    "description": "Communication Skills     Have you ever attempted to convey the desired information?  Maybe you took a stab at pitching an earth shattering venture, you were tasked with running a departmental meeting, or you expected to convey a convincing presentation. You did as well as can possibly be expected, however all you got were vague looks and ungainly quiets.  Odds are, there wasn't much amiss with what you were attempting to say; it's simply that you expected to chip away at how you said it.  The best communicators rouse and spur individuals, help them to make successful move, and expel obstructions to their comprehension. Lamentably, numerous businessmen think that its difficult to impart viably — we've all gotten tremendous, language ridden messages, and we've encountered the misconception, dissatisfaction and missed open doors that accompany them.  Be that as it may, with the right aptitudes, anybody can turn into an outstanding communicator Add to My Personal Learning Plan. Perused on,...",
-    "forks_count": 0,
-    "html_url": "https://github.com/ankit9571/Communication-Skills",
-    "keywords": [
-        "Win use after free"
-    ],
-    "language": null,
-    "repo_name": "Communication-Skills",
-    "repo_owner": "ankit9571",
-    "repotime": "2021-12-05, 15:02:55",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 1,
     "date_started": "2021-12-05",
     "date_updated": "2021-12-05",
@@ -1596,8 +709,8 @@
     "repo_name": "NimNightmare",
     "repo_owner": "eversinc33",
     "repotime": "2021-12-05, 15:48:40",
-    "stargazers_count": 20,
-    "watchers_count": 20
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 31,
@@ -1607,8 +720,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/punyaslokdutta/Reverse-Shell-scripts",
     "keywords": [
-        "session vulnerability",
-        "session attack"
+        "session vulnerability"
     ],
     "language": "Python",
     "repo_name": "Reverse-Shell-scripts",
@@ -1650,40 +762,6 @@
     "repotime": "2021-12-03, 10:18:49",
     "stargazers_count": 4,
     "watchers_count": 4
-}
-{
-    "commits_count": 691,
-    "date_started": "2019-08-23",
-    "date_updated": "2021-12-03",
-    "description": "A web app to track campaign finances for the General Election (November 3, 2020) in San Jose &amp;amp; South Bay California",
-    "forks_count": 14,
-    "html_url": "https://github.com/codeforsanjose/open-disclosure",
-    "keywords": [
-        "disclosure"
-    ],
-    "language": "JavaScript",
-    "repo_name": "open-disclosure",
-    "repo_owner": "codeforsanjose",
-    "repotime": "2021-12-03, 00:11:50",
-    "stargazers_count": 11,
-    "watchers_count": 11
-}
-{
-    "commits_count": 7,
-    "date_started": "2020-10-11",
-    "date_updated": "2021-12-02",
-    "description": "Local File Inclusion Processwire CMS &amp;lt; 2.7.1",
-    "forks_count": 0,
-    "html_url": "https://github.com/Y1LD1R1M-1337/LFI-ProcessWire",
-    "keywords": [
-        "local file inclusion"
-    ],
-    "language": null,
-    "repo_name": "LFI-ProcessWire",
-    "repo_owner": "Y1LD1R1M-1337",
-    "repotime": "2021-12-02, 15:38:26",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 2,

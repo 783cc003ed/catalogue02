@@ -3,20 +3,17 @@
     "date_started": "2018-11-30",
     "date_updated": "2018-11-30",
     "description": "‪APT,‬ ‪Cyber warfare,‬ ‪Penetration testing,‬ ‪Zero-day,Exploiting,‬ ‪Spyware,Malwares evade anti-virus detection,‬ ‪Rookit CYPTER,‬ ‪Antiviruses Bypassing-av,‬ ‪WORMS,Sandbox-Escape,‬ ‪Memory-injection,‬ ‪Ethical,Gray,White,RedTeam‬...",
-    "forks_count": 252,
+    "forks_count": 251,
     "html_url": "https://github.com/jwx0539/hackingLibrary",
     "keywords": [
-        "zero-day exploitation",
-        "sandbox escape exploitation",
-        "sandbox escape exploit",
         "zero-day exploit"
     ],
     "language": null,
     "repo_name": "hackingLibrary",
     "repo_owner": "jwx0539",
     "repotime": "2018-11-30, 10:14:36",
-    "stargazers_count": 215,
-    "watchers_count": 215
+    "stargazers_count": 249,
+    "watchers_count": 249
 }
 {
     "commits_count": 2,
@@ -26,8 +23,6 @@
     "forks_count": 2,
     "html_url": "https://github.com/aeroot/WP-GDPR-Compliance-Plugin-Exploit",
     "keywords": [
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability",
         "escalation of privileges exploit"
     ],
     "language": "Python",
@@ -38,23 +33,6 @@
     "watchers_count": 3
 }
 {
-    "commits_count": 8,
-    "date_started": "2018-11-25",
-    "date_updated": "2018-11-26",
-    "description": "CVE-2018-19537",
-    "forks_count": 5,
-    "html_url": "https://github.com/JackDoan/TP-Link-ArcherC5-RCE",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "TP-Link-ArcherC5-RCE",
-    "repo_owner": "JackDoan",
-    "repotime": "2018-11-26, 16:39:07",
-    "stargazers_count": 18,
-    "watchers_count": 18
-}
-{
     "commits_count": 22,
     "date_started": "2018-11-26",
     "date_updated": "2018-11-26",
@@ -62,9 +40,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/PavelICS/lpe-tasks_scheduler_alpc",
     "keywords": [
-        "Windows lpe poc",
-        "lpe poc",
-        "Windows lpe"
+        "lpe poc"
     ],
     "language": "C",
     "repo_name": "lpe-tasks_scheduler_alpc",
@@ -78,7 +54,7 @@
     "date_started": "2018-11-14",
     "date_updated": "2018-11-26",
     "description": "Bypassing disabled exec functions in PHP (c) CRLF",
-    "forks_count": 74,
+    "forks_count": 66,
     "html_url": "https://github.com/Bo0oM/PHP_imap_open_exploit",
     "keywords": [
         "0day exploit"
@@ -115,8 +91,7 @@
     "forks_count": 1,
     "html_url": "https://github.com/DoubleMice/cve-2017-11176",
     "keywords": [
-        "lpe exploit",
-        "lpe exploitation"
+        "lpe exploit"
     ],
     "language": "C",
     "repo_name": "cve-2017-11176",
@@ -201,8 +176,7 @@
     "forks_count": 3,
     "html_url": "https://github.com/in0finite/ALPC",
     "keywords": [
-        "lpe exploit",
-        "lpe exploitation"
+        "lpe exploit"
     ],
     "language": "C",
     "repo_name": "ALPC",
@@ -216,7 +190,7 @@
     "date_started": "2015-03-27",
     "date_updated": "2018-11-14",
     "description": "fimap is a little python tool which can find, prepare, audit, exploit and even google automatically for local and remote file inclusion bugs in webapps.",
-    "forks_count": 104,
+    "forks_count": 99,
     "html_url": "https://github.com/kurobeats/fimap",
     "keywords": [
         "local file inclusion"
@@ -225,8 +199,8 @@
     "repo_name": "fimap",
     "repo_owner": "kurobeats",
     "repotime": "2018-11-14, 20:27:58",
-    "stargazers_count": 457,
-    "watchers_count": 457
+    "stargazers_count": 511,
+    "watchers_count": 511
 }
 {
     "commits_count": 5,
@@ -236,18 +210,14 @@
     "forks_count": 6,
     "html_url": "https://github.com/ethereumbandit/winrar-SFX-0day-exploiter",
     "keywords": [
-        "0day exploit",
-        "0day exploitation",
-        "Win 0day exploitation",
-        "Win 0day",
-        "Win 0day exploit"
+        "Win 0day"
     ],
     "language": "Python",
     "repo_name": "winrar-SFX-0day-exploiter",
     "repo_owner": "ethereumbandit",
     "repotime": "2018-11-13, 12:19:53",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 28,
@@ -263,8 +233,8 @@
     "repo_name": "blanket",
     "repo_owner": "bazad",
     "repotime": "2018-11-12, 16:25:17",
-    "stargazers_count": 243,
-    "watchers_count": 243
+    "stargazers_count": 244,
+    "watchers_count": 244
 }
 {
     "commits_count": 6,
@@ -318,40 +288,6 @@
     "watchers_count": 3
 }
 {
-    "commits_count": 6,
-    "date_started": "2018-06-28",
-    "date_updated": "2018-11-11",
-    "description": "Docker image to test XXE attacks in java with tomcat.",
-    "forks_count": 1,
-    "html_url": "https://github.com/pimps/docker-java-xxe",
-    "keywords": [
-        "xxe"
-    ],
-    "language": "Smarty",
-    "repo_name": "docker-java-xxe",
-    "repo_owner": "pimps",
-    "repotime": "2018-11-11, 00:30:37",
-    "stargazers_count": 5,
-    "watchers_count": 5
-}
-{
-    "commits_count": 1,
-    "date_started": "2018-11-09",
-    "date_updated": "2018-11-09",
-    "description": "CMS Made Simple 2.2.7 RCE exploit",
-    "forks_count": 5,
-    "html_url": "https://github.com/0x00-0x00/CVE-2018-10517",
-    "keywords": [
-        "rce exploitation"
-    ],
-    "language": "PowerShell",
-    "repo_name": "CVE-2018-10517",
-    "repo_owner": "0x00-0x00",
-    "repotime": "2018-11-09, 13:09:10",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
     "commits_count": 3,
     "date_started": "2018-11-09",
     "date_updated": "2018-11-09",
@@ -365,8 +301,8 @@
     "repo_name": "CVE-2018-12613",
     "repo_owner": "0x00-0x00",
     "repotime": "2018-11-09, 11:42:18",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 2,
@@ -382,8 +318,8 @@
     "repo_name": "login-screen",
     "repo_owner": "dulanaDias",
     "repotime": "2018-11-09, 17:09:31",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 5,
@@ -391,13 +327,13 @@
     "date_updated": "2018-11-08",
     "description": "Injection Stopwatch to IL Code",
     "forks_count": 4,
-    "html_url": "https://github.com/MinotaurosD/InjectionStopwatchCode",
+    "html_url": "https://github.com/MinosDora/InjectionStopwatchCode",
     "keywords": [
         "code injection"
     ],
     "language": "C#",
     "repo_name": "InjectionStopwatchCode",
-    "repo_owner": "MinotaurosD",
+    "repo_owner": "MinosDora",
     "repotime": "2018-11-08, 15:42:36",
     "stargazers_count": 11,
     "watchers_count": 11
@@ -420,41 +356,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 2,
-    "date_started": "2018-11-06",
-    "date_updated": "2018-11-06",
-    "description": "Exploit for PlaySMS 1.4 authenticated RCE",
-    "forks_count": 4,
-    "html_url": "https://github.com/jasperla/CVE-2017-9101",
-    "keywords": [
-        "rce exploitation",
-        "rce exploit"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2017-9101",
-    "repo_owner": "jasperla",
-    "repotime": "2018-11-06, 20:45:33",
-    "stargazers_count": 14,
-    "watchers_count": 14
-}
-{
-    "commits_count": 6,
-    "date_started": "2018-11-06",
-    "date_updated": "2018-11-06",
-    "description": "an RCE (remote command execution) approach of CVE-2018-7750",
-    "forks_count": 8,
-    "html_url": "https://github.com/jm33-m0/CVE-2018-7750",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2018-7750",
-    "repo_owner": "jm33-m0",
-    "repotime": "2018-11-06, 18:10:26",
-    "stargazers_count": 20,
-    "watchers_count": 20
-}
-{
     "commits_count": 36,
     "date_started": "2018-09-12",
     "date_updated": "2018-11-04",
@@ -462,15 +363,14 @@
     "forks_count": 12,
     "html_url": "https://github.com/aryanrtm/Crascan",
     "keywords": [
-        "lfi",
-        "rce vulnerability"
+        "lfi"
     ],
     "language": "Shell",
     "repo_name": "Crascan",
     "repo_owner": "aryanrtm",
     "repotime": "2018-11-04, 17:03:12",
-    "stargazers_count": 29,
-    "watchers_count": 29
+    "stargazers_count": 30,
+    "watchers_count": 30
 }
 {
     "commits_count": 6,
@@ -497,15 +397,14 @@
     "forks_count": 2,
     "html_url": "https://github.com/sry309/Hadoop0day",
     "keywords": [
-        "0day exploit",
-        "0day exploitation"
+        "0day exploit"
     ],
     "language": "Python",
     "repo_name": "Hadoop0day",
     "repo_owner": "sry309",
     "repotime": "2018-11-02, 20:08:49",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 12,

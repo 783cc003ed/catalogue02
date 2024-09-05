@@ -29,8 +29,8 @@
     "repo_name": "nycto-dork",
     "repo_owner": "nycto-hackerone",
     "repotime": "2018-04-29, 22:49:17",
-    "stargazers_count": 28,
-    "watchers_count": 28
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 10,
@@ -57,33 +57,14 @@
     "forks_count": 4,
     "html_url": "https://github.com/SaneuForward/huawei",
     "keywords": [
-        "0day exploit",
-        "0day exploitation"
+        "0day exploit"
     ],
     "language": "Python",
     "repo_name": "huawei",
     "repo_owner": "SaneuForward",
     "repotime": "2018-04-27, 00:45:42",
-    "stargazers_count": 7,
-    "watchers_count": 7
-}
-{
-    "commits_count": 17,
-    "date_started": "2018-04-24",
-    "date_updated": "2018-04-25",
-    "description": "CVE-2018-6574 POC : golang 'go get' remote command execution during source code build",
-    "forks_count": 13,
-    "html_url": "https://github.com/neargle/Go-Get-RCE-CVE-2018-6574-POC",
-    "keywords": [
-        "rce poc",
-        "remote code execution poc"
-    ],
-    "language": "C",
-    "repo_name": "Go-Get-RCE-CVE-2018-6574-POC",
-    "repo_owner": "neargle",
-    "repotime": "2018-04-25, 00:32:22",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 9,
@@ -124,7 +105,7 @@
     "date_started": "2015-03-07",
     "date_updated": "2018-04-20",
     "description": "PowerForensics provides an all in one platform for live disk forensic analysis",
-    "forks_count": 289,
+    "forks_count": 275,
     "html_url": "https://github.com/Invoke-IR/PowerForensics",
     "keywords": [
         "by_owner"
@@ -133,15 +114,15 @@
     "repo_name": "PowerForensics",
     "repo_owner": "Invoke-IR",
     "repotime": "2018-04-20, 03:34:59",
-    "stargazers_count": 1333,
-    "watchers_count": 1333
+    "stargazers_count": 1382,
+    "watchers_count": 1382
 }
 {
     "commits_count": 1,
     "date_started": "2018-04-19",
     "date_updated": "2018-04-19",
     "description": "macOS 10.13.3 (17D47) Safari Wasm Exploit ",
-    "forks_count": 35,
+    "forks_count": 28,
     "html_url": "https://github.com/FSecureLABS/CVE-2018-4121",
     "keywords": [
         "by_owner"
@@ -150,15 +131,15 @@
     "repo_name": "CVE-2018-4121",
     "repo_owner": "FSecureLABS",
     "repotime": "2018-04-19, 12:15:13",
-    "stargazers_count": 120,
-    "watchers_count": 120
+    "stargazers_count": 119,
+    "watchers_count": 119
 }
 {
     "commits_count": 79,
     "date_started": "2012-07-24",
     "date_updated": "2018-04-17",
     "description": "An automatic XSS discovery tool",
-    "forks_count": 124,
+    "forks_count": 116,
     "html_url": "https://github.com/gbrindisi/xsssniper",
     "keywords": [
         "xss"
@@ -167,8 +148,8 @@
     "repo_name": "xsssniper",
     "repo_owner": "gbrindisi",
     "repotime": "2018-04-17, 10:12:36",
-    "stargazers_count": 394,
-    "watchers_count": 394
+    "stargazers_count": 400,
+    "watchers_count": 400
 }
 {
     "commits_count": 3,
@@ -201,8 +182,8 @@
     "repo_name": "magento2-marketplace-social-login",
     "repo_owner": "dfraser74",
     "repotime": "2018-04-16, 09:29:34",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 5,
@@ -218,44 +199,8 @@
     "repo_name": "LFI-scanner",
     "repo_owner": "clicknull",
     "repotime": "2018-04-13, 17:27:16",
-    "stargazers_count": 5,
-    "watchers_count": 5
-}
-{
-    "commits_count": 2,
-    "date_started": "2018-04-13",
-    "date_updated": "2018-04-13",
-    "description": "几个UAC Bypass的方法",
-    "forks_count": 9,
-    "html_url": "https://github.com/kuonzZ/UAC-Bypass",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "C++",
-    "repo_name": "UAC-Bypass",
-    "repo_owner": "kuonzZ",
-    "repotime": "2018-04-13, 17:35:10",
-    "stargazers_count": 13,
-    "watchers_count": 13
-}
-{
-    "commits_count": 2,
-    "date_started": "2018-04-13",
-    "date_updated": "2018-04-13",
-    "description": "Demonstration on session hijacking vulnerability",
-    "forks_count": 2,
-    "html_url": "https://github.com/AndrejPHP/session-hijacking",
-    "keywords": [
-        "session vulnerability",
-        "session hijacking vulnerability",
-        "session hijacking"
-    ],
-    "language": "PHP",
-    "repo_name": "session-hijacking",
-    "repo_owner": "AndrejPHP",
-    "repotime": "2018-04-13, 04:45:26",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 10,
@@ -275,28 +220,11 @@
     "watchers_count": 4
 }
 {
-    "commits_count": 4,
-    "date_started": "2018-04-09",
-    "date_updated": "2018-04-10",
-    "description": "Android Blueborne vuln. to remote code execution with android 6.0.1 offsets",
-    "forks_count": 0,
-    "html_url": "https://github.com/helloitu/blueborne-poc-android6",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "blueborne-poc-android6",
-    "repo_owner": "helloitu",
-    "repotime": "2018-04-10, 02:11:55",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 85,
     "date_started": "2017-06-09",
     "date_updated": "2018-04-08",
     "description": "Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner ",
-    "forks_count": 404,
+    "forks_count": 387,
     "html_url": "https://github.com/D35m0nd142/LFISuite",
     "keywords": [
         "lfi"
@@ -305,8 +233,8 @@
     "repo_name": "LFISuite",
     "repo_owner": "D35m0nd142",
     "repotime": "2018-04-08, 12:30:09",
-    "stargazers_count": 1570,
-    "watchers_count": 1570
+    "stargazers_count": 1659,
+    "watchers_count": 1659
 }
 {
     "commits_count": 21,
@@ -322,15 +250,15 @@
     "repo_name": "UAC-Bypass-Exploit",
     "repo_owner": "websecnl",
     "repotime": "2018-04-06, 14:57:15",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 10,
     "date_started": "2017-05-31",
     "date_updated": "2018-04-05",
     "description": "A script to randomize Cobalt Strike Malleable C2 profiles and reduce the chances of flagging signature-based detection controls",
-    "forks_count": 99,
+    "forks_count": 85,
     "html_url": "https://github.com/bluscreenofjeff/Malleable-C2-Randomizer",
     "keywords": [
         "by_owner"
@@ -339,8 +267,8 @@
     "repo_name": "Malleable-C2-Randomizer",
     "repo_owner": "bluscreenofjeff",
     "repotime": "2018-04-05, 18:56:25",
-    "stargazers_count": 420,
-    "watchers_count": 420
+    "stargazers_count": 427,
+    "watchers_count": 427
 }
 {
     "commits_count": 7,
@@ -350,9 +278,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/rrayaprolu/sessionhijacking",
     "keywords": [
-        "session hijacking attack",
-        "session attack",
-        "session hijacking"
+        "session attack"
     ],
     "language": "HTML",
     "repo_name": "sessionhijacking",
@@ -360,22 +286,4 @@
     "repotime": "2018-04-02, 11:26:41",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 7,
-    "date_started": "2017-11-07",
-    "date_updated": "2018-04-01",
-    "description": "Remote Code Execution exploiter",
-    "forks_count": 6,
-    "html_url": "https://github.com/websecnl/RCE_Universal_Exploiter",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "RCE_Universal_Exploiter",
-    "repo_owner": "websecnl",
-    "repotime": "2018-04-01, 12:14:55",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }

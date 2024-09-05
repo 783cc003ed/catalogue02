@@ -1,90 +1,4 @@
 {
-    "commits_count": 4,
-    "date_started": "2023-07-31",
-    "date_updated": "2023-07-31",
-    "description": "Research project: make some elaborate anti-cheat to detect: memory editing, debugging, certificates (and spoofing), injected modules, etc ",
-    "forks_count": 2,
-    "html_url": "https://github.com/XZNX5/Basic_Anti-Cheat",
-    "keywords": [
-        "spoofing certificate"
-    ],
-    "language": "C++",
-    "repo_name": "Basic_Anti-Cheat",
-    "repo_owner": "XZNX5",
-    "repotime": "2023-07-31, 20:59:42",
-    "stargazers_count": 9,
-    "watchers_count": 9
-}
-{
-    "commits_count": 10,
-    "date_started": "2023-07-31",
-    "date_updated": "2023-07-31",
-    "description": "Office 365 Excel URI scheme RCE",
-    "forks_count": 1,
-    "html_url": "https://github.com/sahar042/Microsoft_URI_SCHEME_RCE",
-    "keywords": [
-        "Microsoft rce"
-    ],
-    "language": "HTML",
-    "repo_name": "Microsoft_URI_SCHEME_RCE",
-    "repo_owner": "sahar042",
-    "repotime": "2023-07-31, 10:37:15",
-    "stargazers_count": 6,
-    "watchers_count": 6
-}
-{
-    "commits_count": 484,
-    "date_started": "2022-01-08",
-    "date_updated": "2023-07-31",
-    "description": "a burp extension creates dynamic payloads to reveal injection flaws(LFI, RCE, SQLi), generates user access tables to spot authentication/authorization issues, and copys Http requests as JavaScript code.",
-    "forks_count": 65,
-    "html_url": "https://github.com/volkandindar/agartha",
-    "keywords": [
-        "lfi",
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "agartha",
-    "repo_owner": "volkandindar",
-    "repotime": "2023-07-31, 09:30:06",
-    "stargazers_count": 307,
-    "watchers_count": 307
-}
-{
-    "commits_count": 58,
-    "date_started": "2020-04-25",
-    "date_updated": "2023-07-30",
-    "description": "SQL Injection / SQL инъекциа - Hacking and bypass",
-    "forks_count": 18,
-    "html_url": "https://github.com/KhetaguriDimitri/SQL-Injection",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": null,
-    "repo_name": "SQL-Injection",
-    "repo_owner": "KhetaguriDimitri",
-    "repotime": "2023-07-30, 20:47:24",
-    "stargazers_count": 51,
-    "watchers_count": 51
-}
-{
-    "commits_count": 7,
-    "date_started": "2023-07-30",
-    "date_updated": "2023-07-30",
-    "description": "Unauthenticated RCE exploit for CSE Online Book Store 1.0",
-    "forks_count": 0,
-    "html_url": "https://github.com/0xTas/CSE-Online-Book-Store-1.0-Unauthenticated-RCE",
-    "keywords": [
-        "unauthenticated rce"
-    ],
-    "language": "Rust",
-    "repo_name": "CSE-Online-Book-Store-1.0-Unauthenticated-RCE",
-    "repo_owner": "0xTas",
-    "repotime": "2023-07-30, 03:05:14",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 2,
     "date_started": "2023-07-30",
     "date_updated": "2023-07-30",
@@ -132,8 +46,8 @@
     "repo_name": "CVE-2018-5955",
     "repo_owner": "MikeTheHash",
     "repotime": "2023-07-29, 20:15:49",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 12,
@@ -149,8 +63,8 @@
     "repo_name": "CVE-2023-27163",
     "repo_owner": "entr0pie",
     "repotime": "2023-07-29, 15:48:19",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 28,
+    "watchers_count": 28
 }
 {
     "commits_count": 3,
@@ -174,7 +88,7 @@
     "date_started": "2013-10-21",
     "date_updated": "2023-07-28",
     "description": "Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns",
-    "forks_count": 440,
+    "forks_count": 406,
     "html_url": "https://github.com/v3n0m-Scanner/V3n0M-Scanner",
     "keywords": [
         "lfi"
@@ -183,15 +97,15 @@
     "repo_name": "V3n0M-Scanner",
     "repo_owner": "v3n0m-Scanner",
     "repotime": "2023-07-28, 15:05:27",
-    "stargazers_count": 1384,
-    "watchers_count": 1384
+    "stargazers_count": 1448,
+    "watchers_count": 1448
 }
 {
     "commits_count": 3,
     "date_started": "2023-07-28",
     "date_updated": "2023-07-28",
     "description": "Kirby &amp;lt; 3.9.6 XML External Entity exploit",
-    "forks_count": 0,
+    "forks_count": 2,
     "html_url": "https://github.com/Acceis/exploit-CVE-2023-38490",
     "keywords": [
         "xml external entity"
@@ -242,7 +156,7 @@
     "date_started": "2020-12-02",
     "date_updated": "2023-07-27",
     "description": "SQL Injection Vulnerability Scanner made with Python",
-    "forks_count": 61,
+    "forks_count": 69,
     "html_url": "https://github.com/americo/sqlifinder",
     "keywords": [
         "sql injection"
@@ -251,96 +165,8 @@
     "repo_name": "sqlifinder",
     "repo_owner": "americo",
     "repotime": "2023-07-27, 17:22:47",
-    "stargazers_count": 259,
-    "watchers_count": 259
-}
-{
-    "commits_count": 1,
-    "date_started": "2023-07-27",
-    "date_updated": "2023-07-27",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/Tagoletta/Movie-Rating-System-1.0-SQLi-to-RCE-Unauthenticated",
-    "keywords": [
-        "unauthenticated rce"
-    ],
-    "language": "Python",
-    "repo_name": "Movie-Rating-System-1.0-SQLi-to-RCE-Unauthenticated",
-    "repo_owner": "Tagoletta",
-    "repotime": "2023-07-27, 03:34:45",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 1,
-    "date_started": "2023-07-27",
-    "date_updated": "2023-07-27",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/Tagoletta/Traffic-Offense-Management-System-1.0-Remote-Code-Execution-RCE-Unauthenticated",
-    "keywords": [
-        "unauthenticated remote code execution",
-        "unauthenticated rce"
-    ],
-    "language": "Python",
-    "repo_name": "Traffic-Offense-Management-System-1.0-Remote-Code-Execution-RCE-Unauthenticated",
-    "repo_owner": "Tagoletta",
-    "repotime": "2023-07-27, 03:33:17",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 1,
-    "date_started": "2023-07-27",
-    "date_updated": "2023-07-27",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/Tagoletta/Simple-Image-Gallery-1.0-Remote-Code-Execution-RCE-Unauthenticated",
-    "keywords": [
-        "unauthenticated remote code execution",
-        "unauthenticated rce"
-    ],
-    "language": "Python",
-    "repo_name": "Simple-Image-Gallery-1.0-Remote-Code-Execution-RCE-Unauthenticated",
-    "repo_owner": "Tagoletta",
-    "repotime": "2023-07-27, 03:32:43",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 1,
-    "date_started": "2023-07-27",
-    "date_updated": "2023-07-27",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/Tagoletta/Responsive-Tourism-Website-3.1-Remote-Code-Execution-RCE-Unauthenticated",
-    "keywords": [
-        "unauthenticated remote code execution",
-        "unauthenticated rce"
-    ],
-    "language": "Python",
-    "repo_name": "Responsive-Tourism-Website-3.1-Remote-Code-Execution-RCE-Unauthenticated",
-    "repo_owner": "Tagoletta",
-    "repotime": "2023-07-27, 03:32:08",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 1,
-    "date_started": "2023-07-27",
-    "date_updated": "2023-07-27",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/Tagoletta/Online-Shopping-Portal-3.1-Remote-Code-Execution-Unauthenticated",
-    "keywords": [
-        "unauthenticated remote code execution"
-    ],
-    "language": "Python",
-    "repo_name": "Online-Shopping-Portal-3.1-Remote-Code-Execution-Unauthenticated",
-    "repo_owner": "Tagoletta",
-    "repotime": "2023-07-27, 03:31:06",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 326,
+    "watchers_count": 326
 }
 {
     "commits_count": 4,
@@ -350,15 +176,14 @@
     "forks_count": 0,
     "html_url": "https://github.com/mylesgamez/Python-Website-Vulnerability-Scanner",
     "keywords": [
-        "directory traversal vulnerability",
         "session vulnerability"
     ],
     "language": "Python",
     "repo_name": "Python-Website-Vulnerability-Scanner",
     "repo_owner": "mylesgamez",
     "repotime": "2023-07-24, 15:41:23",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 6,
@@ -374,44 +199,25 @@
     "repo_name": "CVE-2023-32315",
     "repo_owner": "ThatNotEasy",
     "repotime": "2023-07-25, 06:21:14",
-    "stargazers_count": 8,
-    "watchers_count": 8
-}
-{
-    "commits_count": 34,
-    "date_started": "2019-06-08",
-    "date_updated": "2023-07-24",
-    "description": "Local file inclusion exploitation tool",
-    "forks_count": 96,
-    "html_url": "https://github.com/mzfr/liffy",
-    "keywords": [
-        "lfi",
-        "local file inclusion"
-    ],
-    "language": "Python",
-    "repo_name": "liffy",
-    "repo_owner": "mzfr",
-    "repotime": "2023-07-24, 15:25:11",
-    "stargazers_count": 697,
-    "watchers_count": 697
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 7,
     "date_started": "2023-05-10",
     "date_updated": "2023-07-22",
     "description": "A PoC exploit for CVE-2008-5862 - Directory traversal vulnerability in webcamXP 5.3.2.375 and 5.3.2.410",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/K3ysTr0K3R/CVE-2008-5862-EXPLOIT",
     "keywords": [
-        "directory traversal attack",
         "directory traversal vulnerability"
     ],
     "language": "Shell",
     "repo_name": "CVE-2008-5862-EXPLOIT",
     "repo_owner": "K3ysTr0K3R",
     "repotime": "2023-07-22, 15:55:03",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 8,
@@ -421,15 +227,14 @@
     "forks_count": 2,
     "html_url": "https://github.com/K3ysTr0K3R/CVE-2010-4231-EXPLOIT",
     "keywords": [
-        "directory traversal attack",
         "directory traversal vulnerability"
     ],
     "language": "Shell",
     "repo_name": "CVE-2010-4231-EXPLOIT",
     "repo_owner": "K3ysTr0K3R",
     "repotime": "2023-07-22, 15:51:23",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 118,
@@ -447,23 +252,6 @@
     "repotime": "2023-07-22, 17:33:15",
     "stargazers_count": 5,
     "watchers_count": 5
-}
-{
-    "commits_count": 5,
-    "date_started": "2023-07-19",
-    "date_updated": "2023-07-21",
-    "description": "Tools for exploiting generic directory traversals, and specific to Avid as well",
-    "forks_count": 0,
-    "html_url": "https://github.com/SanderShark/avid_vulnerability",
-    "keywords": [
-        "directory traversal vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "avid_vulnerability",
-    "repo_owner": "SanderShark",
-    "repotime": "2023-07-21, 23:40:07",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 2,
@@ -505,34 +293,16 @@
     "date_updated": "2023-07-20",
     "description": "Secure Blog System - The aim of this project is to create a secure web-based blog system that mitigates the five most common security vulnerabilities: account enumeration, session hijacking, SQL injection, cross-site scripting, and cross-site request forgery. This project will utilize Node.js and related technologies.",
     "forks_count": 0,
-    "html_url": "https://github.com/AgneBielia/secure_blog",
+    "html_url": "https://github.com/AgneBielia/Secure-Blog-Project",
     "keywords": [
-        "session vulnerability",
-        "session hijacking vulnerability"
+        "session vulnerability"
     ],
     "language": "JavaScript",
-    "repo_name": "secure_blog",
+    "repo_name": "Secure-Blog-Project",
     "repo_owner": "AgneBielia",
     "repotime": "2023-07-20, 15:49:37",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2023-07-19",
-    "date_updated": "2023-07-19",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/marskzj/QVD-2023-13615_TPlus-remote-code-execution-vulnerability",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": "Go",
-    "repo_name": "QVD-2023-13615_TPlus-remote-code-execution-vulnerability",
-    "repo_owner": "marskzj",
-    "repotime": "2023-07-19, 11:30:43",
-    "stargazers_count": 2,
-    "watchers_count": 2
 }
 {
     "commits_count": 3,
@@ -552,41 +322,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 13,
-    "date_started": "2022-05-03",
-    "date_updated": "2023-07-18",
-    "description": "Lesson plan with demo application detailing exploitation of server-side template injection to achieve remote-code execution",
-    "forks_count": 0,
-    "html_url": "https://github.com/limsammy/flask-rce-ssti-poc-lesson",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "HTML",
-    "repo_name": "flask-rce-ssti-poc-lesson",
-    "repo_owner": "limsammy",
-    "repotime": "2023-07-18, 17:30:30",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 9,
-    "date_started": "2020-04-22",
-    "date_updated": "2023-07-19",
-    "description": "Umbraco CMS 7.12.4 - (Authenticated) Remote Code Execution",
-    "forks_count": 2,
-    "html_url": "https://github.com/Jonoans/Umbraco-RCE",
-    "keywords": [
-        "remote code execution poc",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "Umbraco-RCE",
-    "repo_owner": "Jonoans",
-    "repotime": "2023-07-19, 02:11:58",
-    "stargazers_count": 6,
-    "watchers_count": 6
-}
-{
     "commits_count": 1,
     "date_started": "2023-07-18",
     "date_updated": "2023-07-19",
@@ -594,9 +329,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/PunGrumpy/zero-day-exploit-hands-on",
     "keywords": [
-        "zero-day exploitation",
-        "zero-day exploit",
-        "zero-day vulnerability"
+        "zero-day exploit"
     ],
     "language": null,
     "repo_name": "zero-day-exploit-hands-on",
@@ -619,26 +352,8 @@
     "repo_name": "DirTravScan",
     "repo_owner": "THMethical",
     "repotime": "2023-07-16, 01:03:03",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 1761,
-    "date_started": "2019-07-24",
-    "date_updated": "2023-07-15",
-    "description": "渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms",
-    "forks_count": 1858,
-    "html_url": "https://github.com/Mr-xn/Penetration_Testing_POC",
-    "keywords": [
-        "rce poc",
-        "rce exploit"
-    ],
-    "language": "PowerShell",
-    "repo_name": "Penetration_Testing_POC",
-    "repo_owner": "Mr-xn",
-    "repotime": "2023-07-15, 04:09:14",
-    "stargazers_count": 5809,
-    "watchers_count": 5809
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 22,
@@ -654,102 +369,8 @@
     "repo_name": "Mass-CVE-2023-28121",
     "repo_owner": "im-hanzou",
     "repotime": "2023-07-15, 04:47:59",
-    "stargazers_count": 11,
-    "watchers_count": 11
-}
-{
-    "commits_count": 13,
-    "date_started": "2023-05-06",
-    "date_updated": "2023-07-14",
-    "description": "Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution.",
-    "forks_count": 0,
-    "html_url": "https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT",
-    "keywords": [
-        "directory traversal vulnerability",
-        "directory traversal attack"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2021-41773-EXPLOIT",
-    "repo_owner": "K3ysTr0K3R",
-    "repotime": "2023-07-14, 06:57:15",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 46,
-    "date_started": "2020-07-11",
-    "date_updated": "2023-07-14",
-    "description": "Inject python code into a running python process",
-    "forks_count": 10,
-    "html_url": "https://github.com/kmaork/hypno",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Python",
-    "repo_name": "hypno",
-    "repo_owner": "kmaork",
-    "repotime": "2023-07-14, 14:02:32",
-    "stargazers_count": 65,
-    "watchers_count": 65
-}
-{
-    "commits_count": 3,
-    "date_started": "2023-07-05",
-    "date_updated": "2023-07-12",
-    "description": "Music Library is a versatile song review application that enables users to explore a vast collection of songs, create personalized playlists, share playlists with others, and provide reviews for both individual songs and playlists. The application offers both authenticated and unauthenticated user flows, ensuring a seamless experience.",
-    "forks_count": 0,
-    "html_url": "https://github.com/asing923/westernify-music-library",
-    "keywords": [
-        "unauthenticated user"
-    ],
-    "language": "TypeScript",
-    "repo_name": "westernify-music-library",
-    "repo_owner": "asing923",
-    "repotime": "2023-07-12, 20:08:04",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 7,
-    "date_started": "2023-07-12",
-    "date_updated": "2023-07-13",
-    "description": "POC for CVE-2023-28252",
-    "forks_count": 1,
-    "html_url": "https://github.com/Malwareman007/CVE-2023-28252",
-    "keywords": [
-        "Windows 0day vulnerability",
-        "Windows 0day poc",
-        "Windows 0day",
-        "Microsoft 0day poc",
-        "0day poc",
-        "Microsoft 0day vulnerability",
-        "Microsoft 0day",
-        "Microsoft 0day exploit",
-        "0day vulnerability"
-    ],
-    "language": "C",
-    "repo_name": "CVE-2023-28252",
-    "repo_owner": "Malwareman007",
-    "repotime": "2023-07-13, 00:18:52",
-    "stargazers_count": 7,
-    "watchers_count": 7
-}
-{
-    "commits_count": 1,
-    "date_started": "2023-07-12",
-    "date_updated": "2023-07-12",
-    "description": "F5-BIG-IP Remote Code Execution Vulnerability CVE-2022-1388: A Case Study",
-    "forks_count": 1,
-    "html_url": "https://github.com/SudeepaShiranthaka/F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": null,
-    "repo_name": "F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study",
-    "repo_owner": "SudeepaShiranthaka",
-    "repotime": "2023-07-12, 21:24:04",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 9,
@@ -790,7 +411,7 @@
     "date_started": "2023-06-29",
     "date_updated": "2023-07-12",
     "description": "Linux kernel LPE practice with an NPD vulnerability",
-    "forks_count": 10,
+    "forks_count": 9,
     "html_url": "https://github.com/TurtleARM/CVE-2023-3338-DECPwn",
     "keywords": [
         "lpe vulnerability"
@@ -799,8 +420,8 @@
     "repo_name": "CVE-2023-3338-DECPwn",
     "repo_owner": "TurtleARM",
     "repotime": "2023-07-12, 01:13:09",
-    "stargazers_count": 34,
-    "watchers_count": 34
+    "stargazers_count": 35,
+    "watchers_count": 35
 }
 {
     "commits_count": 17,
@@ -810,59 +431,31 @@
     "forks_count": 39,
     "html_url": "https://github.com/fortra/CVE-2022-37969",
     "keywords": [
-        "Windows lpe exploit",
-        "Windows lpe",
-        "lpe exploit",
-        "Windows lpe exploitation",
-        "lpe exploitation"
+        "lpe exploit"
     ],
     "language": "C++",
     "repo_name": "CVE-2022-37969",
     "repo_owner": "fortra",
     "repotime": "2023-07-11, 13:50:28",
-    "stargazers_count": 124,
-    "watchers_count": 124
+    "stargazers_count": 126,
+    "watchers_count": 126
 }
 {
     "commits_count": 3,
     "date_started": "2023-03-07",
     "date_updated": "2023-07-10",
     "description": "LPE exploit for CVE-2023-21768",
-    "forks_count": 163,
+    "forks_count": 162,
     "html_url": "https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768",
     "keywords": [
-        "Windows lpe",
-        "Windows lpe exploit",
-        "Win lpe",
-        "Windows lpe exploitation",
-        "lpe exploitation",
-        "Win lpe exploit",
-        "Win lpe exploitation",
-        "lpe exploit"
+        "Win lpe"
     ],
     "language": "C",
     "repo_name": "Windows_LPE_AFD_CVE-2023-21768",
     "repo_owner": "chompie1337",
     "repotime": "2023-07-10, 12:35:37",
-    "stargazers_count": 466,
-    "watchers_count": 466
-}
-{
-    "commits_count": 13,
-    "date_started": "2021-02-27",
-    "date_updated": "2023-07-10",
-    "description": "<no description>",
-    "forks_count": 62,
-    "html_url": "https://github.com/chompie1337/SIGRed_RCE_PoC",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "SIGRed_RCE_PoC",
-    "repo_owner": "chompie1337",
-    "repotime": "2023-07-10, 12:18:54",
-    "stargazers_count": 259,
-    "watchers_count": 259
+    "stargazers_count": 472,
+    "watchers_count": 472
 }
 {
     "commits_count": 2,
@@ -870,70 +463,16 @@
     "date_updated": "2023-07-09",
     "description": "A Directory Traversal attack (also known as path traversal) aims to access files and directories that are stored outside the intended folder.",
     "forks_count": 1,
-    "html_url": "https://github.com/VEEXH/Ghost-Path-Traversal-CVE-2023-32235-",
+    "html_url": "https://github.com/AXRoux/Ghost-Path-Traversal-CVE-2023-32235-",
     "keywords": [
-        "directory traversal attack",
         "path traversal attack"
     ],
     "language": null,
     "repo_name": "Ghost-Path-Traversal-CVE-2023-32235-",
-    "repo_owner": "VEEXH",
+    "repo_owner": "AXRoux",
     "repotime": "2023-07-09, 16:03:22",
     "stargazers_count": 4,
     "watchers_count": 4
-}
-{
-    "commits_count": 71,
-    "date_started": "2022-12-01",
-    "date_updated": "2023-07-09",
-    "description": "FIshShell is a multi-session handler and Windows &amp;amp; Linux backdoor payload generator. It allows users\\targets to connect to the server (other machines running the multi-handler)  after which the server admin/attacker can join sessions and also get a non-interactive reverse shell.",
-    "forks_count": 1,
-    "html_url": "https://github.com/TriDEntApollO/FishShell",
-    "keywords": [
-        "session attack"
-    ],
-    "language": "Python",
-    "repo_name": "FishShell",
-    "repo_owner": "TriDEntApollO",
-    "repotime": "2023-07-09, 23:16:58",
-    "stargazers_count": 7,
-    "watchers_count": 7
-}
-{
-    "commits_count": 5,
-    "date_started": "2023-06-22",
-    "date_updated": "2023-07-07",
-    "description": "A remote code execution exploit for Geometry Dash 2.1",
-    "forks_count": 0,
-    "html_url": "https://github.com/meltah/gd-rce",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "gd-rce",
-    "repo_owner": "meltah",
-    "repotime": "2023-07-07, 19:18:36",
-    "stargazers_count": 26,
-    "watchers_count": 26
-}
-{
-    "commits_count": 19,
-    "date_started": "2023-04-06",
-    "date_updated": "2023-07-07",
-    "description": "GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept)",
-    "forks_count": 3,
-    "html_url": "https://github.com/Avento/CVE-2023-0669",
-    "keywords": [
-        "rce proof of concept",
-        "rce vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2023-0669",
-    "repo_owner": "Avento",
-    "repotime": "2023-07-07, 18:42:46",
-    "stargazers_count": 7,
-    "watchers_count": 7
 }
 {
     "commits_count": 1,
@@ -970,40 +509,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 3,
-    "date_started": "2023-07-07",
-    "date_updated": "2023-07-07",
-    "description": "Lab untuk belajar beberapa vulnerability (XSS, SQLi, IDOR, Commmand Injection, XXE, File Inclusion, Unrestricted File Upload, CSRF, Insecure Deserialization, Broken Authentication)",
-    "forks_count": 0,
-    "html_url": "https://github.com/ak4l3r3/CyberLab",
-    "keywords": [
-        "unrestricted file upload"
-    ],
-    "language": "CSS",
-    "repo_name": "CyberLab",
-    "repo_owner": "ak4l3r3",
-    "repotime": "2023-07-07, 14:15:28",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 2,
-    "date_started": "2023-07-07",
-    "date_updated": "2023-07-07",
-    "description": "HIKVISION iSecure Center RCE 海康威视综合安防管理平台任意文件上传 POC&amp;amp;EXP（一键getshell）",
-    "forks_count": 13,
-    "html_url": "https://github.com/Sweelg/HIKVISION_iSecure_Center-RCE",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "HIKVISION_iSecure_Center-RCE",
-    "repo_owner": "Sweelg",
-    "repotime": "2023-07-07, 10:29:19",
-    "stargazers_count": 103,
-    "watchers_count": 103
-}
-{
     "commits_count": 22,
     "date_started": "2023-06-25",
     "date_updated": "2023-07-06",
@@ -1021,41 +526,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 7,
-    "date_started": "2023-06-17",
-    "date_updated": "2023-07-05",
-    "description": "Sar2HTML remote code execution Vulnerability (sar2html exploit).",
-    "forks_count": 0,
-    "html_url": "https://github.com/JoaoPedroMoreira02/sar2HTML_exploit",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "sar2HTML_exploit",
-    "repo_owner": "JoaoPedroMoreira02",
-    "repotime": "2023-07-05, 01:59:15",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 17,
-    "date_started": "2022-04-22",
-    "date_updated": "2023-07-05",
-    "description": "一个漏洞利用工具仓库",
-    "forks_count": 75,
-    "html_url": "https://github.com/Threekiii/Awesome-Exploit",
-    "keywords": [
-        "rce exploit",
-        "rce vulnerability"
-    ],
-    "language": "C",
-    "repo_name": "Awesome-Exploit",
-    "repo_owner": "Threekiii",
-    "repotime": "2023-07-05, 09:49:54",
-    "stargazers_count": 316,
-    "watchers_count": 316
-}
-{
     "commits_count": 17,
     "date_started": "2021-08-14",
     "date_updated": "2023-07-04",
@@ -1063,22 +533,14 @@
     "forks_count": 4,
     "html_url": "https://github.com/S4ltster/Beemovie",
     "keywords": [
-        "Windows use after free",
-        "Win use after free",
-        "Win use after free exploit",
-        "Windows use after free exploit",
-        "use after free exploitation",
-        "Win use after free exploitation",
-        "cross-side-scripting",
-        "Windows use after free exploitation",
-        "use after free exploit"
+        "Win use after free"
     ],
     "language": "CSS",
     "repo_name": "Beemovie",
     "repo_owner": "S4ltster",
     "repotime": "2023-07-04, 20:05:53",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 18,
@@ -1113,55 +575,4 @@
     "repotime": "2023-07-03, 21:01:46",
     "stargazers_count": 6,
     "watchers_count": 6
-}
-{
-    "commits_count": 2,
-    "date_started": "2023-06-22",
-    "date_updated": "2023-07-03",
-    "description": "CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c. ",
-    "forks_count": 14,
-    "html_url": "https://github.com/ChriSanders22/CVE-2023-35829-poc",
-    "keywords": [
-        "use after free poc"
-    ],
-    "language": "C",
-    "repo_name": "CVE-2023-35829-poc",
-    "repo_owner": "ChriSanders22",
-    "repotime": "2023-07-03, 15:16:04",
-    "stargazers_count": 96,
-    "watchers_count": 96
-}
-{
-    "commits_count": 2,
-    "date_started": "2023-07-03",
-    "date_updated": "2023-07-03",
-    "description": "CVE-2023-35829 Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c. ",
-    "forks_count": 18,
-    "html_url": "https://github.com/apkc/CVE-2023-35829-poc",
-    "keywords": [
-        "use after free poc"
-    ],
-    "language": null,
-    "repo_name": "CVE-2023-35829-poc",
-    "repo_owner": "apkc",
-    "repotime": "2023-07-03, 15:16:04",
-    "stargazers_count": 5,
-    "watchers_count": 5
-}
-{
-    "commits_count": 88,
-    "date_started": "2020-02-13",
-    "date_updated": "2023-07-02",
-    "description": "Image preview support for lf (list files) using Überzug",
-    "forks_count": 43,
-    "html_url": "https://github.com/thimc/lfimg",
-    "keywords": [
-        "lfi"
-    ],
-    "language": "Shell",
-    "repo_name": "lfimg",
-    "repo_owner": "thimc",
-    "repotime": "2023-07-02, 11:23:08",
-    "stargazers_count": 240,
-    "watchers_count": 240
 }

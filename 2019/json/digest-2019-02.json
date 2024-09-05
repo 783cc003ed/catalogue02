@@ -16,57 +16,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 6,
-    "date_started": "2019-02-25",
-    "date_updated": "2019-02-25",
-    "description": "CVE-2019-6340 POC Drupal rce",
-    "forks_count": 8,
-    "html_url": "https://github.com/oways/CVE-2019-6340",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2019-6340",
-    "repo_owner": "oways",
-    "repotime": "2019-02-25, 11:57:14",
-    "stargazers_count": 14,
-    "watchers_count": 14
-}
-{
-    "commits_count": 6,
-    "date_started": "2019-02-24",
-    "date_updated": "2019-02-25",
-    "description": "🐱‍💻 Poc of CVE-2019-7238 - Nexus Repository Manager 3 Remote Code Execution 🐱‍💻",
-    "forks_count": 55,
-    "html_url": "https://github.com/mpgn/CVE-2019-7238",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2019-7238",
-    "repo_owner": "mpgn",
-    "repotime": "2019-02-25, 08:37:06",
-    "stargazers_count": 151,
-    "watchers_count": 151
-}
-{
-    "commits_count": 92,
-    "date_started": "2019-02-15",
-    "date_updated": "2019-02-23",
-    "description": "Scan the world, searching for vulnerable devices !!",
-    "forks_count": 0,
-    "html_url": "https://github.com/jurelou/every-day-is-zero-day",
-    "keywords": [
-        "zero-day vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "every-day-is-zero-day",
-    "repo_owner": "jurelou",
-    "repotime": "2019-02-23, 23:08:37",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 1,
     "date_started": "2019-02-23",
     "date_updated": "2019-02-22",
@@ -80,8 +29,8 @@
     "repo_name": "nuevo",
     "repo_owner": "6531076392",
     "repotime": "2019-02-22, 22:57:23",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1,
@@ -97,8 +46,8 @@
     "repo_name": "3d-accelerated-exploitation",
     "repo_owner": "FSecureLABS",
     "repotime": "2019-02-22, 12:07:35",
-    "stargazers_count": 55,
-    "watchers_count": 55
+    "stargazers_count": 54,
+    "watchers_count": 54
 }
 {
     "commits_count": 7,
@@ -125,10 +74,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/1X4/priv8Esc",
     "keywords": [
-        "Windows escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "Windows escalation of privileges exploitation",
-        "Windows escalation of privileges",
         "escalation of privileges exploit"
     ],
     "language": null,
@@ -139,23 +84,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 8,
-    "date_started": "2019-01-22",
-    "date_updated": "2019-02-21",
-    "description": "Exploiting CVE-2017-7525 demo project with Angular7 frontend and Spring.",
-    "forks_count": 5,
-    "html_url": "https://github.com/JavanXD/Demo-Exploit-Jackson-RCE",
-    "keywords": [
-        "rce exploit"
-    ],
-    "language": "TypeScript",
-    "repo_name": "Demo-Exploit-Jackson-RCE",
-    "repo_owner": "JavanXD",
-    "repotime": "2019-02-21, 14:18:06",
-    "stargazers_count": 16,
-    "watchers_count": 16
-}
-{
     "commits_count": 3,
     "date_started": "2019-02-21",
     "date_updated": "2019-02-21",
@@ -163,7 +91,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/arca-lignea-infosec/buffer-overflow-exploit",
     "keywords": [
-        "address leak vulnerability",
         "address leak exploit"
     ],
     "language": "Jupyter Notebook",
@@ -174,25 +101,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 5,
-    "date_started": "2019-02-15",
-    "date_updated": "2019-02-19",
-    "description": "Jenkins RCE Proof-of-Concept: SECURITY-1266 / CVE-2019-1003000 (Script Security), CVE-2019-1003001 (Pipeline: Groovy), CVE-2019-1003002 (Pipeline: Declarative)",
-    "forks_count": 94,
-    "html_url": "https://github.com/adamyordan/cve-2019-1003000-jenkins-rce-poc",
-    "keywords": [
-        "rce proof of concept",
-        "rce poc",
-        "rce exploit"
-    ],
-    "language": "JavaScript",
-    "repo_name": "cve-2019-1003000-jenkins-rce-poc",
-    "repo_owner": "adamyordan",
-    "repotime": "2019-02-19, 21:12:38",
-    "stargazers_count": 305,
-    "watchers_count": 305
-}
-{
     "commits_count": 8,
     "date_started": "2019-02-17",
     "date_updated": "2019-02-19",
@@ -200,16 +108,14 @@
     "forks_count": 22,
     "html_url": "https://github.com/XPR1M3/sqli-lfi-xss-rce-dorker-and-auto-exploiter-Python-",
     "keywords": [
-        "rce exploit",
-        "lfi",
-        "rce vulnerability"
+        "lfi"
     ],
     "language": "Python",
     "repo_name": "sqli-lfi-xss-rce-dorker-and-auto-exploiter-Python-",
     "repo_owner": "XPR1M3",
     "repotime": "2019-02-19, 11:25:25",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 32,
+    "watchers_count": 32
 }
 {
     "commits_count": 2,
@@ -229,23 +135,6 @@
     "watchers_count": 4
 }
 {
-    "commits_count": 2,
-    "date_started": "2019-02-16",
-    "date_updated": "2019-02-16",
-    "description": "A Windows enumeration script that displays potential paths of Windows Privilege Escalation",
-    "forks_count": 0,
-    "html_url": "https://github.com/SuperBruhhh/lampshade",
-    "keywords": [
-        "Windows escalation of privileges"
-    ],
-    "language": null,
-    "repo_name": "lampshade",
-    "repo_owner": "SuperBruhhh",
-    "repotime": "2019-02-16, 23:14:50",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 1,
     "date_started": "2019-02-15",
     "date_updated": "2019-02-15",
@@ -259,8 +148,8 @@
     "repo_name": "DamFeed",
     "repo_owner": "Mehrdad-shahizad",
     "repotime": "2019-02-15, 16:07:00",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 30,
@@ -276,8 +165,8 @@
     "repo_name": "asynchronous-injection",
     "repo_owner": "ploeh",
     "repotime": "2019-02-15, 09:45:05",
-    "stargazers_count": 44,
-    "watchers_count": 44
+    "stargazers_count": 43,
+    "watchers_count": 43
 }
 {
     "commits_count": 7,
@@ -293,42 +182,8 @@
     "repo_name": "Liri-Bot2019",
     "repo_owner": "mrc1234",
     "repotime": "2019-02-14, 20:55:39",
-    "stargazers_count": 8,
-    "watchers_count": 8
-}
-{
-    "commits_count": 0,
-    "date_started": "2015-11-07",
-    "date_updated": "2019-02-14",
-    "description": "/*The MIT License (MIT)  Copyright (c) 2015 Apostolique  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;quot;Software&amp;quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, AR...",
-    "forks_count": 0,
-    "html_url": "https://github.com/osman21/agarbot.js",
-    "keywords": [
-        "Windows use after free"
-    ],
-    "language": null,
-    "repo_name": "agarbot.js",
-    "repo_owner": "osman21",
-    "repotime": "2019-02-14, 18:51:28",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 1,
-    "date_started": "2019-02-13",
-    "date_updated": "2019-02-13",
-    "description": "Angular routes guards to detect authenticated or unauthenticated users.",
-    "forks_count": 0,
-    "html_url": "https://github.com/isaiahiroko/ng-guards",
-    "keywords": [
-        "unauthenticated user"
-    ],
-    "language": "TypeScript",
-    "repo_name": "ng-guards",
-    "repo_owner": "isaiahiroko",
-    "repotime": "2019-02-13, 16:42:58",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 2202,
@@ -365,23 +220,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 0,
-    "date_started": "2015-05-16",
-    "date_updated": "2019-02-08",
-    "description": "[16/5/2015 18:44:34 PM] Loading Language: English [16/5/2015 18:44:34 PM] Loading Language: English [16/5/2015 18:44:34 PM] ATLauncher Version: 3.2.2.6 [16/5/2015 18:44:34 PM] Operating System: Windows 7 [16/5/2015 18:44:34 PM] RAM Available: 1024MB [16/5/2015 18:44:34 PM] Java Version: Launcher: 1.8.0_45, Minecraft: 1.8.0_45 [16/5/2015 18:44:34 PM] Java Path: C:\\Program Files\\Java\\jre1.8.0_45 [16/5/2015 18:44:34 PM] 64 Bit Java: false [16/5/2015 18:44:34 PM] Launcher Directory: **USERSDIR** [16/5/2015 18:44:34 PM] Using Theme: Default Theme by RyanTheAllmighty [16/5/2015 18:44:35 PM] Showing splash screen and loading everything [16/5/2015 18:44:36 PM] Checking for updated files! [16/5/2015 18:44:39 PM] Updates found! [16/5/2015 18:44:39 PM] Downloading Launcher File packs.json [16/5/2015 18:44:42 PM] Finished downloading updated files! [16/5/2015 18:44:42 PM] Loading Language: English [16/5/2015 18:44:42 PM] Loading external library authlib-1.5.17.jar to classpath [16/5/2015 18:44:42 ...",
-    "forks_count": 0,
-    "html_url": "https://github.com/HurriKane/skyfactory-2.4",
-    "keywords": [
-        "xml external entity"
-    ],
-    "language": null,
-    "repo_name": "skyfactory-2.4",
-    "repo_owner": "HurriKane",
-    "repotime": "2019-02-08, 13:25:42",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
     "commits_count": 150,
     "date_started": "2017-12-13",
     "date_updated": "2019-02-07",
@@ -389,15 +227,14 @@
     "forks_count": 6,
     "html_url": "https://github.com/PLEXSolutions/readhook",
     "keywords": [
-        "zero-day vulnerability",
         "zero-day exploit"
     ],
     "language": "C",
     "repo_name": "readhook",
     "repo_owner": "PLEXSolutions",
     "repotime": "2019-02-07, 11:51:18",
-    "stargazers_count": 33,
-    "watchers_count": 33
+    "stargazers_count": 34,
+    "watchers_count": 34
 }
 {
     "commits_count": 14,
@@ -413,40 +250,6 @@
     "repo_name": "sqli-platform",
     "repo_owner": "lucas-santoni",
     "repotime": "2019-02-03, 15:18:40",
-    "stargazers_count": 35,
-    "watchers_count": 35
-}
-{
-    "commits_count": 2,
-    "date_started": "2019-02-01",
-    "date_updated": "2019-02-01",
-    "description": "Remote Code execution with EL Injection Vulnerabilities",
-    "forks_count": 0,
-    "html_url": "https://github.com/zerosecuritylab/Whitepaper",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": null,
-    "repo_name": "Whitepaper",
-    "repo_owner": "zerosecuritylab",
-    "repotime": "2019-02-01, 10:15:50",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 0,
-    "date_started": "2019-02-01",
-    "date_updated": "2019-02-01",
-    "description": "Privacy Policy KazProg built the 京都検定α app as a Free app. This SERVICE is provided by KazProg at no cost and is intended for use as is. This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at 京都検定α unless otherwise defined in this Privacy Policy. Information Collection and Use For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and...",
-    "forks_count": 0,
-    "html_url": "https://github.com/KazProg/Privacy-Policy",
-    "keywords": [
-        "use after free disclosure"
-    ],
-    "language": null,
-    "repo_name": "Privacy-Policy",
-    "repo_owner": "KazProg",
-    "repotime": "2019-02-01, 06:11:50",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 36,
+    "watchers_count": 36
 }

@@ -23,23 +23,21 @@
     "forks_count": 1,
     "html_url": "https://github.com/susanth224/xbs_vulnerability_scanner",
     "keywords": [
-        "session vulnerability",
-        "session hijacking vulnerability",
-        "session hijacking"
+        "session vulnerability"
     ],
     "language": "Python",
     "repo_name": "xbs_vulnerability_scanner",
     "repo_owner": "susanth224",
     "repotime": "2016-09-27, 14:38:40",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 5,
     "date_started": "2016-08-17",
     "date_updated": "2016-09-26",
     "description": "Bypassing User Account Control (UAC) using TpmInit.exe",
-    "forks_count": 50,
+    "forks_count": 39,
     "html_url": "https://github.com/Cn33liz/TpmInitUACBypass",
     "keywords": [
         "uac bypass"
@@ -65,15 +63,15 @@
     "repo_name": "TpmInitUACAnniversaryBypass",
     "repo_owner": "Cn33liz",
     "repotime": "2016-09-26, 15:27:40",
-    "stargazers_count": 43,
-    "watchers_count": 43
+    "stargazers_count": 42,
+    "watchers_count": 42
 }
 {
     "commits_count": 13,
     "date_started": "2016-08-12",
     "date_updated": "2016-09-26",
     "description": "Cross Platform Kernel Fuzzer Framework",
-    "forks_count": 159,
+    "forks_count": 151,
     "html_url": "https://github.com/FSecureLABS/KernelFuzzer",
     "keywords": [
         "by_owner"
@@ -82,8 +80,8 @@
     "repo_name": "KernelFuzzer",
     "repo_owner": "FSecureLABS",
     "repotime": "2016-09-26, 09:27:53",
-    "stargazers_count": 440,
-    "watchers_count": 440
+    "stargazers_count": 442,
+    "watchers_count": 442
 }
 {
     "commits_count": 2,
@@ -133,43 +131,8 @@
     "repo_name": "uac",
     "repo_owner": "oxfemale",
     "repotime": "2016-09-24, 19:37:49",
-    "stargazers_count": 13,
-    "watchers_count": 13
-}
-{
-    "commits_count": 1,
-    "date_started": "2016-09-23",
-    "date_updated": "2016-09-23",
-    "description": "Some tools to prevent session hijacking in Seaside yet allowing multi sessions per browser",
-    "forks_count": 0,
-    "html_url": "https://github.com/marianopeck/SeasideSessionHijackingPrevention",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": null,
-    "repo_name": "SeasideSessionHijackingPrevention",
-    "repo_owner": "marianopeck",
-    "repotime": "2016-09-23, 16:47:16",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 5,
-    "date_started": "2015-06-16",
-    "date_updated": "2016-09-22",
-    "description": "Samsung Remote Code Execution as System User",
-    "forks_count": 62,
-    "html_url": "https://github.com/nowsecure/samsung-ime-rce-poc",
-    "keywords": [
-        "rce poc",
-        "remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "samsung-ime-rce-poc",
-    "repo_owner": "nowsecure",
-    "repotime": "2016-09-22, 11:57:39",
-    "stargazers_count": 120,
-    "watchers_count": 120
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 16,
@@ -179,7 +142,6 @@
     "forks_count": 8,
     "html_url": "https://github.com/zhexxian/From-Machine-Learning-To-Zero-Day-Exploits",
     "keywords": [
-        "zero-day exploitation",
         "zero-day exploit"
     ],
     "language": "Python",
@@ -220,28 +182,8 @@
     "repo_name": "SSRF-Vulnerable-with-Curl",
     "repo_owner": "nikosdano",
     "repotime": "2016-09-20, 16:09:05",
-    "stargazers_count": 14,
-    "watchers_count": 14
-}
-{
-    "commits_count": 3,
-    "date_started": "2016-09-20",
-    "date_updated": "2016-09-20",
-    "description": "0ldSQL_MySQL_RCE_exploit.py (ver. 1.0) (CVE-2016-6662) MySQL Remote Root Code Execution / Privesc PoC Exploit    For testing purposes only. Do no harm.",
-    "forks_count": 10,
-    "html_url": "https://github.com/Ashrafdev/MySQL-Remote-Root-Code-Execution",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit",
-        "remote code execution poc",
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "MySQL-Remote-Root-Code-Execution",
-    "repo_owner": "Ashrafdev",
-    "repotime": "2016-09-20, 16:12:34",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 10,
@@ -282,7 +224,7 @@
     "date_started": "2016-06-02",
     "date_updated": "2016-09-14",
     "description": "This repo contains comprehensive lists of attack payloads known to cause issues like OS command injection, directory listings, directory traversals, source exposure, file upload bypass, authentication bypass, http header crlf injections, and more",
-    "forks_count": 6,
+    "forks_count": 4,
     "html_url": "https://github.com/raikar/attack-docs",
     "keywords": [
         "directory traversal attack"
@@ -302,22 +244,21 @@
     "forks_count": 12,
     "html_url": "https://github.com/55-AA/CVE-2015-0057",
     "keywords": [
-        "use after free exploit",
-        "use after free exploitation"
+        "use after free exploit"
     ],
     "language": null,
     "repo_name": "CVE-2015-0057",
     "repo_owner": "55-AA",
     "repotime": "2016-09-13, 08:12:50",
-    "stargazers_count": 25,
-    "watchers_count": 25
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 148,
     "date_started": "2015-02-05",
     "date_updated": "2016-09-12",
     "description": "Secure XSS Filters.",
-    "forks_count": 146,
+    "forks_count": 137,
     "html_url": "https://github.com/YahooArchive/xss-filters",
     "keywords": [
         "xss"
@@ -326,8 +267,8 @@
     "repo_name": "xss-filters",
     "repo_owner": "YahooArchive",
     "repotime": "2016-09-12, 13:03:36",
-    "stargazers_count": 1075,
-    "watchers_count": 1075
+    "stargazers_count": 1079,
+    "watchers_count": 1079
 }
 {
     "commits_count": 2,
@@ -343,23 +284,6 @@
     "repo_name": "lfi-challenge",
     "repo_owner": "Anthem9",
     "repotime": "2016-09-09, 18:10:03",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 2,
-    "date_started": "2016-09-08",
-    "date_updated": "2016-09-08",
-    "description": "about bypass uac",
-    "forks_count": 5,
-    "html_url": "https://github.com/luciouskami/ByPassUac-1",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "HTML",
-    "repo_name": "ByPassUac-1",
-    "repo_owner": "luciouskami",
-    "repotime": "2016-09-08, 17:14:37",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -405,8 +329,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/vaginessa/exploit0day",
     "keywords": [
-        "0day exploitation",
-        "0day exploit"
+        "0day exploitation"
     ],
     "language": null,
     "repo_name": "exploit0day",

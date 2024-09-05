@@ -12,8 +12,8 @@
     "repo_name": "ClangUseAfterFree",
     "repo_owner": "michaelkurp",
     "repotime": "2020-04-29, 20:15:46",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1,
@@ -31,24 +31,6 @@
     "repotime": "2020-04-28, 23:36:29",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 4,
-    "date_started": "2020-04-28",
-    "date_updated": "2020-04-28",
-    "description": "The official exploit for Open-AudIT v3.3.1 Remote Code Execution CVE-2020-12078",
-    "forks_count": 8,
-    "html_url": "https://github.com/mhaskar/CVE-2020-12078",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2020-12078",
-    "repo_owner": "mhaskar",
-    "repotime": "2020-04-28, 16:51:16",
-    "stargazers_count": 19,
-    "watchers_count": 19
 }
 {
     "commits_count": 6,
@@ -72,7 +54,7 @@
     "date_started": "2020-04-27",
     "date_updated": "2020-04-27",
     "description": "A meterpreter extension for applying hooks to avoid windows defender memory scans",
-    "forks_count": 40,
+    "forks_count": 39,
     "html_url": "https://github.com/FSecureLABS/Ninjasploit",
     "keywords": [
         "by_owner"
@@ -81,25 +63,8 @@
     "repo_name": "Ninjasploit",
     "repo_owner": "FSecureLABS",
     "repotime": "2020-04-27, 11:11:05",
-    "stargazers_count": 230,
-    "watchers_count": 230
-}
-{
-    "commits_count": 14,
-    "date_started": "2020-04-26",
-    "date_updated": "2020-04-26",
-    "description": "The system will perform detection and recognition rapidly in real time when face in front of camera. This project basic utilizes the camera, and then internet connection to create a door unlocks itself by facial recognition. If the user at the door is recognized, door will be unlocked. When an unauthenticated person tries to log into system, this face will be capture the image of visitor And it will be sent to Gmail address to an admin person. The system will also support the password unlock system.",
-    "forks_count": 0,
-    "html_url": "https://github.com/PratikshaGoyal/Door-Unlock-using-Face-Recognition",
-    "keywords": [
-        "unauthenticated user"
-    ],
-    "language": "Python",
-    "repo_name": "Door-Unlock-using-Face-Recognition",
-    "repo_owner": "PratikshaGoyal",
-    "repotime": "2020-04-26, 23:50:47",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 235,
+    "watchers_count": 235
 }
 {
     "commits_count": 2,
@@ -123,7 +88,7 @@
     "date_started": "2019-06-07",
     "date_updated": "2020-04-23",
     "description": "Cloud-related research releases from the Rhino Security Labs team.",
-    "forks_count": 67,
+    "forks_count": 66,
     "html_url": "https://github.com/RhinoSecurityLabs/Cloud-Security-Research",
     "keywords": [
         "by_owner"
@@ -132,25 +97,8 @@
     "repo_name": "Cloud-Security-Research",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2020-04-23, 11:57:41",
-    "stargazers_count": 338,
-    "watchers_count": 338
-}
-{
-    "commits_count": 0,
-    "date_started": "2020-04-23",
-    "date_updated": "2020-04-23",
-    "description": "Artificial Intelligence is the talk of the IT town today, and with good reason! With its precise results and intelligent analysis, all with zero man-power, it becomes the holy grail for any business plan. On top of this, the time-saving feature of AI spawn high profits for the firm by inducing faster development life cycles.  At OpenTeQ, we employ a team of highly skilled AI experts who have several years of experience in designing AI roadmaps for products and services. We ensure that the services we promise maintain the industry designated standard and decrease the weight on the shoulders of your employees with advanced automation and clever management, such that they can engage themselves in more creative and strategic pursuits for the firm. We have the suitable resources, which including competent processors, suitable hardware and cloud space to enable us to meet the advanced services we pursue for your needs.  Partner with OpenTeQ to reap the benefits of modern-day technology with ...",
-    "forks_count": 0,
-    "html_url": "https://github.com/shivanarayan/Artificial-Intelligence-Services-Company-In-India",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": null,
-    "repo_name": "Artificial-Intelligence-Services-Company-In-India",
-    "repo_owner": "shivanarayan",
-    "repotime": "2020-04-23, 16:48:11",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 349,
+    "watchers_count": 349
 }
 {
     "commits_count": 2,
@@ -174,7 +122,7 @@
     "date_started": "2020-04-22",
     "date_updated": "2020-04-22",
     "description": "win32k use-after-free poc",
-    "forks_count": 40,
+    "forks_count": 38,
     "html_url": "https://github.com/james0x40/CVE-2020-0624",
     "keywords": [
         "use after free poc"
@@ -183,8 +131,8 @@
     "repo_name": "CVE-2020-0624",
     "repo_owner": "james0x40",
     "repotime": "2020-04-22, 09:11:24",
-    "stargazers_count": 72,
-    "watchers_count": 72
+    "stargazers_count": 70,
+    "watchers_count": 70
 }
 {
     "commits_count": 3,
@@ -200,8 +148,8 @@
     "repo_name": "CVE-2020-11890",
     "repo_owner": "HoangKien1020",
     "repotime": "2020-04-22, 17:29:14",
-    "stargazers_count": 63,
-    "watchers_count": 63
+    "stargazers_count": 62,
+    "watchers_count": 62
 }
 {
     "commits_count": 3,
@@ -211,71 +159,12 @@
     "forks_count": 1,
     "html_url": "https://github.com/kfmgang/CVE-2020-0910",
     "keywords": [
-        "Windows rce exploitation",
-        "Windows remote code execution",
-        "Windows rce poc",
-        "Windows remote code execution exploit",
-        "remote code execution poc",
-        "Windows remote code execution exploitation",
-        "Windows rce",
-        "Windows remote code execution poc",
-        "Windows rce exploit"
+        "Windows rce"
     ],
     "language": null,
     "repo_name": "CVE-2020-0910",
     "repo_owner": "kfmgang",
     "repotime": "2020-04-21, 21:10:16",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 9,
-    "date_started": "2020-04-22",
-    "date_updated": "2020-04-21",
-    "description": "PoC RCE Reverse Shell for CVE-2020-0883",
-    "forks_count": 6,
-    "html_url": "https://github.com/thelostworldFree/CVE-2020-0883",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": null,
-    "repo_name": "CVE-2020-0883",
-    "repo_owner": "thelostworldFree",
-    "repotime": "2020-04-21, 21:08:44",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
-    "commits_count": 12,
-    "date_started": "2020-04-22",
-    "date_updated": "2020-04-21",
-    "description": "PoC RCE Reverse Shell for CVE-2020-0796 (SMBGhost)",
-    "forks_count": 17,
-    "html_url": "https://github.com/thelostworldFree/CVE-2020-0796",
-    "keywords": [
-        "rce poc"
-    ],
-    "language": null,
-    "repo_name": "CVE-2020-0796",
-    "repo_owner": "thelostworldFree",
-    "repotime": "2020-04-21, 21:07:56",
-    "stargazers_count": 12,
-    "watchers_count": 12
-}
-{
-    "commits_count": 6,
-    "date_started": "2020-04-21",
-    "date_updated": "2020-04-21",
-    "description": "Local File Inclusion for windows. This script will grab important files and databases and outputs them. ",
-    "forks_count": 0,
-    "html_url": "https://github.com/Bibikski/lfi-win",
-    "keywords": [
-        "local file inclusion"
-    ],
-    "language": "Python",
-    "repo_name": "lfi-win",
-    "repo_owner": "Bibikski",
-    "repotime": "2020-04-21, 17:32:35",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -297,28 +186,11 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 3,
-    "date_started": "2020-04-18",
-    "date_updated": "2020-04-19",
-    "description": "Use ICMLuaUtil to Bypass UAC!",
-    "forks_count": 66,
-    "html_url": "https://github.com/0xlane/BypassUAC",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "C#",
-    "repo_name": "BypassUAC",
-    "repo_owner": "0xlane",
-    "repotime": "2020-04-19, 16:44:24",
-    "stargazers_count": 427,
-    "watchers_count": 427
-}
-{
     "commits_count": 7,
     "date_started": "2020-04-15",
     "date_updated": "2020-04-15",
     "description": "NVMS 1000 - Directory Traversal Attack Exploit for CVE-2019-20085",
-    "forks_count": 5,
+    "forks_count": 4,
     "html_url": "https://github.com/AleDiBen/NVMS1000-Exploit",
     "keywords": [
         "directory traversal attack"
@@ -429,31 +301,25 @@
     "repo_name": "dotnet-xxe-learning-tests",
     "repo_owner": "samuel-knutson",
     "repotime": "2020-04-08, 17:37:13",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 5,
     "date_started": "2020-03-30",
     "date_updated": "2020-04-08",
     "description": "CVE-2020-0796 - Windows SMBv3 LPE exploit &amp;&#35;35;SMBGhost",
-    "forks_count": 350,
+    "forks_count": 345,
     "html_url": "https://github.com/danigargu/CVE-2020-0796",
     "keywords": [
-        "Windows lpe poc",
-        "Windows lpe exploit",
-        "Windows lpe",
-        "lpe poc",
-        "Windows lpe exploitation",
-        "lpe exploit",
-        "lpe exploitation"
+        "lpe exploit"
     ],
     "language": "C",
     "repo_name": "CVE-2020-0796",
     "repo_owner": "danigargu",
     "repotime": "2020-04-08, 21:27:06",
-    "stargazers_count": 1292,
-    "watchers_count": 1292
+    "stargazers_count": 1294,
+    "watchers_count": 1294
 }
 {
     "commits_count": 1,
@@ -486,25 +352,8 @@
     "repo_name": "online-examination-systen-in-php",
     "repo_owner": "dufferhackers",
     "repotime": "2020-04-06, 23:16:46",
-    "stargazers_count": 9,
-    "watchers_count": 9
-}
-{
-    "commits_count": 0,
-    "date_started": "2020-04-05",
-    "date_updated": "2020-04-05",
-    "description": "IT'S MY CODE !",
-    "forks_count": 0,
-    "html_url": "https://github.com/D1GG3R/ZERODAY-0DAY--EXPLOITS",
-    "keywords": [
-        "zero-day exploit"
-    ],
-    "language": null,
-    "repo_name": "ZERODAY-0DAY--EXPLOITS",
-    "repo_owner": "D1GG3R",
-    "repotime": "2020-04-05, 20:28:36",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 1,
@@ -545,7 +394,7 @@
     "date_started": "2019-04-05",
     "date_updated": "2020-04-03",
     "description": "A Tools Session Hijacking And Stealer Local Passcode Telegram Windows",
-    "forks_count": 95,
+    "forks_count": 99,
     "html_url": "https://github.com/ultrasecurity/TeleKiller",
     "keywords": [
         "session hijacking"
@@ -554,8 +403,8 @@
     "repo_name": "TeleKiller",
     "repo_owner": "ultrasecurity",
     "repotime": "2020-04-03, 19:51:48",
-    "stargazers_count": 351,
-    "watchers_count": 351
+    "stargazers_count": 375,
+    "watchers_count": 375
 }
 {
     "commits_count": 11,
@@ -588,8 +437,8 @@
     "repo_name": "CVE-2020-0796-LPE-POC",
     "repo_owner": "jamf",
     "repotime": "2020-04-02, 11:01:29",
-    "stargazers_count": 243,
-    "watchers_count": 243
+    "stargazers_count": 242,
+    "watchers_count": 242
 }
 {
     "commits_count": 7,
@@ -599,7 +448,6 @@
     "forks_count": 1,
     "html_url": "https://github.com/surbo/rumpshaker",
     "keywords": [
-        "unauthenticated attacker",
         "unauthenticated disclosure"
     ],
     "language": null,

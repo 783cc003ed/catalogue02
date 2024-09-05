@@ -1,21 +1,4 @@
 {
-    "commits_count": 4,
-    "date_started": "2020-12-12",
-    "date_updated": "2021-01-31",
-    "description": "A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;quot;dock&amp;quot; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.     A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.      In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19....",
-    "forks_count": 0,
-    "html_url": "https://github.com/Sushil-Deore/Shared-Bike-Demand-Analysis",
-    "keywords": [
-        "use after free analysis"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "Shared-Bike-Demand-Analysis",
-    "repo_owner": "Sushil-Deore",
-    "repotime": "2021-01-31, 18:45:09",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 24,
     "date_started": "2021-01-24",
     "date_updated": "2021-01-31",
@@ -57,10 +40,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/lutwidse/DOS2RCE-Malware-Scanner",
     "keywords": [
-        "Microsoft rce dos",
-        "Microsoft rce",
-        "rce analysis",
-        "rce dos",
         "Microsoft rce analysis"
     ],
     "language": "Python",
@@ -69,26 +48,6 @@
     "repotime": "2021-01-30, 04:41:26",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 13,
-    "date_started": "2020-03-28",
-    "date_updated": "2021-01-29",
-    "description": "Umbraco CMS 7.12.4 - (Authenticated) Remote Code Execution",
-    "forks_count": 40,
-    "html_url": "https://github.com/noraj/Umbraco-RCE",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "remote code execution exploit",
-        "remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "Umbraco-RCE",
-    "repo_owner": "noraj",
-    "repotime": "2021-01-29, 10:11:29",
-    "stargazers_count": 68,
-    "watchers_count": 68
 }
 {
     "commits_count": 1,
@@ -129,7 +88,7 @@
     "date_started": "2020-03-23",
     "date_updated": "2021-01-27",
     "description": "Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder",
-    "forks_count": 114,
+    "forks_count": 111,
     "html_url": "https://github.com/capture0x/XSS-LOADER",
     "keywords": [
         "xss"
@@ -138,25 +97,8 @@
     "repo_name": "XSS-LOADER",
     "repo_owner": "capture0x",
     "repotime": "2021-01-27, 09:47:44",
-    "stargazers_count": 509,
-    "watchers_count": 509
-}
-{
-    "commits_count": 3,
-    "date_started": "2021-01-26",
-    "date_updated": "2021-01-26",
-    "description": "SonicWall SSL-VPN RCE",
-    "forks_count": 5,
-    "html_url": "https://github.com/Al1ex/SonicWall",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "SonicWall",
-    "repo_owner": "Al1ex",
-    "repotime": "2021-01-26, 21:44:41",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 548,
+    "watchers_count": 548
 }
 {
     "commits_count": 4,
@@ -176,40 +118,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 15,
-    "date_started": "2012-07-31",
-    "date_updated": "2021-01-24",
-    "description": "Proof of concept",
-    "forks_count": 54,
-    "html_url": "https://github.com/dfm/flask-d3-hello-world",
-    "keywords": [
-        "proof-of-concept"
-    ],
-    "language": "HTML",
-    "repo_name": "flask-d3-hello-world",
-    "repo_owner": "dfm",
-    "repotime": "2021-01-24, 23:06:59",
-    "stargazers_count": 62,
-    "watchers_count": 62
-}
-{
-    "commits_count": 38,
-    "date_started": "2021-01-07",
-    "date_updated": "2021-01-24",
-    "description": "Remote Code Execution vulnerability on ArcSight Logger",
-    "forks_count": 1,
-    "html_url": "https://github.com/ch1nghz/CVE-2020-11851",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": null,
-    "repo_name": "CVE-2020-11851",
-    "repo_owner": "ch1nghz",
-    "repotime": "2021-01-24, 13:28:07",
-    "stargazers_count": 20,
-    "watchers_count": 20
-}
-{
     "commits_count": 6,
     "date_started": "2021-01-22",
     "date_updated": "2021-01-22",
@@ -217,8 +125,7 @@
     "forks_count": 1,
     "html_url": "https://github.com/c4ebt/House-of-Rust",
     "keywords": [
-        "address leak exploit",
-        "address leak exploitation"
+        "address leak exploit"
     ],
     "language": null,
     "repo_name": "House-of-Rust",
@@ -275,8 +182,8 @@
     "repo_name": "FHEM-6.0-Local-File-Inclusion-LFI-Vulnerability",
     "repo_owner": "EmreOvunc",
     "repotime": "2021-01-20, 09:13:11",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 7,
@@ -309,43 +216,8 @@
     "repo_name": "ssrf-king",
     "repo_owner": "ethicalhackingplayground",
     "repotime": "2021-01-20, 15:53:04",
-    "stargazers_count": 528,
-    "watchers_count": 528
-}
-{
-    "commits_count": 2,
-    "date_started": "2021-01-20",
-    "date_updated": "2021-01-19",
-    "description": "Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC           ",
-    "forks_count": 0,
-    "html_url": "https://github.com/rmccarth/cve-2021-3164",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "cve-2021-3164",
-    "repo_owner": "rmccarth",
-    "repotime": "2021-01-19, 21:48:05",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 0,
-    "date_started": "2021-01-15",
-    "date_updated": "2021-01-19",
-    "description": "09:17:02 Steam Console Client (c) Valve Corporation 09:17:02 -- type 'quit' to exit -- 09:17:02 Loading Steam API...OK. 09:17:02  09:17:03 Connecting anonymously to Steam Public...Logged in OK 09:17:03 Waiting for user info...OK 09:17:04 Success! App '740' already up to date.  09:17:05 @sSteamCmdForcePlatformType windows 09:17:05 &amp;quot;@sSteamCmdForcePlatformType&amp;quot; = &amp;quot;windows&amp;quot; 09:17:05 force_install_dir ../ 09:17:05 app_update 740 09:17:05 quit 09:17:05 Redirecting stderr to 'D:\\servers\\csgo_297437\\steamcmd\\logs\\stderr.txt'  09:17:05 Params: -game csgo -console -tickrate 128.00 -port 49525 +tv_port 49526 -maxplayers_override 16 -usercon -nowatchdog +sv_pure 0 +sv_lan 0 +ip 89.203.193.220 +game_type 0 +exec server.cfg +game_mode 1 +map de_dust2 +sv_setsteamaccount B74A031F37B9312A5EC65A15FC43AA0C -gamemodes_serverfile gamemodes_server.txt +mapgroup h_custom -condebug -norestart -allowdebug 09:17:06 &amp;&#35;35; 09:17:06 &amp;&#35;35;Console initialized. 09:17:06 &amp;&#35;35;Using breakpad minid...",
-    "forks_count": 0,
-    "html_url": "https://github.com/marostcs/konzole",
-    "keywords": [
-        "Windows use after free",
-        "Win use after free"
-    ],
-    "language": null,
-    "repo_name": "konzole",
-    "repo_owner": "marostcs",
-    "repotime": "2021-01-19, 23:41:23",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 548,
+    "watchers_count": 548
 }
 {
     "commits_count": 17,
@@ -378,23 +250,6 @@
     "repo_name": "RAM-Cleaner-Pro",
     "repo_owner": "alenoi",
     "repotime": "2021-01-19, 03:22:11",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 0,
-    "date_started": "2021-01-18",
-    "date_updated": "2021-01-18",
-    "description": "Tyke is simple dns server to exploit Server Side Request Forgery using DNS rebinding technique",
-    "forks_count": 0,
-    "html_url": "https://github.com/creativetoken/tyke",
-    "keywords": [
-        "server side request forgery"
-    ],
-    "language": null,
-    "repo_name": "tyke",
-    "repo_owner": "creativetoken",
-    "repotime": "2021-01-18, 09:47:51",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -467,96 +322,28 @@
     "watchers_count": 3
 }
 {
-    "commits_count": 446,
-    "date_started": "2021-01-14",
-    "date_updated": "2021-01-13",
-    "description": "An alternative to ssh, written from the ground up in Golang. A test-bed for experimental key exchanges and symmetric session crypto algorithms. xs Features integrated traffic chaffing to obscure interactive session and file copy activity, and serves as a playground for other experimental attack-resistance techniques.",
-    "forks_count": 0,
-    "html_url": "https://github.com/isgasho/xs",
-    "keywords": [
-        "session attack"
-    ],
-    "language": null,
-    "repo_name": "xs",
-    "repo_owner": "isgasho",
-    "repotime": "2021-01-13, 00:59:27",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 18,
     "date_started": "2021-01-11",
     "date_updated": "2021-01-11",
     "description": "The objective of this study is to predict learners’ learning styles based on their learning traces. we analyzed data collected from the edX course “Statistical Learning&amp;quot;  session Winter 2015 and Winter 2016), administered via Stanford’s Logunita platform",
     "forks_count": 7,
-    "html_url": "https://github.com/hclon/Learning-Styles-prediction",
+    "html_url": "https://github.com/Br-Hmedna/Learning-Styles-prediction",
     "keywords": [
         "session prediction"
     ],
     "language": "Jupyter Notebook",
     "repo_name": "Learning-Styles-prediction",
-    "repo_owner": "hclon",
+    "repo_owner": "Br-Hmedna",
     "repotime": "2021-01-11, 17:13:59",
-    "stargazers_count": 8,
-    "watchers_count": 8
-}
-{
-    "commits_count": 221,
-    "date_started": "2020-03-05",
-    "date_updated": "2021-01-11",
-    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-    "forks_count": 42,
-    "html_url": "https://github.com/hash3liZer/evilginx2",
-    "keywords": [
-        "session attack"
-    ],
-    "language": "Go",
-    "repo_name": "evilginx2",
-    "repo_owner": "hash3liZer",
-    "repotime": "2021-01-11, 13:08:23",
-    "stargazers_count": 91,
-    "watchers_count": 91
-}
-{
-    "commits_count": 20,
-    "date_started": "2017-04-01",
-    "date_updated": "2021-01-10",
-    "description": "Data collection and analysis around the financial disclosures from the Office of Government Ethics",
-    "forks_count": 4,
-    "html_url": "https://github.com/Data4Democracy/wh-financial-disclosures",
-    "keywords": [
-        "disclosure"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "wh-financial-disclosures",
-    "repo_owner": "Data4Democracy",
-    "repotime": "2021-01-10, 22:08:59",
-    "stargazers_count": 5,
-    "watchers_count": 5
-}
-{
-    "commits_count": 2,
-    "date_started": "2021-01-10",
-    "date_updated": "2021-01-11",
-    "description": "Test Scenarios for XXE Under .NET Core",
-    "forks_count": 0,
-    "html_url": "https://github.com/mindingdata/XXEDotNetCore",
-    "keywords": [
-        "xxe"
-    ],
-    "language": "C#",
-    "repo_name": "XXEDotNetCore",
-    "repo_owner": "mindingdata",
-    "repotime": "2021-01-11, 09:17:12",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 221,
     "date_started": "2021-01-03",
     "date_updated": "2021-01-10",
     "description": "What is JavaScript and what does it do?   Before you start learning something new, it’s important to understand exactly what it is and what it does. This is especially useful when it comes to mastering a new programming language.  In simple terms, JavaScript is a programming language used to make websites interactive. If you think about the basic makeup of a website, you have HTML, which describes and defines the basic content and structure of the website, then you have CSS, which tells the browser how this HTML content should be displayed—determining things like color and font. With just HTML and CSS, you have a website that looks good but doesn’t actually do much. JavaScript brings the website to life by adding functionality. JavaScript is responsible for elements that the user can interact with, such as drop-down menus, modal windows, and contact forms. It is also used to create things like animations, video players, and interactive maps.  Nowadays, JavaScript is an all-purpose prog...",
-    "forks_count": 15,
+    "forks_count": 19,
     "html_url": "https://github.com/sanusanth/javascript-basic-program",
     "keywords": [
         "Windows use after free"
@@ -565,8 +352,8 @@
     "repo_name": "javascript-basic-program",
     "repo_owner": "sanusanth",
     "repotime": "2021-01-10, 13:19:14",
-    "stargazers_count": 37,
-    "watchers_count": 37
+    "stargazers_count": 42,
+    "watchers_count": 42
 }
 {
     "commits_count": 3,
@@ -603,38 +390,21 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 2,
-    "date_started": "2021-01-09",
-    "date_updated": "2021-01-10",
-    "description": "<no description>",
-    "forks_count": 6,
-    "html_url": "https://github.com/mave12/0DaylnkExploit-Builder",
-    "keywords": [
-        "0day exploit"
-    ],
-    "language": null,
-    "repo_name": "0DaylnkExploit-Builder",
-    "repo_owner": "mave12",
-    "repotime": "2021-01-10, 01:08:31",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
     "commits_count": 25,
     "date_started": "2020-12-20",
     "date_updated": "2021-01-08",
     "description": "A useful tool for tracking native (C++) memory leakage in Windows 10 environment (support both x86 and x64)",
     "forks_count": 0,
-    "html_url": "https://github.com/avipreshel/NativeMemoryLeakDetection",
+    "html_url": "https://github.com/avipreshel/CLI-Native-Leak-Detector",
     "keywords": [
         "Windows memory leak"
     ],
     "language": "C#",
-    "repo_name": "NativeMemoryLeakDetection",
+    "repo_name": "CLI-Native-Leak-Detector",
     "repo_owner": "avipreshel",
     "repotime": "2021-01-08, 17:18:58",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 10,
@@ -654,24 +424,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 18,
-    "date_started": "2021-05-25",
-    "date_updated": "2021-01-07",
-    "description": "OS command injection 0-day exploits for Jeff the eGod's APIs",
-    "forks_count": 2,
-    "html_url": "https://github.com/5l1v3r1/CTW-Auth-API-0day",
-    "keywords": [
-        "0day exploit",
-        "0day exploitation"
-    ],
-    "language": null,
-    "repo_name": "CTW-Auth-API-0day",
-    "repo_owner": "5l1v3r1",
-    "repotime": "2021-01-07, 09:21:32",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 1,
     "date_started": "2021-01-07",
     "date_updated": "2021-01-07",
@@ -679,10 +431,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/Aryia-Behroziuan/Cross-Site-Scripting-XSS-",
     "keywords": [
-        "session vulnerability",
-        "session hijacking attack",
-        "session hijacking vulnerability",
-        "session attack"
+        "session vulnerability"
     ],
     "language": null,
     "repo_name": "Cross-Site-Scripting-XSS-",
@@ -696,7 +445,7 @@
     "date_started": "2021-01-01",
     "date_updated": "2021-01-06",
     "description": "Interactive Semi Automatic Image 2D Bounding Box Annotation and Labelling Tool using Multi Template Matching   An Interactive Semi Automatic Image 2D Bounding Box Annotation/Labelling Tool to aid the Annotater/User to rapidly create 2D Bounding Box Single Object Detection masks for large number of training images in a semi automatic manner in order to train an object detection deep neural network such as Mask R-CNN or U-Net. As the Annotater/User starts annotating/labelling by drawing a bounding box for a few number of images in the selected folder then the algorithm suggests bounding box predictions for the rest of the yet to be annotated/labelled images in the folder. If the predictions are right then the user/annotater can simply press the keyboard key 'y' which indicates that the detected bounding box is correct. If the prediction is wrong then the user/annotater can manually draw a rectangular 2D bounding box over the correct ROI (Region of interest) in the image and then press th...",
-    "forks_count": 5,
+    "forks_count": 4,
     "html_url": "https://github.com/robertarvind/Interactive-Semi-Automatic-Image-2D-Bounding-Box-Annotation-Tool-using-Multi-Template_Matching",
     "keywords": [
         "wrong input validation"
@@ -705,8 +454,8 @@
     "repo_name": "Interactive-Semi-Automatic-Image-2D-Bounding-Box-Annotation-Tool-using-Multi-Template_Matching",
     "repo_owner": "robertarvind",
     "repotime": "2021-01-06, 18:57:22",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 2,
@@ -716,8 +465,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/thebabush/linux-russian-roulette",
     "keywords": [
-        "0day dos",
-        "0day exploit"
+        "0day dos"
     ],
     "language": "Python",
     "repo_name": "linux-russian-roulette",
@@ -768,8 +516,7 @@
     "forks_count": 6,
     "html_url": "https://github.com/BoxingOctopusCreative/toxin",
     "keywords": [
-        "lfi",
-        "local file inclusion"
+        "lfi"
     ],
     "language": "Python",
     "repo_name": "toxin",
@@ -783,7 +530,7 @@
     "date_started": "2018-01-28",
     "date_updated": "2021-01-04",
     "description": "Cheatsheet to exploit and learn SQL Injection.",
-    "forks_count": 48,
+    "forks_count": 49,
     "html_url": "https://github.com/AdmiralGaust/SQL-Injection-cheat-sheet",
     "keywords": [
         "sql injection"
@@ -792,8 +539,8 @@
     "repo_name": "SQL-Injection-cheat-sheet",
     "repo_owner": "AdmiralGaust",
     "repotime": "2021-01-04, 14:20:02",
-    "stargazers_count": 118,
-    "watchers_count": 118
+    "stargazers_count": 128,
+    "watchers_count": 128
 }
 {
     "commits_count": 7,

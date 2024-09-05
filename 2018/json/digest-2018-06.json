@@ -34,23 +34,6 @@
 }
 {
     "commits_count": 2,
-    "date_started": "2018-05-15",
-    "date_updated": "2018-06-25",
-    "description": "<no description>",
-    "forks_count": 50,
-    "html_url": "https://github.com/UWPCEWebPython/sql-injection-example",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Python",
-    "repo_name": "sql-injection-example",
-    "repo_owner": "UWPCEWebPython",
-    "repotime": "2018-06-25, 23:50:20",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 2,
     "date_started": "2019-03-31",
     "date_updated": "2018-06-25",
     "description": "<no description>",
@@ -63,8 +46,8 @@
     "repo_name": "sql-injection-example",
     "repo_owner": "pcewebpython",
     "repotime": "2018-06-25, 23:50:20",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 7,
@@ -84,23 +67,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 13,
-    "date_started": "2017-11-08",
-    "date_updated": "2018-06-24",
-    "description": "Online Examination System Today Online Examination System has become a fast growing examination method because of its speed and accuracy. It is also needed less manpower to execute the examination. Almost all organizations now-a-days, are conducting their objective exams by online examination system, it saves students time in examinations. Organizations can also easily check the performance of the student that they give in an examination. As a result of this, organizations are releasing results in less time. It also helps the environment by saving paper. According to today’s requirement, online examination project in php is very useful to learn it.  What is an online examination system? In an online examination system examine get their user id and password with his/her admit card. This id is already saved in the examination server. When examine login to the server he/she get his/her profile already register. On the certain time examine gets the message to start the examination. All ans...",
-    "forks_count": 59,
-    "html_url": "https://github.com/projectworldsofficial/online-examination-systen-in-php",
-    "keywords": [
-        "use after free proof of concept"
-    ],
-    "language": "PHP",
-    "repo_name": "online-examination-systen-in-php",
-    "repo_owner": "projectworldsofficial",
-    "repotime": "2018-06-24, 05:52:43",
-    "stargazers_count": 97,
-    "watchers_count": 97
-}
-{
     "commits_count": 35,
     "date_started": "2018-03-25",
     "date_updated": "2018-06-22",
@@ -114,25 +80,8 @@
     "repo_name": "phish-protect",
     "repo_owner": "phishai",
     "repotime": "2018-06-22, 09:50:00",
-    "stargazers_count": 117,
-    "watchers_count": 117
-}
-{
-    "commits_count": 3,
-    "date_started": "2018-06-22",
-    "date_updated": "2018-06-22",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/nguyenthanhluan6c/session_hijacking",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "Ruby",
-    "repo_name": "session_hijacking",
-    "repo_owner": "nguyenthanhluan6c",
-    "repotime": "2018-06-22, 10:30:56",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 116,
+    "watchers_count": 116
 }
 {
     "commits_count": 1,
@@ -176,33 +125,14 @@
     "forks_count": 2,
     "html_url": "https://github.com/PinkP4nther/SLMail_PoC",
     "keywords": [
-        "Windows rce",
-        "Windows rce poc",
-        "Windows rce exploit"
+        "Windows rce"
     ],
     "language": "Python",
     "repo_name": "SLMail_PoC",
     "repo_owner": "PinkP4nther",
     "repotime": "2018-06-20, 19:35:40",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 4,
-    "date_started": "2018-06-20",
-    "date_updated": "2018-06-20",
-    "description": "MS15-034 HTTP.sys 远程执行代码检测脚本（MS15-034 HTTP.sys remote execution code poc script）",
-    "forks_count": 4,
-    "html_url": "https://github.com/aedoo/CVE-2015-1635-POC",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2015-1635-POC",
-    "repo_owner": "aedoo",
-    "repotime": "2018-06-20, 22:33:02",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 5,
@@ -212,8 +142,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/fuqianz/cookie-jar",
     "keywords": [
-        "session vulnerability",
-        "session hijacking vulnerability"
+        "session vulnerability"
     ],
     "language": "Python",
     "repo_name": "cookie-jar",
@@ -261,7 +190,7 @@
     "date_started": "2018-06-14",
     "date_updated": "2018-06-16",
     "description": "bypass uac",
-    "forks_count": 24,
+    "forks_count": 22,
     "html_url": "https://github.com/liuxigu/bypassuac",
     "keywords": [
         "uac bypass"
@@ -272,23 +201,6 @@
     "repotime": "2018-06-16, 01:03:06",
     "stargazers_count": 140,
     "watchers_count": 140
-}
-{
-    "commits_count": 3,
-    "date_started": "2018-06-15",
-    "date_updated": "2018-06-15",
-    "description": "This is a quick POC for using the Matt Nelson (enigma0x3) technique for generating a malicious .SettingContent-ms extension type for remote code execution. This automates generating an HTA downloader and embeds it in the SettingContent-ms file for you and starts Apache.",
-    "forks_count": 19,
-    "html_url": "https://github.com/trustedsec/auto_SettingContent-ms",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "auto_SettingContent-ms",
-    "repo_owner": "trustedsec",
-    "repotime": "2018-06-15, 10:55:30",
-    "stargazers_count": 49,
-    "watchers_count": 49
 }
 {
     "commits_count": 4,
@@ -304,8 +216,8 @@
     "repo_name": "SPPLUAObjectUacBypass",
     "repo_owner": "deroko",
     "repotime": "2018-06-14, 22:04:01",
-    "stargazers_count": 46,
-    "watchers_count": 46
+    "stargazers_count": 45,
+    "watchers_count": 45
 }
 {
     "commits_count": 5,
@@ -315,15 +227,14 @@
     "forks_count": 24,
     "html_url": "https://github.com/pwn20wndstuff/iOS-Apfs-Persistence-Exploit",
     "keywords": [
-        "0day exploit",
-        "0day exploitation"
+        "0day exploit"
     ],
     "language": "C",
     "repo_name": "iOS-Apfs-Persistence-Exploit",
     "repo_owner": "pwn20wndstuff",
     "repotime": "2018-06-14, 20:26:31",
-    "stargazers_count": 127,
-    "watchers_count": 127
+    "stargazers_count": 125,
+    "watchers_count": 125
 }
 {
     "commits_count": 3,
@@ -333,33 +244,14 @@
     "forks_count": 43,
     "html_url": "https://github.com/TarlogicSecurity/EoPLoadDriver",
     "keywords": [
-        "escalation of privileges proof of concept",
-        "Windows escalation of privileges proof of concept",
         "Windows escalation of privileges"
     ],
     "language": "C++",
     "repo_name": "EoPLoadDriver",
     "repo_owner": "TarlogicSecurity",
     "repotime": "2018-06-14, 10:09:00",
-    "stargazers_count": 89,
-    "watchers_count": 89
-}
-{
-    "commits_count": 2,
-    "date_started": "2018-06-13",
-    "date_updated": "2018-06-13",
-    "description": "Implementing Cross-site Request Forgery protection in web applications via Double Submit Cookies Patterns  This app is a demonstration of how to prevent CSRF with double submit cookie patterns. What happens here is, a CSRF token is included in 2 places of a web form. One in the form itself and the other as a cookie. At the point of form validation, server side code checks if the token in the cookie and the token in the form are the same. If it is the same it's safe to process the information from the form.  This demonstration has 4 files in it. the index.php file contains the login form and the validation code for the login. At the point of login, it creates a CSRF token and sets a cookie from it. The protected.php file contains the are protected by the login, which is a contact form. When the page loads, a javascript code extracts the CSRF token from the cookie string and adds it into a hidden field in the form.",
-    "forks_count": 0,
-    "html_url": "https://github.com/AnuCS/CSRF-Prevention",
-    "keywords": [
-        "server side request forgery"
-    ],
-    "language": null,
-    "repo_name": "CSRF-Prevention",
-    "repo_owner": "AnuCS",
-    "repotime": "2018-06-13, 15:49:05",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 114,
+    "watchers_count": 114
 }
 {
     "commits_count": 3,
@@ -369,9 +261,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/technoexpert/firesheep",
     "keywords": [
-        "session hijacking attack",
-        "session attack",
-        "session hijacking"
+        "session attack"
     ],
     "language": "M4",
     "repo_name": "firesheep",
@@ -388,7 +278,6 @@
     "forks_count": 1,
     "html_url": "https://github.com/roflcer/Cross-Site-Request-Forgery-Attack",
     "keywords": [
-        "session vulnerability",
         "session attack"
     ],
     "language": null,
@@ -416,26 +305,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 5,
-    "date_started": "2018-06-09",
-    "date_updated": "2018-06-10",
-    "description": "&amp;quot;Zero Click&amp;quot; Remote Code Execution in Mycroft AI vocal assistant",
-    "forks_count": 23,
-    "html_url": "https://github.com/Nhoya/MycroftAI-RCE",
-    "keywords": [
-        "rce exploit",
-        "remote code execution vulnerability",
-        "remote code execution exploit",
-        "rce vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "MycroftAI-RCE",
-    "repo_owner": "Nhoya",
-    "repotime": "2018-06-10, 17:49:33",
-    "stargazers_count": 49,
-    "watchers_count": 49
-}
-{
     "commits_count": 30,
     "date_started": "2018-04-02",
     "date_updated": "2018-06-10",
@@ -460,7 +329,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/JosephShenton/multi_path",
     "keywords": [
-        "sandbox escape exploitation",
         "sandbox escape exploit"
     ],
     "language": null,
@@ -475,7 +343,7 @@
     "date_started": "2018-06-07",
     "date_updated": "2018-06-07",
     "description": "his list can be used by penetration testers when testing for SQL injection authentication bypass.A penetration tester can use it manually or through burp in order to automate the process.",
-    "forks_count": 12,
+    "forks_count": 16,
     "html_url": "https://github.com/mrsuman2002/SQL-Injection-Authentication-Bypass-Cheat-Sheet",
     "keywords": [
         "sql injection"
@@ -484,8 +352,8 @@
     "repo_name": "SQL-Injection-Authentication-Bypass-Cheat-Sheet",
     "repo_owner": "mrsuman2002",
     "repotime": "2018-06-07, 08:47:07",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 6,
@@ -501,8 +369,8 @@
     "repo_name": "guenther",
     "repo_owner": "tgianko",
     "repotime": "2018-06-05, 23:54:40",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 5,
@@ -522,42 +390,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 2,
-    "date_started": "2018-05-30",
-    "date_updated": "2018-06-03",
-    "description": "PoC exploit for CVE-2018-11235 allowing RCE on git clone --recurse-submodules",
-    "forks_count": 26,
-    "html_url": "https://github.com/Rogdham/CVE-2018-11235",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "rce exploitation"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2018-11235",
-    "repo_owner": "Rogdham",
-    "repotime": "2018-06-03, 20:49:48",
-    "stargazers_count": 47,
-    "watchers_count": 47
-}
-{
-    "commits_count": 7,
-    "date_started": "2018-06-02",
-    "date_updated": "2018-06-02",
-    "description": "Remote Code Execution in a vulnerable Elasticsearch container",
-    "forks_count": 0,
-    "html_url": "https://github.com/YrenWu/Elhackstic",
-    "keywords": [
-        "remote code execution vulnerability"
-    ],
-    "language": null,
-    "repo_name": "Elhackstic",
-    "repo_owner": "YrenWu",
-    "repotime": "2018-06-02, 17:11:45",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 5,
     "date_started": "2018-06-02",
     "date_updated": "2018-06-02",
@@ -573,22 +405,4 @@
     "repotime": "2018-06-02, 11:54:10",
     "stargazers_count": 2,
     "watchers_count": 2
-}
-{
-    "commits_count": 0,
-    "date_started": "2018-06-02",
-    "date_updated": "2018-06-02",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/TheRipperJhon/Windows-RCE-exploits",
-    "keywords": [
-        "Windows rce",
-        "Win rce"
-    ],
-    "language": null,
-    "repo_name": "Windows-RCE-exploits",
-    "repo_owner": "TheRipperJhon",
-    "repotime": "2018-06-02, 06:20:13",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }

@@ -16,23 +16,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 11,
-    "date_started": "2017-07-19",
-    "date_updated": "2017-07-30",
-    "description": "DC25 5A1F - Demystifying Windows Kernel Exploitation by Abusing GDI Objects",
-    "forks_count": 60,
-    "html_url": "https://github.com/sensepost/gdi-palettes-exp",
-    "keywords": [
-        "by_owner"
-    ],
-    "language": "C++",
-    "repo_name": "gdi-palettes-exp",
-    "repo_owner": "sensepost",
-    "repotime": "2017-07-30, 06:13:40",
-    "stargazers_count": 143,
-    "watchers_count": 143
-}
-{
     "commits_count": 5,
     "date_started": "2017-06-21",
     "date_updated": "2017-07-29",
@@ -50,7 +33,7 @@
     "watchers_count": 19
 }
 {
-    "commits_count": 24,
+    "commits_count": 25,
     "date_started": "2017-06-15",
     "date_updated": "2017-07-26",
     "description": "Java REST application to test hard coded passwords and code vulnerability scanning",
@@ -65,43 +48,6 @@
     "repotime": "2017-07-26, 15:18:00",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 5,
-    "date_started": "2017-05-25",
-    "date_updated": "2017-07-26",
-    "description": "Proof-of-Concept exploit for CVE-2017-7494(Samba RCE from a writable share)",
-    "forks_count": 59,
-    "html_url": "https://github.com/betab0t/cve-2017-7494",
-    "keywords": [
-        "rce proof of concept",
-        "rce exploit",
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "cve-2017-7494",
-    "repo_owner": "betab0t",
-    "repotime": "2017-07-26, 16:07:51",
-    "stargazers_count": 179,
-    "watchers_count": 179
-}
-{
-    "commits_count": 9,
-    "date_started": "2017-07-07",
-    "date_updated": "2017-07-25",
-    "description": "Parser for tor exploit database website 0day.today",
-    "forks_count": 0,
-    "html_url": "https://github.com/oreaga/Exploit-Parsers",
-    "keywords": [
-        "0day exploitation",
-        "0day exploit"
-    ],
-    "language": "Python",
-    "repo_name": "Exploit-Parsers",
-    "repo_owner": "oreaga",
-    "repotime": "2017-07-25, 10:18:20",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 5,
@@ -134,8 +80,8 @@
     "repo_name": "Code-Execution-and-Process-Injection",
     "repo_owner": "3gstudent",
     "repotime": "2017-07-17, 17:40:17",
-    "stargazers_count": 64,
-    "watchers_count": 64
+    "stargazers_count": 63,
+    "watchers_count": 63
 }
 {
     "commits_count": 12,
@@ -151,8 +97,8 @@
     "repo_name": "blindy",
     "repo_owner": "agienka",
     "repotime": "2017-07-16, 15:20:05",
-    "stargazers_count": 54,
-    "watchers_count": 54
+    "stargazers_count": 52,
+    "watchers_count": 52
 }
 {
     "commits_count": 2,
@@ -173,6 +119,23 @@
 }
 {
     "commits_count": 69,
+    "date_started": "2017-01-30",
+    "date_updated": "2017-07-07",
+    "description": "Examples of leaking Kernel Mode information from User Mode on Windows",
+    "forks_count": 157,
+    "html_url": "https://github.com/sam-b/windows_kernel_address_leaks",
+    "keywords": [
+        "Windows address leak"
+    ],
+    "language": "C++",
+    "repo_name": "windows_kernel_address_leaks",
+    "repo_owner": "sam-b",
+    "repotime": "2017-07-07, 11:05:33",
+    "stargazers_count": 571,
+    "watchers_count": 571
+}
+{
+    "commits_count": 69,
     "date_started": "2021-05-16",
     "date_updated": "2017-07-07",
     "description": "<no description>",
@@ -187,24 +150,6 @@
     "repotime": "2017-07-07, 11:05:33",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 69,
-    "date_started": "2017-01-30",
-    "date_updated": "2017-07-07",
-    "description": "Examples of leaking Kernel Mode information from User Mode on Windows",
-    "forks_count": 153,
-    "html_url": "https://github.com/sam-b/windows_kernel_address_leaks",
-    "keywords": [
-        "Win address leak",
-        "Windows address leak"
-    ],
-    "language": "C++",
-    "repo_name": "windows_kernel_address_leaks",
-    "repo_owner": "sam-b",
-    "repotime": "2017-07-07, 11:05:33",
-    "stargazers_count": 547,
-    "watchers_count": 547
 }
 {
     "commits_count": 9,

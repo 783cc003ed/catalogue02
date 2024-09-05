@@ -20,7 +20,7 @@
     "date_started": "2016-10-27",
     "date_updated": "2016-10-28",
     "description": "Brand New Code Injection for Windows",
-    "forks_count": 280,
+    "forks_count": 266,
     "html_url": "https://github.com/BreakingMalwareResearch/atom-bombing",
     "keywords": [
         "code injection"
@@ -29,15 +29,15 @@
     "repo_name": "atom-bombing",
     "repo_owner": "BreakingMalwareResearch",
     "repotime": "2016-10-28, 20:24:05",
-    "stargazers_count": 711,
-    "watchers_count": 711
+    "stargazers_count": 720,
+    "watchers_count": 720
 }
 {
     "commits_count": 5,
     "date_started": "2016-10-29",
     "date_updated": "2016-10-28",
     "description": "Brand New Code Injection for Windows https://breakingmalware.com/injection-techniques/atombombing-brand-new-code-injection-for-windows ",
-    "forks_count": 9,
+    "forks_count": 10,
     "html_url": "https://github.com/gcoinman/atom-bombing-",
     "keywords": [
         "code injection"
@@ -46,25 +46,25 @@
     "repo_name": "atom-bombing-",
     "repo_owner": "gcoinman",
     "repotime": "2016-10-28, 20:24:05",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 3,
-    "date_started": "2015-03-18",
-    "date_updated": "2016-10-26",
-    "description": "A tool to copy remote file systems though a local file inclusion vulnerability.",
-    "forks_count": 0,
-    "html_url": "https://github.com/motsu35/LFIler",
+    "date_started": "2016-10-22",
+    "date_updated": "2016-10-23",
+    "description": "Arbitrary SMM code execution exploit for industry-wide 0day vulnerability in AMI Aptio based firmwares",
+    "forks_count": 16,
+    "html_url": "https://github.com/Cr4sh/Aptiocalypsis",
     "keywords": [
-        "local file inclusion"
+        "0day exploit"
     ],
     "language": "Python",
-    "repo_name": "LFIler",
-    "repo_owner": "motsu35",
-    "repotime": "2016-10-26, 19:09:02",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "repo_name": "Aptiocalypsis",
+    "repo_owner": "Cr4sh",
+    "repotime": "2016-10-23, 00:27:01",
+    "stargazers_count": 60,
+    "watchers_count": 60
 }
 {
     "commits_count": 2,
@@ -84,23 +84,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 0,
-    "date_started": "2016-10-19",
-    "date_updated": "2016-10-19",
-    "description": "Instructions  Introduction  It is now possible to collect a large amount of data about personal movement using activity monitoring devices such as a Fitbit, Nike Fuelband, or Jawbone Up. These type of devices are part of the “quantified self” movement – a group of enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech geeks. But these data remain under-utilized both because the raw data are hard to obtain and there is a lack of statistical methods and software for processing and interpreting the data.  This assignment makes use of data from a personal activity monitoring device. This device collects data at 5 minute intervals through out the day. The data consists of two months of data from an anonymous individual collected during the months of October and November, 2012 and include the number of steps taken in 5 minute intervals each day.  The data for this assignment can be downloaded from the...",
-    "forks_count": 0,
-    "html_url": "https://github.com/Bhaskarghose/Reproductible-Research-Project-1",
-    "keywords": [
-        "use after free analysis"
-    ],
-    "language": null,
-    "repo_name": "Reproductible-Research-Project-1",
-    "repo_owner": "Bhaskarghose",
-    "repotime": "2016-10-19, 11:25:27",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 5,
     "date_started": "2015-12-28",
     "date_updated": "2016-10-16",
@@ -116,40 +99,6 @@
     "repotime": "2016-10-16, 17:11:49",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 18,
-    "date_started": "2016-06-25",
-    "date_updated": "2016-10-14",
-    "description": "<no description>",
-    "forks_count": 5,
-    "html_url": "https://github.com/DshtAnger/discuz_redis_ssrf_exec",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Python",
-    "repo_name": "discuz_redis_ssrf_exec",
-    "repo_owner": "DshtAnger",
-    "repotime": "2016-10-14, 21:36:29",
-    "stargazers_count": 8,
-    "watchers_count": 8
-}
-{
-    "commits_count": 7,
-    "date_started": "2016-10-14",
-    "date_updated": "2016-10-14",
-    "description": "It sniffs mail lists from naver by hijacking cookie(session).",
-    "forks_count": 1,
-    "html_url": "https://github.com/WeareJoker/naver_mail_list_sniffer",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "Python",
-    "repo_name": "naver_mail_list_sniffer",
-    "repo_owner": "WeareJoker",
-    "repotime": "2016-10-14, 14:24:40",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 11,
@@ -190,7 +139,7 @@
     "date_started": "2016-08-02",
     "date_updated": "2016-10-06",
     "description": "Fox-scan is a initiative and passive SQL Injection vulnerable Test tools.",
-    "forks_count": 241,
+    "forks_count": 240,
     "html_url": "https://github.com/fengxuangit/Fox-scan",
     "keywords": [
         "sql injection"
@@ -199,15 +148,15 @@
     "repo_name": "Fox-scan",
     "repo_owner": "fengxuangit",
     "repotime": "2016-10-06, 22:49:45",
-    "stargazers_count": 400,
-    "watchers_count": 400
+    "stargazers_count": 403,
+    "watchers_count": 403
 }
 {
     "commits_count": 3,
     "date_started": "2016-10-05",
     "date_updated": "2016-10-05",
     "description": "DNS-Shell is an interactive Shell over DNS channel",
-    "forks_count": 151,
+    "forks_count": 135,
     "html_url": "https://github.com/sensepost/DNS-Shell",
     "keywords": [
         "by_owner"
@@ -216,8 +165,8 @@
     "repo_name": "DNS-Shell",
     "repo_owner": "sensepost",
     "repotime": "2016-10-05, 15:05:33",
-    "stargazers_count": 509,
-    "watchers_count": 509
+    "stargazers_count": 521,
+    "watchers_count": 521
 }
 {
     "commits_count": 1,
@@ -241,7 +190,7 @@
     "date_started": "2016-10-02",
     "date_updated": "2016-10-04",
     "description": "OS X 10.11.6 LPE PoC for CVE-2016-4655 / CVE-2016-4656",
-    "forks_count": 29,
+    "forks_count": 28,
     "html_url": "https://github.com/jndok/PegasusX",
     "keywords": [
         "lpe poc"
@@ -250,8 +199,8 @@
     "repo_name": "PegasusX",
     "repo_owner": "jndok",
     "repotime": "2016-10-04, 18:36:17",
-    "stargazers_count": 99,
-    "watchers_count": 99
+    "stargazers_count": 98,
+    "watchers_count": 98
 }
 {
     "commits_count": 2,
@@ -267,6 +216,6 @@
     "repo_name": "Burp-LFI-tests",
     "repo_owner": "Team-Firebugs",
     "repotime": "2016-10-04, 18:03:41",
-    "stargazers_count": 60,
-    "watchers_count": 60
+    "stargazers_count": 58,
+    "watchers_count": 58
 }

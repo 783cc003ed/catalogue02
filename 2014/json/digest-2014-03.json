@@ -1,22 +1,5 @@
 {
     "commits_count": 1,
-    "date_started": "2014-03-25",
-    "date_updated": "2014-03-25",
-    "description": "Semi supervised Random Forest project",
-    "forks_count": 5,
-    "html_url": "https://github.com/Luke3D/SSRF",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Matlab",
-    "repo_name": "SSRF",
-    "repo_owner": "Luke3D",
-    "repotime": "2014-03-25, 18:35:12",
-    "stargazers_count": 9,
-    "watchers_count": 9
-}
-{
-    "commits_count": 1,
     "date_started": "2014-03-20",
     "date_updated": "2014-03-20",
     "description": "&amp;lt;!DOCTYPE html&amp;gt;  &amp;lt;html&amp;gt; &amp;lt;head&amp;gt;  &amp;lt;script&amp;gt;/* Counts the number of characters entered by the user inside the text area . It also counts the number of characters pasted inside the text area. Progress bar to indicate the number of characters left or enterd. Easy to create takes less than an hour*/ /*! jQuery v1.10.2 | (c) 2005, 2013 jQuery Foundation, Inc. | jquery.org/license //@ sourceMappingURL=jquery-1.10.2.min.map */ (function(e,t){var n,r,i=typeof t,o=e.location,a=e.document,s=a.documentElement,l=e.jQuery,u=e.$,c={},p=[],f=&amp;quot;1.10.2&amp;quot;,d=p.concat,h=p.push,g=p.slice,m=p.indexOf,y=c.toString,v=c.hasOwnProperty,b=f.trim,x=function(e,t){return new x.fn.init(e,t,r)},w=/[+-]?(?:\\d*\\.|)\\d+(?:[eE][+-]?\\d+|)/.source,T=/\\S+/g,C=/^[\\s\\uFEFF\\xA0]+|[\\s\\uFEFF\\xA0]+$/g,N=/^(?:\\s*(&amp;lt;[\\w\\W]+&amp;gt;)[^&amp;gt;]*|&amp;&#35;35;([\\w-]*))$/,k=/^&amp;lt;(\\w+)\\s*\\/?&amp;gt;(?:&amp;lt;\\/\\1&amp;gt;|)$/,E=/^[\\],:{}\\s]*$/,S=/(?:^|:|,)(?:\\s*\\[)+/g,A=/\\\\(?:[&amp;quot;\\\\\\/bfnrt]|u[\\da-fA-F]{4})/g,j=/&amp;quot;[^&amp;quot;\\\\\\r...",
@@ -40,7 +23,6 @@
     "forks_count": 0,
     "html_url": "https://github.com/youngdev/Abraxas",
     "keywords": [
-        "zero-day exploitation",
         "zero-day exploit"
     ],
     "language": "Java",

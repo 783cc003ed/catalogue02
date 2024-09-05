@@ -3,7 +3,7 @@
     "date_started": "2015-09-27",
     "date_updated": "2015-09-27",
     "description": "PowerShell Module to provide Network Block Device like functionality on Windows Hosts",
-    "forks_count": 6,
+    "forks_count": 7,
     "html_url": "https://github.com/Invoke-IR/POSHNBD",
     "keywords": [
         "by_owner"
@@ -23,11 +23,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/yakkobr/WindowsPrivilegeEscalation",
     "keywords": [
-        "Win escalation of privileges proof of concept",
-        "Win escalation of privileges",
-        "Windows escalation of privileges",
-        "escalation of privileges proof of concept",
-        "Windows escalation of privileges proof of concept"
+        "Win escalation of privileges"
     ],
     "language": null,
     "repo_name": "WindowsPrivilegeEscalation",
@@ -67,8 +63,8 @@
     "repo_name": "SCAN_XXE",
     "repo_owner": "s1kr10s",
     "repotime": "2015-09-24, 13:10:18",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 7,
@@ -84,26 +80,8 @@
     "repo_name": "Memory_Codes_Injection",
     "repo_owner": "hkhk366",
     "repotime": "2015-09-19, 16:45:56",
-    "stargazers_count": 9,
-    "watchers_count": 9
-}
-{
-    "commits_count": 2,
-    "date_started": "2015-09-10",
-    "date_updated": "2015-09-10",
-    "description": "An exploit for CVE-2015-1538-1 - Google Stagefright ‘stsc’ MP4 Atom Integer Overflow Remote Code Execution",
-    "forks_count": 126,
-    "html_url": "https://github.com/jduck/cve-2015-1538-1",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "cve-2015-1538-1",
-    "repo_owner": "jduck",
-    "repotime": "2015-09-10, 10:36:10",
-    "stargazers_count": 202,
-    "watchers_count": 202
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 16,
@@ -140,24 +118,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 4,
-    "date_started": "2015-09-09",
-    "date_updated": "2015-09-02",
-    "description": "An exploit for CVE-2015-1538-1 - Google Stagefright ‘stsc’ MP4 Atom Integer Overflow Remote Code Execution",
-    "forks_count": 12,
-    "html_url": "https://github.com/oguzhantopgul/cve-2015-1538-1",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "cve-2015-1538-1",
-    "repo_owner": "oguzhantopgul",
-    "repotime": "2015-09-02, 05:27:00",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
     "commits_count": 7,
     "date_started": "2015-09-01",
     "date_updated": "2015-09-01",
@@ -165,8 +125,7 @@
     "forks_count": 25,
     "html_url": "https://github.com/exp-sky/HitCon-2015-spartan-0day-exploit",
     "keywords": [
-        "0day exploit",
-        "0day exploitation"
+        "0day exploit"
     ],
     "language": null,
     "repo_name": "HitCon-2015-spartan-0day-exploit",

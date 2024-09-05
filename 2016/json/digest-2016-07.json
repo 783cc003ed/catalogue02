@@ -12,8 +12,8 @@
     "repo_name": "CSVInjectionPayloads",
     "repo_owner": "ZephrFish",
     "repotime": "2016-07-29, 20:16:49",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 14,
@@ -29,8 +29,8 @@
     "repo_name": "XOE",
     "repo_owner": "D4Vinci",
     "repotime": "2016-07-28, 17:44:25",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 8,
@@ -54,24 +54,17 @@
     "date_started": "2016-07-25",
     "date_updated": "2016-07-26",
     "description": "HitCon 2016 Windows 10 x64 edge 0day and exploit",
-    "forks_count": 43,
+    "forks_count": 36,
     "html_url": "https://github.com/exp-sky/HitCon-2016-Windows-10-x64-edge-0day-and-exploit",
     "keywords": [
-        "0day exploit",
-        "Windows 0day exploitation",
-        "Win 0day exploitation",
-        "Win 0day",
-        "Windows 0day",
-        "Windows 0day exploit",
-        "0day exploitation",
-        "Win 0day exploit"
+        "Windows 0day"
     ],
     "language": null,
     "repo_name": "HitCon-2016-Windows-10-x64-edge-0day-and-exploit",
     "repo_owner": "exp-sky",
     "repotime": "2016-07-26, 11:47:07",
-    "stargazers_count": 100,
-    "watchers_count": 100
+    "stargazers_count": 101,
+    "watchers_count": 101
 }
 {
     "commits_count": 10,
@@ -81,10 +74,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/huggablehacker/CORE-test",
     "keywords": [
-        "Microsoft remote code execution vulnerability",
-        "Windows remote code execution",
-        "Microsoft remote code execution",
-        "Windows remote code execution vulnerability"
+        "Windows remote code execution"
     ],
     "language": "Shell",
     "repo_name": "CORE-test",
@@ -124,8 +114,8 @@
     "repo_name": "PowerForensicsPortable",
     "repo_owner": "Invoke-IR",
     "repotime": "2016-07-14, 21:09:46",
-    "stargazers_count": 28,
-    "watchers_count": 28
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 3,
@@ -166,7 +156,7 @@
     "date_started": "2016-07-12",
     "date_updated": "2016-07-12",
     "description": "Pebblecoin    UPDATE 2015/12/31: Version 0.4.4.1 is now out.  The major change is optimizing the daemon to use less RAM.  It no longer keeps all the blocks, which are rarely needed, in RAM, and so RAM usage has decreased from around 2 gigabytes, to under 200 megabytes.  Mac binaries are also now available.  The new wallet is compatible with the old wallet - simply turn off the old wallet, and start the new wallet, and the blockchain will update automatically to use less RAM.  Code: Release Notes 0.4.4.1 - (All) Fix blockchain RAM usage, from almost 2 GB to less than 200 MB   - Seamless blockchain conversion on first run with new binaries - (Qt) Fix high CPU usage - (Qt) Fix sync indicator (&amp;&#35;35; of total blocks) - (Mac) Mac binaries - Technical Notes:   - (All) Blockchain disk-backed storage with sqlite3 and stxxl   - (Mac) Fix mac compilation   - (All) Update build files &amp;amp; instructions for linux, mac, windows   - (All) Remove unused protobuf and OpenSSL dependencies for Qt wallet ...",
-    "forks_count": 16,
+    "forks_count": 9,
     "html_url": "https://github.com/BlockchainLabs/Pebblecoin",
     "keywords": [
         "Windows use after free"
@@ -175,8 +165,8 @@
     "repo_name": "Pebblecoin",
     "repo_owner": "BlockchainLabs",
     "repotime": "2016-07-12, 16:41:31",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 11,
@@ -194,23 +184,6 @@
     "repotime": "2016-07-09, 00:22:38",
     "stargazers_count": 4,
     "watchers_count": 4
-}
-{
-    "commits_count": 3,
-    "date_started": "2016-07-08",
-    "date_updated": "2016-07-08",
-    "description": "a fast and simple excel2007 parser and writer ",
-    "forks_count": 1,
-    "html_url": "https://github.com/lscgzwd/xxexcel",
-    "keywords": [
-        "xxe"
-    ],
-    "language": "C",
-    "repo_name": "xxexcel",
-    "repo_owner": "lscgzwd",
-    "repotime": "2016-07-08, 23:24:18",
-    "stargazers_count": 5,
-    "watchers_count": 5
 }
 {
     "commits_count": 20,

@@ -16,41 +16,6 @@
     "watchers_count": 4
 }
 {
-    "commits_count": 2,
-    "date_started": "2017-12-26",
-    "date_updated": "2017-12-26",
-    "description": "SSRF injection",
-    "forks_count": 3,
-    "html_url": "https://github.com/trapp3rhat/SSRF-Injection",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Python",
-    "repo_name": "SSRF-Injection",
-    "repo_owner": "trapp3rhat",
-    "repotime": "2017-12-26, 19:54:00",
-    "stargazers_count": 8,
-    "watchers_count": 8
-}
-{
-    "commits_count": 4,
-    "date_started": "2017-12-26",
-    "date_updated": "2017-12-26",
-    "description": "A python RCE exploit on QNAP-QTS ",
-    "forks_count": 9,
-    "html_url": "https://github.com/0xneox/QNAP-QTS-RCE",
-    "keywords": [
-        "rce exploit",
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "QNAP-QTS-RCE",
-    "repo_owner": "0xneox",
-    "repotime": "2017-12-26, 15:27:38",
-    "stargazers_count": 14,
-    "watchers_count": 14
-}
-{
     "commits_count": 4,
     "date_started": "2017-12-25",
     "date_updated": "2017-12-25",
@@ -64,43 +29,25 @@
     "repo_name": "CVE-2017-10271",
     "repo_owner": "s3xy",
     "repotime": "2017-12-25, 14:21:23",
-    "stargazers_count": 24,
-    "watchers_count": 24
-}
-{
-    "commits_count": 8,
-    "date_started": "2017-12-24",
-    "date_updated": "2017-12-24",
-    "description": "xxe.sh",
-    "forks_count": 1,
-    "html_url": "https://github.com/xxesh/xxesh.github.io",
-    "keywords": [
-        "xxe"
-    ],
-    "language": "HTML",
-    "repo_name": "xxesh.github.io",
-    "repo_owner": "xxesh",
-    "repotime": "2017-12-24, 06:27:53",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 313,
     "date_started": "2015-10-02",
     "date_updated": "2017-12-22",
     "description": "SSRF Proxy facilitates tunneling HTTP communications through servers vulnerable to Server-Side Request Forgery.",
-    "forks_count": 76,
+    "forks_count": 75,
     "html_url": "https://github.com/bcoles/ssrf_proxy",
     "keywords": [
-        "server side request forgery",
         "ssrf"
     ],
     "language": "Ruby",
     "repo_name": "ssrf_proxy",
     "repo_owner": "bcoles",
     "repotime": "2017-12-22, 12:56:31",
-    "stargazers_count": 425,
-    "watchers_count": 425
+    "stargazers_count": 440,
+    "watchers_count": 440
 }
 {
     "commits_count": 1,
@@ -120,42 +67,6 @@
     "watchers_count": 2
 }
 {
-    "commits_count": 5,
-    "date_started": "2017-12-21",
-    "date_updated": "2017-12-20",
-    "description": "Founded in August of 2008, Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodations around the world.   As the numbers of accommodations growing, how can we provide new users with personalized recommendations to help them save time when they do their first booking on Airbnb?  Every users have different preferences. By exploiting and analyzing old users’ personal information and web session records, we can predict which country will a new user most likely choose with his/her basic information.  For this project, we will build a system to make a prediction about the destination country of every new user’s first booking.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Sapphirine/Airbnb-New-User-Bookings-Prediction",
-    "keywords": [
-        "session prediction"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "Airbnb-New-User-Bookings-Prediction",
-    "repo_owner": "Sapphirine",
-    "repotime": "2017-12-20, 21:08:52",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 9,
-    "date_started": "2016-08-25",
-    "date_updated": "2017-12-20",
-    "description": "A tool to exploit imagetragick vulnerability to gain remote code execution ",
-    "forks_count": 9,
-    "html_url": "https://github.com/vishwaraj101/imagetragick",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit",
-        "remote code execution vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "imagetragick",
-    "repo_owner": "vishwaraj101",
-    "repotime": "2017-12-20, 15:33:18",
-    "stargazers_count": 16,
-    "watchers_count": 16
-}
-{
     "commits_count": 66,
     "date_started": "2017-11-16",
     "date_updated": "2017-12-19",
@@ -173,11 +84,11 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 3,
+    "commits_count": 4,
     "date_started": "2017-05-03",
     "date_updated": "2017-12-19",
     "description": "A set of tutorials about code injection for Windows.",
-    "forks_count": 80,
+    "forks_count": 71,
     "html_url": "https://github.com/peperunas/injectopi",
     "keywords": [
         "code injection"
@@ -186,15 +97,15 @@
     "repo_name": "injectopi",
     "repo_owner": "peperunas",
     "repotime": "2017-12-19, 17:06:15",
-    "stargazers_count": 306,
-    "watchers_count": 306
+    "stargazers_count": 304,
+    "watchers_count": 304
 }
 {
     "commits_count": 12,
     "date_started": "2017-12-19",
     "date_updated": "2017-12-19",
     "description": "Simple development DNS server written in python",
-    "forks_count": 9,
+    "forks_count": 10,
     "html_url": "https://github.com/sensepost/dnserver",
     "keywords": [
         "by_owner"
@@ -203,15 +114,15 @@
     "repo_name": "dnserver",
     "repo_owner": "sensepost",
     "repotime": "2017-12-19, 16:24:16",
-    "stargazers_count": 25,
-    "watchers_count": 25
+    "stargazers_count": 26,
+    "watchers_count": 26
 }
 {
     "commits_count": 7,
     "date_started": "2017-12-12",
     "date_updated": "2017-12-18",
     "description": "Proof of concept written in Python to show that in some situations a SSRF vulnerability can be used to steal NTLMv1/v2 hashes.",
-    "forks_count": 13,
+    "forks_count": 10,
     "html_url": "https://github.com/blazeinfosec/ssrf-ntlm",
     "keywords": [
         "ssrf"
@@ -220,15 +131,15 @@
     "repo_name": "ssrf-ntlm",
     "repo_owner": "blazeinfosec",
     "repotime": "2017-12-18, 18:39:41",
-    "stargazers_count": 56,
-    "watchers_count": 56
+    "stargazers_count": 57,
+    "watchers_count": 57
 }
 {
     "commits_count": 5,
     "date_started": "2015-05-12",
     "date_updated": "2017-12-18",
     "description": "Win32k LPE vulnerability used in APT attack",
-    "forks_count": 191,
+    "forks_count": 178,
     "html_url": "https://github.com/hfiref0x/CVE-2015-1701",
     "keywords": [
         "lpe vulnerability"
@@ -237,42 +148,8 @@
     "repo_name": "CVE-2015-1701",
     "repo_owner": "hfiref0x",
     "repotime": "2017-12-18, 21:11:23",
-    "stargazers_count": 284,
-    "watchers_count": 284
-}
-{
-    "commits_count": 201,
-    "date_started": "2017-11-28",
-    "date_updated": "2017-12-16",
-    "description": "This project is to create a content management system that offers configurable data structures. These different types of data structures will be known as structures, and individual instances of a structure ​will be known as an entry. This content management system will be developed in the form of a Single Page Application that runs multiple web servers and processes. Your product will have a public and private component to it. There will be a part of the CMS that you can view, whether you are logged in or not, to view the content that has been created. Your home page will list each type of structure, as well as how many entries there are for that structure. Your product will also have an administrative component to it. Administrators will be able to define the composition of a structure, as well as create, read, update, or delete entries of each structure. They will also be able to edit users. Admins are users that have some property denoting that they are administrators. Both administ...",
-    "forks_count": 3,
-    "html_url": "https://github.com/CS-554-Project/CMS",
-    "keywords": [
-        "unauthenticated user"
-    ],
-    "language": "JavaScript",
-    "repo_name": "CMS",
-    "repo_owner": "CS-554-Project",
-    "repotime": "2017-12-16, 23:43:00",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 7,
-    "date_started": "2017-12-19",
-    "date_updated": "2017-12-15",
-    "description": "CVE-2017-15944 Palo Alto Networks firewalls remote root code execution POC",
-    "forks_count": 6,
-    "html_url": "https://github.com/xxnbyy/CVE-2017-15944-POC",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2017-15944-POC",
-    "repo_owner": "xxnbyy",
-    "repotime": "2017-12-15, 10:57:40",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 285,
+    "watchers_count": 285
 }
 {
     "commits_count": 2,
@@ -313,21 +190,17 @@
     "date_started": "2016-10-25",
     "date_updated": "2017-12-13",
     "description": "A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.",
-    "forks_count": 337,
+    "forks_count": 316,
     "html_url": "https://github.com/1N3/PrivEsc",
     "keywords": [
-        "Windows escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "Windows escalation of privileges",
-        "Windows escalation of privileges exploitation",
         "escalation of privileges exploit"
     ],
     "language": "C",
     "repo_name": "PrivEsc",
     "repo_owner": "1N3",
     "repotime": "2017-12-13, 15:08:57",
-    "stargazers_count": 935,
-    "watchers_count": 935
+    "stargazers_count": 956,
+    "watchers_count": 956
 }
 {
     "commits_count": 2,
@@ -337,15 +210,14 @@
     "forks_count": 2,
     "html_url": "https://github.com/bazad/gsscred-move-uaf",
     "keywords": [
-        "uaf proof of concept",
-        "use after free proof of concept"
+        "uaf proof of concept"
     ],
     "language": "C",
     "repo_name": "gsscred-move-uaf",
     "repo_owner": "bazad",
     "repotime": "2017-12-09, 15:23:33",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 2,

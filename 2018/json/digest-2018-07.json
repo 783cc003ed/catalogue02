@@ -16,40 +16,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 14,
-    "date_started": "2018-07-30",
-    "date_updated": "2018-07-30",
-    "description": "Python code injection library",
-    "forks_count": 5,
-    "html_url": "https://github.com/andreafortuna/pycodeinjector",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Python",
-    "repo_name": "pycodeinjector",
-    "repo_owner": "andreafortuna",
-    "repotime": "2018-07-30, 17:27:28",
-    "stargazers_count": 10,
-    "watchers_count": 10
-}
-{
-    "commits_count": 40,
-    "date_started": "2018-07-24",
-    "date_updated": "2018-07-30",
-    "description": "Sample code for articles",
-    "forks_count": 5,
-    "html_url": "https://github.com/ploeh/dependency-injection-revisited",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "C#",
-    "repo_name": "dependency-injection-revisited",
-    "repo_owner": "ploeh",
-    "repotime": "2018-07-30, 08:12:53",
-    "stargazers_count": 14,
-    "watchers_count": 14
-}
-{
     "commits_count": 6,
     "date_started": "2018-07-27",
     "date_updated": "2018-07-27",
@@ -67,28 +33,11 @@
     "watchers_count": 4
 }
 {
-    "commits_count": 37,
-    "date_started": "2019-10-20",
-    "date_updated": "2018-07-26",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/fk-code-ctrl/Session-Hijacking",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "PHP",
-    "repo_name": "Session-Hijacking",
-    "repo_owner": "fk-code-ctrl",
-    "repotime": "2018-07-26, 00:12:42",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 65,
     "date_started": "2015-08-24",
     "date_updated": "2018-07-24",
     "description": "Sleepy Puppy XSS Payload Management Framework",
-    "forks_count": 133,
+    "forks_count": 135,
     "html_url": "https://github.com/Netflix-Skunkworks/sleepy-puppy",
     "keywords": [
         "xss"
@@ -97,15 +46,15 @@
     "repo_name": "sleepy-puppy",
     "repo_owner": "Netflix-Skunkworks",
     "repotime": "2018-07-24, 13:33:08",
-    "stargazers_count": 1022,
-    "watchers_count": 1022
+    "stargazers_count": 1029,
+    "watchers_count": 1029
 }
 {
     "commits_count": 251,
     "date_started": "2016-02-17",
     "date_updated": "2018-07-24",
     "description": "psychoPATH - an advanced path traversal tool. Features: evasive techniques, dynamic web root list generation, output encoding, site map-searching payload generator, LFI mode, nix &amp;amp; windows support, single byte generator, payload export.",
-    "forks_count": 100,
+    "forks_count": 92,
     "html_url": "https://github.com/ewilded/psychoPATH",
     "keywords": [
         "lfi"
@@ -114,8 +63,8 @@
     "repo_name": "psychoPATH",
     "repo_owner": "ewilded",
     "repotime": "2018-07-24, 09:37:49",
-    "stargazers_count": 266,
-    "watchers_count": 266
+    "stargazers_count": 269,
+    "watchers_count": 269
 }
 {
     "commits_count": 15,
@@ -139,7 +88,7 @@
     "date_started": "2018-07-20",
     "date_updated": "2018-07-20",
     "description": "CVE-2018-2894 WebLogic Unrestricted File Upload Lead To RCE Check Script",
-    "forks_count": 50,
+    "forks_count": 49,
     "html_url": "https://github.com/LandGrey/CVE-2018-2894",
     "keywords": [
         "unrestricted file upload"
@@ -148,8 +97,8 @@
     "repo_name": "CVE-2018-2894",
     "repo_owner": "LandGrey",
     "repotime": "2018-07-20, 20:46:37",
-    "stargazers_count": 135,
-    "watchers_count": 135
+    "stargazers_count": 134,
+    "watchers_count": 134
 }
 {
     "commits_count": 1,
@@ -167,24 +116,6 @@
     "repotime": "2018-07-20, 14:32:20",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 8,
-    "date_started": "2018-07-20",
-    "date_updated": "2018-07-20",
-    "description": "OsCommerce 2.3.4.1 - Remote Code Execution Exploit",
-    "forks_count": 2,
-    "html_url": "https://github.com/Trevor3000/OsCommerce2-3RceExploit",
-    "keywords": [
-        "remote code execution exploitation",
-        "remote code execution exploit"
-    ],
-    "language": "Python",
-    "repo_name": "OsCommerce2-3RceExploit",
-    "repo_owner": "Trevor3000",
-    "repotime": "2018-07-20, 10:22:18",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 110,
@@ -217,8 +148,8 @@
     "repo_name": "SharpNeedle",
     "repo_owner": "ChadSki",
     "repotime": "2018-07-17, 19:18:25",
-    "stargazers_count": 327,
-    "watchers_count": 327
+    "stargazers_count": 332,
+    "watchers_count": 332
 }
 {
     "commits_count": 19,
@@ -228,39 +159,21 @@
     "forks_count": 4,
     "html_url": "https://github.com/alt3kx/CVE-2018-12463",
     "keywords": [
-        "xml external entity",
         "0day vulnerability"
     ],
     "language": null,
     "repo_name": "CVE-2018-12463",
     "repo_owner": "alt3kx",
     "repotime": "2018-07-17, 10:13:34",
-    "stargazers_count": 6,
-    "watchers_count": 6
-}
-{
-    "commits_count": 1,
-    "date_started": "2018-07-13",
-    "date_updated": "2018-07-13",
-    "description": " Automated Oracle CVE-2014-6577 exploitation via SQLi",
-    "forks_count": 2,
-    "html_url": "https://github.com/SecurityArtWork/oracle-xxe-sqli",
-    "keywords": [
-        "xxe"
-    ],
-    "language": "Python",
-    "repo_name": "oracle-xxe-sqli",
-    "repo_owner": "SecurityArtWork",
-    "repotime": "2018-07-13, 14:26:47",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 13,
     "date_started": "2015-12-20",
     "date_updated": "2018-07-12",
     "description": "Blind SQL injection exploitation tool written in ruby.",
-    "forks_count": 27,
+    "forks_count": 25,
     "html_url": "https://github.com/enjoiz/BSQLinjector",
     "keywords": [
         "sql injection"
@@ -269,8 +182,8 @@
     "repo_name": "BSQLinjector",
     "repo_owner": "enjoiz",
     "repotime": "2018-07-12, 09:54:31",
-    "stargazers_count": 98,
-    "watchers_count": 98
+    "stargazers_count": 97,
+    "watchers_count": 97
 }
 {
     "commits_count": 20,
@@ -294,11 +207,10 @@
     "date_started": "2018-04-25",
     "date_updated": "2018-07-08",
     "description": "Some exploits, which I’ve created during my OSCE preparation.",
-    "forks_count": 40,
+    "forks_count": 38,
     "html_url": "https://github.com/dhn/OSCE",
     "keywords": [
-        "dep bypass",
-        "rce exploitation"
+        "dep bypass"
     ],
     "language": "Python",
     "repo_name": "OSCE",
@@ -321,6 +233,6 @@
     "repo_name": "Google_Dorks-list",
     "repo_owner": "j0nk0",
     "repotime": "2018-07-06, 18:52:15",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
