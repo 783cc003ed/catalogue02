@@ -6,14 +6,14 @@
     "forks_count": 37,
     "html_url": "https://github.com/togie6/Windows-Privesc",
     "keywords": [
-        "Win escalation of privileges"
+        "Windows escalation of privileges"
     ],
     "language": null,
     "repo_name": "Windows-Privesc",
     "repo_owner": "togie6",
     "repotime": "2017-09-30, 23:49:41",
-    "stargazers_count": 132,
-    "watchers_count": 132
+    "stargazers_count": 133,
+    "watchers_count": 133
 }
 {
     "commits_count": 252,
@@ -101,6 +101,23 @@
     "watchers_count": 39
 }
 {
+    "commits_count": 15,
+    "date_started": "2017-09-29",
+    "date_updated": "2017-09-26",
+    "description": "Exploiting Python PIL Module Command Execution Vulnerability",
+    "forks_count": 8,
+    "html_url": "https://github.com/ysrc/PIL-RCE-By-GhostButt",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "PIL-RCE-By-GhostButt",
+    "repo_owner": "ysrc",
+    "repotime": "2017-09-26, 11:35:16",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
     "commits_count": 3,
     "date_started": "2017-09-24",
     "date_updated": "2017-09-24",
@@ -148,8 +165,8 @@
     "repo_name": "SQLiScanner",
     "repo_owner": "0xbug",
     "repotime": "2017-09-22, 12:37:50",
-    "stargazers_count": 791,
-    "watchers_count": 791
+    "stargazers_count": 795,
+    "watchers_count": 795
 }
 {
     "commits_count": 19,
@@ -233,8 +250,8 @@
     "repo_name": "P0VsRedHerring",
     "repo_owner": "MAVProxyUser",
     "repotime": "2017-09-13, 09:26:20",
-    "stargazers_count": 107,
-    "watchers_count": 107
+    "stargazers_count": 108,
+    "watchers_count": 108
 }
 {
     "commits_count": 1,
@@ -250,8 +267,8 @@
     "repo_name": "bot-lua",
     "repo_owner": "arashstar1",
     "repotime": "2017-09-11, 21:45:27",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 3,
@@ -269,6 +286,23 @@
     "repotime": "2017-09-11, 17:52:23",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2017-09-08",
+    "date_updated": "2017-09-08",
+    "description": "A simple script for exploit RCE for Struts 2 S2-053(CVE-2017-12611)",
+    "forks_count": 25,
+    "html_url": "https://github.com/brianwrf/S2-053-CVE-2017-12611",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "S2-053-CVE-2017-12611",
+    "repo_owner": "brianwrf",
+    "repotime": "2017-09-08, 19:59:19",
+    "stargazers_count": 36,
+    "watchers_count": 36
 }
 {
     "commits_count": 7,
@@ -301,8 +335,8 @@
     "repo_name": "DFF",
     "repo_owner": "Ivan-Markovic",
     "repotime": "2017-09-06, 13:37:51",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 3,
@@ -346,12 +380,12 @@
     "forks_count": 1,
     "html_url": "https://github.com/NitescuLucian/nli-exploits",
     "keywords": [
-        "zero-day exploit"
+        "zero-day exploitation"
     ],
     "language": "Python",
     "repo_name": "nli-exploits",
     "repo_owner": "NitescuLucian",
     "repotime": "2017-09-02, 16:57:03",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }

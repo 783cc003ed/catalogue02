@@ -3,7 +3,7 @@
     "date_started": "2019-08-28",
     "date_updated": "2020-09-28",
     "description": "This is a collection of writeups, cheatsheets, videos, books related to SSRF in one single location",
-    "forks_count": 228,
+    "forks_count": 229,
     "html_url": "https://github.com/jdonsec/AllThingsSSRF",
     "keywords": [
         "ssrf"
@@ -12,25 +12,25 @@
     "repo_name": "AllThingsSSRF",
     "repo_owner": "jdonsec",
     "repotime": "2020-09-28, 10:13:19",
-    "stargazers_count": 1205,
-    "watchers_count": 1205
+    "stargazers_count": 1210,
+    "watchers_count": 1210
 }
 {
-    "commits_count": 102,
-    "date_started": "2020-04-15",
+    "commits_count": 6,
+    "date_started": "2020-09-22",
     "date_updated": "2020-09-28",
-    "description": "GF Paterns For (ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic, interesting Subs) parameters grep",
-    "forks_count": 279,
-    "html_url": "https://github.com/1ndianl33t/Gf-Patterns",
+    "description": "Kentico &amp;lt;=12.0.14 is vulnerable to a remote code execution via the SyncServer",
+    "forks_count": 3,
+    "html_url": "https://github.com/Kr0ff/Kentico-12-RCE-via-SyncServer",
     "keywords": [
-        "ssrf"
+        "remote code execution vulnerability"
     ],
-    "language": null,
-    "repo_name": "Gf-Patterns",
-    "repo_owner": "1ndianl33t",
-    "repotime": "2020-09-28, 09:25:05",
-    "stargazers_count": 1179,
-    "watchers_count": 1179
+    "language": "Python",
+    "repo_name": "Kentico-12-RCE-via-SyncServer",
+    "repo_owner": "Kr0ff",
+    "repotime": "2020-09-28, 12:37:42",
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 2,
@@ -80,8 +80,8 @@
     "repo_name": "Food-price-prediction",
     "repo_owner": "buabaj",
     "repotime": "2020-09-23, 03:25:22",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 12,
@@ -186,6 +186,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 15,
+    "date_started": "2019-03-14",
+    "date_updated": "2020-09-07",
+    "description": "SAP Gateway RCE exploits",
+    "forks_count": 52,
+    "html_url": "https://github.com/chipik/SAP_GW_RCE_exploit",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "SAP_GW_RCE_exploit",
+    "repo_owner": "chipik",
+    "repotime": "2020-09-07, 16:46:03",
+    "stargazers_count": 150,
+    "watchers_count": 150
+}
+{
     "commits_count": 2,
     "date_started": "2020-09-07",
     "date_updated": "2020-09-07",
@@ -218,6 +235,40 @@
     "repotime": "2020-09-07, 00:17:04",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2020-09-05",
+    "date_updated": "2020-09-05",
+    "description": "Code from free Microsoft Machine Learning course. Predicts if rocket can launch using as input a dataset with a lot of weather conditions days before and after 60 rocket launches",
+    "forks_count": 0,
+    "html_url": "https://github.com/aleeherasimiuk/Rocket-Launch-ML",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Rocket-Launch-ML",
+    "repo_owner": "aleeherasimiuk",
+    "repotime": "2020-09-05, 19:23:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-08-29",
+    "date_updated": "2020-09-05",
+    "description": "Tool to test for existence of CVE-2020-8218",
+    "forks_count": 13,
+    "html_url": "https://github.com/withdk/pulse-gosecure-rce-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "pulse-gosecure-rce-poc",
+    "repo_owner": "withdk",
+    "repotime": "2020-09-05, 11:35:23",
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 5,
@@ -352,6 +403,6 @@
     "repo_name": "ssrf-tool",
     "repo_owner": "ethicalhackingplayground",
     "repotime": "2020-09-01, 18:29:48",
-    "stargazers_count": 141,
-    "watchers_count": 141
+    "stargazers_count": 142,
+    "watchers_count": 142
 }

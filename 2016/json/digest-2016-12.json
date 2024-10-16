@@ -3,7 +3,7 @@
     "date_started": "2015-05-06",
     "date_updated": "2016-12-29",
     "description": "<no description>",
-    "forks_count": 82,
+    "forks_count": 80,
     "html_url": "https://github.com/Invoke-IR/ForensicPosters",
     "keywords": [
         "by_owner"
@@ -12,8 +12,8 @@
     "repo_name": "ForensicPosters",
     "repo_owner": "Invoke-IR",
     "repotime": "2016-12-29, 14:57:23",
-    "stargazers_count": 430,
-    "watchers_count": 430
+    "stargazers_count": 433,
+    "watchers_count": 433
 }
 {
     "commits_count": 4,
@@ -31,23 +31,6 @@
     "repotime": "2016-12-22, 18:49:54",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2016-12-22",
-    "date_updated": "2016-12-22",
-    "description": "Zimbra Exploit Perl &amp;amp; RB",
-    "forks_count": 8,
-    "html_url": "https://github.com/nulsec/zimbra-0day",
-    "keywords": [
-        "0day exploit"
-    ],
-    "language": "Perl",
-    "repo_name": "zimbra-0day",
-    "repo_owner": "nulsec",
-    "repotime": "2016-12-22, 07:29:34",
-    "stargazers_count": 3,
-    "watchers_count": 3
 }
 {
     "commits_count": 3,
@@ -82,6 +65,23 @@
     "repotime": "2016-12-16, 11:00:26",
     "stargazers_count": 32,
     "watchers_count": 32
+}
+{
+    "commits_count": 2,
+    "date_started": "2016-12-15",
+    "date_updated": "2016-12-14",
+    "description": "Proof-of-Concept exploit for jscript9 bug (MS16-063) with CFG Bypass",
+    "forks_count": 22,
+    "html_url": "https://github.com/theori-io/jscript9-typedarray-cfg",
+    "keywords": [
+        "cfg bypass"
+    ],
+    "language": "HTML",
+    "repo_name": "jscript9-typedarray-cfg",
+    "repo_owner": "theori-io",
+    "repotime": "2016-12-14, 23:23:41",
+    "stargazers_count": 37,
+    "watchers_count": 37
 }
 {
     "commits_count": 2,

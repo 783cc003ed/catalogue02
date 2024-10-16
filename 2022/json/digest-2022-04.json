@@ -33,6 +33,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 13,
+    "date_started": "2022-04-20",
+    "date_updated": "2022-04-27",
+    "description": "WSO2 RCE (CVE-2022-29464) exploit and writeup.",
+    "forks_count": 93,
+    "html_url": "https://github.com/hakivvi/CVE-2022-29464",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-29464",
+    "repo_owner": "hakivvi",
+    "repotime": "2022-04-27, 05:52:43",
+    "stargazers_count": 366,
+    "watchers_count": 366
+}
+{
     "commits_count": 2,
     "date_started": "2022-04-20",
     "date_updated": "2022-04-27",
@@ -53,6 +70,23 @@
     "commits_count": 2,
     "date_started": "2022-04-26",
     "date_updated": "2022-04-26",
+    "description": "This tool is  a simple LFI, RFI, RCE, and Joomla Components vulnerability scanner, created by JayCyberSecurity",
+    "forks_count": 7,
+    "html_url": "https://github.com/theVulnerableMMII/oSkan",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "oSkan",
+    "repo_owner": "theVulnerableMMII",
+    "repotime": "2022-04-26, 11:46:32",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-04-26",
+    "date_updated": "2022-04-26",
     "description": "Tips and Tricks to Pass Salesforce Integration-Architecture-Designer ExamToday it is the times of specialization the companies give preference to hiring IT professionals who have earned the credentials of Salesforce Certified Integration Architecture Designer (SP22) Integration-Architecture-Designer Exam Dumps. With these highly competitive and challenging Salesforce Certified Integration Architecture Designer (SP22) Integration-Architecture-Designer Exam Questions, everyone either starter or professional can easily validate their skills and knowledge that will be acceptable worldwide. Every year thousands of IT professionals enrolled in the Integration-Architecture-Designer Dumps Questions and most failed to pass the Salesforce Certified Integration Architecture Designer (SP22) Integration-Architecture-Designer exam. The main reason for candidates failed in the Salesforce Certified Integration Architecture Designer Integration-Architecture-Designer Exam Questions is the non-availabili...",
     "forks_count": 0,
     "html_url": "https://github.com/johnscottharper/Salesforce-Integration-Architecture-Designer-Exam",
@@ -65,6 +99,23 @@
     "repotime": "2022-04-26, 12:23:11",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-04-20",
+    "date_updated": "2022-04-25",
+    "description": "This repository contains a PoC for  remote code execution CVE-2022-26809",
+    "forks_count": 5,
+    "html_url": "https://github.com/UNDESC0N0CID0/CVE-2022-26809-RCE",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26809-RCE",
+    "repo_owner": "UNDESC0N0CID0",
+    "repotime": "2022-04-25, 16:38:57",
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 4,
@@ -88,7 +139,7 @@
     "date_started": "2014-06-23",
     "date_updated": "2022-04-25",
     "description": "XSS spider - 66/66 wavsep XSS detected",
-    "forks_count": 437,
+    "forks_count": 439,
     "html_url": "https://github.com/DanMcInerney/xsscrapy",
     "keywords": [
         "xss"
@@ -97,8 +148,8 @@
     "repo_name": "xsscrapy",
     "repo_owner": "DanMcInerney",
     "repotime": "2022-04-25, 12:15:45",
-    "stargazers_count": 1640,
-    "watchers_count": 1640
+    "stargazers_count": 1648,
+    "watchers_count": 1648
 }
 {
     "commits_count": 5,
@@ -118,6 +169,23 @@
     "watchers_count": 15
 }
 {
+    "commits_count": 13,
+    "date_started": "2021-10-08",
+    "date_updated": "2022-04-24",
+    "description": "Zenith exploits a memory corruption vulnerability in the NetUSB driver to get remote-code execution on the TP-Link Archer C7 V5 router for Pwn2Own Austin 2021.",
+    "forks_count": 24,
+    "html_url": "https://github.com/0vercl0k/zenith",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "zenith",
+    "repo_owner": "0vercl0k",
+    "repotime": "2022-04-24, 17:57:39",
+    "stargazers_count": 121,
+    "watchers_count": 121
+}
+{
     "commits_count": 17,
     "date_started": "2021-03-14",
     "date_updated": "2022-04-23",
@@ -125,14 +193,14 @@
     "forks_count": 6,
     "html_url": "https://github.com/hakivvi/proxylogon",
     "keywords": [
-        "Microsoft rce exploit"
+        "Microsoft rce"
     ],
     "language": "Python",
     "repo_name": "proxylogon",
     "repo_owner": "hakivvi",
     "repotime": "2022-04-23, 03:21:44",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 12,
@@ -150,6 +218,23 @@
     "repotime": "2022-04-22, 23:02:02",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-04-15",
+    "date_updated": "2022-04-22",
+    "description": "<no description>",
+    "forks_count": 6,
+    "html_url": "https://github.com/AkuCyberSec/CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit",
+    "repo_owner": "AkuCyberSec",
+    "repotime": "2022-04-22, 19:55:37",
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 23,
@@ -199,8 +284,8 @@
     "repo_name": "Liberty-House-Club-Whitepaper",
     "repo_owner": "Mdshobu",
     "repotime": "2022-04-22, 09:27:24",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 5,
@@ -305,6 +390,40 @@
     "watchers_count": 8
 }
 {
+    "commits_count": 276,
+    "date_started": "2020-01-29",
+    "date_updated": "2022-04-19",
+    "description": "Course materials for learning how to perform applied cost-effectiveness analysis with R",
+    "forks_count": 10,
+    "html_url": "https://github.com/hesim-dev/rcea",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "R",
+    "repo_name": "rcea",
+    "repo_owner": "hesim-dev",
+    "repotime": "2022-04-19, 18:21:04",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-04-19",
+    "description": "Remote Code Execution Exploit in the RPC Library",
+    "forks_count": 3,
+    "html_url": "https://github.com/websecnl/CVE-2022-26809",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26809",
+    "repo_owner": "websecnl",
+    "repotime": "2022-04-19, 19:04:04",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
     "commits_count": 1,
     "date_started": "2022-04-18",
     "date_updated": "2022-04-18",
@@ -388,6 +507,23 @@
     "repotime": "2022-04-14, 19:04:14",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2019-12-12",
+    "date_updated": "2022-04-14",
+    "description": "RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX.",
+    "forks_count": 85,
+    "html_url": "https://github.com/noperator/CVE-2019-18935",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-18935",
+    "repo_owner": "noperator",
+    "repotime": "2022-04-14, 14:23:38",
+    "stargazers_count": 345,
+    "watchers_count": 345
 }
 {
     "commits_count": 139,
@@ -505,8 +641,8 @@
     "repo_name": "NginxDay",
     "repo_owner": "AgainstTheWest",
     "repotime": "2022-04-12, 11:16:00",
-    "stargazers_count": 366,
-    "watchers_count": 366
+    "stargazers_count": 368,
+    "watchers_count": 368
 }
 {
     "commits_count": 3,
@@ -560,6 +696,23 @@
     "watchers_count": 6
 }
 {
+    "commits_count": 6,
+    "date_started": "2022-04-10",
+    "date_updated": "2022-04-10",
+    "description": "A UAC bypass dropper written in powershell",
+    "forks_count": 3,
+    "html_url": "https://github.com/skidzsec/powershell-uac-bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "powershell-uac-bypass",
+    "repo_owner": "skidzsec",
+    "repotime": "2022-04-10, 21:07:53",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
     "commits_count": 1,
     "date_started": "2022-04-09",
     "date_updated": "2022-04-09",
@@ -592,6 +745,23 @@
     "repotime": "2022-04-08, 16:12:52",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-04-07",
+    "date_updated": "2022-04-08",
+    "description": "A fully automated, reliable, and accurate scanner for finding Spring4Shell and Spring Cloud RCE vulnerabilities",
+    "forks_count": 112,
+    "html_url": "https://github.com/fullhunt/spring4shell-scan",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "spring4shell-scan",
+    "repo_owner": "fullhunt",
+    "repotime": "2022-04-08, 01:14:42",
+    "stargazers_count": 657,
+    "watchers_count": 657
 }
 {
     "commits_count": 3,
@@ -683,7 +853,7 @@
     "date_started": "2020-02-20",
     "date_updated": "2022-04-06",
     "description": "DLL injection &amp;amp; Code injection &amp;amp; Function Hook &amp;amp; IAT Hook",
-    "forks_count": 25,
+    "forks_count": 27,
     "html_url": "https://github.com/iTruth/cheatlib",
     "keywords": [
         "code injection"
@@ -692,8 +862,8 @@
     "repo_name": "cheatlib",
     "repo_owner": "iTruth",
     "repotime": "2022-04-06, 13:03:44",
-    "stargazers_count": 61,
-    "watchers_count": 61
+    "stargazers_count": 62,
+    "watchers_count": 62
 }
 {
     "commits_count": 3,
@@ -743,8 +913,42 @@
     "repo_name": "springcore-0day-en",
     "repo_owner": "tweedge",
     "repotime": "2022-04-04, 20:33:00",
-    "stargazers_count": 105,
-    "watchers_count": 105
+    "stargazers_count": 106,
+    "watchers_count": 106
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-04-04",
+    "date_updated": "2022-04-04",
+    "description": "Spring4Shell RCE exploit",
+    "forks_count": 5,
+    "html_url": "https://github.com/Leovalcante/spring4shell",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "spring4shell",
+    "repo_owner": "Leovalcante",
+    "repotime": "2022-04-04, 20:35:35",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-03-23",
+    "date_updated": "2022-04-04",
+    "description": "Includes analysis environment, poc for analyzing vulnerabilities found in clickhouse lz4 implementation",
+    "forks_count": 0,
+    "html_url": "https://github.com/s3nt3/clickhouse-lz4-rce",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Shell",
+    "repo_name": "clickhouse-lz4-rce",
+    "repo_owner": "s3nt3",
+    "repotime": "2022-04-04, 10:57:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 3,
@@ -779,6 +983,23 @@
     "repotime": "2022-04-01, 21:48:05",
     "stargazers_count": 71,
     "watchers_count": 71
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-31",
+    "date_updated": "2022-04-01",
+    "description": "Reproducing spring rce vulnerability and nuclei template",
+    "forks_count": 7,
+    "html_url": "https://github.com/justmumu/SpringShell",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "SpringShell",
+    "repo_owner": "justmumu",
+    "repotime": "2022-04-01, 13:59:15",
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 3,

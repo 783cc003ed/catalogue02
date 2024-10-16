@@ -20,7 +20,7 @@
     "date_started": "2018-02-07",
     "date_updated": "2022-11-28",
     "description": "一个包含php,java,python,C&amp;&#35;35;等各种语言版本的XXE漏洞Demo",
-    "forks_count": 178,
+    "forks_count": 179,
     "html_url": "https://github.com/c0ny1/xxe-lab",
     "keywords": [
         "xxe"
@@ -29,8 +29,8 @@
     "repo_name": "xxe-lab",
     "repo_owner": "c0ny1",
     "repotime": "2022-11-28, 20:56:03",
-    "stargazers_count": 765,
-    "watchers_count": 765
+    "stargazers_count": 771,
+    "watchers_count": 771
 }
 {
     "commits_count": 2,
@@ -67,6 +67,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 5,
+    "date_started": "2022-11-22",
+    "date_updated": "2022-11-22",
+    "description": "Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp;amp; Remote Code Execution PoC (CVE-2021-41773 &amp;amp; CVE-2021-42013)",
+    "forks_count": 0,
+    "html_url": "https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution",
+    "repo_owner": "blackn0te",
+    "repotime": "2022-11-22, 22:42:10",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
     "commits_count": 1,
     "date_started": "2022-11-22",
     "date_updated": "2022-11-22",
@@ -80,8 +97,8 @@
     "repo_name": "node-server-side-request-forgery-get-there-from-here",
     "repo_owner": "securec0ding",
     "repotime": "2022-11-22, 12:40:47",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1,
@@ -114,8 +131,8 @@
     "repo_name": "lfiscan",
     "repo_owner": "machine1337",
     "repotime": "2022-11-21, 11:51:49",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 8,
@@ -133,6 +150,23 @@
     "repotime": "2022-11-22, 00:44:32",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2022-11-04",
+    "date_updated": "2022-11-21",
+    "description": "Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability) ",
+    "forks_count": 2,
+    "html_url": "https://github.com/cryxnet/CVE-2022-42889-RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-42889-RCE",
+    "repo_owner": "cryxnet",
+    "repotime": "2022-11-21, 11:16:57",
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 4,
@@ -343,17 +377,34 @@
     "date_started": "2017-03-21",
     "date_updated": "2022-11-09",
     "description": "SSRF (Server Side Request Forgery) testing resources",
-    "forks_count": 473,
+    "forks_count": 477,
     "html_url": "https://github.com/cujanovic/SSRF-Testing",
     "keywords": [
-        "server side request forgery"
+        "ssrf"
     ],
     "language": "Python",
     "repo_name": "SSRF-Testing",
     "repo_owner": "cujanovic",
     "repotime": "2022-11-09, 17:14:06",
-    "stargazers_count": 2332,
-    "watchers_count": 2332
+    "stargazers_count": 2336,
+    "watchers_count": 2336
+}
+{
+    "commits_count": 84,
+    "date_started": "2022-03-30",
+    "date_updated": "2022-11-09",
+    "description": "Spring4Shell Proof Of Concept/And vulnerable application CVE-2022-22965",
+    "forks_count": 106,
+    "html_url": "https://github.com/BobTheShoplifter/Spring4Shell-POC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Spring4Shell-POC",
+    "repo_owner": "BobTheShoplifter",
+    "repotime": "2022-11-09, 16:46:06",
+    "stargazers_count": 358,
+    "watchers_count": 358
 }
 {
     "commits_count": 24,
@@ -369,8 +420,8 @@
     "repo_name": "webrtc-local-ip-leak",
     "repo_owner": "niespodd",
     "repotime": "2022-11-09, 09:45:09",
-    "stargazers_count": 55,
-    "watchers_count": 55
+    "stargazers_count": 57,
+    "watchers_count": 57
 }
 {
     "commits_count": 5,
@@ -405,6 +456,40 @@
     "repotime": "2022-11-07, 10:58:44",
     "stargazers_count": 30,
     "watchers_count": 30
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-11-05",
+    "date_updated": "2022-11-07",
+    "description": "CVE-2022-42889 (a.k.a. Text4Shell) RCE Proof of Concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/sunnyvale-it/CVE-2022-42889-PoC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2022-42889-PoC",
+    "repo_owner": "sunnyvale-it",
+    "repotime": "2022-11-07, 08:57:01",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-11-06",
+    "date_updated": "2022-11-06",
+    "description": "Overview of State Register of Medicines of the Republic of Belarus",
+    "forks_count": 0,
+    "html_url": "https://github.com/seblful/rceth-analysis",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "rceth-analysis",
+    "repo_owner": "seblful",
+    "repotime": "2022-11-06, 15:29:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 2,
@@ -454,8 +539,25 @@
     "repo_name": "web-inf-path-trav",
     "repo_owner": "Invicti-Security",
     "repotime": "2022-11-04, 13:30:27",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-10-13",
+    "date_updated": "2022-11-01",
+    "description": "SQLi in Daily Expense Manager 1.0 allows for injection of SQL queries, resulting in information disclosure and remote code execution.",
+    "forks_count": 0,
+    "html_url": "https://github.com/stefanhesselman/Daily-Expense-Manager-1.0-SQL-to-RCE",
+    "keywords": [
+        "rce disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "Daily-Expense-Manager-1.0-SQL-to-RCE",
+    "repo_owner": "stefanhesselman",
+    "repotime": "2022-11-01, 21:28:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 11,

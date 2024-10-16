@@ -29,15 +29,15 @@
     "repo_name": "Inject_Dylib",
     "repo_owner": "cedowens",
     "repotime": "2022-10-29, 16:13:52",
-    "stargazers_count": 48,
-    "watchers_count": 48
+    "stargazers_count": 49,
+    "watchers_count": 49
 }
 {
     "commits_count": 51,
     "date_started": "2018-04-23",
     "date_updated": "2022-10-29",
     "description": "🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List",
-    "forks_count": 1642,
+    "forks_count": 1661,
     "html_url": "https://github.com/payloadbox/xss-payload-list",
     "keywords": [
         "xss"
@@ -46,8 +46,8 @@
     "repo_name": "xss-payload-list",
     "repo_owner": "payloadbox",
     "repotime": "2022-10-29, 12:49:04",
-    "stargazers_count": 6070,
-    "watchers_count": 6070
+    "stargazers_count": 6228,
+    "watchers_count": 6228
 }
 {
     "commits_count": 4,
@@ -71,7 +71,7 @@
     "date_started": "2018-10-25",
     "date_updated": "2022-10-27",
     "description": "A tool geared towards pentesting APIs using OpenAPI definitions.",
-    "forks_count": 36,
+    "forks_count": 37,
     "html_url": "https://github.com/RhinoSecurityLabs/Swagger-EZ",
     "keywords": [
         "by_owner"
@@ -80,8 +80,8 @@
     "repo_name": "Swagger-EZ",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2022-10-27, 08:33:37",
-    "stargazers_count": 167,
-    "watchers_count": 167
+    "stargazers_count": 169,
+    "watchers_count": 169
 }
 {
     "commits_count": 5,
@@ -105,7 +105,7 @@
     "date_started": "2021-05-07",
     "date_updated": "2022-10-27",
     "description": "Advanced phishing tool:boom: used for session &amp;amp; credential grabbing and bypassing 2FA using man-in-the-middle attack :skull_and_crossbones: with standalone reverse proxy server.",
-    "forks_count": 27,
+    "forks_count": 28,
     "html_url": "https://github.com/cipheras/cipherginx",
     "keywords": [
         "session attack"
@@ -114,8 +114,25 @@
     "repo_name": "cipherginx",
     "repo_owner": "cipheras",
     "repotime": "2022-10-27, 14:10:34",
-    "stargazers_count": 77,
-    "watchers_count": 77
+    "stargazers_count": 80,
+    "watchers_count": 80
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-10-26",
+    "date_updated": "2022-10-25",
+    "description": "Roblox Studio Remote Code Execution (RCE) Vulnerability",
+    "forks_count": 5,
+    "html_url": "https://github.com/strawbberrys/0x1D",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "0x1D",
+    "repo_owner": "strawbberrys",
+    "repotime": "2022-10-25, 19:19:07",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 4,
@@ -186,6 +203,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 9,
+    "date_started": "2022-10-14",
+    "date_updated": "2022-10-20",
+    "description": "CVE-2022-41852 Proof of Concept (unofficial)",
+    "forks_count": 17,
+    "html_url": "https://github.com/Warxim/CVE-2022-41852",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2022-41852",
+    "repo_owner": "Warxim",
+    "repotime": "2022-10-20, 10:01:38",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}
+{
     "commits_count": 2,
     "date_started": "2022-10-20",
     "date_updated": "2022-10-20",
@@ -204,6 +238,23 @@
 }
 {
     "commits_count": 2,
+    "date_started": "2022-10-09",
+    "date_updated": "2022-10-19",
+    "description": "Remote File Inclusion To Remote Code Execution (PoC)",
+    "forks_count": 0,
+    "html_url": "https://github.com/0bfxgh0st/rfi2rce",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "rfi2rce",
+    "repo_owner": "0bfxgh0st",
+    "repotime": "2022-10-19, 13:19:00",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 2,
     "date_started": "2022-10-19",
     "date_updated": "2022-10-19",
     "description": "An Evil OIDC Server",
@@ -216,8 +267,8 @@
     "repo_name": "oidc-ssrf",
     "repo_owner": "doyensec",
     "repotime": "2022-10-19, 17:25:50",
-    "stargazers_count": 49,
-    "watchers_count": 49
+    "stargazers_count": 50,
+    "watchers_count": 50
 }
 {
     "commits_count": 1,
@@ -339,6 +390,23 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 3,
+    "date_started": "2022-10-13",
+    "date_updated": "2022-10-14",
+    "description": "Apache Commons Text below 1.10.0 RCE Vulnerability POC",
+    "forks_count": 4,
+    "html_url": "https://github.com/naumanshah03/apache-commons-text-rce",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "apache-commons-text-rce",
+    "repo_owner": "naumanshah03",
+    "repotime": "2022-10-14, 02:41:53",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
     "commits_count": 2,
     "date_started": "2022-10-13",
     "date_updated": "2022-10-13",
@@ -437,15 +505,15 @@
     "repo_name": "xss2png",
     "repo_owner": "vavkamil",
     "repotime": "2022-10-11, 19:26:14",
-    "stargazers_count": 163,
-    "watchers_count": 163
+    "stargazers_count": 167,
+    "watchers_count": 167
 }
 {
     "commits_count": 4,
     "date_started": "2022-10-06",
     "date_updated": "2022-10-09",
     "description": "Cobalt Strike Beacon Object File for bypassing UAC via the CMSTPLUA COM interface.",
-    "forks_count": 22,
+    "forks_count": 23,
     "html_url": "https://github.com/tijme/cmstplua-uac-bypass",
     "keywords": [
         "uac bypass"
@@ -454,8 +522,25 @@
     "repo_name": "cmstplua-uac-bypass",
     "repo_owner": "tijme",
     "repotime": "2022-10-09, 17:14:03",
-    "stargazers_count": 126,
-    "watchers_count": 126
+    "stargazers_count": 137,
+    "watchers_count": 137
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-10-09",
+    "date_updated": "2022-10-09",
+    "description": "为使用codeql寻找cobalt strike xss to rce 利用链准备的jdk database",
+    "forks_count": 0,
+    "html_url": "https://github.com/j3ttt/jdkAnalysisForCodeQL",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Shell",
+    "repo_name": "jdkAnalysisForCodeQL",
+    "repo_owner": "j3ttt",
+    "repotime": "2022-10-09, 19:08:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 16,
@@ -594,11 +679,28 @@
     "watchers_count": 17
 }
 {
+    "commits_count": 2,
+    "date_started": "2022-09-29",
+    "date_updated": "2022-10-02",
+    "description": "Golang Proof of Concept Exploit for CVE-2021-44077: PreAuth RCE in ManageEngine ServiceDesk Plus &amp;lt; 11306",
+    "forks_count": 0,
+    "html_url": "https://github.com/pizza-power/Golang-CVE-2021-44077-POC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Go",
+    "repo_name": "Golang-CVE-2021-44077-POC",
+    "repo_owner": "pizza-power",
+    "repotime": "2022-10-02, 15:35:59",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 28,
     "date_started": "2019-01-29",
     "date_updated": "2022-10-02",
     "description": "The Serverless Blind XSS App",
-    "forks_count": 128,
+    "forks_count": 127,
     "html_url": "https://github.com/mazen160/xless",
     "keywords": [
         "xss"
@@ -607,8 +709,8 @@
     "repo_name": "xless",
     "repo_owner": "mazen160",
     "repotime": "2022-10-02, 18:41:59",
-    "stargazers_count": 327,
-    "watchers_count": 327
+    "stargazers_count": 328,
+    "watchers_count": 328
 }
 {
     "commits_count": 5,
@@ -645,6 +747,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 1,
+    "date_started": "2022-10-01",
+    "date_updated": "2022-10-01",
+    "description": "Proof of concept by ClumsyLulz",
+    "forks_count": 0,
+    "html_url": "https://github.com/SleepTheGod/Drupal-RCE-Code",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Drupal-RCE-Code",
+    "repo_owner": "SleepTheGod",
+    "repotime": "2022-10-01, 10:26:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 8,
     "date_started": "2022-09-30",
     "date_updated": "2022-10-01",
@@ -658,8 +777,8 @@
     "repo_name": "0dayex-checker",
     "repo_owner": "VNCERT-CC",
     "repotime": "2022-10-01, 09:47:07",
-    "stargazers_count": 69,
-    "watchers_count": 69
+    "stargazers_count": 70,
+    "watchers_count": 70
 }
 {
     "commits_count": 34,
@@ -675,6 +794,6 @@
     "repo_name": "SQL-Injection-Finder",
     "repo_owner": "j1t3sh",
     "repotime": "2022-10-01, 01:53:02",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 23,
+    "watchers_count": 23
 }

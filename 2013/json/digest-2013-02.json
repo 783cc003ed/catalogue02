@@ -50,6 +50,40 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 3,
+    "date_started": "2013-02-10",
+    "date_updated": "2013-02-10",
+    "description": "D-Link Dir-600 &amp;amp; Dir-300 RCE Exploit By: Hood3dRob1n  ============ Vulnerable Firmware Releases - DIR-300: ============ Firmware Version : 2.12 - 18.01.2012 Firmware Version : 2.13 - 07.11.2012 ============ Vulnerable Firmware Releases - DIR-600: ============  Firmware-Version : 2.12b02 - 17/01/2012 Firmware-Version : 2.13b01 - 07/11/2012 Firmware-Version : 2.14b01 - 22/01/2013  In response to vuln &amp;amp; PoC posted on PacketStorm, by Michael Messner: http://packetstormsecurity.com/files/120052/D-Link-DIR-600-DIR-300-Command-Execution-Bypass-Disclosure.html  PIC: http://i.imgur.com/nrmRxLi.png PIC: http://i.imgur.com/jtMmCps.png",
+    "forks_count": 3,
+    "html_url": "https://github.com/Hood3dRob1n/D-Link-Dir-600---Dir-300-RCE-Exploit",
+    "keywords": [
+        "rce disclosure"
+    ],
+    "language": "Ruby",
+    "repo_name": "D-Link-Dir-600---Dir-300-RCE-Exploit",
+    "repo_owner": "Hood3dRob1n",
+    "repotime": "2013-02-10, 17:05:36",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 2,
+    "date_started": "2013-02-09",
+    "date_updated": "2013-02-08",
+    "description": "IPB &amp;lt;= 3.3.4 Remote Code Execution Exploit",
+    "forks_count": 2,
+    "html_url": "https://github.com/Hood3dRob1n/ipb_lt-3.3.4_rce.rb",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Ruby",
+    "repo_name": "ipb_lt-3.3.4_rce.rb",
+    "repo_owner": "Hood3dRob1n",
+    "repotime": "2013-02-08, 21:45:35",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 2,
     "date_started": "2013-02-09",
     "date_updated": "2013-02-08",

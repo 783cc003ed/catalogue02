@@ -97,8 +97,8 @@
     "repo_name": "ios-nehelper-wifi-info-0day",
     "repo_owner": "illusionofchaos",
     "repotime": "2021-09-27, 20:48:30",
-    "stargazers_count": 170,
-    "watchers_count": 170
+    "stargazers_count": 172,
+    "watchers_count": 172
 }
 {
     "commits_count": 1,
@@ -156,7 +156,7 @@
     "date_started": "2015-09-18",
     "date_updated": "2021-09-26",
     "description": "Exploits by 1N3 @CrowdShield @xer0dayz @XeroSecurity",
-    "forks_count": 104,
+    "forks_count": 103,
     "html_url": "https://github.com/1N3/Exploits",
     "keywords": [
         "0day exploit"
@@ -165,8 +165,8 @@
     "repo_name": "Exploits",
     "repo_owner": "1N3",
     "repotime": "2021-09-26, 18:47:12",
-    "stargazers_count": 196,
-    "watchers_count": 196
+    "stargazers_count": 197,
+    "watchers_count": 197
 }
 {
     "commits_count": 4,
@@ -199,8 +199,8 @@
     "repo_name": "CVE-2021-38647",
     "repo_owner": "AlteredSecurity",
     "repotime": "2021-09-26, 10:06:33",
-    "stargazers_count": 69,
-    "watchers_count": 69
+    "stargazers_count": 68,
+    "watchers_count": 68
 }
 {
     "commits_count": 410,
@@ -216,8 +216,8 @@
     "repo_name": "Vailyn",
     "repo_owner": "VainlyStrain",
     "repotime": "2021-09-25, 21:18:09",
-    "stargazers_count": 196,
-    "watchers_count": 196
+    "stargazers_count": 197,
+    "watchers_count": 197
 }
 {
     "commits_count": 36,
@@ -250,8 +250,8 @@
     "repo_name": "CloudScraper",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2021-09-23, 13:51:03",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 28,
+    "watchers_count": 28
 }
 {
     "commits_count": 81,
@@ -284,8 +284,8 @@
     "repo_name": "dtd-finder",
     "repo_owner": "GoSecure",
     "repotime": "2021-09-22, 13:53:59",
-    "stargazers_count": 601,
-    "watchers_count": 601
+    "stargazers_count": 606,
+    "watchers_count": 606
 }
 {
     "commits_count": 22,
@@ -301,8 +301,8 @@
     "repo_name": "youtube-projects",
     "repo_owner": "coding-parrot",
     "repotime": "2021-09-21, 17:12:45",
-    "stargazers_count": 121,
-    "watchers_count": 121
+    "stargazers_count": 124,
+    "watchers_count": 124
 }
 {
     "commits_count": 26,
@@ -318,8 +318,8 @@
     "repo_name": "safesql",
     "repo_owner": "stripe-archive",
     "repotime": "2021-09-20, 17:02:47",
-    "stargazers_count": 562,
-    "watchers_count": 562
+    "stargazers_count": 563,
+    "watchers_count": 563
 }
 {
     "commits_count": 9,
@@ -343,7 +343,7 @@
     "date_started": "2021-06-01",
     "date_updated": "2021-09-16",
     "description": "An easy-to-setup version of XSS Hunter. Sets up in five minutes and requires no maintenance!",
-    "forks_count": 305,
+    "forks_count": 315,
     "html_url": "https://github.com/mandatoryprogrammer/xsshunter-express",
     "keywords": [
         "xss"
@@ -352,8 +352,8 @@
     "repo_name": "xsshunter-express",
     "repo_owner": "mandatoryprogrammer",
     "repotime": "2021-09-16, 22:43:16",
-    "stargazers_count": 1505,
-    "watchers_count": 1505
+    "stargazers_count": 1543,
+    "watchers_count": 1543
 }
 {
     "commits_count": 4,
@@ -422,6 +422,23 @@
     "repotime": "2021-09-14, 21:59:00",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-09-12",
+    "date_updated": "2021-09-14",
+    "description": "Exploitation of CVE-2018-18925 a Remote Code Execution against the Git self hosted tool: Gogs.",
+    "forks_count": 2,
+    "html_url": "https://github.com/j4k0m/CVE-2018-18925",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2018-18925",
+    "repo_owner": "j4k0m",
+    "repotime": "2021-09-14, 21:29:49",
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 23,
@@ -547,7 +564,7 @@
     "date_started": "2017-03-13",
     "date_updated": "2021-09-06",
     "description": "👮🏻‍♂️ XSS attack playground,there are answers in issues. XSS 攻防靶场，issues 有答案 ",
-    "forks_count": 57,
+    "forks_count": 58,
     "html_url": "https://github.com/haozi/xss-demo",
     "keywords": [
         "xss"
@@ -556,8 +573,8 @@
     "repo_name": "xss-demo",
     "repo_owner": "haozi",
     "repotime": "2021-09-06, 16:07:49",
-    "stargazers_count": 292,
-    "watchers_count": 292
+    "stargazers_count": 295,
+    "watchers_count": 295
 }
 {
     "commits_count": 5,
@@ -575,6 +592,23 @@
     "repotime": "2021-09-05, 15:00:18",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-09-04",
+    "date_updated": "2021-09-04",
+    "description": "A Python replicated exploit for Webmin 1.580 /file/show.cgi Remote Code Execution",
+    "forks_count": 12,
+    "html_url": "https://github.com/JohnHammond/CVE-2012-2982",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2012-2982",
+    "repo_owner": "JohnHammond",
+    "repotime": "2021-09-04, 01:39:17",
+    "stargazers_count": 39,
+    "watchers_count": 39
 }
 {
     "commits_count": 1,
@@ -643,23 +677,6 @@
     "repotime": "2021-09-02, 11:01:19",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 24,
-    "date_started": "2020-10-14",
-    "date_updated": "2021-09-02",
-    "description": "A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability)",
-    "forks_count": 2,
-    "html_url": "https://github.com/corelight/CVE-2020-16898",
-    "keywords": [
-        "Windows remote code execution"
-    ],
-    "language": "Zeek",
-    "repo_name": "CVE-2020-16898",
-    "repo_owner": "corelight",
-    "repotime": "2021-09-02, 16:41:45",
-    "stargazers_count": 8,
-    "watchers_count": 8
 }
 {
     "commits_count": 15,

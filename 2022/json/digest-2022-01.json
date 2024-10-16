@@ -29,8 +29,8 @@
     "repo_name": "Hack-SQL",
     "repo_owner": "Don-No7",
     "repotime": "2022-01-31, 00:12:54",
-    "stargazers_count": 66,
-    "watchers_count": 66
+    "stargazers_count": 70,
+    "watchers_count": 70
 }
 {
     "commits_count": 2,
@@ -199,8 +199,8 @@
     "repo_name": "CVE-2021-4034",
     "repo_owner": "mebeim",
     "repotime": "2022-01-26, 17:22:39",
-    "stargazers_count": 25,
-    "watchers_count": 25
+    "stargazers_count": 26,
+    "watchers_count": 26
 }
 {
     "commits_count": 3,
@@ -271,6 +271,23 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 3,
+    "date_started": "2022-01-24",
+    "date_updated": "2022-01-25",
+    "description": "The stress testing of your PG bypass [old school project]",
+    "forks_count": 0,
+    "html_url": "https://github.com/gmh5225/QuickPGTrigger",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "QuickPGTrigger",
+    "repo_owner": "gmh5225",
+    "repotime": "2022-01-25, 00:54:20",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
     "commits_count": 2,
     "date_started": "2022-01-23",
     "date_updated": "2022-01-23",
@@ -326,7 +343,7 @@
     "date_started": "2015-05-14",
     "date_updated": "2022-01-20",
     "description": "<no description>",
-    "forks_count": 80,
+    "forks_count": 79,
     "html_url": "https://github.com/naver/lucy-xss-servlet-filter",
     "keywords": [
         "xss"
@@ -335,8 +352,8 @@
     "repo_name": "lucy-xss-servlet-filter",
     "repo_owner": "naver",
     "repotime": "2022-01-20, 21:29:00",
-    "stargazers_count": 240,
-    "watchers_count": 240
+    "stargazers_count": 242,
+    "watchers_count": 242
 }
 {
     "commits_count": 1,
@@ -377,7 +394,7 @@
     "date_started": "2021-05-02",
     "date_updated": "2022-01-18",
     "description": "Wiki.js Customization Injection Code",
-    "forks_count": 17,
+    "forks_count": 18,
     "html_url": "https://github.com/madodig/wikijs-customization",
     "keywords": [
         "code injection"
@@ -386,8 +403,8 @@
     "repo_name": "wikijs-customization",
     "repo_owner": "madodig",
     "repotime": "2022-01-18, 19:49:54",
-    "stargazers_count": 85,
-    "watchers_count": 85
+    "stargazers_count": 88,
+    "watchers_count": 88
 }
 {
     "commits_count": 4,
@@ -420,8 +437,25 @@
     "repo_name": "SMTPTester",
     "repo_owner": "xFreed0m",
     "repotime": "2022-01-18, 18:08:48",
-    "stargazers_count": 154,
-    "watchers_count": 154
+    "stargazers_count": 155,
+    "watchers_count": 155
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-12-10",
+    "date_updated": "2022-01-18",
+    "description": "Remote Code Injection In Log4j",
+    "forks_count": 124,
+    "html_url": "https://github.com/jas502n/Log4j2-CVE-2021-44228",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "Log4j2-CVE-2021-44228",
+    "repo_owner": "jas502n",
+    "repotime": "2022-01-18, 20:01:52",
+    "stargazers_count": 456,
+    "watchers_count": 456
 }
 {
     "commits_count": 5,
@@ -439,6 +473,23 @@
     "repotime": "2022-01-16, 20:48:58",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-11-11",
+    "date_updated": "2022-01-16",
+    "description": "GitLab CE/EE Preauth RCE using ExifTool",
+    "forks_count": 39,
+    "html_url": "https://github.com/inspiringz/CVE-2021-22205",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-22205",
+    "repo_owner": "inspiringz",
+    "repotime": "2022-01-16, 23:54:07",
+    "stargazers_count": 218,
+    "watchers_count": 218
 }
 {
     "commits_count": 8,
@@ -577,6 +628,40 @@
     "watchers_count": 20
 }
 {
+    "commits_count": 2,
+    "date_started": "2022-01-11",
+    "date_updated": "2022-01-10",
+    "description": "SonicWall SMA-100 Unauth RCE Exploit (CVE-2021-20038)",
+    "forks_count": 27,
+    "html_url": "https://github.com/jbaines-r7/badblood",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "badblood",
+    "repo_owner": "jbaines-r7",
+    "repotime": "2022-01-10, 18:34:57",
+    "stargazers_count": 92,
+    "watchers_count": 92
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-01-05",
+    "date_updated": "2022-01-10",
+    "description": "Exploiting CVE-2021-44228 in VMWare Horizon for remote code execution and more.",
+    "forks_count": 16,
+    "html_url": "https://github.com/puzzlepeaches/Log4jHorizon",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Log4jHorizon",
+    "repo_owner": "puzzlepeaches",
+    "repotime": "2022-01-10, 13:26:59",
+    "stargazers_count": 118,
+    "watchers_count": 118
+}
+{
     "commits_count": 60,
     "date_started": "2021-12-13",
     "date_updated": "2022-01-10",
@@ -590,8 +675,8 @@
     "repo_name": "log4j-zero-day-exploit",
     "repo_owner": "rajasoun",
     "repotime": "2022-01-10, 19:57:34",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 7,
@@ -607,8 +692,8 @@
     "repo_name": "Blind-SSRF",
     "repo_owner": "0xAwali",
     "repotime": "2022-01-08, 03:31:18",
-    "stargazers_count": 122,
-    "watchers_count": 122
+    "stargazers_count": 121,
+    "watchers_count": 121
 }
 {
     "commits_count": 5,
@@ -683,7 +768,7 @@
     "date_started": "2022-01-04",
     "date_updated": "2022-01-04",
     "description": "This repo is a fork from main repo and will usually have new features bundled faster than main repo (and maybe bundle some bugs, too).  &amp;&#35;35; Unofficial Facebook Chat API &amp;lt;img alt=&amp;quot;version&amp;quot; src=&amp;quot;https://img.shields.io/github/package-json/v/ProCoderMew/fca-unofficial?label=github&amp;amp;style=flat-square&amp;quot;&amp;gt;  Facebook now has an official API for chat bots [here](https://developers.facebook.com/docs/messenger-platform).  This API is the only way to automate chat functionalities on a user account. We do this by emulating the browser. This means doing the exact same GET/POST requests and tricking Facebook into thinking we're accessing the website normally. Because we're doing it this way, this API won't work with an auth token but requires the credentials of a Facebook account.  _Disclaimer_: We are not responsible if your account gets banned for spammy activities such as sending lots of messages to people you don't know, sending messages very quickly, sending spammy l...",
-    "forks_count": 11,
+    "forks_count": 12,
     "html_url": "https://github.com/Tinkprocodes/fca-unofficial",
     "keywords": [
         "empty string password"
@@ -692,8 +777,8 @@
     "repo_name": "fca-unofficial",
     "repo_owner": "Tinkprocodes",
     "repotime": "2022-01-04, 21:33:29",
-    "stargazers_count": 32,
-    "watchers_count": 32
+    "stargazers_count": 34,
+    "watchers_count": 34
 }
 {
     "commits_count": 1,

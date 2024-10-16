@@ -33,6 +33,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 3,
+    "date_started": "2015-05-20",
+    "date_updated": "2017-02-16",
+    "description": "This Metasploit module exploits a XSS vulnerability found in WordPress 4.2, 4.1.2, 4.1.1, and 3.9.3 it leverages the WP Plugin Editor to gain remote code execution.",
+    "forks_count": 3,
+    "html_url": "https://github.com/0sm0s1z/WordPress-Comment-Overflow",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Ruby",
+    "repo_name": "WordPress-Comment-Overflow",
+    "repo_owner": "0sm0s1z",
+    "repotime": "2017-02-16, 07:20:25",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 1,
     "date_started": "2017-02-15",
     "date_updated": "2017-02-15",
@@ -114,8 +131,8 @@
     "repo_name": "apd_launchpad",
     "repo_owner": "WJDigby",
     "repotime": "2017-02-08, 16:01:45",
-    "stargazers_count": 44,
-    "watchers_count": 44
+    "stargazers_count": 45,
+    "watchers_count": 45
 }
 {
     "commits_count": 2,

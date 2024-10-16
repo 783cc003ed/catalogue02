@@ -33,6 +33,23 @@
     "watchers_count": 12
 }
 {
+    "commits_count": 13,
+    "date_started": "2020-05-25",
+    "date_updated": "2020-05-30",
+    "description": "A python script to exploit  OpenEMR Version: &amp;lt; 5.0.1",
+    "forks_count": 1,
+    "html_url": "https://github.com/musyoka101/OpenEMR-5.0.1-Remote-Code-execution-Vulnerability-Exploit",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "OpenEMR-5.0.1-Remote-Code-execution-Vulnerability-Exploit",
+    "repo_owner": "musyoka101",
+    "repotime": "2020-05-30, 07:17:55",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 7,
     "date_started": "2020-05-28",
     "date_updated": "2020-05-29",
@@ -65,6 +82,23 @@
     "repotime": "2020-05-29, 22:12:04",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 23,
+    "date_started": "2020-05-28",
+    "date_updated": "2020-05-28",
+    "description": "Android Debug Bridge RCE exploit.",
+    "forks_count": 19,
+    "html_url": "https://github.com/Araknet/r0pwn",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": null,
+    "repo_name": "r0pwn",
+    "repo_owner": "Araknet",
+    "repotime": "2020-05-28, 09:46:31",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 7,
@@ -114,15 +148,15 @@
     "repo_name": "XSS_Cheat_Sheet_2020_Edition",
     "repo_owner": "heroanswer",
     "repotime": "2020-05-25, 22:38:14",
-    "stargazers_count": 499,
-    "watchers_count": 499
+    "stargazers_count": 500,
+    "watchers_count": 500
 }
 {
     "commits_count": 1,
     "date_started": "2020-05-25",
     "date_updated": "2020-05-25",
     "description": "PE Injection、DLL Injection、Process Injection、Thread Injection、Code Injection、Shellcode Injection、ELF Injection、Dylib Injection, including 400+Tools and 350+posts",
-    "forks_count": 139,
+    "forks_count": 140,
     "html_url": "https://github.com/alphaSeclab/injection-stuff",
     "keywords": [
         "code injection"
@@ -131,8 +165,25 @@
     "repo_name": "injection-stuff",
     "repo_owner": "alphaSeclab",
     "repotime": "2020-05-25, 05:00:33",
-    "stargazers_count": 499,
-    "watchers_count": 499
+    "stargazers_count": 503,
+    "watchers_count": 503
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-05-24",
+    "date_updated": "2020-05-24",
+    "description": "QNAP pre-auth root RCE Exploit (CVE-2019-7192 ~ CVE-2019-7195)",
+    "forks_count": 34,
+    "html_url": "https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-7192_QNAP_Exploit",
+    "repo_owner": "th3gundy",
+    "repotime": "2020-05-24, 19:28:29",
+    "stargazers_count": 85,
+    "watchers_count": 85
 }
 {
     "commits_count": 10,
@@ -182,8 +233,8 @@
     "repo_name": "SB-Actuator",
     "repo_owner": "rabbitmask",
     "repotime": "2020-05-21, 10:28:36",
-    "stargazers_count": 505,
-    "watchers_count": 505
+    "stargazers_count": 507,
+    "watchers_count": 507
 }
 {
     "commits_count": 1,
@@ -244,14 +295,14 @@
     "forks_count": 0,
     "html_url": "https://github.com/zveriu/CVE-2009-0229-PoC",
     "keywords": [
-        "lpe poc"
+        "Windows lpe"
     ],
     "language": null,
     "repo_name": "CVE-2009-0229-PoC",
     "repo_owner": "zveriu",
     "repotime": "2020-05-15, 14:32:42",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 12,
@@ -271,6 +322,23 @@
     "watchers_count": 9
 }
 {
+    "commits_count": 11,
+    "date_started": "2020-05-09",
+    "date_updated": "2020-05-13",
+    "description": "A POC Document from A-Z ",
+    "forks_count": 0,
+    "html_url": "https://github.com/KalinduWijekoon/Joomla-Object-Injection-x-forwarded-for-Header-RemoteCodeExecution",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "Joomla-Object-Injection-x-forwarded-for-Header-RemoteCodeExecution",
+    "repo_owner": "KalinduWijekoon",
+    "repotime": "2020-05-13, 12:39:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 1,
     "date_started": "2020-05-13",
     "date_updated": "2020-05-13",
@@ -284,6 +352,23 @@
     "repo_name": "Exploiting-Vulnerable-Server-for-Windows-7",
     "repo_owner": "ashensudu",
     "repotime": "2020-05-13, 11:38:04",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-05-12",
+    "date_updated": "2020-05-12",
+    "description": "Local Root vulnerability- CVE-2019-13272 / Security Bypass Vulnerability – CVE-2019-14287/Google Android - 'Stagefright' Remote Code Execution - CVE-2015-1538",
+    "forks_count": 1,
+    "html_url": "https://github.com/Tharana/vulnerability-exploitation",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vulnerability-exploitation",
+    "repo_owner": "Tharana",
+    "repotime": "2020-05-12, 23:43:10",
     "stargazers_count": 1,
     "watchers_count": 1
 }
@@ -303,6 +388,23 @@
     "repotime": "2020-05-11, 01:39:53",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-05-10",
+    "date_updated": "2020-05-10",
+    "description": "A Python script to exploit CVE-2020-8816, a remote code execution vulnerability on the Pi-hole",
+    "forks_count": 6,
+    "html_url": "https://github.com/AndreyRainchik/CVE-2020-8816",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-8816",
+    "repo_owner": "AndreyRainchik",
+    "repotime": "2020-05-10, 14:33:19",
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 4,
@@ -352,8 +454,8 @@
     "repo_name": "LFI-Payload-List",
     "repo_owner": "emadshanab",
     "repotime": "2020-05-09, 21:25:04",
-    "stargazers_count": 68,
-    "watchers_count": 68
+    "stargazers_count": 71,
+    "watchers_count": 71
 }
 {
     "commits_count": 2,
@@ -424,6 +526,23 @@
     "watchers_count": 4
 }
 {
+    "commits_count": 1,
+    "date_started": "2020-05-05",
+    "date_updated": "2020-05-05",
+    "description": "OpenWRT DOS Exploit, unfort. no RCE ;)",
+    "forks_count": 0,
+    "html_url": "https://github.com/mclab-hbrs/openwrt-dos-poc",
+    "keywords": [
+        "rce dos"
+    ],
+    "language": null,
+    "repo_name": "openwrt-dos-poc",
+    "repo_owner": "mclab-hbrs",
+    "repotime": "2020-05-05, 00:47:06",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 5,
     "date_started": "2020-05-04",
     "date_updated": "2020-05-05",
@@ -490,6 +609,23 @@
     "repotime": "2020-05-03, 19:04:46",
     "stargazers_count": 29,
     "watchers_count": 29
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-05-02",
+    "date_updated": "2020-05-02",
+    "description": "Remote code execution exploit against Morita Shogi 64 for Nintendo 64",
+    "forks_count": 3,
+    "html_url": "https://github.com/CTurt/shogihax",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "C",
+    "repo_name": "shogihax",
+    "repo_owner": "CTurt",
+    "repotime": "2020-05-02, 23:01:45",
+    "stargazers_count": 47,
+    "watchers_count": 47
 }
 {
     "commits_count": 5,

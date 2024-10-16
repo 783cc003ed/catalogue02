@@ -148,8 +148,8 @@
     "repo_name": "purejin",
     "repo_owner": "jbee",
     "repotime": "2024-05-29, 11:30:50",
-    "stargazers_count": 84,
-    "watchers_count": 84
+    "stargazers_count": 85,
+    "watchers_count": 85
 }
 {
     "commits_count": 2,
@@ -275,7 +275,7 @@
     "date_started": "2020-09-29",
     "date_updated": "2024-05-27",
     "description": "✨ Purpose only! The dangers of Bluetooth Low Energy（BLE）implementations: Unveiling zero day vulnerabilities and security flaws in modern Bluetooth LE stacks.",
-    "forks_count": 39,
+    "forks_count": 41,
     "html_url": "https://github.com/Charmve/BLE-Security-Attack-Defence",
     "keywords": [
         "zero-day vulnerability"
@@ -284,8 +284,8 @@
     "repo_name": "BLE-Security-Attack-Defence",
     "repo_owner": "Charmve",
     "repotime": "2024-05-27, 02:43:30",
-    "stargazers_count": 287,
-    "watchers_count": 287
+    "stargazers_count": 297,
+    "watchers_count": 297
 }
 {
     "commits_count": 4,
@@ -356,6 +356,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 15,
+    "date_started": "2019-08-19",
+    "date_updated": "2024-05-25",
+    "description": "Image Tragick Exploit Tool Using Burp Collaborator",
+    "forks_count": 8,
+    "html_url": "https://github.com/ankitk323/ImgRce",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ImgRce",
+    "repo_owner": "ankitk323",
+    "repotime": "2024-05-25, 02:19:53",
+    "stargazers_count": 35,
+    "watchers_count": 35
+}
+{
     "commits_count": 76,
     "date_started": "2022-12-01",
     "date_updated": "2024-05-24",
@@ -403,8 +420,8 @@
     "repo_name": "apostille",
     "repo_owner": "sensepost",
     "repotime": "2024-05-23, 22:09:05",
-    "stargazers_count": 70,
-    "watchers_count": 70
+    "stargazers_count": 72,
+    "watchers_count": 72
 }
 {
     "commits_count": 1,
@@ -509,11 +526,28 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4,
+    "date_started": "2024-05-21",
+    "date_updated": "2024-05-21",
+    "description": "hands-on experience with TCP SYN Flooding, TCP RST attacks, and TCP Session Hijacking",
+    "forks_count": 0,
+    "html_url": "https://github.com/hoangnguyen2809/TCP-Attack-Lab",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "TCP-Attack-Lab",
+    "repo_owner": "hoangnguyen2809",
+    "repotime": "2024-05-21, 15:13:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 9,
     "date_started": "2024-05-20",
     "date_updated": "2024-05-21",
     "description": "Time Based SQL Injection in Zabbix Server Audit Log --&amp;gt; RCE",
-    "forks_count": 21,
+    "forks_count": 22,
     "html_url": "https://github.com/W01fh4cker/CVE-2024-22120-RCE",
     "keywords": [
         "sql injection"
@@ -522,15 +556,15 @@
     "repo_name": "CVE-2024-22120-RCE",
     "repo_owner": "W01fh4cker",
     "repotime": "2024-05-21, 18:30:49",
-    "stargazers_count": 104,
-    "watchers_count": 104
+    "stargazers_count": 111,
+    "watchers_count": 111
 }
 {
     "commits_count": 12,
     "date_started": "2023-06-17",
     "date_updated": "2024-05-21",
     "description": "This repository contains random Nuclei templates I've created. Most of them based on recent security issues and exploits.",
-    "forks_count": 4,
+    "forks_count": 6,
     "html_url": "https://github.com/topscoder/nuclei-zero-day",
     "keywords": [
         "zero-day exploit"
@@ -539,8 +573,8 @@
     "repo_name": "nuclei-zero-day",
     "repo_owner": "topscoder",
     "repotime": "2024-05-21, 11:31:56",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 9,
@@ -594,6 +628,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 1,
+    "date_started": "2024-05-20",
+    "date_updated": "2024-05-20",
+    "description": "PoCs for exploits in AX820",
+    "forks_count": 0,
+    "html_url": "https://github.com/willboka/AX820-remote-code-execution",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "AX820-remote-code-execution",
+    "repo_owner": "willboka",
+    "repotime": "2024-05-20, 23:17:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2024-05-20",
     "date_updated": "2024-05-20",
@@ -609,6 +660,23 @@
     "repotime": "2024-05-20, 21:20:51",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-05-20",
+    "date_updated": "2024-05-20",
+    "description": "This proof-of-concept script demonstrates how to exploit CVE-2024-4323, a memory corruption vulnerability in Fluent Bit, enabling remote code execution.",
+    "forks_count": 2,
+    "html_url": "https://github.com/skilfoy/CVE-2024-4323-Exploit-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-4323-Exploit-POC",
+    "repo_owner": "skilfoy",
+    "repotime": "2024-05-20, 10:28:07",
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 7,
@@ -662,6 +730,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 19,
+    "date_started": "2021-07-05",
+    "date_updated": "2024-05-19",
+    "description": "A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE",
+    "forks_count": 121,
+    "html_url": "https://github.com/byt3bl33d3r/ItWasAllADream",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "ItWasAllADream",
+    "repo_owner": "byt3bl33d3r",
+    "repotime": "2024-05-19, 09:25:52",
+    "stargazers_count": 783,
+    "watchers_count": 783
+}
+{
     "commits_count": 2,
     "date_started": "2024-05-19",
     "date_updated": "2024-05-19",
@@ -683,7 +768,7 @@
     "date_started": "2018-12-18",
     "date_updated": "2024-05-19",
     "description": "A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs.",
-    "forks_count": 236,
+    "forks_count": 240,
     "html_url": "https://github.com/RhinoSecurityLabs/CVEs",
     "keywords": [
         "by_owner"
@@ -692,8 +777,25 @@
     "repo_name": "CVEs",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2024-05-19, 07:20:10",
-    "stargazers_count": 790,
-    "watchers_count": 790
+    "stargazers_count": 795,
+    "watchers_count": 795
+}
+{
+    "commits_count": 11,
+    "date_started": "2024-05-17",
+    "date_updated": "2024-05-19",
+    "description": "Exploit PoC for CVE-2024-32002",
+    "forks_count": 142,
+    "html_url": "https://github.com/amalmurali47/git_rce",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "git_rce",
+    "repo_owner": "amalmurali47",
+    "repotime": "2024-05-19, 12:41:55",
+    "stargazers_count": 487,
+    "watchers_count": 487
 }
 {
     "commits_count": 1,
@@ -730,6 +832,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 11,
+    "date_started": "2024-05-06",
+    "date_updated": "2024-05-17",
+    "description": "LINKSYS AC1900 EA7500v3 IGD UPnP Stack Buffer Overflow Remote Code Execution Vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/dest-3/CVE-2023-46012",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46012",
+    "repo_owner": "dest-3",
+    "repotime": "2024-05-17, 22:48:10",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
     "commits_count": 36,
     "date_started": "2018-07-27",
     "date_updated": "2024-05-17",
@@ -743,8 +862,8 @@
     "repo_name": "csv-safe",
     "repo_owner": "zvory",
     "repotime": "2024-05-17, 21:54:25",
-    "stargazers_count": 36,
-    "watchers_count": 36
+    "stargazers_count": 39,
+    "watchers_count": 39
 }
 {
     "commits_count": 5,
@@ -811,8 +930,25 @@
     "repo_name": "CVE-2024-32640-SQLI-MuraCMS",
     "repo_owner": "Stuub",
     "repotime": "2024-05-16, 22:07:27",
-    "stargazers_count": 57,
-    "watchers_count": 57
+    "stargazers_count": 61,
+    "watchers_count": 61
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-11-28",
+    "date_updated": "2024-05-16",
+    "description": "A heapdump leaks Shiro key causing RCE vulnerability environment.",
+    "forks_count": 5,
+    "html_url": "https://github.com/P4r4d1se/heapdump_shiro_vuln",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "heapdump_shiro_vuln",
+    "repo_owner": "P4r4d1se",
+    "repotime": "2024-05-16, 08:17:02",
+    "stargazers_count": 50,
+    "watchers_count": 50
 }
 {
     "commits_count": 5,
@@ -839,14 +975,14 @@
     "forks_count": 44,
     "html_url": "https://github.com/sayantann11/all-classification-templetes-for-ML",
     "keywords": [
-        "use after free analysis"
+        "Win use after free"
     ],
     "language": "Python",
     "repo_name": "all-classification-templetes-for-ML",
     "repo_owner": "sayantann11",
     "repotime": "2024-05-15, 04:46:23",
-    "stargazers_count": 190,
-    "watchers_count": 190
+    "stargazers_count": 199,
+    "watchers_count": 199
 }
 {
     "commits_count": 18,
@@ -870,7 +1006,7 @@
     "date_started": "2019-07-31",
     "date_updated": "2024-05-14",
     "description": "Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.",
-    "forks_count": 143,
+    "forks_count": 144,
     "html_url": "https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension",
     "keywords": [
         "by_owner"
@@ -879,8 +1015,8 @@
     "repo_name": "IPRotate_Burp_Extension",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2024-05-14, 13:53:58",
-    "stargazers_count": 806,
-    "watchers_count": 806
+    "stargazers_count": 809,
+    "watchers_count": 809
 }
 {
     "commits_count": 2,
@@ -913,8 +1049,8 @@
     "repo_name": "AMSI-BYPASS",
     "repo_owner": "V-i-x-x",
     "repotime": "2024-05-14, 12:03:24",
-    "stargazers_count": 162,
-    "watchers_count": 162
+    "stargazers_count": 177,
+    "watchers_count": 177
 }
 {
     "commits_count": 7,
@@ -1083,8 +1219,8 @@
     "repo_name": "Ropdump",
     "repo_owner": "Rizer0",
     "repotime": "2024-05-11, 11:07:15",
-    "stargazers_count": 78,
-    "watchers_count": 78
+    "stargazers_count": 81,
+    "watchers_count": 81
 }
 {
     "commits_count": 6,
@@ -1172,23 +1308,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 7,
-    "date_started": "2024-02-28",
-    "date_updated": "2024-05-09",
-    "description": "LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges",
-    "forks_count": 0,
-    "html_url": "https://github.com/rxerium/CVE-2023-40000",
-    "keywords": [
-        "unauthenticated user"
-    ],
-    "language": null,
-    "repo_name": "CVE-2023-40000",
-    "repo_owner": "rxerium",
-    "repotime": "2024-05-09, 12:52:28",
-    "stargazers_count": 5,
-    "watchers_count": 5
-}
-{
     "commits_count": 1,
     "date_started": "2024-05-09",
     "date_updated": "2024-05-08",
@@ -1206,6 +1325,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 18,
+    "date_started": "2024-03-20",
+    "date_updated": "2024-05-08",
+    "description": "Proof of concept tests for candidate format for national / regional catch estimation",
+    "forks_count": 0,
+    "html_url": "https://github.com/edvinf/RCEF_tests",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "HTML",
+    "repo_name": "RCEF_tests",
+    "repo_owner": "edvinf",
+    "repotime": "2024-05-08, 23:19:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 133,
     "date_started": "2017-12-18",
     "date_updated": "2024-05-08",
@@ -1219,8 +1355,8 @@
     "repo_name": "SQLInjectionWiki",
     "repo_owner": "NetSPI",
     "repotime": "2024-05-08, 15:34:27",
-    "stargazers_count": 759,
-    "watchers_count": 759
+    "stargazers_count": 762,
+    "watchers_count": 762
 }
 {
     "commits_count": 2,
@@ -1287,8 +1423,8 @@
     "repo_name": "CVE-2023-49606",
     "repo_owner": "d0rb",
     "repotime": "2024-05-07, 13:11:53",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 7,
@@ -1304,8 +1440,8 @@
     "repo_name": "CVE-2023-26035",
     "repo_owner": "rvizx",
     "repotime": "2024-05-07, 09:02:00",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 8,
@@ -1601,7 +1737,7 @@
     "date_started": "2024-05-03",
     "date_updated": "2024-05-03",
     "description": "Mobile Mouse 3.6.0.4 could allow a remote attacker to execute arbitrary code on the system, caused by improper input validation. By sending a specially-crafted request, an attacker could exploit this vulnerability to execute arbitrary code on the system. ",
-    "forks_count": 2,
+    "forks_count": 3,
     "html_url": "https://github.com/blue0x1/mobilemouse-exploit",
     "keywords": [
         "improper input validation"
@@ -1610,8 +1746,8 @@
     "repo_name": "mobilemouse-exploit",
     "repo_owner": "blue0x1",
     "repotime": "2024-05-03, 15:02:32",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 5,
@@ -1621,7 +1757,7 @@
     "forks_count": 24,
     "html_url": "https://github.com/diego-tella/CVE-2024-27956-RCE",
     "keywords": [
-        "sql injection"
+        "rce poc"
     ],
     "language": "Python",
     "repo_name": "CVE-2024-27956-RCE",

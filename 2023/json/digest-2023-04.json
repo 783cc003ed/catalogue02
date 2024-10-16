@@ -71,7 +71,7 @@
     "date_started": "2019-11-19",
     "date_updated": "2023-04-28",
     "description": "🎯 XML External Entity (XXE) Injection Payload List",
-    "forks_count": 291,
+    "forks_count": 297,
     "html_url": "https://github.com/payloadbox/xxe-injection-payload-list",
     "keywords": [
         "xxe"
@@ -80,8 +80,8 @@
     "repo_name": "xxe-injection-payload-list",
     "repo_owner": "payloadbox",
     "repotime": "2023-04-28, 23:49:11",
-    "stargazers_count": 1059,
-    "watchers_count": 1059
+    "stargazers_count": 1076,
+    "watchers_count": 1076
 }
 {
     "commits_count": 20,
@@ -97,8 +97,8 @@
     "repo_name": "ssti-payloads",
     "repo_owner": "payloadbox",
     "repotime": "2023-04-28, 23:48:39",
-    "stargazers_count": 588,
-    "watchers_count": 588
+    "stargazers_count": 597,
+    "watchers_count": 597
 }
 {
     "commits_count": 2,
@@ -118,21 +118,21 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 7,
-    "date_started": "2022-01-25",
-    "date_updated": "2023-04-27",
-    "description": "<no description>",
-    "forks_count": 1,
-    "html_url": "https://github.com/yealvarez/CSV-Injection",
+    "commits_count": 2,
+    "date_started": "2023-06-20",
+    "date_updated": "2023-04-28",
+    "description": "FineReport channel Deserialization Vulnerabilities RCE",
+    "forks_count": 16,
+    "html_url": "https://github.com/mssky9527/FineReport_channel_Deserialization_Vulnerabilities_RCE",
     "keywords": [
-        "csv injection"
+        "rce vulnerability"
     ],
     "language": null,
-    "repo_name": "CSV-Injection",
-    "repo_owner": "yealvarez",
-    "repotime": "2023-04-27, 15:56:24",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "repo_name": "FineReport_channel_Deserialization_Vulnerabilities_RCE",
+    "repo_owner": "mssky9527",
+    "repotime": "2023-04-28, 18:11:48",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 23,
@@ -224,7 +224,7 @@
     "date_started": "2019-05-19",
     "date_updated": "2023-04-24",
     "description": "XSS payloads designed to turn alert(1) into P1",
-    "forks_count": 212,
+    "forks_count": 215,
     "html_url": "https://github.com/hakluke/weaponised-XSS-payloads",
     "keywords": [
         "xss"
@@ -233,8 +233,8 @@
     "repo_name": "weaponised-XSS-payloads",
     "repo_owner": "hakluke",
     "repotime": "2023-04-24, 22:13:58",
-    "stargazers_count": 1303,
-    "watchers_count": 1303
+    "stargazers_count": 1328,
+    "watchers_count": 1328
 }
 {
     "commits_count": 3,
@@ -339,6 +339,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 22,
+    "date_started": "2022-03-31",
+    "date_updated": "2023-04-18",
+    "description": "CVE-2022-22965 - CVE-2010-1622 redux",
+    "forks_count": 12,
+    "html_url": "https://github.com/DDuarte/springshell-rce-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "springshell-rce-poc",
+    "repo_owner": "DDuarte",
+    "repotime": "2023-04-18, 13:54:56",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
     "commits_count": 65,
     "date_started": "2017-10-26",
     "date_updated": "2023-04-18",
@@ -424,6 +441,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4,
+    "date_started": "2023-04-11",
+    "date_updated": "2023-04-14",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/FzBacon/CVE-2019-18370_XiaoMi_Mi_WIFI_RCE_analysis",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-18370_XiaoMi_Mi_WIFI_RCE_analysis",
+    "repo_owner": "FzBacon",
+    "repotime": "2023-04-14, 09:59:52",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 20,
     "date_started": "2023-04-11",
     "date_updated": "2023-04-12",
@@ -475,6 +509,23 @@
     "watchers_count": 4
 }
 {
+    "commits_count": 14,
+    "date_started": "2023-04-08",
+    "date_updated": "2023-04-11",
+    "description": "This is my first project in asp.net core MVC using EntityFramework Core, one of the most popular free and opensource Framework developed by microsoft. This project is carried out as a part of my assignment after completing 2.5month training in Broadway infosys.",
+    "forks_count": 0,
+    "html_url": "https://github.com/badriaran/MovieStoreMVC-using-EF",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": "C#",
+    "repo_name": "MovieStoreMVC-using-EF",
+    "repo_owner": "badriaran",
+    "repotime": "2023-04-11, 09:44:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 5,
     "date_started": "2023-01-04",
     "date_updated": "2023-04-11",
@@ -488,23 +539,6 @@
     "repo_name": "Sushi",
     "repo_owner": "not1cyyy",
     "repotime": "2023-04-11, 03:46:19",
-    "stargazers_count": 6,
-    "watchers_count": 6
-}
-{
-    "commits_count": 16,
-    "date_started": "2022-11-11",
-    "date_updated": "2023-04-10",
-    "description": "I have developed a malware program using the C programming language, which includes various malicious features such as privilege escalation exploit, lsass dumper, reverse shell, keylogging, IAT hooking, DLL injection, and more. It should be noted that the program is constantly being updated, and some versions may not be fully functional.",
-    "forks_count": 2,
-    "html_url": "https://github.com/IlayTheVuln/WindowsOffender",
-    "keywords": [
-        "Windows escalation of privileges"
-    ],
-    "language": "C",
-    "repo_name": "WindowsOffender",
-    "repo_owner": "IlayTheVuln",
-    "repotime": "2023-04-10, 16:17:35",
     "stargazers_count": 6,
     "watchers_count": 6
 }
@@ -524,6 +558,23 @@
     "repotime": "2023-04-10, 16:17:35",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2022-11-11",
+    "date_updated": "2023-04-10",
+    "description": "I have developed a malware program using the C programming language, which includes various malicious features such as privilege escalation exploit, lsass dumper, reverse shell, keylogging, IAT hooking, DLL injection, and more. It should be noted that the program is constantly being updated, and some versions may not be fully functional.",
+    "forks_count": 2,
+    "html_url": "https://github.com/IlayTheVuln/WindowsOffender",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C",
+    "repo_name": "WindowsOffender",
+    "repo_owner": "IlayTheVuln",
+    "repotime": "2023-04-10, 16:17:35",
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 29,
@@ -558,6 +609,23 @@
     "repotime": "2023-04-10, 01:33:41",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-03-29",
+    "date_updated": "2023-04-10",
+    "description": "Bypassing PatchGuard on modern x64 systems",
+    "forks_count": 52,
+    "html_url": "https://github.com/AdamOron/PatchGuardBypass",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "PatchGuardBypass",
+    "repo_owner": "AdamOron",
+    "repotime": "2023-04-10, 02:28:55",
+    "stargazers_count": 242,
+    "watchers_count": 242
 }
 {
     "commits_count": 4,
@@ -628,21 +696,21 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 93,
-    "date_started": "2020-06-16",
+    "commits_count": 24,
+    "date_started": "2021-12-14",
     "date_updated": "2023-04-06",
-    "description": "Fast CLI tool to find the parameters that can be used to find SSRF or Out-of-band resource load :artificial_satellite: :crab:",
-    "forks_count": 43,
-    "html_url": "https://github.com/knassar702/lorsrf",
+    "description": "A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.",
+    "forks_count": 52,
+    "html_url": "https://github.com/0xInfection/LogMePwn",
     "keywords": [
-        "ssrf"
+        "rce vulnerability"
     ],
-    "language": "Rust",
-    "repo_name": "lorsrf",
-    "repo_owner": "knassar702",
-    "repotime": "2023-04-06, 00:31:18",
-    "stargazers_count": 288,
-    "watchers_count": 288
+    "language": "Go",
+    "repo_name": "LogMePwn",
+    "repo_owner": "0xInfection",
+    "repotime": "2023-04-06, 14:08:12",
+    "stargazers_count": 384,
+    "watchers_count": 384
 }
 {
     "commits_count": 5,
@@ -677,6 +745,23 @@
     "repotime": "2023-04-05, 15:35:10",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-04-05",
+    "date_updated": "2023-04-05",
+    "description": "The first proof of concept of the Contao CMS RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/redteamsecurity2023/CVE-2022-26265",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26265",
+    "repo_owner": "redteamsecurity2023",
+    "repotime": "2023-04-05, 13:06:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 6,

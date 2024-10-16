@@ -50,6 +50,23 @@
     "watchers_count": 25
 }
 {
+    "commits_count": 2,
+    "date_started": "2019-09-25",
+    "date_updated": "2019-09-25",
+    "description": "Proof of concept on how to  exploit insecure deserialization on NodeJS library to perform a RCE (Remote Code Execution)",
+    "forks_count": 1,
+    "html_url": "https://github.com/indrefi/Insecure-Deserialization-NodeJS-RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Insecure-Deserialization-NodeJS-RCE",
+    "repo_owner": "indrefi",
+    "repotime": "2019-09-25, 21:10:14",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 1,
     "date_started": "2019-09-25",
     "date_updated": "2019-09-25",
@@ -84,6 +101,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 13,
+    "date_started": "2019-09-25",
+    "date_updated": "2019-09-25",
+    "description": "Identify vulnerable (RCE) vBulletin 5.0.0 - 5.5.4 instances using Shodan",
+    "forks_count": 31,
+    "html_url": "https://github.com/c002/mass-pwn-vbulletin",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "mass-pwn-vbulletin",
+    "repo_owner": "c002",
+    "repotime": "2019-09-25, 00:41:27",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
     "commits_count": 5,
     "date_started": "2019-06-29",
     "date_updated": "2019-09-25",
@@ -97,8 +131,25 @@
     "repo_name": "CollabOzark",
     "repo_owner": "securityidiots",
     "repotime": "2019-09-25, 11:38:18",
-    "stargazers_count": 136,
-    "watchers_count": 136
+    "stargazers_count": 137,
+    "watchers_count": 137
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-09-22",
+    "date_updated": "2019-09-25",
+    "description": "泛微OA e-cology rce批量检测工具",
+    "forks_count": 17,
+    "html_url": "https://github.com/sunird/e-cology-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "e-cology-poc",
+    "repo_owner": "sunird",
+    "repotime": "2019-09-25, 15:17:46",
+    "stargazers_count": 33,
+    "watchers_count": 33
 }
 {
     "commits_count": 4,
@@ -116,6 +167,23 @@
     "repotime": "2019-09-23, 20:04:55",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-08-24",
+    "date_updated": "2019-09-23",
+    "description": "The official exploit code for FusionPBX v4.4.8 Remote Code Execution CVE-2019-15029",
+    "forks_count": 2,
+    "html_url": "https://github.com/mhaskar/CVE-2019-15029",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2019-15029",
+    "repo_owner": "mhaskar",
+    "repotime": "2019-09-23, 16:39:08",
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 6,
@@ -165,8 +233,8 @@
     "repo_name": "DamnWebScanner",
     "repo_owner": "swisskyrepo",
     "repotime": "2019-09-22, 16:11:49",
-    "stargazers_count": 438,
-    "watchers_count": 438
+    "stargazers_count": 445,
+    "watchers_count": 445
 }
 {
     "commits_count": 2,
@@ -258,7 +326,7 @@
     "date_started": "2019-09-16",
     "date_updated": "2019-09-16",
     "description": "Escalation / Bypass Windows UAC",
-    "forks_count": 50,
+    "forks_count": 44,
     "html_url": "https://github.com/NYAN-x-CAT/UAC-Escaper",
     "keywords": [
         "uac bypass"
@@ -322,6 +390,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 2,
+    "date_started": "2019-09-10",
+    "date_updated": "2019-09-10",
+    "description": "A proof of concept remote code execution exploit for the TinyHTTPd binary (Credit to Andrew Kramer for finding the vulnerability and Logan Stratton for the exploitation research that lead to these POCs) ",
+    "forks_count": 0,
+    "html_url": "https://github.com/TheJareBear/TinyHTTPd-RCE-POC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "C",
+    "repo_name": "TinyHTTPd-RCE-POC",
+    "repo_owner": "TheJareBear",
+    "repotime": "2019-09-10, 18:14:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 3,
     "date_started": "2019-09-09",
     "date_updated": "2019-09-09",
@@ -371,6 +456,23 @@
     "repotime": "2019-09-09, 11:03:01",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2019-09-06",
+    "date_updated": "2019-09-07",
+    "description": "bluekeep exploit",
+    "forks_count": 63,
+    "html_url": "https://github.com/NAXG/cve_2019_0708_bluekeep_rce",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "cve_2019_0708_bluekeep_rce",
+    "repo_owner": "NAXG",
+    "repotime": "2019-09-07, 11:12:15",
+    "stargazers_count": 129,
+    "watchers_count": 129
 }
 {
     "commits_count": 3,
@@ -454,6 +556,6 @@
     "repo_name": "XSSCon",
     "repo_owner": "menkrep1337",
     "repotime": "2019-09-01, 09:32:18",
-    "stargazers_count": 207,
-    "watchers_count": 207
+    "stargazers_count": 210,
+    "watchers_count": 210
 }

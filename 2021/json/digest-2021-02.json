@@ -84,11 +84,28 @@
     "watchers_count": 4
 }
 {
+    "commits_count": 4,
+    "date_started": "2021-02-23",
+    "date_updated": "2021-02-24",
+    "description": "Robot researchers need the simulator to test their functions and algorithm before implementing into the real robot. Most of the time, a customizable Robot simulator is not available to the researcher. Some good options are available in the market, but their price is too high, not affordable. After much research, we found a better solution around all aspects, fully customizable and entirely free of cost. There are two sides. One is a 3D view of robotics ARM, and another is a joint controller of robotics ARM. For 3D simulation, CoppeliaSim is the best option. It is free of cost and Open Source. The C&amp;&#35;35; language is becoming famous for its managed code structure and ease of implementation. Our Robot controller is in the C&amp;&#35;35; language. For control and debug we use Microsoft visual studio 2019. It is an unparallel IDE for the programmer. In the CoppeliaSim little bit, Lua script is in associated functions. Communication Between the simulator and our application, we will use Remote API F...",
+    "forks_count": 1,
+    "html_url": "https://github.com/sudipchakraborty/Forward-Kinematics-Demonstration-Using-CoppeliaSim-and-C-",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": null,
+    "repo_name": "Forward-Kinematics-Demonstration-Using-CoppeliaSim-and-C-",
+    "repo_owner": "sudipchakraborty",
+    "repotime": "2021-02-24, 17:01:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 18,
     "date_started": "2018-06-28",
     "date_updated": "2021-02-24",
     "description": "SQL Injection Payload List",
-    "forks_count": 58,
+    "forks_count": 56,
     "html_url": "https://github.com/omurugur/SQL_Injection_Payload",
     "keywords": [
         "sql injection"
@@ -97,8 +114,8 @@
     "repo_name": "SQL_Injection_Payload",
     "repo_owner": "omurugur",
     "repotime": "2021-02-24, 00:49:49",
-    "stargazers_count": 104,
-    "watchers_count": 104
+    "stargazers_count": 105,
+    "watchers_count": 105
 }
 {
     "commits_count": 9,
@@ -122,7 +139,7 @@
     "date_started": "2019-05-29",
     "date_updated": "2021-02-24",
     "description": "Path Traversal Vulnerability Payload List",
-    "forks_count": 25,
+    "forks_count": 26,
     "html_url": "https://github.com/omurugur/Path_Travelsal_Payload_List",
     "keywords": [
         "path traversal attack"
@@ -131,8 +148,8 @@
     "repo_name": "Path_Travelsal_Payload_List",
     "repo_owner": "omurugur",
     "repotime": "2021-02-24, 00:48:18",
-    "stargazers_count": 54,
-    "watchers_count": 54
+    "stargazers_count": 58,
+    "watchers_count": 58
 }
 {
     "commits_count": 1,
@@ -233,8 +250,8 @@
     "repo_name": "UACHooker",
     "repo_owner": "TheKevinWang",
     "repotime": "2021-02-19, 22:39:25",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 1,
@@ -254,6 +271,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 6,
+    "date_started": "2021-02-13",
+    "date_updated": "2021-02-17",
+    "description": "OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit",
+    "forks_count": 2,
+    "html_url": "https://github.com/QTranspose/CVE-2020-7247-exploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-7247-exploit",
+    "repo_owner": "QTranspose",
+    "repotime": "2021-02-17, 20:23:57",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
     "commits_count": 60,
     "date_started": "2019-10-25",
     "date_updated": "2021-02-16",
@@ -267,8 +301,8 @@
     "repo_name": "_sql_injections",
     "repo_owner": "an4kein",
     "repotime": "2021-02-16, 22:12:12",
-    "stargazers_count": 41,
-    "watchers_count": 41
+    "stargazers_count": 43,
+    "watchers_count": 43
 }
 {
     "commits_count": 2,
@@ -284,8 +318,8 @@
     "repo_name": "script-copy",
     "repo_owner": "heru299",
     "repotime": "2021-02-17, 06:38:02",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 15,
@@ -318,8 +352,8 @@
     "repo_name": "wrap_dll",
     "repo_owner": "mavenlin",
     "repotime": "2021-02-14, 05:44:54",
-    "stargazers_count": 154,
-    "watchers_count": 154
+    "stargazers_count": 157,
+    "watchers_count": 157
 }
 {
     "commits_count": 35,
@@ -377,7 +411,7 @@
     "date_started": "2021-02-10",
     "date_updated": "2021-02-12",
     "description": "Powerfull Automatic Sql injection Tools Pack",
-    "forks_count": 41,
+    "forks_count": 42,
     "html_url": "https://github.com/Agressiv1njector/psqli-pro",
     "keywords": [
         "sql injection"
@@ -386,8 +420,8 @@
     "repo_name": "psqli-pro",
     "repo_owner": "Agressiv1njector",
     "repotime": "2021-02-12, 12:59:04",
-    "stargazers_count": 105,
-    "watchers_count": 105
+    "stargazers_count": 107,
+    "watchers_count": 107
 }
 {
     "commits_count": 28,
@@ -420,8 +454,8 @@
     "repo_name": "BurpParamFlagger",
     "repo_owner": "allyomalley",
     "repotime": "2021-02-10, 18:00:14",
-    "stargazers_count": 129,
-    "watchers_count": 129
+    "stargazers_count": 130,
+    "watchers_count": 130
 }
 {
     "commits_count": 3,
@@ -458,6 +492,23 @@
     "watchers_count": 4
 }
 {
+    "commits_count": 5,
+    "date_started": "2020-12-24",
+    "date_updated": "2021-02-09",
+    "description": "POC for GitLabs Authenticated RCE in version 11.4.7 community edition",
+    "forks_count": 13,
+    "html_url": "https://github.com/ctrlsam/GitLab-11.4.7-RCE",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "GitLab-11.4.7-RCE",
+    "repo_owner": "ctrlsam",
+    "repotime": "2021-02-09, 10:35:21",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
     "commits_count": 53,
     "date_started": "2018-06-22",
     "date_updated": "2021-02-07",
@@ -473,6 +524,23 @@
     "repotime": "2021-02-07, 08:19:39",
     "stargazers_count": 9,
     "watchers_count": 9
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-01-02",
+    "date_updated": "2021-02-06",
+    "description": "The processes in continuity of image and sounds are partially interrupted, disrupted in more or less expected ways. Driving triggers signal lack, require input; I do my best to appease the waves. Solitude brings about conversation with the self and thus with the other, the limit that spills about rendering difference precariously pinned in place. A conversation with the Other within the self or that is non Other than the self or that the self dissimulates its own hollowness. Nostalgia projects a real reality, other than, that never was in fact. It then projects a potentiality hidden in impossibility. in that of a past that has flown. It isn't the frail child but the formless life that I now fancy myself with the tools to furnish. However, the possibility is blocked by present circumstance. A process of situating ourselves in the best possible reality, one of invalidation of possibility, runs through this nostalgia at a supra individual level. If identities like the coupling of man and ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/marcosparajua/I-do-my-best-to-appease-the-waves",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "HTML",
+    "repo_name": "I-do-my-best-to-appease-the-waves",
+    "repo_owner": "marcosparajua",
+    "repotime": "2021-02-06, 21:18:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 19,
@@ -507,6 +575,23 @@
     "repotime": "2021-02-05, 03:11:50",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2020-12-21",
+    "date_updated": "2021-02-04",
+    "description": "Workshop given at Hack in Paris 2019",
+    "forks_count": 38,
+    "html_url": "https://github.com/GoSecure/xxe-workshop",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xxe-workshop",
+    "repo_owner": "GoSecure",
+    "repotime": "2021-02-04, 15:10:48",
+    "stargazers_count": 121,
+    "watchers_count": 121
 }
 {
     "commits_count": 6,
@@ -584,14 +669,14 @@
     "forks_count": 0,
     "html_url": "https://github.com/RpcSecurity/0day_nvr",
     "keywords": [
-        "0day exploitation"
+        "0day exploit"
     ],
     "language": null,
     "repo_name": "0day_nvr",
     "repo_owner": "RpcSecurity",
     "repotime": "2021-02-01, 20:22:54",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 7,

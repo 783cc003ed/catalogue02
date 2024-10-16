@@ -101,7 +101,7 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 47,
+    "commits_count": 48,
     "date_started": "2022-03-20",
     "date_updated": "2023-08-30",
     "description": "Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin，online https://51pwn.com",
@@ -114,8 +114,8 @@
     "repo_name": "go4Hacker",
     "repo_owner": "GhostTroops",
     "repotime": "2023-08-30, 16:43:21",
-    "stargazers_count": 140,
-    "watchers_count": 140
+    "stargazers_count": 141,
+    "watchers_count": 141
 }
 {
     "commits_count": 1,
@@ -150,6 +150,23 @@
     "repotime": "2023-08-29, 11:10:06",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-08-27",
+    "date_updated": "2023-08-28",
+    "description": "An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23",
+    "forks_count": 17,
+    "html_url": "https://github.com/ignis-sec/CVE-2023-38831-RaRCE",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831-RaRCE",
+    "repo_owner": "ignis-sec",
+    "repotime": "2023-08-28, 01:17:56",
+    "stargazers_count": 116,
+    "watchers_count": 116
 }
 {
     "commits_count": 1,
@@ -199,8 +216,8 @@
     "repo_name": "CVE-2023-21768",
     "repo_owner": "Malwareman007",
     "repotime": "2023-08-27, 16:11:39",
-    "stargazers_count": 39,
-    "watchers_count": 39
+    "stargazers_count": 40,
+    "watchers_count": 40
 }
 {
     "commits_count": 25,
@@ -216,8 +233,8 @@
     "repo_name": "CanIBeSpoofed",
     "repo_owner": "CanIPhish",
     "repotime": "2023-08-27, 15:37:23",
-    "stargazers_count": 35,
-    "watchers_count": 35
+    "stargazers_count": 36,
+    "watchers_count": 36
 }
 {
     "commits_count": 9,
@@ -241,7 +258,7 @@
     "date_started": "2023-08-24",
     "date_updated": "2023-08-24",
     "description": "Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE",
-    "forks_count": 29,
+    "forks_count": 27,
     "html_url": "https://github.com/Octoberfest7/CVE-2023-36874_BOF",
     "keywords": [
         "Windows lpe"
@@ -250,8 +267,8 @@
     "repo_name": "CVE-2023-36874_BOF",
     "repo_owner": "Octoberfest7",
     "repotime": "2023-08-24, 20:30:01",
-    "stargazers_count": 193,
-    "watchers_count": 193
+    "stargazers_count": 200,
+    "watchers_count": 200
 }
 {
     "commits_count": 4,
@@ -271,6 +288,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4,
+    "date_started": "2023-07-21",
+    "date_updated": "2023-08-23",
+    "description": "RCE exploit for CVE-2023-3519",
+    "forks_count": 39,
+    "html_url": "https://github.com/BishopFox/CVE-2023-3519",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-3519",
+    "repo_owner": "BishopFox",
+    "repotime": "2023-08-23, 09:27:28",
+    "stargazers_count": 219,
+    "watchers_count": 219
+}
+{
     "commits_count": 3,
     "date_started": "2023-08-26",
     "date_updated": "2023-08-23",
@@ -288,6 +322,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4,
+    "date_started": "2020-02-04",
+    "date_updated": "2023-08-23",
+    "description": "A Burp Extender for checking for struts 2 RCE vulnerabilities.",
+    "forks_count": 40,
+    "html_url": "https://github.com/prakharathreya/Struts2-RCE",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Struts2-RCE",
+    "repo_owner": "prakharathreya",
+    "repotime": "2023-08-23, 09:40:13",
+    "stargazers_count": 280,
+    "watchers_count": 280
+}
+{
     "commits_count": 323,
     "date_started": "2009-09-17",
     "date_updated": "2023-08-22",
@@ -301,8 +352,8 @@
     "repo_name": "bobby-tables",
     "repo_owner": "petdance",
     "repotime": "2023-08-22, 21:04:46",
-    "stargazers_count": 245,
-    "watchers_count": 245
+    "stargazers_count": 247,
+    "watchers_count": 247
 }
 {
     "commits_count": 33,
@@ -318,15 +369,15 @@
     "repo_name": "nosymonkey",
     "repo_owner": "anvilsecure",
     "repotime": "2023-08-22, 14:45:23",
-    "stargazers_count": 30,
-    "watchers_count": 30
+    "stargazers_count": 31,
+    "watchers_count": 31
 }
 {
     "commits_count": 86,
     "date_started": "2019-09-22",
     "date_updated": "2023-08-21",
     "description": "This Lab contain the sample codes which are vulnerable to Server-Side Request Forgery attack",
-    "forks_count": 174,
+    "forks_count": 175,
     "html_url": "https://github.com/incredibleindishell/SSRF_Vulnerable_Lab",
     "keywords": [
         "ssrf"
@@ -335,8 +386,8 @@
     "repo_name": "SSRF_Vulnerable_Lab",
     "repo_owner": "incredibleindishell",
     "repotime": "2023-08-21, 22:32:38",
-    "stargazers_count": 662,
-    "watchers_count": 662
+    "stargazers_count": 663,
+    "watchers_count": 663
 }
 {
     "commits_count": 2,
@@ -403,8 +454,8 @@
     "repo_name": "imagemagick-lfi-poc",
     "repo_owner": "Sybil-Scan",
     "repotime": "2023-08-16, 21:07:00",
-    "stargazers_count": 50,
-    "watchers_count": 50
+    "stargazers_count": 51,
+    "watchers_count": 51
 }
 {
     "commits_count": 3,
@@ -465,14 +516,14 @@
     "forks_count": 44,
     "html_url": "https://github.com/b2git/WPS-0DAY-20230809",
     "keywords": [
-        "0day vulnerability"
+        "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "WPS-0DAY-20230809",
     "repo_owner": "b2git",
     "repotime": "2023-08-11, 21:34:35",
-    "stargazers_count": 142,
-    "watchers_count": 142
+    "stargazers_count": 141,
+    "watchers_count": 141
 }
 {
     "commits_count": 3,
@@ -522,8 +573,8 @@
     "repo_name": "KRBUACBypass",
     "repo_owner": "wh0amitz",
     "repotime": "2023-08-10, 10:51:59",
-    "stargazers_count": 463,
-    "watchers_count": 463
+    "stargazers_count": 470,
+    "watchers_count": 470
 }
 {
     "commits_count": 25,
@@ -679,6 +730,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 6,
+    "date_started": "2023-08-02",
+    "date_updated": "2023-08-03",
+    "description": "Metabase Pre-auth RCE",
+    "forks_count": 1,
+    "html_url": "https://github.com/shamo0/CVE-2023-38646-PoC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38646-PoC",
+    "repo_owner": "shamo0",
+    "repotime": "2023-08-03, 14:07:15",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
     "commits_count": 1,
     "date_started": "2023-08-02",
     "date_updated": "2023-08-02",
@@ -694,4 +762,21 @@
     "repotime": "2023-08-02, 15:20:36",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 31,
+    "date_started": "2021-12-11",
+    "date_updated": "2023-08-02",
+    "description": "Remote command execution vulnerability scanner for Log4j.",
+    "forks_count": 55,
+    "html_url": "https://github.com/adilsoybali/Log4j-RCE-Scanner",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "Log4j-RCE-Scanner",
+    "repo_owner": "adilsoybali",
+    "repotime": "2023-08-02, 01:05:20",
+    "stargazers_count": 253,
+    "watchers_count": 253
 }

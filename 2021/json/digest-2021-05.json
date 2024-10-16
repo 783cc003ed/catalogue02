@@ -67,6 +67,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 25,
+    "date_started": "2021-05-22",
+    "date_updated": "2021-05-27",
+    "description": "x64 Windows PatchGuard bypass, register process-creation callbacks from unsigned code",
+    "forks_count": 33,
+    "html_url": "https://github.com/kkent030315/NoPatchGuardCallback",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "NoPatchGuardCallback",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-05-27, 09:15:54",
+    "stargazers_count": 197,
+    "watchers_count": 197
+}
+{
     "commits_count": 2,
     "date_started": "2021-05-26",
     "date_updated": "2021-05-26",
@@ -148,8 +165,8 @@
     "repo_name": "CVE-2021-31166",
     "repo_owner": "0vercl0k",
     "repotime": "2021-05-21, 16:58:22",
-    "stargazers_count": 824,
-    "watchers_count": 824
+    "stargazers_count": 825,
+    "watchers_count": 825
 }
 {
     "commits_count": 32,
@@ -201,6 +218,23 @@
     "repotime": "2021-05-17, 14:25:22",
     "stargazers_count": 3,
     "watchers_count": 3
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-05-16",
+    "description": "RCE for Pega Infinity &amp;gt;= 8.2.1, Pega Infinity &amp;lt;= 8.5.2",
+    "forks_count": 16,
+    "html_url": "https://github.com/samwcyo/CVE-2021-27651-PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-27651-PoC",
+    "repo_owner": "samwcyo",
+    "repotime": "2021-05-16, 00:54:07",
+    "stargazers_count": 60,
+    "watchers_count": 60
 }
 {
     "commits_count": 2,
@@ -292,7 +326,7 @@
     "date_started": "2021-05-09",
     "date_updated": "2021-05-10",
     "description": "国光的手把手带你用 SSRF 打穿内网靶场源码",
-    "forks_count": 58,
+    "forks_count": 59,
     "html_url": "https://github.com/sqlsec/ssrf-vuls",
     "keywords": [
         "ssrf"
@@ -301,8 +335,8 @@
     "repo_name": "ssrf-vuls",
     "repo_owner": "sqlsec",
     "repotime": "2021-05-10, 09:56:19",
-    "stargazers_count": 354,
-    "watchers_count": 354
+    "stargazers_count": 361,
+    "watchers_count": 361
 }
 {
     "commits_count": 9,
@@ -320,6 +354,23 @@
     "repotime": "2021-05-09, 11:14:48",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-01-27",
+    "date_updated": "2021-05-07",
+    "description": "CMSUno 1.6.1 &amp;lt;= 1.6.2 - Remote Code Execution (Authenticated)",
+    "forks_count": 3,
+    "html_url": "https://github.com/sec-it/CMSUno-RCE",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "CMSUno-RCE",
+    "repo_owner": "sec-it",
+    "repotime": "2021-05-07, 17:09:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 11,

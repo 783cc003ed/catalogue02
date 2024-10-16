@@ -71,7 +71,7 @@
     "date_started": "2017-03-24",
     "date_updated": "2019-03-24",
     "description": "Version 0.2 - Exploit Time-based blind-SQL injection in HTTP-Headers (MySQL/MariaDB).",
-    "forks_count": 103,
+    "forks_count": 104,
     "html_url": "https://github.com/JohnTroony/Blisqy",
     "keywords": [
         "sql injection"
@@ -80,15 +80,15 @@
     "repo_name": "Blisqy",
     "repo_owner": "JohnTroony",
     "repotime": "2019-03-24, 14:35:24",
-    "stargazers_count": 349,
-    "watchers_count": 349
+    "stargazers_count": 357,
+    "watchers_count": 357
 }
 {
     "commits_count": 8,
     "date_started": "2019-03-23",
     "date_updated": "2019-03-23",
     "description": "SSRF testing tool",
-    "forks_count": 44,
+    "forks_count": 45,
     "html_url": "https://github.com/daeken/SSRFTest",
     "keywords": [
         "ssrf"
@@ -97,8 +97,8 @@
     "repo_name": "SSRFTest",
     "repo_owner": "daeken",
     "repotime": "2019-03-23, 15:14:01",
-    "stargazers_count": 239,
-    "watchers_count": 239
+    "stargazers_count": 242,
+    "watchers_count": 242
 }
 {
     "commits_count": 1,
@@ -133,6 +133,23 @@
     "repotime": "2019-03-20, 18:48:01",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2019-02-25",
+    "date_updated": "2019-03-18",
+    "description": "A simple PoC for WordPress RCE (author priviledge), refer to CVE-2019-8942 and CVE-2019-8943.",
+    "forks_count": 21,
+    "html_url": "https://github.com/brianwrf/WordPress_4.9.8_RCE_POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "WordPress_4.9.8_RCE_POC",
+    "repo_owner": "brianwrf",
+    "repotime": "2019-03-18, 09:20:52",
+    "stargazers_count": 74,
+    "watchers_count": 74
 }
 {
     "commits_count": 3,
@@ -186,6 +203,23 @@
     "watchers_count": 18
 }
 {
+    "commits_count": 37,
+    "date_started": "2018-11-19",
+    "date_updated": "2019-03-13",
+    "description": "vulnerability record",
+    "forks_count": 6,
+    "html_url": "https://github.com/greekn/rce-bug2.0",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "rce-bug2.0",
+    "repo_owner": "greekn",
+    "repotime": "2019-03-13, 17:16:40",
+    "stargazers_count": 34,
+    "watchers_count": 34
+}
+{
     "commits_count": 4,
     "date_started": "2019-03-11",
     "date_updated": "2019-03-11",
@@ -218,6 +252,23 @@
     "repotime": "2019-03-10, 19:33:42",
     "stargazers_count": 209,
     "watchers_count": 209
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-03-08",
+    "date_updated": "2019-03-08",
+    "description": "A WebKit exploit using CVE-2018-4441 to obtain RCE on PS4 6.20.",
+    "forks_count": 53,
+    "html_url": "https://github.com/Cryptogenic/PS4-6.20-WebKit-Code-Execution-Exploit",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "PS4-6.20-WebKit-Code-Execution-Exploit",
+    "repo_owner": "Cryptogenic",
+    "repotime": "2019-03-08, 13:42:56",
+    "stargazers_count": 200,
+    "watchers_count": 200
 }
 {
     "commits_count": 2,

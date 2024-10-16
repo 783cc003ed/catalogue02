@@ -46,8 +46,8 @@
     "repo_name": "CVE-2024-32002",
     "repo_owner": "charlesgargasson",
     "repotime": "2024-07-31, 01:27:57",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 44,
@@ -63,8 +63,8 @@
     "repo_name": "Email-Vulnerability-Checker",
     "repo_owner": "BLACK-SCORP10",
     "repotime": "2024-07-30, 18:15:37",
-    "stargazers_count": 88,
-    "watchers_count": 88
+    "stargazers_count": 90,
+    "watchers_count": 90
 }
 {
     "commits_count": 7,
@@ -84,11 +84,28 @@
     "watchers_count": 3
 }
 {
+    "commits_count": 9,
+    "date_started": "2024-07-28",
+    "date_updated": "2024-07-29",
+    "description": "In the 3.3.5a WoW client there is a Remote Code Exploit (RCE) that allows any private server owner to inject and run arbitrary code on your computer. This patcher will modify your WoW executable file to fix the exploit.",
+    "forks_count": 14,
+    "html_url": "https://github.com/stoneharry/RCEPatcher",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "C#",
+    "repo_name": "RCEPatcher",
+    "repo_owner": "stoneharry",
+    "repotime": "2024-07-29, 19:45:35",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
     "commits_count": 2,
     "date_started": "2024-07-29",
     "date_updated": "2024-07-29",
     "description": "Windows AppLocker Driver (appid.sys) LPE",
-    "forks_count": 12,
+    "forks_count": 14,
     "html_url": "https://github.com/Crowdfense/CVE-2024-21338",
     "keywords": [
         "lpe exploit"
@@ -97,8 +114,8 @@
     "repo_name": "CVE-2024-21338",
     "repo_owner": "Crowdfense",
     "repotime": "2024-07-29, 17:29:59",
-    "stargazers_count": 28,
-    "watchers_count": 28
+    "stargazers_count": 34,
+    "watchers_count": 34
 }
 {
     "commits_count": 8,
@@ -169,23 +186,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 12,
-    "date_started": "2024-03-07",
-    "date_updated": "2024-07-28",
-    "description": "Simple password manager to demonstrate encryption and decryption of passwords as opposed to plaintext storage.  Styled with Material UI",
-    "forks_count": 0,
-    "html_url": "https://github.com/anirudhkini21/SavePass",
-    "keywords": [
-        "password plaintext storage"
-    ],
-    "language": "JavaScript",
-    "repo_name": "SavePass",
-    "repo_owner": "anirudhkini21",
-    "repotime": "2024-07-28, 01:46:54",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 3,
     "date_started": "2024-07-27",
     "date_updated": "2024-07-28",
@@ -193,14 +193,14 @@
     "forks_count": 1,
     "html_url": "https://github.com/SaumyajeetDas/WhatsApp-Exploit",
     "keywords": [
-        "Windows rce exploit"
+        "Windows rce"
     ],
     "language": null,
     "repo_name": "WhatsApp-Exploit",
     "repo_owner": "SaumyajeetDas",
     "repotime": "2024-07-28, 00:35:24",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 1206,
@@ -233,8 +233,8 @@
     "repo_name": "chamilo-lms-unauthenticated-big-upload-rce-poc",
     "repo_owner": "m3m0o",
     "repotime": "2024-07-26, 21:19:17",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 5,
@@ -258,7 +258,7 @@
     "date_started": "2013-06-25",
     "date_updated": "2024-07-26",
     "description": "Cleans HTML to avoid XSS attacks",
-    "forks_count": 198,
+    "forks_count": 200,
     "html_url": "https://github.com/mganss/HtmlSanitizer",
     "keywords": [
         "xss"
@@ -267,25 +267,8 @@
     "repo_name": "HtmlSanitizer",
     "repo_owner": "mganss",
     "repotime": "2024-07-26, 17:05:45",
-    "stargazers_count": 1536,
-    "watchers_count": 1536
-}
-{
-    "commits_count": 1187,
-    "date_started": "2016-12-09",
-    "date_updated": "2024-07-26",
-    "description": "This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can be declaratively extended by additional operations, which can be used to reassemble and execute the existing functionalities according to project-specific requirements. But also completely new commands can be integrated quickly and easily via dependency injection.",
-    "forks_count": 17,
-    "html_url": "https://github.com/techdivision/import-cli-simple",
-    "keywords": [
-        "csv injection"
-    ],
-    "language": "PHP",
-    "repo_name": "import-cli-simple",
-    "repo_owner": "techdivision",
-    "repotime": "2024-07-26, 10:30:56",
-    "stargazers_count": 70,
-    "watchers_count": 70
+    "stargazers_count": 1551,
+    "watchers_count": 1551
 }
 {
     "commits_count": 3,
@@ -322,23 +305,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 50,
-    "date_started": "2020-07-11",
-    "date_updated": "2024-07-25",
-    "description": "Inject python code into a running python process",
-    "forks_count": 12,
-    "html_url": "https://github.com/kmaork/hypno",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Python",
-    "repo_name": "hypno",
-    "repo_owner": "kmaork",
-    "repotime": "2024-07-25, 13:07:49",
-    "stargazers_count": 83,
-    "watchers_count": 83
-}
-{
     "commits_count": 3,
     "date_started": "2024-07-24",
     "date_updated": "2024-07-24",
@@ -352,8 +318,25 @@
     "repo_name": "WoL-RCE",
     "repo_owner": "Rannden-SHA",
     "repotime": "2024-07-24, 15:58:47",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-07-23",
+    "date_updated": "2024-07-24",
+    "description": "Advanced SQL Injection Techniques for Bug Bounty Hunters",
+    "forks_count": 66,
+    "html_url": "https://github.com/ifconfig-me/SQL_Injection-Techniques",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL_Injection-Techniques",
+    "repo_owner": "ifconfig-me",
+    "repotime": "2024-07-24, 12:00:23",
+    "stargazers_count": 105,
+    "watchers_count": 105
 }
 {
     "commits_count": 18,
@@ -394,7 +377,7 @@
     "date_started": "2019-01-15",
     "date_updated": "2024-07-23",
     "description": "A list of resources for those interested in getting started in bug bounties",
-    "forks_count": 1899,
+    "forks_count": 1906,
     "html_url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
     "keywords": [
         "ssrf"
@@ -403,8 +386,8 @@
     "repo_name": "Resources-for-Beginner-Bug-Bounty-Hunters",
     "repo_owner": "nahamsec",
     "repotime": "2024-07-23, 10:01:39",
-    "stargazers_count": 10537,
-    "watchers_count": 10537
+    "stargazers_count": 10662,
+    "watchers_count": 10662
 }
 {
     "commits_count": 5,
@@ -445,7 +428,7 @@
     "date_started": "2022-05-08",
     "date_updated": "2024-07-22",
     "description": "An XSS exploitation command-line interface and payload generator.",
-    "forks_count": 174,
+    "forks_count": 177,
     "html_url": "https://github.com/t3l3machus/toxssin",
     "keywords": [
         "xss"
@@ -454,8 +437,8 @@
     "repo_name": "toxssin",
     "repo_owner": "t3l3machus",
     "repotime": "2024-07-22, 13:46:23",
-    "stargazers_count": 1224,
-    "watchers_count": 1224
+    "stargazers_count": 1249,
+    "watchers_count": 1249
 }
 {
     "commits_count": 3,
@@ -526,6 +509,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 6,
+    "date_started": "2024-07-18",
+    "date_updated": "2024-07-21",
+    "description": "A PoC exploit for CVE-2020-13945 - Apache APISIX Remote Code Execution (RCE)",
+    "forks_count": 0,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2020-13945-EXPLOIT",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-13945-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-07-21, 12:21:07",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
     "commits_count": 2,
     "date_started": "2024-07-21",
     "date_updated": "2024-07-21",
@@ -539,6 +539,23 @@
     "repo_name": "Zero-Stars-Improper-Input-Validation",
     "repo_owner": "fuhan2000",
     "repotime": "2024-07-21, 09:44:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-07-20",
+    "date_updated": "2024-07-20",
+    "description": "This is PoC of RCE and DoS exploits for @calcubot telegram bot.",
+    "forks_count": 0,
+    "html_url": "https://github.com/shkilass/calcubot_rce_poc",
+    "keywords": [
+        "rce dos"
+    ],
+    "language": "Python",
+    "repo_name": "calcubot_rce_poc",
+    "repo_owner": "shkilass",
+    "repotime": "2024-07-20, 14:58:22",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -607,8 +624,8 @@
     "repo_name": "CVE-2024-40725-CVE-2024-40898",
     "repo_owner": "TAM-K592",
     "repotime": "2024-07-19, 12:01:12",
-    "stargazers_count": 62,
-    "watchers_count": 62
+    "stargazers_count": 64,
+    "watchers_count": 64
 }
 {
     "commits_count": 21,
@@ -635,14 +652,14 @@
     "forks_count": 118,
     "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
     "keywords": [
-        "xxe"
+        "rce exploit"
     ],
     "language": "HTML",
     "repo_name": "Commodity-Injection-Signatures",
     "repo_owner": "xsscx",
     "repotime": "2024-07-18, 15:29:02",
-    "stargazers_count": 385,
-    "watchers_count": 385
+    "stargazers_count": 388,
+    "watchers_count": 388
 }
 {
     "commits_count": 8,
@@ -720,14 +737,48 @@
     "forks_count": 1,
     "html_url": "https://github.com/ynwarcs/CVE-2023-23388",
     "keywords": [
-        "lpe poc"
+        "Windows lpe"
     ],
     "language": "C++",
     "repo_name": "CVE-2023-23388",
     "repo_owner": "ynwarcs",
     "repotime": "2024-07-17, 14:24:08",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 19,
+    "date_started": "2024-07-15",
+    "date_updated": "2024-07-17",
+    "description": "网传nacos_rce漏洞poc",
+    "forks_count": 34,
+    "html_url": "https://github.com/FFR66/Nacos_Rce",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "Nacos_Rce",
+    "repo_owner": "FFR66",
+    "repotime": "2024-07-17, 14:06:13",
+    "stargazers_count": 77,
+    "watchers_count": 77
+}
+{
+    "commits_count": 15,
+    "date_started": "2024-07-15",
+    "date_updated": "2024-07-17",
+    "description": "PoC -  Authenticated Remote Code Execution in VMware vCenter Server (Exploit)",
+    "forks_count": 7,
+    "html_url": "https://github.com/l0n3m4n/CVE-2024-22274-RCE",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-22274-RCE",
+    "repo_owner": "l0n3m4n",
+    "repotime": "2024-07-17, 07:22:14",
+    "stargazers_count": 37,
+    "watchers_count": 37
 }
 {
     "commits_count": 3,
@@ -764,23 +815,6 @@
     "watchers_count": 3
 }
 {
-    "commits_count": 1341,
-    "date_started": "2012-07-18",
-    "date_updated": "2024-07-15",
-    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 410,
-    "html_url": "https://github.com/ron190/jsql-injection",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Java",
-    "repo_name": "jsql-injection",
-    "repo_owner": "ron190",
-    "repotime": "2024-07-15, 19:26:05",
-    "stargazers_count": 1477,
-    "watchers_count": 1477
-}
-{
     "commits_count": 14,
     "date_started": "2024-07-14",
     "date_updated": "2024-07-15",
@@ -798,23 +832,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 116,
-    "date_started": "2023-05-22",
-    "date_updated": "2024-07-15",
-    "description": "NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications",
-    "forks_count": 183,
-    "html_url": "https://github.com/0xKayala/NucleiFuzzer",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Shell",
-    "repo_name": "NucleiFuzzer",
-    "repo_owner": "0xKayala",
-    "repotime": "2024-07-15, 17:35:58",
-    "stargazers_count": 1228,
-    "watchers_count": 1228
-}
-{
     "commits_count": 5,
     "date_started": "2024-07-15",
     "date_updated": "2024-07-15",
@@ -830,6 +847,23 @@
     "repotime": "2024-07-15, 12:53:10",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-07-12",
+    "date_updated": "2024-07-13",
+    "description": "Mass Exploit - CVE-2024-29824  - Ivanti EPM - Remote Code Execution (RCE)",
+    "forks_count": 8,
+    "html_url": "https://github.com/codeb0ss/CVE-2024-29824-PoC",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-29824-PoC",
+    "repo_owner": "codeb0ss",
+    "repotime": "2024-07-13, 00:18:31",
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 5,
@@ -856,7 +890,7 @@
     "forks_count": 1,
     "html_url": "https://github.com/julerobb1/TheUserStrikesBack",
     "keywords": [
-        "Windows memory leak"
+        "Microsoft memory leak"
     ],
     "language": "Batchfile",
     "repo_name": "TheUserStrikesBack",
@@ -913,8 +947,42 @@
     "repo_name": "oxml_xxe",
     "repo_owner": "BuffaloWill",
     "repotime": "2024-07-10, 21:54:08",
-    "stargazers_count": 1027,
-    "watchers_count": 1027
+    "stargazers_count": 1031,
+    "watchers_count": 1031
+}
+{
+    "commits_count": 62,
+    "date_started": "2018-07-18",
+    "date_updated": "2024-07-10",
+    "description": "Notes about attacking Jenkins servers",
+    "forks_count": 321,
+    "html_url": "https://github.com/gquere/pwn_jenkins",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "pwn_jenkins",
+    "repo_owner": "gquere",
+    "repotime": "2024-07-10, 13:18:30",
+    "stargazers_count": 1955,
+    "watchers_count": 1955
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-07-10",
+    "date_updated": "2024-07-10",
+    "description": "<no description>",
+    "forks_count": 43,
+    "html_url": "https://github.com/testanull/MS-SharePoint-July-Patch-RCE-PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "MS-SharePoint-July-Patch-RCE-PoC",
+    "repo_owner": "testanull",
+    "repotime": "2024-07-10, 14:06:36",
+    "stargazers_count": 118,
+    "watchers_count": 118
 }
 {
     "commits_count": 21,
@@ -930,8 +998,8 @@
     "repo_name": "Penetration-Testing-Checklist",
     "repo_owner": "pavankumar143-coder",
     "repotime": "2024-07-10, 11:01:17",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 4,
@@ -992,14 +1060,14 @@
     "forks_count": 2,
     "html_url": "https://github.com/Ziad-Sakr/Chamilo-CVE-2023-4220-Exploit",
     "keywords": [
-        "unrestricted file upload"
+        "remote code execution poc"
     ],
     "language": "Shell",
     "repo_name": "Chamilo-CVE-2023-4220-Exploit",
     "repo_owner": "Ziad-Sakr",
     "repotime": "2024-07-08, 14:55:53",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 35,
@@ -1015,8 +1083,8 @@
     "repo_name": "CVE-2024-4040-SSTI-LFI-PoC",
     "repo_owner": "Stuub",
     "repotime": "2024-07-08, 00:47:57",
-    "stargazers_count": 52,
-    "watchers_count": 52
+    "stargazers_count": 54,
+    "watchers_count": 54
 }
 {
     "commits_count": 4,
@@ -1049,8 +1117,8 @@
     "repo_name": "rewire",
     "repo_owner": "stephanos",
     "repotime": "2024-07-06, 18:17:06",
-    "stargazers_count": 100,
-    "watchers_count": 100
+    "stargazers_count": 101,
+    "watchers_count": 101
 }
 {
     "commits_count": 3,
@@ -1253,8 +1321,8 @@
     "repo_name": "lfienum",
     "repo_owner": "0bfxgh0st",
     "repotime": "2024-07-02, 18:04:19",
-    "stargazers_count": 60,
-    "watchers_count": 60
+    "stargazers_count": 58,
+    "watchers_count": 58
 }
 {
     "commits_count": 4,
@@ -1272,23 +1340,6 @@
     "repotime": "2024-07-02, 23:17:29",
     "stargazers_count": 2,
     "watchers_count": 2
-}
-{
-    "commits_count": 250,
-    "date_started": "2021-09-08",
-    "date_updated": "2024-07-02",
-    "description": "Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022",
-    "forks_count": 68,
-    "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "PowerShell",
-    "repo_name": "Automated-MUlti-UAC-Bypass",
-    "repo_owner": "x0xr00t",
-    "repotime": "2024-07-02, 16:52:40",
-    "stargazers_count": 396,
-    "watchers_count": 396
 }
 {
     "commits_count": 30,
@@ -1346,7 +1397,7 @@
     "date_started": "2023-12-18",
     "date_updated": "2024-07-02",
     "description": "Expert analyses and high-quality write-ups on current one-day and zero-day vulnerabilities, detailing CVEs for the cybersecurity community. Maintained by the Fire-Null security research collective.",
-    "forks_count": 2,
+    "forks_count": 3,
     "html_url": "https://github.com/Fire-Null/Write-Ups",
     "keywords": [
         "zero-day vulnerability"
@@ -1355,8 +1406,8 @@
     "repo_name": "Write-Ups",
     "repo_owner": "Fire-Null",
     "repotime": "2024-07-02, 11:10:35",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 3,
@@ -1376,6 +1427,23 @@
     "watchers_count": 8
 }
 {
+    "commits_count": 3,
+    "date_started": "2024-07-01",
+    "date_updated": "2024-07-01",
+    "description": "A PoC exploit for CVE-2024-29269 - Telesquare TLR-2005KSH Remote Code Execution (RCE)",
+    "forks_count": 1,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2024-29269-EXPLOIT",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-29269-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-07-01, 20:00:59",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 8,
     "date_started": "2024-07-01",
     "date_updated": "2024-07-01",
@@ -1393,6 +1461,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 6,
+    "date_started": "2024-07-01",
+    "date_updated": "2024-07-01",
+    "description": "MIRROR of the original 32-bit PoC for CVE-2024-6387 &amp;quot;regreSSHion&amp;quot; by 7etsuo/cve-2024-6387-poc",
+    "forks_count": 41,
+    "html_url": "https://github.com/lflare/cve-2024-6387-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "C",
+    "repo_name": "cve-2024-6387-poc",
+    "repo_owner": "lflare",
+    "repotime": "2024-07-01, 05:52:18",
+    "stargazers_count": 108,
+    "watchers_count": 108
+}
+{
     "commits_count": 53,
     "date_started": "2024-05-14",
     "date_updated": "2024-07-01",
@@ -1400,12 +1485,12 @@
     "forks_count": 23,
     "html_url": "https://github.com/AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956",
     "keywords": [
-        "Windows rce"
+        "Windows rce exploit"
     ],
     "language": "Python",
     "repo_name": "WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956",
     "repo_owner": "AiGptCode",
     "repotime": "2024-07-01, 12:59:02",
-    "stargazers_count": 86,
-    "watchers_count": 86
+    "stargazers_count": 87,
+    "watchers_count": 87
 }

@@ -33,21 +33,21 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 83,
+    "commits_count": 84,
     "date_started": "2016-09-01",
     "date_updated": "2023-11-30",
     "description": "OWASP Joomla Vulnerability Scanner Project https://www.secologist.com/",
-    "forks_count": 243,
+    "forks_count": 242,
     "html_url": "https://github.com/OWASP/joomscan",
     "keywords": [
-        "0day exploit"
+        "0day vulnerability"
     ],
     "language": "Raku",
     "repo_name": "joomscan",
     "repo_owner": "OWASP",
     "repotime": "2023-11-30, 08:32:25",
-    "stargazers_count": 1044,
-    "watchers_count": 1044
+    "stargazers_count": 1063,
+    "watchers_count": 1063
 }
 {
     "commits_count": 8,
@@ -63,8 +63,8 @@
     "repo_name": "Joomla-v4.x-Unauthenticated-information-disclosure",
     "repo_owner": "BearClaw96",
     "repotime": "2023-11-27, 17:57:32",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 3,
@@ -88,7 +88,7 @@
     "date_started": "2023-08-25",
     "date_updated": "2023-11-26",
     "description": "CVE-2023-38831 winrar exploit generator",
-    "forks_count": 137,
+    "forks_count": 138,
     "html_url": "https://github.com/b1tg/CVE-2023-38831-winrar-exploit",
     "keywords": [
         "Win 0day"
@@ -97,15 +97,15 @@
     "repo_name": "CVE-2023-38831-winrar-exploit",
     "repo_owner": "b1tg",
     "repotime": "2023-11-26, 14:46:44",
-    "stargazers_count": 781,
-    "watchers_count": 781
+    "stargazers_count": 780,
+    "watchers_count": 780
 }
 {
     "commits_count": 81,
     "date_started": "2023-08-28",
     "date_updated": "2023-11-26",
     "description": "A modern tool written in Python that automates your xss findings.",
-    "forks_count": 63,
+    "forks_count": 65,
     "html_url": "https://github.com/faiyazahmad07/xss_vibes",
     "keywords": [
         "xss"
@@ -114,8 +114,42 @@
     "repo_name": "xss_vibes",
     "repo_owner": "faiyazahmad07",
     "repotime": "2023-11-26, 11:00:56",
-    "stargazers_count": 343,
-    "watchers_count": 343
+    "stargazers_count": 365,
+    "watchers_count": 365
+}
+{
+    "commits_count": 30,
+    "date_started": "2023-11-05",
+    "date_updated": "2023-11-24",
+    "description": "Wordpress Plugin Canto &amp;lt; 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE)",
+    "forks_count": 1,
+    "html_url": "https://github.com/leoanggal1/CVE-2023-3452-PoC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-3452-PoC",
+    "repo_owner": "leoanggal1",
+    "repotime": "2023-11-24, 13:55:00",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 36,
+    "date_started": "2023-09-25",
+    "date_updated": "2023-11-23",
+    "description": "Dedicated library for runtime code patching, injection and some useful memory utilities. works for both Android and Linux",
+    "forks_count": 27,
+    "html_url": "https://github.com/MJx0/KittyMemoryEx",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "KittyMemoryEx",
+    "repo_owner": "MJx0",
+    "repotime": "2023-11-23, 21:20:51",
+    "stargazers_count": 83,
+    "watchers_count": 83
 }
 {
     "commits_count": 4,
@@ -131,8 +165,8 @@
     "repo_name": "io_uring_LPE-CVE-2023-2598",
     "repo_owner": "ysanatomic",
     "repotime": "2023-11-23, 20:36:52",
-    "stargazers_count": 86,
-    "watchers_count": 86
+    "stargazers_count": 89,
+    "watchers_count": 89
 }
 {
     "commits_count": 28,
@@ -199,8 +233,8 @@
     "repo_name": "CVE-2023-4357-Chrome-XXE",
     "repo_owner": "xcanwin",
     "repotime": "2023-11-21, 18:41:56",
-    "stargazers_count": 195,
-    "watchers_count": 195
+    "stargazers_count": 197,
+    "watchers_count": 197
 }
 {
     "commits_count": 12,
@@ -252,6 +286,23 @@
     "repotime": "2023-11-20, 04:02:44",
     "stargazers_count": 42,
     "watchers_count": 42
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-11-18",
+    "date_updated": "2023-11-19",
+    "description": "<no description>",
+    "forks_count": 25,
+    "html_url": "https://github.com/nathan31337/Splunk-RCE-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "Splunk-RCE-poc",
+    "repo_owner": "nathan31337",
+    "repotime": "2023-11-19, 13:09:06",
+    "stargazers_count": 112,
+    "watchers_count": 112
 }
 {
     "commits_count": 2,
@@ -441,11 +492,28 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 10,
+    "date_started": "2023-11-06",
+    "date_updated": "2023-11-12",
+    "description": " CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool",
+    "forks_count": 5,
+    "html_url": "https://github.com/sule01u/CVE-2023-46604",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46604",
+    "repo_owner": "sule01u",
+    "repotime": "2023-11-12, 18:40:14",
+    "stargazers_count": 35,
+    "watchers_count": 35
+}
+{
     "commits_count": 13,
     "date_started": "2023-01-28",
     "date_updated": "2023-11-11",
     "description": "iOS jailbreak-free code injection framework. ",
-    "forks_count": 13,
+    "forks_count": 14,
     "html_url": "https://github.com/camila314/enzyme",
     "keywords": [
         "code injection"
@@ -454,8 +522,8 @@
     "repo_name": "enzyme",
     "repo_owner": "camila314",
     "repotime": "2023-11-11, 08:35:03",
-    "stargazers_count": 101,
-    "watchers_count": 101
+    "stargazers_count": 105,
+    "watchers_count": 105
 }
 {
     "commits_count": 1,
@@ -473,6 +541,23 @@
     "repotime": "2023-11-10, 08:12:56",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-11-10",
+    "date_updated": "2023-11-09",
+    "description": "This repository is a tool to create a .suo that when run by visual studio's will achieve code execution",
+    "forks_count": 23,
+    "html_url": "https://github.com/moom825/visualstudio-suo-exploit",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "C#",
+    "repo_name": "visualstudio-suo-exploit",
+    "repo_owner": "moom825",
+    "repotime": "2023-11-09, 19:42:05",
+    "stargazers_count": 96,
+    "watchers_count": 96
 }
 {
     "commits_count": 10,
@@ -573,8 +658,8 @@
     "repo_name": "AMI_BIOS_CodeInjection",
     "repo_owner": "Theldus",
     "repotime": "2023-11-07, 17:29:05",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 6,
@@ -592,6 +677,23 @@
     "repotime": "2023-11-06, 00:10:11",
     "stargazers_count": 4,
     "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-11-03",
+    "date_updated": "2023-11-04",
+    "description": " Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604) ",
+    "forks_count": 34,
+    "html_url": "https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ",
+    "repo_owner": "SaumyajeetDas",
+    "repotime": "2023-11-04, 04:07:16",
+    "stargazers_count": 105,
+    "watchers_count": 105
 }
 {
     "commits_count": 4,
@@ -618,14 +720,14 @@
     "forks_count": 10,
     "html_url": "https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE",
     "keywords": [
-        "Windows rce exploit"
+        "Windows rce"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-36884-MS-Office-HTML-RCE",
     "repo_owner": "jakabakos",
     "repotime": "2023-11-02, 10:08:31",
-    "stargazers_count": 35,
-    "watchers_count": 35
+    "stargazers_count": 36,
+    "watchers_count": 36
 }
 {
     "commits_count": 5,

@@ -3,17 +3,17 @@
     "date_started": "2015-10-18",
     "date_updated": "2022-05-31",
     "description": "Wordpress XMLRPC System Multicall Brute Force Exploit (0day)  by 1N3 @ CrowdShield",
-    "forks_count": 201,
+    "forks_count": 198,
     "html_url": "https://github.com/1N3/Wordpress-XMLRPC-Brute-Force-Exploit",
     "keywords": [
-        "0day exploit"
+        "0day exploitation"
     ],
     "language": "Python",
     "repo_name": "Wordpress-XMLRPC-Brute-Force-Exploit",
     "repo_owner": "1N3",
     "repotime": "2022-05-31, 12:09:08",
-    "stargazers_count": 443,
-    "watchers_count": 443
+    "stargazers_count": 449,
+    "watchers_count": 449
 }
 {
     "commits_count": 2,
@@ -135,6 +135,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 8,
+    "date_started": "2022-05-25",
+    "date_updated": "2022-05-25",
+    "description": "Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540）",
+    "forks_count": 16,
+    "html_url": "https://github.com/Pear1y/CVE-2022-0540-RCE",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-0540-RCE",
+    "repo_owner": "Pear1y",
+    "repotime": "2022-05-25, 21:43:09",
+    "stargazers_count": 69,
+    "watchers_count": 69
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-05-25",
+    "date_updated": "2022-05-25",
+    "description": "CVE-2022-29221 Proof of Concept Code - Smarty RCE",
+    "forks_count": 3,
+    "html_url": "https://github.com/sbani/CVE-2022-29221-PoC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "PHP",
+    "repo_name": "CVE-2022-29221-PoC",
+    "repo_owner": "sbani",
+    "repotime": "2022-05-25, 09:11:59",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
     "commits_count": 5,
     "date_started": "2022-05-10",
     "date_updated": "2022-05-24",
@@ -220,6 +254,40 @@
     "watchers_count": 10
 }
 {
+    "commits_count": 3,
+    "date_started": "2022-05-20",
+    "date_updated": "2022-05-20",
+    "description": "Apache CouchDB 3.2.1 - Remote Code Execution (RCE)",
+    "forks_count": 9,
+    "html_url": "https://github.com/sadshade/CVE-2022-24706-CouchDB-Exploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-24706-CouchDB-Exploit",
+    "repo_owner": "sadshade",
+    "repotime": "2022-05-20, 10:32:13",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-05-09",
+    "date_updated": "2022-05-16",
+    "description": "F5 BIG-IP RCE exploitation (CVE-2022-1388)",
+    "forks_count": 20,
+    "html_url": "https://github.com/alt3kx/CVE-2022-1388_PoC",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-1388_PoC",
+    "repo_owner": "alt3kx",
+    "repotime": "2022-05-16, 14:40:51",
+    "stargazers_count": 87,
+    "watchers_count": 87
+}
+{
     "commits_count": 7,
     "date_started": "2022-05-15",
     "date_updated": "2022-05-15",
@@ -235,23 +303,6 @@
     "repotime": "2022-05-15, 19:38:37",
     "stargazers_count": 2,
     "watchers_count": 2
-}
-{
-    "commits_count": 257,
-    "date_started": "2017-04-30",
-    "date_updated": "2022-05-13",
-    "description": "hack tools",
-    "forks_count": 487,
-    "html_url": "https://github.com/hacktoolspack/hack-tools",
-    "keywords": [
-        "0day exploit"
-    ],
-    "language": "Python",
-    "repo_name": "hack-tools",
-    "repo_owner": "hacktoolspack",
-    "repotime": "2022-05-13, 23:02:30",
-    "stargazers_count": 1005,
-    "watchers_count": 1005
 }
 {
     "commits_count": 1,
@@ -284,25 +335,42 @@
     "repo_name": "ThinkPwn",
     "repo_owner": "Cr4sh",
     "repotime": "2022-05-13, 23:23:34",
-    "stargazers_count": 656,
-    "watchers_count": 656
+    "stargazers_count": 665,
+    "watchers_count": 665
+}
+{
+    "commits_count": 14,
+    "date_started": "2022-02-07",
+    "date_updated": "2022-05-13",
+    "description": "MySQL User Defined Functions Exploitation to RCE or PrivEsc Simple Cheat Sheet.",
+    "forks_count": 7,
+    "html_url": "https://github.com/koparmalbaris/MySQL-UDF-Exploitation",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": null,
+    "repo_name": "MySQL-UDF-Exploitation",
+    "repo_owner": "koparmalbaris",
+    "repotime": "2022-05-13, 10:10:25",
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 78,
     "date_started": "2019-08-21",
     "date_updated": "2022-05-12",
     "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
-    "forks_count": 266,
+    "forks_count": 269,
     "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
     "keywords": [
-        "session attack"
+        "zero-day dos"
     ],
     "language": "Lua",
     "repo_name": "Nginx-Lua-Anti-DDoS",
     "repo_owner": "C0nw0nk",
     "repotime": "2022-05-12, 15:35:01",
-    "stargazers_count": 1081,
-    "watchers_count": 1081
+    "stargazers_count": 1140,
+    "watchers_count": 1140
 }
 {
     "commits_count": 2,
@@ -320,6 +388,23 @@
     "repotime": "2022-05-12, 16:09:58",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 182,
+    "date_started": "2022-05-12",
+    "date_updated": "2022-05-11",
+    "description": "backend endpoint: https://transferwise-apitest.herokuapp.com/api/v1 Coding Project   Hints: Be smart, don’t repeat yourself or reinvent the wheel. Use as many packages/libraries as you can do. Use up-to-date software and bundles. Read the entire document here before jumping into action. Think twice. Model the application before you jump into coding.   Why? This coding challenge should give us a good understanding of  How well you can go from text to code, from requirements to product. How well you can execute on predefined requirements. How well you pay attention to detail so we can rely on you executing the work end to end. How creatively you execute on loose requirements (not defined in great detail). How well you can hack, organize, document, test, structure, and write your code. How well you can leverage existing things to build this app fast.   What (Objective):  The challenge is to create a web app where users can send virtual money in the currencies of (USD, EUR, NGN) to each ot...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Edwardy221133/Fullstack-Transferwise-Task",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Fullstack-Transferwise-Task",
+    "repo_owner": "Edwardy221133",
+    "repotime": "2022-05-11, 19:50:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -352,6 +437,40 @@
     "repo_name": "e_shop",
     "repo_owner": "debabrata-mallick",
     "repotime": "2022-05-12, 00:52:37",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-05-11",
+    "date_updated": "2022-05-11",
+    "description": "Advance Spring4Shell RCE Vulnerability Scanner.",
+    "forks_count": 4,
+    "html_url": "https://github.com/thenurhabib/s4sScanner",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "s4sScanner",
+    "repo_owner": "thenurhabib",
+    "repotime": "2022-05-11, 13:59:03",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-05-11",
+    "date_updated": "2022-05-11",
+    "description": "Android 3.0 through 4.1.x on Disney Mobile, eAccess, KDDI, NTT DOCOMO, SoftBank, and other devices does not properly implement the WebView class, which allows remote attackers to execute arbitrary methods of Java objects or cause a denial of service (reboot) via a crafted web page, as demonstrated by use of the WebView.addJavascriptInterface method, a related issue to CVE-2012-6636.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Snip3R69/CVE-2013-4710-WebView-RCE-Vulnerability",
+    "keywords": [
+        "rce denial of service"
+    ],
+    "language": null,
+    "repo_name": "CVE-2013-4710-WebView-RCE-Vulnerability",
+    "repo_owner": "Snip3R69",
+    "repotime": "2022-05-11, 14:24:40",
     "stargazers_count": 1,
     "watchers_count": 1
 }
@@ -437,8 +556,8 @@
     "repo_name": "EventViewerUAC_BOF",
     "repo_owner": "Octoberfest7",
     "repotime": "2022-05-06, 13:43:05",
-    "stargazers_count": 127,
-    "watchers_count": 127
+    "stargazers_count": 128,
+    "watchers_count": 128
 }
 {
     "commits_count": 6,
@@ -456,6 +575,23 @@
     "repotime": "2022-05-06, 12:33:14",
     "stargazers_count": 23,
     "watchers_count": 23
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-03-31",
+    "date_updated": "2022-05-06",
+    "description": "Analysis and PoC for D-Link DIR-890L RCE (CVE-2022-29778)",
+    "forks_count": 0,
+    "html_url": "https://github.com/TyeYeah/DIR-890L-1.20-RCE",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "HTML",
+    "repo_name": "DIR-890L-1.20-RCE",
+    "repo_owner": "TyeYeah",
+    "repotime": "2022-05-06, 17:13:31",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 32,
@@ -558,6 +694,23 @@
     "repotime": "2022-05-03, 11:24:44",
     "stargazers_count": 55,
     "watchers_count": 55
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-03-08",
+    "date_updated": "2022-05-03",
+    "description": "A script to exploit CVE-2020-14144 - GiTea authenticated Remote Code Execution using git hooks",
+    "forks_count": 5,
+    "html_url": "https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-14144-GiTea-git-hooks-rce",
+    "repo_owner": "p0dalirius",
+    "repotime": "2022-05-03, 12:40:14",
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 7,

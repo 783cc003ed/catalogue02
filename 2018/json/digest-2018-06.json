@@ -135,6 +135,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 4,
+    "date_started": "2018-06-20",
+    "date_updated": "2018-06-20",
+    "description": "MS15-034 HTTP.sys 远程执行代码检测脚本（MS15-034 HTTP.sys remote execution code poc script）",
+    "forks_count": 5,
+    "html_url": "https://github.com/aedoo/CVE-2015-1635-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2015-1635-POC",
+    "repo_owner": "aedoo",
+    "repotime": "2018-06-20, 22:33:02",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 5,
     "date_started": "2018-06-01",
     "date_updated": "2018-06-18",
@@ -203,6 +220,23 @@
     "watchers_count": 140
 }
 {
+    "commits_count": 3,
+    "date_started": "2018-06-15",
+    "date_updated": "2018-06-15",
+    "description": "This is a quick POC for using the Matt Nelson (enigma0x3) technique for generating a malicious .SettingContent-ms extension type for remote code execution. This automates generating an HTA downloader and embeds it in the SettingContent-ms file for you and starts Apache.",
+    "forks_count": 19,
+    "html_url": "https://github.com/trustedsec/auto_SettingContent-ms",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "auto_SettingContent-ms",
+    "repo_owner": "trustedsec",
+    "repotime": "2018-06-15, 10:55:30",
+    "stargazers_count": 49,
+    "watchers_count": 49
+}
+{
     "commits_count": 4,
     "date_started": "2018-06-14",
     "date_updated": "2018-06-14",
@@ -233,8 +267,8 @@
     "repo_name": "iOS-Apfs-Persistence-Exploit",
     "repo_owner": "pwn20wndstuff",
     "repotime": "2018-06-14, 20:26:31",
-    "stargazers_count": 125,
-    "watchers_count": 125
+    "stargazers_count": 126,
+    "watchers_count": 126
 }
 {
     "commits_count": 3,
@@ -250,8 +284,8 @@
     "repo_name": "EoPLoadDriver",
     "repo_owner": "TarlogicSecurity",
     "repotime": "2018-06-14, 10:09:00",
-    "stargazers_count": 114,
-    "watchers_count": 114
+    "stargazers_count": 123,
+    "watchers_count": 123
 }
 {
     "commits_count": 3,
@@ -303,6 +337,23 @@
     "repotime": "2018-06-12, 21:35:00",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-06-09",
+    "date_updated": "2018-06-10",
+    "description": "&amp;quot;Zero Click&amp;quot; Remote Code Execution in Mycroft AI vocal assistant",
+    "forks_count": 23,
+    "html_url": "https://github.com/Nhoya/MycroftAI-RCE",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "MycroftAI-RCE",
+    "repo_owner": "Nhoya",
+    "repotime": "2018-06-10, 17:49:33",
+    "stargazers_count": 51,
+    "watchers_count": 51
 }
 {
     "commits_count": 30,

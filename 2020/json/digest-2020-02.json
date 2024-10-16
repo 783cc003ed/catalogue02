@@ -46,8 +46,8 @@
     "repo_name": "xfrm_poc",
     "repo_owner": "duasynt",
     "repotime": "2020-02-29, 05:06:36",
-    "stargazers_count": 131,
-    "watchers_count": 131
+    "stargazers_count": 132,
+    "watchers_count": 132
 }
 {
     "commits_count": 9,
@@ -63,8 +63,8 @@
     "repo_name": "jpicus",
     "repo_owner": "SAP-archive",
     "repotime": "2020-02-28, 16:15:49",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 1,
@@ -148,8 +148,8 @@
     "repo_name": "CNVD-2020-10487-Tomcat-Ajp-lfi",
     "repo_owner": "YDHCUI",
     "repotime": "2020-02-20, 23:39:27",
-    "stargazers_count": 750,
-    "watchers_count": 750
+    "stargazers_count": 753,
+    "watchers_count": 753
 }
 {
     "commits_count": 7,
@@ -203,6 +203,23 @@
     "watchers_count": 423
 }
 {
+    "commits_count": 15,
+    "date_started": "2020-02-17",
+    "date_updated": "2020-02-18",
+    "description": "OpenSMTPD version 6.6.2 remote code execution exploit",
+    "forks_count": 7,
+    "html_url": "https://github.com/superzerosec/cve-2020-7247",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2020-7247",
+    "repo_owner": "superzerosec",
+    "repotime": "2020-02-18, 14:57:19",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 2,
     "date_started": "2020-03-02",
     "date_updated": "2020-02-17",
@@ -235,6 +252,23 @@
     "repotime": "2020-02-17, 12:27:22",
     "stargazers_count": 37,
     "watchers_count": 37
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-08-21",
+    "date_updated": "2020-02-12",
+    "description": "POC which exploits a vulnerability within Nagios XI (5.6.5) to spawn a root shell",
+    "forks_count": 6,
+    "html_url": "https://github.com/jakgibb/nagiosxi-root-rce-exploit",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "nagiosxi-root-rce-exploit",
+    "repo_owner": "jakgibb",
+    "repotime": "2020-02-12, 22:23:13",
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 3,
@@ -339,6 +373,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 12,
+    "date_started": "2020-02-02",
+    "date_updated": "2020-02-05",
+    "description": "an exploit tool for Thinkcmf RCE vulnerable",
+    "forks_count": 7,
+    "html_url": "https://github.com/bo1349/Thinkcmf_RCE",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Thinkcmf_RCE",
+    "repo_owner": "bo1349",
+    "repotime": "2020-02-05, 11:30:40",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
     "commits_count": 4,
     "date_started": "2019-04-18",
     "date_updated": "2020-02-04",
@@ -354,6 +405,23 @@
     "repotime": "2020-02-04, 12:54:39",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-02-04",
+    "date_updated": "2020-02-04",
+    "description": "Amlogic S905L Android 6.0 Firmwares",
+    "forks_count": 23,
+    "html_url": "https://github.com/afirmware/AmlogicS905LFirmwares",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "AmlogicS905LFirmwares",
+    "repo_owner": "afirmware",
+    "repotime": "2020-02-04, 17:51:23",
+    "stargazers_count": 34,
+    "watchers_count": 34
 }
 {
     "commits_count": 1,

@@ -84,6 +84,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 5,
+    "date_started": "2023-07-19",
+    "date_updated": "2023-10-29",
+    "description": "RCE Exploit For Maltrail-v0.53",
+    "forks_count": 5,
+    "html_url": "https://github.com/spookier/Maltrail-v0.53-Exploit",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Maltrail-v0.53-Exploit",
+    "repo_owner": "spookier",
+    "repotime": "2023-10-29, 10:22:55",
+    "stargazers_count": 39,
+    "watchers_count": 39
+}
+{
     "commits_count": 4,
     "date_started": "2023-10-28",
     "date_updated": "2023-10-28",
@@ -193,7 +210,7 @@
     "forks_count": 10,
     "html_url": "https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE",
     "keywords": [
-        "lpe poc"
+        "Microsoft lpe"
     ],
     "language": "C",
     "repo_name": "CVE-2023-36802-MSKSSRV-LPE",
@@ -244,14 +261,14 @@
     "forks_count": 0,
     "html_url": "https://github.com/ilviborici/unfiltered",
     "keywords": [
-        "lpe poc"
+        "Windows lpe"
     ],
     "language": "C++",
     "repo_name": "unfiltered",
     "repo_owner": "ilviborici",
     "repotime": "2023-10-23, 17:37:12",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 16,
@@ -305,6 +322,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 7,
+    "date_started": "2023-10-21",
+    "date_updated": "2023-10-21",
+    "description": "A sensible no bullshit repo of summaries of reports on hackerone, bugcrowd and alike, that makes straight up sense and make it easy to repeat and automate. This is supposed to serve as my personal reference, but should be a good public index reference for like minded. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/holmes-py/reports-summary",
+    "keywords": [
+        "rce dos"
+    ],
+    "language": null,
+    "repo_name": "reports-summary",
+    "repo_owner": "holmes-py",
+    "repotime": "2023-10-21, 15:37:47",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 4,
     "date_started": "2023-06-14",
     "date_updated": "2023-10-20",
@@ -335,8 +369,8 @@
     "repo_name": "Elevator",
     "repo_owner": "Kudaes",
     "repotime": "2023-10-19, 10:51:08",
-    "stargazers_count": 596,
-    "watchers_count": 596
+    "stargazers_count": 600,
+    "watchers_count": 600
 }
 {
     "commits_count": 2,
@@ -526,6 +560,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 2,
+    "date_started": "2023-10-11",
+    "date_updated": "2023-10-12",
+    "description": "Remote Code Execution POC in Raspberry Camera Surveillance ",
+    "forks_count": 0,
+    "html_url": "https://github.com/akamaiheat/Raspberry-PI-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Shell",
+    "repo_name": "Raspberry-PI-Remote-Code-Execution",
+    "repo_owner": "akamaiheat",
+    "repotime": "2023-10-12, 00:19:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 19,
     "date_started": "2021-09-15",
     "date_updated": "2023-10-11",
@@ -539,8 +590,8 @@
     "repo_name": "CVE-2021-40444",
     "repo_owner": "klezVirus",
     "repotime": "2023-10-11, 19:44:51",
-    "stargazers_count": 795,
-    "watchers_count": 795
+    "stargazers_count": 796,
+    "watchers_count": 796
 }
 {
     "commits_count": 14,
@@ -564,17 +615,17 @@
     "date_started": "2023-10-09",
     "date_updated": "2023-10-10",
     "description": "LPE exploit for CVE-2023-36802",
-    "forks_count": 38,
+    "forks_count": 40,
     "html_url": "https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802",
     "keywords": [
-        "Win lpe"
+        "Windows lpe"
     ],
     "language": "C",
     "repo_name": "Windows_MSKSSRV_LPE_CVE-2023-36802",
     "repo_owner": "chompie1337",
     "repotime": "2023-10-10, 13:44:05",
-    "stargazers_count": 155,
-    "watchers_count": 155
+    "stargazers_count": 156,
+    "watchers_count": 156
 }
 {
     "commits_count": 21,
@@ -590,8 +641,8 @@
     "repo_name": "Guide-to-SSRF",
     "repo_owner": "MustafaSky",
     "repotime": "2023-10-10, 11:17:21",
-    "stargazers_count": 64,
-    "watchers_count": 64
+    "stargazers_count": 65,
+    "watchers_count": 65
 }
 {
     "commits_count": 2,
@@ -609,6 +660,23 @@
     "repotime": "2023-10-10, 18:22:10",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 83,
+    "date_started": "2022-04-05",
+    "date_updated": "2023-10-07",
+    "description": "Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!",
+    "forks_count": 215,
+    "html_url": "https://github.com/p0dalirius/Awesome-RCE-techniques",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "Awesome-RCE-techniques",
+    "repo_owner": "p0dalirius",
+    "repotime": "2023-10-07, 10:54:45",
+    "stargazers_count": 1834,
+    "watchers_count": 1834
 }
 {
     "commits_count": 16,
@@ -683,7 +751,7 @@
     "date_started": "2020-02-11",
     "date_updated": "2023-10-03",
     "description": "      CREDITS SEQUENCE              NEWSPAPER HEADLINE MONTAGE:              HEADLINES flash before us, displaying their accompanying       photographs.              &amp;quot;UBERMAN - METRO CITY'S HERO AFTER DEFEATING MASTER MIND!              PHOTO: A chiseled, statuesque man wearing the COOLEST SUPER       HERO SUIT IMAGINABLE, COMPLETE WITH FLOWING CAPE, shines a       confident smile at the lens. This is UBERMAN, champion of       METRO CITY.              &amp;quot;UBERMAN DEFEATS MASTER MIND'S GIANT ROBOT!&amp;quot;              PHOTO: Wide-shot of Uberman in mid-flight lifting the GIANT       ROBOT in the sky above the city buildings.              &amp;quot;MASTER MIND ALL WET AFTER UBERMAN FOILS AQUARIUM HEIST!&amp;quot;              PHOTO: Uberman stands knee-deep in water. He has his enemy by       the collar. The villain blocks his face from the shot with a       METALLIC GAUNTLET.              The images start to flash by even quicker, each showing the       MYSTERIOUS VILLAIN in various stag...",
-    "forks_count": 57,
+    "forks_count": 59,
     "html_url": "https://github.com/rprokap/pset-9",
     "keywords": [
         "Windows use after free"
@@ -692,8 +760,25 @@
     "repo_name": "pset-9",
     "repo_owner": "rprokap",
     "repotime": "2023-10-03, 17:46:12",
-    "stargazers_count": 142,
-    "watchers_count": 142
+    "stargazers_count": 149,
+    "watchers_count": 149
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-07-15",
+    "date_updated": "2023-10-03",
+    "description": "This is a pre-authenticated RCE exploit for VMware vRealize Operations Manager",
+    "forks_count": 18,
+    "html_url": "https://github.com/sourceincite/DashOverride",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "DashOverride",
+    "repo_owner": "sourceincite",
+    "repotime": "2023-10-03, 15:31:49",
+    "stargazers_count": 48,
+    "watchers_count": 48
 }
 {
     "commits_count": 5,
@@ -711,23 +796,6 @@
     "repotime": "2023-10-02, 12:22:29",
     "stargazers_count": 83,
     "watchers_count": 83
-}
-{
-    "commits_count": 171,
-    "date_started": "2015-05-28",
-    "date_updated": "2023-10-02",
-    "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
-    "forks_count": 525,
-    "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
-    "keywords": [
-        "Windows uaf"
-    ],
-    "language": "C",
-    "repo_name": "HackSysExtremeVulnerableDriver",
-    "repo_owner": "hacksysteam",
-    "repotime": "2023-10-02, 13:08:15",
-    "stargazers_count": 2421,
-    "watchers_count": 2421
 }
 {
     "commits_count": 1,

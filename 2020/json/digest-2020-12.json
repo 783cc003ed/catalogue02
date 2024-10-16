@@ -1,4 +1,21 @@
 {
+    "commits_count": 5,
+    "date_started": "2020-11-13",
+    "date_updated": "2020-12-31",
+    "description": "Exploit for Laravel Remote Code Execution with API_KEY (CVE-2018-15133)",
+    "forks_count": 17,
+    "html_url": "https://github.com/aljavier/exploit_laravel_cve-2018-15133",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "exploit_laravel_cve-2018-15133",
+    "repo_owner": "aljavier",
+    "repotime": "2020-12-31, 16:34:30",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
     "commits_count": 2,
     "date_started": "2020-12-30",
     "date_updated": "2020-12-30",
@@ -12,8 +29,8 @@
     "repo_name": "nima0011",
     "repo_owner": "nima0011",
     "repotime": "2020-12-30, 13:55:46",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 18,
@@ -29,8 +46,8 @@
     "repo_name": "Tenda-AC6-Root-Acces",
     "repo_owner": "cecada",
     "repotime": "2020-12-28, 23:41:59",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 1,
@@ -80,8 +97,8 @@
     "repo_name": "EthicalHackingFromScratch",
     "repo_owner": "bookworm52",
     "repotime": "2020-12-26, 14:35:37",
-    "stargazers_count": 40,
-    "watchers_count": 40
+    "stargazers_count": 43,
+    "watchers_count": 43
 }
 {
     "commits_count": 2,
@@ -186,6 +203,23 @@
     "watchers_count": 13
 }
 {
+    "commits_count": 3,
+    "date_started": "2020-06-01",
+    "date_updated": "2020-12-22",
+    "description": "SSLoth-based remote code execution exploit for the 3DS eShop application",
+    "forks_count": 1,
+    "html_url": "https://github.com/MrNbaYoh/trailerhax",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "trailerhax",
+    "repo_owner": "MrNbaYoh",
+    "repotime": "2020-12-22, 23:43:43",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
     "commits_count": 2,
     "date_started": "2020-12-22",
     "date_updated": "2020-12-22",
@@ -237,6 +271,23 @@
     "watchers_count": 29
 }
 {
+    "commits_count": 16,
+    "date_started": "2020-12-07",
+    "date_updated": "2020-12-18",
+    "description": "Econmic analysis, using pyhton and SQL queries, of the default risk from each of the partners from the recent RCEP (Regional Comprehensive Economic Partnership) trade deal, from Asia-Pacific.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Alva789ro/RCEP-Economic-Risk-Analysis",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Python",
+    "repo_name": "RCEP-Economic-Risk-Analysis",
+    "repo_owner": "Alva789ro",
+    "repotime": "2020-12-18, 18:28:51",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 1,
     "date_started": "2020-12-18",
     "date_updated": "2020-12-18",
@@ -261,14 +312,14 @@
     "forks_count": 26,
     "html_url": "https://github.com/dotPY-hax/gitlab_RCE",
     "keywords": [
-        "lfi"
+        "rce exploit"
     ],
     "language": "Python",
     "repo_name": "gitlab_RCE",
     "repo_owner": "dotPY-hax",
     "repotime": "2020-12-16, 21:36:45",
-    "stargazers_count": 157,
-    "watchers_count": 157
+    "stargazers_count": 158,
+    "watchers_count": 158
 }
 {
     "commits_count": 25,
@@ -284,8 +335,8 @@
     "repo_name": "lpe",
     "repo_owner": "jollheef",
     "repotime": "2020-12-16, 16:55:09",
-    "stargazers_count": 182,
-    "watchers_count": 182
+    "stargazers_count": 184,
+    "watchers_count": 184
 }
 {
     "commits_count": 3,
@@ -318,8 +369,8 @@
     "repo_name": "LFilePicker",
     "repo_owner": "leonHua",
     "repotime": "2020-12-16, 09:01:30",
-    "stargazers_count": 1087,
-    "watchers_count": 1087
+    "stargazers_count": 1089,
+    "watchers_count": 1089
 }
 {
     "commits_count": 4,
@@ -397,7 +448,7 @@
     "forks_count": 86,
     "html_url": "https://github.com/SafeBreach-Labs/SirepRAT",
     "keywords": [
-        "Windows rce exploit"
+        "Windows rce"
     ],
     "language": "Python",
     "repo_name": "SirepRAT",
@@ -411,7 +462,7 @@
     "date_started": "2020-12-07",
     "date_updated": "2020-12-08",
     "description": "Web Vulnerability Detector (XSS,SQL,LFI,XST,WAF)",
-    "forks_count": 11,
+    "forks_count": 9,
     "html_url": "https://github.com/farinap5/webpwn",
     "keywords": [
         "lfi"
@@ -454,8 +505,8 @@
     "repo_name": "dell-flash64w-eop",
     "repo_owner": "dro",
     "repotime": "2020-12-07, 01:04:20",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 1,
@@ -479,7 +530,7 @@
     "date_started": "2019-07-08",
     "date_updated": "2020-12-06",
     "description": "Redis 4.x/5.x RCE",
-    "forks_count": 144,
+    "forks_count": 147,
     "html_url": "https://github.com/Dliv3/redis-rogue-server",
     "keywords": [
         "ssrf"
@@ -488,8 +539,8 @@
     "repo_name": "redis-rogue-server",
     "repo_owner": "Dliv3",
     "repotime": "2020-12-06, 15:02:12",
-    "stargazers_count": 515,
-    "watchers_count": 515
+    "stargazers_count": 523,
+    "watchers_count": 523
 }
 {
     "commits_count": 13,
@@ -507,6 +558,23 @@
     "repotime": "2020-12-06, 12:29:43",
     "stargazers_count": 92,
     "watchers_count": 92
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-10-15",
+    "date_updated": "2020-12-05",
+    "description": "SpringBoot Actuator未授权自动化利用，支持信息泄漏/RCE",
+    "forks_count": 24,
+    "html_url": "https://github.com/LFYSec/ActuatorExploit",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ActuatorExploit",
+    "repo_owner": "LFYSec",
+    "repotime": "2020-12-05, 21:57:34",
+    "stargazers_count": 232,
+    "watchers_count": 232
 }
 {
     "commits_count": 7,
@@ -624,8 +692,8 @@
     "repo_name": "DSXS",
     "repo_owner": "stamparm",
     "repotime": "2020-12-01, 22:00:13",
-    "stargazers_count": 421,
-    "watchers_count": 421
+    "stargazers_count": 424,
+    "watchers_count": 424
 }
 {
     "commits_count": 2,

@@ -63,8 +63,8 @@
     "repo_name": "lfi-labs",
     "repo_owner": "paralax",
     "repotime": "2018-02-20, 12:41:11",
-    "stargazers_count": 315,
-    "watchers_count": 315
+    "stargazers_count": 316,
+    "watchers_count": 316
 }
 {
     "commits_count": 1,
@@ -105,7 +105,7 @@
     "date_started": "2018-02-14",
     "date_updated": "2018-02-15",
     "description": "Python api for usage with cobalt strike's External C2 specification ",
-    "forks_count": 17,
+    "forks_count": 18,
     "html_url": "https://github.com/RhinoSecurityLabs/external_c2_framework",
     "keywords": [
         "by_owner"
@@ -114,8 +114,8 @@
     "repo_name": "external_c2_framework",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2018-02-15, 00:49:59",
-    "stargazers_count": 66,
-    "watchers_count": 66
+    "stargazers_count": 67,
+    "watchers_count": 67
 }
 {
     "commits_count": 2,
@@ -135,6 +135,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 5,
+    "date_started": "2018-02-09",
+    "date_updated": "2018-02-09",
+    "description": "PHPMailer &amp;lt; 5.2.18 Remote Code Execution Exploit ",
+    "forks_count": 1,
+    "html_url": "https://github.com/0x00-0x00/CVE-2016-10033",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2016-10033",
+    "repo_owner": "0x00-0x00",
+    "repotime": "2018-02-09, 06:58:56",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
     "commits_count": 6,
     "date_started": "2018-02-07",
     "date_updated": "2018-02-09",
@@ -148,8 +165,25 @@
     "repo_name": "micros_honeypot",
     "repo_owner": "Cymmetria",
     "repotime": "2018-02-09, 00:56:57",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-02-07",
+    "date_updated": "2018-02-09",
+    "description": "WebLogic Honeypot is a low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware. This is a Remote Code Execution vulnerability.",
+    "forks_count": 12,
+    "html_url": "https://github.com/Cymmetria/weblogic_honeypot",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "weblogic_honeypot",
+    "repo_owner": "Cymmetria",
+    "repotime": "2018-02-09, 00:54:44",
+    "stargazers_count": 32,
+    "watchers_count": 32
 }
 {
     "commits_count": 80,
@@ -165,8 +199,8 @@
     "repo_name": "drool",
     "repo_owner": "samccone",
     "repotime": "2018-02-04, 15:39:43",
-    "stargazers_count": 1484,
-    "watchers_count": 1484
+    "stargazers_count": 1485,
+    "watchers_count": 1485
 }
 {
     "commits_count": 2,

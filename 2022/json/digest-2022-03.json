@@ -2,6 +2,23 @@
     "commits_count": 7,
     "date_started": "2022-03-30",
     "date_updated": "2022-03-31",
+    "description": "<no description>",
+    "forks_count": 20,
+    "html_url": "https://github.com/Retrospected/spring-rce-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "spring-rce-poc",
+    "repo_owner": "Retrospected",
+    "repotime": "2022-03-31, 14:04:53",
+    "stargazers_count": 86,
+    "watchers_count": 86
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-03-30",
+    "date_updated": "2022-03-31",
     "description": "Simple script to execute a path traversal attack providing the url using TOR (LINUX)",
     "forks_count": 0,
     "html_url": "https://github.com/claudialorusso/pathtraversal",
@@ -119,6 +136,40 @@
 }
 {
     "commits_count": 6,
+    "date_started": "2021-12-12",
+    "date_updated": "2022-03-29",
+    "description": "CVE-2021-43936 is a critical vulnerability (CVSS3 10.0) leading to Remote Code Execution (RCE) in WebHMI Firmware.",
+    "forks_count": 7,
+    "html_url": "https://github.com/LongWayHomie/CVE-2021-43936",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-43936",
+    "repo_owner": "LongWayHomie",
+    "repotime": "2022-03-29, 13:41:00",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-03-26",
+    "date_updated": "2022-03-28",
+    "description": "spring-cloud-function SpEL RCE复现环境&amp;amp;poc",
+    "forks_count": 10,
+    "html_url": "https://github.com/Pizz33/Spring-Cloud-Function-SpEL",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "Spring-Cloud-Function-SpEL",
+    "repo_owner": "Pizz33",
+    "repotime": "2022-03-28, 23:42:03",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 6,
     "date_started": "2022-03-28",
     "date_updated": "2022-03-28",
     "description": "Windows 平台下的UAC(User Account Contro) 绕过工具。",
@@ -139,7 +190,7 @@
     "date_started": "2019-01-17",
     "date_updated": "2022-03-27",
     "description": "Windows UAC bypass techniques implemented and written in Go",
-    "forks_count": 35,
+    "forks_count": 36,
     "html_url": "https://github.com/0x9ef/golang-uacbypasser",
     "keywords": [
         "uac bypass"
@@ -148,8 +199,8 @@
     "repo_name": "golang-uacbypasser",
     "repo_owner": "0x9ef",
     "repotime": "2022-03-27, 21:20:48",
-    "stargazers_count": 204,
-    "watchers_count": 204
+    "stargazers_count": 210,
+    "watchers_count": 210
 }
 {
     "commits_count": 3,
@@ -167,6 +218,23 @@
     "repotime": "2022-03-27, 03:39:28",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-26",
+    "date_updated": "2022-03-27",
+    "description": "spring-cloud-function SpEL RCE, Vultarget &amp;amp; Poc",
+    "forks_count": 41,
+    "html_url": "https://github.com/cckuailong/spring-cloud-function-SpEL-RCE",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "spring-cloud-function-SpEL-RCE",
+    "repo_owner": "cckuailong",
+    "repotime": "2022-03-27, 09:46:46",
+    "stargazers_count": 133,
+    "watchers_count": 133
 }
 {
     "commits_count": 10,
@@ -220,6 +288,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 8,
+    "date_started": "2022-03-13",
+    "date_updated": "2022-03-26",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/shikari00007/Pluck-CMS-Pluck-4.7.16-Theme-Upload-Remote-Code-Execution-Authenticated--POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Pluck-CMS-Pluck-4.7.16-Theme-Upload-Remote-Code-Execution-Authenticated--POC",
+    "repo_owner": "shikari00007",
+    "repotime": "2022-03-26, 14:55:02",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-03-22",
+    "date_updated": "2022-03-26",
+    "description": "Remote Code Execution (RCE)",
+    "forks_count": 1,
+    "html_url": "https://github.com/shikari00007/Atom-CMS-2.0---File-Upload-Remote-Code-Execution-Un-Authenticated-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Atom-CMS-2.0---File-Upload-Remote-Code-Execution-Un-Authenticated-POC",
+    "repo_owner": "shikari00007",
+    "repotime": "2022-03-26, 14:53:10",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
     "commits_count": 4,
     "date_started": "2022-03-26",
     "date_updated": "2022-03-26",
@@ -235,6 +337,23 @@
     "repotime": "2022-03-26, 15:10:23",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-03-15",
+    "date_updated": "2022-03-25",
+    "description": "CVE-2019-0708 (BlueKeep) proof of concept allowing pre-auth RCE on Windows7",
+    "forks_count": 20,
+    "html_url": "https://github.com/RICSecLab/CVE-2019-0708",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-0708",
+    "repo_owner": "RICSecLab",
+    "repotime": "2022-03-25, 15:46:40",
+    "stargazers_count": 129,
+    "watchers_count": 129
 }
 {
     "commits_count": 9,
@@ -269,6 +388,40 @@
     "repotime": "2022-03-23, 12:12:54",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-12-24",
+    "date_updated": "2022-03-22",
+    "description": "Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.",
+    "forks_count": 29,
+    "html_url": "https://github.com/puzzlepeaches/Log4jUnifi",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Log4jUnifi",
+    "repo_owner": "puzzlepeaches",
+    "repotime": "2022-03-22, 19:35:16",
+    "stargazers_count": 142,
+    "watchers_count": 142
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-12-21",
+    "date_updated": "2022-03-22",
+    "description": "Laravel RCE exploit. CVE-2018-15133",
+    "forks_count": 13,
+    "html_url": "https://github.com/pwnedshell/Larascript",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Larascript",
+    "repo_owner": "pwnedshell",
+    "repotime": "2022-03-22, 18:56:41",
+    "stargazers_count": 34,
+    "watchers_count": 34
 }
 {
     "commits_count": 5,
@@ -343,7 +496,7 @@
     "date_started": "2017-06-26",
     "date_updated": "2022-03-20",
     "description": "Most advanced XSS scanner.",
-    "forks_count": 1885,
+    "forks_count": 1895,
     "html_url": "https://github.com/s0md3v/XSStrike",
     "keywords": [
         "xss"
@@ -352,8 +505,8 @@
     "repo_name": "XSStrike",
     "repo_owner": "s0md3v",
     "repotime": "2022-03-20, 15:49:57",
-    "stargazers_count": 13117,
-    "watchers_count": 13117
+    "stargazers_count": 13220,
+    "watchers_count": 13220
 }
 {
     "commits_count": 27,
@@ -390,11 +543,28 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 25,
+    "date_started": "2021-12-10",
+    "date_updated": "2022-03-18",
+    "description": "log4j2 rce、poc",
+    "forks_count": 41,
+    "html_url": "https://github.com/dbgee/log4j2_rce",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "log4j2_rce",
+    "repo_owner": "dbgee",
+    "repotime": "2022-03-18, 15:27:13",
+    "stargazers_count": 98,
+    "watchers_count": 98
+}
+{
     "commits_count": 7,
     "date_started": "2021-03-16",
     "date_updated": "2022-03-18",
     "description": "Stuxnet is an extremely sophisticated computer worm that exploits multiple previously unknown Windows zero-day vulnerabilities to infect computers and spread. Its purpose was not just to infect PCs but to cause real-world physical effects. Specifically, it targets centrifuges used to produce the enriched uranium that powers nuclear weapons and reactors.",
-    "forks_count": 18,
+    "forks_count": 17,
     "html_url": "https://github.com/uraninite/stuxnet",
     "keywords": [
         "Windows zero-day"
@@ -403,8 +573,25 @@
     "repo_name": "stuxnet",
     "repo_owner": "uraninite",
     "repotime": "2022-03-18, 00:09:06",
-    "stargazers_count": 46,
-    "watchers_count": 46
+    "stargazers_count": 50,
+    "watchers_count": 50
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-03-16",
+    "date_updated": "2022-03-16",
+    "description": "Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit ",
+    "forks_count": 12,
+    "html_url": "https://github.com/M4xSec/Apache-APISIX-CVE-2022-24112",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Apache-APISIX-CVE-2022-24112",
+    "repo_owner": "M4xSec",
+    "repotime": "2022-03-16, 04:19:30",
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 2,
@@ -441,6 +628,40 @@
     "watchers_count": 5
 }
 {
+    "commits_count": 6,
+    "date_started": "2022-03-14",
+    "date_updated": "2022-03-15",
+    "description": "RCE exploit for dompdf",
+    "forks_count": 66,
+    "html_url": "https://github.com/positive-security/dompdf-rce",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "PHP",
+    "repo_name": "dompdf-rce",
+    "repo_owner": "positive-security",
+    "repotime": "2022-03-15, 11:55:55",
+    "stargazers_count": 176,
+    "watchers_count": 176
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-03-14",
+    "date_updated": "2022-03-14",
+    "description": " Exploits for Hotel Druid 3.0.3 - Remote Code Execution (RCE)  CVE-2022-22909",
+    "forks_count": 4,
+    "html_url": "https://github.com/kaal18/CVE-2022-22909",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-22909",
+    "repo_owner": "kaal18",
+    "repotime": "2022-03-14, 23:32:45",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 585,
     "date_started": "2020-12-11",
     "date_updated": "2022-03-14",
@@ -456,6 +677,23 @@
     "repotime": "2022-03-14, 14:53:21",
     "stargazers_count": 7,
     "watchers_count": 7
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-03-08",
+    "date_updated": "2022-03-14",
+    "description": "These Nmap, Python and Ruby scripts detects and exploits CVE-2021-42013 with RCE and local file disclosure.",
+    "forks_count": 1,
+    "html_url": "https://github.com/mauricelambert/CVE-2021-42013",
+    "keywords": [
+        "rce disclosure"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2021-42013",
+    "repo_owner": "mauricelambert",
+    "repotime": "2022-03-14, 08:36:49",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 2,
@@ -615,7 +853,7 @@
     "date_started": "2017-05-04",
     "date_updated": "2022-03-09",
     "description": "XSS payloads for exploiting Markdown syntax",
-    "forks_count": 173,
+    "forks_count": 175,
     "html_url": "https://github.com/cujanovic/Markdown-XSS-Payloads",
     "keywords": [
         "xss"
@@ -624,8 +862,25 @@
     "repo_name": "Markdown-XSS-Payloads",
     "repo_owner": "cujanovic",
     "repotime": "2022-03-09, 15:07:11",
-    "stargazers_count": 442,
-    "watchers_count": 442
+    "stargazers_count": 443,
+    "watchers_count": 443
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-03-08",
+    "date_updated": "2022-03-08",
+    "description": "CVE-2022-24112: Apache APISIX Remote Code Execution Vulnerability",
+    "forks_count": 1,
+    "html_url": "https://github.com/Mah1ndra/CVE-2022-24112",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2022-24112",
+    "repo_owner": "Mah1ndra",
+    "repotime": "2022-03-08, 22:42:34",
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 2,
@@ -669,14 +924,14 @@
     "forks_count": 3,
     "html_url": "https://github.com/Nate0634034090/bug-free-memory",
     "keywords": [
-        "memory leak exploit"
+        "Microsoft memory leak"
     ],
     "language": null,
     "repo_name": "bug-free-memory",
     "repo_owner": "Nate0634034090",
     "repotime": "2022-03-04, 16:01:01",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 21,
@@ -713,6 +968,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 4,
+    "date_started": "2021-12-13",
+    "date_updated": "2022-03-02",
+    "description": "A PoC for CVE-2021-44827 - authenticated remote code execution in Tp-link Archer C20i",
+    "forks_count": 0,
+    "html_url": "https://github.com/full-disclosure/CVE-2021-44827",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-44827",
+    "repo_owner": "full-disclosure",
+    "repotime": "2022-03-02, 18:36:35",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
     "commits_count": 32,
     "date_started": "2020-04-11",
     "date_updated": "2022-03-02",
@@ -726,8 +998,25 @@
     "repo_name": "findom-xss",
     "repo_owner": "dwisiswant0",
     "repotime": "2022-03-02, 22:50:42",
-    "stargazers_count": 743,
-    "watchers_count": 743
+    "stargazers_count": 756,
+    "watchers_count": 756
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-12-18",
+    "date_updated": "2022-03-02",
+    "description": "Looking for JAR files that are vulnerable to Log4j RCE (CVE‐2021‐44228)?",
+    "forks_count": 5,
+    "html_url": "https://github.com/dwisiswant0/look4jar",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "look4jar",
+    "repo_owner": "dwisiswant0",
+    "repotime": "2022-03-02, 22:42:32",
+    "stargazers_count": 44,
+    "watchers_count": 44
 }
 {
     "commits_count": 3,

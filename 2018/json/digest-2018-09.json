@@ -114,8 +114,8 @@
     "repo_name": "zeroday-powershell",
     "repo_owner": "OneLogicalMyth",
     "repotime": "2018-09-12, 10:03:03",
-    "stargazers_count": 320,
-    "watchers_count": 320
+    "stargazers_count": 321,
+    "watchers_count": 321
 }
 {
     "commits_count": 20,
@@ -182,18 +182,18 @@
     "repo_name": "Linux_kernel_exploits",
     "repo_owner": "ww9210",
     "repotime": "2018-09-06, 20:02:34",
-    "stargazers_count": 489,
-    "watchers_count": 489
+    "stargazers_count": 491,
+    "watchers_count": 491
 }
 {
     "commits_count": 10,
     "date_started": "2018-08-22",
     "date_updated": "2018-09-05",
     "description": "According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible. Yellow, black. Yellow, black. Yellow, black. Yellow, black. Ooh, black and yellow! Let's shake it up a little. Barry! Breakfast is ready! Ooming! Hang on a second. Hello? - Barry? - Adam? - Oan you believe this is happening? - I can't. I'll pick you up. Looking sharp. Use the stairs. Your father paid good money for those. Sorry. I'm excited. Here's the graduate. We're very proud of you, son. A perfect report card, all B's. Very proud. Ma! I got a thing going here. - You got lint on your fuzz. - Ow! That's me! - Wave to us! We'll be in row 118,000. - Bye! Barry, I told you, stop flying in the house! - Hey, Adam. - Hey, Barry. - Is that fuzz gel? - A little. Special day, graduation. Never thought I'd make it. Three days grade school, three days high...",
-    "forks_count": 23,
+    "forks_count": 12,
     "html_url": "https://github.com/landonasato/Function",
     "keywords": [
-        "Win use after free"
+        "Win use after free exploit"
     ],
     "language": "HTML",
     "repo_name": "Function",
@@ -201,6 +201,23 @@
     "repotime": "2018-09-05, 12:18:06",
     "stargazers_count": 19,
     "watchers_count": 19
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-09-04",
+    "date_updated": "2018-09-04",
+    "description": "A remote code execution exploit for WebLogic based on CVE-2018-2628",
+    "forks_count": 3,
+    "html_url": "https://github.com/Nervous/WebLogic-RCE-exploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "WebLogic-RCE-exploit",
+    "repo_owner": "Nervous",
+    "repotime": "2018-09-04, 14:21:08",
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 10,

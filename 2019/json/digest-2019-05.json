@@ -84,6 +84,40 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 4,
+    "date_started": "2019-05-22",
+    "date_updated": "2019-05-22",
+    "description": "Programacion para el arranque alternado de dos motobombas, controladas con presostato independiente para el acueducto",
+    "forks_count": 0,
+    "html_url": "https://github.com/miguel5612/Acueducto_PLC_Alternado_LOGO_230RCE_AM2",
+    "keywords": [
+        "rce dos"
+    ],
+    "language": null,
+    "repo_name": "Acueducto_PLC_Alternado_LOGO_230RCE_AM2",
+    "repo_owner": "miguel5612",
+    "repotime": "2019-05-22, 22:11:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-05-22",
+    "date_updated": "2019-05-22",
+    "description": "WD My Cloud PoC exploit",
+    "forks_count": 13,
+    "html_url": "https://github.com/bnbdr/wd-rce",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "wd-rce",
+    "repo_owner": "bnbdr",
+    "repotime": "2019-05-22, 22:10:41",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
     "commits_count": 23,
     "date_started": "2019-02-04",
     "date_updated": "2019-05-22",
@@ -97,8 +131,8 @@
     "repo_name": "Panda-Antivirus-LPE",
     "repo_owner": "SouhailHammou",
     "repotime": "2019-05-22, 11:01:11",
-    "stargazers_count": 35,
-    "watchers_count": 35
+    "stargazers_count": 36,
+    "watchers_count": 36
 }
 {
     "commits_count": 7,
@@ -122,7 +156,7 @@
     "date_started": "2019-05-21",
     "date_updated": "2019-05-21",
     "description": "Cisco Exploit  (CVE-2019-1821 Cisco Prime Infrastructure Remote Code Execution/CVE-2019-1653/Cisco SNMP RCE/Dump Cisco RV320 Password)",
-    "forks_count": 61,
+    "forks_count": 59,
     "html_url": "https://github.com/k8gege/CiscoExploit",
     "keywords": [
         "0day exploit"
@@ -131,8 +165,8 @@
     "repo_name": "CiscoExploit",
     "repo_owner": "k8gege",
     "repotime": "2019-05-21, 22:52:35",
-    "stargazers_count": 127,
-    "watchers_count": 127
+    "stargazers_count": 129,
+    "watchers_count": 129
 }
 {
     "commits_count": 7,
@@ -165,8 +199,8 @@
     "repo_name": "injectvm-binderjack",
     "repo_owner": "Chainfire",
     "repotime": "2019-05-20, 13:38:28",
-    "stargazers_count": 227,
-    "watchers_count": 227
+    "stargazers_count": 226,
+    "watchers_count": 226
 }
 {
     "commits_count": 2,
@@ -186,6 +220,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 3,
+    "date_started": "2019-05-10",
+    "date_updated": "2019-05-19",
+    "description": "Just me trying to share findings with Microsoft team and get some feedback",
+    "forks_count": 0,
+    "html_url": "https://github.com/AshasTob/MemoryLeakRepro",
+    "keywords": [
+        "Microsoft memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "MemoryLeakRepro",
+    "repo_owner": "AshasTob",
+    "repotime": "2019-05-19, 20:53:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2,
     "date_started": "2019-05-18",
     "date_updated": "2019-05-18",
@@ -201,6 +252,23 @@
     "repotime": "2019-05-18, 11:25:00",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-05-16",
+    "date_updated": "2019-05-16",
+    "description": "mstsc.exe Path Traversal to RCE POC",
+    "forks_count": 15,
+    "html_url": "https://github.com/0xedh/mstsc-path-traversal",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "mstsc-path-traversal",
+    "repo_owner": "0xedh",
+    "repotime": "2019-05-16, 14:21:29",
+    "stargazers_count": 90,
+    "watchers_count": 90
 }
 {
     "commits_count": 1,
@@ -252,6 +320,23 @@
     "repotime": "2019-05-14, 17:44:45",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2018-12-03",
+    "date_updated": "2019-05-14",
+    "description": "Proof of Concept - RCE Exploitation : Git submodules' names vulnerability  - Ensimag November 2018",
+    "forks_count": 0,
+    "html_url": "https://github.com/ygouzerh/CVE-2018-11235",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-11235",
+    "repo_owner": "ygouzerh",
+    "repotime": "2019-05-14, 10:06:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 2,
@@ -360,7 +445,7 @@
     "date_started": "2018-02-26",
     "date_updated": "2019-05-05",
     "description": "JShell - Get a JavaScript shell with XSS.",
-    "forks_count": 141,
+    "forks_count": 137,
     "html_url": "https://github.com/s0md3v/JShell",
     "keywords": [
         "xss"
@@ -369,8 +454,8 @@
     "repo_name": "JShell",
     "repo_owner": "s0md3v",
     "repotime": "2019-05-05, 15:49:40",
-    "stargazers_count": 506,
-    "watchers_count": 506
+    "stargazers_count": 509,
+    "watchers_count": 509
 }
 {
     "commits_count": 5,
@@ -422,4 +507,38 @@
     "repotime": "2019-05-03, 01:23:17",
     "stargazers_count": 5,
     "watchers_count": 5
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-05-02",
+    "date_updated": "2019-05-02",
+    "description": "A proof of concept for Metasploit's CVE-2019-5624 vulnerability (Rubyzip insecure ZIP handling RCE) ",
+    "forks_count": 7,
+    "html_url": "https://github.com/VoidSec/CVE-2019-5624",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-5624",
+    "repo_owner": "VoidSec",
+    "repotime": "2019-05-02, 17:15:50",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-04-30",
+    "date_updated": "2019-05-01",
+    "description": "<no description>",
+    "forks_count": 49,
+    "html_url": "https://github.com/D4stiny/Dell-Support-Assist-RCE-PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "Dell-Support-Assist-RCE-PoC",
+    "repo_owner": "D4stiny",
+    "repotime": "2019-05-01, 18:32:48",
+    "stargazers_count": 167,
+    "watchers_count": 167
 }

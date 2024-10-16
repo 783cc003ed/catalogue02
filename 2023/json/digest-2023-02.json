@@ -12,8 +12,8 @@
     "repo_name": "MS12-020_Esteemaudit",
     "repo_owner": "d3fudd",
     "repotime": "2023-02-28, 08:39:22",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 1,
@@ -29,8 +29,8 @@
     "repo_name": "DDRace",
     "repo_owner": "vul337",
     "repotime": "2023-02-28, 16:28:06",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 144,
@@ -40,14 +40,14 @@
     "forks_count": 190,
     "html_url": "https://github.com/W01fh4cker/Serein",
     "keywords": [
-        "0day exploit"
+        "0day exploitation"
     ],
     "language": "Python",
     "repo_name": "Serein",
     "repo_owner": "W01fh4cker",
     "repotime": "2023-02-26, 22:06:05",
-    "stargazers_count": 1148,
-    "watchers_count": 1148
+    "stargazers_count": 1157,
+    "watchers_count": 1157
 }
 {
     "commits_count": 3,
@@ -118,6 +118,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 31,
+    "date_started": "2022-05-30",
+    "date_updated": "2023-02-24",
+    "description": "POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes",
+    "forks_count": 255,
+    "html_url": "https://github.com/chvancooten/follina.py",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Smarty",
+    "repo_name": "follina.py",
+    "repo_owner": "chvancooten",
+    "repotime": "2023-02-24, 17:08:08",
+    "stargazers_count": 1133,
+    "watchers_count": 1133
+}
+{
     "commits_count": 11,
     "date_started": "2023-02-24",
     "date_updated": "2023-02-24",
@@ -186,23 +203,6 @@
     "watchers_count": 12
 }
 {
-    "commits_count": 17,
-    "date_started": "2021-08-27",
-    "date_updated": "2023-02-21",
-    "description": "A 1 Liner SQL Injection Attack using SQLMAP and various parameters that helps quickly check for a vulnerabilities during Bug Bounty",
-    "forks_count": 9,
-    "html_url": "https://github.com/blackhatethicalhacking/SQL-INJECTION-PWN",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Shell",
-    "repo_name": "SQL-INJECTION-PWN",
-    "repo_owner": "blackhatethicalhacking",
-    "repotime": "2023-02-21, 00:48:42",
-    "stargazers_count": 31,
-    "watchers_count": 31
-}
-{
     "commits_count": 3,
     "date_started": "2023-02-20",
     "date_updated": "2023-02-20",
@@ -218,6 +218,40 @@
     "repotime": "2023-02-20, 14:04:28",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 127,
+    "date_started": "2018-08-22",
+    "date_updated": "2023-02-19",
+    "description": "VR Man-in-the-Room Attack and Command &amp;amp; Control Server Proof of Concept — Bigscreen",
+    "forks_count": 1,
+    "html_url": "https://github.com/mvondracek/VR-MitR-C2-Bigscreen",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "VR-MitR-C2-Bigscreen",
+    "repo_owner": "mvondracek",
+    "repotime": "2023-02-19, 23:43:42",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-02-05",
+    "date_updated": "2023-02-19",
+    "description": "Bypassing kernel patch protection runtime",
+    "forks_count": 3,
+    "html_url": "https://github.com/ByteWhite1x1/PatchGuardResearch",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": null,
+    "repo_name": "PatchGuardResearch",
+    "repo_owner": "ByteWhite1x1",
+    "repotime": "2023-02-19, 21:56:29",
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 4,
@@ -267,8 +301,25 @@
     "repo_name": "HTTPS-Proxy-Logger",
     "repo_owner": "JusticeProject",
     "repotime": "2023-02-17, 17:40:28",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-02-15",
+    "date_updated": "2023-02-16",
+    "description": "Arris Router Firmware 9.1.103 - Remote Code Execution (RCE) (Authenticated) POC Exploit (CVE-2022-45701)",
+    "forks_count": 0,
+    "html_url": "https://github.com/yerodin/CVE-2022-45701",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-45701",
+    "repo_owner": "yerodin",
+    "repotime": "2023-02-16, 13:15:55",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 6,
@@ -309,7 +360,7 @@
     "date_started": "2018-12-08",
     "date_updated": "2023-02-15",
     "description": "一个经典的XSS渗透管理平台",
-    "forks_count": 197,
+    "forks_count": 196,
     "html_url": "https://github.com/78778443/xssplatform",
     "keywords": [
         "xss"
@@ -318,8 +369,8 @@
     "repo_name": "xssplatform",
     "repo_owner": "78778443",
     "repotime": "2023-02-15, 10:31:09",
-    "stargazers_count": 698,
-    "watchers_count": 698
+    "stargazers_count": 702,
+    "watchers_count": 702
 }
 {
     "commits_count": 12,
@@ -386,8 +437,25 @@
     "repo_name": "WinPwnage",
     "repo_owner": "rootm0s",
     "repotime": "2023-02-13, 10:43:12",
-    "stargazers_count": 2597,
-    "watchers_count": 2597
+    "stargazers_count": 2612,
+    "watchers_count": 2612
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-02-13",
+    "date_updated": "2023-02-13",
+    "description": "Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit",
+    "forks_count": 4,
+    "html_url": "https://github.com/Malwareman007/CVE-2023-21608",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2023-21608",
+    "repo_owner": "Malwareman007",
+    "repotime": "2023-02-13, 14:33:19",
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 1,
@@ -454,8 +522,8 @@
     "repo_name": "lfito_rce",
     "repo_owner": "roughiz",
     "repotime": "2023-02-08, 19:37:59",
-    "stargazers_count": 56,
-    "watchers_count": 56
+    "stargazers_count": 58,
+    "watchers_count": 58
 }
 {
     "commits_count": 2,
@@ -479,7 +547,7 @@
     "date_started": "2023-02-04",
     "date_updated": "2023-02-05",
     "description": "An old Windows workstations LPE for domain environments without LDAP signing/channel binding.",
-    "forks_count": 5,
+    "forks_count": 6,
     "html_url": "https://github.com/BronzeBee/DavRelayUp",
     "keywords": [
         "Windows lpe"
@@ -488,8 +556,8 @@
     "repo_name": "DavRelayUp",
     "repo_owner": "BronzeBee",
     "repotime": "2023-02-05, 00:14:06",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 27,
+    "watchers_count": 27
 }
 {
     "commits_count": 6,
@@ -524,6 +592,23 @@
     "repotime": "2023-02-04, 16:24:56",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-02-03",
+    "date_updated": "2023-02-03",
+    "description": "CVE-2022-31144 dos pt redis, not finished yet or too soon, this can be turned into rce but oh well if you smart enough",
+    "forks_count": 0,
+    "html_url": "https://github.com/SpiralBL0CK/CVE-2022-31144",
+    "keywords": [
+        "rce dos"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-31144",
+    "repo_owner": "SpiralBL0CK",
+    "repotime": "2023-02-03, 13:18:00",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 12,

@@ -220,6 +220,23 @@
     "watchers_count": 47
 }
 {
+    "commits_count": 23,
+    "date_started": "2018-06-26",
+    "date_updated": "2021-11-24",
+    "description": "Exploitable target to CVE-2017-5638",
+    "forks_count": 161,
+    "html_url": "https://github.com/Iletee/struts2-rce",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "struts2-rce",
+    "repo_owner": "Iletee",
+    "repotime": "2021-11-24, 10:41:55",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
     "commits_count": 3,
     "date_started": "2021-11-24",
     "date_updated": "2021-11-24",
@@ -237,6 +254,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 1,
+    "date_started": "2021-11-19",
+    "date_updated": "2021-11-22",
+    "description": "Quarantine bypass and RCE vulnerability in Sketch (proof-of-concept)",
+    "forks_count": 3,
+    "html_url": "https://github.com/jonpalmisc/CVE-2021-40531",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2021-40531",
+    "repo_owner": "jonpalmisc",
+    "repotime": "2021-11-22, 09:52:01",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
     "commits_count": 19,
     "date_started": "2021-11-20",
     "date_updated": "2021-11-22",
@@ -250,8 +284,8 @@
     "repo_name": "TProxer",
     "repo_owner": "ethicalhackingplayground",
     "repotime": "2021-11-22, 22:05:35",
-    "stargazers_count": 172,
-    "watchers_count": 172
+    "stargazers_count": 173,
+    "watchers_count": 173
 }
 {
     "commits_count": 22,
@@ -267,8 +301,8 @@
     "repo_name": "Vulnerability-Testing-Solutions",
     "repo_owner": "akshatvg",
     "repotime": "2021-11-22, 09:05:21",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 9,
@@ -288,6 +322,23 @@
     "watchers_count": 6
 }
 {
+    "commits_count": 14,
+    "date_started": "2021-05-22",
+    "date_updated": "2021-11-21",
+    "description": "漏洞POC、EXP合集，持续更新。Apache Druid-任意文件读取（CVE-2021-36749）、ConfluenceRCE（CVE-2021-26084）、ZeroShell防火墙RCE（CVE-2019-12725）、ApacheSolr任意文件读取、蓝凌OA任意文件读取、phpStudyRCE、ShowDoc任意文件上传、原创先锋后台未授权、Kyan账号密码泄露、TerraMasterTos任意文件读取、TamronOS-IPTV系统RCE、Wayos防火墙账号密码泄露",
+    "forks_count": 38,
+    "html_url": "https://github.com/sma11new/PocList",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "PocList",
+    "repo_owner": "sma11new",
+    "repotime": "2021-11-21, 18:34:06",
+    "stargazers_count": 167,
+    "watchers_count": 167
+}
+{
     "commits_count": 22,
     "date_started": "2020-09-09",
     "date_updated": "2021-11-21",
@@ -301,8 +352,8 @@
     "repo_name": "byeintegrity-uac",
     "repo_owner": "AzAgarampur",
     "repotime": "2021-11-21, 03:02:29",
-    "stargazers_count": 203,
-    "watchers_count": 203
+    "stargazers_count": 204,
+    "watchers_count": 204
 }
 {
     "commits_count": 8,
@@ -320,6 +371,23 @@
     "repotime": "2021-11-20, 22:52:20",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-11-19",
+    "date_updated": "2021-11-19",
+    "description": "Microsoft memory leak ",
+    "forks_count": 0,
+    "html_url": "https://github.com/cnfe0/MEM-LEAK",
+    "keywords": [
+        "Microsoft memory leak"
+    ],
+    "language": null,
+    "repo_name": "MEM-LEAK",
+    "repo_owner": "cnfe0",
+    "repotime": "2021-11-19, 06:29:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -386,8 +454,8 @@
     "repo_name": "Pharmacy-management-system",
     "repo_owner": "Anjulcodewiz",
     "repotime": "2021-11-17, 19:11:46",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 6,
@@ -431,14 +499,14 @@
     "forks_count": 11,
     "html_url": "https://github.com/mathisvickie/CVE-2021-21551",
     "keywords": [
-        "escalation of privileges exploit"
+        "Windows escalation of privileges"
     ],
     "language": "C",
     "repo_name": "CVE-2021-21551",
     "repo_owner": "mathisvickie",
     "repotime": "2021-11-16, 18:34:11",
-    "stargazers_count": 52,
-    "watchers_count": 52
+    "stargazers_count": 54,
+    "watchers_count": 54
 }
 {
     "commits_count": 4,
@@ -475,6 +543,23 @@
     "watchers_count": 11
 }
 {
+    "commits_count": 5,
+    "date_started": "2020-11-14",
+    "date_updated": "2021-11-13",
+    "description": "Fuel CMS 1.4 - Remote Code Execution",
+    "forks_count": 3,
+    "html_url": "https://github.com/noraj/fuelcms-rce",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "fuelcms-rce",
+    "repo_owner": "noraj",
+    "repotime": "2021-11-13, 16:41:28",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 2,
     "date_started": "2021-11-13",
     "date_updated": "2021-11-13",
@@ -490,6 +575,23 @@
     "repotime": "2021-11-13, 13:59:24",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 62,
+    "date_started": "2019-11-27",
+    "date_updated": "2021-11-13",
+    "description": "Getting started with java code auditing  代码审计入门的小项目",
+    "forks_count": 120,
+    "html_url": "https://github.com/cn-panda/JavaCodeAudit",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "JavaScript",
+    "repo_name": "JavaCodeAudit",
+    "repo_owner": "cn-panda",
+    "repotime": "2021-11-13, 15:32:35",
+    "stargazers_count": 889,
+    "watchers_count": 889
 }
 {
     "commits_count": 26,
@@ -547,17 +649,17 @@
     "date_started": "2021-10-16",
     "date_updated": "2021-11-11",
     "description": "Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE)",
-    "forks_count": 93,
+    "forks_count": 91,
     "html_url": "https://github.com/ly4k/CallbackHell",
     "keywords": [
-        "lpe vulnerability"
+        "lpe exploit"
     ],
     "language": "C++",
     "repo_name": "CallbackHell",
     "repo_owner": "ly4k",
     "repotime": "2021-11-11, 18:09:56",
-    "stargazers_count": 457,
-    "watchers_count": 457
+    "stargazers_count": 461,
+    "watchers_count": 461
 }
 {
     "commits_count": 12,
@@ -573,15 +675,15 @@
     "repo_name": "tollbooth",
     "repo_owner": "yebyoungun",
     "repotime": "2021-11-11, 00:01:58",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 6,
     "date_started": "2016-01-27",
     "date_updated": "2021-11-10",
     "description": "A simple web app with a XXE vulnerability.",
-    "forks_count": 62,
+    "forks_count": 63,
     "html_url": "https://github.com/jbarone/xxelab",
     "keywords": [
         "xxe"
@@ -590,15 +692,15 @@
     "repo_name": "xxelab",
     "repo_owner": "jbarone",
     "repotime": "2021-11-10, 06:01:04",
-    "stargazers_count": 219,
-    "watchers_count": 219
+    "stargazers_count": 223,
+    "watchers_count": 223
 }
 {
     "commits_count": 2,
     "date_started": "2021-11-10",
     "date_updated": "2021-11-09",
     "description": "PHPMailer PHPMailer – A full-featured email creation and transfer class for PHP Test status codecov.io Latest Stable Version Total Downloads License API Docs  Features Probably the world's most popular code for sending email from PHP! Used by many open-source projects: WordPress, Drupal, 1CRM, SugarCRM, Yii, Joomla! and many more Integrated SMTP support – send without a local mail server Send emails with multiple To, CC, BCC and Reply-to addresses Multipart/alternative emails for mail clients that do not read HTML email Add attachments, including inline Support for UTF-8 content and 8bit, base64, binary, and quoted-printable encodings SMTP authentication with LOGIN, PLAIN, CRAM-MD5, and XOAUTH2 mechanisms over SMTPS and SMTP+STARTTLS transports Validates email addresses automatically Protects against header injection attacks Error messages in over 50 languages! DKIM and S/MIME signing support Compatible with PHP 5.5 and later, including PHP 8.1 Namespaced to prevent name clashes Much m...",
-    "forks_count": 12,
+    "forks_count": 10,
     "html_url": "https://github.com/MateusNobreSilva/app_send_mail",
     "keywords": [
         "hard coded password"
@@ -607,8 +709,8 @@
     "repo_name": "app_send_mail",
     "repo_owner": "MateusNobreSilva",
     "repotime": "2021-11-09, 22:21:15",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 1,
@@ -624,8 +726,8 @@
     "repo_name": "-1123",
     "repo_owner": "Mr033",
     "repotime": "2021-11-09, 07:05:11",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 1,
@@ -751,17 +853,17 @@
     "date_started": "2021-10-25",
     "date_updated": "2021-11-05",
     "description": "LPE exploit for a UAF in Windows (CVE-2021-40449).",
-    "forks_count": 17,
+    "forks_count": 15,
     "html_url": "https://github.com/hakivvi/CVE-2021-40449",
     "keywords": [
-        "Windows lpe"
+        "Windows uaf exploit"
     ],
     "language": "C++",
     "repo_name": "CVE-2021-40449",
     "repo_owner": "hakivvi",
     "repotime": "2021-11-05, 07:54:09",
-    "stargazers_count": 38,
-    "watchers_count": 38
+    "stargazers_count": 39,
+    "watchers_count": 39
 }
 {
     "commits_count": 8,
@@ -785,7 +887,7 @@
     "date_started": "2021-10-27",
     "date_updated": "2021-11-02",
     "description": "ASLR bypass without infoleak",
-    "forks_count": 19,
+    "forks_count": 17,
     "html_url": "https://github.com/nick0ve/how-to-bypass-aslr-on-linux-x86_64",
     "keywords": [
         "aslr bypass"
@@ -794,6 +896,23 @@
     "repo_name": "how-to-bypass-aslr-on-linux-x86_64",
     "repo_owner": "nick0ve",
     "repotime": "2021-11-02, 20:56:24",
-    "stargazers_count": 150,
-    "watchers_count": 150
+    "stargazers_count": 151,
+    "watchers_count": 151
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-10-09",
+    "date_updated": "2021-11-02",
+    "description": "Remote Code Execution POC for CVE-2020-0796",
+    "forks_count": 1,
+    "html_url": "https://github.com/orangmuda/CVE-2020-0796",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Assembly",
+    "repo_name": "CVE-2020-0796",
+    "repo_owner": "orangmuda",
+    "repotime": "2021-11-02, 02:36:41",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }

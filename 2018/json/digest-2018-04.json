@@ -67,6 +67,23 @@
     "watchers_count": 6
 }
 {
+    "commits_count": 17,
+    "date_started": "2018-04-24",
+    "date_updated": "2018-04-25",
+    "description": "CVE-2018-6574 POC : golang 'go get' remote command execution during source code build",
+    "forks_count": 13,
+    "html_url": "https://github.com/neargle/Go-Get-RCE-CVE-2018-6574-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "C",
+    "repo_name": "Go-Get-RCE-CVE-2018-6574-POC",
+    "repo_owner": "neargle",
+    "repotime": "2018-04-25, 00:32:22",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
     "commits_count": 9,
     "date_started": "2018-04-22",
     "date_updated": "2018-04-23",
@@ -105,7 +122,7 @@
     "date_started": "2015-03-07",
     "date_updated": "2018-04-20",
     "description": "PowerForensics provides an all in one platform for live disk forensic analysis",
-    "forks_count": 275,
+    "forks_count": 274,
     "html_url": "https://github.com/Invoke-IR/PowerForensics",
     "keywords": [
         "by_owner"
@@ -114,8 +131,8 @@
     "repo_name": "PowerForensics",
     "repo_owner": "Invoke-IR",
     "repotime": "2018-04-20, 03:34:59",
-    "stargazers_count": 1382,
-    "watchers_count": 1382
+    "stargazers_count": 1384,
+    "watchers_count": 1384
 }
 {
     "commits_count": 1,
@@ -148,8 +165,8 @@
     "repo_name": "xsssniper",
     "repo_owner": "gbrindisi",
     "repotime": "2018-04-17, 10:12:36",
-    "stargazers_count": 400,
-    "watchers_count": 400
+    "stargazers_count": 402,
+    "watchers_count": 402
 }
 {
     "commits_count": 3,
@@ -224,7 +241,7 @@
     "date_started": "2017-06-09",
     "date_updated": "2018-04-08",
     "description": "Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner ",
-    "forks_count": 387,
+    "forks_count": 390,
     "html_url": "https://github.com/D35m0nd142/LFISuite",
     "keywords": [
         "lfi"
@@ -233,8 +250,8 @@
     "repo_name": "LFISuite",
     "repo_owner": "D35m0nd142",
     "repotime": "2018-04-08, 12:30:09",
-    "stargazers_count": 1659,
-    "watchers_count": 1659
+    "stargazers_count": 1676,
+    "watchers_count": 1676
 }
 {
     "commits_count": 21,
@@ -267,8 +284,8 @@
     "repo_name": "Malleable-C2-Randomizer",
     "repo_owner": "bluscreenofjeff",
     "repotime": "2018-04-05, 18:56:25",
-    "stargazers_count": 427,
-    "watchers_count": 427
+    "stargazers_count": 433,
+    "watchers_count": 433
 }
 {
     "commits_count": 7,
@@ -286,4 +303,21 @@
     "repotime": "2018-04-02, 11:26:41",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2017-11-07",
+    "date_updated": "2018-04-01",
+    "description": "Remote Code Execution exploiter",
+    "forks_count": 6,
+    "html_url": "https://github.com/websecnl/RCE_Universal_Exploiter",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "RCE_Universal_Exploiter",
+    "repo_owner": "websecnl",
+    "repotime": "2018-04-01, 12:14:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }

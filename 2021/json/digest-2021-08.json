@@ -29,8 +29,25 @@
     "repo_name": "xsshunter",
     "repo_owner": "mandatoryprogrammer",
     "repotime": "2021-08-30, 15:48:22",
-    "stargazers_count": 1465,
-    "watchers_count": 1465
+    "stargazers_count": 1478,
+    "watchers_count": 1478
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-08-29",
+    "date_updated": "2021-08-30",
+    "description": "Exploit for CVE-2019-19609 in Strapi (Remote Code Execution) ",
+    "forks_count": 3,
+    "html_url": "https://github.com/diego-tella/CVE-2019-19609-EXPLOIT",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-19609-EXPLOIT",
+    "repo_owner": "diego-tella",
+    "repotime": "2021-08-30, 19:36:16",
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 10,
@@ -84,6 +101,23 @@
     "watchers_count": 63
 }
 {
+    "commits_count": 22,
+    "date_started": "2021-03-16",
+    "date_updated": "2021-08-27",
+    "description": "Python Pickle RCE Exploit + vulnerable Flask App",
+    "forks_count": 10,
+    "html_url": "https://github.com/CalfCrusher/Python-Pickle-RCE-Exploit",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Python-Pickle-RCE-Exploit",
+    "repo_owner": "CalfCrusher",
+    "repotime": "2021-08-27, 23:42:20",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
     "commits_count": 2,
     "date_started": "2021-08-27",
     "date_updated": "2021-08-27",
@@ -101,6 +135,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 11,
+    "date_started": "2015-11-08",
+    "date_updated": "2021-08-27",
+    "description": "[Exploit] vBulletin 5.1.x - PreAuth Remote Code Execution",
+    "forks_count": 15,
+    "html_url": "https://github.com/mukarramkhalid/vBulletin-5.1.x-PreAuth-RCE",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "vBulletin-5.1.x-PreAuth-RCE",
+    "repo_owner": "mukarramkhalid",
+    "repotime": "2021-08-27, 17:54:58",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
     "commits_count": 4,
     "date_started": "2021-08-13",
     "date_updated": "2021-08-26",
@@ -114,8 +165,25 @@
     "repo_name": "ENHANCED-TWO-FACTOR-AUTHENTICATION-SYSTEM-WITH-AES-ENCRYPTION-AND-ENCRYPTED-OTP",
     "repo_owner": "Sandip-SK",
     "repotime": "2021-08-26, 23:39:34",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 28,
+    "date_started": "2019-11-09",
+    "date_updated": "2021-08-26",
+    "description": "Intentionally vulnerable Linux application for buffer overflow and RCE development practice",
+    "forks_count": 5,
+    "html_url": "https://github.com/ins1gn1a/VulnServer-Linux",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "VulnServer-Linux",
+    "repo_owner": "ins1gn1a",
+    "repotime": "2021-08-26, 11:05:27",
+    "stargazers_count": 27,
+    "watchers_count": 27
 }
 {
     "commits_count": 69,
@@ -135,6 +203,23 @@
     "watchers_count": 4
 }
 {
+    "commits_count": 5,
+    "date_started": "2021-02-10",
+    "date_updated": "2021-08-25",
+    "description": "Online Marriage Registration System (OMRS) 1.0 - Remote code execution",
+    "forks_count": 4,
+    "html_url": "https://github.com/ricardojoserf/omrs-rce-exploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "omrs-rce-exploit",
+    "repo_owner": "ricardojoserf",
+    "repotime": "2021-08-25, 16:31:42",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 3,
     "date_started": "2021-08-25",
     "date_updated": "2021-08-25",
@@ -148,8 +233,8 @@
     "repo_name": "IISR-A-Secure-Router-for-IoT-Networks",
     "repo_owner": "nd50095800",
     "repotime": "2021-08-25, 19:10:44",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 3,
@@ -165,8 +250,25 @@
     "repo_name": "otax",
     "repo_owner": "0x44F",
     "repotime": "2021-08-25, 15:47:45",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 31,
+    "date_started": "2021-07-28",
+    "date_updated": "2021-08-24",
+    "description": "Proof of Concept for the WP Super Cache 1.7.1 WordPress Plugin RCE vulnerability. Credit for finding the bug to @m0ze",
+    "forks_count": 3,
+    "html_url": "https://github.com/Stef-Lan/WP-Super-Cache-1.7.1-RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "WP-Super-Cache-1.7.1-RCE",
+    "repo_owner": "Stef-Lan",
+    "repotime": "2021-08-24, 05:05:33",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 2,
@@ -193,14 +295,31 @@
     "forks_count": 6,
     "html_url": "https://github.com/0x44F/discord-zeroclick-exploit",
     "keywords": [
-        "0day exploit"
+        "zero-day exploit"
     ],
     "language": "Ruby",
     "repo_name": "discord-zeroclick-exploit",
     "repo_owner": "0x44F",
     "repotime": "2021-08-24, 06:03:45",
-    "stargazers_count": 32,
-    "watchers_count": 32
+    "stargazers_count": 31,
+    "watchers_count": 31
+}
+{
+    "commits_count": 109,
+    "date_started": "2021-05-29",
+    "date_updated": "2021-08-21",
+    "description": "Detects memory leaks from executable files using the Microsoft Research Detours library",
+    "forks_count": 0,
+    "html_url": "https://github.com/Segev608/MemLeakDetector",
+    "keywords": [
+        "Microsoft memory leak"
+    ],
+    "language": "C++",
+    "repo_name": "MemLeakDetector",
+    "repo_owner": "Segev608",
+    "repotime": "2021-08-21, 20:51:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 8,
@@ -271,6 +390,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 28,
+    "date_started": "2021-05-16",
+    "date_updated": "2021-08-17",
+    "description": "Remote Code Execution EJS Web Applications using express-fileupload",
+    "forks_count": 8,
+    "html_url": "https://github.com/boiledsteak/EJS-Exploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "EJS-Exploit",
+    "repo_owner": "boiledsteak",
+    "repotime": "2021-08-17, 13:50:02",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
     "commits_count": 21,
     "date_started": "2021-08-09",
     "date_updated": "2021-08-17",
@@ -335,8 +471,25 @@
     "repo_name": "TrustedPath-UACBypass-BOF",
     "repo_owner": "netero1010",
     "repotime": "2021-08-16, 15:49:54",
-    "stargazers_count": 115,
-    "watchers_count": 115
+    "stargazers_count": 116,
+    "watchers_count": 116
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-08-15",
+    "date_updated": "2021-08-15",
+    "description": "Bypasses for Windows kernel callbacks PatchGuard protection",
+    "forks_count": 28,
+    "html_url": "https://github.com/kkent030315/kernel_callbacks",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "kernel_callbacks",
+    "repo_owner": "kkent030315",
+    "repotime": "2021-08-15, 23:29:41",
+    "stargazers_count": 42,
+    "watchers_count": 42
 }
 {
     "commits_count": 1,
@@ -411,7 +564,7 @@
     "date_started": "2019-10-26",
     "date_updated": "2021-08-10",
     "description": "C&amp;&#35;35; tool for UAC bypasses",
-    "forks_count": 55,
+    "forks_count": 54,
     "html_url": "https://github.com/FatRodzianko/SharpBypassUAC",
     "keywords": [
         "uac bypass"
@@ -420,8 +573,8 @@
     "repo_name": "SharpBypassUAC",
     "repo_owner": "FatRodzianko",
     "repotime": "2021-08-10, 18:30:34",
-    "stargazers_count": 397,
-    "watchers_count": 397
+    "stargazers_count": 401,
+    "watchers_count": 401
 }
 {
     "commits_count": 8,
@@ -471,8 +624,8 @@
     "repo_name": "Big-Papa",
     "repo_owner": "vrikodar",
     "repotime": "2021-08-09, 08:35:56",
-    "stargazers_count": 100,
-    "watchers_count": 100
+    "stargazers_count": 99,
+    "watchers_count": 99
 }
 {
     "commits_count": 33,
@@ -522,8 +675,8 @@
     "repo_name": "DLLHijackingScanner",
     "repo_owner": "SecuProject",
     "repotime": "2021-08-04, 12:49:45",
-    "stargazers_count": 271,
-    "watchers_count": 271
+    "stargazers_count": 272,
+    "watchers_count": 272
 }
 {
     "commits_count": 15,
@@ -539,8 +692,8 @@
     "repo_name": "byeintegrity8-uac",
     "repo_owner": "AzAgarampur",
     "repotime": "2021-08-03, 19:39:18",
-    "stargazers_count": 250,
-    "watchers_count": 250
+    "stargazers_count": 253,
+    "watchers_count": 253
 }
 {
     "commits_count": 11,

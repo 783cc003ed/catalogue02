@@ -67,6 +67,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 37,
+    "date_started": "2017-05-26",
+    "date_updated": "2022-12-27",
+    "description": "SambaCry exploit and vulnerable container (CVE-2017-7494)",
+    "forks_count": 100,
+    "html_url": "https://github.com/opsxcq/exploit-CVE-2017-7494",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "C",
+    "repo_name": "exploit-CVE-2017-7494",
+    "repo_owner": "opsxcq",
+    "repotime": "2022-12-27, 15:25:09",
+    "stargazers_count": 378,
+    "watchers_count": 378
+}
+{
+    "commits_count": 23,
+    "date_started": "2022-12-22",
+    "date_updated": "2022-12-26",
+    "description": "Exploits GitLab authenticated RCE vulnerability known as CVE-2022-2884.",
+    "forks_count": 5,
+    "html_url": "https://github.com/m3ssap0/gitlab_rce_cve-2022-2884",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "gitlab_rce_cve-2022-2884",
+    "repo_owner": "m3ssap0",
+    "repotime": "2022-12-26, 10:48:47",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
     "commits_count": 23,
     "date_started": "2022-08-17",
     "date_updated": "2022-12-24",
@@ -80,8 +114,8 @@
     "repo_name": "CVE-2022-42046",
     "repo_owner": "kkent030315",
     "repotime": "2022-12-24, 19:24:58",
-    "stargazers_count": 160,
-    "watchers_count": 160
+    "stargazers_count": 161,
+    "watchers_count": 161
 }
 {
     "commits_count": 4,
@@ -122,7 +156,7 @@
     "date_started": "2022-08-28",
     "date_updated": "2022-12-19",
     "description": "<no description>",
-    "forks_count": 31,
+    "forks_count": 32,
     "html_url": "https://github.com/shreyaschavhan/advanced-sql-injection-for-awae",
     "keywords": [
         "sql injection"
@@ -131,8 +165,8 @@
     "repo_name": "advanced-sql-injection-for-awae",
     "repo_owner": "shreyaschavhan",
     "repotime": "2022-12-19, 23:08:52",
-    "stargazers_count": 175,
-    "watchers_count": 175
+    "stargazers_count": 180,
+    "watchers_count": 180
 }
 {
     "commits_count": 6,
@@ -322,6 +356,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 21,
+    "date_started": "2022-12-09",
+    "date_updated": "2022-12-11",
+    "description": "[PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom)",
+    "forks_count": 20,
+    "html_url": "https://github.com/yuriisanin/CVE-2022-45025",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-45025",
+    "repo_owner": "yuriisanin",
+    "repotime": "2022-12-11, 14:37:22",
+    "stargazers_count": 88,
+    "watchers_count": 88
+}
+{
     "commits_count": 58,
     "date_started": "2020-03-21",
     "date_updated": "2022-12-10",
@@ -352,8 +403,25 @@
     "repo_name": "Hacking-a-Bluetooth-Device",
     "repo_owner": "falcnix",
     "repotime": "2022-12-10, 13:43:29",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-12-01",
+    "date_updated": "2022-12-09",
+    "description": "Simple django rce exploitation with leaked SECRET_KEY variable",
+    "forks_count": 6,
+    "html_url": "https://github.com/0xuf/DJRCE",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "DJRCE",
+    "repo_owner": "0xuf",
+    "repotime": "2022-12-09, 14:04:42",
+    "stargazers_count": 47,
+    "watchers_count": 47
 }
 {
     "commits_count": 25,
@@ -369,8 +437,8 @@
     "repo_name": "xss_payload",
     "repo_owner": "radhasec",
     "repotime": "2022-12-09, 07:23:41",
-    "stargazers_count": 296,
-    "watchers_count": 296
+    "stargazers_count": 298,
+    "watchers_count": 298
 }
 {
     "commits_count": 3,
@@ -386,8 +454,8 @@
     "repo_name": "Dirty-Vanity",
     "repo_owner": "deepinstinct",
     "repotime": "2022-12-08, 02:18:38",
-    "stargazers_count": 612,
-    "watchers_count": 612
+    "stargazers_count": 616,
+    "watchers_count": 616
 }
 {
     "commits_count": 4,
@@ -458,6 +526,23 @@
     "watchers_count": 9
 }
 {
+    "commits_count": 2,
+    "date_started": "2022-10-17",
+    "date_updated": "2022-12-06",
+    "description": "CVE-2014-8731 - PHPMemcachedAdmin RCE - Proof of Concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/sbani/CVE-2014-8731-PoC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2014-8731-PoC",
+    "repo_owner": "sbani",
+    "repotime": "2022-12-06, 10:02:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 6,
     "date_started": "2022-12-05",
     "date_updated": "2022-12-05",
@@ -473,6 +558,23 @@
     "repotime": "2022-12-05, 19:38:07",
     "stargazers_count": 3,
     "watchers_count": 3
+}
+{
+    "commits_count": 18,
+    "date_started": "2018-09-03",
+    "date_updated": "2022-12-05",
+    "description": "Primefaces &amp;lt;= 5.2.21, 5.3.8 or 6.0 - Remote Code Execution Exploit",
+    "forks_count": 25,
+    "html_url": "https://github.com/pimps/CVE-2017-1000486",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-1000486",
+    "repo_owner": "pimps",
+    "repotime": "2022-12-05, 06:32:52",
+    "stargazers_count": 87,
+    "watchers_count": 87
 }
 {
     "commits_count": 8,
@@ -541,6 +643,23 @@
     "repotime": "2022-12-03, 13:45:32",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-10-04",
+    "date_updated": "2022-12-03",
+    "description": "Rusty Joomla RCE Exploit",
+    "forks_count": 20,
+    "html_url": "https://github.com/kiks7/rusty_joomla_rce",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "rusty_joomla_rce",
+    "repo_owner": "kiks7",
+    "repotime": "2022-12-03, 07:45:31",
+    "stargazers_count": 70,
+    "watchers_count": 70
 }
 {
     "commits_count": 3,

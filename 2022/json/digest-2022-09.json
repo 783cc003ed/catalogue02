@@ -131,8 +131,8 @@
     "repo_name": "XSpear",
     "repo_owner": "hahwul",
     "repotime": "2022-09-27, 22:47:33",
-    "stargazers_count": 1172,
-    "watchers_count": 1172
+    "stargazers_count": 1177,
+    "watchers_count": 1177
 }
 {
     "commits_count": 3,
@@ -216,8 +216,8 @@
     "repo_name": "CVE-2022-37706-LPE-exploit",
     "repo_owner": "MaherAzzouzi",
     "repotime": "2022-09-19, 20:41:34",
-    "stargazers_count": 285,
-    "watchers_count": 285
+    "stargazers_count": 298,
+    "watchers_count": 298
 }
 {
     "commits_count": 1,
@@ -305,6 +305,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 3,
+    "date_started": "2022-09-04",
+    "date_updated": "2022-09-15",
+    "description": "Application with SQL Injection vulnerability and possible privilege escalation. Free vulnerable app for ethical hacking / penetration testing training. ",
+    "forks_count": 20,
+    "html_url": "https://github.com/filipkarc/sqli-postgres-rce-privesc-hacking-playground",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "sqli-postgres-rce-privesc-hacking-playground",
+    "repo_owner": "filipkarc",
+    "repotime": "2022-09-15, 11:35:19",
+    "stargazers_count": 74,
+    "watchers_count": 74
+}
+{
     "commits_count": 8,
     "date_started": "2022-09-04",
     "date_updated": "2022-09-15",
@@ -335,8 +352,8 @@
     "repo_name": "CdpSvcLPE",
     "repo_owner": "sailay1996",
     "repotime": "2022-09-15, 09:27:41",
-    "stargazers_count": 245,
-    "watchers_count": 245
+    "stargazers_count": 248,
+    "watchers_count": 248
 }
 {
     "commits_count": 11,
@@ -360,7 +377,7 @@
     "date_started": "2022-03-18",
     "date_updated": "2022-09-13",
     "description": "Finding XSS during recon",
-    "forks_count": 41,
+    "forks_count": 42,
     "html_url": "https://github.com/ferreiraklet/airixss",
     "keywords": [
         "xss"
@@ -369,8 +386,8 @@
     "repo_name": "airixss",
     "repo_owner": "ferreiraklet",
     "repotime": "2022-09-13, 16:12:50",
-    "stargazers_count": 244,
-    "watchers_count": 244
+    "stargazers_count": 246,
+    "watchers_count": 246
 }
 {
     "commits_count": 12,
@@ -386,6 +403,23 @@
     "repo_name": "Wordpress-Plugin-Site-Import-1.0.1---Local-File-Inclusion",
     "repo_owner": "oddrabbit",
     "repotime": "2022-09-13, 19:02:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-09-04",
+    "date_updated": "2022-09-12",
+    "description": "Reproduction of memory leak encountered with Verge 3D in Chromium Browsers",
+    "forks_count": 0,
+    "html_url": "https://github.com/nobrayner/verge-3d-memory-leak-repro",
+    "keywords": [
+        "Chromium memory leak"
+    ],
+    "language": "JavaScript",
+    "repo_name": "verge-3d-memory-leak-repro",
+    "repo_owner": "nobrayner",
+    "repotime": "2022-09-12, 11:35:18",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -437,8 +471,8 @@
     "repo_name": "CVE-2022-20128",
     "repo_owner": "irsl",
     "repotime": "2022-09-09, 14:42:19",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 2,
@@ -471,8 +505,8 @@
     "repo_name": "SQL-injection-bypass",
     "repo_owner": "Junehck",
     "repotime": "2022-09-07, 21:03:02",
-    "stargazers_count": 611,
-    "watchers_count": 611
+    "stargazers_count": 618,
+    "watchers_count": 618
 }
 {
     "commits_count": 8,
@@ -505,8 +539,8 @@
     "repo_name": "MsSettingsDelegateExecute",
     "repo_owner": "hackerhouse-opensource",
     "repotime": "2022-09-06, 09:06:46",
-    "stargazers_count": 75,
-    "watchers_count": 75
+    "stargazers_count": 76,
+    "watchers_count": 76
 }
 {
     "commits_count": 5,
@@ -577,11 +611,28 @@
     "watchers_count": 56
 }
 {
+    "commits_count": 2,
+    "date_started": "2022-09-05",
+    "date_updated": "2022-09-05",
+    "description": "Proof of concept for CVE-2022-36532: RCE via File Upload in Bolt CMS 5.1.12 and below.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lutrasecurity/CVE-2022-36532",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-36532",
+    "repo_owner": "lutrasecurity",
+    "repotime": "2022-09-05, 18:08:16",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 110,
     "date_started": "2020-10-23",
     "date_updated": "2022-09-04",
     "description": "A cheat sheet that contains advanced queries for SQL Injection of all types.",
-    "forks_count": 647,
+    "forks_count": 654,
     "html_url": "https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet",
     "keywords": [
         "sql injection"
@@ -590,8 +641,8 @@
     "repo_name": "Advanced-SQL-Injection-Cheatsheet",
     "repo_owner": "kleiton0x00",
     "repotime": "2022-09-04, 17:36:34",
-    "stargazers_count": 2794,
-    "watchers_count": 2794
+    "stargazers_count": 2830,
+    "watchers_count": 2830
 }
 {
     "commits_count": 16,
@@ -632,7 +683,7 @@
     "date_started": "2022-09-03",
     "date_updated": "2022-09-03",
     "description": "💻 Windows 10 Kernel-mode rootkit",
-    "forks_count": 5,
+    "forks_count": 4,
     "html_url": "https://github.com/0x44F/WinKit",
     "keywords": [
         "Windows 0day"
@@ -641,8 +692,8 @@
     "repo_name": "WinKit",
     "repo_owner": "0x44F",
     "repotime": "2022-09-03, 21:44:39",
-    "stargazers_count": 30,
-    "watchers_count": 30
+    "stargazers_count": 31,
+    "watchers_count": 31
 }
 {
     "commits_count": 12,
@@ -660,23 +711,6 @@
     "repotime": "2022-09-03, 00:46:08",
     "stargazers_count": 8,
     "watchers_count": 8
-}
-{
-    "commits_count": 7,
-    "date_started": "2022-06-23",
-    "date_updated": "2022-09-01",
-    "description": "heart attack data analysis | created during the 3wk AI Camp summer session with 5 other team members + my instructor",
-    "forks_count": 0,
-    "html_url": "https://github.com/keil4ni/keil4ni.github.io",
-    "keywords": [
-        "session attack"
-    ],
-    "language": "HTML",
-    "repo_name": "keil4ni.github.io",
-    "repo_owner": "keil4ni",
-    "repotime": "2022-09-01, 23:27:03",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 1,
@@ -726,6 +760,6 @@
     "repo_name": "2022-LPE-UAF",
     "repo_owner": "greek0x0",
     "repotime": "2022-09-01, 09:43:12",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 10,
+    "watchers_count": 10
 }

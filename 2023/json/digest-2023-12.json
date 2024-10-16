@@ -50,6 +50,23 @@
     "watchers_count": 68
 }
 {
+    "commits_count": 11,
+    "date_started": "2023-09-15",
+    "date_updated": "2023-12-28",
+    "description": "WPXStrike is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in WordPress",
+    "forks_count": 8,
+    "html_url": "https://github.com/nowak0x01/WPXStrike",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "WPXStrike",
+    "repo_owner": "nowak0x01",
+    "repotime": "2023-12-28, 12:00:14",
+    "stargazers_count": 58,
+    "watchers_count": 58
+}
+{
     "commits_count": 24,
     "date_started": "2023-12-19",
     "date_updated": "2023-12-27",
@@ -63,8 +80,8 @@
     "repo_name": "Zero-day-vulnerabilities-ML",
     "repo_owner": "JonPilarte",
     "repotime": "2023-12-27, 11:56:43",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1,
@@ -97,8 +114,25 @@
     "repo_name": "exploit-CVE-2023-23752",
     "repo_owner": "Acceis",
     "repotime": "2023-12-27, 12:30:45",
-    "stargazers_count": 78,
-    "watchers_count": 78
+    "stargazers_count": 77,
+    "watchers_count": 77
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-12-26",
+    "date_updated": "2023-12-26",
+    "description": "PrestaXSRF is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in PrestaShop E-Commerce",
+    "forks_count": 5,
+    "html_url": "https://github.com/nowak0x01/PrestaXSRF",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "PrestaXSRF",
+    "repo_owner": "nowak0x01",
+    "repotime": "2023-12-26, 19:37:02",
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 11,
@@ -114,8 +148,8 @@
     "repo_name": "CVE-2021-41349",
     "repo_owner": "0xrobiul",
     "repotime": "2023-12-27, 01:55:33",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 8,
@@ -150,6 +184,23 @@
     "repotime": "2023-12-25, 18:24:11",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-12-24",
+    "date_updated": "2023-12-24",
+    "description": "Drupalwned is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in Drupal CMS.",
+    "forks_count": 4,
+    "html_url": "https://github.com/nowak0x01/Drupalwned",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Drupalwned",
+    "repo_owner": "nowak0x01",
+    "repotime": "2023-12-24, 16:10:42",
+    "stargazers_count": 35,
+    "watchers_count": 35
 }
 {
     "commits_count": 2,
@@ -224,7 +275,7 @@
     "date_started": "2022-06-20",
     "date_updated": "2023-12-21",
     "description": "Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",
-    "forks_count": 644,
+    "forks_count": 657,
     "html_url": "https://github.com/GhostTroops/scan4all",
     "keywords": [
         "0day poc"
@@ -233,8 +284,8 @@
     "repo_name": "scan4all",
     "repo_owner": "GhostTroops",
     "repotime": "2023-12-21, 22:03:12",
-    "stargazers_count": 5396,
-    "watchers_count": 5396
+    "stargazers_count": 5474,
+    "watchers_count": 5474
 }
 {
     "commits_count": 28,
@@ -269,6 +320,40 @@
     "repotime": "2023-12-20, 10:35:04",
     "stargazers_count": 17,
     "watchers_count": 17
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-12-18",
+    "date_updated": "2023-12-19",
+    "description": "JoomSploit is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in Joomla CMS.",
+    "forks_count": 4,
+    "html_url": "https://github.com/nowak0x01/JoomSploit",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "JoomSploit",
+    "repo_owner": "nowak0x01",
+    "repotime": "2023-12-19, 18:22:31",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-12-17",
+    "date_updated": "2023-12-18",
+    "description": "xss_session_hijacking_example",
+    "forks_count": 0,
+    "html_url": "https://github.com/GabrielBahia/xss_session_hijacking_example",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "xss_session_hijacking_example",
+    "repo_owner": "GabrielBahia",
+    "repotime": "2023-12-18, 22:12:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 6,
@@ -360,17 +445,17 @@
     "date_started": "2019-02-23",
     "date_updated": "2023-12-17",
     "description": "K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
-    "forks_count": 2068,
+    "forks_count": 2064,
     "html_url": "https://github.com/k8gege/K8tools",
     "keywords": [
-        "0day exploitation"
+        "0day poc"
     ],
     "language": "PowerShell",
     "repo_name": "K8tools",
     "repo_owner": "k8gege",
     "repotime": "2023-12-17, 01:23:36",
-    "stargazers_count": 5738,
-    "watchers_count": 5738
+    "stargazers_count": 5798,
+    "watchers_count": 5798
 }
 {
     "commits_count": 52,
@@ -441,6 +526,40 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 10,
+    "date_started": "2023-12-14",
+    "date_updated": "2023-12-15",
+    "description": "<no description>",
+    "forks_count": 12,
+    "html_url": "https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "ofbiz-CVE-2023-49070-RCE-POC",
+    "repo_owner": "abdoghazy2015",
+    "repotime": "2023-12-15, 13:29:09",
+    "stargazers_count": 59,
+    "watchers_count": 59
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-12-14",
+    "date_updated": "2023-12-15",
+    "description": "Atlassian Companion RCE Vulnerability Proof of Concept",
+    "forks_count": 1,
+    "html_url": "https://github.com/ron-imperva/CVE-2023-22524",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2023-22524",
+    "repo_owner": "ron-imperva",
+    "repotime": "2023-12-15, 08:13:34",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
     "commits_count": 8,
     "date_started": "2023-12-10",
     "date_updated": "2023-12-15",
@@ -454,8 +573,8 @@
     "repo_name": "CVE-2023-30547",
     "repo_owner": "rvizx",
     "repotime": "2023-12-15, 01:39:17",
-    "stargazers_count": 47,
-    "watchers_count": 47
+    "stargazers_count": 48,
+    "watchers_count": 48
 }
 {
     "commits_count": 3,
@@ -471,8 +590,8 @@
     "repo_name": "VM2-Exploit",
     "repo_owner": "rvizx",
     "repotime": "2023-12-15, 01:32:37",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 5,
@@ -539,8 +658,8 @@
     "repo_name": "CVE-2023-5561-PoC",
     "repo_owner": "pog007",
     "repotime": "2023-12-13, 13:47:37",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 3,
@@ -567,14 +686,14 @@
     "forks_count": 4,
     "html_url": "https://github.com/IdanBanani/Linux-Kernel-VR-Exploitation",
     "keywords": [
-        "lpe vulnerability"
+        "lpe exploit"
     ],
     "language": null,
     "repo_name": "Linux-Kernel-VR-Exploitation",
     "repo_owner": "IdanBanani",
     "repotime": "2023-12-12, 19:53:13",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 26,
+    "watchers_count": 26
 }
 {
     "commits_count": 42,
@@ -601,14 +720,14 @@
     "forks_count": 179,
     "html_url": "https://github.com/smgorelik/Windows-RCE-exploits",
     "keywords": [
-        "Win rce"
+        "Windows rce"
     ],
     "language": null,
     "repo_name": "Windows-RCE-exploits",
     "repo_owner": "smgorelik",
     "repotime": "2023-12-11, 17:30:33",
-    "stargazers_count": 737,
-    "watchers_count": 737
+    "stargazers_count": 738,
+    "watchers_count": 738
 }
 {
     "commits_count": 27,
@@ -785,7 +904,7 @@
     "date_started": "2023-12-06",
     "date_updated": "2023-12-06",
     "description": "A python implementation of doyensec/Session-Hijacking-Visual-Exploitation",
-    "forks_count": 5,
+    "forks_count": 6,
     "html_url": "https://github.com/MatthisC/Session-Hijacking-Visual-Exploitation-Python-Version",
     "keywords": [
         "session hijacking"
@@ -796,6 +915,40 @@
     "repotime": "2023-12-06, 10:37:56",
     "stargazers_count": 39,
     "watchers_count": 39
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-12-02",
+    "date_updated": "2023-12-05",
+    "description": "Foxit PDF Reader Remote Code Execution Exploit",
+    "forks_count": 25,
+    "html_url": "https://github.com/hacksysteam/CVE-2022-28672",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2022-28672",
+    "repo_owner": "hacksysteam",
+    "repotime": "2023-12-05, 17:52:40",
+    "stargazers_count": 115,
+    "watchers_count": 115
+}
+{
+    "commits_count": 80,
+    "date_started": "2017-09-24",
+    "date_updated": "2023-12-03",
+    "description": "Demonstrate how usage of the Java Security Manager can prevent Remote Code Execution (RCE) exploits.",
+    "forks_count": 8,
+    "html_url": "https://github.com/shawnmckinney/remote-code-execution-sample",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Java",
+    "repo_name": "remote-code-execution-sample",
+    "repo_owner": "shawnmckinney",
+    "repotime": "2023-12-03, 11:19:50",
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 3,

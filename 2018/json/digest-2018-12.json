@@ -20,17 +20,17 @@
     "date_started": "2018-12-30",
     "date_updated": "2018-12-30",
     "description": "&amp;&#35;35; big-o-performance A simple html app to demonstrate performance costs of data structures.  - Clone the project - Navigate to the root of the project in a termina or command prompt - Run 'npm install' - Run 'npm start' - Go to the URL specified in the terminal or command prompt to try out the app.  &amp;&#35;35; This app was created from the Create React App NPM.  Below are instructions from that project.  Below you will find some information on how to perform common tasks.   You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/template/README.md).  &amp;&#35;35;&amp;&#35;35; Table of Contents  - [Updating to New Releases](&amp;&#35;35;updating-to-new-releases) - [Sending Feedback](&amp;&#35;35;sending-feedback) - [Folder Structure](&amp;&#35;35;folder-structure) - [Available Scripts](&amp;&#35;35;available-scripts)   - [npm start](&amp;&#35;35;npm-start)   - [npm run build](&amp;&#35;35;npm-run-build)   - [npm run eject](&amp;&#35;35;npm-run-eject) - [Displaying Lint Output in the Editor](...",
-    "forks_count": 38,
+    "forks_count": 39,
     "html_url": "https://github.com/rramatchandran/big-o-performance-java",
     "keywords": [
-        "Windows use after free"
+        "empty string password"
     ],
     "language": "JavaScript",
     "repo_name": "big-o-performance-java",
     "repo_owner": "rramatchandran",
     "repotime": "2018-12-30, 13:50:18",
-    "stargazers_count": 58,
-    "watchers_count": 58
+    "stargazers_count": 61,
+    "watchers_count": 61
 }
 {
     "commits_count": 2,
@@ -131,8 +131,8 @@
     "repo_name": "DAVOSET",
     "repo_owner": "MustLive",
     "repotime": "2018-12-19, 21:26:07",
-    "stargazers_count": 124,
-    "watchers_count": 124
+    "stargazers_count": 125,
+    "watchers_count": 125
 }
 {
     "commits_count": 2,
@@ -220,6 +220,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 17,
+    "date_started": "2018-12-01",
+    "date_updated": "2018-12-13",
+    "description": "PrestaShop (1.6.x &amp;lt;= 1.6.1.23 or 1.7.x &amp;lt;= 1.7.4.4) Back Office Remote Code Execution (CVE-2018-19126)",
+    "forks_count": 10,
+    "html_url": "https://github.com/farisv/PrestaShop-CVE-2018-19126",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "PHP",
+    "repo_name": "PrestaShop-CVE-2018-19126",
+    "repo_owner": "farisv",
+    "repotime": "2018-12-13, 06:11:45",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 15,
+    "date_started": "2018-12-11",
+    "date_updated": "2018-12-11",
+    "description": "thinkphp_rce_poc",
+    "forks_count": 46,
+    "html_url": "https://github.com/Simon0105/thinkphp_rce_poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "thinkphp_rce_poc",
+    "repo_owner": "Simon0105",
+    "repotime": "2018-12-11, 14:51:00",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 9,
     "date_started": "2018-12-08",
     "date_updated": "2018-12-10",
@@ -250,8 +284,8 @@
     "repo_name": "ML-for-SQL-Injection",
     "repo_owner": "flywangfang258",
     "repotime": "2018-12-09, 17:48:02",
-    "stargazers_count": 60,
-    "watchers_count": 60
+    "stargazers_count": 61,
+    "watchers_count": 61
 }
 {
     "commits_count": 2,
@@ -322,6 +356,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 8,
+    "date_started": "2018-08-19",
+    "date_updated": "2018-12-04",
+    "description": "Github Desktop RCE PoC",
+    "forks_count": 7,
+    "html_url": "https://github.com/0xacb/github-desktop-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "github-desktop-poc",
+    "repo_owner": "0xacb",
+    "repotime": "2018-12-04, 17:50:17",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
     "commits_count": 3,
     "date_started": "2018-12-04",
     "date_updated": "2018-12-05",
@@ -339,6 +390,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 7,
+    "date_started": "2018-12-02",
+    "date_updated": "2018-12-03",
+    "description": "CVE-2018-8021 Proof-Of-Concept and Exploit ",
+    "forks_count": 17,
+    "html_url": "https://github.com/r3dxpl0it/Apache-Superset-Remote-Code-Execution-PoC-CVE-2018-8021",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Apache-Superset-Remote-Code-Execution-PoC-CVE-2018-8021",
+    "repo_owner": "r3dxpl0it",
+    "repotime": "2018-12-03, 22:12:59",
+    "stargazers_count": 106,
+    "watchers_count": 106
+}
+{
     "commits_count": 5,
     "date_started": "2018-11-27",
     "date_updated": "2018-12-02",
@@ -352,6 +420,6 @@
     "repo_name": "xsshell",
     "repo_owner": "raz-varren",
     "repotime": "2018-12-02, 18:40:28",
-    "stargazers_count": 301,
-    "watchers_count": 301
+    "stargazers_count": 302,
+    "watchers_count": 302
 }

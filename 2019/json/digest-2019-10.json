@@ -40,14 +40,14 @@
     "forks_count": 32,
     "html_url": "https://github.com/jettbrains/-L-",
     "keywords": [
-        "Microsoft remote code execution exploit"
+        "Chrome remote code execution"
     ],
     "language": null,
     "repo_name": "-L-",
     "repo_owner": "jettbrains",
     "repotime": "2019-10-28, 21:51:19",
-    "stargazers_count": 66,
-    "watchers_count": 66
+    "stargazers_count": 68,
+    "watchers_count": 68
 }
 {
     "commits_count": 13,
@@ -135,6 +135,23 @@
     "watchers_count": 14
 }
 {
+    "commits_count": 4,
+    "date_started": "2019-10-21",
+    "date_updated": "2019-10-23",
+    "description": "exploit CVE-2019-7609(kibana RCE) on right way by python2 scripts",
+    "forks_count": 64,
+    "html_url": "https://github.com/LandGrey/CVE-2019-7609",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-7609",
+    "repo_owner": "LandGrey",
+    "repotime": "2019-10-23, 15:10:34",
+    "stargazers_count": 161,
+    "watchers_count": 161
+}
+{
     "commits_count": 11,
     "date_started": "2019-09-06",
     "date_updated": "2019-10-22",
@@ -182,8 +199,8 @@
     "repo_name": "payloadtester_lfi_rfi",
     "repo_owner": "secf00tprint",
     "repotime": "2019-10-21, 17:34:21",
-    "stargazers_count": 37,
-    "watchers_count": 37
+    "stargazers_count": 38,
+    "watchers_count": 38
 }
 {
     "commits_count": 2,
@@ -220,6 +237,23 @@
     "watchers_count": 8
 }
 {
+    "commits_count": 5,
+    "date_started": "2019-06-26",
+    "date_updated": "2019-10-18",
+    "description": "cve-2019-0604 SharePoint RCE exploit",
+    "forks_count": 67,
+    "html_url": "https://github.com/k8gege/CVE-2019-0604",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-0604",
+    "repo_owner": "k8gege",
+    "repotime": "2019-10-18, 22:49:09",
+    "stargazers_count": 101,
+    "watchers_count": 101
+}
+{
     "commits_count": 2,
     "date_started": "2019-10-14",
     "date_updated": "2019-10-14",
@@ -233,8 +267,42 @@
     "repo_name": "ssrf-sheriff",
     "repo_owner": "teknogeek",
     "repotime": "2019-10-14, 09:55:34",
-    "stargazers_count": 310,
-    "watchers_count": 310
+    "stargazers_count": 312,
+    "watchers_count": 312
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-10-12",
+    "date_updated": "2019-10-14",
+    "description": "Insecure deserialization POC on .NET Framework applications. Attack vectors leads to RCE (Remote Code Execution)",
+    "forks_count": 3,
+    "html_url": "https://github.com/indrefi/Insecure-Deserialization-.NET-RCE",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Insecure-Deserialization-.NET-RCE",
+    "repo_owner": "indrefi",
+    "repotime": "2019-10-14, 00:23:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 109,
+    "date_started": "2016-12-26",
+    "date_updated": "2019-10-13",
+    "description": "PHPMailer &amp;lt; 5.2.18 Remote Code Execution exploit and vulnerable container",
+    "forks_count": 150,
+    "html_url": "https://github.com/opsxcq/exploit-CVE-2016-10033",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "PHP",
+    "repo_name": "exploit-CVE-2016-10033",
+    "repo_owner": "opsxcq",
+    "repotime": "2019-10-13, 14:23:02",
+    "stargazers_count": 403,
+    "watchers_count": 403
 }
 {
     "commits_count": 9,
@@ -252,6 +320,23 @@
     "repotime": "2019-10-10, 23:00:02",
     "stargazers_count": 39,
     "watchers_count": 39
+}
+{
+    "commits_count": 32,
+    "date_started": "2019-01-18",
+    "date_updated": "2019-10-08",
+    "description": "A little graphical user interface to find memory leaks in the .net managed heap based on microsofts https://github.com/Microsoft/clrmd.",
+    "forks_count": 0,
+    "html_url": "https://github.com/czapek/MemoryDiagnostics",
+    "keywords": [
+        "Microsoft memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "MemoryDiagnostics",
+    "repo_owner": "czapek",
+    "repotime": "2019-10-08, 12:22:15",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 2,
@@ -288,6 +373,23 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 3,
+    "date_started": "2019-10-06",
+    "date_updated": "2019-10-07",
+    "description": "Hosting proof of concept exploit code of the remote code execution vulnerabilities in the IcedTea-Web Java webstart implementation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/irsl/icedtea-web-vulnerabilities",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": null,
+    "repo_name": "icedtea-web-vulnerabilities",
+    "repo_owner": "irsl",
+    "repotime": "2019-10-07, 09:00:52",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 1,
     "date_started": "2019-10-06",
     "date_updated": "2019-10-06",
@@ -301,15 +403,15 @@
     "repo_name": "LFI-files",
     "repo_owner": "hussein98d",
     "repotime": "2019-10-06, 13:13:30",
-    "stargazers_count": 119,
-    "watchers_count": 119
+    "stargazers_count": 118,
+    "watchers_count": 118
 }
 {
     "commits_count": 8,
     "date_started": "2017-04-12",
     "date_updated": "2019-10-01",
     "description": "WEB SQLi Injection DB Dumper DATA Hacking Tool",
-    "forks_count": 57,
+    "forks_count": 58,
     "html_url": "https://github.com/quadcoreside/QuadCore-Web-SQLi-Injecter-DB-Dumper",
     "keywords": [
         "sql injection"
@@ -318,8 +420,8 @@
     "repo_name": "QuadCore-Web-SQLi-Injecter-DB-Dumper",
     "repo_owner": "quadcoreside",
     "repotime": "2019-10-01, 11:43:34",
-    "stargazers_count": 53,
-    "watchers_count": 53
+    "stargazers_count": 54,
+    "watchers_count": 54
 }
 {
     "commits_count": 9,

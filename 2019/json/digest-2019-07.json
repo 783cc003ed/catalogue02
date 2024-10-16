@@ -46,8 +46,8 @@
     "repo_name": "ios-RCE-Vulnerability",
     "repo_owner": "TinToSer",
     "repotime": "2019-07-30, 20:57:43",
-    "stargazers_count": 40,
-    "watchers_count": 40
+    "stargazers_count": 41,
+    "watchers_count": 41
 }
 {
     "commits_count": 11,
@@ -82,6 +82,23 @@
     "repotime": "2019-07-30, 17:42:40",
     "stargazers_count": 27,
     "watchers_count": 27
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-07-26",
+    "date_updated": "2019-07-28",
+    "description": "Some debug notes and exploit(not blind)",
+    "forks_count": 7,
+    "html_url": "https://github.com/verctor/nexus_rce_CVE-2019-7238",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "nexus_rce_CVE-2019-7238",
+    "repo_owner": "verctor",
+    "repotime": "2019-07-28, 10:32:06",
+    "stargazers_count": 40,
+    "watchers_count": 40
 }
 {
     "commits_count": 4,
@@ -148,8 +165,8 @@
     "repo_name": "AWS-IAM-Privilege-Escalation",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2019-07-25, 11:56:14",
-    "stargazers_count": 889,
-    "watchers_count": 889
+    "stargazers_count": 895,
+    "watchers_count": 895
 }
 {
     "commits_count": 1,
@@ -184,6 +201,23 @@
     "repotime": "2019-07-23, 10:10:41",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-07-16",
+    "date_updated": "2019-07-22",
+    "description": "Atlassian JIRA Template injection vulnerability RCE",
+    "forks_count": 30,
+    "html_url": "https://github.com/jas502n/CVE-2019-11581",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2019-11581",
+    "repo_owner": "jas502n",
+    "repotime": "2019-07-22, 14:47:50",
+    "stargazers_count": 93,
+    "watchers_count": 93
 }
 {
     "commits_count": 13,
@@ -326,7 +360,7 @@
     "date_started": "2015-10-09",
     "date_updated": "2019-07-12",
     "description": "Undetectable Windows Payload Generation",
-    "forks_count": 336,
+    "forks_count": 332,
     "html_url": "https://github.com/nccgroup/Winpayloads",
     "keywords": [
         "uac bypass"
@@ -335,8 +369,25 @@
     "repo_name": "Winpayloads",
     "repo_owner": "nccgroup",
     "repotime": "2019-07-12, 14:51:39",
-    "stargazers_count": 1548,
-    "watchers_count": 1548
+    "stargazers_count": 1554,
+    "watchers_count": 1554
+}
+{
+    "commits_count": 14,
+    "date_started": "2019-05-07",
+    "date_updated": "2019-07-12",
+    "description": "exploit for fastjson remote code execution vulnerability",
+    "forks_count": 37,
+    "html_url": "https://github.com/MagicZer0/fastjson-rce-exploit",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "fastjson-rce-exploit",
+    "repo_owner": "MagicZer0",
+    "repotime": "2019-07-12, 11:40:53",
+    "stargazers_count": 152,
+    "watchers_count": 152
 }
 {
     "commits_count": 8,
@@ -352,8 +403,8 @@
     "repo_name": "phishing-URL-detection",
     "repo_owner": "Komal01",
     "repotime": "2019-07-10, 23:53:31",
-    "stargazers_count": 32,
-    "watchers_count": 32
+    "stargazers_count": 34,
+    "watchers_count": 34
 }
 {
     "commits_count": 3,
@@ -373,6 +424,23 @@
     "watchers_count": 40
 }
 {
+    "commits_count": 89,
+    "date_started": "2015-10-05",
+    "date_updated": "2019-07-09",
+    "description": "A MATLAB toolkit for the interactive processing of plenoptic images. This repository is a mirror!",
+    "forks_count": 14,
+    "html_url": "https://github.com/AFDL/LFIT",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "MATLAB",
+    "repo_name": "LFIT",
+    "repo_owner": "AFDL",
+    "repotime": "2019-07-09, 15:28:17",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
     "commits_count": 5,
     "date_started": "2019-07-05",
     "date_updated": "2019-07-05",
@@ -390,6 +458,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 5,
+    "date_started": "2019-07-04",
+    "date_updated": "2019-07-04",
+    "description": "Axis 1.4 远程命令执行（RCE） POC",
+    "forks_count": 44,
+    "html_url": "https://github.com/ShimizuKawasaki/Axis-1.4-RCE-Poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "Axis-1.4-RCE-Poc",
+    "repo_owner": "ShimizuKawasaki",
+    "repotime": "2019-07-04, 13:01:06",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-07-03",
+    "date_updated": "2019-07-03",
+    "description": "Analysis of the RCEMIP using deep learning",
+    "forks_count": 0,
+    "html_url": "https://github.com/tbeucler/2019_NN_RCEMIP",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "2019_NN_RCEMIP",
+    "repo_owner": "tbeucler",
+    "repotime": "2019-07-03, 23:26:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 34,
     "date_started": "2018-02-26",
     "date_updated": "2019-07-03",
@@ -403,8 +505,8 @@
     "repo_name": "dotdotslash",
     "repo_owner": "jcesarstef",
     "repotime": "2019-07-03, 15:45:40",
-    "stargazers_count": 408,
-    "watchers_count": 408
+    "stargazers_count": 410,
+    "watchers_count": 410
 }
 {
     "commits_count": 34,

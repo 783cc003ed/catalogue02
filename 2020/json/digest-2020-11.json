@@ -54,7 +54,7 @@
     "date_started": "2019-10-29",
     "date_updated": "2020-11-27",
     "description": "Faster xss scanner,support  reflected-xss and dom-xss",
-    "forks_count": 71,
+    "forks_count": 70,
     "html_url": "https://github.com/lwzSoviet/NoXss",
     "keywords": [
         "xss"
@@ -63,8 +63,8 @@
     "repo_name": "NoXss",
     "repo_owner": "lwzSoviet",
     "repotime": "2020-11-27, 16:01:11",
-    "stargazers_count": 444,
-    "watchers_count": 444
+    "stargazers_count": 441,
+    "watchers_count": 441
 }
 {
     "commits_count": 12,
@@ -199,8 +199,8 @@
     "repo_name": "FreeTheSandbox_LPE_POC_13.7",
     "repo_owner": "jamf",
     "repotime": "2020-11-20, 10:32:38",
-    "stargazers_count": 224,
-    "watchers_count": 224
+    "stargazers_count": 225,
+    "watchers_count": 225
 }
 {
     "commits_count": 4,
@@ -235,6 +235,23 @@
     "repotime": "2020-11-18, 16:24:30",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 62,
+    "date_started": "2020-11-15",
+    "date_updated": "2020-11-18",
+    "description": "Docker image to exploit RCE, try for pentest methods and test container security solutions (trivy, falco and etc.) ",
+    "forks_count": 39,
+    "html_url": "https://github.com/Swordfish-Security/Pentest-In-Docker",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "Pentest-In-Docker",
+    "repo_owner": "Swordfish-Security",
+    "repotime": "2020-11-18, 13:18:26",
+    "stargazers_count": 80,
+    "watchers_count": 80
 }
 {
     "commits_count": 18,
@@ -301,8 +318,8 @@
     "repo_name": "Ssrf-labs",
     "repo_owner": "Captain-K-101",
     "repotime": "2020-11-13, 18:41:14",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 34,
@@ -397,14 +414,14 @@
     "forks_count": 12,
     "html_url": "https://github.com/Aryia-Behroziuan/neurons",
     "keywords": [
-        "Win use after free"
+        "lack of input validation"
     ],
     "language": null,
     "repo_name": "neurons",
     "repo_owner": "Aryia-Behroziuan",
     "repotime": "2020-11-07, 15:47:06",
-    "stargazers_count": 55,
-    "watchers_count": 55
+    "stargazers_count": 56,
+    "watchers_count": 56
 }
 {
     "commits_count": 4,

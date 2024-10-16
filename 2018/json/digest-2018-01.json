@@ -1,4 +1,21 @@
 {
+    "commits_count": 30,
+    "date_started": "2018-01-24",
+    "date_updated": "2018-01-31",
+    "description": "BMC Bladelogic RSCD exploits including remote code execution - CVE-2016-1542, CVE-2016-1543, CVE-2016-5063",
+    "forks_count": 9,
+    "html_url": "https://github.com/bao7uo/bmc_bladelogic",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "bmc_bladelogic",
+    "repo_owner": "bao7uo",
+    "repotime": "2018-01-31, 01:24:07",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
     "commits_count": 3,
     "date_started": "2018-01-30",
     "date_updated": "2018-01-30",
@@ -29,8 +46,8 @@
     "repo_name": "syringe",
     "repo_owner": "rsmusllp",
     "repotime": "2018-01-27, 14:43:44",
-    "stargazers_count": 151,
-    "watchers_count": 151
+    "stargazers_count": 152,
+    "watchers_count": 152
 }
 {
     "commits_count": 65,
@@ -46,8 +63,8 @@
     "repo_name": "birp",
     "repo_owner": "sensepost",
     "repotime": "2018-01-24, 17:14:27",
-    "stargazers_count": 121,
-    "watchers_count": 121
+    "stargazers_count": 123,
+    "watchers_count": 123
 }
 {
     "commits_count": 3,
@@ -67,6 +84,23 @@
     "watchers_count": 24
 }
 {
+    "commits_count": 43,
+    "date_started": "2017-03-29",
+    "date_updated": "2018-01-23",
+    "description": "DoS PoC's for SAP products ",
+    "forks_count": 19,
+    "html_url": "https://github.com/vah13/SAP_vulnerabilities",
+    "keywords": [
+        "rce dos"
+    ],
+    "language": "Python",
+    "repo_name": "SAP_vulnerabilities",
+    "repo_owner": "vah13",
+    "repotime": "2018-01-23, 14:27:30",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
     "commits_count": 3,
     "date_started": "2017-07-31",
     "date_updated": "2018-01-23",
@@ -82,6 +116,23 @@
     "repotime": "2018-01-23, 08:15:54",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-01-18",
+    "date_updated": "2018-01-20",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/c1arissa/cfg-bypass",
+    "keywords": [
+        "cfg bypass"
+    ],
+    "language": null,
+    "repo_name": "cfg-bypass",
+    "repo_owner": "c1arissa",
+    "repotime": "2018-01-20, 12:29:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 3,
@@ -116,6 +167,40 @@
     "repotime": "2018-01-19, 13:42:09",
     "stargazers_count": 62,
     "watchers_count": 62
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-01-18",
+    "date_updated": "2018-01-18",
+    "description": "Medfusion 4000 security research &amp;amp; a MQX RCE.",
+    "forks_count": 40,
+    "html_url": "https://github.com/sgayou/medfusion-4000-research",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "medfusion-4000-research",
+    "repo_owner": "sgayou",
+    "repotime": "2018-01-18, 08:00:22",
+    "stargazers_count": 335,
+    "watchers_count": 335
+}
+{
+    "commits_count": 7,
+    "date_started": "2018-01-18",
+    "date_updated": "2018-01-18",
+    "description": "Simple remote command execution exploit code for SAP GUI",
+    "forks_count": 3,
+    "html_url": "https://github.com/vah13/SAP_ransomware",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": null,
+    "repo_name": "SAP_ransomware",
+    "repo_owner": "vah13",
+    "repotime": "2018-01-18, 15:20:39",
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 24,
@@ -186,6 +271,40 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 6,
+    "date_started": "2017-02-13",
+    "date_updated": "2018-01-13",
+    "description": ":snake:  A node.js cli tool to bypass Cloudflare's anti-bot and get the page contents",
+    "forks_count": 0,
+    "html_url": "https://github.com/gnuns/cfget",
+    "keywords": [
+        "cfg bypass"
+    ],
+    "language": "JavaScript",
+    "repo_name": "cfget",
+    "repo_owner": "gnuns",
+    "repotime": "2018-01-13, 15:19:23",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-01-11",
+    "date_updated": "2018-01-11",
+    "description": "<no description>",
+    "forks_count": 28,
+    "html_url": "https://github.com/shengqi158/Jackson-databind-RCE-PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "Jackson-databind-RCE-PoC",
+    "repo_owner": "shengqi158",
+    "repotime": "2018-01-11, 18:54:05",
+    "stargazers_count": 80,
+    "watchers_count": 80
+}
+{
     "commits_count": 2,
     "date_started": "2018-01-10",
     "date_updated": "2018-01-10",
@@ -199,8 +318,8 @@
     "repo_name": "SQLi-CTF",
     "repo_owner": "Corb3nik",
     "repotime": "2018-01-10, 12:34:36",
-    "stargazers_count": 64,
-    "watchers_count": 64
+    "stargazers_count": 66,
+    "watchers_count": 66
 }
 {
     "commits_count": 8,
@@ -220,6 +339,23 @@
     "watchers_count": 13
 }
 {
+    "commits_count": 11,
+    "date_started": "2018-01-09",
+    "date_updated": "2018-01-09",
+    "description": "An example project that exploits the default typing issue in Jackson-databind via Spring application contexts and expressions",
+    "forks_count": 63,
+    "html_url": "https://github.com/irsl/jackson-rce-via-spel",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Java",
+    "repo_name": "jackson-rce-via-spel",
+    "repo_owner": "irsl",
+    "repotime": "2018-01-09, 09:14:03",
+    "stargazers_count": 121,
+    "watchers_count": 121
+}
+{
     "commits_count": 133,
     "date_started": "2017-06-08",
     "date_updated": "2018-01-08",
@@ -233,8 +369,8 @@
     "repo_name": "XSS-Radar",
     "repo_owner": "bugbountyforum",
     "repotime": "2018-01-08, 22:17:43",
-    "stargazers_count": 315,
-    "watchers_count": 315
+    "stargazers_count": 317,
+    "watchers_count": 317
 }
 {
     "commits_count": 6,
@@ -252,6 +388,23 @@
     "repotime": "2018-01-07, 02:38:55",
     "stargazers_count": 6,
     "watchers_count": 6
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-01-05",
+    "date_updated": "2018-01-05",
+    "description": "Cisco IOS SNMP RCE PoC",
+    "forks_count": 63,
+    "html_url": "https://github.com/artkond/cisco-snmp-rce",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "cisco-snmp-rce",
+    "repo_owner": "artkond",
+    "repotime": "2018-01-05, 15:08:04",
+    "stargazers_count": 245,
+    "watchers_count": 245
 }
 {
     "commits_count": 2,

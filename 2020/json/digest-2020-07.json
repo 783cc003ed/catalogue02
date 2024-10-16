@@ -46,8 +46,8 @@
     "repo_name": "xxer",
     "repo_owner": "TheTwitchy",
     "repotime": "2020-07-29, 09:54:37",
-    "stargazers_count": 508,
-    "watchers_count": 508
+    "stargazers_count": 510,
+    "watchers_count": 510
 }
 {
     "commits_count": 1,
@@ -114,8 +114,8 @@
     "repo_name": "ch3r0",
     "repo_owner": "tnt-wolve",
     "repotime": "2020-07-25, 19:37:02",
-    "stargazers_count": 215,
-    "watchers_count": 215
+    "stargazers_count": 223,
+    "watchers_count": 223
 }
 {
     "commits_count": 7,
@@ -182,8 +182,8 @@
     "repo_name": "LeakDetect",
     "repo_owner": "vastlimits",
     "repotime": "2020-07-22, 21:53:56",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 17,
@@ -199,8 +199,8 @@
     "repo_name": "nosqlilab",
     "repo_owner": "digininja",
     "repotime": "2020-07-22, 16:58:48",
-    "stargazers_count": 126,
-    "watchers_count": 126
+    "stargazers_count": 128,
+    "watchers_count": 128
 }
 {
     "commits_count": 3,
@@ -220,6 +220,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 3,
+    "date_started": "2020-07-19",
+    "date_updated": "2020-07-19",
+    "description": "LibreHealth v2.0.0 suffers from an authenticated file upload vulnerability allowing remote attackers to gain remote code execution (RCE) on the hosting webserver via uploading a maliciously crafted image.",
+    "forks_count": 2,
+    "html_url": "https://github.com/boku7/LibreHealth-authRCE",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "LibreHealth-authRCE",
+    "repo_owner": "boku7",
+    "repotime": "2020-07-19, 00:46:57",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-07-16",
+    "date_updated": "2020-07-16",
+    "description": "From 0 to Remote Code Execution - exploit development files for Online Course Registration Web Application RCE",
+    "forks_count": 2,
+    "html_url": "https://github.com/boku7/onlineCourseReg-RCE",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "onlineCourseReg-RCE",
+    "repo_owner": "boku7",
+    "repotime": "2020-07-16, 10:21:37",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
     "commits_count": 4,
     "date_started": "2020-06-07",
     "date_updated": "2020-07-15",
@@ -233,8 +267,8 @@
     "repo_name": "Text-Spoofing-Vulnerability-in-Online-Payment-Systems",
     "repo_owner": "RayyanI",
     "repotime": "2020-07-15, 19:29:10",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 18,
@@ -252,6 +286,40 @@
     "repotime": "2020-07-15, 14:22:17",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-04-28",
+    "date_updated": "2020-07-15",
+    "description": "Robust Covariance Estimation for High-dimensional Compositional Data with  Application to Microbial Communities Analysis",
+    "forks_count": 1,
+    "html_url": "https://github.com/heyongstat/RCEC",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "R",
+    "repo_name": "RCEC",
+    "repo_owner": "heyongstat",
+    "repotime": "2020-07-15, 11:58:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-07-13",
+    "date_updated": "2020-07-13",
+    "description": "quick and dirty PHP RCE proof of concept",
+    "forks_count": 1,
+    "html_url": "https://github.com/corifeo/CVE-2019-11043",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-11043",
+    "repo_owner": "corifeo",
+    "repotime": "2020-07-13, 17:33:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -335,8 +403,8 @@
     "repo_name": "ProjectAlpha",
     "repo_owner": "Nikkitaseth",
     "repotime": "2020-07-07, 23:52:50",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 7,
@@ -354,6 +422,23 @@
     "repotime": "2020-07-07, 10:15:56",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-07-07",
+    "date_updated": "2020-07-07",
+    "description": "<no description>",
+    "forks_count": 10,
+    "html_url": "https://github.com/whiteHat001/MIcrosoft-Word-Use-After-Free",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": null,
+    "repo_name": "MIcrosoft-Word-Use-After-Free",
+    "repo_owner": "whiteHat001",
+    "repotime": "2020-07-07, 11:48:59",
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 11,
@@ -390,6 +475,23 @@
     "watchers_count": 13
 }
 {
+    "commits_count": 14,
+    "date_started": "2019-10-24",
+    "date_updated": "2020-07-06",
+    "description": "PHP-FPM Remote Code Execution Vulnerability (CVE-2019-11043) POC in Python",
+    "forks_count": 4,
+    "html_url": "https://github.com/AleWong/PHP-FPM-Remote-Code-Execution-Vulnerability-CVE-2019-11043-",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "PHP-FPM-Remote-Code-Execution-Vulnerability-CVE-2019-11043-",
+    "repo_owner": "AleWong",
+    "repotime": "2020-07-06, 10:47:11",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 2688,
     "date_started": "2019-09-11",
     "date_updated": "2020-07-04",
@@ -422,4 +524,21 @@
     "repotime": "2020-07-03, 13:33:44",
     "stargazers_count": 23,
     "watchers_count": 23
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-06-02",
+    "date_updated": "2020-07-02",
+    "description": "<no description>",
+    "forks_count": 347,
+    "html_url": "https://github.com/chompie1337/SMBGhost_RCE_PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "SMBGhost_RCE_PoC",
+    "repo_owner": "chompie1337",
+    "repotime": "2020-07-02, 13:49:21",
+    "stargazers_count": 1314,
+    "watchers_count": 1314
 }

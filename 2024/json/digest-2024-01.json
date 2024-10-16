@@ -237,6 +237,23 @@
     "watchers_count": 6
 }
 {
+    "commits_count": 10,
+    "date_started": "2023-11-12",
+    "date_updated": "2024-01-24",
+    "description": "This script leverages CVE-2023046604 (Apache ActiveMQ) to generate a pseudo shell. The vulnerability allows for remote code execution due to unsafe deserialization within the OpenWire protocol.",
+    "forks_count": 5,
+    "html_url": "https://github.com/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-46604-ActiveMQ-RCE-pseudoshell",
+    "repo_owner": "duck-sec",
+    "repotime": "2024-01-24, 13:44:29",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
     "commits_count": 8,
     "date_started": "2023-03-21",
     "date_updated": "2024-01-24",
@@ -252,6 +269,57 @@
     "repotime": "2024-01-24, 11:30:52",
     "stargazers_count": 21,
     "watchers_count": 21
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-01-06",
+    "date_updated": "2024-01-23",
+    "description": "CVE-2023-52251 There is a Remote Code Execution vulnerability provectus/kafka-ui.",
+    "forks_count": 3,
+    "html_url": "https://github.com/BobTheShoplifter/CVE-2023-52251-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2023-52251-POC",
+    "repo_owner": "BobTheShoplifter",
+    "repotime": "2024-01-23, 20:06:14",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-01-23",
+    "date_updated": "2024-01-23",
+    "description": "A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center. ",
+    "forks_count": 3,
+    "html_url": "https://github.com/Manh130902/CVE-2023-22527-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-22527-POC",
+    "repo_owner": "Manh130902",
+    "repotime": "2024-01-23, 19:03:00",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 32,
+    "date_started": "2024-01-16",
+    "date_updated": "2024-01-23",
+    "description": "CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC",
+    "forks_count": 4,
+    "html_url": "https://github.com/Avento/CVE-2023-22527_Confluence_RCE",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-22527_Confluence_RCE",
+    "repo_owner": "Avento",
+    "repotime": "2024-01-23, 17:57:31",
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 4,
@@ -339,6 +407,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 7,
+    "date_started": "2024-01-15",
+    "date_updated": "2024-01-17",
+    "description": "CVE-2023-31756 Proof of Concept - Remote Code Execution for Archer V1/V2 Routers",
+    "forks_count": 0,
+    "html_url": "https://github.com/StanleyJobsonAU/LongBow",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "LongBow",
+    "repo_owner": "StanleyJobsonAU",
+    "repotime": "2024-01-17, 20:20:03",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 10,
     "date_started": "2024-01-17",
     "date_updated": "2024-01-17",
@@ -390,6 +475,23 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 1,
+    "date_started": "2024-01-15",
+    "date_updated": "2024-01-15",
+    "description": "An exploit for the Sitecore Remote Code Execution Vulnerability",
+    "forks_count": 1,
+    "html_url": "https://github.com/BagheeraAltered/CVE-2023-35813-PoC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-35813-PoC",
+    "repo_owner": "BagheeraAltered",
+    "repotime": "2024-01-15, 09:15:30",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
     "commits_count": 3,
     "date_started": "2024-01-14",
     "date_updated": "2024-01-14",
@@ -407,11 +509,28 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 2,
+    "date_started": "2024-01-14",
+    "date_updated": "2024-01-14",
+    "description": "Research work on implementing RCE in micro-python as proof of concept for research with Dr Sass",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jayers0/ESP32-UART_RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "ESP32-UART_RCE",
+    "repo_owner": "Jayers0",
+    "repotime": "2024-01-14, 04:58:46",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 10,
     "date_started": "2023-02-28",
     "date_updated": "2024-01-11",
     "description": "C&amp;&#35;35; session hijacking gui",
-    "forks_count": 11,
+    "forks_count": 12,
     "html_url": "https://github.com/EbolaMan-YT/sessionsploit",
     "keywords": [
         "session hijacking"
@@ -420,8 +539,8 @@
     "repo_name": "sessionsploit",
     "repo_owner": "EbolaMan-YT",
     "repotime": "2024-01-11, 15:08:21",
-    "stargazers_count": 78,
-    "watchers_count": 78
+    "stargazers_count": 88,
+    "watchers_count": 88
 }
 {
     "commits_count": 4,
@@ -439,6 +558,23 @@
     "repotime": "2024-01-09, 22:50:09",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2023-05-08",
+    "date_updated": "2024-01-09",
+    "description": "A PoC exploit for CVE-2019-15107 - Webmin Remote Code Execution",
+    "forks_count": 2,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-15107-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-01-09, 12:08:24",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 2,
@@ -462,7 +598,7 @@
     "date_started": "2022-06-05",
     "date_updated": "2024-01-09",
     "description": "<no description>",
-    "forks_count": 14,
+    "forks_count": 22,
     "html_url": "https://github.com/cyberteach360/sql-injection",
     "keywords": [
         "sql injection"
@@ -471,8 +607,8 @@
     "repo_name": "sql-injection",
     "repo_owner": "cyberteach360",
     "repotime": "2024-01-09, 10:40:54",
-    "stargazers_count": 23,
-    "watchers_count": 23
+    "stargazers_count": 38,
+    "watchers_count": 38
 }
 {
     "commits_count": 3,
@@ -505,8 +641,25 @@
     "repo_name": "LFI-FINDER",
     "repo_owner": "capture0x",
     "repotime": "2024-01-07, 17:51:26",
-    "stargazers_count": 273,
-    "watchers_count": 273
+    "stargazers_count": 283,
+    "watchers_count": 283
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-03-22",
+    "date_updated": "2024-01-07",
+    "description": "PoC of Apache Dubbo CVE-2023-23638",
+    "forks_count": 7,
+    "html_url": "https://github.com/X1r0z/Dubbo-RCE",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "Dubbo-RCE",
+    "repo_owner": "X1r0z",
+    "repotime": "2024-01-07, 15:38:03",
+    "stargazers_count": 31,
+    "watchers_count": 31
 }
 {
     "commits_count": 1,
@@ -598,7 +751,7 @@
     "date_started": "2024-01-02",
     "date_updated": "2024-01-02",
     "description": "CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.",
-    "forks_count": 46,
+    "forks_count": 45,
     "html_url": "https://github.com/hackerhouse-opensource/Stinger",
     "keywords": [
         "uac bypass"
@@ -607,8 +760,8 @@
     "repo_name": "Stinger",
     "repo_owner": "hackerhouse-opensource",
     "repotime": "2024-01-02, 18:12:18",
-    "stargazers_count": 276,
-    "watchers_count": 276
+    "stargazers_count": 279,
+    "watchers_count": 279
 }
 {
     "commits_count": 17,
@@ -624,8 +777,8 @@
     "repo_name": "Artillery",
     "repo_owner": "hackerhouse-opensource",
     "repotime": "2024-01-02, 18:03:46",
-    "stargazers_count": 174,
-    "watchers_count": 174
+    "stargazers_count": 175,
+    "watchers_count": 175
 }
 {
     "commits_count": 5,

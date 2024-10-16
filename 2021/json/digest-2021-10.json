@@ -16,6 +16,23 @@
     "watchers_count": 8
 }
 {
+    "commits_count": 12,
+    "date_started": "2017-05-30",
+    "date_updated": "2021-10-31",
+    "description": "It is a simple script to exploit RCE for Samba (CVE-2017-7494 ).",
+    "forks_count": 27,
+    "html_url": "https://github.com/brianwrf/SambaHunter",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "SambaHunter",
+    "repo_owner": "brianwrf",
+    "repotime": "2021-10-31, 15:06:25",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
     "commits_count": 36,
     "date_started": "2021-10-26",
     "date_updated": "2021-10-29",
@@ -23,14 +40,14 @@
     "forks_count": 65,
     "html_url": "https://github.com/stong/how-to-exploit-a-double-free",
     "keywords": [
-        "use after free exploit"
+        "use after free exploitation"
     ],
     "language": "Python",
     "repo_name": "how-to-exploit-a-double-free",
     "repo_owner": "stong",
     "repotime": "2021-10-29, 03:29:45",
-    "stargazers_count": 1315,
-    "watchers_count": 1315
+    "stargazers_count": 1318,
+    "watchers_count": 1318
 }
 {
     "commits_count": 15,
@@ -91,14 +108,14 @@
     "forks_count": 46,
     "html_url": "https://github.com/KaLendsi/CVE-2021-40449-Exploit",
     "keywords": [
-        "lpe exploit"
+        "Windows lpe"
     ],
     "language": "C++",
     "repo_name": "CVE-2021-40449-Exploit",
     "repo_owner": "KaLendsi",
     "repotime": "2021-10-28, 11:51:09",
-    "stargazers_count": 92,
-    "watchers_count": 92
+    "stargazers_count": 93,
+    "watchers_count": 93
 }
 {
     "commits_count": 5,
@@ -116,6 +133,23 @@
     "repotime": "2021-10-27, 14:41:18",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-25",
+    "date_updated": "2021-10-25",
+    "description": "PoC for the CVE-2021-20837 : RCE in MovableType",
+    "forks_count": 12,
+    "html_url": "https://github.com/ghost-nemesis/cve-2021-20837-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Ruby",
+    "repo_name": "cve-2021-20837-poc",
+    "repo_owner": "ghost-nemesis",
+    "repotime": "2021-10-25, 20:34:54",
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 12,
@@ -165,8 +199,8 @@
     "repo_name": "LIBRARY-MANAGEMENT-SYSTEM-L_I_B_R_A-",
     "repo_owner": "uttkarshparmar50",
     "repotime": "2021-10-24, 18:33:25",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 10,
@@ -250,8 +284,8 @@
     "repo_name": "angularjs-csti-scanner",
     "repo_owner": "tijme",
     "repotime": "2021-10-20, 17:19:50",
-    "stargazers_count": 298,
-    "watchers_count": 298
+    "stargazers_count": 302,
+    "watchers_count": 302
 }
 {
     "commits_count": 2,
@@ -269,6 +303,23 @@
     "repotime": "2021-10-19, 15:48:50",
     "stargazers_count": 7,
     "watchers_count": 7
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-03-15",
+    "date_updated": "2021-10-19",
+    "description": "ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)",
+    "forks_count": 39,
+    "html_url": "https://github.com/herwonowr/exprolog",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "exprolog",
+    "repo_owner": "herwonowr",
+    "repotime": "2021-10-19, 14:06:17",
+    "stargazers_count": 168,
+    "watchers_count": 168
 }
 {
     "commits_count": 3,
@@ -301,8 +352,8 @@
     "repo_name": "misteriusxx",
     "repo_owner": "sllumenikmati21",
     "repotime": "2021-10-17, 09:55:07",
-    "stargazers_count": 20,
-    "watchers_count": 20
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 77,
@@ -326,7 +377,7 @@
     "date_started": "2020-07-09",
     "date_updated": "2021-10-16",
     "description": "A collection of tiny XSS Payloads that can be used in different contexts. https://tinyxss.terjanq.me",
-    "forks_count": 188,
+    "forks_count": 192,
     "html_url": "https://github.com/terjanq/Tiny-XSS-Payloads",
     "keywords": [
         "xss"
@@ -335,8 +386,8 @@
     "repo_name": "Tiny-XSS-Payloads",
     "repo_owner": "terjanq",
     "repotime": "2021-10-16, 00:37:44",
-    "stargazers_count": 1908,
-    "watchers_count": 1908
+    "stargazers_count": 1919,
+    "watchers_count": 1919
 }
 {
     "commits_count": 3,
@@ -373,6 +424,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 4,
+    "date_started": "2021-10-14",
+    "date_updated": "2021-10-14",
+    "description": "win32kbase!NtDCompositionCommitSynchronizationObject and win32kbase!NtGdiGetCertificate",
+    "forks_count": 0,
+    "html_url": "https://github.com/huoji120/Microsoft_Kernel_Memory_Leak",
+    "keywords": [
+        "Microsoft memory leak"
+    ],
+    "language": null,
+    "repo_name": "Microsoft_Kernel_Memory_Leak",
+    "repo_owner": "huoji120",
+    "repotime": "2021-10-14, 17:18:08",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
     "commits_count": 20,
     "date_started": "2016-10-26",
     "date_updated": "2021-10-13",
@@ -397,14 +465,14 @@
     "forks_count": 0,
     "html_url": "https://github.com/SleepTheGod/0day",
     "keywords": [
-        "0day exploitation"
+        "0day exploit"
     ],
     "language": "PHP",
     "repo_name": "0day",
     "repo_owner": "SleepTheGod",
     "repotime": "2021-10-12, 23:55:27",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 5,
@@ -420,8 +488,8 @@
     "repo_name": "ios-gamed-0day",
     "repo_owner": "illusionofchaos",
     "repotime": "2021-10-12, 23:02:45",
-    "stargazers_count": 434,
-    "watchers_count": 434
+    "stargazers_count": 435,
+    "watchers_count": 435
 }
 {
     "commits_count": 2,
@@ -454,8 +522,8 @@
     "repo_name": "CVE-2021-34486",
     "repo_owner": "KaLendsi",
     "repotime": "2021-10-12, 13:52:00",
-    "stargazers_count": 47,
-    "watchers_count": 47
+    "stargazers_count": 49,
+    "watchers_count": 49
 }
 {
     "commits_count": 16,
@@ -471,8 +539,8 @@
     "repo_name": "Exchange_SSRF",
     "repo_owner": "Jumbo-WJB",
     "repotime": "2021-10-12, 10:17:09",
-    "stargazers_count": 163,
-    "watchers_count": 163
+    "stargazers_count": 166,
+    "watchers_count": 166
 }
 {
     "commits_count": 2,
@@ -598,7 +666,7 @@
     "date_started": "2018-09-21",
     "date_updated": "2021-10-06",
     "description": "Sample code for Dependency Injection Principles, Practices, and Patterns",
-    "forks_count": 59,
+    "forks_count": 58,
     "html_url": "https://github.com/DependencyInjection-2nd-edition/codesamples",
     "keywords": [
         "code injection"
@@ -607,8 +675,8 @@
     "repo_name": "codesamples",
     "repo_owner": "DependencyInjection-2nd-edition",
     "repotime": "2021-10-06, 22:15:45",
-    "stargazers_count": 139,
-    "watchers_count": 139
+    "stargazers_count": 142,
+    "watchers_count": 142
 }
 {
     "commits_count": 280,
@@ -677,4 +745,21 @@
     "repotime": "2021-10-04, 10:13:54",
     "stargazers_count": 41,
     "watchers_count": 41
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-09-25",
+    "date_updated": "2021-10-02",
+    "description": "RCE exploit for attack chain in &amp;quot;A Saga of Code Executions on Zimbra&amp;quot; post",
+    "forks_count": 6,
+    "html_url": "https://github.com/nth347/Zimbra-RCE-exploit",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Zimbra-RCE-exploit",
+    "repo_owner": "nth347",
+    "repotime": "2021-10-02, 21:47:38",
+    "stargazers_count": 34,
+    "watchers_count": 34
 }

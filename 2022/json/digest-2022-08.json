@@ -12,8 +12,8 @@
     "repo_name": "LFIscanner",
     "repo_owner": "R3LI4NT",
     "repotime": "2022-08-31, 00:53:22",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 7,
@@ -67,6 +67,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 15,
+    "date_started": "2022-01-28",
+    "date_updated": "2022-08-29",
+    "description": "Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126.",
+    "forks_count": 8,
+    "html_url": "https://github.com/tremwil/ds3-nrssr-rce",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "C++",
+    "repo_name": "ds3-nrssr-rce",
+    "repo_owner": "tremwil",
+    "repotime": "2022-08-29, 22:11:05",
+    "stargazers_count": 149,
+    "watchers_count": 149
+}
+{
     "commits_count": 2,
     "date_started": "2022-08-29",
     "date_updated": "2022-08-29",
@@ -82,6 +99,23 @@
     "repotime": "2022-08-29, 23:52:37",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-08-29",
+    "date_updated": "2022-08-29",
+    "description": "A PoC for adding NtContinue to CFG allowed list in order to make Ekko work in a CFG protected process",
+    "forks_count": 16,
+    "html_url": "https://github.com/Crypt0s/Ekko_CFG_Bypass",
+    "keywords": [
+        "cfg bypass"
+    ],
+    "language": "C",
+    "repo_name": "Ekko_CFG_Bypass",
+    "repo_owner": "Crypt0s",
+    "repotime": "2022-08-29, 13:23:35",
+    "stargazers_count": 86,
+    "watchers_count": 86
 }
 {
     "commits_count": 3,
@@ -186,6 +220,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 14,
+    "date_started": "2022-07-04",
+    "date_updated": "2022-08-23",
+    "description": "xdebug 2.5.5 RCE exploit",
+    "forks_count": 7,
+    "html_url": "https://github.com/D3Ext/XDEBUG-Exploit",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "XDEBUG-Exploit",
+    "repo_owner": "D3Ext",
+    "repotime": "2022-08-23, 23:37:02",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-08-11",
+    "date_updated": "2022-08-23",
+    "description": "A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin &amp;lt; 1.997.",
+    "forks_count": 35,
+    "html_url": "https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-36446-Webmin-Software-Package-Updates-RCE",
+    "repo_owner": "p0dalirius",
+    "repotime": "2022-08-23, 17:57:41",
+    "stargazers_count": 110,
+    "watchers_count": 110
+}
+{
     "commits_count": 4,
     "date_started": "2021-12-27",
     "date_updated": "2022-08-23",
@@ -250,8 +318,8 @@
     "repo_name": "EtwSessionHijacking",
     "repo_owner": "NUL0x4C",
     "repotime": "2022-08-22, 23:08:22",
-    "stargazers_count": 96,
-    "watchers_count": 96
+    "stargazers_count": 97,
+    "watchers_count": 97
 }
 {
     "commits_count": 5,
@@ -322,6 +390,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 27,
+    "date_started": "2019-05-03",
+    "date_updated": "2022-08-19",
+    "description": "A proof of concept for ReadyAPI 2.5.0/2.6.0 Remote Code Execution Vulnerability.",
+    "forks_count": 3,
+    "html_url": "https://github.com/gscamelo/CVE-2018-20580",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-20580",
+    "repo_owner": "gscamelo",
+    "repotime": "2022-08-19, 16:04:44",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 2,
     "date_started": "2022-08-18",
     "date_updated": "2022-08-18",
@@ -390,6 +475,23 @@
     "watchers_count": 8
 }
 {
+    "commits_count": 13,
+    "date_started": "2022-02-10",
+    "date_updated": "2022-08-15",
+    "description": "Proof of Concept for CVE-2021-1585: Cisco ASA Device Manager RCE",
+    "forks_count": 4,
+    "html_url": "https://github.com/jbaines-r7/staystaystay",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "C++",
+    "repo_name": "staystaystay",
+    "repo_owner": "jbaines-r7",
+    "repotime": "2022-08-15, 14:13:20",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
     "commits_count": 244,
     "date_started": "2020-09-18",
     "date_updated": "2022-08-15",
@@ -403,8 +505,8 @@
     "repo_name": "Garud",
     "repo_owner": "R0X4R",
     "repotime": "2022-08-15, 17:41:14",
-    "stargazers_count": 769,
-    "watchers_count": 769
+    "stargazers_count": 773,
+    "watchers_count": 773
 }
 {
     "commits_count": 3,
@@ -424,6 +526,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 3,
+    "date_started": "2022-08-12",
+    "date_updated": "2022-08-14",
+    "description": "Zimbra RCE simple poc",
+    "forks_count": 27,
+    "html_url": "https://github.com/vnhacker1337/CVE-2022-27925-PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-27925-PoC",
+    "repo_owner": "vnhacker1337",
+    "repotime": "2022-08-14, 01:54:58",
+    "stargazers_count": 63,
+    "watchers_count": 63
+}
+{
     "commits_count": 17,
     "date_started": "2019-07-02",
     "date_updated": "2022-08-12",
@@ -437,8 +556,8 @@
     "repo_name": "SneakyEXE",
     "repo_owner": "hackernese",
     "repotime": "2022-08-12, 22:24:01",
-    "stargazers_count": 95,
-    "watchers_count": 95
+    "stargazers_count": 96,
+    "watchers_count": 96
 }
 {
     "commits_count": 10,
@@ -499,7 +618,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/PowerIsCoding/BitRat-Cracked-SRC-2022",
     "keywords": [
-        "Windows remote code execution"
+        "Windows remote code execution exploit"
     ],
     "language": null,
     "repo_name": "BitRat-Cracked-SRC-2022",
@@ -556,8 +675,8 @@
     "repo_name": "blind-sql-bitshifting",
     "repo_owner": "awnumar",
     "repotime": "2022-08-07, 15:36:27",
-    "stargazers_count": 112,
-    "watchers_count": 112
+    "stargazers_count": 111,
+    "watchers_count": 111
 }
 {
     "commits_count": 4,
@@ -577,6 +696,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 5,
+    "date_started": "2022-05-19",
+    "date_updated": "2022-08-06",
+    "description": "Verifed Proof of Concept on CVE-2022-24086",
+    "forks_count": 3,
+    "html_url": "https://github.com/oK0mo/CVE-2022-24086-RCE-PoC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-24086-RCE-PoC",
+    "repo_owner": "oK0mo",
+    "repotime": "2022-08-06, 01:33:51",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-08-03",
+    "date_updated": "2022-08-06",
+    "description": "海康威视RCE漏洞 批量检测和利用工具",
+    "forks_count": 24,
+    "html_url": "https://github.com/Cuerz/CVE-2021-36260",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-36260",
+    "repo_owner": "Cuerz",
+    "repotime": "2022-08-06, 03:57:30",
+    "stargazers_count": 139,
+    "watchers_count": 139
+}
+{
     "commits_count": 7,
     "date_started": "2020-08-06",
     "date_updated": "2022-08-05",
@@ -590,8 +743,8 @@
     "repo_name": "uafuzz",
     "repo_owner": "strongcourage",
     "repotime": "2022-08-05, 09:06:35",
-    "stargazers_count": 331,
-    "watchers_count": 331
+    "stargazers_count": 335,
+    "watchers_count": 335
 }
 {
     "commits_count": 43,
@@ -607,6 +760,23 @@
     "repo_name": "Apollo",
     "repo_owner": "R46narok",
     "repotime": "2022-08-04, 17:39:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-07-30",
+    "date_updated": "2022-08-04",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bryanmillan/Final-Project",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": null,
+    "repo_name": "Final-Project",
+    "repo_owner": "Bryanmillan",
+    "repotime": "2022-08-04, 00:42:34",
     "stargazers_count": 0,
     "watchers_count": 0
 }

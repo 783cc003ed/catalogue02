@@ -80,8 +80,8 @@
     "repo_name": "LFIboomCTF",
     "repo_owner": "SewellDinG",
     "repotime": "2017-04-26, 13:55:17",
-    "stargazers_count": 164,
-    "watchers_count": 164
+    "stargazers_count": 165,
+    "watchers_count": 165
 }
 {
     "commits_count": 53,
@@ -203,6 +203,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 2,
+    "date_started": "2017-04-10",
+    "date_updated": "2017-04-12",
+    "description": "CVE-2017-3881 Cisco Catalyst Remote Code Execution PoC",
+    "forks_count": 82,
+    "html_url": "https://github.com/artkond/cisco-rce",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "cisco-rce",
+    "repo_owner": "artkond",
+    "repotime": "2017-04-12, 12:17:26",
+    "stargazers_count": 205,
+    "watchers_count": 205
+}
+{
     "commits_count": 3,
     "date_started": "2017-04-05",
     "date_updated": "2017-04-12",
@@ -210,14 +227,14 @@
     "forks_count": 1,
     "html_url": "https://github.com/un4ckn0wl3z/Mini-streamRM-MP3-Converter-version-3.1.2.1-ROP-Exploit-DEP-ASLR-Bypass",
     "keywords": [
-        "aslr bypass exploitation"
+        "aslr bypass exploit"
     ],
     "language": "Python",
     "repo_name": "Mini-streamRM-MP3-Converter-version-3.1.2.1-ROP-Exploit-DEP-ASLR-Bypass",
     "repo_owner": "un4ckn0wl3z",
     "repotime": "2017-04-12, 00:14:16",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 4,
@@ -250,8 +267,25 @@
     "repo_name": "ssrfDetector",
     "repo_owner": "JacobReynolds",
     "repotime": "2017-04-09, 21:21:46",
-    "stargazers_count": 146,
-    "watchers_count": 146
+    "stargazers_count": 148,
+    "watchers_count": 148
+}
+{
+    "commits_count": 7,
+    "date_started": "2017-04-05",
+    "date_updated": "2017-04-08",
+    "description": "My edit of qwertyoruiopz 4.0x exploit PoC from http://rce.party/ps4",
+    "forks_count": 17,
+    "html_url": "https://github.com/Cryptogenic/PS4-4.0x-Code-Execution-PoC",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "PS4-4.0x-Code-Execution-PoC",
+    "repo_owner": "Cryptogenic",
+    "repotime": "2017-04-08, 17:09:07",
+    "stargazers_count": 63,
+    "watchers_count": 63
 }
 {
     "commits_count": 3,

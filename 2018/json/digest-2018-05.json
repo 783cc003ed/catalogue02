@@ -29,25 +29,25 @@
     "repo_name": "AggressorScripts",
     "repo_owner": "bluscreenofjeff",
     "repotime": "2018-05-30, 15:20:21",
-    "stargazers_count": 780,
-    "watchers_count": 780
+    "stargazers_count": 782,
+    "watchers_count": 782
 }
 {
     "commits_count": 10,
     "date_started": "2018-05-19",
     "date_updated": "2018-05-30",
     "description": "CVE-2018-8120 Windows LPE exploit",
-    "forks_count": 191,
+    "forks_count": 190,
     "html_url": "https://github.com/rip1s/CVE-2018-8120",
     "keywords": [
-        "lpe exploit"
+        "Windows lpe"
     ],
     "language": "C++",
     "repo_name": "CVE-2018-8120",
     "repo_owner": "rip1s",
     "repotime": "2018-05-30, 21:09:52",
-    "stargazers_count": 493,
-    "watchers_count": 493
+    "stargazers_count": 494,
+    "watchers_count": 494
 }
 {
     "commits_count": 4,
@@ -65,6 +65,23 @@
     "repotime": "2018-05-28, 18:02:33",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-05-15",
+    "date_updated": "2018-05-25",
+    "description": "Exploit for Mass Remote Code Execution on GPON home routers (CVE-2018-10562) obtained from Shodan.",
+    "forks_count": 14,
+    "html_url": "https://github.com/649/Pingpon-Exploit",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Pingpon-Exploit",
+    "repo_owner": "649",
+    "repotime": "2018-05-25, 23:44:16",
+    "stargazers_count": 21,
+    "watchers_count": 21
 }
 {
     "commits_count": 3,
@@ -114,8 +131,8 @@
     "repo_name": "Azurite",
     "repo_owner": "FSecureLABS",
     "repotime": "2018-05-23, 23:48:55",
-    "stargazers_count": 250,
-    "watchers_count": 250
+    "stargazers_count": 249,
+    "watchers_count": 249
 }
 {
     "commits_count": 5,
@@ -148,8 +165,8 @@
     "repo_name": "SAML-XXE-Test",
     "repo_owner": "RUB-NDS",
     "repotime": "2018-05-18, 15:26:51",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 4,
@@ -216,8 +233,8 @@
     "repo_name": "SQL-injection-dorks-list",
     "repo_owner": "rootac355",
     "repotime": "2018-05-11, 18:56:04",
-    "stargazers_count": 115,
-    "watchers_count": 115
+    "stargazers_count": 117,
+    "watchers_count": 117
 }
 {
     "commits_count": 4,
@@ -356,6 +373,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 3,
+    "date_started": "2018-05-05",
+    "date_updated": "2018-05-05",
+    "description": "Python script for exploiting Werkzeug Debug RCE useful for CTF",
+    "forks_count": 22,
+    "html_url": "https://github.com/its-arun/Werkzeug-Debug-RCE",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Werkzeug-Debug-RCE",
+    "repo_owner": "its-arun",
+    "repotime": "2018-05-05, 14:49:49",
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
     "commits_count": 2,
     "date_started": "2018-05-04",
     "date_updated": "2018-05-04",
@@ -388,4 +422,21 @@
     "repotime": "2018-05-02, 20:50:28",
     "stargazers_count": 23,
     "watchers_count": 23
+}
+{
+    "commits_count": 9,
+    "date_started": "2018-04-29",
+    "date_updated": "2018-05-01",
+    "description": "Drupal &amp;lt; 7.58 - Drupalgeddon 3 Authenticated Remote Code Execution (Metasploit)",
+    "forks_count": 12,
+    "html_url": "https://github.com/rithchard/Drupalgeddon3",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "Drupalgeddon3",
+    "repo_owner": "rithchard",
+    "repotime": "2018-05-01, 16:57:32",
+    "stargazers_count": 26,
+    "watchers_count": 26
 }

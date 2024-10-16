@@ -12,8 +12,8 @@
     "repo_name": "09-SQL_Homework",
     "repo_owner": "smith-jj",
     "repotime": "2019-08-29, 13:10:36",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 3,
@@ -29,8 +29,8 @@
     "repo_name": "httprebind",
     "repo_owner": "daeken",
     "repotime": "2019-08-27, 18:56:49",
-    "stargazers_count": 291,
-    "watchers_count": 291
+    "stargazers_count": 293,
+    "watchers_count": 293
 }
 {
     "commits_count": 2,
@@ -48,6 +48,23 @@
     "repotime": "2019-08-25, 09:48:30",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-08-24",
+    "date_updated": "2019-08-24",
+    "description": "The official exploit code for Centreon v19.04 Remote Code Execution CVE-2019-13024",
+    "forks_count": 8,
+    "html_url": "https://github.com/mhaskar/CVE-2019-13024",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-13024",
+    "repo_owner": "mhaskar",
+    "repotime": "2019-08-24, 22:27:23",
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 3,
@@ -88,7 +105,7 @@
     "date_started": "2018-08-09",
     "date_updated": "2019-08-22",
     "description": "Live hunting of code injection techniques",
-    "forks_count": 89,
+    "forks_count": 90,
     "html_url": "https://github.com/marcosd4h/memhunter",
     "keywords": [
         "code injection"
@@ -97,8 +114,8 @@
     "repo_name": "memhunter",
     "repo_owner": "marcosd4h",
     "repotime": "2019-08-22, 12:46:34",
-    "stargazers_count": 364,
-    "watchers_count": 364
+    "stargazers_count": 374,
+    "watchers_count": 374
 }
 {
     "commits_count": 26,
@@ -133,6 +150,23 @@
     "repotime": "2019-08-20, 12:05:06",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-08-17",
+    "date_updated": "2019-08-19",
+    "description": "rce exploit , made to work with pocsuite3",
+    "forks_count": 60,
+    "html_url": "https://github.com/dorkerdevil/Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-",
+    "repo_owner": "dorkerdevil",
+    "repotime": "2019-08-19, 08:22:11",
+    "stargazers_count": 119,
+    "watchers_count": 119
 }
 {
     "commits_count": 9,
@@ -292,7 +326,7 @@
     "date_started": "2019-09-16",
     "date_updated": "2019-08-10",
     "description": "xss 跨站漏洞平台",
-    "forks_count": 67,
+    "forks_count": 68,
     "html_url": "https://github.com/do0dl3/xss-labs",
     "keywords": [
         "xss"
@@ -301,8 +335,8 @@
     "repo_name": "xss-labs",
     "repo_owner": "do0dl3",
     "repotime": "2019-08-10, 10:25:31",
-    "stargazers_count": 239,
-    "watchers_count": 239
+    "stargazers_count": 242,
+    "watchers_count": 242
 }
 {
     "commits_count": 6,
@@ -337,6 +371,23 @@
     "repotime": "2019-08-08, 13:28:37",
     "stargazers_count": 1052,
     "watchers_count": 1052
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-08-07",
+    "date_updated": "2019-08-08",
+    "description": "Baldr remote code execution exploit for versions &amp;lt;= v3",
+    "forks_count": 2,
+    "html_url": "https://github.com/EgeBalci/Baldr_Exploit",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Ruby",
+    "repo_name": "Baldr_Exploit",
+    "repo_owner": "EgeBalci",
+    "repotime": "2019-08-08, 09:31:11",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 4,

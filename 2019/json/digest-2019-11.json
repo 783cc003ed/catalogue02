@@ -46,8 +46,25 @@
     "repo_name": "Frampton",
     "repo_owner": "ins1gn1a",
     "repotime": "2019-11-24, 22:34:47",
-    "stargazers_count": 75,
-    "watchers_count": 75
+    "stargazers_count": 76,
+    "watchers_count": 76
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-11-22",
+    "date_updated": "2019-11-22",
+    "description": "A quick python exploit for the Nostromo 1.9.6 remote code execution vulnerability. Simply takes a host and port that the web server is running on. ",
+    "forks_count": 3,
+    "html_url": "https://github.com/AnubisSec/CVE-2019-16278",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-16278",
+    "repo_owner": "AnubisSec",
+    "repotime": "2019-11-22, 13:57:28",
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 7,
@@ -63,8 +80,25 @@
     "repo_name": "SQL-scanner",
     "repo_owner": "Bitwise-01",
     "repotime": "2019-11-22, 13:39:31",
-    "stargazers_count": 144,
-    "watchers_count": 144
+    "stargazers_count": 145,
+    "watchers_count": 145
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-11-22",
+    "date_updated": "2019-11-22",
+    "description": "Webmin 1.910 - Remote Code Execution Using Python Script",
+    "forks_count": 10,
+    "html_url": "https://github.com/roughiz/Webmin-1.910-Exploit-Script",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Webmin-1.910-Exploit-Script",
+    "repo_owner": "roughiz",
+    "repotime": "2019-11-22, 16:40:21",
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 8,
@@ -148,8 +182,8 @@
     "repo_name": "ccat",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2019-11-17, 11:16:23",
-    "stargazers_count": 578,
-    "watchers_count": 578
+    "stargazers_count": 586,
+    "watchers_count": 586
 }
 {
     "commits_count": 2,
@@ -169,6 +203,23 @@
     "watchers_count": 4
 }
 {
+    "commits_count": 10,
+    "date_started": "2019-10-25",
+    "date_updated": "2019-11-14",
+    "description": "RememberMe Padding Oracle Vulnerability RCE",
+    "forks_count": 16,
+    "html_url": "https://github.com/jas502n/SHIRO-721",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "SHIRO-721",
+    "repo_owner": "jas502n",
+    "repotime": "2019-11-14, 12:15:14",
+    "stargazers_count": 71,
+    "watchers_count": 71
+}
+{
     "commits_count": 6,
     "date_started": "2019-11-13",
     "date_updated": "2019-11-13",
@@ -186,21 +237,55 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 47,
+    "date_started": "2019-10-27",
+    "date_updated": "2019-11-13",
+    "description": "FUDForum 3.0.9 - XSS / Remote Code Execution (CVE-2019-18873, CVE-2019-18839)",
+    "forks_count": 4,
+    "html_url": "https://github.com/fuzzlove/FUDforum-XSS-RCE",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "FUDforum-XSS-RCE",
+    "repo_owner": "fuzzlove",
+    "repotime": "2019-11-13, 15:56:13",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-11-13",
+    "date_updated": "2019-11-13",
+    "description": "exploit Apache Flink Web Dashboard unauth rce on right way by python2 scripts",
+    "forks_count": 19,
+    "html_url": "https://github.com/LandGrey/flink-unauth-rce",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "flink-unauth-rce",
+    "repo_owner": "LandGrey",
+    "repotime": "2019-11-13, 23:35:41",
+    "stargazers_count": 88,
+    "watchers_count": 88
+}
+{
     "commits_count": 40,
     "date_started": "2019-10-30",
     "date_updated": "2019-11-12",
     "description": "Introduction to R  R is a programming language, which is an object oriented language created by Statisticians, R provides objects, operators and functions that allow the user to explore, model and visualize data.  R is a Programming language Developed at AT&amp;amp;T Bell Lab.  It is an open source free language, allowing anyone to use and modify it. R is licensed under the GNU General Public License, with copyright held by The R Foundation For Statistical Computing. It has no need to pay any subscription charges  R has a huge active community member. If you have any question about any function any library you can Google it and you would get a proper answer and right the way.  As it is an open source language, you, me and lots of Data Scientist, they actually built in all those, inbuilt function and they upload it in a website called CRAN and then you can download all those packages. Over 7800 packages listed on CRAN, here we listed some of the most powerful and commonly used in R packages...",
-    "forks_count": 3,
+    "forks_count": 2,
     "html_url": "https://github.com/akaidkhan/Data_Science_with_R",
     "keywords": [
-        "Windows use after free poc"
+        "Windows use after free analysis"
     ],
     "language": "R",
     "repo_name": "Data_Science_with_R",
     "repo_owner": "akaidkhan",
     "repotime": "2019-11-12, 09:58:04",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 3,
@@ -233,6 +318,57 @@
     "repo_name": "sse-xxe",
     "repo_owner": "Mall0c",
     "repotime": "2019-11-11, 15:06:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-11-10",
+    "date_updated": "2019-11-10",
+    "description": "The official exploit for rConfig 3.9.2 Post-auth Remote Code Execution CVE-2019-16663",
+    "forks_count": 5,
+    "html_url": "https://github.com/mhaskar/CVE-2019-16663",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-16663",
+    "repo_owner": "mhaskar",
+    "repotime": "2019-11-10, 20:28:40",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-11-10",
+    "date_updated": "2019-11-10",
+    "description": "The official exploit for rConfig 3.9.2 Pre-auth Remote Code Execution CVE-2019-16662",
+    "forks_count": 5,
+    "html_url": "https://github.com/mhaskar/CVE-2019-16662",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-16662",
+    "repo_owner": "mhaskar",
+    "repotime": "2019-11-10, 20:27:02",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 18,
+    "date_started": "2019-10-03",
+    "date_updated": "2019-11-10",
+    "description": "Analysis of the Jackson Databind CVE's",
+    "forks_count": 1,
+    "html_url": "https://github.com/s3curitybug/jackson-databind-cves",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Java",
+    "repo_name": "jackson-databind-cves",
+    "repo_owner": "s3curitybug",
+    "repotime": "2019-11-10, 12:27:30",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -271,6 +407,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 17,
+    "date_started": "2019-11-01",
+    "date_updated": "2019-11-02",
+    "description": "WebLogic EJBTaglibDescriptor XXE漏洞(CVE-2019-2888)",
+    "forks_count": 24,
+    "html_url": "https://github.com/jas502n/CVE-2019-2888",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2019-2888",
+    "repo_owner": "jas502n",
+    "repotime": "2019-11-02, 18:47:45",
+    "stargazers_count": 58,
+    "watchers_count": 58
+}
+{
     "commits_count": 18,
     "date_started": "2019-11-01",
     "date_updated": "2019-11-02",
@@ -286,4 +439,21 @@
     "repotime": "2019-11-02, 15:18:02",
     "stargazers_count": 44,
     "watchers_count": 44
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-10-24",
+    "date_updated": "2019-11-01",
+    "description": "Remote Code Execution Vulnerability in Webmin",
+    "forks_count": 5,
+    "html_url": "https://github.com/AleWong/WebminRCE-EXP-CVE-2019-15107-",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "WebminRCE-EXP-CVE-2019-15107-",
+    "repo_owner": "AleWong",
+    "repotime": "2019-11-01, 15:16:09",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }

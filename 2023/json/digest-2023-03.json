@@ -1,4 +1,21 @@
 {
+    "commits_count": 63,
+    "date_started": "2018-01-06",
+    "date_updated": "2023-03-31",
+    "description": "A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.",
+    "forks_count": 349,
+    "html_url": "https://github.com/1N3/BlackWidow",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "BlackWidow",
+    "repo_owner": "1N3",
+    "repotime": "2023-03-31, 10:43:46",
+    "stargazers_count": 1509,
+    "watchers_count": 1509
+}
+{
     "commits_count": 1,
     "date_started": "2023-03-31",
     "date_updated": "2023-03-31",
@@ -305,21 +322,21 @@
     "watchers_count": 12
 }
 {
-    "commits_count": 8,
-    "date_started": "2023-02-25",
-    "date_updated": "2023-03-19",
-    "description": "A privilege escalation vulnerability exists in Windows due to a flaw in the implementation of the Atom Table. An attacker could exploit this vulnerability by injecting malicious code into the Atom Table and hijacking a legitimate thread to execute the code in the context of a higher privileged process.",
-    "forks_count": 6,
-    "html_url": "https://github.com/SleepTheGod/Windows-Atom-Table-Hijacking",
+    "commits_count": 3,
+    "date_started": "2023-03-18",
+    "date_updated": "2023-03-18",
+    "description": "CVE-2022-22963 is a vulnerability in the Spring Cloud Function Framework for Java that allows remote code execution. This python script will verify if the vulnerability exists, and if it does, will give you a reverse shell.",
+    "forks_count": 3,
+    "html_url": "https://github.com/J0ey17/CVE-2022-22963_Reverse-Shell-Exploit",
     "keywords": [
-        "Win escalation of privileges"
+        "remote code execution vulnerability"
     ],
-    "language": "C",
-    "repo_name": "Windows-Atom-Table-Hijacking",
-    "repo_owner": "SleepTheGod",
-    "repotime": "2023-03-19, 05:25:17",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "language": "Python",
+    "repo_name": "CVE-2022-22963_Reverse-Shell-Exploit",
+    "repo_owner": "J0ey17",
+    "repotime": "2023-03-18, 17:17:55",
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 2,
@@ -352,8 +369,8 @@
     "repo_name": "XXE-study",
     "repo_owner": "HLOverflow",
     "repotime": "2023-03-16, 13:16:59",
-    "stargazers_count": 95,
-    "watchers_count": 95
+    "stargazers_count": 99,
+    "watchers_count": 99
 }
 {
     "commits_count": 4,
@@ -369,8 +386,25 @@
     "repo_name": "CVE-2023-23397_EXPLOIT_0DAY",
     "repo_owner": "sqrtZeroKnowledge",
     "repotime": "2023-03-15, 18:53:53",
-    "stargazers_count": 159,
-    "watchers_count": 159
+    "stargazers_count": 158,
+    "watchers_count": 158
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-03-15",
+    "date_updated": "2023-03-15",
+    "description": "Proof of concept exploit code for CVE-2020-7388, an unauthenticated RCE as SYSTEM on Sage X3's AdxDSrv Service",
+    "forks_count": 0,
+    "html_url": "https://github.com/ac3lives/sagex3-cve-2020-7388-poc",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "sagex3-cve-2020-7388-poc",
+    "repo_owner": "ac3lives",
+    "repotime": "2023-03-15, 11:24:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 7,
@@ -445,7 +479,7 @@
     "date_started": "2017-02-24",
     "date_updated": "2023-03-09",
     "description": "Wiki to collect Red Team infrastructure hardening resources",
-    "forks_count": 893,
+    "forks_count": 900,
     "html_url": "https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki",
     "keywords": [
         "by_owner"
@@ -454,8 +488,8 @@
     "repo_name": "Red-Team-Infrastructure-Wiki",
     "repo_owner": "bluscreenofjeff",
     "repotime": "2023-03-09, 12:53:32",
-    "stargazers_count": 4051,
-    "watchers_count": 4051
+    "stargazers_count": 4126,
+    "watchers_count": 4126
 }
 {
     "commits_count": 219,
@@ -522,8 +556,8 @@
     "repo_name": "injectAmsiBypass",
     "repo_owner": "boku7",
     "repotime": "2023-03-08, 08:54:57",
-    "stargazers_count": 374,
-    "watchers_count": 374
+    "stargazers_count": 376,
+    "watchers_count": 376
 }
 {
     "commits_count": 2,
@@ -533,14 +567,14 @@
     "forks_count": 7,
     "html_url": "https://github.com/gyaansastra/CVE-2023-21716",
     "keywords": [
-        "Microsoft remote code execution vulnerability"
+        "Microsoft remote code execution"
     ],
     "language": null,
     "repo_name": "CVE-2023-21716",
     "repo_owner": "gyaansastra",
     "repotime": "2023-03-08, 17:21:58",
-    "stargazers_count": 60,
-    "watchers_count": 60
+    "stargazers_count": 59,
+    "watchers_count": 59
 }
 {
     "commits_count": 8,
@@ -607,8 +641,42 @@
     "repo_name": "spring-spel-0day-poc",
     "repo_owner": "hktalent",
     "repotime": "2023-03-05, 20:41:19",
-    "stargazers_count": 353,
-    "watchers_count": 353
+    "stargazers_count": 354,
+    "watchers_count": 354
+}
+{
+    "commits_count": 45,
+    "date_started": "2020-01-19",
+    "date_updated": "2023-03-05",
+    "description": "how detect CVE-2020-2551 poc exploit python Weblogic RCE with IIOP",
+    "forks_count": 49,
+    "html_url": "https://github.com/hktalent/CVE-2020-2551",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-2551",
+    "repo_owner": "hktalent",
+    "repotime": "2023-03-05, 20:40:58",
+    "stargazers_count": 212,
+    "watchers_count": 212
+}
+{
+    "commits_count": 77,
+    "date_started": "2015-04-05",
+    "date_updated": "2023-03-05",
+    "description": "a collection of Metasploit PoC exploits I wrote for IRC Botnets that allows RCE",
+    "forks_count": 25,
+    "html_url": "https://github.com/shipcod3/IRC-Bot-Hunters",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "C",
+    "repo_name": "IRC-Bot-Hunters",
+    "repo_owner": "shipcod3",
+    "repotime": "2023-03-05, 19:42:58",
+    "stargazers_count": 76,
+    "watchers_count": 76
 }
 {
     "commits_count": 2,

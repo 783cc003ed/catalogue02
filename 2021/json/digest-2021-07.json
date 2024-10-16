@@ -29,8 +29,42 @@
     "repo_name": "Windows-x64-Processes-Injector",
     "repo_owner": "0dayNinja",
     "repotime": "2021-07-30, 13:00:48",
-    "stargazers_count": 48,
-    "watchers_count": 48
+    "stargazers_count": 50,
+    "watchers_count": 50
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-07-30",
+    "date_updated": "2021-07-30",
+    "description": "Aruba Instant (IAP) - Remote Code Execution Exploit",
+    "forks_count": 4,
+    "html_url": "https://github.com/0dayNinja/2021-25157",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "2021-25157",
+    "repo_owner": "0dayNinja",
+    "repotime": "2021-07-30, 12:40:23",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-07-30",
+    "date_updated": "2021-07-30",
+    "description": "WordPress Backup Guard Authenticated Remote Code Execution Exploit",
+    "forks_count": 7,
+    "html_url": "https://github.com/0dayNinja/CVE-2021-24155.rb",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2021-24155.rb",
+    "repo_owner": "0dayNinja",
+    "repotime": "2021-07-30, 12:35:54",
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 3,
@@ -84,6 +118,23 @@
     "watchers_count": 9
 }
 {
+    "commits_count": 3,
+    "date_started": "2021-07-28",
+    "date_updated": "2021-07-28",
+    "description": "This is a reference implementation of paper Bringing Old Photos Back to Life, CVPR2020 (Oral) by Ziyu Wan1, Bo Zhang2, Dongdong Chen3, Pan Zhang4, Dong Chen2, Jing Liao1, Fang Wen2 City University of Hong Kong, Microsoft Research Asia, Microsoft Cloud AI, 4 USTC   After placing an old photo restore example in this group I got several requests for doing the work for their personal image or some important historic image they have. Doing it individually is a time taken job hence I have created this colab notebook for the same.  Through this colab notebook we have tried to make a simple free web based old photo editor so that this can be easily used by any person with limited technical knowledge. And this appears like a web page for restoring their personal photos. Click on the play button at the corner of each code block. There are two code blocks. The first one is to download pre trained models, hence it takes some time. This first block needs to be executed only once for a session. The ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/shatadal88/Simple-Old-photo-restore-",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Simple-Old-photo-restore-",
+    "repo_owner": "shatadal88",
+    "repotime": "2021-07-28, 15:14:41",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 18,
     "date_started": "2021-06-03",
     "date_updated": "2021-07-27",
@@ -97,8 +148,8 @@
     "repo_name": "CodeInjection",
     "repo_owner": "11philip22",
     "repotime": "2021-07-27, 11:42:34",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 15,
@@ -119,23 +170,6 @@
 }
 {
     "commits_count": 6,
-    "date_started": "2021-12-17",
-    "date_updated": "2021-07-26",
-    "description": "A Windows Kernel LPE exploit for HEVD.sys targeting a stack overflow vulnerability on Windows 10 64-bit 1607 (RS1)",
-    "forks_count": 3,
-    "html_url": "https://github.com/HaShem9/HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
-    "keywords": [
-        "lpe exploit"
-    ],
-    "language": null,
-    "repo_name": "HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
-    "repo_owner": "HaShem9",
-    "repotime": "2021-07-26, 21:52:44",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 6,
     "date_started": "2021-07-27",
     "date_updated": "2021-07-26",
     "description": "A Windows Kernel LPE exploit for HEVD.sys targeting a stack overflow vulnerability on Windows 10 64-bit 1607 (RS1)",
@@ -150,6 +184,23 @@
     "repotime": "2021-07-26, 21:52:44",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-12-17",
+    "date_updated": "2021-07-26",
+    "description": "A Windows Kernel LPE exploit for HEVD.sys targeting a stack overflow vulnerability on Windows 10 64-bit 1607 (RS1)",
+    "forks_count": 3,
+    "html_url": "https://github.com/HaShem9/HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": null,
+    "repo_name": "HEVD-Kernel-Stack-BOF-SMEP-Win10-64bit-1607",
+    "repo_owner": "HaShem9",
+    "repotime": "2021-07-26, 21:52:44",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 4,
@@ -182,8 +233,8 @@
     "repo_name": "SharpRDPHijack",
     "repo_owner": "bohops",
     "repotime": "2021-07-25, 13:36:01",
-    "stargazers_count": 413,
-    "watchers_count": 413
+    "stargazers_count": 421,
+    "watchers_count": 421
 }
 {
     "commits_count": 7,
@@ -224,7 +275,7 @@
     "date_started": "2017-08-19",
     "date_updated": "2021-07-22",
     "description": "Web-Security-Learning",
-    "forks_count": 1013,
+    "forks_count": 1012,
     "html_url": "https://github.com/CHYbeta/Web-Security-Learning",
     "keywords": [
         "xss"
@@ -233,8 +284,8 @@
     "repo_name": "Web-Security-Learning",
     "repo_owner": "CHYbeta",
     "repotime": "2021-07-22, 12:56:40",
-    "stargazers_count": 4183,
-    "watchers_count": 4183
+    "stargazers_count": 4195,
+    "watchers_count": 4195
 }
 {
     "commits_count": 4,
@@ -284,8 +335,8 @@
     "repo_name": "dsnap",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2021-07-16, 15:47:29",
-    "stargazers_count": 70,
-    "watchers_count": 70
+    "stargazers_count": 73,
+    "watchers_count": 73
 }
 {
     "commits_count": 6,
@@ -301,8 +352,8 @@
     "repo_name": "windows-kernel-process-protector",
     "repo_owner": "Rhydon1337",
     "repotime": "2021-07-16, 20:52:05",
-    "stargazers_count": 33,
-    "watchers_count": 33
+    "stargazers_count": 34,
+    "watchers_count": 34
 }
 {
     "commits_count": 24,
@@ -320,6 +371,23 @@
     "repotime": "2021-07-16, 15:29:59",
     "stargazers_count": 8,
     "watchers_count": 8
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-06-03",
+    "date_updated": "2021-07-15",
+    "description": "JAVA 漏洞靶场 (Vulnerability Environment For Java)",
+    "forks_count": 106,
+    "html_url": "https://github.com/tangxiaofeng7/SecExample",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "SecExample",
+    "repo_owner": "tangxiaofeng7",
+    "repotime": "2021-07-15, 17:11:24",
+    "stargazers_count": 429,
+    "watchers_count": 429
 }
 {
     "commits_count": 1,
@@ -386,8 +454,8 @@
     "repo_name": "byeintegrity5-uac",
     "repo_owner": "AzAgarampur",
     "repotime": "2021-07-12, 12:57:25",
-    "stargazers_count": 26,
-    "watchers_count": 26
+    "stargazers_count": 27,
+    "watchers_count": 27
 }
 {
     "commits_count": 9,
@@ -403,8 +471,8 @@
     "repo_name": "byeintegrity4-uac",
     "repo_owner": "AzAgarampur",
     "repotime": "2021-07-12, 12:57:11",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 7,
@@ -488,8 +556,8 @@
     "repo_name": "PwnSSRF",
     "repo_owner": "pwn0sec",
     "repotime": "2021-07-12, 07:16:12",
-    "stargazers_count": 70,
-    "watchers_count": 70
+    "stargazers_count": 71,
+    "watchers_count": 71
 }
 {
     "commits_count": 21,
@@ -526,21 +594,38 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4,
+    "date_started": "2021-05-25",
+    "date_updated": "2021-07-09",
+    "description": "POC for CVE-2021-21974 VMWare ESXi RCE Exploit",
+    "forks_count": 42,
+    "html_url": "https://github.com/Shadow0ps/CVE-2021-21974",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-21974",
+    "repo_owner": "Shadow0ps",
+    "repotime": "2021-07-09, 15:38:41",
+    "stargazers_count": 173,
+    "watchers_count": 173
+}
+{
     "commits_count": 5,
     "date_started": "2021-07-09",
     "date_updated": "2021-07-09",
     "description": "Learn how to automate XSS, SSRF, LFI, SQLI, NoSQLi",
-    "forks_count": 10,
+    "forks_count": 11,
     "html_url": "https://github.com/DevanshRaghav75/AutomationGuide",
     "keywords": [
-        "ssrf"
+        "lfi"
     ],
     "language": null,
     "repo_name": "AutomationGuide",
     "repo_owner": "DevanshRaghav75",
     "repotime": "2021-07-09, 15:19:00",
-    "stargazers_count": 33,
-    "watchers_count": 33
+    "stargazers_count": 36,
+    "watchers_count": 36
 }
 {
     "commits_count": 7,
@@ -590,8 +675,8 @@
     "repo_name": "ssrf_vul",
     "repo_owner": "Duoduo-chino",
     "repotime": "2021-07-07, 14:51:00",
-    "stargazers_count": 29,
-    "watchers_count": 29
+    "stargazers_count": 34,
+    "watchers_count": 34
 }
 {
     "commits_count": 17,
@@ -607,8 +692,25 @@
     "repo_name": "PageTableInjection",
     "repo_owner": "kkent030315",
     "repotime": "2021-07-07, 09:02:29",
-    "stargazers_count": 213,
-    "watchers_count": 213
+    "stargazers_count": 224,
+    "watchers_count": 224
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-07-06",
+    "date_updated": "2021-07-06",
+    "description": "A proof of concept script for the RCE found in PHP version 8.1.0-dev, by invoking &amp;quot;User-Agentt: zerodiumsystem&amp;quot; backdoor placed in the PHP source code.",
+    "forks_count": 1,
+    "html_url": "https://github.com/AN0NIT/PHP-8.1.0-dev_RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "PHP-8.1.0-dev_RCE",
+    "repo_owner": "AN0NIT",
+    "repotime": "2021-07-06, 04:34:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 1,
@@ -624,8 +726,8 @@
     "repo_name": "hecker",
     "repo_owner": "wahid987654321",
     "repotime": "2021-07-06, 15:24:11",
-    "stargazers_count": 34,
-    "watchers_count": 34
+    "stargazers_count": 38,
+    "watchers_count": 38
 }
 {
     "commits_count": 147,
@@ -669,14 +771,14 @@
     "forks_count": 79,
     "html_url": "https://github.com/hlldz/CVE-2021-1675-LPE",
     "keywords": [
-        "lpe exploit"
+        "Windows lpe"
     ],
     "language": "C",
     "repo_name": "CVE-2021-1675-LPE",
     "repo_owner": "hlldz",
     "repotime": "2021-07-05, 09:46:12",
-    "stargazers_count": 329,
-    "watchers_count": 329
+    "stargazers_count": 330,
+    "watchers_count": 330
 }
 {
     "commits_count": 2,

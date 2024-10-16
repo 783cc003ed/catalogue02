@@ -1,4 +1,38 @@
 {
+    "commits_count": 4,
+    "date_started": "2023-01-31",
+    "date_updated": "2023-01-31",
+    "description": "Vulnerability CVE-2021-44228 allows remote code execution without authentication for several versions of Apache Log4j2 (Log4Shell). Attackers can exploit vulnerable servers by connecting over any protocol, such as HTTPS, and sending a specially crafted string.",
+    "forks_count": 2,
+    "html_url": "https://github.com/demining/Log4j-Vulnerability",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Log4j-Vulnerability",
+    "repo_owner": "demining",
+    "repotime": "2023-01-31, 23:35:59",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-30",
+    "date_updated": "2023-01-31",
+    "description": "POC for RCE using vulnerabilities described in VMSA-2023-0001",
+    "forks_count": 24,
+    "html_url": "https://github.com/horizon3ai/vRealizeLogInsightRCE",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "vRealizeLogInsightRCE",
+    "repo_owner": "horizon3ai",
+    "repotime": "2023-01-31, 06:41:08",
+    "stargazers_count": 149,
+    "watchers_count": 149
+}
+{
     "commits_count": 2,
     "date_started": "2023-01-31",
     "date_updated": "2023-01-31",
@@ -33,6 +67,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 3,
+    "date_started": "2023-01-29",
+    "date_updated": "2023-01-29",
+    "description": "The official exploit for Froxlor Remote Code Execution CVE-2023-0315",
+    "forks_count": 3,
+    "html_url": "https://github.com/mhaskar/CVE-2023-0315",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-0315",
+    "repo_owner": "mhaskar",
+    "repotime": "2023-01-29, 21:23:55",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 8,
     "date_started": "2023-01-29",
     "date_updated": "2023-01-29",
@@ -54,7 +105,7 @@
     "date_started": "2021-10-28",
     "date_updated": "2023-01-28",
     "description": "Unauthenticated enumeration of AWS, Azure, and GCP Principals",
-    "forks_count": 28,
+    "forks_count": 29,
     "html_url": "https://github.com/righteousgambit/quiet-riot",
     "keywords": [
         "unauthenticated user"
@@ -63,8 +114,8 @@
     "repo_name": "quiet-riot",
     "repo_owner": "righteousgambit",
     "repotime": "2023-01-28, 22:38:47",
-    "stargazers_count": 197,
-    "watchers_count": 197
+    "stargazers_count": 201,
+    "watchers_count": 201
 }
 {
     "commits_count": 3,
@@ -99,6 +150,23 @@
     "repotime": "2023-01-26, 20:37:37",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2022-06-21",
+    "date_updated": "2023-01-26",
+    "description": "<no description>",
+    "forks_count": 5,
+    "html_url": "https://github.com/semgrep/java-xxe-research",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "java-xxe-research",
+    "repo_owner": "semgrep",
+    "repotime": "2023-01-26, 08:26:38",
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 13,
@@ -148,8 +216,8 @@
     "repo_name": "cve-2021-42013",
     "repo_owner": "walnutsecurity",
     "repotime": "2023-01-23, 22:11:56",
-    "stargazers_count": 23,
-    "watchers_count": 23
+    "stargazers_count": 24,
+    "watchers_count": 24
 }
 {
     "commits_count": 10,
@@ -250,8 +318,8 @@
     "repo_name": "bXSS",
     "repo_owner": "LewisArdern",
     "repotime": "2023-01-17, 16:45:07",
-    "stargazers_count": 500,
-    "watchers_count": 500
+    "stargazers_count": 503,
+    "watchers_count": 503
 }
 {
     "commits_count": 6,
@@ -318,8 +386,8 @@
     "repo_name": "cybersecurity-zero-day",
     "repo_owner": "paulveillard",
     "repotime": "2023-01-12, 15:53:55",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 53,
@@ -393,6 +461,23 @@
     "commits_count": 2,
     "date_started": "2023-01-07",
     "date_updated": "2023-01-07",
+    "description": "Proof of concept for the command injection vulnerability affecting the ZTE MF286R router, including an RCE exploit.",
+    "forks_count": 4,
+    "html_url": "https://github.com/v0lp3/CVE-2022-39073",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-39073",
+    "repo_owner": "v0lp3",
+    "repotime": "2023-01-07, 21:54:00",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-01-07",
+    "date_updated": "2023-01-07",
     "description": "CVE-2021-38003 exploits extracted from https://twitter.com/WhichbufferArda/status/1609604183535284224",
     "forks_count": 13,
     "html_url": "https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003",
@@ -420,8 +505,8 @@
     "repo_name": "CVE-2020-12800",
     "repo_owner": "amartinsec",
     "repotime": "2023-01-06, 18:08:57",
-    "stargazers_count": 25,
-    "watchers_count": 25
+    "stargazers_count": 26,
+    "watchers_count": 26
 }
 {
     "commits_count": 2,
@@ -507,6 +592,23 @@
     "repotime": "2023-01-04, 18:46:48",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-06-25",
+    "date_updated": "2023-01-03",
+    "description": "A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution.",
+    "forks_count": 2,
+    "html_url": "https://github.com/kahla-sec/CVE-2021-27850_POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2021-27850_POC",
+    "repo_owner": "kahla-sec",
+    "repotime": "2023-01-03, 14:46:34",
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 3,

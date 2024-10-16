@@ -12,8 +12,8 @@
     "repo_name": "NodeMCU-ESP8266",
     "repo_owner": "dfalt0",
     "repotime": "2023-09-28, 02:37:33",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 2,
@@ -29,8 +29,8 @@
     "repo_name": "CVE-2023-32364-macos-app-sandbox-escape",
     "repo_owner": "gergelykalman",
     "repotime": "2023-09-26, 16:44:01",
-    "stargazers_count": 20,
-    "watchers_count": 20
+    "stargazers_count": 21,
+    "watchers_count": 21
 }
 {
     "commits_count": 1,
@@ -82,6 +82,23 @@
     "repotime": "2023-09-25, 15:39:20",
     "stargazers_count": 62,
     "watchers_count": 62
+}
+{
+    "commits_count": 3,
+    "date_started": "2023-09-24",
+    "date_updated": "2023-09-24",
+    "description": "A Proof of Concept for chaining the CVEs [CVE-2023-36844, CVE-2023-36845, CVE-2023-36846, CVE-2023-36847] to achieve Remote Code Execution (phpinfo) in Juniper JunOS within SRX and EX Series products.Modified from original exploit developed by @watchTowr .",
+    "forks_count": 2,
+    "html_url": "https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-36844_Juniper_RCE",
+    "repo_owner": "r3dcl1ff",
+    "repotime": "2023-09-24, 15:36:08",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 13,
@@ -176,14 +193,14 @@
     "forks_count": 74,
     "html_url": "https://github.com/chennqqi/godnslog",
     "keywords": [
-        "xxe"
+        "rce vulnerability"
     ],
     "language": "Go",
     "repo_name": "godnslog",
     "repo_owner": "chennqqi",
     "repotime": "2023-09-16, 22:39:13",
-    "stargazers_count": 469,
-    "watchers_count": 469
+    "stargazers_count": 470,
+    "watchers_count": 470
 }
 {
     "commits_count": 7,
@@ -199,8 +216,8 @@
     "repo_name": "SspiUacBypass",
     "repo_owner": "antonioCoco",
     "repotime": "2023-09-14, 23:03:22",
-    "stargazers_count": 334,
-    "watchers_count": 334
+    "stargazers_count": 339,
+    "watchers_count": 339
 }
 {
     "commits_count": 17,
@@ -275,7 +292,7 @@
     "date_started": "2022-05-08",
     "date_updated": "2023-09-12",
     "description": "<no description>",
-    "forks_count": 17,
+    "forks_count": 16,
     "html_url": "https://github.com/Sq00ky/SMB-Session-Spoofing",
     "keywords": [
         "spoofing session"
@@ -284,8 +301,8 @@
     "repo_name": "SMB-Session-Spoofing",
     "repo_owner": "Sq00ky",
     "repotime": "2023-09-12, 21:44:02",
-    "stargazers_count": 117,
-    "watchers_count": 117
+    "stargazers_count": 118,
+    "watchers_count": 118
 }
 {
     "commits_count": 6,
@@ -377,7 +394,7 @@
     "date_started": "2017-10-31",
     "date_updated": "2023-09-11",
     "description": "the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&amp;amp;java scripts, device memory extraction, data decryption, and encryption, etc. ",
-    "forks_count": 508,
+    "forks_count": 525,
     "html_url": "https://github.com/charles2gan/GDA-android-reversing-Tool",
     "keywords": [
         "memory leak vulnerability"
@@ -386,8 +403,8 @@
     "repo_name": "GDA-android-reversing-Tool",
     "repo_owner": "charles2gan",
     "repotime": "2023-09-11, 12:59:51",
-    "stargazers_count": 4089,
-    "watchers_count": 4089
+    "stargazers_count": 4158,
+    "watchers_count": 4158
 }
 {
     "commits_count": 6,
@@ -420,8 +437,8 @@
     "repo_name": "Winrar_0-day_RCE_Exploitation",
     "repo_owner": "sadnansakin",
     "repotime": "2023-09-11, 02:17:40",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 7,
@@ -439,6 +456,23 @@
     "repotime": "2023-09-10, 04:36:35",
     "stargazers_count": 11,
     "watchers_count": 11
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-09-08",
+    "date_updated": "2023-09-08",
+    "description": "A single byte modification in the kernel memory bypasses and disables all core functions of the AV/EDR security solutions",
+    "forks_count": 0,
+    "html_url": "https://github.com/ByteWhite1x1/EDR-bypass-disable-PspNotifyEnableMask",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "EDR-bypass-disable-PspNotifyEnableMask",
+    "repo_owner": "ByteWhite1x1",
+    "repotime": "2023-09-08, 14:17:24",
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 6,
@@ -564,7 +598,7 @@
     "date_started": "2015-03-12",
     "date_updated": "2023-09-04",
     "description": "㊙️ AntiXSS | Protection against Cross-site scripting (XSS) via PHP",
-    "forks_count": 103,
+    "forks_count": 105,
     "html_url": "https://github.com/voku/anti-xss",
     "keywords": [
         "xss"
@@ -573,8 +607,8 @@
     "repo_name": "anti-xss",
     "repo_owner": "voku",
     "repotime": "2023-09-04, 17:36:40",
-    "stargazers_count": 676,
-    "watchers_count": 676
+    "stargazers_count": 678,
+    "watchers_count": 678
 }
 {
     "commits_count": 1,
@@ -615,7 +649,7 @@
     "date_started": "2020-12-16",
     "date_updated": "2023-09-03",
     "description": "Demonstrates SQL injection attacks using malicious SQL queries and SQL prevention techniques.",
-    "forks_count": 16,
+    "forks_count": 17,
     "html_url": "https://github.com/AswinBarath/sql-injection-and-prevention",
     "keywords": [
         "sql injection"
@@ -683,7 +717,7 @@
     "date_started": "2017-07-23",
     "date_updated": "2023-09-01",
     "description": "A ruby gem for defending against Server Side Request Forgery (SSRF) attacks",
-    "forks_count": 31,
+    "forks_count": 30,
     "html_url": "https://github.com/arkadiyt/ssrf_filter",
     "keywords": [
         "ssrf"
@@ -692,8 +726,8 @@
     "repo_name": "ssrf_filter",
     "repo_owner": "arkadiyt",
     "repotime": "2023-09-01, 12:23:35",
-    "stargazers_count": 78,
-    "watchers_count": 78
+    "stargazers_count": 80,
+    "watchers_count": 80
 }
 {
     "commits_count": 2,
@@ -726,8 +760,8 @@
     "repo_name": "CVE-2023-35001",
     "repo_owner": "synacktiv",
     "repotime": "2023-09-01, 09:48:33",
-    "stargazers_count": 156,
-    "watchers_count": 156
+    "stargazers_count": 157,
+    "watchers_count": 157
 }
 {
     "commits_count": 4,

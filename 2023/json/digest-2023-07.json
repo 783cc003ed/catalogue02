@@ -46,8 +46,8 @@
     "repo_name": "CVE-2018-5955",
     "repo_owner": "MikeTheHash",
     "repotime": "2023-07-29, 20:15:49",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 12,
@@ -88,7 +88,7 @@
     "date_started": "2013-10-21",
     "date_updated": "2023-07-28",
     "description": "Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns",
-    "forks_count": 406,
+    "forks_count": 407,
     "html_url": "https://github.com/v3n0m-Scanner/V3n0M-Scanner",
     "keywords": [
         "lfi"
@@ -97,8 +97,8 @@
     "repo_name": "V3n0M-Scanner",
     "repo_owner": "v3n0m-Scanner",
     "repotime": "2023-07-28, 15:05:27",
-    "stargazers_count": 1448,
-    "watchers_count": 1448
+    "stargazers_count": 1459,
+    "watchers_count": 1459
 }
 {
     "commits_count": 3,
@@ -165,8 +165,8 @@
     "repo_name": "sqlifinder",
     "repo_owner": "americo",
     "repotime": "2023-07-27, 17:22:47",
-    "stargazers_count": 326,
-    "watchers_count": 326
+    "stargazers_count": 330,
+    "watchers_count": 330
 }
 {
     "commits_count": 4,
@@ -306,6 +306,23 @@
 }
 {
     "commits_count": 3,
+    "date_started": "2023-07-19",
+    "date_updated": "2023-07-19",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/marskzj/QVD-2023-13615_TPlus-remote-code-execution-vulnerability",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "QVD-2023-13615_TPlus-remote-code-execution-vulnerability",
+    "repo_owner": "marskzj",
+    "repotime": "2023-07-19, 11:30:43",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
     "date_started": "2023-07-18",
     "date_updated": "2023-07-19",
     "description": "JavaScript is a client-side programming language that allows web developers to write customized client-side scripts to make web pages more dynamic and interactive. At the same time, developers can create server-side code in JavaScript using cross-platform runtime engines like Node.js",
@@ -420,18 +437,18 @@
     "repo_name": "CVE-2023-3338-DECPwn",
     "repo_owner": "TurtleARM",
     "repotime": "2023-07-12, 01:13:09",
-    "stargazers_count": 35,
-    "watchers_count": 35
+    "stargazers_count": 36,
+    "watchers_count": 36
 }
 {
     "commits_count": 17,
     "date_started": "2023-03-09",
     "date_updated": "2023-07-11",
     "description": "Windows LPE exploit for CVE-2022-37969",
-    "forks_count": 39,
+    "forks_count": 38,
     "html_url": "https://github.com/fortra/CVE-2022-37969",
     "keywords": [
-        "lpe exploit"
+        "Windows lpe"
     ],
     "language": "C++",
     "repo_name": "CVE-2022-37969",
@@ -454,8 +471,25 @@
     "repo_name": "Windows_LPE_AFD_CVE-2023-21768",
     "repo_owner": "chompie1337",
     "repotime": "2023-07-10, 12:35:37",
-    "stargazers_count": 472,
-    "watchers_count": 472
+    "stargazers_count": 473,
+    "watchers_count": 473
+}
+{
+    "commits_count": 13,
+    "date_started": "2021-02-27",
+    "date_updated": "2023-07-10",
+    "description": "<no description>",
+    "forks_count": 63,
+    "html_url": "https://github.com/chompie1337/SIGRed_RCE_PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "SIGRed_RCE_PoC",
+    "repo_owner": "chompie1337",
+    "repotime": "2023-07-10, 12:18:54",
+    "stargazers_count": 259,
+    "watchers_count": 259
 }
 {
     "commits_count": 2,
@@ -473,6 +507,57 @@
     "repotime": "2023-07-09, 16:03:22",
     "stargazers_count": 4,
     "watchers_count": 4
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-10-25",
+    "date_updated": "2023-07-08",
+    "description": "RCE exploit for the Aukey WR-R01 router. This backdoors the router and enables telnet access by creating another root user. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/rejections/Aukey-WR-R01-0day-RCE",
+    "keywords": [
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Aukey-WR-R01-0day-RCE",
+    "repo_owner": "rejections",
+    "repotime": "2023-07-08, 01:24:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-06-22",
+    "date_updated": "2023-07-07",
+    "description": "A remote code execution exploit for Geometry Dash 2.1",
+    "forks_count": 0,
+    "html_url": "https://github.com/meltah/gd-rce",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "gd-rce",
+    "repo_owner": "meltah",
+    "repotime": "2023-07-07, 19:18:36",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 19,
+    "date_started": "2023-04-06",
+    "date_updated": "2023-07-07",
+    "description": "GoAnywhere MFT CVE-2023-0669 LicenseResponseServlet Deserialization Vulnerabilities Python RCE PoC(Proof of Concept)",
+    "forks_count": 3,
+    "html_url": "https://github.com/Avento/CVE-2023-0669",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-0669",
+    "repo_owner": "Avento",
+    "repotime": "2023-07-07, 18:42:46",
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 1,
@@ -527,20 +612,37 @@
 }
 {
     "commits_count": 17,
+    "date_started": "2022-04-22",
+    "date_updated": "2023-07-05",
+    "description": "一个漏洞利用工具仓库",
+    "forks_count": 77,
+    "html_url": "https://github.com/Threekiii/Awesome-Exploit",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "Awesome-Exploit",
+    "repo_owner": "Threekiii",
+    "repotime": "2023-07-05, 09:49:54",
+    "stargazers_count": 322,
+    "watchers_count": 322
+}
+{
+    "commits_count": 17,
     "date_started": "2021-08-14",
     "date_updated": "2023-07-04",
     "description": "Bee Movie script for educational purposes only, anyways According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible. Yellow, black. Yellow, black. Yellow, black. Yellow, black. Ooh, black and yellow! Let's shake it up a little. Barry! Breakfast is ready! Coming! Hang on a second. Hello? Barry? Adam? Can you believe this is happening? I can't. I'll pick you up. Looking sharp. Use the stairs, Your father paid good money for those. Sorry. I'm excited. Here's the graduate. We're very proud of you, son. A perfect report card, all B's. Very proud. Ma! I got a thing going here. You got lint on your fuzz. Ow! That's me! Wave to us! We'll be in row 118,000. Bye! Barry, I told you, stop flying in the house! Hey, Adam. Hey, Barry. Is that fuzz gel? A little. Special day, graduation. Never thought I'd make it. Three da...",
     "forks_count": 4,
     "html_url": "https://github.com/S4ltster/Beemovie",
     "keywords": [
-        "Win use after free"
+        "Windows use after free"
     ],
     "language": "CSS",
     "repo_name": "Beemovie",
     "repo_owner": "S4ltster",
     "repotime": "2023-07-04, 20:05:53",
-    "stargazers_count": 23,
-    "watchers_count": 23
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 18,

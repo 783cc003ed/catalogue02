@@ -50,28 +50,45 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 30,
+    "date_started": "2018-05-04",
+    "date_updated": "2024-04-28",
+    "description": "Contextual Deserialization vulnerability that causes RCE - Remote Code Execution",
+    "forks_count": 7,
+    "html_url": "https://github.com/conikeec/jackspoilt",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "jackspoilt",
+    "repo_owner": "conikeec",
+    "repotime": "2024-04-28, 09:19:58",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
     "commits_count": 60,
     "date_started": "2021-08-29",
     "date_updated": "2024-04-28",
     "description": "An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.",
-    "forks_count": 166,
+    "forks_count": 169,
     "html_url": "https://github.com/h4r5h1t/webcopilot",
     "keywords": [
-        "ssrf"
+        "rce vulnerability"
     ],
     "language": "Shell",
     "repo_name": "webcopilot",
     "repo_owner": "h4r5h1t",
     "repotime": "2024-04-28, 18:49:52",
-    "stargazers_count": 1031,
-    "watchers_count": 1031
+    "stargazers_count": 1052,
+    "watchers_count": 1052
 }
 {
     "commits_count": 7,
     "date_started": "2024-04-22",
     "date_updated": "2024-04-27",
     "description": "Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability",
-    "forks_count": 33,
+    "forks_count": 35,
     "html_url": "https://github.com/mansk1es/CVE-2024-21111",
     "keywords": [
         "escalation of privileges vulnerability"
@@ -139,7 +156,7 @@
     "date_started": "2024-04-26",
     "date_updated": "2024-04-26",
     "description": "Windows LPE Nday",
-    "forks_count": 5,
+    "forks_count": 6,
     "html_url": "https://github.com/ldpreload/werkernel",
     "keywords": [
         "Windows lpe"
@@ -148,8 +165,8 @@
     "repo_name": "werkernel",
     "repo_owner": "ldpreload",
     "repotime": "2024-04-26, 04:07:18",
-    "stargazers_count": 20,
-    "watchers_count": 20
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 7,
@@ -203,11 +220,28 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 17,
+    "date_started": "2024-04-24",
+    "date_updated": "2024-04-25",
+    "description": "JetBrains TeamCity 2023.05.3 - Remote Code Execution (RCE), CVE-2023-42793",
+    "forks_count": 1,
+    "html_url": "https://github.com/Zyad-Elsayed/CVE-2023-42793",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-42793",
+    "repo_owner": "Zyad-Elsayed",
+    "repotime": "2024-04-25, 01:10:27",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
     "commits_count": 254,
     "date_started": "2018-07-10",
     "date_updated": "2024-04-24",
     "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-    "forks_count": 1915,
+    "forks_count": 1946,
     "html_url": "https://github.com/kgretzky/evilginx2",
     "keywords": [
         "session attack"
@@ -216,8 +250,8 @@
     "repo_name": "evilginx2",
     "repo_owner": "kgretzky",
     "repotime": "2024-04-24, 21:24:22",
-    "stargazers_count": 10553,
-    "watchers_count": 10553
+    "stargazers_count": 10771,
+    "watchers_count": 10771
 }
 {
     "commits_count": 49,
@@ -292,7 +326,7 @@
     "date_started": "2018-03-11",
     "date_updated": "2024-04-23",
     "description": "Awesome XSS stuff",
-    "forks_count": 766,
+    "forks_count": 763,
     "html_url": "https://github.com/s0md3v/AwesomeXSS",
     "keywords": [
         "xss"
@@ -301,8 +335,8 @@
     "repo_name": "AwesomeXSS",
     "repo_owner": "s0md3v",
     "repotime": "2024-04-23, 14:51:44",
-    "stargazers_count": 4735,
-    "watchers_count": 4735
+    "stargazers_count": 4760,
+    "watchers_count": 4760
 }
 {
     "commits_count": 12,
@@ -369,8 +403,8 @@
     "repo_name": "Kamek",
     "repo_owner": "Treeki",
     "repotime": "2024-04-21, 04:47:29",
-    "stargazers_count": 65,
-    "watchers_count": 65
+    "stargazers_count": 67,
+    "watchers_count": 67
 }
 {
     "commits_count": 6,
@@ -397,14 +431,14 @@
     "forks_count": 11,
     "html_url": "https://github.com/AiGptCode/Ai-Security-URL",
     "keywords": [
-        "cross-side-scripting"
+        "path traversal vulnerability"
     ],
     "language": "Python",
     "repo_name": "Ai-Security-URL",
     "repo_owner": "AiGptCode",
     "repotime": "2024-04-21, 06:30:02",
-    "stargazers_count": 69,
-    "watchers_count": 69
+    "stargazers_count": 72,
+    "watchers_count": 72
 }
 {
     "commits_count": 7,
@@ -428,7 +462,7 @@
     "date_started": "2020-04-27",
     "date_updated": "2024-04-18",
     "description": "A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team.",
-    "forks_count": 74,
+    "forks_count": 72,
     "html_url": "https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation",
     "keywords": [
         "by_owner"
@@ -437,25 +471,25 @@
     "repo_name": "GCP-IAM-Privilege-Escalation",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2024-04-18, 09:00:58",
-    "stargazers_count": 335,
-    "watchers_count": 335
+    "stargazers_count": 338,
+    "watchers_count": 338
 }
 {
     "commits_count": 130,
     "date_started": "2021-02-23",
     "date_updated": "2024-04-18",
     "description": "Repository for information about 0-days exploited in-the-wild.",
-    "forks_count": 76,
+    "forks_count": 74,
     "html_url": "https://github.com/googleprojectzero/0days-in-the-wild",
     "keywords": [
-        "0day exploit"
+        "0day exploitation"
     ],
     "language": "HTML",
     "repo_name": "0days-in-the-wild",
     "repo_owner": "googleprojectzero",
     "repotime": "2024-04-18, 11:41:27",
-    "stargazers_count": 739,
-    "watchers_count": 739
+    "stargazers_count": 756,
+    "watchers_count": 756
 }
 {
     "commits_count": 1,
@@ -560,6 +594,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 10,
+    "date_started": "2024-04-05",
+    "date_updated": "2024-04-15",
+    "description": "CHAOS RAT web panel path RCE PoC",
+    "forks_count": 10,
+    "html_url": "https://github.com/chebuya/CVE-2024-30850-chaos-rat-rce-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-30850-chaos-rat-rce-poc",
+    "repo_owner": "chebuya",
+    "repotime": "2024-04-15, 13:46:32",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 10,
+    "date_started": "2024-04-15",
+    "date_updated": "2024-04-15",
+    "description": "<no description>",
+    "forks_count": 17,
+    "html_url": "https://github.com/luelueking/kkFileView-v4.3.0-RCE-POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "kkFileView-v4.3.0-RCE-POC",
+    "repo_owner": "luelueking",
+    "repotime": "2024-04-15, 20:18:02",
+    "stargazers_count": 79,
+    "watchers_count": 79
+}
+{
     "commits_count": 7,
     "date_started": "2023-10-30",
     "date_updated": "2024-04-13",
@@ -624,8 +692,8 @@
     "repo_name": "CVE-2024-31819",
     "repo_owner": "Chocapikk",
     "repotime": "2024-04-11, 22:51:17",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 5,
@@ -645,35 +713,18 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 12,
-    "date_started": "2024-03-10",
-    "date_updated": "2024-04-10",
-    "description": "Collection of scripts to automate privilege escalation on Linux and Windows, for approved penetration testing purposes only.",
-    "forks_count": 0,
-    "html_url": "https://github.com/PentestPlaybook/enumeration_priv_esc",
-    "keywords": [
-        "Windows escalation of privileges"
-    ],
-    "language": "Shell",
-    "repo_name": "enumeration_priv_esc",
-    "repo_owner": "PentestPlaybook",
-    "repotime": "2024-04-10, 19:50:10",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 3,
     "date_started": "2024-02-14",
     "date_updated": "2024-04-10",
-    "description": "A simple Heap-based Buffer Overflow(with RCE) POC for Windows.",
+    "description": "A simple Heap-based Buffer Overflow(with RCE)-vulnerable application and POC for Windows.",
     "forks_count": 0,
-    "html_url": "https://github.com/Und3rTh3bu5/heapOverflow-win32-no-cfg",
+    "html_url": "https://github.com/x86-512/Windows-Heap-Exploit-Training",
     "keywords": [
-        "Windows rce"
+        "Win rce"
     ],
     "language": "C++",
-    "repo_name": "heapOverflow-win32-no-cfg",
-    "repo_owner": "Und3rTh3bu5",
+    "repo_name": "Windows-Heap-Exploit-Training",
+    "repo_owner": "x86-512",
     "repotime": "2024-04-10, 17:49:05",
     "stargazers_count": 1,
     "watchers_count": 1
@@ -728,6 +779,23 @@
     "repotime": "2024-04-10, 09:13:51",
     "stargazers_count": 6,
     "watchers_count": 6
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-04-09",
+    "date_updated": "2024-04-09",
+    "description": "A PoC exploit for CVE-2024-3273 - D-Link Remote Code Execution RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-3273-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-04-09, 08:51:41",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 3,
@@ -802,7 +870,7 @@
     "date_started": "2024-03-20",
     "date_updated": "2024-04-07",
     "description": "Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.",
-    "forks_count": 293,
+    "forks_count": 297,
     "html_url": "https://github.com/Notselwyn/CVE-2024-1086",
     "keywords": [
         "lpe exploit"
@@ -811,8 +879,8 @@
     "repo_name": "CVE-2024-1086",
     "repo_owner": "Notselwyn",
     "repotime": "2024-04-07, 11:34:08",
-    "stargazers_count": 2232,
-    "watchers_count": 2232
+    "stargazers_count": 2265,
+    "watchers_count": 2265
 }
 {
     "commits_count": 2,
@@ -836,7 +904,7 @@
     "date_started": "2024-04-06",
     "date_updated": "2024-04-06",
     "description": "一个普通的BOF用来BypassUAC",
-    "forks_count": 4,
+    "forks_count": 5,
     "html_url": "https://github.com/BambiZombie/bypass_uac_bof",
     "keywords": [
         "uac bypass"
@@ -845,8 +913,25 @@
     "repo_name": "bypass_uac_bof",
     "repo_owner": "BambiZombie",
     "repotime": "2024-04-06, 20:25:16",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-04-05",
+    "date_updated": "2024-04-05",
+    "description": "DSE &amp;amp; PG bypass via BYOVD attack",
+    "forks_count": 7,
+    "html_url": "https://github.com/4l3x777/dse_pg_bypass",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "dse_pg_bypass",
+    "repo_owner": "4l3x777",
+    "repotime": "2024-04-05, 18:09:38",
+    "stargazers_count": 36,
+    "watchers_count": 36
 }
 {
     "commits_count": 5,
@@ -904,17 +989,17 @@
     "date_started": "2020-08-12",
     "date_updated": "2024-04-03",
     "description": "Windows Local Privilege Escalation Cookbook",
-    "forks_count": 143,
+    "forks_count": 148,
     "html_url": "https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook",
     "keywords": [
-        "Microsoft lpe"
+        "Win lpe"
     ],
     "language": "PowerShell",
     "repo_name": "Windows-Local-Privilege-Escalation-Cookbook",
     "repo_owner": "nickvourd",
     "repotime": "2024-04-03, 17:52:28",
-    "stargazers_count": 911,
-    "watchers_count": 911
+    "stargazers_count": 947,
+    "watchers_count": 947
 }
 {
     "commits_count": 6,
@@ -968,6 +1053,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 51,
+    "date_started": "2024-03-31",
+    "date_updated": "2024-04-01",
+    "description": "Code and data for the essay &amp;quot;General equilibrium analysis of the effect of RCEP on trade flow and welfare&amp;quot;.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Sherrylhs/RCEP-research",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Stata",
+    "repo_name": "RCEP-research",
+    "repo_owner": "Sherrylhs",
+    "repotime": "2024-04-01, 18:38:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 193,
     "date_started": "2018-02-27",
     "date_updated": "2024-04-01",
@@ -981,8 +1083,8 @@
     "repo_name": "sql",
     "repo_owner": "nearform",
     "repotime": "2024-04-01, 08:10:41",
-    "stargazers_count": 215,
-    "watchers_count": 215
+    "stargazers_count": 216,
+    "watchers_count": 216
 }
 {
     "commits_count": 36,
