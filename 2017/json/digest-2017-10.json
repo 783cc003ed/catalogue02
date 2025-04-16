@@ -16,6 +16,23 @@
     "watchers_count": 7
 }
 {
+    "commits_count": 2,
+    "date_started": "2019-06-29",
+    "date_updated": "2017-10-29",
+    "description": "This is the Burpsuite Extension of Local File Inclusion Scanner.",
+    "forks_count": 0,
+    "html_url": "https://github.com/marciopocebon/LFI-Scanner",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "LFI-Scanner",
+    "repo_owner": "marciopocebon",
+    "repotime": "2017-10-29, 02:52:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 11,
     "date_started": "2017-02-21",
     "date_updated": "2017-10-26",
@@ -23,6 +40,7 @@
     "forks_count": 3,
     "html_url": "https://github.com/gaearrow/windows-lpe-lite",
     "keywords": [
+        "Win lpe",
         "Windows lpe"
     ],
     "language": "C",
@@ -71,7 +89,7 @@
     "date_started": "2017-10-23",
     "date_updated": "2017-10-23",
     "description": "macOS Kernel Fuzzer",
-    "forks_count": 63,
+    "forks_count": 62,
     "html_url": "https://github.com/FSecureLABS/OSXFuzz",
     "keywords": [
         "by_owner"
@@ -80,8 +98,8 @@
     "repo_name": "OSXFuzz",
     "repo_owner": "FSecureLABS",
     "repotime": "2017-10-23, 15:46:29",
-    "stargazers_count": 255,
-    "watchers_count": 255
+    "stargazers_count": 260,
+    "watchers_count": 260
 }
 {
     "commits_count": 3,
@@ -97,6 +115,23 @@
     "repo_name": "multitab-blocker",
     "repo_owner": "idamith",
     "repotime": "2017-10-23, 14:59:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2017-10-22",
+    "date_updated": "2017-10-22",
+    "description": "Repository for the android studio game &amp;quot;Password Protected&amp;quot;: English: &amp;quot;Password Protected&amp;quot; is an android puzzle game based on one single concept: guessing a hacker's password, using just a single hint per level. From literary references to a morse code challenge, &amp;quot;PP&amp;quot; is likely to give you some hours of hard work. Are you up for the challenge? Check the page: https://www.facebook.com/Robotincstudios/ Português: &amp;quot;Password Protected&amp;quot; é um jogo de raciocínio para android baseado em um único conceito: adivinhar a senha de um hacker, usando apenas uma dica por nível. Incluindo desde referências literárias até um desafio com código morse, PP deve custar-lhe algumas horas de trabalho duro. Você está pronto para este desafio? Confira a página: https://www.facebook.com/Robotincstudios/",
+    "forks_count": 0,
+    "html_url": "https://github.com/livregamejam/Password-Protected",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": null,
+    "repo_name": "Password-Protected",
+    "repo_owner": "livregamejam",
+    "repotime": "2017-10-22, 20:27:37",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -148,8 +183,8 @@
     "repo_name": "DL_for_xss",
     "repo_owner": "SparkSharly",
     "repotime": "2017-10-15, 09:59:31",
-    "stargazers_count": 148,
-    "watchers_count": 148
+    "stargazers_count": 149,
+    "watchers_count": 149
 }
 {
     "commits_count": 6,
@@ -159,14 +194,17 @@
     "forks_count": 17,
     "html_url": "https://github.com/Anandesh-Sharma/0Day-Exploits",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation",
+        "zero-day exploitation",
+        "zero-day exploit"
     ],
     "language": "Python",
     "repo_name": "0Day-Exploits",
     "repo_owner": "Anandesh-Sharma",
     "repotime": "2017-10-14, 17:09:56",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 2,
@@ -176,7 +214,14 @@
     "forks_count": 19,
     "html_url": "https://github.com/649/Chrome-Sandbox-Exploit",
     "keywords": [
-        "Chrome sandbox escape"
+        "Chrome sandbox escape exploit",
+        "Chromium sandbox escape",
+        "Chrome sandbox escape exploitation",
+        "Chrome sandbox escape",
+        "sandbox escape exploitation",
+        "Chromium sandbox escape exploitation",
+        "Chromium sandbox escape exploit",
+        "sandbox escape exploit"
     ],
     "language": "HTML",
     "repo_name": "Chrome-Sandbox-Exploit",
@@ -227,7 +272,9 @@
     "forks_count": 0,
     "html_url": "https://github.com/praneethjayawickrama/Cookie-Protection",
     "keywords": [
-        "session attack"
+        "session hijacking attack",
+        "session attack",
+        "session hijacking"
     ],
     "language": "Java",
     "repo_name": "Cookie-Protection",
@@ -258,7 +305,7 @@
     "date_started": "2017-10-05",
     "date_updated": "2017-10-05",
     "description": "How to use iActivate Software to ByPass iPhone &amp;amp; iPad block",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/iactivate-host/how-to-use-mdm-dep-bypass",
     "keywords": [
         "dep bypass"
@@ -267,6 +314,6 @@
     "repo_name": "how-to-use-mdm-dep-bypass",
     "repo_owner": "iactivate-host",
     "repotime": "2017-10-05, 10:30:06",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 16,
+    "watchers_count": 16
 }

@@ -12,8 +12,8 @@
     "repo_name": "helm-linter",
     "repo_owner": "rimusz",
     "repotime": "2019-03-29, 16:19:57",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 1,
@@ -23,6 +23,7 @@
     "forks_count": 35,
     "html_url": "https://github.com/0x36/powend",
     "keywords": [
+        "sandbox escape exploitation",
         "sandbox escape exploit"
     ],
     "language": "C",
@@ -40,6 +41,7 @@
     "forks_count": 32,
     "html_url": "https://github.com/fnmsd/zimbra_poc",
     "keywords": [
+        "ssrf",
         "xxe"
     ],
     "language": "Python",
@@ -48,6 +50,23 @@
     "repotime": "2019-03-27, 21:48:06",
     "stargazers_count": 59,
     "watchers_count": 59
+}
+{
+    "commits_count": 27,
+    "date_started": "2017-07-08",
+    "date_updated": "2019-03-26",
+    "description": ":woman: A web app to deliver menstrual supplies to homeless women. (SF Hacking for Humanity 2017, GIT Favorite)",
+    "forks_count": 2,
+    "html_url": "https://github.com/nadyafebi/aXXess",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "JavaScript",
+    "repo_name": "aXXess",
+    "repo_owner": "nadyafebi",
+    "repotime": "2019-03-26, 22:40:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 1,
@@ -71,7 +90,7 @@
     "date_started": "2017-03-24",
     "date_updated": "2019-03-24",
     "description": "Version 0.2 - Exploit Time-based blind-SQL injection in HTTP-Headers (MySQL/MariaDB).",
-    "forks_count": 104,
+    "forks_count": 108,
     "html_url": "https://github.com/JohnTroony/Blisqy",
     "keywords": [
         "sql injection"
@@ -80,8 +99,8 @@
     "repo_name": "Blisqy",
     "repo_owner": "JohnTroony",
     "repotime": "2019-03-24, 14:35:24",
-    "stargazers_count": 357,
-    "watchers_count": 357
+    "stargazers_count": 383,
+    "watchers_count": 383
 }
 {
     "commits_count": 8,
@@ -97,8 +116,8 @@
     "repo_name": "SSRFTest",
     "repo_owner": "daeken",
     "repotime": "2019-03-23, 15:14:01",
-    "stargazers_count": 242,
-    "watchers_count": 242
+    "stargazers_count": 244,
+    "watchers_count": 244
 }
 {
     "commits_count": 1,
@@ -108,6 +127,9 @@
     "forks_count": 0,
     "html_url": "https://github.com/hitIer/hackingLibrary",
     "keywords": [
+        "zero-day exploitation",
+        "sandbox escape exploitation",
+        "sandbox escape exploit",
         "zero-day exploit"
     ],
     "language": null,
@@ -135,11 +157,28 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 0,
+    "date_started": "2019-03-19",
+    "date_updated": "2019-03-19",
+    "description": "A beginner guide for Server Side Request Forgery ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rawan201/SSRF-",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "SSRF-",
+    "repo_owner": "Rawan201",
+    "repotime": "2019-03-19, 15:26:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 12,
     "date_started": "2019-02-25",
     "date_updated": "2019-03-18",
     "description": "A simple PoC for WordPress RCE (author priviledge), refer to CVE-2019-8942 and CVE-2019-8943.",
-    "forks_count": 21,
+    "forks_count": 19,
     "html_url": "https://github.com/brianwrf/WordPress_4.9.8_RCE_POC",
     "keywords": [
         "rce poc"
@@ -148,8 +187,25 @@
     "repo_name": "WordPress_4.9.8_RCE_POC",
     "repo_owner": "brianwrf",
     "repotime": "2019-03-18, 09:20:52",
-    "stargazers_count": 74,
-    "watchers_count": 74
+    "stargazers_count": 73,
+    "watchers_count": 73
+}
+{
+    "commits_count": 9,
+    "date_started": "2019-03-03",
+    "date_updated": "2019-03-17",
+    "description": "Zabbix 2.2 &amp;lt; 3.0.3 - API JSON-RPC Remote Code Execution Exploit Tool which allows to add a new SuperAdmin User via the zabbix API and theire default creds. Including a Tool to execute a low PrivShell",
+    "forks_count": 3,
+    "html_url": "https://github.com/S1lkys/Zabbix-AutoExploiter",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Zabbix-AutoExploiter",
+    "repo_owner": "S1lkys",
+    "repotime": "2019-03-17, 14:48:06",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 3,
@@ -199,8 +255,43 @@
     "repo_name": "Invoke-TaskCleanerBypass",
     "repo_owner": "PoSHMagiC0de",
     "repotime": "2019-03-14, 15:45:50",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-03-13",
+    "date_updated": "2019-03-13",
+    "description": "SmartWindow is a IoT-project originating in CMPSC 293S Internet of Things, a class about networks held at UCSB during winter 2019. The team consisted of students: Fredrik Sørmo, Cecilia Peinert, Lars Møster, and Silje Tyrihjell. Our project goal was to create an end-to-end IoT product which allows users to predict the level of air pollution outside a window, with the conceptual use case of suggesting to inhabitants when best to open and close the window to minimize polluted air. The product consists of a SDS011 Dust Sensor, measuring concentrations of particles PM10 and PM2.5, connected to a Raspberry Pi Zero, which continuously uploads data to Amazon Web Service IoT Core.  These measurements could be combined with external data gathered from publicly available APIs to forecast pollution levels for the next seven days. Weather, i.e.: humidity, wind-speed, temperature, and precipitation was gathered from HERE.com, and Wunderground, allowing for on demand forecasting. Day-of-week was add...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Elgeneinar/SmartWindow",
+    "keywords": [
+        "Windows zero-day",
+        "Win zero-day"
+    ],
+    "language": null,
+    "repo_name": "SmartWindow",
+    "repo_owner": "Elgeneinar",
+    "repotime": "2019-03-13, 13:54:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-03-13",
+    "date_updated": "2019-03-13",
+    "description": "CVE-2019-9580 - StackStorm: exploiting CORS misconfiguration (null origin) to gain RCE",
+    "forks_count": 4,
+    "html_url": "https://github.com/mpgn/CVE-2019-9580",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2019-9580",
+    "repo_owner": "mpgn",
+    "repotime": "2019-03-13, 20:26:27",
+    "stargazers_count": 32,
+    "watchers_count": 32
 }
 {
     "commits_count": 37,
@@ -227,7 +318,8 @@
     "forks_count": 6,
     "html_url": "https://github.com/S1lkys/Auto_LFI",
     "keywords": [
-        "lfi"
+        "lfi",
+        "local file inclusion"
     ],
     "language": "Shell",
     "repo_name": "Auto_LFI",
@@ -258,17 +350,18 @@
     "date_started": "2019-03-08",
     "date_updated": "2019-03-08",
     "description": "A WebKit exploit using CVE-2018-4441 to obtain RCE on PS4 6.20.",
-    "forks_count": 53,
+    "forks_count": 52,
     "html_url": "https://github.com/Cryptogenic/PS4-6.20-WebKit-Code-Execution-Exploit",
     "keywords": [
-        "rce exploit"
+        "rce exploit",
+        "rce exploitation"
     ],
     "language": "HTML",
     "repo_name": "PS4-6.20-WebKit-Code-Execution-Exploit",
     "repo_owner": "Cryptogenic",
     "repotime": "2019-03-08, 13:42:56",
-    "stargazers_count": 200,
-    "watchers_count": 200
+    "stargazers_count": 203,
+    "watchers_count": 203
 }
 {
     "commits_count": 2,
@@ -303,4 +396,21 @@
     "repotime": "2019-03-04, 17:09:34",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-03-04",
+    "date_updated": "2019-03-03",
+    "description": "Grabber for Session Hijacked",
+    "forks_count": 1,
+    "html_url": "https://github.com/felipemelchior/xss-grabber",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "xss-grabber",
+    "repo_owner": "felipemelchior",
+    "repotime": "2019-03-03, 23:59:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }

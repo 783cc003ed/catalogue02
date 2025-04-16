@@ -1,21 +1,4 @@
 {
-    "commits_count": 238,
-    "date_started": "2021-08-24",
-    "date_updated": "2024-01-31",
-    "description": "Protect untrusted requests from SSRF",
-    "forks_count": 3,
-    "html_url": "https://github.com/hanover-computing/got-ssrf",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "TypeScript",
-    "repo_name": "got-ssrf",
-    "repo_owner": "hanover-computing",
-    "repotime": "2024-01-31, 18:25:14",
-    "stargazers_count": 48,
-    "watchers_count": 48
-}
-{
     "commits_count": 2,
     "date_started": "2024-01-31",
     "date_updated": "2024-01-31",
@@ -50,21 +33,21 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 206,
-    "date_started": "2020-08-01",
+    "commits_count": 3,
+    "date_started": "2024-01-29",
     "date_updated": "2024-01-29",
-    "description": "Remote command shell application written in C&amp;&#35;35;, targeting the .NET 8 runtime.",
-    "forks_count": 5,
-    "html_url": "https://github.com/vandavey/DotnetCat",
+    "description": "A solid app with the clean architectural guidelines. Implements the use of dependency injection with Dagger-Hilt, SOLID principles, CSV parsing with OpenCSV, working with remote APIs using Retrofit, local caching with Room, custom drawing on a canvas using Compose, etc",
+    "forks_count": 0,
+    "html_url": "https://github.com/simbastart001/StockMarketApp",
     "keywords": [
-        "Windows rce"
+        "csv injection"
     ],
-    "language": "C#",
-    "repo_name": "DotnetCat",
-    "repo_owner": "vandavey",
-    "repotime": "2024-01-29, 20:41:41",
-    "stargazers_count": 26,
-    "watchers_count": 26
+    "language": "Kotlin",
+    "repo_name": "StockMarketApp",
+    "repo_owner": "simbastart001",
+    "repotime": "2024-01-29, 11:24:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 8,
@@ -101,6 +84,25 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 9,
+    "date_started": "2022-04-25",
+    "date_updated": "2024-01-28",
+    "description": "A threat actor may access the user's account using a stolen or leaked valid (existing) session identifier",
+    "forks_count": 0,
+    "html_url": "https://github.com/qeeqbox/session-hijacking",
+    "keywords": [
+        "session hijacking",
+        "session hijacking vulnerability",
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "session-hijacking",
+    "repo_owner": "qeeqbox",
+    "repotime": "2024-01-28, 17:00:13",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 11,
     "date_started": "2022-04-21",
     "date_updated": "2024-01-28",
@@ -114,6 +116,23 @@
     "repo_name": "session-replay",
     "repo_owner": "qeeqbox",
     "repotime": "2024-01-28, 16:59:54",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2023-06-23",
+    "date_updated": "2024-01-28",
+    "description": "A threat actor may cause a vulnerable target to include/retrieve local file",
+    "forks_count": 0,
+    "html_url": "https://github.com/qeeqbox/local-file-inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "local-file-inclusion",
+    "repo_owner": "qeeqbox",
+    "repotime": "2024-01-28, 16:56:17",
     "stargazers_count": 1,
     "watchers_count": 1
 }
@@ -139,7 +158,7 @@
     "date_started": "2019-01-23",
     "date_updated": "2024-01-28",
     "description": "  A tool to embed XXE and XSS payloads in docx, odt, pptx, xlsx files (oxml_xxe on steroids)",
-    "forks_count": 84,
+    "forks_count": 96,
     "html_url": "https://github.com/whitel1st/docem",
     "keywords": [
         "xxe"
@@ -148,8 +167,8 @@
     "repo_name": "docem",
     "repo_owner": "whitel1st",
     "repotime": "2024-01-28, 15:41:50",
-    "stargazers_count": 502,
-    "watchers_count": 502
+    "stargazers_count": 599,
+    "watchers_count": 599
 }
 {
     "commits_count": 4,
@@ -210,6 +229,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/Youssefawad999/Windows-ResourcesWindows-Resources",
     "keywords": [
+        "Windows escalation of privileges",
         "Win escalation of privileges"
     ],
     "language": null,
@@ -220,6 +240,60 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 7,
+    "date_started": "2024-01-25",
+    "date_updated": "2024-01-25",
+    "description": "Atlassian Confluence Remote Code Execution(RCE) Proof Of Concept",
+    "forks_count": 1,
+    "html_url": "https://github.com/MaanVader/CVE-2023-22527-POC",
+    "keywords": [
+        "rce proof of concept",
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-22527-POC",
+    "repo_owner": "MaanVader",
+    "repotime": "2024-01-25, 18:43:19",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-01-25",
+    "date_updated": "2024-01-25",
+    "description": "CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC",
+    "forks_count": 0,
+    "html_url": "https://github.com/adminlove520/CVE-2023-22527",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-22527",
+    "repo_owner": "adminlove520",
+    "repotime": "2024-01-25, 18:22:13",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 766,
+    "date_started": "2024-01-15",
+    "date_updated": "2024-01-24",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 1,
+    "html_url": "https://github.com/Checkdos/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Windows remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware",
+    "repo_owner": "Checkdos",
+    "repotime": "2024-01-24, 15:56:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 3,
     "date_started": "2023-12-03",
     "date_updated": "2024-01-24",
@@ -227,14 +301,15 @@
     "forks_count": 0,
     "html_url": "https://github.com/duck-sec/beadey-eyed-windows-mouse-windows-privesc-script",
     "keywords": [
+        "Windows escalation of privileges",
         "Win escalation of privileges"
     ],
     "language": "PowerShell",
     "repo_name": "beadey-eyed-windows-mouse-windows-privesc-script",
     "repo_owner": "duck-sec",
     "repotime": "2024-01-24, 13:47:38",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 10,
@@ -244,21 +319,21 @@
     "forks_count": 5,
     "html_url": "https://github.com/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell",
     "keywords": [
-        "rce vulnerability"
+        "remote code execution vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-46604-ActiveMQ-RCE-pseudoshell",
     "repo_owner": "duck-sec",
     "repotime": "2024-01-24, 13:44:29",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 8,
     "date_started": "2023-03-21",
     "date_updated": "2024-01-24",
     "description": " Valgrind is an instrumentation framework for building dynamic analysis tools that can help you identify memory leaks and other memory-related errors in your code. Valgrind is an instrumentation framework for building dynamic analysis tools that can help you identify memory leaks and other memory-related errors in your code.",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/zakarm/Valgrind-42",
     "keywords": [
         "memory leak analysis"
@@ -267,8 +342,8 @@
     "repo_name": "Valgrind-42",
     "repo_owner": "zakarm",
     "repotime": "2024-01-24, 11:30:52",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 9,
@@ -278,14 +353,14 @@
     "forks_count": 3,
     "html_url": "https://github.com/BobTheShoplifter/CVE-2023-52251-POC",
     "keywords": [
-        "remote code execution poc"
+        "remote code execution vulnerability"
     ],
     "language": "JavaScript",
     "repo_name": "CVE-2023-52251-POC",
     "repo_owner": "BobTheShoplifter",
     "repotime": "2024-01-23, 20:06:14",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 10,
@@ -295,31 +370,33 @@
     "forks_count": 3,
     "html_url": "https://github.com/Manh130902/CVE-2023-22527-POC",
     "keywords": [
-        "remote code execution poc"
+        "remote code execution vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-22527-POC",
     "repo_owner": "Manh130902",
     "repotime": "2024-01-23, 19:03:00",
-    "stargazers_count": 20,
-    "watchers_count": 20
+    "stargazers_count": 21,
+    "watchers_count": 21
 }
 {
     "commits_count": 32,
     "date_started": "2024-01-16",
     "date_updated": "2024-01-23",
     "description": "CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC",
-    "forks_count": 4,
+    "forks_count": 5,
     "html_url": "https://github.com/Avento/CVE-2023-22527_Confluence_RCE",
     "keywords": [
-        "rce vulnerability"
+        "rce vulnerability",
+        "remote code execution poc",
+        "remote code execution vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-22527_Confluence_RCE",
     "repo_owner": "Avento",
     "repotime": "2024-01-23, 17:57:31",
-    "stargazers_count": 25,
-    "watchers_count": 25
+    "stargazers_count": 24,
+    "watchers_count": 24
 }
 {
     "commits_count": 4,
@@ -329,7 +406,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/cleverg0d/CVE-2023-22527",
     "keywords": [
-        "unauthenticated attacker"
+        "unauthenticated attacker",
+        "unauthenticated rce"
     ],
     "language": null,
     "repo_name": "CVE-2023-22527",
@@ -346,6 +424,7 @@
     "forks_count": 1,
     "html_url": "https://github.com/angelopioamirante/CVE-2023-24317",
     "keywords": [
+        "unrestricted file upload",
         "unauthenticated rce"
     ],
     "language": "Python",
@@ -373,6 +452,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 2,
+    "date_started": "2024-01-21",
+    "date_updated": "2024-01-20",
+    "description": "Vulnerability of spoofing Microsoft Bluetooth driver ",
+    "forks_count": 0,
+    "html_url": "https://github.com/TheRedDevil1/Xiaomi-HyperOS-BootLoader-Bypass",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Xiaomi-HyperOS-BootLoader-Bypass",
+    "repo_owner": "TheRedDevil1",
+    "repotime": "2024-01-20, 23:59:00",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 63,
+    "date_started": "2020-04-08",
+    "date_updated": "2024-01-20",
+    "description": "Working on a small SQL Injection framework",
+    "forks_count": 9,
+    "html_url": "https://github.com/bdunlap9/SQL-Injection-Scanner",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "SQL-Injection-Scanner",
+    "repo_owner": "bdunlap9",
+    "repotime": "2024-01-20, 14:19:47",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
     "commits_count": 1,
     "date_started": "2024-01-20",
     "date_updated": "2024-01-20",
@@ -380,14 +493,21 @@
     "forks_count": 0,
     "html_url": "https://github.com/Jerry-MC137/Windows-Privilege-Escalation",
     "keywords": [
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges exploit",
+        "escalation of privileges exploit",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploitation",
+        "Windows escalation of privileges",
+        "Windows escalation of privileges vulnerability",
         "Win escalation of privileges"
     ],
     "language": "HTML",
     "repo_name": "Windows-Privilege-Escalation",
     "repo_owner": "Jerry-MC137",
     "repotime": "2024-01-20, 12:38:20",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 6,
@@ -431,14 +551,33 @@
     "forks_count": 5,
     "html_url": "https://github.com/febinrev/slippy-book-exploit",
     "keywords": [
-        "directory traversal vulnerability"
+        "directory traversal vulnerability",
+        "remote code execution vulnerability"
     ],
     "language": "Shell",
     "repo_name": "slippy-book-exploit",
     "repo_owner": "febinrev",
     "repotime": "2024-01-17, 16:12:12",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-01-17",
+    "date_updated": "2024-01-17",
+    "description": "CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC",
+    "forks_count": 4,
+    "html_url": "https://github.com/ga0we1/CVE-2023-22527_Confluence_RCE",
+    "keywords": [
+        "remote code execution poc",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-22527_Confluence_RCE",
+    "repo_owner": "ga0we1",
+    "repotime": "2024-01-17, 15:12:18",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1,
@@ -462,9 +601,10 @@
     "date_started": "2024-01-12",
     "date_updated": "2024-01-16",
     "description": "CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/sunnyvale-it/CVE-2023-50164-PoC",
     "keywords": [
+        "rce proof of concept",
         "path traversal vulnerability"
     ],
     "language": "Java",
@@ -475,21 +615,39 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 14,
+    "date_started": "2023-08-25",
+    "date_updated": "2024-01-15",
+    "description": "A PoC exploit for CVE-2021-42013 - Apache 2.4.49 &amp;amp; 2.4.50 Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-42013-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2024-01-15, 11:01:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 1,
     "date_started": "2024-01-15",
     "date_updated": "2024-01-15",
     "description": "An exploit for the Sitecore Remote Code Execution Vulnerability",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/BagheeraAltered/CVE-2023-35813-PoC",
     "keywords": [
-        "remote code execution poc"
+        "remote code execution vulnerability",
+        "remote code execution exploitation"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-35813-PoC",
     "repo_owner": "BagheeraAltered",
     "repotime": "2024-01-15, 09:15:30",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 3,
@@ -527,20 +685,37 @@
 }
 {
     "commits_count": 10,
-    "date_started": "2023-02-28",
-    "date_updated": "2024-01-11",
-    "description": "C&amp;&#35;35; session hijacking gui",
-    "forks_count": 12,
-    "html_url": "https://github.com/EbolaMan-YT/sessionsploit",
+    "date_started": "2024-01-08",
+    "date_updated": "2024-01-13",
+    "description": "phpunit vulnerability | Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/haxorstars/phpunit-rce",
     "keywords": [
-        "session hijacking"
+        "remote code execution vulnerability"
     ],
-    "language": null,
-    "repo_name": "sessionsploit",
-    "repo_owner": "EbolaMan-YT",
-    "repotime": "2024-01-11, 15:08:21",
-    "stargazers_count": 88,
-    "watchers_count": 88
+    "language": "Python",
+    "repo_name": "phpunit-rce",
+    "repo_owner": "haxorstars",
+    "repotime": "2024-01-13, 17:49:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2023-12-28",
+    "date_updated": "2024-01-10",
+    "description": "Proof of Concept for Server Side Request Forgery (SSRF) in request-baskets (V&amp;lt;= v.1.2.1)",
+    "forks_count": 0,
+    "html_url": "https://github.com/MasterCode112/CVE-2023-27163",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2023-27163",
+    "repo_owner": "MasterCode112",
+    "repotime": "2024-01-10, 10:57:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -567,14 +742,16 @@
     "forks_count": 2,
     "html_url": "https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT",
     "keywords": [
-        "remote code execution exploitation"
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution poc"
     ],
     "language": "Python",
     "repo_name": "CVE-2019-15107-EXPLOIT",
     "repo_owner": "K3ysTr0K3R",
     "repotime": "2024-01-09, 12:08:24",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 2,
@@ -594,11 +771,28 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 3,
+    "date_started": "2023-12-28",
+    "date_updated": "2024-01-09",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/tadokun468/Task-7-Local-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "PHP",
+    "repo_name": "Task-7-Local-File-Inclusion",
+    "repo_owner": "tadokun468",
+    "repotime": "2024-01-09, 13:59:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 42,
     "date_started": "2022-06-05",
     "date_updated": "2024-01-09",
     "description": "<no description>",
-    "forks_count": 22,
+    "forks_count": 27,
     "html_url": "https://github.com/cyberteach360/sql-injection",
     "keywords": [
         "sql injection"
@@ -607,8 +801,8 @@
     "repo_name": "sql-injection",
     "repo_owner": "cyberteach360",
     "repotime": "2024-01-09, 10:40:54",
-    "stargazers_count": 38,
-    "watchers_count": 38
+    "stargazers_count": 44,
+    "watchers_count": 44
 }
 {
     "commits_count": 3,
@@ -632,17 +826,18 @@
     "date_started": "2023-05-24",
     "date_updated": "2024-01-07",
     "description": "LFI-FINDER is an open-source tool available on GitHub that focuses on detecting Local File Inclusion (LFI) vulnerabilities",
-    "forks_count": 53,
+    "forks_count": 57,
     "html_url": "https://github.com/capture0x/LFI-FINDER",
     "keywords": [
+        "local file inclusion",
         "lfi"
     ],
     "language": "Python",
     "repo_name": "LFI-FINDER",
     "repo_owner": "capture0x",
     "repotime": "2024-01-07, 17:51:26",
-    "stargazers_count": 283,
-    "watchers_count": 283
+    "stargazers_count": 294,
+    "watchers_count": 294
 }
 {
     "commits_count": 4,
@@ -730,6 +925,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 14,
+    "date_started": "2016-12-11",
+    "date_updated": "2024-01-03",
+    "description": "A mini webserver with FTP support for XXE payloads",
+    "forks_count": 57,
+    "html_url": "https://github.com/staaldraad/xxeserv",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Go",
+    "repo_name": "xxeserv",
+    "repo_owner": "staaldraad",
+    "repotime": "2024-01-03, 14:07:24",
+    "stargazers_count": 330,
+    "watchers_count": 330
+}
+{
     "commits_count": 16,
     "date_started": "2022-08-04",
     "date_updated": "2024-01-03",
@@ -751,7 +963,7 @@
     "date_started": "2024-01-02",
     "date_updated": "2024-01-02",
     "description": "CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.",
-    "forks_count": 45,
+    "forks_count": 50,
     "html_url": "https://github.com/hackerhouse-opensource/Stinger",
     "keywords": [
         "uac bypass"
@@ -760,15 +972,15 @@
     "repo_name": "Stinger",
     "repo_owner": "hackerhouse-opensource",
     "repotime": "2024-01-02, 18:12:18",
-    "stargazers_count": 279,
-    "watchers_count": 279
+    "stargazers_count": 290,
+    "watchers_count": 290
 }
 {
     "commits_count": 17,
     "date_started": "2023-12-30",
     "date_updated": "2024-01-02",
     "description": "CIA UAC bypass implementation that utilizes elevated COM object to write to System32 and an auto-elevated process to execute as administrator.",
-    "forks_count": 29,
+    "forks_count": 31,
     "html_url": "https://github.com/hackerhouse-opensource/Artillery",
     "keywords": [
         "uac bypass"
@@ -777,8 +989,8 @@
     "repo_name": "Artillery",
     "repo_owner": "hackerhouse-opensource",
     "repotime": "2024-01-02, 18:03:46",
-    "stargazers_count": 175,
-    "watchers_count": 175
+    "stargazers_count": 173,
+    "watchers_count": 173
 }
 {
     "commits_count": 5,
@@ -798,6 +1010,40 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 15,
+    "date_started": "2023-09-18",
+    "date_updated": "2024-01-02",
+    "description": "Spoof locked bootloader on local attestations",
+    "forks_count": 91,
+    "html_url": "https://github.com/chiteroman/BootloaderSpoofer",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "Java",
+    "repo_name": "BootloaderSpoofer",
+    "repo_owner": "chiteroman",
+    "repotime": "2024-01-02, 21:57:34",
+    "stargazers_count": 863,
+    "watchers_count": 863
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-01-02",
+    "date_updated": "2024-01-02",
+    "description": "This repo is a PoC with to exploit CVE-2023-51467 and CVE-2023-49070 preauth RCE vulnerabilities found in Apache OFBiz.",
+    "forks_count": 9,
+    "html_url": "https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Apache-OFBiz-Authentication-Bypass",
+    "repo_owner": "jakabakos",
+    "repotime": "2024-01-02, 10:41:59",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
     "commits_count": 6,
     "date_started": "2024-01-02",
     "date_updated": "2024-01-02",
@@ -813,4 +1059,21 @@
     "repotime": "2024-01-02, 11:03:50",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-03-11",
+    "date_updated": "2024-01-01",
+    "description": "  CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server.",
+    "forks_count": 7,
+    "html_url": "https://github.com/raheel0x01/CVE-2021-26855",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-26855",
+    "repo_owner": "raheel0x01",
+    "repotime": "2024-01-01, 20:04:45",
+    "stargazers_count": 12,
+    "watchers_count": 12
 }

@@ -23,7 +23,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/RahulHackz/iEatCookies",
     "keywords": [
-        "session vulnerability"
+        "session vulnerability",
+        "session hijacking vulnerability"
     ],
     "language": null,
     "repo_name": "iEatCookies",
@@ -46,8 +47,8 @@
     "repo_name": "ssrf-lab",
     "repo_owner": "m6a-UdS",
     "repotime": "2021-05-30, 18:35:58",
-    "stargazers_count": 245,
-    "watchers_count": 245
+    "stargazers_count": 246,
+    "watchers_count": 246
 }
 {
     "commits_count": 6,
@@ -67,21 +68,74 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 1,
+    "date_started": "2021-05-29",
+    "date_updated": "2021-05-29",
+    "description": "Collection of 0days &amp;amp; Ndays Exploits",
+    "forks_count": 0,
+    "html_url": "https://github.com/sr2echa/0day-Ndays-Exploits",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": null,
+    "repo_name": "0day-Ndays-Exploits",
+    "repo_owner": "sr2echa",
+    "repotime": "2021-05-29, 12:33:43",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-05-28",
+    "date_updated": "2021-05-28",
+    "description": "Cross-site request forgery, also known as one-click attack or session riding and abbreviated as CSRF or XSRF, is a type of malicious exploit of a website where unauthorized commands are submitted from a user that the web application trusts.",
+    "forks_count": 0,
+    "html_url": "https://github.com/adrianjtempelhoff/CSRF",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "CSRF",
+    "repo_owner": "adrianjtempelhoff",
+    "repotime": "2021-05-28, 10:29:04",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-05-28",
+    "date_updated": "2021-05-28",
+    "description": "Descriptions and examples of, cross-site scripting (XSS) is a type of security vulnerability typically found in web applications. XSS attacks enable attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.",
+    "forks_count": 0,
+    "html_url": "https://github.com/adrianjtempelhoff/XSS",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "XSS",
+    "repo_owner": "adrianjtempelhoff",
+    "repotime": "2021-05-28, 10:27:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 25,
     "date_started": "2021-05-22",
     "date_updated": "2021-05-27",
     "description": "x64 Windows PatchGuard bypass, register process-creation callbacks from unsigned code",
-    "forks_count": 33,
+    "forks_count": 35,
     "html_url": "https://github.com/kkent030315/NoPatchGuardCallback",
     "keywords": [
-        "patchguard bypass"
+        "patchguard bypass",
+        "kpp bypass"
     ],
     "language": "C",
     "repo_name": "NoPatchGuardCallback",
     "repo_owner": "kkent030315",
     "repotime": "2021-05-27, 09:15:54",
-    "stargazers_count": 197,
-    "watchers_count": 197
+    "stargazers_count": 202,
+    "watchers_count": 202
 }
 {
     "commits_count": 2,
@@ -105,7 +159,7 @@
     "date_started": "2021-05-24",
     "date_updated": "2021-05-25",
     "description": "This is a small boot2root VM I created for my university’s cyber security group. It contains multiple remote vulnerabilities and multiple privilege escalation vectors. I did all of my testing for this VM on VirtualBox, so that’s the recommended platform. I have been informed that it also works with VMware, but I haven’t tested this personally.  This VM is specifically intended for newcomers to penetration testing. If you’re a beginner, you should hopefully find the difficulty of the VM to be just right.  Your goal is to remotely attack the VM and gain root privileges. Once you’ve finished, try to find other vectors you might have missed! If you enjoyed the VM or have questions, feel free to contact me at: josiah@vt.edu  If you finished the VM, please also consider posting a writeup! Writeups help you internalize what you worked on and help anyone else who might be struggling or wants to see someone else’s process. I look forward to reading them!",
-    "forks_count": 2,
+    "forks_count": 1,
     "html_url": "https://github.com/vshaliii/Basic-Pentesting-1-Vulnhub-Walkthrough",
     "keywords": [
         "escalation of privileges vulnerability"
@@ -114,8 +168,25 @@
     "repo_name": "Basic-Pentesting-1-Vulnhub-Walkthrough",
     "repo_owner": "vshaliii",
     "repotime": "2021-05-25, 00:19:34",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 17,
+    "date_started": "2020-09-19",
+    "date_updated": "2021-05-24",
+    "description": "It is a SQL injection vulnerable project with demonstration. It is developed using PHP and MySQL technologies. It also contains a youtube link where fully demonstrated SQL Injection.",
+    "forks_count": 17,
+    "html_url": "https://github.com/inforkgodara/sql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "PHP",
+    "repo_name": "sql-injection",
+    "repo_owner": "inforkgodara",
+    "repotime": "2021-05-24, 01:04:16",
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 2,
@@ -125,14 +196,21 @@
     "forks_count": 0,
     "html_url": "https://github.com/sscholbe/windows-privilege-escalation",
     "keywords": [
-        "Win escalation of privileges"
+        "Win escalation of privileges proof of concept",
+        "escalation of privileges vulnerability",
+        "Win escalation of privileges",
+        "Windows escalation of privileges",
+        "escalation of privileges proof of concept",
+        "Windows escalation of privileges proof of concept",
+        "Windows escalation of privileges vulnerability",
+        "Win escalation of privileges vulnerability"
     ],
     "language": "C#",
     "repo_name": "windows-privilege-escalation",
     "repo_owner": "sscholbe",
     "repotime": "2021-05-23, 22:36:20",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 3,
@@ -165,8 +243,8 @@
     "repo_name": "CVE-2021-31166",
     "repo_owner": "0vercl0k",
     "repotime": "2021-05-21, 16:58:22",
-    "stargazers_count": 825,
-    "watchers_count": 825
+    "stargazers_count": 823,
+    "watchers_count": 823
 }
 {
     "commits_count": 32,
@@ -176,7 +254,9 @@
     "forks_count": 1,
     "html_url": "https://github.com/Enesdex/Exploits",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation",
+        "0day vulnerability"
     ],
     "language": "Python",
     "repo_name": "Exploits",
@@ -220,6 +300,40 @@
     "watchers_count": 3
 }
 {
+    "commits_count": 4,
+    "date_started": "2021-05-17",
+    "date_updated": "2021-05-17",
+    "description": "PoC for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. Although it was defined as remote command execution, it can only cause the system to crash.",
+    "forks_count": 1,
+    "html_url": "https://github.com/zha0gongz1/CVE-2021-31166",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-31166",
+    "repo_owner": "zha0gongz1",
+    "repotime": "2021-05-17, 19:30:26",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-01-03",
+    "date_updated": "2021-05-17",
+    "description": "Welcome to Hyper Bot ! Create your own permanent Hyper Bot ( runs on Heroku, no Lc0 ) If you want to create your own permanent bot, do the following:  Sign up to GitHub https://github.com/join , if you have not already.  With your GitHub account visit https://github.com/hyperchessbot/hyperbot , then click on Fork.  Create a BOT account if you do not already have one. To create one use an account that has not played any games yet, log into this account, then visit https://hypereasy.herokuapp.com/auth/lichess/bot , approve oauth and then on the page you are taken to click on 'Request upgrade to bot'.  Create an API access token with your BOT account at https://lichess.org/account/oauth/token ( should have scopes Read incoming challenges / Create, accept, decline challenges / Play games with the bot API )  Sign up to Heroku https://signup.heroku.com/ , if you have not already.  At Heroku create a new app using New / Create new app. Choose Europe for region.  In the app's dashboard go to t...",
+    "forks_count": 0,
+    "html_url": "https://github.com/armankarimpour/hyperarman",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "hyperarman",
+    "repo_owner": "armankarimpour",
+    "repotime": "2021-05-17, 03:22:38",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 2,
     "date_started": "2021-05-16",
     "date_updated": "2021-05-16",
@@ -244,7 +358,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/dorkerdevil/CVE-2020-28018",
     "keywords": [
-        "use after free exploit"
+        "use after free exploit",
+        "use after free exploitation"
     ],
     "language": "Makefile",
     "repo_name": "CVE-2020-28018",
@@ -261,14 +376,35 @@
     "forks_count": 12,
     "html_url": "https://github.com/iricartb/advanced-sql-injection-scanner",
     "keywords": [
-        "Microsoft rce exploit"
+        "Microsoft rce vulnerability",
+        "sql injection",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce vulnerability"
     ],
     "language": "C#",
     "repo_name": "advanced-sql-injection-scanner",
     "repo_owner": "iricartb",
     "repotime": "2021-05-15, 13:57:27",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 792,
+    "date_started": "2013-08-28",
+    "date_updated": "2021-05-13",
+    "description": "THIS PROJECT IS UNMAINTAINED - SEE: https://github.com/caciviclab/odca-jekyll AND https://github.com/caciviclab/disclosure-backend-static",
+    "forks_count": 39,
+    "html_url": "https://github.com/openoakland/opendisclosure",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "Ruby",
+    "repo_name": "opendisclosure",
+    "repo_owner": "openoakland",
+    "repotime": "2021-05-13, 20:27:20",
+    "stargazers_count": 49,
+    "watchers_count": 49
 }
 {
     "commits_count": 1,
@@ -286,6 +422,23 @@
     "repotime": "2021-05-12, 15:18:41",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-05-07",
+    "date_updated": "2021-05-12",
+    "description": "セッションハイジャックを検証するPHPコード",
+    "forks_count": 0,
+    "html_url": "https://github.com/wotsuji/php_session_hijacking_test",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "php_session_hijacking_test",
+    "repo_owner": "wotsuji",
+    "repotime": "2021-05-12, 15:20:51",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 1,
@@ -322,11 +475,28 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 101,
+    "date_started": "2020-06-16",
+    "date_updated": "2021-05-10",
+    "description": "Vulnerabilities exploitation examples, python",
+    "forks_count": 4,
+    "html_url": "https://github.com/cocomelonc/vulnexipy",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "vulnexipy",
+    "repo_owner": "cocomelonc",
+    "repotime": "2021-05-10, 16:38:26",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
     "commits_count": 6,
     "date_started": "2021-05-09",
     "date_updated": "2021-05-10",
     "description": "国光的手把手带你用 SSRF 打穿内网靶场源码",
-    "forks_count": 59,
+    "forks_count": 58,
     "html_url": "https://github.com/sqlsec/ssrf-vuls",
     "keywords": [
         "ssrf"
@@ -335,8 +505,8 @@
     "repo_name": "ssrf-vuls",
     "repo_owner": "sqlsec",
     "repotime": "2021-05-10, 09:56:19",
-    "stargazers_count": 361,
-    "watchers_count": 361
+    "stargazers_count": 379,
+    "watchers_count": 379
 }
 {
     "commits_count": 9,
@@ -363,6 +533,7 @@
     "forks_count": 3,
     "html_url": "https://github.com/sec-it/CMSUno-RCE",
     "keywords": [
+        "remote code execution exploit",
         "remote code execution poc"
     ],
     "language": "Ruby",
@@ -380,7 +551,10 @@
     "forks_count": 2,
     "html_url": "https://github.com/GnosticPlayers/GTP-Smash",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation",
+        "0day denial of service",
+        "0day vulnerability"
     ],
     "language": null,
     "repo_name": "GTP-Smash",
@@ -424,6 +598,24 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 5,
+    "date_started": "2021-05-01",
+    "date_updated": "2021-05-03",
+    "description": "Full-chain RCE exploit for Source Engine games",
+    "forks_count": 4,
+    "html_url": "https://github.com/Gbps/sourceengine-packetentities-rce-poc",
+    "keywords": [
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": "TypeScript",
+    "repo_name": "sourceengine-packetentities-rce-poc",
+    "repo_owner": "Gbps",
+    "repotime": "2021-05-03, 21:11:46",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
     "commits_count": 4,
     "date_started": "2021-05-28",
     "date_updated": "2021-05-03",
@@ -431,7 +623,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/israelccarvalho/TOR-0Day",
     "keywords": [
-        "0day exploitation"
+        "0day exploitation",
+        "0day exploit"
     ],
     "language": null,
     "repo_name": "TOR-0Day",

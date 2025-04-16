@@ -20,7 +20,7 @@
     "date_started": "2016-04-13",
     "date_updated": "2018-05-30",
     "description": "Aggressor scripts for use with Cobalt Strike 3.0+",
-    "forks_count": 162,
+    "forks_count": 164,
     "html_url": "https://github.com/bluscreenofjeff/AggressorScripts",
     "keywords": [
         "by_owner"
@@ -29,25 +29,46 @@
     "repo_name": "AggressorScripts",
     "repo_owner": "bluscreenofjeff",
     "repotime": "2018-05-30, 15:20:21",
-    "stargazers_count": 782,
-    "watchers_count": 782
+    "stargazers_count": 837,
+    "watchers_count": 837
 }
 {
     "commits_count": 10,
     "date_started": "2018-05-19",
     "date_updated": "2018-05-30",
     "description": "CVE-2018-8120 Windows LPE exploit",
-    "forks_count": 190,
+    "forks_count": 191,
     "html_url": "https://github.com/rip1s/CVE-2018-8120",
     "keywords": [
-        "Windows lpe"
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows lpe exploitation",
+        "lpe exploitation"
     ],
     "language": "C++",
     "repo_name": "CVE-2018-8120",
     "repo_owner": "rip1s",
     "repotime": "2018-05-30, 21:09:52",
-    "stargazers_count": 494,
-    "watchers_count": 494
+    "stargazers_count": 497,
+    "watchers_count": 497
+}
+{
+    "commits_count": 9,
+    "date_started": "2015-10-31",
+    "date_updated": "2018-05-29",
+    "description": "A demo to bypass windows 10 default UAC configuration using IFileOperation and dll hijacking",
+    "forks_count": 67,
+    "html_url": "https://github.com/hjc4869/UacBypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "UacBypass",
+    "repo_owner": "hjc4869",
+    "repotime": "2018-05-29, 15:34:03",
+    "stargazers_count": 191,
+    "watchers_count": 191
 }
 {
     "commits_count": 4,
@@ -67,6 +88,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 2,
+    "date_started": "2018-05-26",
+    "date_updated": "2018-05-26",
+    "description": "Exploit for Remote Code Execution on GPON home routers (CVE-2018-10562) written in Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/c0ld1/GPON_RCE",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "GPON_RCE",
+    "repo_owner": "c0ld1",
+    "repotime": "2018-05-26, 10:07:36",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 4,
     "date_started": "2018-05-15",
     "date_updated": "2018-05-25",
@@ -74,14 +112,15 @@
     "forks_count": 14,
     "html_url": "https://github.com/649/Pingpon-Exploit",
     "keywords": [
+        "remote code execution exploitation",
         "remote code execution exploit"
     ],
     "language": "Python",
     "repo_name": "Pingpon-Exploit",
     "repo_owner": "649",
     "repotime": "2018-05-25, 23:44:16",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 3,
@@ -97,8 +136,8 @@
     "repo_name": "sqli-exploiter",
     "repo_owner": "lanmaster53",
     "repotime": "2018-05-24, 12:36:37",
-    "stargazers_count": 95,
-    "watchers_count": 95
+    "stargazers_count": 96,
+    "watchers_count": 96
 }
 {
     "commits_count": 2,
@@ -131,8 +170,25 @@
     "repo_name": "Azurite",
     "repo_owner": "FSecureLABS",
     "repotime": "2018-05-23, 23:48:55",
-    "stargazers_count": 249,
-    "watchers_count": 249
+    "stargazers_count": 250,
+    "watchers_count": 250
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-05-11",
+    "date_updated": "2018-05-22",
+    "description": "Synchronizer Token Pattern is a protection method used by servers agains Cross Site Request Forgery. Where as in this case server will create a token and store it in the server side and validate the user using an AJAX call by revoking a cookie stored in the user's browser.",
+    "forks_count": 0,
+    "html_url": "https://github.com/LakmaMadavi/CSRF-protection-Synchronizer-Token-Pattern",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "PHP",
+    "repo_name": "CSRF-protection-Synchronizer-Token-Pattern",
+    "repo_owner": "LakmaMadavi",
+    "repotime": "2018-05-22, 01:06:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -169,6 +225,23 @@
     "watchers_count": 22
 }
 {
+    "commits_count": 12,
+    "date_started": "2018-04-18",
+    "date_updated": "2018-05-18",
+    "description": "Zend 2/3 Module that sanitises requests and inputs against XSS (Cross-Site Scripting), CSRF (Cross-Site Request Forgery), RFI (Remote File Inclusion), LFI (Local File Inclusion), SQLi (SQL Injection) and more...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mecanik/SanitiserX",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "PHP",
+    "repo_name": "SanitiserX",
+    "repo_owner": "Mecanik",
+    "repotime": "2018-05-18, 14:15:06",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
     "commits_count": 4,
     "date_started": "2018-05-14",
     "date_updated": "2018-05-18",
@@ -186,6 +259,41 @@
     "watchers_count": 18
 }
 {
+    "commits_count": 5,
+    "date_started": "2018-05-17",
+    "date_updated": "2018-05-17",
+    "description": "Exploit loader for Remote Code Execution w/ Payload on GPON Home Gateway devices (CVE-2018-10562) written in Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Choudai/GPON-LOADER",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "GPON-LOADER",
+    "repo_owner": "Choudai",
+    "repotime": "2018-05-17, 18:15:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-05-16",
+    "date_updated": "2018-05-16",
+    "description": "An simple perl tool to exploit the WhiteLabel Remote Code Execution vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/solitud3/WhiteLabelBlackXpl",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "WhiteLabelBlackXpl",
+    "repo_owner": "solitud3",
+    "repotime": "2018-05-16, 05:33:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2018-05-14",
     "date_updated": "2018-05-14",
@@ -193,7 +301,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/alt3kx/CVE-2001-0931",
     "keywords": [
-        "directory traversal attack"
+        "directory traversal attack",
+        "directory traversal vulnerability"
     ],
     "language": null,
     "repo_name": "CVE-2001-0931",
@@ -224,7 +333,7 @@
     "date_started": "2018-05-12",
     "date_updated": "2018-05-11",
     "description": "Nice list of google dorks for SQL injection",
-    "forks_count": 62,
+    "forks_count": 66,
     "html_url": "https://github.com/rootac355/SQL-injection-dorks-list",
     "keywords": [
         "sql injection"
@@ -233,8 +342,8 @@
     "repo_name": "SQL-injection-dorks-list",
     "repo_owner": "rootac355",
     "repotime": "2018-05-11, 18:56:04",
-    "stargazers_count": 117,
-    "watchers_count": 117
+    "stargazers_count": 126,
+    "watchers_count": 126
 }
 {
     "commits_count": 4,
@@ -261,7 +370,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/alt3kx/CVE-2002-0347",
     "keywords": [
-        "directory traversal attack"
+        "directory traversal attack",
+        "directory traversal vulnerability"
     ],
     "language": null,
     "repo_name": "CVE-2002-0347",
@@ -305,6 +415,25 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 17,
+    "date_started": "2018-05-07",
+    "date_updated": "2018-05-10",
+    "description": "Exploit for Remote Code Execution on GPON home routers (CVE-2018-10562) written in Python. Initially disclosed by VPNMentor (https://www.vpnmentor.com/blog/critical-vulnerability-gpon-router/), kudos for their work.",
+    "forks_count": 73,
+    "html_url": "https://github.com/f3d0x0/GPON",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "GPON",
+    "repo_owner": "f3d0x0",
+    "repotime": "2018-05-10, 17:08:42",
+    "stargazers_count": 209,
+    "watchers_count": 209
+}
+{
     "commits_count": 4,
     "date_started": "2018-05-01",
     "date_updated": "2018-05-10",
@@ -335,8 +464,8 @@
     "repo_name": "SQL-injection",
     "repo_owner": "admintony",
     "repotime": "2018-05-09, 00:50:44",
-    "stargazers_count": 37,
-    "watchers_count": 37
+    "stargazers_count": 39,
+    "watchers_count": 39
 }
 {
     "commits_count": 2,
@@ -373,6 +502,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 0,
+    "date_started": "2018-05-05",
+    "date_updated": "2018-05-05",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/hackingurwifi/0day-dos",
+    "keywords": [
+        "0day dos"
+    ],
+    "language": null,
+    "repo_name": "0day-dos",
+    "repo_owner": "hackingurwifi",
+    "repotime": "2018-05-05, 16:25:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 3,
     "date_started": "2018-05-05",
     "date_updated": "2018-05-05",
@@ -380,14 +526,15 @@
     "forks_count": 22,
     "html_url": "https://github.com/its-arun/Werkzeug-Debug-RCE",
     "keywords": [
-        "rce exploit"
+        "rce exploit",
+        "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "Werkzeug-Debug-RCE",
     "repo_owner": "its-arun",
     "repotime": "2018-05-05, 14:49:49",
-    "stargazers_count": 32,
-    "watchers_count": 32
+    "stargazers_count": 33,
+    "watchers_count": 33
 }
 {
     "commits_count": 2,
@@ -428,7 +575,7 @@
     "date_started": "2018-04-29",
     "date_updated": "2018-05-01",
     "description": "Drupal &amp;lt; 7.58 - Drupalgeddon 3 Authenticated Remote Code Execution (Metasploit)",
-    "forks_count": 12,
+    "forks_count": 9,
     "html_url": "https://github.com/rithchard/Drupalgeddon3",
     "keywords": [
         "remote code execution exploit"
@@ -437,6 +584,23 @@
     "repo_name": "Drupalgeddon3",
     "repo_owner": "rithchard",
     "repotime": "2018-05-01, 16:57:32",
-    "stargazers_count": 26,
-    "watchers_count": 26
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-05-01",
+    "date_updated": "2018-05-01",
+    "description": "Bypassing UAC using a special Reg key under the current user hive. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/haharooted/uac_bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "Python",
+    "repo_name": "uac_bypass",
+    "repo_owner": "haharooted",
+    "repotime": "2018-05-01, 11:16:01",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }

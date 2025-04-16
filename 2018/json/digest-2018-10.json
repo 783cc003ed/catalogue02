@@ -57,14 +57,15 @@
     "forks_count": 2,
     "html_url": "https://github.com/smith86n/wiki-is-mostly-fake-radom-words-word-genrationr-",
     "keywords": [
+        "Windows use after free",
         "Chrome use after free"
     ],
     "language": null,
     "repo_name": "wiki-is-mostly-fake-radom-words-word-genrationr-",
     "repo_owner": "smith86n",
     "repotime": "2018-10-29, 11:59:58",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 7,
@@ -91,7 +92,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/Grubbly/Window-Quest-Public",
     "keywords": [
-        "Win uaf"
+        "Win uaf",
+        "Windows uaf"
     ],
     "language": null,
     "repo_name": "Window-Quest-Public",
@@ -99,6 +101,42 @@
     "repotime": "2018-10-27, 11:57:57",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2018-10-20",
+    "date_updated": "2018-10-25",
+    "description": "LibSSH Authentication Bypass Exploit using RCE",
+    "forks_count": 8,
+    "html_url": "https://github.com/Virgula0/POC-CVE-2018-10933",
+    "keywords": [
+        "rce poc",
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "POC-CVE-2018-10933",
+    "repo_owner": "Virgula0",
+    "repotime": "2018-10-25, 20:23:52",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-10-24",
+    "date_updated": "2018-10-25",
+    "description": "<no description>",
+    "forks_count": 5,
+    "html_url": "https://github.com/mackleadmire/CVE-2018-3191-Rce-Exploit",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-3191-Rce-Exploit",
+    "repo_owner": "mackleadmire",
+    "repotime": "2018-10-25, 16:12:46",
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 3,
@@ -114,8 +152,8 @@
     "repo_name": "XXEpayload",
     "repo_owner": "hackping",
     "repotime": "2018-10-25, 11:03:02",
-    "stargazers_count": 85,
-    "watchers_count": 85
+    "stargazers_count": 84,
+    "watchers_count": 84
 }
 {
     "commits_count": 3,
@@ -139,7 +177,7 @@
     "date_started": "2018-02-21",
     "date_updated": "2018-10-23",
     "description": "PoC for detecting and dumping code injection (built and extended on UnRunPE)",
-    "forks_count": 21,
+    "forks_count": 22,
     "html_url": "https://github.com/NtRaiseHardError/Dreadnought",
     "keywords": [
         "code injection"
@@ -148,15 +186,15 @@
     "repo_name": "Dreadnought",
     "repo_owner": "NtRaiseHardError",
     "repotime": "2018-10-23, 11:03:36",
-    "stargazers_count": 54,
-    "watchers_count": 54
+    "stargazers_count": 56,
+    "watchers_count": 56
 }
 {
     "commits_count": 6,
     "date_started": "2018-02-21",
     "date_updated": "2018-10-23",
     "description": "PoC for detecting and dumping process hollowing code injection",
-    "forks_count": 25,
+    "forks_count": 26,
     "html_url": "https://github.com/NtRaiseHardError/UnRunPE",
     "keywords": [
         "code injection"
@@ -165,8 +203,8 @@
     "repo_name": "UnRunPE",
     "repo_owner": "NtRaiseHardError",
     "repotime": "2018-10-23, 11:03:09",
-    "stargazers_count": 50,
-    "watchers_count": 50
+    "stargazers_count": 51,
+    "watchers_count": 51
 }
 {
     "commits_count": 4,
@@ -193,6 +231,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/dilithvithanage/cookie_protection_sample",
     "keywords": [
+        "session hijacking attack",
         "session attack"
     ],
     "language": "Java",
@@ -284,8 +323,8 @@
     "repo_name": "PIL-RCE-Ghostscript-CVE-2018-16509",
     "repo_owner": "farisv",
     "repotime": "2018-10-15, 16:19:47",
-    "stargazers_count": 58,
-    "watchers_count": 58
+    "stargazers_count": 57,
+    "watchers_count": 57
 }
 {
     "commits_count": 7,
@@ -309,7 +348,7 @@
     "date_started": "2012-03-05",
     "date_updated": "2018-10-12",
     "description": "Chrome extension Exploitation Framework",
-    "forks_count": 104,
+    "forks_count": 106,
     "html_url": "https://github.com/koto/xsschef",
     "keywords": [
         "xss"
@@ -318,8 +357,8 @@
     "repo_name": "xsschef",
     "repo_owner": "koto",
     "repotime": "2018-10-12, 21:57:14",
-    "stargazers_count": 557,
-    "watchers_count": 557
+    "stargazers_count": 566,
+    "watchers_count": 566
 }
 {
     "commits_count": 2,
@@ -329,7 +368,9 @@
     "forks_count": 7,
     "html_url": "https://github.com/whereisr0da/CVE-2018-8495-POC",
     "keywords": [
-        "Microsoft remote code execution poc"
+        "Microsoft remote code execution",
+        "Microsoft remote code execution poc",
+        "remote code execution poc"
     ],
     "language": "HTML",
     "repo_name": "CVE-2018-8495-POC",
@@ -343,7 +384,7 @@
     "date_started": "2018-03-16",
     "date_updated": "2018-10-12",
     "description": "Security Knowledge Structure(安全知识汇总)",
-    "forks_count": 61,
+    "forks_count": 59,
     "html_url": "https://github.com/JoyChou93/sks",
     "keywords": [
         "xxe"
@@ -352,8 +393,8 @@
     "repo_name": "sks",
     "repo_owner": "JoyChou93",
     "repotime": "2018-10-12, 14:08:16",
-    "stargazers_count": 242,
-    "watchers_count": 242
+    "stargazers_count": 241,
+    "watchers_count": 241
 }
 {
     "commits_count": 1,
@@ -390,6 +431,40 @@
     "watchers_count": 109
 }
 {
+    "commits_count": 3,
+    "date_started": "2018-03-01",
+    "date_updated": "2018-10-06",
+    "description": "Kong plugin for detection of SQL injections and XSS code",
+    "forks_count": 9,
+    "html_url": "https://github.com/ror6ax/kong_injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Lua",
+    "repo_name": "kong_injection",
+    "repo_owner": "ror6ax",
+    "repotime": "2018-10-06, 20:07:47",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 25,
+    "date_started": "2017-12-14",
+    "date_updated": "2018-10-05",
+    "description": "Simple SQL injection filter that attempts to detect malicious SQL strings from a pre-defined dataset.  Note this tool does not carry out sanitisation of input, where input is transformed into something that conforms to a specification.  Check out the README for more.",
+    "forks_count": 8,
+    "html_url": "https://github.com/stu17682/sql-injection-filter",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "sql-injection-filter",
+    "repo_owner": "stu17682",
+    "repotime": "2018-10-05, 12:25:38",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
     "commits_count": 2,
     "date_started": "2018-10-04",
     "date_updated": "2018-10-04",
@@ -405,6 +480,23 @@
     "repotime": "2018-10-04, 14:08:05",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-10-04",
+    "date_updated": "2018-10-04",
+    "description": "Cross-site request forgery, also known as  one-click attack or session riding and abbreviated as CSRF or XSRF, is a type of malicious  exploit of a website where unauthorised commands are transmitted from a user that the web application trusts",
+    "forks_count": 0,
+    "html_url": "https://github.com/NimansaAthukorala/Cross-Site-Request-Forgery-Demo",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "Cross-Site-Request-Forgery-Demo",
+    "repo_owner": "NimansaAthukorala",
+    "repotime": "2018-10-04, 22:59:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 8,
@@ -437,18 +529,42 @@
     "repo_name": "Remote-Thread-Executor",
     "repo_owner": "johnsonjason",
     "repotime": "2018-10-02, 20:18:44",
-    "stargazers_count": 42,
-    "watchers_count": 42
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-10-02",
+    "date_updated": "2018-10-03",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/cybermous/0dayExploit",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "0dayExploit",
+    "repo_owner": "cybermous",
+    "repotime": "2018-10-03, 00:01:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 9,
     "date_started": "2018-09-02",
     "date_updated": "2018-10-02",
     "description": "The Windows 10 LPE exploit written by SandboxEscaper",
-    "forks_count": 51,
+    "forks_count": 52,
     "html_url": "https://github.com/3ndG4me/Win10-LPE",
     "keywords": [
-        "Windows lpe"
+        "Win lpe",
+        "Windows lpe exploit",
+        "Win lpe exploitation",
+        "Windows lpe",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Win lpe exploit",
+        "lpe exploitation"
     ],
     "language": "C",
     "repo_name": "Win10-LPE",
@@ -458,6 +574,40 @@
     "watchers_count": 107
 }
 {
+    "commits_count": 0,
+    "date_started": "2018-10-02",
+    "date_updated": "2018-10-02",
+    "description": "HOW TO GET FREE V-BUCKS GUIDE How to get free V-Bucks in Fortnite Battle Royale and Save the World? You came to the right place! Welcome to the &amp;quot;Free the V-Bucks&amp;quot; all-in-one guide about all the ways of earning V-Bucks in Fortnite.     Get Your Free VBucks Here: http://hyperurl.co/VbucksGenerator                How to earn Free V Bucks with the Fortnite hack tool?    Get Your Free VBucks Here: http://hyperurl.co/VbucksGenerator     Earning V-Bucks will help you to get a wide range of benefits which make them incredibly valuable. Like Roblox gaming, Fortnite also provides free hack tool generator for the players. Getting v-bucks from Fortnite hack tool is pretty much straightforward. All you need to do is to follow the steps mentioned below.  -Choose the platform of the device on which you are playing.  -Enter your Fortnite username or email id in the desired location and click on the confirm button.  -Select the amount of V-Bucks you want to generate.  -Now click on the button...",
+    "forks_count": 0,
+    "html_url": "https://github.com/VbucksFortnitetutorials/Fortnite-Vbucks",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Fortnite-Vbucks",
+    "repo_owner": "VbucksFortnitetutorials",
+    "repotime": "2018-10-02, 13:45:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-10-02",
+    "date_updated": "2018-10-02",
+    "description": "A tool that helps you get system shell without UAC prompt",
+    "forks_count": 20,
+    "html_url": "https://github.com/DoubleLabyrinth/BypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "BypassUAC",
+    "repo_owner": "DoubleLabyrinth",
+    "repotime": "2018-10-02, 15:30:49",
+    "stargazers_count": 49,
+    "watchers_count": 49
+}
+{
     "commits_count": 1,
     "date_started": "2018-10-02",
     "date_updated": "2018-10-02",
@@ -465,7 +615,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/cheesechoi/linux-lpe",
     "keywords": [
-        "lpe poc"
+        "lpe poc",
+        "escalation of privileges poc"
     ],
     "language": null,
     "repo_name": "linux-lpe",

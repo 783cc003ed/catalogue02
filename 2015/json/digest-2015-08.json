@@ -46,8 +46,8 @@
     "repo_name": "uacscript",
     "repo_owner": "Vozzie",
     "repotime": "2015-08-26, 08:23:09",
-    "stargazers_count": 105,
-    "watchers_count": 105
+    "stargazers_count": 106,
+    "watchers_count": 106
 }
 {
     "commits_count": 2,
@@ -63,8 +63,8 @@
     "repo_name": "agar.io-Cheats",
     "repo_owner": "githubhack",
     "repotime": "2015-08-25, 09:50:51",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 74,
@@ -91,7 +91,11 @@
     "forks_count": 10,
     "html_url": "https://github.com/codecrack3/HTA-Exploit-",
     "keywords": [
-        "Windows remote code execution"
+        "Microsoft remote code execution exploit",
+        "Windows remote code execution",
+        "remote code execution exploit",
+        "Windows remote code execution exploit",
+        "Microsoft remote code execution"
     ],
     "language": "Python",
     "repo_name": "HTA-Exploit-",
@@ -101,21 +105,21 @@
     "watchers_count": 29
 }
 {
-    "commits_count": 2,
-    "date_started": "2015-08-19",
-    "date_updated": "2015-08-19",
-    "description": "Service for Uproot IDS Listening Post",
-    "forks_count": 3,
-    "html_url": "https://github.com/Invoke-IR/uprootd",
+    "commits_count": 18,
+    "date_started": "2015-08-20",
+    "date_updated": "2015-08-20",
+    "description": "Automatic XSS filter bypass",
+    "forks_count": 45,
+    "html_url": "https://github.com/mauro-g/snuck",
     "keywords": [
-        "by_owner"
+        "xss"
     ],
-    "language": "C#",
-    "repo_name": "uprootd",
-    "repo_owner": "Invoke-IR",
-    "repotime": "2015-08-19, 09:07:23",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "language": "Java",
+    "repo_name": "snuck",
+    "repo_owner": "mauro-g",
+    "repotime": "2015-08-20, 15:08:53",
+    "stargazers_count": 90,
+    "watchers_count": 90
 }
 {
     "commits_count": 17,
@@ -139,7 +143,7 @@
     "date_started": "2015-08-15",
     "date_updated": "2015-08-16",
     "description": "xnu local privilege escalation via cve-2015-???? &amp;amp; cve-2015-???? for 10.10.5, 0day at the time | poc or gtfo",
-    "forks_count": 88,
+    "forks_count": 87,
     "html_url": "https://github.com/kpwn/tpwn",
     "keywords": [
         "0day poc"
@@ -148,8 +152,8 @@
     "repo_name": "tpwn",
     "repo_owner": "kpwn",
     "repotime": "2015-08-16, 19:47:55",
-    "stargazers_count": 394,
-    "watchers_count": 394
+    "stargazers_count": 395,
+    "watchers_count": 395
 }
 {
     "commits_count": 3,
@@ -173,7 +177,7 @@
     "date_started": "2015-08-12",
     "date_updated": "2015-08-12",
     "description": "PowerLoaderEx - Advanced Code Injection Technique for x32 / x64",
-    "forks_count": 151,
+    "forks_count": 149,
     "html_url": "https://github.com/BreakingMalware/PowerLoaderEx",
     "keywords": [
         "code injection"
@@ -182,8 +186,8 @@
     "repo_name": "PowerLoaderEx",
     "repo_owner": "BreakingMalware",
     "repotime": "2015-08-12, 18:16:00",
-    "stargazers_count": 358,
-    "watchers_count": 358
+    "stargazers_count": 364,
+    "watchers_count": 364
 }
 {
     "commits_count": 5,
@@ -207,7 +211,7 @@
     "date_started": "2014-06-10",
     "date_updated": "2015-08-06",
     "description": "CodeIgniter &amp;lt;=2.1.4 session cookie decryption vulnerability",
-    "forks_count": 16,
+    "forks_count": 14,
     "html_url": "https://github.com/dionach/CodeIgniterXor",
     "keywords": [
         "session vulnerability"
@@ -227,6 +231,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/nishadchenicheri/MemoryIssues",
     "keywords": [
+        "address leak analysis",
         "memory leak analysis"
     ],
     "language": "C",

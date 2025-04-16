@@ -3,7 +3,7 @@
     "date_started": "2014-09-29",
     "date_updated": "2014-09-30",
     "description": "Spoofs a DHCP server and exploits all clients vulnerable to the 'ShellShock' bug",
-    "forks_count": 32,
+    "forks_count": 28,
     "html_url": "https://github.com/byt3bl33d3r/DHCPShock",
     "keywords": [
         "spoofing vulnerability"
@@ -12,8 +12,8 @@
     "repo_name": "DHCPShock",
     "repo_owner": "byt3bl33d3r",
     "repotime": "2014-09-30, 22:48:08",
-    "stargazers_count": 84,
-    "watchers_count": 84
+    "stargazers_count": 85,
+    "watchers_count": 85
 }
 {
     "commits_count": 58,
@@ -40,7 +40,9 @@
     "forks_count": 0,
     "html_url": "https://github.com/neilopet/TeamSpeak2-Session-Hijack",
     "keywords": [
-        "session vulnerability"
+        "session vulnerability",
+        "session hijacking vulnerability",
+        "session hijacking"
     ],
     "language": "C#",
     "repo_name": "TeamSpeak2-Session-Hijack",
@@ -71,7 +73,7 @@
     "date_started": "2014-09-19",
     "date_updated": "2014-09-19",
     "description": "SQL Injection Tool",
-    "forks_count": 26,
+    "forks_count": 27,
     "html_url": "https://github.com/xxgrunge/sqlninja",
     "keywords": [
         "sql injection"
@@ -80,15 +82,15 @@
     "repo_name": "sqlninja",
     "repo_owner": "xxgrunge",
     "repotime": "2014-09-19, 16:35:20",
-    "stargazers_count": 38,
-    "watchers_count": 38
+    "stargazers_count": 50,
+    "watchers_count": 50
 }
 {
     "commits_count": 4,
     "date_started": "2014-09-02",
     "date_updated": "2014-09-18",
     "description": "Welcome to the XSS Challenge Wiki!",
-    "forks_count": 222,
+    "forks_count": 223,
     "html_url": "https://github.com/cure53/XSSChallengeWiki",
     "keywords": [
         "xss"
@@ -97,8 +99,8 @@
     "repo_name": "XSSChallengeWiki",
     "repo_owner": "cure53",
     "repotime": "2014-09-18, 15:30:04",
-    "stargazers_count": 1576,
-    "watchers_count": 1576
+    "stargazers_count": 1584,
+    "watchers_count": 1584
 }
 {
     "commits_count": 3,
@@ -125,6 +127,7 @@
     "forks_count": 20,
     "html_url": "https://github.com/ssexxe/XXEBugFind",
     "keywords": [
+        "xml external entity",
         "xxe"
     ],
     "language": "Java",

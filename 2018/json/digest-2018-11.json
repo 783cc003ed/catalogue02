@@ -3,17 +3,20 @@
     "date_started": "2018-11-30",
     "date_updated": "2018-11-30",
     "description": "‪APT,‬ ‪Cyber warfare,‬ ‪Penetration testing,‬ ‪Zero-day,Exploiting,‬ ‪Spyware,Malwares evade anti-virus detection,‬ ‪Rookit CYPTER,‬ ‪Antiviruses Bypassing-av,‬ ‪WORMS,Sandbox-Escape,‬ ‪Memory-injection,‬ ‪Ethical,Gray,White,RedTeam‬...",
-    "forks_count": 251,
+    "forks_count": 257,
     "html_url": "https://github.com/jwx0539/hackingLibrary",
     "keywords": [
+        "zero-day exploitation",
+        "sandbox escape exploitation",
+        "sandbox escape exploit",
         "zero-day exploit"
     ],
     "language": null,
     "repo_name": "hackingLibrary",
     "repo_owner": "jwx0539",
     "repotime": "2018-11-30, 10:14:36",
-    "stargazers_count": 249,
-    "watchers_count": 249
+    "stargazers_count": 272,
+    "watchers_count": 272
 }
 {
     "commits_count": 2,
@@ -23,6 +26,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/aeroot/WP-GDPR-Compliance-Plugin-Exploit",
     "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
         "escalation of privileges exploit"
     ],
     "language": "Python",
@@ -33,6 +38,23 @@
     "watchers_count": 3
 }
 {
+    "commits_count": 8,
+    "date_started": "2018-11-25",
+    "date_updated": "2018-11-26",
+    "description": "CVE-2018-19537",
+    "forks_count": 5,
+    "html_url": "https://github.com/JackDoan/TP-Link-ArcherC5-RCE",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "TP-Link-ArcherC5-RCE",
+    "repo_owner": "JackDoan",
+    "repotime": "2018-11-26, 16:39:07",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
     "commits_count": 22,
     "date_started": "2018-11-26",
     "date_updated": "2018-11-26",
@@ -40,6 +62,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/PavelICS/lpe-tasks_scheduler_alpc",
     "keywords": [
+        "Windows lpe poc",
+        "lpe poc",
         "Windows lpe"
     ],
     "language": "C",
@@ -63,8 +87,8 @@
     "repo_name": "PHP_imap_open_exploit",
     "repo_owner": "Bo0oM",
     "repotime": "2018-11-26, 10:47:04",
-    "stargazers_count": 400,
-    "watchers_count": 400
+    "stargazers_count": 401,
+    "watchers_count": 401
 }
 {
     "commits_count": 6,
@@ -80,8 +104,8 @@
     "repo_name": "Bud",
     "repo_owner": "stefan2200",
     "repotime": "2018-11-22, 23:20:11",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 22,
@@ -91,7 +115,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/DoubleMice/cve-2017-11176",
     "keywords": [
-        "lpe exploit"
+        "lpe exploit",
+        "lpe exploitation"
     ],
     "language": "C",
     "repo_name": "cve-2017-11176",
@@ -176,7 +201,8 @@
     "forks_count": 3,
     "html_url": "https://github.com/in0finite/ALPC",
     "keywords": [
-        "lpe exploit"
+        "lpe exploit",
+        "lpe exploitation"
     ],
     "language": "C",
     "repo_name": "ALPC",
@@ -199,8 +225,8 @@
     "repo_name": "fimap",
     "repo_owner": "kurobeats",
     "repotime": "2018-11-14, 20:27:58",
-    "stargazers_count": 512,
-    "watchers_count": 512
+    "stargazers_count": 538,
+    "watchers_count": 538
 }
 {
     "commits_count": 5,
@@ -210,21 +236,25 @@
     "forks_count": 6,
     "html_url": "https://github.com/ethereumbandit/winrar-SFX-0day-exploiter",
     "keywords": [
-        "Win 0day"
+        "0day exploit",
+        "0day exploitation",
+        "Win 0day exploitation",
+        "Win 0day",
+        "Win 0day exploit"
     ],
     "language": "Python",
     "repo_name": "winrar-SFX-0day-exploiter",
     "repo_owner": "ethereumbandit",
     "repotime": "2018-11-13, 12:19:53",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 28,
     "date_started": "2018-02-23",
     "date_updated": "2018-11-12",
     "description": "CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6 leading to sandbox escape, privilege escalation, and codesigning bypass.",
-    "forks_count": 43,
+    "forks_count": 44,
     "html_url": "https://github.com/bazad/blanket",
     "keywords": [
         "sandbox escape vulnerability"
@@ -233,8 +263,8 @@
     "repo_name": "blanket",
     "repo_owner": "bazad",
     "repotime": "2018-11-12, 16:25:17",
-    "stargazers_count": 246,
-    "watchers_count": 246
+    "stargazers_count": 254,
+    "watchers_count": 254
 }
 {
     "commits_count": 6,
@@ -267,8 +297,8 @@
     "repo_name": "DTLeakAnalyzer",
     "repo_owner": "ppissias",
     "repotime": "2018-11-12, 15:48:47",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 49,
@@ -286,6 +316,40 @@
     "repotime": "2018-11-11, 19:23:30",
     "stargazers_count": 3,
     "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-06-28",
+    "date_updated": "2018-11-11",
+    "description": "Docker image to test XXE attacks in java with tomcat.",
+    "forks_count": 1,
+    "html_url": "https://github.com/pimps/docker-java-xxe",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Smarty",
+    "repo_name": "docker-java-xxe",
+    "repo_owner": "pimps",
+    "repotime": "2018-11-11, 00:30:37",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-11-09",
+    "date_updated": "2018-11-09",
+    "description": "CMS Made Simple 2.2.7 RCE exploit",
+    "forks_count": 5,
+    "html_url": "https://github.com/0x00-0x00/CVE-2018-10517",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CVE-2018-10517",
+    "repo_owner": "0x00-0x00",
+    "repotime": "2018-11-09, 13:09:10",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 3,
@@ -318,8 +382,8 @@
     "repo_name": "login-screen",
     "repo_owner": "dulanaDias",
     "repotime": "2018-11-09, 17:09:31",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 5,
@@ -335,8 +399,8 @@
     "repo_name": "InjectionStopwatchCode",
     "repo_owner": "MinosDora",
     "repotime": "2018-11-08, 15:42:36",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 5,
@@ -356,6 +420,41 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 2,
+    "date_started": "2018-11-06",
+    "date_updated": "2018-11-06",
+    "description": "Exploit for PlaySMS 1.4 authenticated RCE",
+    "forks_count": 4,
+    "html_url": "https://github.com/jasperla/CVE-2017-9101",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-9101",
+    "repo_owner": "jasperla",
+    "repotime": "2018-11-06, 20:45:33",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-11-06",
+    "date_updated": "2018-11-06",
+    "description": "an RCE (remote command execution) approach of CVE-2018-7750",
+    "forks_count": 8,
+    "html_url": "https://github.com/jm33-m0/CVE-2018-7750",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-7750",
+    "repo_owner": "jm33-m0",
+    "repotime": "2018-11-06, 18:10:26",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
     "commits_count": 36,
     "date_started": "2018-09-12",
     "date_updated": "2018-11-04",
@@ -363,7 +462,8 @@
     "forks_count": 12,
     "html_url": "https://github.com/aryanrtm/Crascan",
     "keywords": [
-        "lfi"
+        "lfi",
+        "rce vulnerability"
     ],
     "language": "Shell",
     "repo_name": "Crascan",
@@ -397,7 +497,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/sry309/Hadoop0day",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation"
     ],
     "language": "Python",
     "repo_name": "Hadoop0day",

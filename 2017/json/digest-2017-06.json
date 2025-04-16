@@ -16,6 +16,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 2,
+    "date_started": "2017-06-30",
+    "date_updated": "2017-06-30",
+    "description": "<no description>",
+    "forks_count": 8,
+    "html_url": "https://github.com/sUbc0ol/Apache-Struts2-RCE-Exploit-v2-CVE-2017-5638",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Apache-Struts2-RCE-Exploit-v2-CVE-2017-5638",
+    "repo_owner": "sUbc0ol",
+    "repotime": "2017-06-30, 03:57:00",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
     "commits_count": 3,
     "date_started": "2017-06-29",
     "date_updated": "2017-06-29",
@@ -71,7 +88,7 @@
     "date_started": "2017-06-26",
     "date_updated": "2017-06-26",
     "description": "<no description>",
-    "forks_count": 17,
+    "forks_count": 18,
     "html_url": "https://github.com/sUbc0ol/OpenSSH-5.3-remote-root-0day-exploit-32-bit-x86-",
     "keywords": [
         "0day exploit"
@@ -91,14 +108,32 @@
     "forks_count": 7,
     "html_url": "https://github.com/sUbc0ol/phpMyAdmin-Code-Injection-RCE-Scanner-Exploit",
     "keywords": [
-        "code injection"
+        "code injection",
+        "rce exploit"
     ],
     "language": "PHP",
     "repo_name": "phpMyAdmin-Code-Injection-RCE-Scanner-Exploit",
     "repo_owner": "sUbc0ol",
     "repotime": "2017-06-26, 17:09:18",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 3,
+    "date_started": "2017-06-26",
+    "date_updated": "2017-06-26",
+    "description": "<no description>",
+    "forks_count": 7,
+    "html_url": "https://github.com/sUbc0ol/LFI-scanner",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "LFI-scanner",
+    "repo_owner": "sUbc0ol",
+    "repotime": "2017-06-26, 16:55:23",
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 3,
@@ -131,8 +166,8 @@
     "repo_name": "xssor",
     "repo_owner": "evilcos",
     "repotime": "2017-06-25, 16:31:53",
-    "stargazers_count": 460,
-    "watchers_count": 460
+    "stargazers_count": 464,
+    "watchers_count": 464
 }
 {
     "commits_count": 3,
@@ -150,6 +185,23 @@
     "repotime": "2017-06-23, 15:11:28",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-06-22",
+    "date_updated": "2017-06-22",
+    "description": "<no description>",
+    "forks_count": 3,
+    "html_url": "https://github.com/u0pattern/UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "UAC-Bypass",
+    "repo_owner": "u0pattern",
+    "repotime": "2017-06-22, 07:15:46",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 2,
@@ -184,6 +236,40 @@
     "repotime": "2017-06-21, 00:40:18",
     "stargazers_count": 3,
     "watchers_count": 3
+}
+{
+    "commits_count": 12,
+    "date_started": "2017-06-21",
+    "date_updated": "2017-06-19",
+    "description": "Java REST application to test hard coded passwords and code vulnerability scanning",
+    "forks_count": 0,
+    "html_url": "https://github.com/gjtaylor/bad-apple",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Java",
+    "repo_name": "bad-apple",
+    "repo_owner": "gjtaylor",
+    "repotime": "2017-06-19, 18:04:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2018-02-17",
+    "date_updated": "2017-06-19",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/sumas/csv-injection-vulnerable-php-script-",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "PHP",
+    "repo_name": "csv-injection-vulnerable-php-script-",
+    "repo_owner": "sumas",
+    "repotime": "2017-06-19, 13:37:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 13,
@@ -241,17 +327,35 @@
     "date_started": "2017-06-11",
     "date_updated": "2017-06-12",
     "description": "A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities.",
-    "forks_count": 111,
+    "forks_count": 96,
     "html_url": "https://github.com/jobertabma/ground-control",
     "keywords": [
+        "ssrf",
         "xxe"
     ],
     "language": "Ruby",
     "repo_name": "ground-control",
     "repo_owner": "jobertabma",
     "repotime": "2017-06-12, 13:51:32",
-    "stargazers_count": 530,
-    "watchers_count": 530
+    "stargazers_count": 542,
+    "watchers_count": 542
+}
+{
+    "commits_count": 1,
+    "date_started": "2017-06-12",
+    "date_updated": "2017-06-12",
+    "description": "Demonstrate an auto-elevation bug exists in Win10 revealed by winscripting.blog.",
+    "forks_count": 3,
+    "html_url": "https://github.com/Raymai97/Win10-uac-bypass-fodh",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "Win10-uac-bypass-fodh",
+    "repo_owner": "Raymai97",
+    "repotime": "2017-06-12, 10:19:17",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 3,
@@ -295,6 +399,7 @@
     "forks_count": 2,
     "html_url": "https://github.com/dreadl0ck/osx-root-installer",
     "keywords": [
+        "escalation of privileges proof of concept",
         "escalation of privileges exploit"
     ],
     "language": "Go",
@@ -312,7 +417,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/pucerpocok/sudo_exploit",
     "keywords": [
-        "escalation of privileges exploit"
+        "escalation of privileges exploit",
+        "escalation of privileges vulnerability"
     ],
     "language": "Python",
     "repo_name": "sudo_exploit",
@@ -346,12 +452,19 @@
     "forks_count": 25,
     "html_url": "https://github.com/vaginessa/ShadowBrokers-NSA-Mirror",
     "keywords": [
-        "Windows rce"
+        "Windows rce exploitation",
+        "Windows remote code execution",
+        "Windows remote code execution exploit",
+        "Windows rce",
+        "Windows remote code execution exploitation",
+        "Windows remote code execution vulnerability",
+        "Windows rce exploit",
+        "Windows rce vulnerability"
     ],
     "language": null,
     "repo_name": "ShadowBrokers-NSA-Mirror",
     "repo_owner": "vaginessa",
     "repotime": "2017-06-02, 13:23:56",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 10,
+    "watchers_count": 10
 }

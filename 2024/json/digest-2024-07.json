@@ -20,7 +20,7 @@
     "date_started": "2024-07-31",
     "date_updated": "2024-07-31",
     "description": "Demonstration of a critical vulnerability in WhatsApp that allows automatic execution of malicious .pyz (Python) files, leading to a reverse shell and privilege escalation on Windows systems. This exploit bypasses security checks in Windows Defender, UAC, antivirus software, and WhatsApp itself.",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/r000t1ng/Reverse-Shell-Whatsapp",
     "keywords": [
         "escalation of privileges exploit"
@@ -29,8 +29,8 @@
     "repo_name": "Reverse-Shell-Whatsapp",
     "repo_owner": "r000t1ng",
     "repotime": "2024-07-31, 03:45:48",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 8,
@@ -40,21 +40,38 @@
     "forks_count": 0,
     "html_url": "https://github.com/charlesgargasson/CVE-2024-32002",
     "keywords": [
-        "Windows rce"
+        "Windows rce exploit"
     ],
     "language": null,
     "repo_name": "CVE-2024-32002",
     "repo_owner": "charlesgargasson",
     "repotime": "2024-07-31, 01:27:57",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2024-07-30",
+    "date_updated": "2024-07-30",
+    "description": "PoC of CVE-2024-32002 - Remote Code Execution while cloning special-crafted local repositories",
+    "forks_count": 2,
+    "html_url": "https://github.com/NishanthAnand21/CVE-2024-32002-PoC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2024-32002-PoC",
+    "repo_owner": "NishanthAnand21",
+    "repotime": "2024-07-30, 16:01:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 44,
     "date_started": "2022-12-05",
     "date_updated": "2024-07-30",
     "description": "Find Email Spoofing Vulnerablity of domains",
-    "forks_count": 10,
+    "forks_count": 11,
     "html_url": "https://github.com/BLACK-SCORP10/Email-Vulnerability-Checker",
     "keywords": [
         "spoofing vulnerability"
@@ -63,8 +80,8 @@
     "repo_name": "Email-Vulnerability-Checker",
     "repo_owner": "BLACK-SCORP10",
     "repotime": "2024-07-30, 18:15:37",
-    "stargazers_count": 90,
-    "watchers_count": 90
+    "stargazers_count": 94,
+    "watchers_count": 94
 }
 {
     "commits_count": 7,
@@ -88,7 +105,7 @@
     "date_started": "2024-07-28",
     "date_updated": "2024-07-29",
     "description": "In the 3.3.5a WoW client there is a Remote Code Exploit (RCE) that allows any private server owner to inject and run arbitrary code on your computer. This patcher will modify your WoW executable file to fix the exploit.",
-    "forks_count": 14,
+    "forks_count": 21,
     "html_url": "https://github.com/stoneharry/RCEPatcher",
     "keywords": [
         "rce exploit"
@@ -97,25 +114,27 @@
     "repo_name": "RCEPatcher",
     "repo_owner": "stoneharry",
     "repotime": "2024-07-29, 19:45:35",
-    "stargazers_count": 42,
-    "watchers_count": 42
+    "stargazers_count": 56,
+    "watchers_count": 56
 }
 {
     "commits_count": 2,
     "date_started": "2024-07-29",
     "date_updated": "2024-07-29",
     "description": "Windows AppLocker Driver (appid.sys) LPE",
-    "forks_count": 14,
+    "forks_count": 13,
     "html_url": "https://github.com/Crowdfense/CVE-2024-21338",
     "keywords": [
-        "lpe exploit"
+        "Windows lpe",
+        "lpe exploit",
+        "Windows lpe exploit"
     ],
     "language": "C++",
     "repo_name": "CVE-2024-21338",
     "repo_owner": "Crowdfense",
     "repotime": "2024-07-29, 17:29:59",
-    "stargazers_count": 34,
-    "watchers_count": 34
+    "stargazers_count": 53,
+    "watchers_count": 53
 }
 {
     "commits_count": 8,
@@ -199,8 +218,8 @@
     "repo_name": "WhatsApp-Exploit",
     "repo_owner": "SaumyajeetDas",
     "repotime": "2024-07-28, 00:35:24",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 1206,
@@ -233,8 +252,8 @@
     "repo_name": "chamilo-lms-unauthenticated-big-upload-rce-poc",
     "repo_owner": "m3m0o",
     "repotime": "2024-07-26, 21:19:17",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 5,
@@ -252,23 +271,6 @@
     "repotime": "2024-07-26, 18:52:53",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 777,
-    "date_started": "2013-06-25",
-    "date_updated": "2024-07-26",
-    "description": "Cleans HTML to avoid XSS attacks",
-    "forks_count": 200,
-    "html_url": "https://github.com/mganss/HtmlSanitizer",
-    "keywords": [
-        "xss"
-    ],
-    "language": "C#",
-    "repo_name": "HtmlSanitizer",
-    "repo_owner": "mganss",
-    "repotime": "2024-07-26, 17:05:45",
-    "stargazers_count": 1551,
-    "watchers_count": 1551
 }
 {
     "commits_count": 3,
@@ -305,6 +307,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 5,
+    "date_started": "2024-07-25",
+    "date_updated": "2024-07-25",
+    "description": "A project of Computer Security Capstone of Spring 2024",
+    "forks_count": 0,
+    "html_url": "https://github.com/lilywuuuuu/IPsec-Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "C++",
+    "repo_name": "IPsec-Session-Hijacking",
+    "repo_owner": "lilywuuuuu",
+    "repotime": "2024-07-25, 17:40:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 3,
     "date_started": "2024-07-24",
     "date_updated": "2024-07-24",
@@ -318,25 +337,8 @@
     "repo_name": "WoL-RCE",
     "repo_owner": "Rannden-SHA",
     "repotime": "2024-07-24, 15:58:47",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 12,
-    "date_started": "2024-07-23",
-    "date_updated": "2024-07-24",
-    "description": "Advanced SQL Injection Techniques for Bug Bounty Hunters",
-    "forks_count": 66,
-    "html_url": "https://github.com/ifconfig-me/SQL_Injection-Techniques",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": null,
-    "repo_name": "SQL_Injection-Techniques",
-    "repo_owner": "ifconfig-me",
-    "repotime": "2024-07-24, 12:00:23",
-    "stargazers_count": 105,
-    "watchers_count": 105
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 18,
@@ -363,21 +365,22 @@
     "forks_count": 0,
     "html_url": "https://github.com/ewilded/ZScaler_msiexec_LPE_2023",
     "keywords": [
+        "escalation of privileges proof of concept",
         "lpe proof of concept"
     ],
     "language": "C++",
     "repo_name": "ZScaler_msiexec_LPE_2023",
     "repo_owner": "ewilded",
     "repotime": "2024-07-24, 04:55:20",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 93,
     "date_started": "2019-01-15",
     "date_updated": "2024-07-23",
     "description": "A list of resources for those interested in getting started in bug bounties",
-    "forks_count": 1906,
+    "forks_count": 1964,
     "html_url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
     "keywords": [
         "ssrf"
@@ -386,25 +389,8 @@
     "repo_name": "Resources-for-Beginner-Bug-Bounty-Hunters",
     "repo_owner": "nahamsec",
     "repotime": "2024-07-23, 10:01:39",
-    "stargazers_count": 10662,
-    "watchers_count": 10662
-}
-{
-    "commits_count": 5,
-    "date_started": "2024-06-13",
-    "date_updated": "2024-07-23",
-    "description": "This project simulates the effects of a buffer overflow and privilege escalation attack on a Windows system. The objective is to demonstrate the importance of vigilance and good practices in computer security, particularly when executing .exe files of unknown or suspicious origin.",
-    "forks_count": 0,
-    "html_url": "https://github.com/lyamss/Hakai",
-    "keywords": [
-        "Windows escalation of privileges"
-    ],
-    "language": "C#",
-    "repo_name": "Hakai",
-    "repo_owner": "lyamss",
-    "repotime": "2024-07-23, 18:55:00",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 11166,
+    "watchers_count": 11166
 }
 {
     "commits_count": 3,
@@ -422,23 +408,6 @@
     "repotime": "2024-07-23, 21:56:57",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 70,
-    "date_started": "2022-05-08",
-    "date_updated": "2024-07-22",
-    "description": "An XSS exploitation command-line interface and payload generator.",
-    "forks_count": 177,
-    "html_url": "https://github.com/t3l3machus/toxssin",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Python",
-    "repo_name": "toxssin",
-    "repo_owner": "t3l3machus",
-    "repotime": "2024-07-22, 13:46:23",
-    "stargazers_count": 1249,
-    "watchers_count": 1249
 }
 {
     "commits_count": 3,
@@ -522,8 +491,8 @@
     "repo_name": "CVE-2020-13945-EXPLOIT",
     "repo_owner": "K3ysTr0K3R",
     "repotime": "2024-07-21, 12:21:07",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 2,
@@ -560,23 +529,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 1,
-    "date_started": "2024-07-20",
-    "date_updated": "2024-07-20",
-    "description": "Unauthenticated Sensitive Information Disclosure",
-    "forks_count": 0,
-    "html_url": "https://github.com/aratane/CVE-2021-3831",
-    "keywords": [
-        "unauthenticated disclosure"
-    ],
-    "language": "PHP",
-    "repo_name": "CVE-2021-3831",
-    "repo_owner": "aratane",
-    "repotime": "2024-07-20, 16:41:42",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 18,
     "date_started": "2024-05-28",
     "date_updated": "2024-07-19",
@@ -594,28 +546,11 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 22,
-    "date_started": "2024-03-18",
-    "date_updated": "2024-07-18",
-    "description": "A console app sorting csv banking transaction entries into categories and compared to monthly budget limits. My approach for this project was to focus on dependency inversion, single responsibility, and loose coupling principles. The dependency injection pattern ensure future updates can be made modularly.",
-    "forks_count": 0,
-    "html_url": "https://github.com/compSciKai/PersonalFinancesApp",
-    "keywords": [
-        "csv injection"
-    ],
-    "language": "C#",
-    "repo_name": "PersonalFinancesApp",
-    "repo_owner": "compSciKai",
-    "repotime": "2024-07-18, 21:42:15",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 3,
     "date_started": "2024-07-19",
     "date_updated": "2024-07-19",
     "description": "CVE-2024-40725 and CVE-2024-40898, affecting Apache HTTP Server versions 2.4.0 through 2.4.61. These flaws pose significant risks to web servers worldwide, potentially leading to source code disclosure and server-side request forgery (SSRF) attacks.",
-    "forks_count": 10,
+    "forks_count": 17,
     "html_url": "https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898",
     "keywords": [
         "server side request forgery"
@@ -624,8 +559,8 @@
     "repo_name": "CVE-2024-40725-CVE-2024-40898",
     "repo_owner": "TAM-K592",
     "repotime": "2024-07-19, 12:01:12",
-    "stargazers_count": 64,
-    "watchers_count": 64
+    "stargazers_count": 83,
+    "watchers_count": 83
 }
 {
     "commits_count": 21,
@@ -641,25 +576,8 @@
     "repo_name": "CVE-2016-6187_LPE",
     "repo_owner": "Milo-D",
     "repotime": "2024-07-19, 05:03:18",
-    "stargazers_count": 6,
-    "watchers_count": 6
-}
-{
-    "commits_count": 243,
-    "date_started": "2015-02-01",
-    "date_updated": "2024-07-18",
-    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
-    "forks_count": 118,
-    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
-    "keywords": [
-        "rce exploit"
-    ],
-    "language": "HTML",
-    "repo_name": "Commodity-Injection-Signatures",
-    "repo_owner": "xsscx",
-    "repotime": "2024-07-18, 15:29:02",
-    "stargazers_count": 388,
-    "watchers_count": 388
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 8,
@@ -683,7 +601,7 @@
     "date_started": "2024-05-27",
     "date_updated": "2024-07-18",
     "description": "Hash Form – Drag &amp;amp; Drop Form Builder &amp;lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution",
-    "forks_count": 3,
+    "forks_count": 6,
     "html_url": "https://github.com/Chocapikk/CVE-2024-5084",
     "keywords": [
         "unauthenticated remote code execution"
@@ -692,8 +610,8 @@
     "repo_name": "CVE-2024-5084",
     "repo_owner": "Chocapikk",
     "repotime": "2024-07-18, 01:40:18",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 10,
@@ -717,7 +635,7 @@
     "date_started": "2024-06-21",
     "date_updated": "2024-07-17",
     "description": "pocs &amp;amp; exploit for CVE-2023-24871 (rce + lpe)",
-    "forks_count": 12,
+    "forks_count": 14,
     "html_url": "https://github.com/ynwarcs/CVE-2023-24871",
     "keywords": [
         "lpe exploit"
@@ -726,8 +644,8 @@
     "repo_name": "CVE-2023-24871",
     "repo_owner": "ynwarcs",
     "repotime": "2024-07-17, 14:33:46",
-    "stargazers_count": 44,
-    "watchers_count": 44
+    "stargazers_count": 48,
+    "watchers_count": 48
 }
 {
     "commits_count": 4,
@@ -737,48 +655,50 @@
     "forks_count": 1,
     "html_url": "https://github.com/ynwarcs/CVE-2023-23388",
     "keywords": [
-        "Windows lpe"
+        "Windows lpe",
+        "lpe poc"
     ],
     "language": "C++",
     "repo_name": "CVE-2023-23388",
     "repo_owner": "ynwarcs",
     "repotime": "2024-07-17, 14:24:08",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 19,
     "date_started": "2024-07-15",
     "date_updated": "2024-07-17",
     "description": "网传nacos_rce漏洞poc",
-    "forks_count": 34,
-    "html_url": "https://github.com/FFR66/Nacos_Rce",
+    "forks_count": 36,
+    "html_url": "https://github.com/WingBy-Fkalis/Nacos_Rce",
     "keywords": [
         "rce poc"
     ],
     "language": "Python",
     "repo_name": "Nacos_Rce",
-    "repo_owner": "FFR66",
+    "repo_owner": "WingBy-Fkalis",
     "repotime": "2024-07-17, 14:06:13",
-    "stargazers_count": 77,
-    "watchers_count": 77
+    "stargazers_count": 87,
+    "watchers_count": 87
 }
 {
     "commits_count": 15,
     "date_started": "2024-07-15",
     "date_updated": "2024-07-17",
     "description": "PoC -  Authenticated Remote Code Execution in VMware vCenter Server (Exploit)",
-    "forks_count": 7,
+    "forks_count": 8,
     "html_url": "https://github.com/l0n3m4n/CVE-2024-22274-RCE",
     "keywords": [
-        "rce vulnerability"
+        "remote code execution vulnerability",
+        "remote code execution exploit"
     ],
     "language": "Python",
     "repo_name": "CVE-2024-22274-RCE",
     "repo_owner": "l0n3m4n",
     "repotime": "2024-07-17, 07:22:14",
-    "stargazers_count": 37,
-    "watchers_count": 37
+    "stargazers_count": 42,
+    "watchers_count": 42
 }
 {
     "commits_count": 3,
@@ -796,23 +716,6 @@
     "repotime": "2024-07-16, 13:55:45",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 145,
-    "date_started": "2010-01-09",
-    "date_updated": "2024-07-15",
-    "description": "A database resource control interface for Ruby that lets you avoid hard coding your passwords",
-    "forks_count": 0,
-    "html_url": "https://github.com/djberg96/dbi-dbrc",
-    "keywords": [
-        "hard coded password"
-    ],
-    "language": "Ruby",
-    "repo_name": "dbi-dbrc",
-    "repo_owner": "djberg96",
-    "repotime": "2024-07-15, 20:13:02",
-    "stargazers_count": 3,
-    "watchers_count": 3
 }
 {
     "commits_count": 14,
@@ -837,12 +740,12 @@
     "date_updated": "2024-07-15",
     "description": "Zero-day vulnerabilities pose significant threats to software systems as they are exploited before developers can patch them. Predictive analytics offers a promising approach to identifying such vulnerabilities proactively. ",
     "forks_count": 0,
-    "html_url": "https://github.com/AmareshMuddebihal/-Implementation-of-Predictive-Analytics-for-Zero-Day-Vulnerability-Exploits",
+    "html_url": "https://github.com/AmareshMuddebihal/Implementation-of-Predictive-Analytics-for-Zero-Day-Vulnerability-Exploits",
     "keywords": [
         "zero-day exploit"
     ],
     "language": "Jupyter Notebook",
-    "repo_name": "-Implementation-of-Predictive-Analytics-for-Zero-Day-Vulnerability-Exploits",
+    "repo_name": "Implementation-of-Predictive-Analytics-for-Zero-Day-Vulnerability-Exploits",
     "repo_owner": "AmareshMuddebihal",
     "repotime": "2024-07-15, 12:53:10",
     "stargazers_count": 0,
@@ -883,23 +786,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 33,
-    "date_started": "2024-07-07",
-    "date_updated": "2024-07-11",
-    "description": "As the name implies, this allows you to strike back against something. Namely in this case, Windows Defender and the memory leak of an antivirus program/process that Microsoft Defender is (MsMpEng.exe..AKA Antimalware Service Executable. ) ",
-    "forks_count": 1,
-    "html_url": "https://github.com/julerobb1/TheUserStrikesBack",
-    "keywords": [
-        "Microsoft memory leak"
-    ],
-    "language": "Batchfile",
-    "repo_name": "TheUserStrikesBack",
-    "repo_owner": "julerobb1",
-    "repotime": "2024-07-11, 22:31:50",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 2,
     "date_started": "2024-07-11",
     "date_updated": "2024-07-11",
@@ -915,6 +801,23 @@
     "repotime": "2024-07-11, 15:38:40",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2023-10-23",
+    "date_updated": "2024-07-11",
+    "description": "Discord HTTP requests interception POC, including backup codes requests, for educational purposes only.",
+    "forks_count": 8,
+    "html_url": "https://github.com/hackirby/discord-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "discord-injection",
+    "repo_owner": "hackirby",
+    "repotime": "2024-07-11, 14:35:05",
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 1,
@@ -934,11 +837,11 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 108,
+    "commits_count": 109,
     "date_started": "2015-03-06",
     "date_updated": "2024-07-10",
     "description": "A tool for embedding XXE/XML exploits into different filetypes",
-    "forks_count": 232,
+    "forks_count": 235,
     "html_url": "https://github.com/BuffaloWill/oxml_xxe",
     "keywords": [
         "xxe"
@@ -947,15 +850,15 @@
     "repo_name": "oxml_xxe",
     "repo_owner": "BuffaloWill",
     "repotime": "2024-07-10, 21:54:08",
-    "stargazers_count": 1031,
-    "watchers_count": 1031
+    "stargazers_count": 1074,
+    "watchers_count": 1074
 }
 {
     "commits_count": 62,
     "date_started": "2018-07-18",
     "date_updated": "2024-07-10",
     "description": "Notes about attacking Jenkins servers",
-    "forks_count": 321,
+    "forks_count": 335,
     "html_url": "https://github.com/gquere/pwn_jenkins",
     "keywords": [
         "rce exploit"
@@ -964,15 +867,15 @@
     "repo_name": "pwn_jenkins",
     "repo_owner": "gquere",
     "repotime": "2024-07-10, 13:18:30",
-    "stargazers_count": 1955,
-    "watchers_count": 1955
+    "stargazers_count": 2046,
+    "watchers_count": 2046
 }
 {
     "commits_count": 4,
     "date_started": "2024-07-10",
     "date_updated": "2024-07-10",
     "description": "<no description>",
-    "forks_count": 43,
+    "forks_count": 50,
     "html_url": "https://github.com/testanull/MS-SharePoint-July-Patch-RCE-PoC",
     "keywords": [
         "rce poc"
@@ -981,8 +884,8 @@
     "repo_name": "MS-SharePoint-July-Patch-RCE-PoC",
     "repo_owner": "testanull",
     "repotime": "2024-07-10, 14:06:36",
-    "stargazers_count": 118,
-    "watchers_count": 118
+    "stargazers_count": 153,
+    "watchers_count": 153
 }
 {
     "commits_count": 21,
@@ -1023,7 +926,7 @@
     "date_started": "2024-07-10",
     "date_updated": "2024-07-09",
     "description": "POC for CVE-2023-4220 - Chamilo LMS Unauthenticated Big Upload File Remote Code Execution",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/krishnan-tech/CVE-2023-4226-POC",
     "keywords": [
         "unauthenticated remote code execution"
@@ -1032,15 +935,15 @@
     "repo_name": "CVE-2023-4226-POC",
     "repo_owner": "krishnan-tech",
     "repotime": "2024-07-09, 22:26:36",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 7,
     "date_started": "2024-01-20",
     "date_updated": "2024-07-10",
     "description": "HEVD Exploit: ArbitraryWrite on Windows 10 22H2 - Bypassing KVA Shadow and SMEP via PML4 Entry Manipulation",
-    "forks_count": 4,
+    "forks_count": 6,
     "html_url": "https://github.com/ommadawn46/HEVD-Exploit-Win10-22H2-KVAS",
     "keywords": [
         "smep bypass"
@@ -1049,18 +952,18 @@
     "repo_name": "HEVD-Exploit-Win10-22H2-KVAS",
     "repo_owner": "ommadawn46",
     "repotime": "2024-07-10, 09:52:46",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 7,
     "date_started": "2024-07-08",
     "date_updated": "2024-07-08",
     "description": "This is an Exploit for Unrestricted file upload in big file upload functionality in Chamilo-LMS for this location &amp;quot;/main/inc/lib/javascript/bigupload/inc/bigUpload.php&amp;quot; in Chamilo LMS &amp;lt;= v1.11.24, and Attackers can obtain remote code execution via uploading of web shell.",
-    "forks_count": 2,
+    "forks_count": 3,
     "html_url": "https://github.com/Ziad-Sakr/Chamilo-CVE-2023-4220-Exploit",
     "keywords": [
-        "remote code execution poc"
+        "unrestricted file upload"
     ],
     "language": "Shell",
     "repo_name": "Chamilo-CVE-2023-4220-Exploit",
@@ -1074,17 +977,17 @@
     "date_started": "2024-04-25",
     "date_updated": "2024-07-08",
     "description": "CVE-2024-4040 CrushFTP SSTI LFI &amp;amp; Auth Bypass | Full Server Takeover | Wordlist Support",
-    "forks_count": 7,
+    "forks_count": 8,
     "html_url": "https://github.com/Stuub/CVE-2024-4040-SSTI-LFI-PoC",
     "keywords": [
-        "0day poc"
+        "lfi"
     ],
     "language": "Python",
     "repo_name": "CVE-2024-4040-SSTI-LFI-PoC",
     "repo_owner": "Stuub",
     "repotime": "2024-07-08, 00:47:57",
-    "stargazers_count": 54,
-    "watchers_count": 54
+    "stargazers_count": 57,
+    "watchers_count": 57
 }
 {
     "commits_count": 4,
@@ -1143,16 +1046,37 @@
     "date_updated": "2024-07-06",
     "description": "Description about PHPVibeCms' vulnerability",
     "forks_count": 0,
-    "html_url": "https://github.com/751897386/PHPVibe_vulnerability_Directory-Traversal",
+    "html_url": "https://github.com/Sp1d3rL1/PHPVibe_vulnerability_Directory-Traversal",
     "keywords": [
         "directory traversal vulnerability"
     ],
     "language": null,
     "repo_name": "PHPVibe_vulnerability_Directory-Traversal",
-    "repo_owner": "751897386",
+    "repo_owner": "Sp1d3rL1",
     "repotime": "2024-07-06, 17:19:36",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-07-06",
+    "date_updated": "2024-07-06",
+    "description": "Remote Code Execution (RCE) Vulnerability In Evaluating Property Name Expressions with multies ways to exploit",
+    "forks_count": 6,
+    "html_url": "https://github.com/Mr-xn/CVE-2024-36401",
+    "keywords": [
+        "remote code execution vulnerability",
+        "rce vulnerability",
+        "remote code execution exploit",
+        "remote code execution poc",
+        "remote code execution exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-36401",
+    "repo_owner": "Mr-xn",
+    "repotime": "2024-07-06, 09:57:58",
+    "stargazers_count": 46,
+    "watchers_count": 46
 }
 {
     "commits_count": 2,
@@ -1185,25 +1109,29 @@
     "repo_name": "CVE-2024-36401",
     "repo_owner": "RevoltSecurities",
     "repotime": "2024-07-05, 21:03:08",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 25,
     "date_started": "2024-07-02",
     "date_updated": "2024-07-05",
     "description": "PoC - Remote Unauthenticated Code Execution Vulnerability in OpenSSH server (Scanner and Exploit) ",
-    "forks_count": 20,
+    "forks_count": 31,
     "html_url": "https://github.com/l0n3m4n/CVE-2024-6387",
     "keywords": [
-        "unauthenticated rce"
+        "remote code execution vulnerability",
+        "rce vulnerability",
+        "unauthenticated rce",
+        "remote code execution exploit",
+        "remote code execution poc"
     ],
     "language": "C",
     "repo_name": "CVE-2024-6387",
     "repo_owner": "l0n3m4n",
     "repotime": "2024-07-05, 23:19:28",
-    "stargazers_count": 45,
-    "watchers_count": 45
+    "stargazers_count": 89,
+    "watchers_count": 89
 }
 {
     "commits_count": 7,
@@ -1221,6 +1149,25 @@
     "repotime": "2024-07-05, 01:01:16",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2024-07-02",
+    "date_updated": "2024-07-04",
+    "description": "This Python script exploits a remote code execution vulnerability (CVE-2024-6387) in OpenSSH.",
+    "forks_count": 15,
+    "html_url": "https://github.com/d0rb/CVE-2024-6387",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution exploit",
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-6387",
+    "repo_owner": "d0rb",
+    "repotime": "2024-07-04, 23:04:30",
+    "stargazers_count": 40,
+    "watchers_count": 40
 }
 {
     "commits_count": 1,
@@ -1274,23 +1221,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 5,
-    "date_started": "2024-07-03",
-    "date_updated": "2024-07-03",
-    "description": "This is how I exploit Microsoft Skype",
-    "forks_count": 0,
-    "html_url": "https://github.com/Cr0nu3/RCE_Exploit_in_Microsoft_Skype",
-    "keywords": [
-        "Microsoft rce exploit"
-    ],
-    "language": null,
-    "repo_name": "RCE_Exploit_in_Microsoft_Skype",
-    "repo_owner": "Cr0nu3",
-    "repotime": "2024-07-03, 10:20:09",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 6,
     "date_started": "2024-07-02",
     "date_updated": "2024-07-02",
@@ -1315,14 +1245,15 @@
     "forks_count": 1,
     "html_url": "https://github.com/0bfxgh0st/lfienum",
     "keywords": [
-        "local file inclusion"
+        "local file inclusion",
+        "lfi"
     ],
     "language": "Python",
     "repo_name": "lfienum",
     "repo_owner": "0bfxgh0st",
     "repotime": "2024-07-02, 18:04:19",
-    "stargazers_count": 58,
-    "watchers_count": 58
+    "stargazers_count": 60,
+    "watchers_count": 60
 }
 {
     "commits_count": 4,
@@ -1338,8 +1269,8 @@
     "repo_name": "CVE-2024-6387",
     "repo_owner": "th3gokul",
     "repotime": "2024-07-02, 23:17:29",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 30,
@@ -1393,23 +1324,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 46,
-    "date_started": "2023-12-18",
-    "date_updated": "2024-07-02",
-    "description": "Expert analyses and high-quality write-ups on current one-day and zero-day vulnerabilities, detailing CVEs for the cybersecurity community. Maintained by the Fire-Null security research collective.",
-    "forks_count": 3,
-    "html_url": "https://github.com/Fire-Null/Write-Ups",
-    "keywords": [
-        "zero-day vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "Write-Ups",
-    "repo_owner": "Fire-Null",
-    "repotime": "2024-07-02, 11:10:35",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
     "commits_count": 3,
     "date_started": "2024-07-02",
     "date_updated": "2024-07-02",
@@ -1423,15 +1337,15 @@
     "repo_name": "CVE-2024-6387",
     "repo_owner": "TAM-K592",
     "repotime": "2024-07-02, 11:23:00",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 3,
     "date_started": "2024-07-01",
     "date_updated": "2024-07-01",
     "description": "A PoC exploit for CVE-2024-29269 - Telesquare TLR-2005KSH Remote Code Execution (RCE)",
-    "forks_count": 1,
+    "forks_count": 3,
     "html_url": "https://github.com/K3ysTr0K3R/CVE-2024-29269-EXPLOIT",
     "keywords": [
         "remote code execution poc"
@@ -1440,8 +1354,8 @@
     "repo_name": "CVE-2024-29269-EXPLOIT",
     "repo_owner": "K3ysTr0K3R",
     "repotime": "2024-07-01, 20:00:59",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 8,
@@ -1465,7 +1379,7 @@
     "date_started": "2024-07-01",
     "date_updated": "2024-07-01",
     "description": "MIRROR of the original 32-bit PoC for CVE-2024-6387 &amp;quot;regreSSHion&amp;quot; by 7etsuo/cve-2024-6387-poc",
-    "forks_count": 41,
+    "forks_count": 42,
     "html_url": "https://github.com/lflare/cve-2024-6387-poc",
     "keywords": [
         "rce poc"
@@ -1474,23 +1388,24 @@
     "repo_name": "cve-2024-6387-poc",
     "repo_owner": "lflare",
     "repotime": "2024-07-01, 05:52:18",
-    "stargazers_count": 108,
-    "watchers_count": 108
+    "stargazers_count": 121,
+    "watchers_count": 121
 }
 {
     "commits_count": 53,
     "date_started": "2024-05-14",
     "date_updated": "2024-07-01",
     "description": "WordPress Auto Admin Account Creation and Reverse Shell cve-2024-27956 automates the process of creating a new administrator account in a WordPress site and executing a reverse shell on the target server. It utilizes the wp-automatic plugin's CSV injection vulnerability to execute SQL queries",
-    "forks_count": 23,
+    "forks_count": 25,
     "html_url": "https://github.com/AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956",
     "keywords": [
-        "Windows rce exploit"
+        "Windows rce",
+        "csv injection"
     ],
     "language": "Python",
     "repo_name": "WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956",
     "repo_owner": "AiGptCode",
     "repotime": "2024-07-01, 12:59:02",
-    "stargazers_count": 87,
-    "watchers_count": 87
+    "stargazers_count": 105,
+    "watchers_count": 105
 }

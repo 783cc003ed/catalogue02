@@ -3,17 +3,18 @@
     "date_started": "2020-04-20",
     "date_updated": "2020-06-29",
     "description": "CVE-2020-0796 Remote Code Execution POC",
-    "forks_count": 169,
+    "forks_count": 172,
     "html_url": "https://github.com/jamf/CVE-2020-0796-RCE-POC",
     "keywords": [
+        "rce poc",
         "remote code execution poc"
     ],
     "language": "Python",
     "repo_name": "CVE-2020-0796-RCE-POC",
     "repo_owner": "jamf",
     "repotime": "2020-06-29, 12:38:12",
-    "stargazers_count": 532,
-    "watchers_count": 532
+    "stargazers_count": 553,
+    "watchers_count": 553
 }
 {
     "commits_count": 7,
@@ -40,7 +41,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/blogresponder/BMC-Patrol-Agent-local-root-privilege-escalation",
     "keywords": [
-        "escalation of privileges proof of concept"
+        "escalation of privileges proof of concept",
+        "escalation of privileges vulnerability"
     ],
     "language": "Shell",
     "repo_name": "BMC-Patrol-Agent-local-root-privilege-escalation",
@@ -63,8 +65,8 @@
     "repo_name": "common-substr",
     "repo_owner": "sensepost",
     "repotime": "2020-06-28, 22:18:07",
-    "stargazers_count": 61,
-    "watchers_count": 61
+    "stargazers_count": 64,
+    "watchers_count": 64
 }
 {
     "commits_count": 7,
@@ -74,7 +76,13 @@
     "forks_count": 2,
     "html_url": "https://github.com/V1n1v131r4/Wing-FTP-Server-6.3.8---Remote-Code-Execution",
     "keywords": [
-        "Win remote code execution"
+        "Win remote code execution poc",
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "Win remote code execution exploit",
+        "Win remote code execution",
+        "remote code execution poc",
+        "Win remote code execution exploitation"
     ],
     "language": null,
     "repo_name": "Wing-FTP-Server-6.3.8---Remote-Code-Execution",
@@ -91,14 +99,17 @@
     "forks_count": 4,
     "html_url": "https://github.com/c3r34lk1ll3r/CVE-2017-5123",
     "keywords": [
-        "lpe exploit"
+        "smep bypass",
+        "lpe exploit",
+        "smap bypass",
+        "lpe poc"
     ],
     "language": "C",
     "repo_name": "CVE-2017-5123",
     "repo_owner": "c3r34lk1ll3r",
     "repotime": "2020-06-26, 15:39:16",
-    "stargazers_count": 30,
-    "watchers_count": 30
+    "stargazers_count": 28,
+    "watchers_count": 28
 }
 {
     "commits_count": 3,
@@ -159,7 +170,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/txt0t/windows",
     "keywords": [
-        "Windows 0day"
+        "Windows 0day",
+        "Win 0day"
     ],
     "language": null,
     "repo_name": "windows",
@@ -167,6 +179,23 @@
     "repotime": "2020-06-23, 13:44:10",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 71,
+    "date_started": "2013-08-14",
+    "date_updated": "2020-06-22",
+    "description": "Screencast code, script and rainbows behind &amp;quot;Dependency Injection and the art of services and containers&amp;quot;",
+    "forks_count": 7,
+    "html_url": "https://github.com/knpuniversity/dependency-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "PHP",
+    "repo_name": "dependency-injection",
+    "repo_owner": "knpuniversity",
+    "repotime": "2020-06-22, 14:28:31",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 1,
@@ -216,8 +245,8 @@
     "repo_name": "SMBGhost-LPE-Metasploit-Module",
     "repo_owner": "Almorabea",
     "repotime": "2020-06-19, 23:58:35",
-    "stargazers_count": 20,
-    "watchers_count": 20
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 10,
@@ -233,8 +262,8 @@
     "repo_name": "cve-2020-1054",
     "repo_owner": "0xeb-bp",
     "repotime": "2020-06-17, 14:10:15",
-    "stargazers_count": 85,
-    "watchers_count": 85
+    "stargazers_count": 86,
+    "watchers_count": 86
 }
 {
     "commits_count": 2,
@@ -292,17 +321,18 @@
     "date_started": "2019-03-07",
     "date_updated": "2020-06-16",
     "description": "Spring Boot Actuator (jolokia) XXE/RCE",
-    "forks_count": 62,
+    "forks_count": 58,
     "html_url": "https://github.com/mpgn/Spring-Boot-Actuator-Exploit",
     "keywords": [
+        "rce exploit",
         "xxe"
     ],
     "language": "Java",
     "repo_name": "Spring-Boot-Actuator-Exploit",
     "repo_owner": "mpgn",
     "repotime": "2020-06-16, 23:24:05",
-    "stargazers_count": 318,
-    "watchers_count": 318
+    "stargazers_count": 317,
+    "watchers_count": 317
 }
 {
     "commits_count": 2,
@@ -329,7 +359,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/modzero/MZ-20-03_PoC_MSMQ_BinaryMessageFormatter",
     "keywords": [
-        "remote code execution proof of concept"
+        "remote code execution proof of concept",
+        "remote code execution poc"
     ],
     "language": "C#",
     "repo_name": "MZ-20-03_PoC_MSMQ_BinaryMessageFormatter",
@@ -346,7 +377,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/modzero/MZ-20-03_PoC_NetRemoting",
     "keywords": [
-        "rce proof of concept"
+        "rce proof of concept",
+        "rce dos"
     ],
     "language": "C#",
     "repo_name": "MZ-20-03_PoC_NetRemoting",
@@ -369,15 +401,32 @@
     "repo_name": "modalanalyse",
     "repo_owner": "phmandl",
     "repotime": "2020-06-15, 19:36:21",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-06-15",
+    "date_updated": "2020-06-15",
+    "description": "A web application primarily using React.js that queries a stocks API to dynamically display information for authenticated and unauthenticated users",
+    "forks_count": 0,
+    "html_url": "https://github.com/BGHProjects/React_Dynamic_Stock_Application_FrontEnd",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "React_Dynamic_Stock_Application_FrontEnd",
+    "repo_owner": "BGHProjects",
+    "repotime": "2020-06-15, 15:16:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 61,
     "date_started": "2016-03-07",
     "date_updated": "2020-06-13",
     "description": "XssPy - Web Application XSS Scanner",
-    "forks_count": 230,
+    "forks_count": 219,
     "html_url": "https://github.com/faizann24/XssPy",
     "keywords": [
         "xss"
@@ -386,15 +435,15 @@
     "repo_name": "XssPy",
     "repo_owner": "faizann24",
     "repotime": "2020-06-13, 19:13:14",
-    "stargazers_count": 835,
-    "watchers_count": 835
+    "stargazers_count": 842,
+    "watchers_count": 842
 }
 {
     "commits_count": 2,
     "date_started": "2020-06-14",
     "date_updated": "2020-06-13",
     "description": "<no description>",
-    "forks_count": 11,
+    "forks_count": 17,
     "html_url": "https://github.com/1979139113/0day-today-exploits",
     "keywords": [
         "0day exploit"
@@ -403,8 +452,8 @@
     "repo_name": "0day-today-exploits",
     "repo_owner": "1979139113",
     "repotime": "2020-06-13, 19:26:39",
-    "stargazers_count": 22,
-    "watchers_count": 22
+    "stargazers_count": 36,
+    "watchers_count": 36
 }
 {
     "commits_count": 5,
@@ -414,7 +463,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/stephyards/Path-Traversal-Cheat-Sheet-Linux",
     "keywords": [
-        "path traversal vulnerability"
+        "path traversal vulnerability",
+        "directory traversal vulnerability"
     ],
     "language": null,
     "repo_name": "Path-Traversal-Cheat-Sheet-Linux",
@@ -428,7 +478,7 @@
     "date_started": "2013-09-05",
     "date_updated": "2020-06-07",
     "description": "OWASP Xenotix XSS Exploit Framework is an advanced Cross Site Scripting (XSS) vulnerability detection and exploitation framework.",
-    "forks_count": 180,
+    "forks_count": 177,
     "html_url": "https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework",
     "keywords": [
         "xss"
@@ -437,8 +487,8 @@
     "repo_name": "OWASP-Xenotix-XSS-Exploit-Framework",
     "repo_owner": "ajinabraham",
     "repotime": "2020-06-07, 19:53:17",
-    "stargazers_count": 523,
-    "watchers_count": 523
+    "stargazers_count": 529,
+    "watchers_count": 529
 }
 {
     "commits_count": 159,
@@ -488,25 +538,31 @@
     "repo_name": "RainbowSQL",
     "repo_owner": "syrex1013",
     "repotime": "2020-06-06, 11:19:33",
-    "stargazers_count": 64,
-    "watchers_count": 64
+    "stargazers_count": 62,
+    "watchers_count": 62
 }
 {
     "commits_count": 17,
     "date_started": "2019-11-11",
     "date_updated": "2020-06-04",
     "description": "A Collection of Chrome Sandbox Escape POCs/Exploits for learning",
-    "forks_count": 133,
+    "forks_count": 136,
     "html_url": "https://github.com/allpaca/chrome-sbx-db",
     "keywords": [
-        "Chrome sandbox escape"
+        "Chrome sandbox escape poc",
+        "sandbox escape poc",
+        "Chrome sandbox escape exploitation",
+        "Chrome sandbox escape",
+        "sandbox escape exploitation",
+        "sandbox escape exploit",
+        "Chrome sandbox escape exploit"
     ],
     "language": null,
     "repo_name": "chrome-sbx-db",
     "repo_owner": "allpaca",
     "repotime": "2020-06-04, 15:44:46",
-    "stargazers_count": 792,
-    "watchers_count": 792
+    "stargazers_count": 820,
+    "watchers_count": 820
 }
 {
     "commits_count": 11,
@@ -550,7 +606,9 @@
     "forks_count": 31,
     "html_url": "https://github.com/aaronsvk/CVE-2020-3956",
     "keywords": [
-        "rce exploit"
+        "rce exploit",
+        "rce poc",
+        "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "CVE-2020-3956",
@@ -567,12 +625,59 @@
     "forks_count": 18,
     "html_url": "https://github.com/dhn/exploits",
     "keywords": [
-        "Windows lpe"
+        "Windows rce exploitation",
+        "rce poc",
+        "Windows lpe poc",
+        "Windows lpe exploit",
+        "Windows rce poc",
+        "rce exploit",
+        "Windows rce",
+        "Windows lpe",
+        "Windows rce exploit",
+        "lpe poc",
+        "rce exploitation",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "lpe exploitation"
     ],
     "language": "C",
     "repo_name": "exploits",
     "repo_owner": "dhn",
     "repotime": "2020-06-02, 07:51:10",
-    "stargazers_count": 52,
-    "watchers_count": 52
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 297,
+    "date_started": "2019-05-14",
+    "date_updated": "2020-06-01",
+    "description": "Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a &amp;quot;JavaScript everywhere&amp;quot; paradigm,[7] unifying web application development around a single programming language, rather than different languages for server side and client side scripts. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/thiodene/Node.js",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Node.js",
+    "repo_owner": "thiodene",
+    "repotime": "2020-06-01, 16:14:44",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-06-01",
+    "date_updated": "2020-06-01",
+    "description": "The World Happiness Report is a landmark survey of the state of global happiness. The first report was published in 2012, the second in 2013, the third in 2015, and the fourth in the 2016 Update. The World Happiness 2017, which ranks 155 countries by their happiness levels, was released at the United Nations at an event celebrating International Day of Happiness on March 20th. The report continues to gain global recognition as governments, organizations and civil society increasingly use happiness indicators to inform their policy-making decisions. Leading experts across fields – economics, psychology, survey analysis, national statistics, health, public policy and more – describe how measurements of well-being can be used effectively to assess the progress of nations. The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness.  Content The happiness scores and rankings use data from the ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/buddhadeb33/How-Happy-We-are",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": null,
+    "repo_name": "How-Happy-We-are",
+    "repo_owner": "buddhadeb33",
+    "repotime": "2020-06-01, 16:57:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }

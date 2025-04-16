@@ -16,6 +16,42 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 2,
+    "date_started": "2021-09-29",
+    "date_updated": "2021-09-30",
+    "description": "According to researchers with Rapid7, over 110,000 devices appear on internet, which run stable Samba versions, while 92,500 seem to run unstable Samba versions, for which there is no fix. The newest Samba models, including the models 4.6.x before 4.6.4, 4.5.x before 4.5.10 and 3.5.0 before 4.4.13, was impacted by this error. May 24, 2017, Samba released version 4.6.4, which fixes a serious remote code execution vulnerability, vulnerability number CVE-2017-7494, which affected Samba 3.5.0 onwards.  Vulnerability number: CVE-2017-7494 Severity Rating: High Affected software:     • Samba Version &amp;lt; 4.6.4     • Samba Version &amp;lt; 4.5.10     • Samba Version &amp;lt; 4.4.14  Unaffected software:     • Samba Version = 4.6.4     • Samba Version = 4.5.10     • Samba Version = 4.4.14",
+    "forks_count": 0,
+    "html_url": "https://github.com/adjaliya/-CVE-2017-7494-Samba-Exploit-POC",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "-CVE-2017-7494-Samba-Exploit-POC",
+    "repo_owner": "adjaliya",
+    "repotime": "2021-09-30, 02:05:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-09-08",
+    "date_updated": "2021-09-29",
+    "description": "Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444",
+    "forks_count": 7,
+    "html_url": "https://github.com/ozergoker/CVE-2021-40444",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-40444",
+    "repo_owner": "ozergoker",
+    "repotime": "2021-09-29, 14:39:26",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
     "commits_count": 5,
     "date_started": "2021-09-29",
     "date_updated": "2021-09-29",
@@ -23,21 +59,23 @@
     "forks_count": 3,
     "html_url": "https://github.com/LazarusReborn/Docx-Exploit-2021",
     "keywords": [
-        "Microsoft rce exploit"
+        "Microsoft rce exploitation",
+        "Microsoft rce exploit",
+        "Microsoft rce"
     ],
     "language": null,
     "repo_name": "Docx-Exploit-2021",
     "repo_owner": "LazarusReborn",
     "repotime": "2021-09-29, 13:45:43",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 152,
     "date_started": "2011-11-29",
     "date_updated": "2021-09-29",
     "description": "Convert Markdown to HTML, with XSS protection",
-    "forks_count": 402,
+    "forks_count": 396,
     "html_url": "https://github.com/snoyberg/markdown",
     "keywords": [
         "xss"
@@ -46,8 +84,25 @@
     "repo_name": "markdown",
     "repo_owner": "snoyberg",
     "repotime": "2021-09-29, 08:17:34",
-    "stargazers_count": 69,
-    "watchers_count": 69
+    "stargazers_count": 72,
+    "watchers_count": 72
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-12-22",
+    "date_updated": "2021-09-27",
+    "description": "OID; Sensitive information disclosure",
+    "forks_count": 5,
+    "html_url": "https://github.com/ezelf/sensitivesOids",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": null,
+    "repo_name": "sensitivesOids",
+    "repo_owner": "ezelf",
+    "repotime": "2021-09-27, 22:01:54",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 6,
@@ -57,14 +112,15 @@
     "forks_count": 46,
     "html_url": "https://github.com/illusionofchaos/ios-analyticsd-pre14.7-exploit",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation"
     ],
     "language": "Swift",
     "repo_name": "ios-analyticsd-pre14.7-exploit",
     "repo_owner": "illusionofchaos",
     "repotime": "2021-09-27, 20:48:45",
-    "stargazers_count": 175,
-    "watchers_count": 175
+    "stargazers_count": 176,
+    "watchers_count": 176
 }
 {
     "commits_count": 7,
@@ -74,14 +130,15 @@
     "forks_count": 57,
     "html_url": "https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation"
     ],
     "language": "Swift",
     "repo_name": "ios-nehelper-enum-apps-0day",
     "repo_owner": "illusionofchaos",
     "repotime": "2021-09-27, 20:48:38",
-    "stargazers_count": 165,
-    "watchers_count": 165
+    "stargazers_count": 170,
+    "watchers_count": 170
 }
 {
     "commits_count": 6,
@@ -91,14 +148,15 @@
     "forks_count": 60,
     "html_url": "https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation"
     ],
     "language": "Swift",
     "repo_name": "ios-nehelper-wifi-info-0day",
     "repo_owner": "illusionofchaos",
     "repotime": "2021-09-27, 20:48:30",
-    "stargazers_count": 172,
-    "watchers_count": 172
+    "stargazers_count": 175,
+    "watchers_count": 175
 }
 {
     "commits_count": 1,
@@ -125,7 +183,8 @@
     "forks_count": 7,
     "html_url": "https://github.com/rllbe/entitlementfix",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation"
     ],
     "language": "Logos",
     "repo_name": "entitlementfix",
@@ -159,14 +218,16 @@
     "forks_count": 103,
     "html_url": "https://github.com/1N3/Exploits",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
     ],
     "language": "Python",
     "repo_name": "Exploits",
     "repo_owner": "1N3",
     "repotime": "2021-09-26, 18:47:12",
-    "stargazers_count": 197,
-    "watchers_count": 197
+    "stargazers_count": 201,
+    "watchers_count": 201
 }
 {
     "commits_count": 4,
@@ -190,9 +251,12 @@
     "date_started": "2021-09-20",
     "date_updated": "2021-09-26",
     "description": "CVE-2021-38647 - POC to exploit unauthenticated RCE &amp;&#35;35;OMIGOD",
-    "forks_count": 24,
+    "forks_count": 21,
     "html_url": "https://github.com/AlteredSecurity/CVE-2021-38647",
     "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce exploitation",
         "unauthenticated rce"
     ],
     "language": "PowerShell",
@@ -207,17 +271,18 @@
     "date_started": "2020-04-19",
     "date_updated": "2021-09-25",
     "description": "A phased, evasive Path Traversal + LFI scanning &amp;amp; exploitation tool in Python",
-    "forks_count": 25,
+    "forks_count": 24,
     "html_url": "https://github.com/VainlyStrain/Vailyn",
     "keywords": [
-        "lfi"
+        "lfi",
+        "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "Vailyn",
     "repo_owner": "VainlyStrain",
     "repotime": "2021-09-25, 21:18:09",
-    "stargazers_count": 197,
-    "watchers_count": 197
+    "stargazers_count": 199,
+    "watchers_count": 199
 }
 {
     "commits_count": 36,
@@ -227,7 +292,10 @@
     "forks_count": 11,
     "html_url": "https://github.com/BrockOz/Final-Project",
     "keywords": [
-        "remote code execution analysis"
+        "remote code execution exploitation",
+        "remote code execution analysis",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
     ],
     "language": null,
     "repo_name": "Final-Project",
@@ -241,7 +309,7 @@
     "date_started": "2021-09-23",
     "date_updated": "2021-09-23",
     "description": "CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.",
-    "forks_count": 10,
+    "forks_count": 12,
     "html_url": "https://github.com/RhinoSecurityLabs/CloudScraper",
     "keywords": [
         "by_owner"
@@ -250,8 +318,8 @@
     "repo_name": "CloudScraper",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2021-09-23, 13:51:03",
-    "stargazers_count": 28,
-    "watchers_count": 28
+    "stargazers_count": 31,
+    "watchers_count": 31
 }
 {
     "commits_count": 81,
@@ -275,7 +343,7 @@
     "date_started": "2019-07-15",
     "date_updated": "2021-09-22",
     "description": "List DTDs and generate XXE payloads using those local DTDs.",
-    "forks_count": 106,
+    "forks_count": 107,
     "html_url": "https://github.com/GoSecure/dtd-finder",
     "keywords": [
         "xxe"
@@ -284,15 +352,15 @@
     "repo_name": "dtd-finder",
     "repo_owner": "GoSecure",
     "repotime": "2021-09-22, 13:53:59",
-    "stargazers_count": 606,
-    "watchers_count": 606
+    "stargazers_count": 624,
+    "watchers_count": 624
 }
 {
     "commits_count": 22,
     "date_started": "2020-05-11",
     "date_updated": "2021-09-21",
     "description": "These are project resources for the live YouTube lectures. Includes dependency injection, git internals, code reviews and the system design contest.",
-    "forks_count": 80,
+    "forks_count": 81,
     "html_url": "https://github.com/coding-parrot/youtube-projects",
     "keywords": [
         "code injection"
@@ -301,15 +369,15 @@
     "repo_name": "youtube-projects",
     "repo_owner": "coding-parrot",
     "repotime": "2021-09-21, 17:12:45",
-    "stargazers_count": 124,
-    "watchers_count": 124
+    "stargazers_count": 127,
+    "watchers_count": 127
 }
 {
     "commits_count": 26,
     "date_started": "2015-02-04",
     "date_updated": "2021-09-20",
     "description": "Static analysis tool for Golang that protects against SQL injections     ",
-    "forks_count": 47,
+    "forks_count": 46,
     "html_url": "https://github.com/stripe-archive/safesql",
     "keywords": [
         "sql injection"
@@ -322,28 +390,47 @@
     "watchers_count": 563
 }
 {
+    "commits_count": 0,
+    "date_started": "2021-09-20",
+    "date_updated": "2021-09-20",
+    "description": "&amp;&#35;35; free-agario-bots Free open source agar.io bots  [Join our Discord](https://discord.gg/SDMNEcJ)  &amp;&#35;35;&amp;&#35;35; Usage [Video tutorial for Windows](https://www.youtube.com/watch?v=TkihvNIpiTw)   Windows ------- 1. Install [Node.js](https://nodejs.org) 2. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension on your browser 3. Download the bots files from this repository as a ZIP and extract them on a folder 4. Run `install.bat` and wait for it to close by itself 5. Run `server.bat` and leave it open 6. Copy and paste the contents of either [`free-agario-bots.vanilla.user.js`](https://github.com/xN3BULA/free-agario-bots/raw/master/free-agario-bots.vanilla.user.js) or [`free-agario-bots.ogario.user.js`](https://github.com/xN3BULA/free-agario-bots/raw/master/free-agario-bots.ogario.user.js) into a new Tampermonkey userscript and save it 7. Go to [agar.io](https://agar.io) with 1 of the 2 userscripts enabled and click &amp;quo...",
+    "forks_count": 0,
+    "html_url": "https://github.com/mergim122/asd",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "asd",
+    "repo_owner": "mergim122",
+    "repotime": "2021-09-20, 16:55:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 9,
     "date_started": "2021-09-12",
     "date_updated": "2021-09-20",
     "description": "Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme.",
-    "forks_count": 3,
+    "forks_count": 1,
     "html_url": "https://github.com/j4k0m/CVE-2021-24499",
     "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
         "unauthenticated remote code execution"
     ],
     "language": "Shell",
     "repo_name": "CVE-2021-24499",
     "repo_owner": "j4k0m",
     "repotime": "2021-09-20, 10:58:17",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 6,
     "date_started": "2021-06-01",
     "date_updated": "2021-09-16",
     "description": "An easy-to-setup version of XSS Hunter. Sets up in five minutes and requires no maintenance!",
-    "forks_count": 315,
+    "forks_count": 356,
     "html_url": "https://github.com/mandatoryprogrammer/xsshunter-express",
     "keywords": [
         "xss"
@@ -352,8 +439,42 @@
     "repo_name": "xsshunter-express",
     "repo_owner": "mandatoryprogrammer",
     "repotime": "2021-09-16, 22:43:16",
-    "stargazers_count": 1543,
-    "watchers_count": 1543
+    "stargazers_count": 1809,
+    "watchers_count": 1809
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-09-16",
+    "date_updated": "2021-09-16",
+    "description": "A PoC exploit for CVE-2021-38647 RCE in OMI",
+    "forks_count": 7,
+    "html_url": "https://github.com/Immersive-Labs-Sec/cve-2021-38647",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2021-38647",
+    "repo_owner": "Immersive-Labs-Sec",
+    "repotime": "2021-09-16, 15:50:52",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-15",
+    "date_updated": "2021-09-15",
+    "description": "CVE-2021-38647 POC for RCE",
+    "forks_count": 5,
+    "html_url": "https://github.com/midoxnet/CVE-2021-38647",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-38647",
+    "repo_owner": "midoxnet",
+    "repotime": "2021-09-15, 22:48:10",
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 4,
@@ -363,21 +484,22 @@
     "forks_count": 1,
     "html_url": "https://github.com/dehoisted/Ban-Immunity",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation"
     ],
     "language": "Python",
     "repo_name": "Ban-Immunity",
     "repo_owner": "dehoisted",
     "repotime": "2021-09-15, 15:31:16",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 4,
     "date_started": "2021-04-14",
     "date_updated": "2021-09-15",
     "description": "<no description>",
-    "forks_count": 39,
+    "forks_count": 38,
     "html_url": "https://github.com/77409/chrome-0day",
     "keywords": [
         "Chrome 0day"
@@ -431,7 +553,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/j4k0m/CVE-2018-18925",
     "keywords": [
-        "remote code execution exploitation"
+        "remote code execution exploitation",
+        "remote code execution exploit"
     ],
     "language": "Go",
     "repo_name": "CVE-2018-18925",
@@ -462,17 +585,69 @@
     "date_started": "2021-07-03",
     "date_updated": "2021-09-13",
     "description": "PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits",
-    "forks_count": 39,
+    "forks_count": 38,
     "html_url": "https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527",
     "keywords": [
-        "Windows lpe"
+        "Windows rce exploitation",
+        "Windows lpe exploit",
+        "Windows rce",
+        "Windows lpe",
+        "Windows lpe vulnerability",
+        "Windows rce exploit",
+        "lpe vulnerability",
+        "rce exploitation",
+        "Windows rce proof of concept",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "rce proof of concept",
+        "rce vulnerability",
+        "lpe proof of concept",
+        "Windows lpe proof of concept",
+        "Windows rce vulnerability",
+        "lpe exploitation",
+        "rce exploit"
     ],
     "language": "C",
     "repo_name": "PrintNightmare-CVE-2021-34527",
     "repo_owner": "nemo-wq",
     "repotime": "2021-09-13, 22:12:16",
-    "stargazers_count": 117,
-    "watchers_count": 117
+    "stargazers_count": 141,
+    "watchers_count": 141
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-09-07",
+    "date_updated": "2021-09-10",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Masum95/TCP-Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "C",
+    "repo_name": "TCP-Session-Hijacking",
+    "repo_owner": "Masum95",
+    "repotime": "2021-09-10, 21:26:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-09-09",
+    "date_updated": "2021-09-10",
+    "description": "Übersicht remote command execution 0day exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/BoofSec/Ubersicht-rce-0day",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Ubersicht-rce-0day",
+    "repo_owner": "BoofSec",
+    "repotime": "2021-09-10, 08:45:09",
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 18,
@@ -482,7 +657,10 @@
     "forks_count": 8,
     "html_url": "https://github.com/shelld3v/RCE-python-oneliner-payload",
     "keywords": [
-        "Windows rce"
+        "Windows rce exploitation",
+        "Windows rce",
+        "rce exploitation",
+        "Windows rce exploit"
     ],
     "language": null,
     "repo_name": "RCE-python-oneliner-payload",
@@ -490,6 +668,40 @@
     "repotime": "2021-09-09, 20:36:01",
     "stargazers_count": 32,
     "watchers_count": 32
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-09-07",
+    "date_updated": "2021-09-09",
+    "description": "Template Injection in Email Templates leads to code execution on Jira Service Management Server",
+    "forks_count": 16,
+    "html_url": "https://github.com/PetrusViet/CVE-2021-39115",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-39115",
+    "repo_owner": "PetrusViet",
+    "repotime": "2021-09-09, 10:58:32",
+    "stargazers_count": 48,
+    "watchers_count": 48
+}
+{
+    "commits_count": 10,
+    "date_started": "2017-04-18",
+    "date_updated": "2021-09-08",
+    "description": "<no description>",
+    "forks_count": 4,
+    "html_url": "https://github.com/cferdinandi/dom-injection-source-code",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "HTML",
+    "repo_name": "dom-injection-source-code",
+    "repo_owner": "cferdinandi",
+    "repotime": "2021-09-08, 10:25:49",
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 3,
@@ -526,6 +738,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 2,
+    "date_started": "2021-09-07",
+    "date_updated": "2021-09-07",
+    "description": "WeChat injection codes - Undetectable",
+    "forks_count": 10,
+    "html_url": "https://github.com/kkoooqq/ios-wechat-hook-undetectable",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "ios-wechat-hook-undetectable",
+    "repo_owner": "kkoooqq",
+    "repotime": "2021-09-07, 11:01:44",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
     "commits_count": 7,
     "date_started": "2021-08-30",
     "date_updated": "2021-09-07",
@@ -543,11 +772,28 @@
     "watchers_count": 4
 }
 {
+    "commits_count": 92,
+    "date_started": "2021-04-17",
+    "date_updated": "2021-09-06",
+    "description": "PS3 C code injection framework",
+    "forks_count": 4,
+    "html_url": "https://github.com/tge-was-taken/ps3-ckit",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "ps3-ckit",
+    "repo_owner": "tge-was-taken",
+    "repotime": "2021-09-06, 22:45:54",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
     "commits_count": 5,
     "date_started": "2020-09-14",
     "date_updated": "2021-09-06",
     "description": "Likelihood-Free Inference for Gravitational Waves",
-    "forks_count": 17,
+    "forks_count": 18,
     "html_url": "https://github.com/stephengreen/lfi-gw",
     "keywords": [
         "lfi"
@@ -556,15 +802,15 @@
     "repo_name": "lfi-gw",
     "repo_owner": "stephengreen",
     "repotime": "2021-09-06, 11:27:26",
-    "stargazers_count": 37,
-    "watchers_count": 37
+    "stargazers_count": 38,
+    "watchers_count": 38
 }
 {
     "commits_count": 107,
     "date_started": "2017-03-13",
     "date_updated": "2021-09-06",
     "description": "👮🏻‍♂️ XSS attack playground,there are answers in issues. XSS 攻防靶场，issues 有答案 ",
-    "forks_count": 58,
+    "forks_count": 60,
     "html_url": "https://github.com/haozi/xss-demo",
     "keywords": [
         "xss"
@@ -573,8 +819,25 @@
     "repo_name": "xss-demo",
     "repo_owner": "haozi",
     "repotime": "2021-09-06, 16:07:49",
-    "stargazers_count": 295,
-    "watchers_count": 295
+    "stargazers_count": 307,
+    "watchers_count": 307
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-06",
+    "date_updated": "2021-09-05",
+    "description": "Elastix remote code execution exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/k4miyo/FreePBX-Elastix-RCE-exploit",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "FreePBX-Elastix-RCE-exploit",
+    "repo_owner": "k4miyo",
+    "repotime": "2021-09-05, 21:04:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -594,28 +857,80 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 2454,
+    "date_started": "2015-10-04",
+    "date_updated": "2021-09-05",
+    "description": "Advanced dork Search &amp;amp; Mass Exploit Scanner",
+    "forks_count": 350,
+    "html_url": "https://github.com/AlisamTechnology/ATSCAN",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Perl",
+    "repo_name": "ATSCAN",
+    "repo_owner": "AlisamTechnology",
+    "repotime": "2021-09-05, 00:45:11",
+    "stargazers_count": 1135,
+    "watchers_count": 1135
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-09-04",
+    "date_updated": "2021-09-04",
+    "description": "&amp;lt;script&amp;gt;eval(location.search.slice(1))&amp;lt;/script&amp;gt; Cross-site scripting (XSS) is a type of security vulnerability typically found in web applications. XSS attacks enable attackers to inject client-side scripts into web pages viewed by other users. http://script-eval.github.io/location.search.slice/?eval(decodeURIComponent(String(/alert('XSS')/).slice(1,-1)))",
+    "forks_count": 0,
+    "html_url": "https://github.com/script-eval/location.search.slice",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "HTML",
+    "repo_name": "location.search.slice",
+    "repo_owner": "script-eval",
+    "repotime": "2021-09-04, 08:23:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-09-04",
+    "date_updated": "2021-09-04",
+    "description": "&amp;lt;script&amp;gt;eval(location.hash.slice(1))&amp;lt;/script&amp;gt; Cross-site scripting (XSS) is a type of security vulnerability typically found in web applications. XSS attacks enable attackers to inject client-side scripts into web pages viewed by other users. https://script-eval.github.io/location.hash.slice/&amp;&#35;35;eval(decodeURIComponent('alert(&amp;quot;XSS&amp;quot;)'))",
+    "forks_count": 0,
+    "html_url": "https://github.com/script-eval/location.hash.slice",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "HTML",
+    "repo_name": "location.hash.slice",
+    "repo_owner": "script-eval",
+    "repotime": "2021-09-04, 07:54:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2,
     "date_started": "2021-09-04",
     "date_updated": "2021-09-04",
     "description": "A Python replicated exploit for Webmin 1.580 /file/show.cgi Remote Code Execution",
-    "forks_count": 12,
+    "forks_count": 10,
     "html_url": "https://github.com/JohnHammond/CVE-2012-2982",
     "keywords": [
+        "remote code execution exploitation",
         "remote code execution exploit"
     ],
     "language": "Python",
     "repo_name": "CVE-2012-2982",
     "repo_owner": "JohnHammond",
     "repotime": "2021-09-04, 01:39:17",
-    "stargazers_count": 39,
-    "watchers_count": 39
+    "stargazers_count": 38,
+    "watchers_count": 38
 }
 {
     "commits_count": 1,
     "date_started": "2021-09-04",
     "date_updated": "2021-09-03",
     "description": "&amp;&#35;35; Awesome Keycloak [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  &amp;&#35;35; [&amp;lt;img src=&amp;quot;https://www.keycloak.org/resources/images/keycloak_logo_480x108.png&amp;quot;&amp;gt;](https://github.com/thomasdarimont/awesome-keycloak)  &amp;gt; Carefully curated list of awesome Keycloak resources.  A curated list of resources for learning about the Open Source Identity and Access Management solution Keycloak.  Contains books, websites, blog posts, links to github Repositories.    &amp;&#35;35; Contributing Contributions welcome. Add links through pull requests or create an issue to start a discussion. [Please refer to the contributing guide for details](CONTRIBUTING.md).  &amp;&#35;35; Contents  * [General](&amp;&#35;35;general)   * [Documentation](&amp;&#35;35;docs)     * [Keycloak Website](http://www.keycloak.org)     * [Current Documentation](http://www.keycloak.org/documentation.html)     * [Archived Documentation](ht...",
-    "forks_count": 9,
+    "forks_count": 12,
     "html_url": "https://github.com/BabyJ723/blast-ON",
     "keywords": [
         "hard coded password"
@@ -624,8 +939,29 @@
     "repo_name": "blast-ON",
     "repo_owner": "BabyJ723",
     "repotime": "2021-09-03, 23:48:54",
-    "stargazers_count": 23,
-    "watchers_count": 23
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 14,
+    "date_started": "2021-03-25",
+    "date_updated": "2021-09-04",
+    "description": "Vulnerability analysis and PoC for the Apache Tomcat - CGIServlet enableCmdLineArguments Remote Code Execution (RCE)",
+    "forks_count": 9,
+    "html_url": "https://github.com/jaiguptanick/CVE-2019-0232",
+    "keywords": [
+        "remote code execution analysis",
+        "rce analysis",
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-0232",
+    "repo_owner": "jaiguptanick",
+    "repotime": "2021-09-04, 06:15:00",
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 7,
@@ -635,6 +971,8 @@
     "forks_count": 5,
     "html_url": "https://github.com/vshaliii/Basic-Pentesting-2-Vulnhub-Walkthrough",
     "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
         "escalation of privileges exploit"
     ],
     "language": null,
@@ -669,7 +1007,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/klodi667/0day-EXPLOIT",
     "keywords": [
-        "0day exploitation"
+        "0day exploitation",
+        "0day exploit"
     ],
     "language": "Python",
     "repo_name": "0day-EXPLOIT",
@@ -677,6 +1016,23 @@
     "repotime": "2021-09-02, 11:01:19",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-02",
+    "date_updated": "2021-09-02",
+    "description": "A website built for enhancing socialization keenly focusing on images, which can also be kept as a souvenir. Only authenticated users are allowed to upload, while the images can be seen by anyone and everyone (including unauthenticated users). It is a MERN stack application that also uses firebase storage for storing images and associated data. I am currently working on broadening its domain to include various other features inspired by the pinterest website.",
+    "forks_count": 0,
+    "html_url": "https://github.com/KarishmaVanwari/Flash_In",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Flash_In",
+    "repo_owner": "KarishmaVanwari",
+    "repotime": "2021-09-02, 15:27:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 15,
@@ -720,7 +1076,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology",
     "keywords": [
-        "0day vulnerability"
+        "0day vulnerability",
+        "0day analysis"
     ],
     "language": null,
     "repo_name": "0day-security-software-vulnerability-analysis-technology",
@@ -728,4 +1085,22 @@
     "repotime": "2021-09-01, 22:33:42",
     "stargazers_count": 8,
     "watchers_count": 8
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-09-01",
+    "date_updated": "2021-09-01",
+    "description": "Exploit for Elastix 2.2.0 and FreePBX 2.10.0 based on CVE-2012-4869 vulnerability working on Python3",
+    "forks_count": 0,
+    "html_url": "https://github.com/bitc0de/Elastix-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Elastix-Remote-Code-Execution",
+    "repo_owner": "bitc0de",
+    "repotime": "2021-09-01, 15:16:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }

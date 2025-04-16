@@ -12,8 +12,8 @@
     "repo_name": "Intro-to-Ethical-Hacking",
     "repo_owner": "The-Assembly",
     "repotime": "2019-12-29, 17:24:49",
-    "stargazers_count": 37,
-    "watchers_count": 37
+    "stargazers_count": 41,
+    "watchers_count": 41
 }
 {
     "commits_count": 48,
@@ -37,7 +37,7 @@
     "date_started": "2016-04-05",
     "date_updated": "2019-12-23",
     "description": "SQL Injection Payloads for Burp Suite, OWASP Zed Attack Proxy,...",
-    "forks_count": 135,
+    "forks_count": 134,
     "html_url": "https://github.com/trietptm/SQL-Injection-Payloads",
     "keywords": [
         "sql injection"
@@ -46,8 +46,25 @@
     "repo_name": "SQL-Injection-Payloads",
     "repo_owner": "trietptm",
     "repotime": "2019-12-23, 20:26:08",
-    "stargazers_count": 226,
-    "watchers_count": 226
+    "stargazers_count": 230,
+    "watchers_count": 230
+}
+{
+    "commits_count": 394,
+    "date_started": "2019-09-15",
+    "date_updated": "2019-12-22",
+    "description": "This is a containerized web application designed to demonstrate common web security issues such as SQL injection and server-side request forgery. Final project for CSEC 380 - Principles of Web Application Security at Rochester Institute of Technology.",
+    "forks_count": 0,
+    "html_url": "https://github.com/twardokus/csec380-project",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "PHP",
+    "repo_name": "csec380-project",
+    "repo_owner": "twardokus",
+    "repotime": "2019-12-22, 13:10:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 3,
@@ -67,21 +84,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 5,
+    "date_started": "2019-12-09",
+    "date_updated": "2019-12-19",
+    "description": "Burp Suite Extension that detects Cypher code injection",
+    "forks_count": 9,
+    "html_url": "https://github.com/morkin1792/cypher-injection-scanner",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "cypher-injection-scanner",
+    "repo_owner": "morkin1792",
+    "repotime": "2019-12-19, 13:46:56",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 19,
     "date_started": "2019-08-22",
     "date_updated": "2019-12-19",
     "description": " Windows 10 LPE (UAC Bypass) in  Windows Store  (WSReset.exe)",
-    "forks_count": 76,
+    "forks_count": 77,
     "html_url": "https://github.com/sailay1996/UAC_bypass_windows_store",
     "keywords": [
+        "Win lpe",
+        "Windows lpe",
         "uac bypass"
     ],
     "language": "C",
     "repo_name": "UAC_bypass_windows_store",
     "repo_owner": "sailay1996",
     "repotime": "2019-12-19, 14:44:08",
-    "stargazers_count": 263,
-    "watchers_count": 263
+    "stargazers_count": 264,
+    "watchers_count": 264
 }
 {
     "commits_count": 3,
@@ -108,7 +144,8 @@
     "forks_count": 9,
     "html_url": "https://github.com/Freakazoidile/Open-Windows-Exec-Check",
     "keywords": [
-        "Windows rce"
+        "Windows rce",
+        "Win rce"
     ],
     "language": "Python",
     "repo_name": "Open-Windows-Exec-Check",
@@ -131,14 +168,31 @@
     "repo_name": "CVE-2017-12635",
     "repo_owner": "assalielmehdi",
     "repotime": "2019-12-15, 16:20:08",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-12-15",
+    "date_updated": "2019-12-15",
+    "description": "Silent Cleanup UAC Bypass POC",
+    "forks_count": 1,
+    "html_url": "https://github.com/bufferbandit/silent_cleanup_uac_bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "silent_cleanup_uac_bypass",
+    "repo_owner": "bufferbandit",
+    "repotime": "2019-12-15, 13:53:06",
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 17,
     "date_started": "2019-12-11",
     "date_updated": "2019-12-12",
-    "description": "A simple PHP powered website which is vulnerable to attacks through file uploads. Used for demonstrating how unrestricted file upload can be used for attacks in the course Computer Security @ Reykjavik University",
+    "description": "Demonstration of how unrestricted file upload can be used for attacks",
     "forks_count": 1,
     "html_url": "https://github.com/ViktorSveins/PHP_unrestricted_file_upload_vulnerability",
     "keywords": [
@@ -148,6 +202,23 @@
     "repo_name": "PHP_unrestricted_file_upload_vulnerability",
     "repo_owner": "ViktorSveins",
     "repotime": "2019-12-12, 17:30:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2019-12-10",
+    "date_updated": "2019-12-10",
+    "description": "Privacy Policy built the Queen Makeover Care app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.  This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.  If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.  The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Queen Makeover Care unless otherwise defined in this Privacy Policy.  Information Collection and Use  For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained o...",
+    "forks_count": 0,
+    "html_url": "https://github.com/rrudhani2diard/Privacy-Policy",
+    "keywords": [
+        "use after free disclosure"
+    ],
+    "language": null,
+    "repo_name": "Privacy-Policy",
+    "repo_owner": "rrudhani2diard",
+    "repotime": "2019-12-10, 15:47:04",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -173,7 +244,7 @@
     "date_started": "2019-12-08",
     "date_updated": "2019-12-09",
     "description": "Windows 10 UAC bypass for all executable files which are autoelevate true . ",
-    "forks_count": 113,
+    "forks_count": 116,
     "html_url": "https://github.com/sailay1996/UAC_Bypass_In_The_Wild",
     "keywords": [
         "uac bypass"
@@ -182,8 +253,8 @@
     "repo_name": "UAC_Bypass_In_The_Wild",
     "repo_owner": "sailay1996",
     "repotime": "2019-12-09, 15:48:15",
-    "stargazers_count": 636,
-    "watchers_count": 636
+    "stargazers_count": 644,
+    "watchers_count": 644
 }
 {
     "commits_count": 8,
@@ -193,6 +264,7 @@
     "forks_count": 10,
     "html_url": "https://github.com/jra89/CVE-2019-19634",
     "keywords": [
+        "remote code execution exploitation",
         "remote code execution exploit"
     ],
     "language": "PHP",
@@ -210,7 +282,8 @@
     "forks_count": 3,
     "html_url": "https://github.com/jra89/CVE-2019-19576",
     "keywords": [
-        "remote code execution exploitation"
+        "remote code execution exploitation",
+        "remote code execution exploit"
     ],
     "language": "PHP",
     "repo_name": "CVE-2019-19576",
@@ -218,6 +291,23 @@
     "repotime": "2019-12-08, 12:07:04",
     "stargazers_count": 12,
     "watchers_count": 12
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-01-20",
+    "date_updated": "2019-12-06",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/RektInator/cod-steamauth-rce",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "cod-steamauth-rce",
+    "repo_owner": "RektInator",
+    "repotime": "2019-12-06, 20:44:12",
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 2,
@@ -233,8 +323,8 @@
     "repo_name": "xxe-ftp-server",
     "repo_owner": "LandGrey",
     "repotime": "2019-12-07, 01:51:06",
-    "stargazers_count": 93,
-    "watchers_count": 93
+    "stargazers_count": 97,
+    "watchers_count": 97
 }
 {
     "commits_count": 5,
@@ -244,7 +334,14 @@
     "forks_count": 2,
     "html_url": "https://github.com/sobri3195/pegasus-0day-acunetix",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation",
+        "0day poc",
+        "lpe poc",
+        "lpe vulnerability",
+        "0day vulnerability",
+        "lpe exploit",
+        "lpe exploitation"
     ],
     "language": "Python",
     "repo_name": "pegasus-0day-acunetix",
@@ -312,7 +409,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/k1p0d/pony_session_bf",
     "keywords": [
-        "session vulnerability"
+        "session vulnerability",
+        "session hijacking vulnerability"
     ],
     "language": "Python",
     "repo_name": "pony_session_bf",
@@ -326,7 +424,7 @@
     "date_started": "2019-12-01",
     "date_updated": "2019-12-01",
     "description": "doxxing tool",
-    "forks_count": 11,
+    "forks_count": 13,
     "html_url": "https://github.com/Vistrice/DoXXeR",
     "keywords": [
         "xxe"
@@ -335,6 +433,6 @@
     "repo_name": "DoXXeR",
     "repo_owner": "Vistrice",
     "repotime": "2019-12-01, 18:05:49",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 23,
+    "watchers_count": 23
 }

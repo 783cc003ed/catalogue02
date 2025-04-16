@@ -1,4 +1,21 @@
 {
+    "commits_count": 2,
+    "date_started": "2015-10-31",
+    "date_updated": "2015-10-31",
+    "description": "A demo to bypass windows 10 default UAC configuration using IFileOperation and dll hijacking",
+    "forks_count": 55,
+    "html_url": "https://github.com/SecurityTW/UacBypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "UacBypass",
+    "repo_owner": "SecurityTW",
+    "repotime": "2015-10-31, 16:17:05",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 5,
     "date_started": "2017-09-28",
     "date_updated": "2015-10-29",
@@ -37,7 +54,7 @@
     "date_started": "2015-06-24",
     "date_updated": "2015-10-21",
     "description": "USB-Rubber-Ducky Payload - Mimikatz in Memory w UAC Bypass",
-    "forks_count": 19,
+    "forks_count": 18,
     "html_url": "https://github.com/decidedlygray/usb-rubber-ducky--mimikatz-in-mem",
     "keywords": [
         "uac bypass"
@@ -46,8 +63,8 @@
     "repo_name": "usb-rubber-ducky--mimikatz-in-mem",
     "repo_owner": "decidedlygray",
     "repotime": "2015-10-21, 21:57:51",
-    "stargazers_count": 33,
-    "watchers_count": 33
+    "stargazers_count": 35,
+    "watchers_count": 35
 }
 {
     "commits_count": 3,
@@ -57,7 +74,13 @@
     "forks_count": 0,
     "html_url": "https://github.com/bbterry/overflow-vulnerability-exploit",
     "keywords": [
-        "Windows remote code execution"
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "remote code execution exploit",
+        "remote code execution exploitation",
+        "Windows remote code execution exploit",
+        "remote code execution vulnerability",
+        "Windows remote code execution exploitation"
     ],
     "language": "Assembly",
     "repo_name": "overflow-vulnerability-exploit",
@@ -67,6 +90,23 @@
     "watchers_count": 6
 }
 {
+    "commits_count": 0,
+    "date_started": "2015-10-05",
+    "date_updated": "2015-10-05",
+    "description": "Session Not Invalidated After Logout",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashblur/IBM---appScan-Vulnerability-Testing-",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "IBM---appScan-Vulnerability-Testing-",
+    "repo_owner": "ashblur",
+    "repotime": "2015-10-05, 17:28:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 3,
     "date_started": "2015-11-01",
     "date_updated": "2015-10-01",
@@ -74,7 +114,11 @@
     "forks_count": 9,
     "html_url": "https://github.com/signedbytes/winrar-SFX-0day-exploiter",
     "keywords": [
-        "Win 0day"
+        "0day exploit",
+        "0day exploitation",
+        "Win 0day exploitation",
+        "Win 0day",
+        "Win 0day exploit"
     ],
     "language": "Python",
     "repo_name": "winrar-SFX-0day-exploiter",

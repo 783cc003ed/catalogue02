@@ -3,7 +3,7 @@
     "date_started": "2022-08-16",
     "date_updated": "2022-11-30",
     "description": "payMe is a technical solution initiated by some concerned Nigerians aimed to catalyze the innate desire in humans to fairly compete in an intellectual learning exercise. payMe is structured to more than engage users to learn but to incentivize users to be compelled to strive to achieve desired results on set targets. That in fact is the excelling value of payMe over competitions.  payMe is originally a web2 play-to-earn (P2E) gaming application upgraded to a hybrid platform by the adoption of the platform's native utility token for incentivizing success among the quizzers. Play-to-earn (P2E) games are online games that guarantee rewards with real-world value to players for completing given task in a contest with other players. It comes with different structure and rewarding system. In the blockchain ecosystem, these rewards can be in the form of in-game assets like crypto tokens, virtual land, as well as the game assets (weapons, tools etc.) and other NFTs. The advent of web3 and its d...",
-    "forks_count": 2,
+    "forks_count": 3,
     "html_url": "https://github.com/payMeQuiz/payMe-Project",
     "keywords": [
         "Win use after free"
@@ -12,15 +12,67 @@
     "repo_name": "payMe-Project",
     "repo_owner": "payMeQuiz",
     "repotime": "2022-11-30, 10:20:49",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-11-29",
+    "date_updated": "2022-11-29",
+    "description": "流血你(BLEED YOU) A critical RCE vulnerability in Windows Internet Key Exchange (IKE) Protocol Extensions",
+    "forks_count": 0,
+    "html_url": "https://github.com/sandpix/CVE-2022-34721-RCE-POC",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-34721-RCE-POC",
+    "repo_owner": "sandpix",
+    "repotime": "2022-11-29, 19:00:22",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-11-29",
+    "date_updated": "2022-11-29",
+    "description": "Repo to help security enthusiasts while testing against unrestricted file upload",
+    "forks_count": 0,
+    "html_url": "https://github.com/Att4ck3rS3cur1ty/Unrestricted-File-Upload",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "PHP",
+    "repo_name": "Unrestricted-File-Upload",
+    "repo_owner": "Att4ck3rS3cur1ty",
+    "repotime": "2022-11-29, 14:31:50",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-11-29",
+    "date_updated": "2022-11-28",
+    "description": "Aplicación web &amp;quot;Blog&amp;quot; con vulnerabilidad presente de Local File Inclusion",
+    "forks_count": 0,
+    "html_url": "https://github.com/leonelrsmz/LFI-App-Vulnerable",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Hack",
+    "repo_name": "LFI-App-Vulnerable",
+    "repo_owner": "leonelrsmz",
+    "repotime": "2022-11-28, 22:27:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 8,
     "date_started": "2018-02-07",
     "date_updated": "2022-11-28",
     "description": "一个包含php,java,python,C&amp;&#35;35;等各种语言版本的XXE漏洞Demo",
-    "forks_count": 179,
+    "forks_count": 181,
     "html_url": "https://github.com/c0ny1/xxe-lab",
     "keywords": [
         "xxe"
@@ -29,8 +81,59 @@
     "repo_name": "xxe-lab",
     "repo_owner": "c0ny1",
     "repotime": "2022-11-28, 20:56:03",
-    "stargazers_count": 771,
-    "watchers_count": 771
+    "stargazers_count": 787,
+    "watchers_count": 787
+}
+{
+    "commits_count": 116,
+    "date_started": "2022-08-16",
+    "date_updated": "2022-11-25",
+    "description": "A website that allows unauthenticated users to share text quickly",
+    "forks_count": 0,
+    "html_url": "https://github.com/brainyshadow/quickshare",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "quickshare",
+    "repo_owner": "brainyshadow",
+    "repotime": "2022-11-25, 16:08:04",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-25",
+    "date_updated": "2022-11-25",
+    "description": "Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/Adynervi/CVE-2022-3236-MASS-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-3236-MASS-RCE",
+    "repo_owner": "Adynervi",
+    "repotime": "2022-11-25, 19:48:48",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-10-28",
+    "date_updated": "2022-11-25",
+    "description": "Uac-Bypass vbs",
+    "forks_count": 2,
+    "html_url": "https://github.com/RobertDEVx/Uac-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "VBScript",
+    "repo_name": "Uac-Bypass",
+    "repo_owner": "RobertDEVx",
+    "repotime": "2022-11-25, 09:34:43",
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 2,
@@ -50,6 +153,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 29,
+    "date_started": "2020-11-21",
+    "date_updated": "2022-11-24",
+    "description": "Python3 program for executing Local and Remote File Inclusion",
+    "forks_count": 0,
+    "html_url": "https://github.com/solimm4sks/realfion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "realfion",
+    "repo_owner": "solimm4sks",
+    "repotime": "2022-11-24, 21:41:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 1,
     "date_started": "2022-11-24",
     "date_updated": "2022-11-24",
@@ -63,8 +183,42 @@
     "repo_name": "Aula_linguagem.1",
     "repo_owner": "carlosalexandreoliveiraalves",
     "repotime": "2022-11-24, 11:40:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-11-24",
+    "date_updated": "2022-11-24",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/4L4K4Z4/Mass_Local_File_Inclusion_v2",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "Mass_Local_File_Inclusion_v2",
+    "repo_owner": "4L4K4Z4",
+    "repotime": "2022-11-24, 14:11:22",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-03",
+    "date_updated": "2022-11-24",
+    "description": "Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6 ",
+    "forks_count": 1,
+    "html_url": "https://github.com/corelight/CVE-2022-3602",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Zeek",
+    "repo_name": "CVE-2022-3602",
+    "repo_owner": "corelight",
+    "repotime": "2022-11-24, 15:17:49",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 5,
@@ -80,8 +234,8 @@
     "repo_name": "Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution",
     "repo_owner": "blackn0te",
     "repotime": "2022-11-22, 22:42:10",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 1,
@@ -152,6 +306,26 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 0,
+    "date_started": "2018-11-25",
+    "date_updated": "2022-11-21",
+    "description": "1.[Script Termux] -Cmatrix *apt-get update *apt-get upgrade *apt-get install nmap *apt-get install python *apt-get install list *apt-get install cmatrix *cmatrix  [1/11 18.28] ‪+62 821-2770-8489‬: ✓Mempercantik Termux $ pkg update &amp;amp;&amp;amp; pkg upgrade $ pkg install ruby cowsay toilet figlet $ pkg install neofetch $ pkg install nano $ gem install lolcat  $ cd ../usr/etc $ nano bash.bashrc cowsay -f eyes Cyber | lolcat toilet -f standard Indonesia -F gay neofetch date | lolcat  Hack FB rombongan $ apt update &amp;amp;&amp;amp; apt upgrade $ pkg install python2 git $ pip2 install mechanize $ git clone http://github.com/pirmansx/mbf $ ls $ cd mbf $ python2 MBF.py  Hack FB ngincer $ apt update ( Enter ) $ apt upgrade ( Enter ) $ apt install python2 ( Enter ) $ pip2 install urllib3 chardet certifi idna requests ( Enter ) $ apt install openssl curl ( Enter ) $ pkg install libcurl ( Enter ) $ ln /sdcard ( Enter )  $ cd /sdcard ( Enter ) $ python2 fbbrute.py ( Enter )  Hack Gmail apt-get update &amp;amp;...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Taoviqinvicible/Tools-termux",
+    "keywords": [
+        "use after free exploit",
+        "use after free vulnerability",
+        "use after free exploitation",
+        "use after free poc"
+    ],
+    "language": null,
+    "repo_name": "Tools-termux",
+    "repo_owner": "Taoviqinvicible",
+    "repotime": "2022-11-21, 16:11:00",
+    "stargazers_count": 250,
+    "watchers_count": 250
+}
+{
     "commits_count": 24,
     "date_started": "2022-11-04",
     "date_updated": "2022-11-21",
@@ -165,8 +339,8 @@
     "repo_name": "CVE-2022-42889-RCE",
     "repo_owner": "cryxnet",
     "repotime": "2022-11-21, 11:16:57",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 4,
@@ -244,14 +418,37 @@
     "forks_count": 3,
     "html_url": "https://github.com/0xAbbarhSF/FollinaXploit",
     "keywords": [
-        "Microsoft zero-day"
+        "Microsoft zero-day exploit",
+        "Microsoft zero-day exploitation",
+        "Microsoft zero-day",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "Microsoft zero-day vulnerability",
+        "zero-day exploit"
     ],
     "language": "Python",
     "repo_name": "FollinaXploit",
     "repo_owner": "0xAbbarhSF",
     "repotime": "2022-11-19, 19:41:57",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-11-18",
+    "date_updated": "2022-11-19",
+    "description": "Apache Airflow &amp;lt; 2.4.0 DAG  example_bash_operator RCE POC",
+    "forks_count": 6,
+    "html_url": "https://github.com/Mr-xn/CVE-2022-40127",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-40127",
+    "repo_owner": "Mr-xn",
+    "repotime": "2022-11-19, 18:35:50",
+    "stargazers_count": 40,
+    "watchers_count": 40
 }
 {
     "commits_count": 2,
@@ -271,6 +468,57 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 9,
+    "date_started": "2022-08-05",
+    "date_updated": "2022-11-16",
+    "description": "VoteSystem1.0 has a vulnerability which allows an authenticated admin to upload a malicious  file and obtain a reverse shell/remote code execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Gurguii/-PoC-VotingSystem1.0-Authenticated-RCE-RSHELL",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "-PoC-VotingSystem1.0-Authenticated-RCE-RSHELL",
+    "repo_owner": "Gurguii",
+    "repotime": "2022-11-16, 20:11:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2020-06-18",
+    "date_updated": "2022-11-15",
+    "description": "&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=&amp;quot;en-US&amp;quot;&amp;gt; &amp;lt;head&amp;gt;  &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt;  &amp;lt;title&amp;gt;Page not found &amp;amp;&amp;&#35;35;8211; Fullz CVV Shop. Buy Fullz Online&amp;lt;/title&amp;gt; &amp;lt;link rel='dns-prefetch' href='//fonts.googleapis.com' /&amp;gt; &amp;lt;link rel='dns-prefetch' href='//s.w.org' /&amp;gt; &amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt; window._wpemojiSettings = {&amp;quot;baseUrl&amp;quot;:&amp;quot;https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/12.0.0-1\\/72x72\\/&amp;quot;,&amp;quot;ext&amp;quot;:&amp;quot;.png&amp;quot;,&amp;quot;svgUrl&amp;quot;:&amp;quot;https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/12.0.0-1\\/svg\\/&amp;quot;,&amp;quot;svgExt&amp;quot;:&amp;quot;.svg&amp;quot;,&amp;quot;source&amp;quot;:{&amp;quot;concatemoji&amp;quot;:&amp;quot;https:\\/\\/fullzcvv.to\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.3.4&amp;quot;}}; !function(e,a,t){var r,n,o,i,p=a.createElement(&amp;quot;canvas&amp;quot;),s=p.getContext&amp;amp;&amp;amp;p.getContext(&amp;quot;2d&amp;quot;);function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);...",
+    "forks_count": 0,
+    "html_url": "https://github.com/cumdump415/fullzcvv.to",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "fullzcvv.to",
+    "repo_owner": "cumdump415",
+    "repotime": "2022-11-15, 18:56:12",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-08-13",
+    "date_updated": "2022-11-15",
+    "description": "ProxyShell POC Exploit : Exchange Server RCE (ACL Bypass + EoP + Arbitrary File Write)",
+    "forks_count": 64,
+    "html_url": "https://github.com/ktecv2000/ProxyShell",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "ProxyShell",
+    "repo_owner": "ktecv2000",
+    "repotime": "2022-11-15, 17:35:56",
+    "stargazers_count": 299,
+    "watchers_count": 299
+}
+{
     "commits_count": 3,
     "date_started": "2016-09-15",
     "date_updated": "2022-11-14",
@@ -286,6 +534,23 @@
     "repotime": "2022-11-14, 20:16:42",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2017-03-15",
+    "date_updated": "2022-11-14",
+    "description": "&amp;lt;html&amp;gt;&amp;lt;head&amp;gt;         &amp;lt;meta name=&amp;quot;baidu-site-verification&amp;quot; content=&amp;quot;1jPmULtLtZ&amp;quot;&amp;gt;         &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;         &amp;lt;meta http-equiv=&amp;quot;X-UA-Compatible&amp;quot; content=&amp;quot;IE=9&amp;quot;&amp;gt;         &amp;lt;title&amp;gt;微信支付 - 中国领先的第三方支付平台 ｜ 微信支付提供安全快捷的支付方式&amp;lt;/title&amp;gt;         &amp;lt;meta name=&amp;quot;keywords&amp;quot; content=&amp;quot;微信支付,微信,支付,移动支付,手机支付,微支付,微信支付开通,微信支付接入,微信支付申请,微信支付官网,微信支付商户平台,微信支付接口开发,微信支付接口申请,微信支付客服,微信支付登录&amp;quot;&amp;gt;         &amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;微信支付是腾讯公司的支付业务品牌，微信支付提供公众号支付、APP支付、扫码支付、刷卡支付等支付方式。微信支付结合微信公众账号，全面打通O2O生活消费领域，提供专业的互联网+行业解决方案，微信支付支持微信红包和微信理财通，是移动支付的首选。&amp;quot;&amp;gt;         &amp;lt;link rel=&amp;quot;shortcut icon&amp;quot; href=&amp;quot;https://wx.gtimg.com/core/favicon.ico&amp;quot; type=&amp;quot;image/x-icon&amp;quot;&amp;gt;         &amp;lt;style&amp;gt;             body,ol,ul,h1,h2,h3,h4,h5,h6,p{margin:0;padding:0;}             body{min-width:1200px;font:14px &amp;quot;Helvetica Neue&amp;quot;,&amp;quot;Hiragino Sans GB&amp;quot;,&amp;quo...",
+    "forks_count": 0,
+    "html_url": "https://github.com/opoplmm/test1",
+    "keywords": [
+        "empty string password"
+    ],
+    "language": null,
+    "repo_name": "test1",
+    "repo_owner": "opoplmm",
+    "repotime": "2022-11-14, 20:24:49",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 3,
@@ -312,7 +577,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/ysanatomic/CVE-2022-1015",
     "keywords": [
-        "lpe poc"
+        "lpe poc",
+        "lpe vulnerability"
     ],
     "language": "C",
     "repo_name": "CVE-2022-1015",
@@ -335,8 +601,25 @@
     "repo_name": "wordpress-cve-2021-29447",
     "repo_owner": "M3l0nPan",
     "repotime": "2022-11-11, 23:50:30",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-05-17",
+    "date_updated": "2022-11-11",
+    "description": "Code for the IJCAI'19 paper  &amp;quot;Deep Session Interest Network for Click-Through Rate Prediction&amp;quot;",
+    "forks_count": 131,
+    "html_url": "https://github.com/shenweichen/DSIN",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "DSIN",
+    "repo_owner": "shenweichen",
+    "repotime": "2022-11-11, 13:11:13",
+    "stargazers_count": 441,
+    "watchers_count": 441
 }
 {
     "commits_count": 33,
@@ -356,6 +639,57 @@
     "watchers_count": 3
 }
 {
+    "commits_count": 21,
+    "date_started": "2019-10-18",
+    "date_updated": "2022-11-11",
+    "description": "二进制漏洞之栈溢出原理和利用技术、绕过安全保护技术(绕过 NX、 ASLR、PIE、Canary、RELRO 等)、格式化字符串漏洞原理是利用技术、整数溢出漏 洞原理和利用技术、glibc2.30 内存管理源码深入分析、堆溢出漏洞(fastbin 攻击、 UAF、double free、堆重叠和扩展攻击、unlink 攻击、house 系列攻击)漏洞原理和攻 击技巧",
+    "forks_count": 44,
+    "html_url": "https://github.com/ylcangel/binary_vulnerability",
+    "keywords": [
+        "uaf vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "binary_vulnerability",
+    "repo_owner": "ylcangel",
+    "repotime": "2022-11-11, 10:31:02",
+    "stargazers_count": 117,
+    "watchers_count": 117
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-04-15",
+    "date_updated": "2022-11-09",
+    "description": "NSNGFW网康下一代防火墙RCE 漏洞批量检测&amp;amp;利用&amp;amp;批量getshell",
+    "forks_count": 5,
+    "html_url": "https://github.com/S0por/NSNGFW-RCE-POC_EXP",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "NSNGFW-RCE-POC_EXP",
+    "repo_owner": "S0por",
+    "repotime": "2022-11-09, 18:11:56",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 23,
+    "date_started": "2016-06-28",
+    "date_updated": "2022-11-09",
+    "description": "Started as arbitrary System Management Mode code execution exploit for Lenovo ThinkPad model line, ended as exploit for industry-wide 0day vulnerability in machines of many vendors",
+    "forks_count": 87,
+    "html_url": "https://github.com/Cr4sh/ThinkPwn",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": "C",
+    "repo_name": "ThinkPwn",
+    "repo_owner": "Cr4sh",
+    "repotime": "2022-11-09, 17:54:55",
+    "stargazers_count": 625,
+    "watchers_count": 625
+}
+{
     "commits_count": 2,
     "date_started": "2022-11-09",
     "date_updated": "2022-11-09",
@@ -373,55 +707,75 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 110,
-    "date_started": "2017-03-21",
-    "date_updated": "2022-11-09",
-    "description": "SSRF (Server Side Request Forgery) testing resources",
-    "forks_count": 477,
-    "html_url": "https://github.com/cujanovic/SSRF-Testing",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Python",
-    "repo_name": "SSRF-Testing",
-    "repo_owner": "cujanovic",
-    "repotime": "2022-11-09, 17:14:06",
-    "stargazers_count": 2336,
-    "watchers_count": 2336
-}
-{
     "commits_count": 84,
     "date_started": "2022-03-30",
     "date_updated": "2022-11-09",
     "description": "Spring4Shell Proof Of Concept/And vulnerable application CVE-2022-22965",
-    "forks_count": 106,
+    "forks_count": 109,
     "html_url": "https://github.com/BobTheShoplifter/Spring4Shell-POC",
     "keywords": [
-        "rce proof of concept"
+        "rce proof of concept",
+        "rce poc",
+        "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "Spring4Shell-POC",
     "repo_owner": "BobTheShoplifter",
     "repotime": "2022-11-09, 16:46:06",
-    "stargazers_count": 358,
-    "watchers_count": 358
+    "stargazers_count": 364,
+    "watchers_count": 364
 }
 {
     "commits_count": 24,
     "date_started": "2022-10-24",
     "date_updated": "2022-11-09",
     "description": "Oh no, stop this. You can see my local IP address 😲! Use `foundation` attribute against CRC32 lookup table to reveal local IP address of a Chrome/Chromium visitor.",
-    "forks_count": 5,
+    "forks_count": 6,
     "html_url": "https://github.com/niespodd/webrtc-local-ip-leak",
     "keywords": [
+        "Chromium address leak",
         "Chrome address leak"
     ],
     "language": "HTML",
     "repo_name": "webrtc-local-ip-leak",
     "repo_owner": "niespodd",
     "repotime": "2022-11-09, 09:45:09",
-    "stargazers_count": 57,
-    "watchers_count": 57
+    "stargazers_count": 59,
+    "watchers_count": 59
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-08",
+    "date_updated": "2022-11-08",
+    "description": "mbsd cybersecurity challenges 2022 session hijacking by xss",
+    "forks_count": 0,
+    "html_url": "https://github.com/k175jp/mbsd-sample-script",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "mbsd-sample-script",
+    "repo_owner": "k175jp",
+    "repotime": "2022-11-08, 22:13:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-08",
+    "date_updated": "2022-11-08",
+    "description": "csv injection tests conducted on a dummy server client application",
+    "forks_count": 0,
+    "html_url": "https://github.com/SatXCho/.net-csv-injection-tests",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": ".net-csv-injection-tests",
+    "repo_owner": "SatXCho",
+    "repotime": "2022-11-08, 18:31:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -437,25 +791,8 @@
     "repo_name": "rpi3-memory-leakage",
     "repo_owner": "canaknesil",
     "repotime": "2022-11-08, 12:17:58",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 49,
-    "date_started": "2022-06-20",
-    "date_updated": "2022-11-07",
-    "description": "<no description>",
-    "forks_count": 3,
-    "html_url": "https://github.com/Dancas93/SSRF-Scanner",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Python",
-    "repo_name": "SSRF-Scanner",
-    "repo_owner": "Dancas93",
-    "repotime": "2022-11-07, 10:58:44",
-    "stargazers_count": 30,
-    "watchers_count": 30
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 6,
@@ -475,6 +812,57 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 3,
+    "date_started": "2022-11-06",
+    "date_updated": "2022-11-07",
+    "description": "Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool",
+    "forks_count": 0,
+    "html_url": "https://github.com/g01f/CVE-2022-3236-POC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-3236-POC",
+    "repo_owner": "g01f",
+    "repotime": "2022-11-07, 01:05:03",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-11-06",
+    "date_updated": "2022-11-07",
+    "description": "DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field",
+    "forks_count": 0,
+    "html_url": "https://github.com/HarleyDoo/CVE-2022-32548-RCE-POC",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-32548-RCE-POC",
+    "repo_owner": "HarleyDoo",
+    "repotime": "2022-11-07, 01:04:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-06-09",
+    "date_updated": "2022-11-06",
+    "description": "Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190)",
+    "forks_count": 11,
+    "html_url": "https://github.com/Hrishikesh7665/Follina_Exploiter_CLI",
+    "keywords": [
+        "Microsoft rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Follina_Exploiter_CLI",
+    "repo_owner": "Hrishikesh7665",
+    "repotime": "2022-11-06, 15:54:23",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
     "commits_count": 7,
     "date_started": "2022-11-06",
     "date_updated": "2022-11-06",
@@ -492,6 +880,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 6,
+    "date_started": "2022-11-06",
+    "date_updated": "2022-11-06",
+    "description": "A rework of CMLuaUtil AutoElevated ",
+    "forks_count": 7,
+    "html_url": "https://github.com/arsium/BypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C#",
+    "repo_name": "BypassUAC",
+    "repo_owner": "arsium",
+    "repotime": "2022-11-06, 11:06:36",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
     "commits_count": 2,
     "date_started": "2022-11-06",
     "date_updated": "2022-11-06",
@@ -505,8 +910,25 @@
     "repo_name": "CVE-2022-35914",
     "repo_owner": "0xGabe",
     "repotime": "2022-11-06, 03:24:00",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-10-31",
+    "date_updated": "2022-11-05",
+    "description": "{VMware Cloud Foundation} remote code execution vulnerability via XStream (CVE-2021-39144)",
+    "forks_count": 5,
+    "html_url": "https://github.com/b3wT/CVE-2021-39144-XSTREAM-RCE",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-39144-XSTREAM-RCE",
+    "repo_owner": "b3wT",
+    "repotime": "2022-11-05, 10:39:37",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 5,
@@ -516,7 +938,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/ciarankdoherty/RootExploiter",
     "keywords": [
-        "privelege escalation exploit"
+        "privelege escalation exploit",
+        "privelege escalation exploitation"
     ],
     "language": "Python",
     "repo_name": "RootExploiter",
@@ -526,11 +949,49 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 0,
+    "date_started": "2017-04-06",
+    "date_updated": "2022-11-04",
+    "description": "Updated January 2016  Note on translation: These Website Terms of Service may have been translated into various languages for the convenience of Cash Loophole Users. While the translation is correct to the best of Cash Loophole knowledge, Cash Loophole is not responsible or liable in the event of an inaccuracy. English is the controlling language of these Terms of Service, and any translation has been prepared for you as a courtesy only. In the event of a conflict between the English-language version of these Terms of Service and a version that has been translated into another language, the English-language version shall control.  The Cash Loophole Website, is an online information service with downloadable software, provided by Cash Loophole, and is subject to the terms and conditions set forth below.  IMPORTANT: These terms and conditions constitute a legal agreement between you, the User (hereafter “You”, “Your”, or the “User”), and us, Cash Loophole, its affiliates, and all of thei...",
+    "forks_count": 0,
+    "html_url": "https://github.com/mdxedia/Awsome-Cash",
+    "keywords": [
+        "use after free exploit",
+        "use after free denial of service",
+        "hard coded password",
+        "use after free exploitation"
+    ],
+    "language": null,
+    "repo_name": "Awsome-Cash",
+    "repo_owner": "mdxedia",
+    "repotime": "2022-11-04, 23:24:51",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-09-30",
+    "date_updated": "2022-11-05",
+    "description": "Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG",
+    "forks_count": 1,
+    "html_url": "https://github.com/MSD-Gaming/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022",
+    "keywords": [
+        "rce disclosure",
+        "remote code execution disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022",
+    "repo_owner": "MSD-Gaming",
+    "repotime": "2022-11-05, 02:58:16",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
     "commits_count": 6,
     "date_started": "2022-10-24",
     "date_updated": "2022-11-04",
     "description": "Tool for helping in the exploitation of path traversal vulnerabilities in Java web applications",
-    "forks_count": 4,
+    "forks_count": 5,
     "html_url": "https://github.com/Invicti-Security/web-inf-path-trav",
     "keywords": [
         "path traversal vulnerability"
@@ -539,8 +1000,1300 @@
     "repo_name": "web-inf-path-trav",
     "repo_owner": "Invicti-Security",
     "repotime": "2022-11-04, 13:30:27",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 386,
+    "date_started": "2016-01-20",
+    "date_updated": "2022-11-03",
+    "description": "A repository for learning various heap exploitation techniques.",
+    "forks_count": 1046,
+    "html_url": "https://github.com/shellphish/how2heap",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "C",
+    "repo_name": "how2heap",
+    "repo_owner": "shellphish",
+    "repotime": "2022-11-03, 10:41:44",
+    "stargazers_count": 5719,
+    "watchers_count": 5719
+}
+{
+    "commits_count": 22,
+    "date_started": "2017-10-22",
+    "date_updated": "2022-11-03",
+    "description": "proof-of-concept Windows Driver for injecting DLL into user-mode processes using APC",
+    "forks_count": 235,
+    "html_url": "https://github.com/wbenny/injdrv",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "C",
+    "repo_name": "injdrv",
+    "repo_owner": "wbenny",
+    "repotime": "2022-11-03, 10:22:10",
+    "stargazers_count": 838,
+    "watchers_count": 838
+}
+{
+    "commits_count": 104,
+    "date_started": "2016-06-24",
+    "date_updated": "2022-11-03",
+    "description": "Printer Exploitation Toolkit - The tool that made dumpster diving obsolete.",
+    "forks_count": 578,
+    "html_url": "https://github.com/RUB-NDS/PRET",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "PRET",
+    "repo_owner": "RUB-NDS",
+    "repotime": "2022-11-03, 10:02:27",
+    "stargazers_count": 3229,
+    "watchers_count": 3229
+}
+{
+    "commits_count": 5,
+    "date_started": "2017-06-29",
+    "date_updated": "2022-11-03",
+    "description": "A proof of concept for the RDP Inception Attack",
+    "forks_count": 566,
+    "html_url": "https://github.com/mdsecactivebreach/RDPInception",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Batchfile",
+    "repo_name": "RDPInception",
+    "repo_owner": "mdsecactivebreach",
+    "repotime": "2022-11-03, 09:56:05",
+    "stargazers_count": 325,
+    "watchers_count": 325
+}
+{
+    "commits_count": 48,
+    "date_started": "2021-12-10",
+    "date_updated": "2022-11-03",
+    "description": "A Proof-Of-Concept for the CVE-2021-44228 vulnerability. ",
+    "forks_count": 423,
+    "html_url": "https://github.com/kozmer/log4j-shell-poc",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Python",
+    "repo_name": "log4j-shell-poc",
+    "repo_owner": "kozmer",
+    "repotime": "2022-11-03, 09:49:05",
+    "stargazers_count": 1491,
+    "watchers_count": 1491
+}
+{
+    "commits_count": 298,
+    "date_started": "2020-02-24",
+    "date_updated": "2022-11-03",
+    "description": "A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.",
+    "forks_count": 824,
+    "html_url": "https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": null,
+    "repo_name": "Active-Directory-Exploitation-Cheat-Sheet",
+    "repo_owner": "S1ckB0y1337",
+    "repotime": "2022-11-03, 09:17:41",
+    "stargazers_count": 3348,
+    "watchers_count": 3348
+}
+{
+    "commits_count": 110,
+    "date_started": "2016-11-13",
+    "date_updated": "2022-11-03",
+    "description": "A collection of links related to Linux kernel security and exploitation",
+    "forks_count": 895,
+    "html_url": "https://github.com/xairy/linux-kernel-exploitation",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": null,
+    "repo_name": "linux-kernel-exploitation",
+    "repo_owner": "xairy",
+    "repotime": "2022-11-03, 08:42:27",
+    "stargazers_count": 4431,
+    "watchers_count": 4431
+}
+{
+    "commits_count": 591,
+    "date_started": "2012-05-26",
+    "date_updated": "2022-11-03",
+    "description": "PowerSploit - A PowerShell Post-Exploitation Framework",
+    "forks_count": 4249,
+    "html_url": "https://github.com/PowerShellMafia/PowerSploit",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "PowerShell",
+    "repo_name": "PowerSploit",
+    "repo_owner": "PowerShellMafia",
+    "repotime": "2022-11-03, 08:42:23",
+    "stargazers_count": 10028,
+    "watchers_count": 10028
+}
+{
+    "commits_count": 32,
+    "date_started": "2018-06-06",
+    "date_updated": "2022-11-03",
+    "description": "Proofs-of-concept",
+    "forks_count": 218,
+    "html_url": "https://github.com/thezdi/PoC",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "C++",
+    "repo_name": "PoC",
+    "repo_owner": "thezdi",
+    "repotime": "2022-11-03, 08:39:44",
+    "stargazers_count": 642,
+    "watchers_count": 642
+}
+{
+    "commits_count": 34,
+    "date_started": "2020-05-26",
+    "date_updated": "2022-11-03",
+    "description": "Resources for Windows exploit development",
+    "forks_count": 293,
+    "html_url": "https://github.com/FULLSHADE/WindowsExploitationResources",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": null,
+    "repo_name": "WindowsExploitationResources",
+    "repo_owner": "FULLSHADE",
+    "repotime": "2022-11-03, 08:32:41",
+    "stargazers_count": 1179,
+    "watchers_count": 1179
+}
+{
+    "commits_count": 58,
+    "date_started": "2017-04-06",
+    "date_updated": "2022-11-03",
+    "description": "This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure. ",
+    "forks_count": 129,
+    "html_url": "https://github.com/DhavalKapil/heap-exploitation",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "C",
+    "repo_name": "heap-exploitation",
+    "repo_owner": "DhavalKapil",
+    "repotime": "2022-11-03, 08:31:20",
+    "stargazers_count": 1196,
+    "watchers_count": 1196
+}
+{
+    "commits_count": 273,
+    "date_started": "2015-01-28",
+    "date_updated": "2022-11-03",
+    "description": "A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.",
+    "forks_count": 1566,
+    "html_url": "https://github.com/frohoff/ysoserial",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Java",
+    "repo_name": "ysoserial",
+    "repo_owner": "frohoff",
+    "repotime": "2022-11-03, 08:23:29",
+    "stargazers_count": 5833,
+    "watchers_count": 5833
+}
+{
+    "commits_count": 28,
+    "date_started": "2022-04-20",
+    "date_updated": "2022-11-03",
+    "description": "Proof of concept code for Datadog Security Labs referenced exploits.",
+    "forks_count": 37,
+    "html_url": "https://github.com/DataDog/security-labs-pocs",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Shell",
+    "repo_name": "security-labs-pocs",
+    "repo_owner": "DataDog",
+    "repotime": "2022-11-03, 08:16:54",
+    "stargazers_count": 305,
+    "watchers_count": 305
+}
+{
+    "commits_count": 21,
+    "date_started": "2018-12-06",
+    "date_updated": "2022-11-03",
+    "description": "A collection of links related to VMware escape exploits",
+    "forks_count": 196,
+    "html_url": "https://github.com/xairy/vmware-exploitation",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": null,
+    "repo_name": "vmware-exploitation",
+    "repo_owner": "xairy",
+    "repotime": "2022-11-03, 08:06:37",
+    "stargazers_count": 1178,
+    "watchers_count": 1178
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-02-27",
+    "date_updated": "2022-11-03",
+    "description": "proof of concept for a transformer-based time series prediction model",
+    "forks_count": 163,
+    "html_url": "https://github.com/oliverguhr/transformer-time-series-prediction",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Python",
+    "repo_name": "transformer-time-series-prediction",
+    "repo_owner": "oliverguhr",
+    "repotime": "2022-11-03, 07:24:57",
+    "stargazers_count": 663,
+    "watchers_count": 663
+}
+{
+    "commits_count": 826,
+    "date_started": "2016-03-30",
+    "date_updated": "2022-11-03",
+    "description": "Exploitation Framework for Embedded Devices",
+    "forks_count": 2228,
+    "html_url": "https://github.com/threat9/routersploit",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "routersploit",
+    "repo_owner": "threat9",
+    "repotime": "2022-11-03, 07:19:01",
+    "stargazers_count": 10581,
+    "watchers_count": 10581
+}
+{
+    "commits_count": 68,
+    "date_started": "2017-08-01",
+    "date_updated": "2022-11-03",
+    "description": "ISF(Industrial Control System Exploitation Framework)，a exploitation framework based on Python",
+    "forks_count": 274,
+    "html_url": "https://github.com/dark-lbp/isf",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "isf",
+    "repo_owner": "dark-lbp",
+    "repotime": "2022-11-03, 05:53:22",
+    "stargazers_count": 877,
+    "watchers_count": 877
+}
+{
+    "commits_count": 140,
+    "date_started": "2017-07-14",
+    "date_updated": "2022-11-03",
+    "description": "File upload vulnerability scanner and exploitation tool.",
+    "forks_count": 449,
+    "html_url": "https://github.com/almandin/fuxploider",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "fuxploider",
+    "repo_owner": "almandin",
+    "repotime": "2022-11-03, 03:46:25",
+    "stargazers_count": 2378,
+    "watchers_count": 2378
+}
+{
+    "commits_count": 763,
+    "date_started": "2017-12-18",
+    "date_updated": "2022-11-03",
+    "description": "An open-source post-exploitation framework for students, researchers and developers.",
+    "forks_count": 1959,
+    "html_url": "https://github.com/malwaredllc/byob",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "byob",
+    "repo_owner": "malwaredllc",
+    "repotime": "2022-11-03, 03:21:04",
+    "stargazers_count": 7990,
+    "watchers_count": 7990
+}
+{
+    "commits_count": 3,
+    "date_started": "2017-11-20",
+    "date_updated": "2022-11-03",
+    "description": "Proof-of-Concept exploits for CVE-2017-11882",
+    "forks_count": 198,
+    "html_url": "https://github.com/embedi/CVE-2017-11882",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-11882",
+    "repo_owner": "embedi",
+    "repotime": "2022-11-03, 02:50:25",
+    "stargazers_count": 492,
+    "watchers_count": 492
+}
+{
+    "commits_count": 297,
+    "date_started": "2013-09-24",
+    "date_updated": "2022-11-03",
+    "description": "Automated NoSQL database enumeration and web application exploitation tool.",
+    "forks_count": 535,
+    "html_url": "https://github.com/codingo/NoSQLMap",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "NoSQLMap",
+    "repo_owner": "codingo",
+    "repotime": "2022-11-03, 02:47:43",
+    "stargazers_count": 2199,
+    "watchers_count": 2199
+}
+{
+    "commits_count": 1877,
+    "date_started": "2015-03-20",
+    "date_updated": "2022-11-03",
+    "description": "Automated All-in-One OS Command Injection Exploitation Tool.",
+    "forks_count": 734,
+    "html_url": "https://github.com/commixproject/commix",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "commix",
+    "repo_owner": "commixproject",
+    "repotime": "2022-11-03, 02:23:19",
+    "stargazers_count": 3524,
+    "watchers_count": 3524
+}
+{
+    "commits_count": 1836,
+    "date_started": "2015-08-05",
+    "date_updated": "2022-11-03",
+    "description": "Empire is a PowerShell and Python post-exploitation agent.",
+    "forks_count": 2622,
+    "html_url": "https://github.com/EmpireProject/Empire",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Empire",
+    "repo_owner": "EmpireProject",
+    "repotime": "2022-11-03, 00:59:15",
+    "stargazers_count": 6729,
+    "watchers_count": 6729
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-11-02",
+    "date_updated": "2022-11-03",
+    "description": "This script was created for me to Test file encryptions for the IFM 0-Day for the Windows 1900/2000 Builds via the TPM Core injected into Bytecode ( 0Day and Bytecode isnt Listed )",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xGast/PerlEnc",
+    "keywords": [
+        "Windows 0day"
+    ],
+    "language": "Perl",
+    "repo_name": "PerlEnc",
+    "repo_owner": "0xGast",
+    "repotime": "2022-11-03, 00:03:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 290,
+    "date_started": "2018-01-30",
+    "date_updated": "2022-11-02",
+    "description": "Automated Mass Exploiter",
+    "forks_count": 1145,
+    "html_url": "https://github.com/NullArray/AutoSploit",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "AutoSploit",
+    "repo_owner": "NullArray",
+    "repotime": "2022-11-02, 21:11:21",
+    "stargazers_count": 4640,
+    "watchers_count": 4640
+}
+{
+    "commits_count": 4129,
+    "date_started": "2011-11-23",
+    "date_updated": "2022-11-02",
+    "description": "The Browser Exploitation Framework Project",
+    "forks_count": 1811,
+    "html_url": "https://github.com/beefproject/beef",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "beef",
+    "repo_owner": "beefproject",
+    "repotime": "2022-11-02, 21:10:38",
+    "stargazers_count": 7801,
+    "watchers_count": 7801
+}
+{
+    "commits_count": 642,
+    "date_started": "2016-02-11",
+    "date_updated": "2022-11-02",
+    "description": "Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",
+    "forks_count": 1439,
+    "html_url": "https://github.com/getsentry/self-hosted",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Shell",
+    "repo_name": "self-hosted",
+    "repo_owner": "getsentry",
+    "repotime": "2022-11-02, 21:00:33",
+    "stargazers_count": 5563,
+    "watchers_count": 5563
+}
+{
+    "commits_count": 5353,
+    "date_started": "2021-03-01",
+    "date_updated": "2022-11-02",
+    "description": "Proof of concept for the Hydra Head protocol :construction_worker:",
+    "forks_count": 49,
+    "html_url": "https://github.com/input-output-hk/hydra-poc",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Haskell",
+    "repo_name": "hydra-poc",
+    "repo_owner": "input-output-hk",
+    "repotime": "2022-11-02, 20:02:27",
+    "stargazers_count": 163,
+    "watchers_count": 163
+}
+{
+    "commits_count": 140,
+    "date_started": "2020-05-28",
+    "date_updated": "2022-11-02",
+    "description": "A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.",
+    "forks_count": 341,
+    "html_url": "https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Active-Directory-Exploitation-Cheat-Sheet",
+    "repo_owner": "Integration-IT",
+    "repotime": "2022-11-02, 17:34:03",
+    "stargazers_count": 1489,
+    "watchers_count": 1489
+}
+{
+    "commits_count": 555,
+    "date_started": "2019-02-08",
+    "date_updated": "2022-11-02",
+    "description": "Proof-of-concept seq-to-graph mapper and graph generator",
+    "forks_count": 33,
+    "html_url": "https://github.com/lh3/minigraph",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "C",
+    "repo_name": "minigraph",
+    "repo_owner": "lh3",
+    "repotime": "2022-11-02, 16:36:07",
+    "stargazers_count": 295,
+    "watchers_count": 295
+}
+{
+    "commits_count": 236,
+    "date_started": "2022-07-05",
+    "date_updated": "2022-11-02",
+    "description": "Open Source realtime backend in 1 file",
+    "forks_count": 537,
+    "html_url": "https://github.com/pocketbase/pocketbase",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Go",
+    "repo_name": "pocketbase",
+    "repo_owner": "pocketbase",
+    "repotime": "2022-11-02, 14:12:32",
+    "stargazers_count": 15465,
+    "watchers_count": 15465
+}
+{
+    "commits_count": 25,
+    "date_started": "2021-03-22",
+    "date_updated": "2022-11-02",
+    "description": "POC&amp;amp;EXP仓库、hvv弹药库、Nday、1day",
+    "forks_count": 226,
+    "html_url": "https://github.com/DawnFlame/POChouse",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Python",
+    "repo_name": "POChouse",
+    "repo_owner": "DawnFlame",
+    "repotime": "2022-11-02, 13:15:21",
+    "stargazers_count": 702,
+    "watchers_count": 702
+}
+{
+    "commits_count": 556,
+    "date_started": "2019-03-15",
+    "date_updated": "2022-11-02",
+    "description": "pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.",
+    "forks_count": 724,
+    "html_url": "https://github.com/knownsec/pocsuite3",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Python",
+    "repo_name": "pocsuite3",
+    "repo_owner": "knownsec",
+    "repotime": "2022-11-02, 13:13:13",
+    "stargazers_count": 2846,
+    "watchers_count": 2846
+}
+{
+    "commits_count": 154,
+    "date_started": "2015-03-13",
+    "date_updated": "2022-11-02",
+    "description": "各种漏洞poc、Exp的收集或编写",
+    "forks_count": 952,
+    "html_url": "https://github.com/coffeehb/Some-PoC-oR-ExP",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Python",
+    "repo_name": "Some-PoC-oR-ExP",
+    "repo_owner": "coffeehb",
+    "repotime": "2022-11-02, 13:07:51",
+    "stargazers_count": 1926,
+    "watchers_count": 1926
+}
+{
+    "commits_count": 677,
+    "date_started": "2017-09-10",
+    "date_updated": "2022-11-02",
+    "description": "Widgets manager for MacBook Touch Bar",
+    "forks_count": 375,
+    "html_url": "https://github.com/pock/pock",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Swift",
+    "repo_name": "pock",
+    "repo_owner": "pock",
+    "repotime": "2022-11-02, 12:54:22",
+    "stargazers_count": 9842,
+    "watchers_count": 9842
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-08-03",
+    "date_updated": "2022-11-02",
+    "description": "2022 护网行动 POC 整理",
+    "forks_count": 672,
+    "html_url": "https://github.com/Phuong39/2022-HW-POC",
+    "keywords": [
+        "PoC"
+    ],
+    "language": null,
+    "repo_name": "2022-HW-POC",
+    "repo_owner": "Phuong39",
+    "repotime": "2022-11-02, 12:24:04",
+    "stargazers_count": 322,
+    "watchers_count": 322
+}
+{
+    "commits_count": 6088,
+    "date_started": "2021-04-13",
+    "date_updated": "2022-11-02",
+    "description": "聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID.",
+    "forks_count": 144,
+    "html_url": "https://github.com/ycdxsb/PocOrExp_in_Github",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Python",
+    "repo_name": "PocOrExp_in_Github",
+    "repo_owner": "ycdxsb",
+    "repotime": "2022-11-02, 12:20:01",
+    "stargazers_count": 542,
+    "watchers_count": 542
+}
+{
+    "commits_count": 258,
+    "date_started": "2013-06-01",
+    "date_updated": "2022-11-02",
+    "description": "Speech recognition in JavaScript and WebAssembly",
+    "forks_count": 270,
+    "html_url": "https://github.com/syl22-00/pocketsphinx.js",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "JavaScript",
+    "repo_name": "pocketsphinx.js",
+    "repo_owner": "syl22-00",
+    "repotime": "2022-11-02, 10:36:21",
+    "stargazers_count": 1440,
+    "watchers_count": 1440
+}
+{
+    "commits_count": 235,
+    "date_started": "2010-10-04",
+    "date_updated": "2022-11-02",
+    "description": "PyOpenCL bitcoin miner",
+    "forks_count": 384,
+    "html_url": "https://github.com/m0mchil/poclbm",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Python",
+    "repo_name": "poclbm",
+    "repo_owner": "m0mchil",
+    "repotime": "2022-11-02, 10:19:19",
+    "stargazers_count": 640,
+    "watchers_count": 640
+}
+{
+    "commits_count": 191,
+    "date_started": "2018-02-19",
+    "date_updated": "2022-11-02",
+    "description": "A proof-of-concept microkernel that implements a WebAssembly &amp;quot;usermode&amp;quot; that runs in Ring 0.",
+    "forks_count": 76,
+    "html_url": "https://github.com/nebulet/nebulet",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Rust",
+    "repo_name": "nebulet",
+    "repo_owner": "nebulet",
+    "repotime": "2022-11-02, 10:03:14",
+    "stargazers_count": 2268,
+    "watchers_count": 2268
+}
+{
+    "commits_count": 829,
+    "date_started": "2011-03-18",
+    "date_updated": "2022-11-02",
+    "description": "Official PetaPoco, A tiny ORM-ish thing for your POCO's",
+    "forks_count": 593,
+    "html_url": "https://github.com/CollaboratingPlatypus/PetaPoco",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "C#",
+    "repo_name": "PetaPoco",
+    "repo_owner": "CollaboratingPlatypus",
+    "repotime": "2022-11-02, 10:00:32",
+    "stargazers_count": 1925,
+    "watchers_count": 1925
+}
+{
+    "commits_count": 69,
+    "date_started": "2020-09-25",
+    "date_updated": "2022-11-02",
+    "description": "Security contacts and disclosure reports",
+    "forks_count": 38,
+    "html_url": "https://github.com/yearn/yearn-security",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": null,
+    "repo_name": "yearn-security",
+    "repo_owner": "yearn",
+    "repotime": "2022-11-02, 08:39:57",
+    "stargazers_count": 113,
+    "watchers_count": 113
+}
+{
+    "commits_count": 7198,
+    "date_started": "2013-08-22",
+    "date_updated": "2022-11-02",
+    "description": "pocl - Portable Computing Language",
+    "forks_count": 211,
+    "html_url": "https://github.com/pocl/pocl",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "C",
+    "repo_name": "pocl",
+    "repo_owner": "pocl",
+    "repotime": "2022-11-02, 08:36:13",
+    "stargazers_count": 687,
+    "watchers_count": 687
+}
+{
+    "commits_count": 16,
+    "date_started": "2015-04-29",
+    "date_updated": "2022-11-02",
+    "description": "A `.git` folder disclosure exploit",
+    "forks_count": 757,
+    "html_url": "https://github.com/lijiejie/GitHack",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "GitHack",
+    "repo_owner": "lijiejie",
+    "repotime": "2022-11-02, 08:27:41",
+    "stargazers_count": 2416,
+    "watchers_count": 2416
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-08-31",
+    "date_updated": "2022-11-02",
+    "description": "Atomic swap proof of concept code",
+    "forks_count": 9,
+    "html_url": "https://github.com/GrinSwap/proof-of-concept",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Python",
+    "repo_name": "proof-of-concept",
+    "repo_owner": "GrinSwap",
+    "repotime": "2022-11-02, 08:25:30",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 57,
+    "date_started": "2020-04-16",
+    "date_updated": "2022-11-02",
+    "description": "Android Kernel Exploitation",
+    "forks_count": 80,
+    "html_url": "https://github.com/cloudfuzz/android-kernel-exploitation",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "android-kernel-exploitation",
+    "repo_owner": "cloudfuzz",
+    "repotime": "2022-11-02, 08:06:59",
+    "stargazers_count": 420,
+    "watchers_count": 420
+}
+{
+    "commits_count": 9052,
+    "date_started": "2012-10-24",
+    "date_updated": "2022-11-02",
+    "description": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+    "forks_count": 1873,
+    "html_url": "https://github.com/pocoproject/poco",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "C",
+    "repo_name": "poco",
+    "repo_owner": "pocoproject",
+    "repotime": "2022-11-02, 08:05:00",
+    "stargazers_count": 6471,
+    "watchers_count": 6471
+}
+{
+    "commits_count": 356,
+    "date_started": "2018-09-25",
+    "date_updated": "2022-11-02",
+    "description": "An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR",
+    "forks_count": 394,
+    "html_url": "https://github.com/byt3bl33d3r/SILENTTRINITY",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Boo",
+    "repo_name": "SILENTTRINITY",
+    "repo_owner": "byt3bl33d3r",
+    "repotime": "2022-11-02, 07:50:58",
+    "stargazers_count": 1916,
+    "watchers_count": 1916
+}
+{
+    "commits_count": 1024,
+    "date_started": "2015-12-11",
+    "date_updated": "2022-11-02",
+    "description": "My POC's against various concepts",
+    "forks_count": 51,
+    "html_url": "https://github.com/rajadilipkolli/POC",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Java",
+    "repo_name": "POC",
+    "repo_owner": "rajadilipkolli",
+    "repotime": "2022-11-02, 07:40:11",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 4806,
+    "date_started": "2013-04-29",
+    "date_updated": "2022-11-02",
+    "description": "CTF framework and exploit development library",
+    "forks_count": 1556,
+    "html_url": "https://github.com/Gallopsled/pwntools",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "pwntools",
+    "repo_owner": "Gallopsled",
+    "repotime": "2022-11-02, 07:28:39",
+    "stargazers_count": 9595,
+    "watchers_count": 9595
+}
+{
+    "commits_count": 13,
+    "date_started": "2017-01-24",
+    "date_updated": "2022-11-02",
+    "description": "A .DS_Store file disclosure exploit.   It parses .DS_Store file and downloads files recursively.",
+    "forks_count": 261,
+    "html_url": "https://github.com/lijiejie/ds_store_exp",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "ds_store_exp",
+    "repo_owner": "lijiejie",
+    "repotime": "2022-11-02, 07:17:12",
+    "stargazers_count": 1094,
+    "watchers_count": 1094
+}
+{
+    "commits_count": 88,
+    "date_started": "2017-09-16",
+    "date_updated": "2022-11-02",
+    "description": "Modern tactical exploitation toolkit.",
+    "forks_count": 119,
+    "html_url": "https://github.com/0xdea/tactical-exploitation",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "tactical-exploitation",
+    "repo_owner": "0xdea",
+    "repotime": "2022-11-02, 07:10:49",
+    "stargazers_count": 703,
+    "watchers_count": 703
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-09-06",
+    "date_updated": "2022-11-02",
+    "description": "A proof-of-concept jupyter extension which converts english queries into relevant python code",
+    "forks_count": 360,
+    "html_url": "https://github.com/deepklarity/jupyter-text2code",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "jupyter-text2code",
+    "repo_owner": "deepklarity",
+    "repotime": "2022-11-02, 07:05:23",
+    "stargazers_count": 2081,
+    "watchers_count": 2081
+}
+{
+    "commits_count": 118,
+    "date_started": "2018-11-18",
+    "date_updated": "2022-11-02",
+    "description": "Attack and defend active directory using modern post exploitation adversary tradecraft activity",
+    "forks_count": 939,
+    "html_url": "https://github.com/infosecn1nja/AD-Attack-Defense",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": null,
+    "repo_name": "AD-Attack-Defense",
+    "repo_owner": "infosecn1nja",
+    "repotime": "2022-11-02, 06:52:59",
+    "stargazers_count": 3648,
+    "watchers_count": 3648
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-12-04",
+    "date_updated": "2022-11-02",
+    "description": "Active Directory ACL exploitation with BloodHound",
+    "forks_count": 96,
+    "html_url": "https://github.com/fox-it/aclpwn.py",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "aclpwn.py",
+    "repo_owner": "fox-it",
+    "repotime": "2022-11-02, 06:38:36",
+    "stargazers_count": 586,
+    "watchers_count": 586
+}
+{
+    "commits_count": 697,
+    "date_started": "2017-01-06",
+    "date_updated": "2022-11-02",
+    "description": "Merlin is a cross-platform post-exploitation HTTP/2 Command &amp;amp; Control  server and agent written in golang.",
+    "forks_count": 701,
+    "html_url": "https://github.com/Ne0nd0g/merlin",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Go",
+    "repo_name": "merlin",
+    "repo_owner": "Ne0nd0g",
+    "repotime": "2022-11-02, 06:28:20",
+    "stargazers_count": 4067,
+    "watchers_count": 4067
+}
+{
+    "commits_count": 574,
+    "date_started": "2013-10-01",
+    "date_updated": "2022-11-02",
+    "description": "Advisories, proof of concept files and exploits that have been made public by @pedrib.",
+    "forks_count": 161,
+    "html_url": "https://github.com/pedrib/PoC",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Ruby",
+    "repo_name": "PoC",
+    "repo_owner": "pedrib",
+    "repotime": "2022-11-02, 06:16:42",
+    "stargazers_count": 667,
+    "watchers_count": 667
+}
+{
+    "commits_count": 120,
+    "date_started": "2012-08-03",
+    "date_updated": "2022-11-02",
+    "description": "PEDA - Python Exploit Development Assistance for GDB",
+    "forks_count": 783,
+    "html_url": "https://github.com/longld/peda",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "peda",
+    "repo_owner": "longld",
+    "repotime": "2022-11-02, 06:00:42",
+    "stargazers_count": 5228,
+    "watchers_count": 5228
+}
+{
+    "commits_count": 1376,
+    "date_started": "2022-06-15",
+    "date_updated": "2022-11-02",
+    "description": "Pocket Casts Android 🎧",
+    "forks_count": 113,
+    "html_url": "https://github.com/Automattic/pocket-casts-android",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Kotlin",
+    "repo_name": "pocket-casts-android",
+    "repo_owner": "Automattic",
+    "repotime": "2022-11-02, 05:36:14",
+    "stargazers_count": 1896,
+    "watchers_count": 1896
+}
+{
+    "commits_count": 321,
+    "date_started": "2019-12-04",
+    "date_updated": "2022-11-02",
+    "description": "Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device.",
+    "forks_count": 786,
+    "html_url": "https://github.com/EntySec/Ghost",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Ghost",
+    "repo_owner": "EntySec",
+    "repotime": "2022-11-02, 04:41:59",
+    "stargazers_count": 1819,
+    "watchers_count": 1819
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-09-20",
+    "date_updated": "2022-11-02",
+    "description": "hcaptcha 0day exploit / bypass",
+    "forks_count": 1,
+    "html_url": "https://github.com/Its-Vichy/hcaptcha-0day",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "hcaptcha-0day",
+    "repo_owner": "Its-Vichy",
+    "repotime": "2022-11-02, 04:41:44",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 21,
+    "date_started": "2020-01-16",
+    "date_updated": "2022-11-02",
+    "description": "PoC of fighting against force-stop kill process on Android",
+    "forks_count": 425,
+    "html_url": "https://github.com/tiann/Leoric",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Java",
+    "repo_name": "Leoric",
+    "repo_owner": "tiann",
+    "repotime": "2022-11-02, 03:55:59",
+    "stargazers_count": 1427,
+    "watchers_count": 1427
+}
+{
+    "commits_count": 3516,
+    "date_started": "2015-09-21",
+    "date_updated": "2022-11-02",
+    "description": "Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python",
+    "forks_count": 1755,
+    "html_url": "https://github.com/n1nj4sec/pupy",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "pupy",
+    "repo_owner": "n1nj4sec",
+    "repotime": "2022-11-02, 03:27:14",
+    "stargazers_count": 7278,
+    "watchers_count": 7278
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-02-24",
+    "date_updated": "2022-11-02",
+    "description": "Proof of Concept Exploit for vCenter CVE-2021-21972",
+    "forks_count": 79,
+    "html_url": "https://github.com/horizon3ai/CVE-2021-21972",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-21972",
+    "repo_owner": "horizon3ai",
+    "repotime": "2022-11-02, 03:24:48",
+    "stargazers_count": 207,
+    "watchers_count": 207
+}
+{
+    "commits_count": 12,
+    "date_started": "2016-02-16",
+    "date_updated": "2022-11-02",
+    "description": "My proof-of-concept exploits for the Linux kernel",
+    "forks_count": 386,
+    "html_url": "https://github.com/xairy/kernel-exploits",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "C",
+    "repo_name": "kernel-exploits",
+    "repo_owner": "xairy",
+    "repotime": "2022-11-02, 03:21:17",
+    "stargazers_count": 1313,
+    "watchers_count": 1313
+}
+{
+    "commits_count": 244,
+    "date_started": "2018-09-20",
+    "date_updated": "2022-11-02",
+    "description": " SharpSploit is a .NET post-exploitation library written in C&amp;&#35;35;",
+    "forks_count": 279,
+    "html_url": "https://github.com/cobbr/SharpSploit",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "C#",
+    "repo_name": "SharpSploit",
+    "repo_owner": "cobbr",
+    "repotime": "2022-11-02, 02:48:47",
+    "stargazers_count": 1521,
+    "watchers_count": 1521
+}
+{
+    "commits_count": 242,
+    "date_started": "2015-02-01",
+    "date_updated": "2022-11-02",
+    "description": "Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.",
+    "forks_count": 514,
+    "html_url": "https://github.com/nullsecuritynet/tools",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "C",
+    "repo_name": "tools",
+    "repo_owner": "nullsecuritynet",
+    "repotime": "2022-11-02, 02:31:15",
+    "stargazers_count": 1742,
+    "watchers_count": 1742
+}
+{
+    "commits_count": 3,
+    "date_started": "2013-03-22",
+    "date_updated": "2022-11-02",
+    "description": "Proof of concept Android WebView implementation based on Chromium code",
+    "forks_count": 445,
+    "html_url": "https://github.com/pwnall/chromeview",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Java",
+    "repo_name": "chromeview",
+    "repo_owner": "pwnall",
+    "repotime": "2022-11-02, 02:19:37",
+    "stargazers_count": 1673,
+    "watchers_count": 1673
+}
+{
+    "commits_count": 4187,
+    "date_started": "2019-12-08",
+    "date_updated": "2022-11-02",
+    "description": "📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.",
+    "forks_count": 900,
+    "html_url": "https://github.com/nomi-sec/PoC-in-GitHub",
+    "keywords": [
+        "PoC"
+    ],
+    "language": null,
+    "repo_name": "PoC-in-GitHub",
+    "repo_owner": "nomi-sec",
+    "repotime": "2022-11-02, 01:44:14",
+    "stargazers_count": 4472,
+    "watchers_count": 4472
+}
+{
+    "commits_count": 257,
+    "date_started": "2019-03-02",
+    "date_updated": "2022-11-02",
+    "description": "Windows Exploit Suggester - Next Generation",
+    "forks_count": 476,
+    "html_url": "https://github.com/bitsadmin/wesng",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "wesng",
+    "repo_owner": "bitsadmin",
+    "repotime": "2022-11-02, 00:49:05",
+    "stargazers_count": 3139,
+    "watchers_count": 3139
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-01-26",
+    "date_updated": "2022-11-02",
+    "description": "PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)",
+    "forks_count": 302,
+    "html_url": "https://github.com/arthepsy/CVE-2021-4034",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2021-4034",
+    "repo_owner": "arthepsy",
+    "repotime": "2022-11-02, 00:20:14",
+    "stargazers_count": 918,
+    "watchers_count": 918
+}
+{
+    "commits_count": 76,
+    "date_started": "2021-02-09",
+    "date_updated": "2022-11-01",
+    "description": "C2/post-exploitation framework",
+    "forks_count": 130,
+    "html_url": "https://github.com/loseys/BlackMamba",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "BlackMamba",
+    "repo_owner": "loseys",
+    "repotime": "2022-11-01, 23:16:38",
+    "stargazers_count": 867,
+    "watchers_count": 867
+}
+{
+    "commits_count": 35,
+    "date_started": "2019-09-23",
+    "date_updated": "2022-11-01",
+    "description": "Exploit for CVE-2019-11043",
+    "forks_count": 261,
+    "html_url": "https://github.com/neex/phuip-fpizdam",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Go",
+    "repo_name": "phuip-fpizdam",
+    "repo_owner": "neex",
+    "repotime": "2022-11-01, 23:05:16",
+    "stargazers_count": 1743,
+    "watchers_count": 1743
+}
+{
+    "commits_count": 70,
+    "date_started": "2018-04-10",
+    "date_updated": "2022-11-01",
+    "description": "Linux Binary Exploitation",
+    "forks_count": 211,
+    "html_url": "https://github.com/rosehgal/BinExp",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "C",
+    "repo_name": "BinExp",
+    "repo_owner": "rosehgal",
+    "repotime": "2022-11-01, 22:07:17",
+    "stargazers_count": 1116,
+    "watchers_count": 1116
+}
+{
+    "commits_count": 101,
+    "date_started": "2017-05-29",
+    "date_updated": "2022-11-01",
+    "description": "A proof-of-concept of Augmented Reality with HTML5",
+    "forks_count": 36,
+    "html_url": "https://github.com/marmelab/sketch-by-phone",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sketch-by-phone",
+    "repo_owner": "marmelab",
+    "repotime": "2022-11-01, 21:55:27",
+    "stargazers_count": 100,
+    "watchers_count": 100
+}
+{
+    "commits_count": 2206,
+    "date_started": "2014-04-07",
+    "date_updated": "2022-11-01",
+    "description": "A small speech recognizer",
+    "forks_count": 623,
+    "html_url": "https://github.com/cmusphinx/pocketsphinx",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "C",
+    "repo_name": "pocketsphinx",
+    "repo_owner": "cmusphinx",
+    "repotime": "2022-11-01, 20:48:02",
+    "stargazers_count": 3131,
+    "watchers_count": 3131
 }
 {
     "commits_count": 7,
@@ -550,7 +2303,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/stefanhesselman/Daily-Expense-Manager-1.0-SQL-to-RCE",
     "keywords": [
-        "rce disclosure"
+        "rce disclosure",
+        "remote code execution disclosure"
     ],
     "language": "Python",
     "repo_name": "Daily-Expense-Manager-1.0-SQL-to-RCE",
@@ -573,6 +2327,825 @@
     "repo_name": "twitter-user",
     "repo_owner": "a3r0id",
     "repotime": "2022-11-01, 12:30:39",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 238,
+    "date_started": "2017-10-23",
+    "date_updated": "2022-11-01",
+    "description": "kernel privilege escalation enumeration and exploitation framework",
+    "forks_count": 137,
+    "html_url": "https://github.com/spencerdodd/kernelpop",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "kernelpop",
+    "repo_owner": "spencerdodd",
+    "repotime": "2022-11-01, 18:10:12",
+    "stargazers_count": 663,
+    "watchers_count": 663
+}
+{
+    "commits_count": 261,
+    "date_started": "2018-09-26",
+    "date_updated": "2022-11-01",
+    "description": "Very simplified insurance sales system made in a microservices architecture using .NET Core",
+    "forks_count": 617,
+    "html_url": "https://github.com/asc-lab/dotnetcore-microservices-poc",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "C#",
+    "repo_name": "dotnetcore-microservices-poc",
+    "repo_owner": "asc-lab",
+    "repotime": "2022-11-01, 17:51:05",
+    "stargazers_count": 1666,
+    "watchers_count": 1666
+}
+{
+    "commits_count": 320,
+    "date_started": "2020-04-03",
+    "date_updated": "2022-11-01",
+    "description": "Vulnerabilities of Goby supported with exploitation.",
+    "forks_count": 93,
+    "html_url": "https://github.com/gobysec/GobyVuls",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Go",
+    "repo_name": "GobyVuls",
+    "repo_owner": "gobysec",
+    "repotime": "2022-11-01, 15:21:25",
+    "stargazers_count": 469,
+    "watchers_count": 469
+}
+{
+    "commits_count": 2583,
+    "date_started": "2013-12-03",
+    "date_updated": "2022-11-01",
+    "description": "The official Exploit Database repository",
+    "forks_count": 1967,
+    "html_url": "https://github.com/offensive-security/exploitdb",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "C",
+    "repo_name": "exploitdb",
+    "repo_owner": "offensive-security",
+    "repotime": "2022-11-01, 15:10:19",
+    "stargazers_count": 7559,
+    "watchers_count": 7559
+}
+{
+    "commits_count": 246,
+    "date_started": "2022-04-11",
+    "date_updated": "2022-11-01",
+    "description": "Wi-Fi Exploitation Framework",
+    "forks_count": 131,
+    "html_url": "https://github.com/D3Ext/WEF",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Hack",
+    "repo_name": "WEF",
+    "repo_owner": "D3Ext",
+    "repotime": "2022-11-01, 14:51:27",
+    "stargazers_count": 1361,
+    "watchers_count": 1361
+}
+{
+    "commits_count": 90,
+    "date_started": "2022-02-20",
+    "date_updated": "2022-11-01",
+    "description": "一个各类漏洞POC知识库",
+    "forks_count": 160,
+    "html_url": "https://github.com/Threekiii/Awesome-POC",
+    "keywords": [
+        "PoC"
+    ],
+    "language": null,
+    "repo_name": "Awesome-POC",
+    "repo_owner": "Threekiii",
+    "repotime": "2022-11-01, 14:30:43",
+    "stargazers_count": 575,
+    "watchers_count": 575
+}
+{
+    "commits_count": 68,
+    "date_started": "2021-05-12",
+    "date_updated": "2022-11-01",
+    "description": "全新的漏洞测试框架，支持poc在线编辑、运行、批量测试。使用文档：",
+    "forks_count": 215,
+    "html_url": "https://github.com/jweny/pocassist",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Go",
+    "repo_name": "pocassist",
+    "repo_owner": "jweny",
+    "repotime": "2022-11-01, 14:19:35",
+    "stargazers_count": 1170,
+    "watchers_count": 1170
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-05-19",
+    "date_updated": "2022-11-01",
+    "description": "Proof-of-concept obfuscation toolkit for C&amp;&#35;35; post-exploitation tools",
+    "forks_count": 116,
+    "html_url": "https://github.com/h4wkst3r/InvisibilityCloak",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Python",
+    "repo_name": "InvisibilityCloak",
+    "repo_owner": "h4wkst3r",
+    "repotime": "2022-11-01, 13:35:49",
+    "stargazers_count": 242,
+    "watchers_count": 242
+}
+{
+    "commits_count": 188,
+    "date_started": "2017-04-25",
+    "date_updated": "2022-11-01",
+    "description": "Integrations, examples, and proof-of-concepts that are not part of OPA proper.",
+    "forks_count": 137,
+    "html_url": "https://github.com/open-policy-agent/contrib",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Go",
+    "repo_name": "contrib",
+    "repo_owner": "open-policy-agent",
+    "repotime": "2022-11-01, 13:18:00",
+    "stargazers_count": 269,
+    "watchers_count": 269
+}
+{
+    "commits_count": 159,
+    "date_started": "2014-02-20",
+    "date_updated": "2022-11-01",
+    "description": "Find exploit tool",
+    "forks_count": 268,
+    "html_url": "https://github.com/rfunix/Pompem",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Pompem",
+    "repo_owner": "rfunix",
+    "repotime": "2022-11-01, 12:55:46",
+    "stargazers_count": 860,
+    "watchers_count": 860
+}
+{
+    "commits_count": 7,
+    "date_started": "2017-12-29",
+    "date_updated": "2022-11-01",
+    "description": "Executable that mutates its own code",
+    "forks_count": 106,
+    "html_url": "https://github.com/bytecode77/self-morphing-csharp-binary",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "C#",
+    "repo_name": "self-morphing-csharp-binary",
+    "repo_owner": "bytecode77",
+    "repotime": "2022-11-01, 11:16:54",
+    "stargazers_count": 341,
+    "watchers_count": 341
+}
+{
+    "commits_count": 372,
+    "date_started": "2021-03-21",
+    "date_updated": "2022-11-01",
+    "description": "基于Pocsuite3、goby编写的漏洞poc&amp;amp;exp存档",
+    "forks_count": 125,
+    "html_url": "https://github.com/luck-ying/Library-POC",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Python",
+    "repo_name": "Library-POC",
+    "repo_owner": "luck-ying",
+    "repotime": "2022-11-01, 11:13:55",
+    "stargazers_count": 389,
+    "watchers_count": 389
+}
+{
+    "commits_count": 86,
+    "date_started": "2014-11-30",
+    "date_updated": "2022-11-01",
+    "description": "JexBoss: Jboss (and Java Deserialization Vulnerabilities) verify and EXploitation Tool",
+    "forks_count": 643,
+    "html_url": "https://github.com/joaomatosf/jexboss",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "jexboss",
+    "repo_owner": "joaomatosf",
+    "repotime": "2022-11-01, 10:39:49",
+    "stargazers_count": 2178,
+    "watchers_count": 2178
+}
+{
+    "commits_count": 75,
+    "date_started": "2019-08-24",
+    "date_updated": "2022-11-01",
+    "description": "List of Google Dorks for sites that have responsible disclosure program / bug bounty program",
+    "forks_count": 272,
+    "html_url": "https://github.com/sushiwushi/bug-bounty-dorks",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": null,
+    "repo_name": "bug-bounty-dorks",
+    "repo_owner": "sushiwushi",
+    "repotime": "2022-11-01, 09:57:20",
+    "stargazers_count": 725,
+    "watchers_count": 725
+}
+{
+    "commits_count": 13,
+    "date_started": "2019-10-08",
+    "date_updated": "2022-11-01",
+    "description": "Phantom DLL hollowing PoC",
+    "forks_count": 67,
+    "html_url": "https://github.com/forrest-orr/phantom-dll-hollower-poc",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "C++",
+    "repo_name": "phantom-dll-hollower-poc",
+    "repo_owner": "forrest-orr",
+    "repotime": "2022-11-01, 08:58:00",
+    "stargazers_count": 305,
+    "watchers_count": 305
+}
+{
+    "commits_count": 53,
+    "date_started": "2016-09-07",
+    "date_updated": "2022-11-01",
+    "description": "This project contains pocs and exploits for vulneribilities I found (mostly)",
+    "forks_count": 212,
+    "html_url": "https://github.com/jiayy/android_vuln_poc-exp",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "C",
+    "repo_name": "android_vuln_poc-exp",
+    "repo_owner": "jiayy",
+    "repotime": "2022-11-01, 08:55:12",
+    "stargazers_count": 623,
+    "watchers_count": 623
+}
+{
+    "commits_count": 3,
+    "date_started": "2016-10-22",
+    "date_updated": "2022-11-01",
+    "description": "Arbitrary SMM code execution exploit for industry-wide 0day vulnerability in AMI Aptio based firmwares",
+    "forks_count": 14,
+    "html_url": "https://github.com/Cr4sh/Aptiocalypsis",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Aptiocalypsis",
+    "repo_owner": "Cr4sh",
+    "repotime": "2022-11-01, 08:39:30",
+    "stargazers_count": 47,
+    "watchers_count": 47
+}
+{
+    "commits_count": 16,
+    "date_started": "2019-02-13",
+    "date_updated": "2022-11-01",
+    "description": "PoC for CVE-2019-5736",
+    "forks_count": 161,
+    "html_url": "https://github.com/Frichetten/CVE-2019-5736-PoC",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2019-5736-PoC",
+    "repo_owner": "Frichetten",
+    "repotime": "2022-11-01, 08:14:58",
+    "stargazers_count": 599,
+    "watchers_count": 599
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-02-28",
+    "date_updated": "2022-11-01",
+    "description": "<no description>",
+    "forks_count": 187,
+    "html_url": "https://github.com/tostercx/GTAO_Booster_PoC",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "C",
+    "repo_name": "GTAO_Booster_PoC",
+    "repo_owner": "tostercx",
+    "repotime": "2022-11-01, 08:07:00",
+    "stargazers_count": 2802,
+    "watchers_count": 2802
+}
+{
+    "commits_count": 173,
+    "date_started": "2016-10-06",
+    "date_updated": "2022-11-01",
+    "description": "Linux privilege escalation auditing tool",
+    "forks_count": 972,
+    "html_url": "https://github.com/mzet-/linux-exploit-suggester",
+    "keywords": [
+        "exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "linux-exploit-suggester",
+    "repo_owner": "mzet-",
+    "repotime": "2022-11-01, 07:40:58",
+    "stargazers_count": 3931,
+    "watchers_count": 3931
+}
+{
+    "commits_count": 462,
+    "date_started": "2015-08-06",
+    "date_updated": "2022-11-01",
+    "description": "This project has stopped to maintenance, please to https://github.com/knownsec/pocsuite3 project.",
+    "forks_count": 634,
+    "html_url": "https://github.com/knownsec/Pocsuite",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Python",
+    "repo_name": "Pocsuite",
+    "repo_owner": "knownsec",
+    "repotime": "2022-11-01, 07:34:50",
+    "stargazers_count": 1789,
+    "watchers_count": 1789
+}
+{
+    "commits_count": 1816,
+    "date_started": "2017-04-09",
+    "date_updated": "2022-11-01",
+    "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "forks_count": 3804,
+    "html_url": "https://github.com/vulhub/vulhub",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "vulhub",
+    "repo_owner": "vulhub",
+    "repotime": "2022-11-01, 07:31:33",
+    "stargazers_count": 12874,
+    "watchers_count": 12874
+}
+{
+    "commits_count": 12,
+    "date_started": "2016-10-14",
+    "date_updated": "2022-11-01",
+    "description": "This is a standalone exploit for a vulnerable feature in Capcom.sys",
+    "forks_count": 89,
+    "html_url": "https://github.com/tandasat/ExploitCapcom",
+    "keywords": [
+        "exploit"
+    ],
+    "language": "C++",
+    "repo_name": "ExploitCapcom",
+    "repo_owner": "tandasat",
+    "repotime": "2022-11-01, 07:22:56",
+    "stargazers_count": 204,
+    "watchers_count": 204
+}
+{
+    "commits_count": 1907,
+    "date_started": "2015-11-13",
+    "date_updated": "2022-11-01",
+    "description": "Vulnerability Static Analysis for Containers",
+    "forks_count": 1104,
+    "html_url": "https://github.com/quay/clair",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "clair",
+    "repo_owner": "quay",
+    "repotime": "2022-11-01, 07:08:47",
+    "stargazers_count": 9129,
+    "watchers_count": 9129
+}
+{
+    "commits_count": 10,
+    "date_started": "2020-11-28",
+    "date_updated": "2022-11-01",
+    "description": "带充电宝功能的便携显示器",
+    "forks_count": 951,
+    "html_url": "https://github.com/peng-zhihui/PocketLCD",
+    "keywords": [
+        "PoC"
+    ],
+    "language": null,
+    "repo_name": "PocketLCD",
+    "repo_owner": "peng-zhihui",
+    "repotime": "2022-11-01, 07:06:55",
+    "stargazers_count": 5430,
+    "watchers_count": 5430
+}
+{
+    "commits_count": 136,
+    "date_started": "2013-10-29",
+    "date_updated": "2022-11-01",
+    "description": "Post Exploitation Wiki",
+    "forks_count": 118,
+    "html_url": "https://github.com/mubix/post-exploitation-wiki",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "HTML",
+    "repo_name": "post-exploitation-wiki",
+    "repo_owner": "mubix",
+    "repotime": "2022-11-01, 07:06:19",
+    "stargazers_count": 488,
+    "watchers_count": 488
+}
+{
+    "commits_count": 1531,
+    "date_started": "2020-01-25",
+    "date_updated": "2022-11-01",
+    "description": "Linux/Windows post-exploitation framework made by linux user",
+    "forks_count": 183,
+    "html_url": "https://github.com/jm33-m0/emp3r0r",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Go",
+    "repo_name": "emp3r0r",
+    "repo_owner": "jm33-m0",
+    "repotime": "2022-11-01, 06:54:20",
+    "stargazers_count": 843,
+    "watchers_count": 843
+}
+{
+    "commits_count": 116,
+    "date_started": "2019-01-28",
+    "date_updated": "2022-11-01",
+    "description": "Hash collisions and exploitations",
+    "forks_count": 139,
+    "html_url": "https://github.com/corkami/collisions",
+    "keywords": [
+        "exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "collisions",
+    "repo_owner": "corkami",
+    "repotime": "2022-11-01, 06:41:53",
+    "stargazers_count": 1912,
+    "watchers_count": 1912
+}
+{
+    "commits_count": 25,
+    "date_started": "2018-05-15",
+    "date_updated": "2022-11-01",
+    "description": "使用docker快速搭建各大漏洞靶场，目前可以一键搭建17个靶场。",
+    "forks_count": 445,
+    "html_url": "https://github.com/c0ny1/vulstudy",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "vulstudy",
+    "repo_owner": "c0ny1",
+    "repotime": "2022-11-01, 06:39:46",
+    "stargazers_count": 1717,
+    "watchers_count": 1717
+}
+{
+    "commits_count": 22,
+    "date_started": "2021-09-10",
+    "date_updated": "2022-11-01",
+    "description": "CVE-2021-40444 PoC",
+    "forks_count": 485,
+    "html_url": "https://github.com/lockedbyte/CVE-2021-40444",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2021-40444",
+    "repo_owner": "lockedbyte",
+    "repotime": "2022-11-01, 06:38:08",
+    "stargazers_count": 1445,
+    "watchers_count": 1445
+}
+{
+    "commits_count": 23,
+    "date_started": "2019-02-05",
+    "date_updated": "2022-11-01",
+    "description": "PoCBox - Vulnerability Test Aid Platform",
+    "forks_count": 170,
+    "html_url": "https://github.com/0verSp4ce/PoCBox",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "JavaScript",
+    "repo_name": "PoCBox",
+    "repo_owner": "0verSp4ce",
+    "repotime": "2022-11-01, 05:59:54",
+    "stargazers_count": 897,
+    "watchers_count": 897
+}
+{
+    "commits_count": 320,
+    "date_started": "2017-03-22",
+    "date_updated": "2022-11-01",
+    "description": "A proof of concept OS kernel written in Go",
+    "forks_count": 176,
+    "html_url": "https://github.com/gopher-os/gopher-os",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Go",
+    "repo_name": "gopher-os",
+    "repo_owner": "gopher-os",
+    "repotime": "2022-11-01, 05:50:32",
+    "stargazers_count": 2431,
+    "watchers_count": 2431
+}
+{
+    "commits_count": 488,
+    "date_started": "2013-05-01",
+    "date_updated": "2022-11-01",
+    "description": "Damn Vulnerable Web Application (DVWA)",
+    "forks_count": 2303,
+    "html_url": "https://github.com/digininja/DVWA",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "DVWA",
+    "repo_owner": "digininja",
+    "repotime": "2022-11-01, 05:37:15",
+    "stargazers_count": 6743,
+    "watchers_count": 6743
+}
+{
+    "commits_count": 795,
+    "date_started": "2020-05-26",
+    "date_updated": "2022-11-01",
+    "description": "A vulnerability scanner for container images and filesystems",
+    "forks_count": 317,
+    "html_url": "https://github.com/anchore/grype",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "grype",
+    "repo_owner": "anchore",
+    "repotime": "2022-11-01, 05:21:35",
+    "stargazers_count": 4704,
+    "watchers_count": 4704
+}
+{
+    "commits_count": 85,
+    "date_started": "2017-10-30",
+    "date_updated": "2022-11-01",
+    "description": "Striker is an offensive information and vulnerability scanner.",
+    "forks_count": 439,
+    "html_url": "https://github.com/s0md3v/Striker",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Striker",
+    "repo_owner": "s0md3v",
+    "repotime": "2022-11-01, 04:32:46",
+    "stargazers_count": 1998,
+    "watchers_count": 1998
+}
+{
+    "commits_count": 541,
+    "date_started": "2021-01-08",
+    "date_updated": "2022-11-01",
+    "description": "Open source vulnerability DB and triage service.",
+    "forks_count": 92,
+    "html_url": "https://github.com/google/osv.dev",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "osv.dev",
+    "repo_owner": "google",
+    "repotime": "2022-11-01, 03:49:01",
+    "stargazers_count": 653,
+    "watchers_count": 653
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-10-25",
+    "date_updated": "2022-11-01",
+    "description": "<no description>",
+    "forks_count": 33,
+    "html_url": "https://github.com/numencyber/VulnerabilityPoC",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "VulnerabilityPoC",
+    "repo_owner": "numencyber",
+    "repotime": "2022-11-01, 03:38:25",
+    "stargazers_count": 97,
+    "watchers_count": 97
+}
+{
+    "commits_count": 253,
+    "date_started": "2016-03-12",
+    "date_updated": "2022-11-01",
+    "description": "渗透测试插件化并发框架 / Open-sourced remote vulnerability PoC/EXP framework",
+    "forks_count": 775,
+    "html_url": "https://github.com/Xyntax/POC-T",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Python",
+    "repo_name": "POC-T",
+    "repo_owner": "Xyntax",
+    "repotime": "2022-11-01, 03:38:09",
+    "stargazers_count": 1816,
+    "watchers_count": 1816
+}
+{
+    "commits_count": 14,
+    "date_started": "2021-04-19",
+    "date_updated": "2022-11-01",
+    "description": "A kafka producer/consumer proof of concept using node.",
+    "forks_count": 73,
+    "html_url": "https://github.com/kriscfoster/node-kafka-producer-consumer",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "node-kafka-producer-consumer",
+    "repo_owner": "kriscfoster",
+    "repotime": "2022-11-01, 03:34:54",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
+    "commits_count": 3643,
+    "date_started": "2020-04-03",
+    "date_updated": "2022-11-01",
+    "description": "Fast and customizable vulnerability scanner based on simple YAML based DSL.",
+    "forks_count": 1463,
+    "html_url": "https://github.com/projectdiscovery/nuclei",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "nuclei",
+    "repo_owner": "projectdiscovery",
+    "repotime": "2022-11-01, 03:20:43",
+    "stargazers_count": 10370,
+    "watchers_count": 10370
+}
+{
+    "commits_count": 7,
+    "date_started": "2016-10-20",
+    "date_updated": "2022-11-01",
+    "description": "The DrK Attack - Proof of concept",
+    "forks_count": 65,
+    "html_url": "https://github.com/sslab-gatech/DrK",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Python",
+    "repo_name": "DrK",
+    "repo_owner": "sslab-gatech",
+    "repotime": "2022-11-01, 02:59:45",
+    "stargazers_count": 342,
+    "watchers_count": 342
+}
+{
+    "commits_count": 46,
+    "date_started": "2019-03-01",
+    "date_updated": "2022-11-01",
+    "description": "Subdomain takeover vulnerability checker",
+    "forks_count": 114,
+    "html_url": "https://github.com/LukaSikic/subzy",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "subzy",
+    "repo_owner": "LukaSikic",
+    "repotime": "2022-11-01, 02:17:01",
+    "stargazers_count": 568,
+    "watchers_count": 568
+}
+{
+    "commits_count": 837,
+    "date_started": "2020-09-03",
+    "date_updated": "2022-11-01",
+    "description": "漏洞检测、漏洞利用",
+    "forks_count": 141,
+    "html_url": "https://github.com/ybdt/poc-hub",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "HTML",
+    "repo_name": "poc-hub",
+    "repo_owner": "ybdt",
+    "repotime": "2022-11-01, 02:02:59",
+    "stargazers_count": 601,
+    "watchers_count": 601
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-07-25",
+    "date_updated": "2022-11-01",
+    "description": "According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible. Yellow, black. Yellow, black. Yellow, black. Yellow, black. Ooh, black and yellow! Let's shake it up a little. Barry! Breakfast is ready! Ooming! Hang on a second. Hello? - Barry? - Adam? - Oan you believe this is happening? - I can't. I'll pick you up. Looking sharp. Use the stairs. Your father paid good money for those. Sorry. I'm excited. Here's the graduate. We're very proud of you, son. A perfect report card, all B's. Very proud. Ma! I got a thing going here. - You got lint on your fuzz. - Ow! That's me! - Wave to us! We'll be in row 118,000. - Bye! Barry, I told you, stop flying in the house! - Hey, Adam. - Hey, Barry. - Is that fuzz gel? - A little. Special day, graduation. Never thought I'd make it. Three days grade school, three days high...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Skattermuffin/hey-game-pepople-i-know-you-r-ment-to-like-make-these-long-but-come-on-its-fun-but-arrow-game-lol",
+    "keywords": [
+        "Windows use after free",
+        "Win use after free",
+        "Win use after free exploit",
+        "use after free exploitation"
+    ],
+    "language": null,
+    "repo_name": "hey-game-pepople-i-know-you-r-ment-to-like-make-these-long-but-come-on-its-fun-but-arrow-game-lol",
+    "repo_owner": "Skattermuffin",
+    "repotime": "2022-11-01, 01:26:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 36,
+    "date_started": "2018-10-16",
+    "date_updated": "2022-11-01",
+    "description": "PHP Runtime Vulnerability Detection",
+    "forks_count": 75,
+    "html_url": "https://github.com/fate0/prvd",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "prvd",
+    "repo_owner": "fate0",
+    "repotime": "2022-11-01, 01:03:25",
+    "stargazers_count": 472,
+    "watchers_count": 472
+}
+{
+    "commits_count": 8397,
+    "date_started": "2015-02-19",
+    "date_updated": "2022-11-01",
+    "description": "DefectDojo is a DevSecOps and vulnerability management tool.",
+    "forks_count": 1153,
+    "html_url": "https://github.com/DefectDojo/django-DefectDojo",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "django-DefectDojo",
+    "repo_owner": "DefectDojo",
+    "repotime": "2022-11-01, 00:54:56",
+    "stargazers_count": 2465,
+    "watchers_count": 2465
+}
+{
+    "commits_count": 84,
+    "date_started": "2013-05-20",
+    "date_updated": "2022-11-01",
+    "description": "The Correlated CVE Vulnerability And Threat Intelligence Database API",
+    "forks_count": 245,
+    "html_url": "https://github.com/toolswatch/vFeed",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "vFeed",
+    "repo_owner": "toolswatch",
+    "repotime": "2022-11-01, 00:21:02",
+    "stargazers_count": 892,
+    "watchers_count": 892
+}
+{
+    "commits_count": 70,
+    "date_started": "2021-06-30",
+    "date_updated": "2022-11-01",
+    "description": "Trojan Source: Invisible Vulnerabilities",
+    "forks_count": 274,
+    "html_url": "https://github.com/nickboucher/trojan-source",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "SCSS",
+    "repo_name": "trojan-source",
+    "repo_owner": "nickboucher",
+    "repotime": "2022-11-01, 00:01:39",
+    "stargazers_count": 1142,
+    "watchers_count": 1142
 }

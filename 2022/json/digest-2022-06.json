@@ -6,21 +6,26 @@
     "forks_count": 43,
     "html_url": "https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX",
     "keywords": [
+        "Chrome rce",
+        "Chrome 0day",
+        "Win rce",
+        "Windows rce",
+        "Win 0day",
         "Windows 0day"
     ],
     "language": "JavaScript",
     "repo_name": "Chrome-Android-and-Windows-0day-RCE-SBX",
     "repo_owner": "emredavut",
     "repotime": "2022-06-30, 13:05:55",
-    "stargazers_count": 148,
-    "watchers_count": 148
+    "stargazers_count": 143,
+    "watchers_count": 143
 }
 {
     "commits_count": 1,
     "date_started": "2022-06-30",
     "date_updated": "2022-06-30",
     "description": "Open in app Get started   ITNEXT Published in ITNEXT  You have 2 free member-only stories left this month. Sign up for Medium and get an extra one  Kush Kush Follow Apr 15, 2021  · 7 min read ·  Listen   Save      How you can Control your Android Device with Python Photo by Caspar Camille Rubin on Unsplash Photo by Caspar Camille Rubin on Unsplash Introduction A while back I was thinking of ways in which I could annoy my friends by spamming them with messages for a few minutes, and while doing some research I came across the Android Debug Bridge. In this quick guide I will show you how you can interface with it using Python and how to create 2 quick scripts.  The ADB (Android Debug Bridge) is a command line tool (CLI) which can be used to control and communicate with an Android device. You can do many things such as install apps, debug apps, find hidden features and use a shell to interface with the device directly. To enable the ADB, your device must firstly have Developer Options unl...",
-    "forks_count": 11,
+    "forks_count": 14,
     "html_url": "https://github.com/Masudbro94/python-hacked-mobile-phone-",
     "keywords": [
         "Windows use after free"
@@ -29,25 +34,27 @@
     "repo_name": "python-hacked-mobile-phone-",
     "repo_owner": "Masudbro94",
     "repotime": "2022-06-30, 15:10:26",
-    "stargazers_count": 64,
-    "watchers_count": 64
+    "stargazers_count": 87,
+    "watchers_count": 87
 }
 {
     "commits_count": 18,
     "date_started": "2022-06-29",
     "date_updated": "2022-06-30",
     "description": "CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability",
-    "forks_count": 5,
+    "forks_count": 6,
     "html_url": "https://github.com/kh4sh3i/ProxyShell",
     "keywords": [
-        "Microsoft remote code execution vulnerability"
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution"
     ],
     "language": "Python",
     "repo_name": "ProxyShell",
     "repo_owner": "kh4sh3i",
     "repotime": "2022-06-30, 13:06:58",
-    "stargazers_count": 32,
-    "watchers_count": 32
+    "stargazers_count": 37,
+    "watchers_count": 37
 }
 {
     "commits_count": 7,
@@ -57,7 +64,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/Gurguii/Kubelet-unauthenticated-RCE-exploit",
     "keywords": [
-        "unauthenticated rce"
+        "unauthenticated rce",
+        "unauthenticated remote code execution"
     ],
     "language": "Shell",
     "repo_name": "Kubelet-unauthenticated-RCE-exploit",
@@ -67,6 +75,45 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 9,
+    "date_started": "2022-06-28",
+    "date_updated": "2022-06-29",
+    "description": "An exploitable pool corruption vulnerability exists in the 0x8200E804 IOCTL handler functionality of WIBU-SYSTEMS WibuKey.sys Version 6.40 (Build 2400). A specially crafted IRP request can cause a buffer overflow, resulting in kernel memory corruption and, potentially, privilege escalation. An attacker can send an IRP request to trigger this vulnerability.",
+    "forks_count": 0,
+    "html_url": "https://github.com/expFlash/CVE-2018-3990",
+    "keywords": [
+        "corruption overflow exploitation",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "corruption overflow vulnerability",
+        "corruption overflow exploit",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2018-3990",
+    "repo_owner": "expFlash",
+    "repotime": "2022-06-29, 06:53:31",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 188,
+    "date_started": "2014-06-04",
+    "date_updated": "2022-06-29",
+    "description": "Proof-of-concept for implementing Rx primitives in Swift",
+    "forks_count": 36,
+    "html_url": "https://github.com/jspahrsummers/RxSwift",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Swift",
+    "repo_name": "RxSwift",
+    "repo_owner": "jspahrsummers",
+    "repotime": "2022-06-29, 00:31:10",
+    "stargazers_count": 602,
+    "watchers_count": 602
+}
+{
     "commits_count": 18,
     "date_started": "2021-12-11",
     "date_updated": "2022-06-28",
@@ -74,6 +121,9 @@
     "forks_count": 11,
     "html_url": "https://github.com/o7-Fire/Log4Shell",
     "keywords": [
+        "rce proof of concept",
+        "zero-day proof of concept",
+        "zero-day exploitation",
         "zero-day exploit"
     ],
     "language": "Java",
@@ -114,8 +164,8 @@
     "repo_name": "CVE-2021-25003",
     "repo_owner": "biulove0x",
     "repotime": "2022-06-27, 20:19:50",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 5,
@@ -125,14 +175,38 @@
     "forks_count": 0,
     "html_url": "https://github.com/MouadBouharoun/CVE-SMBGhost-Windows-10",
     "keywords": [
-        "Win remote code execution"
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "Windows remote code execution exploit",
+        "Win remote code execution exploit",
+        "Win remote code execution",
+        "Win remote code execution vulnerability",
+        "Win remote code execution exploitation",
+        "Windows remote code execution exploitation"
     ],
     "language": "Python",
     "repo_name": "CVE-SMBGhost-Windows-10",
     "repo_owner": "MouadBouharoun",
     "repotime": "2022-06-27, 13:49:32",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 117,
+    "date_started": "2016-10-28",
+    "date_updated": "2022-06-26",
+    "description": "The vulnerability disclosure policy for 18F and GSA's Technology Transformation Service.",
+    "forks_count": 28,
+    "html_url": "https://github.com/18F/vulnerability-disclosure-policy",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": null,
+    "repo_name": "vulnerability-disclosure-policy",
+    "repo_owner": "18F",
+    "repotime": "2022-06-26, 16:06:23",
+    "stargazers_count": 24,
+    "watchers_count": 24
 }
 {
     "commits_count": 2,
@@ -152,11 +226,62 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 16,
+    "date_started": "2022-06-17",
+    "date_updated": "2022-06-26",
+    "description": "Integer overflow in KmxSbx.sys 6.2.0.22 in CA Internet Security Suite Plus 2010 allows local users to cause a denial of service (pool corruption) and execute arbitrary code via crafted arguments to the 0x88000080 IOCTL, which triggers a buffer overflow.",
+    "forks_count": 1,
+    "html_url": "https://github.com/expFlash/CVE-2010-4502",
+    "keywords": [
+        "corruption overflow denial of service"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2010-4502",
+    "repo_owner": "expFlash",
+    "repotime": "2022-06-26, 07:38:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 395,
+    "date_started": "2016-10-22",
+    "date_updated": "2022-06-26",
+    "description": "<no description>",
+    "forks_count": 18,
+    "html_url": "https://github.com/asarubbo/poc",
+    "keywords": [
+        "PoC"
+    ],
+    "language": null,
+    "repo_name": "poc",
+    "repo_owner": "asarubbo",
+    "repotime": "2022-06-26, 08:00:37",
+    "stargazers_count": 67,
+    "watchers_count": 67
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-06-25",
+    "date_updated": "2022-06-25",
+    "description": "Remote Code Execution vulnerability in EdgeDB remote compiler pool server feature",
+    "forks_count": 0,
+    "html_url": "https://github.com/ehtec/edgedb-exploit",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "edgedb-exploit",
+    "repo_owner": "ehtec",
+    "repotime": "2022-06-25, 14:26:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 3,
     "date_started": "2022-06-24",
     "date_updated": "2022-06-24",
     "description": "Use CMSTP.exe to bypass UAC.",
-    "forks_count": 5,
+    "forks_count": 8,
     "html_url": "https://github.com/expl0itabl3/uac-bypass-cmstp",
     "keywords": [
         "uac bypass"
@@ -165,8 +290,8 @@
     "repo_name": "uac-bypass-cmstp",
     "repo_owner": "expl0itabl3",
     "repotime": "2022-06-24, 13:20:40",
-    "stargazers_count": 36,
-    "watchers_count": 36
+    "stargazers_count": 42,
+    "watchers_count": 42
 }
 {
     "commits_count": 5,
@@ -176,7 +301,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/ColdFusionX/CVE-2022-26134",
     "keywords": [
-        "0day vulnerability"
+        "0day vulnerability",
+        "remote code execution vulnerability"
     ],
     "language": null,
     "repo_name": "CVE-2022-26134",
@@ -261,7 +387,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/ariary/friendly-windows-malware",
     "keywords": [
-        "Win remote code execution"
+        "Win remote code execution",
+        "Windows remote code execution"
     ],
     "language": "Go",
     "repo_name": "friendly-windows-malware",
@@ -271,6 +398,43 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 13,
+    "date_started": "2014-07-24",
+    "date_updated": "2022-06-23",
+    "description": "Open Source Vulnerability Disclosure Framework. Maintained by Bugcrowd and Cipherlaw. Merged with https://github.com/disclose/dioterms.",
+    "forks_count": 49,
+    "html_url": "https://github.com/bugcrowd/disclosure-policy",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": null,
+    "repo_name": "disclosure-policy",
+    "repo_owner": "bugcrowd",
+    "repotime": "2022-06-23, 11:56:18",
+    "stargazers_count": 128,
+    "watchers_count": 128
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-06-23",
+    "date_updated": "2022-06-23",
+    "description": "Performing network attacks - ARP poisoning, gratuitous and response, main-in-the-middle session hijacking on virtual servers. Reporting and researching on network attacks, vulnerabilities and firewall rules.",
+    "forks_count": 0,
+    "html_url": "https://github.com/grxcie5/Cybr371-A2",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking attack",
+        "session attack",
+        "session hijacking vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Cybr371-A2",
+    "repo_owner": "grxcie5",
+    "repotime": "2022-06-23, 14:56:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 25,
     "date_started": "2022-06-22",
     "date_updated": "2022-06-23",
@@ -278,7 +442,8 @@
     "forks_count": 9,
     "html_url": "https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation"
     ],
     "language": "Python",
     "repo_name": "Mass-exploit-CVE-2022-29464",
@@ -335,8 +500,8 @@
     "repo_name": "CVE-2022-26134",
     "repo_owner": "kh4sh3i",
     "repotime": "2022-06-21, 16:35:25",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 4,
@@ -352,8 +517,42 @@
     "repo_name": "SGKT",
     "repo_owner": "lhuang65",
     "repotime": "2022-06-20, 21:47:24",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 10,
+    "date_started": "2017-04-10",
+    "date_updated": "2022-06-20",
+    "description": "windows kernel vulnerability found by me",
+    "forks_count": 47,
+    "html_url": "https://github.com/tinysec/vulnerability",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "vulnerability",
+    "repo_owner": "tinysec",
+    "repotime": "2022-06-20, 13:06:33",
+    "stargazers_count": 94,
+    "watchers_count": 94
+}
+{
+    "commits_count": 3,
+    "date_started": "2016-02-18",
+    "date_updated": "2022-06-20",
+    "description": "<no description>",
+    "forks_count": 24,
+    "html_url": "https://github.com/exodusintel/disclosures",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "disclosures",
+    "repo_owner": "exodusintel",
+    "repotime": "2022-06-20, 08:11:35",
+    "stargazers_count": 112,
+    "watchers_count": 112
 }
 {
     "commits_count": 1,
@@ -397,6 +596,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/r1skkam/TryHackMe-Windows-Privilege-Escalation",
     "keywords": [
+        "Windows escalation of privileges",
         "Win escalation of privileges"
     ],
     "language": null,
@@ -424,6 +624,23 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 26,
+    "date_started": "2022-06-19",
+    "date_updated": "2022-06-18",
+    "description": "Dll injection through code page id modification in registry. Based on jonas lykk research",
+    "forks_count": 25,
+    "html_url": "https://github.com/zzhsec/NlsCodeInjectionThroughRegistry",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "NlsCodeInjectionThroughRegistry",
+    "repo_owner": "zzhsec",
+    "repotime": "2022-06-18, 18:55:59",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
     "commits_count": 9,
     "date_started": "2022-06-11",
     "date_updated": "2022-06-18",
@@ -439,6 +656,23 @@
     "repotime": "2022-06-18, 18:04:30",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-06-18",
+    "date_updated": "2022-06-18",
+    "description": "This app provides generic validation and error message for wrong Input.",
+    "forks_count": 0,
+    "html_url": "https://github.com/saurabh-codes/Form-Validation",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "CSS",
+    "repo_name": "Form-Validation",
+    "repo_owner": "saurabh-codes",
+    "repotime": "2022-06-18, 22:26:13",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 8,
@@ -465,6 +699,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/pwn3z/CVE-2021-41773-Apache-RCE",
     "keywords": [
+        "directory traversal attack",
         "path traversal attack"
     ],
     "language": "Shell",
@@ -482,6 +717,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/r1skkam/TryHackMe-File-Inclusion",
     "keywords": [
+        "directory traversal vulnerability",
         "local file inclusion"
     ],
     "language": null,
@@ -499,6 +735,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/moeinfatehi/lfi-to-rce-scenario",
     "keywords": [
+        "remote code execution vulnerability",
         "local file inclusion"
     ],
     "language": "PHP",
@@ -516,14 +753,28 @@
     "forks_count": 24,
     "html_url": "https://github.com/irsl/microsoft-diagcab-rce-poc",
     "keywords": [
-        "Microsoft rce poc"
+        "Microsoft remote code execution vulnerability",
+        "Microsoft rce",
+        "Microsoft rce poc",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution poc",
+        "remote code execution proof of concept",
+        "remote code execution poc",
+        "Microsoft rce proof of concept",
+        "Microsoft remote code execution",
+        "rce poc",
+        "rce proof of concept",
+        "path traversal vulnerability",
+        "rce vulnerability",
+        "Microsoft rce vulnerability",
+        "Microsoft remote code execution proof of concept"
     ],
     "language": "Perl",
     "repo_name": "microsoft-diagcab-rce-poc",
     "repo_owner": "irsl",
     "repotime": "2022-06-16, 15:36:12",
-    "stargazers_count": 22,
-    "watchers_count": 22
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 7,
@@ -543,21 +794,21 @@
     "watchers_count": 2
 }
 {
-    "commits_count": 13,
-    "date_started": "2022-06-09",
+    "commits_count": 15,
+    "date_started": "2021-03-01",
     "date_updated": "2022-06-16",
-    "description": "Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190)",
-    "forks_count": 14,
-    "html_url": "https://github.com/Hrishikesh7665/Follina_Exploiter_CLI",
+    "description": "this a ssrf  scripts",
+    "forks_count": 5,
+    "html_url": "https://github.com/medbsq/ssrf",
     "keywords": [
-        "Microsoft zero-day"
+        "ssrf"
     ],
     "language": "Python",
-    "repo_name": "Follina_Exploiter_CLI",
-    "repo_owner": "Hrishikesh7665",
-    "repotime": "2022-06-16, 12:58:13",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "repo_name": "ssrf",
+    "repo_owner": "medbsq",
+    "repotime": "2022-06-16, 10:45:24",
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 8,
@@ -584,6 +835,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/Cerebrovinny/follina-CVE-2022-30190",
     "keywords": [
+        "zero-day vulnerability",
+        "Microsoft zero-day vulnerability",
         "Microsoft zero-day"
     ],
     "language": "Python",
@@ -618,7 +871,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/416e6e61/MyBB-0day-RCE",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation"
     ],
     "language": "Python",
     "repo_name": "MyBB-0day-RCE",
@@ -635,6 +889,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/hxlxmjxbbxs/TheDirtyPipeExploit",
     "keywords": [
+        "escalation of privileges exploitation",
         "escalation of privileges exploit"
     ],
     "language": "C",
@@ -679,6 +934,92 @@
     "watchers_count": 446
 }
 {
+    "commits_count": 25,
+    "date_started": "2017-03-17",
+    "date_updated": "2022-06-14",
+    "description": "<no description>",
+    "forks_count": 5,
+    "html_url": "https://github.com/jasondoyle/Google-Nest-Cam-Bug-Disclosures",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "Google-Nest-Cam-Bug-Disclosures",
+    "repo_owner": "jasondoyle",
+    "repotime": "2022-06-14, 05:21:37",
+    "stargazers_count": 38,
+    "watchers_count": 38
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-06-08",
+    "date_updated": "2022-06-13",
+    "description": "Local File Inclusion control and reverse shell.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dogukankurnaz/LFI_Scanner",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Shell",
+    "repo_name": "LFI_Scanner",
+    "repo_owner": "dogukankurnaz",
+    "repotime": "2022-06-13, 12:52:14",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-06-12",
+    "date_updated": "2022-06-12",
+    "description": "A brief summary of recent Linux privilege escalation exploit. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/MCANMCAN/TheDirtyPipeExploit",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges exploit"
+    ],
+    "language": "C",
+    "repo_name": "TheDirtyPipeExploit",
+    "repo_owner": "MCANMCAN",
+    "repotime": "2022-06-12, 21:13:54",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-10-24",
+    "date_updated": "2022-06-12",
+    "description": "Sleirsgoevy: PoC for the FontFaceSet vulnerability, which was wrongly classified as a use-after-free. Works only on PC for now. Please check if this prints &amp;quot;failed to guess...&amp;quot; for you. Especially interested in reports from 9.00.",
+    "forks_count": 2,
+    "html_url": "https://github.com/kmeps4/900Test",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "900Test",
+    "repo_owner": "kmeps4",
+    "repotime": "2022-06-12, 17:55:07",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 73,
+    "date_started": "2019-06-13",
+    "date_updated": "2022-06-12",
+    "description": "Disclosure Avoidance Repository",
+    "forks_count": 8,
+    "html_url": "https://github.com/umadesai/census-dp",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "census-dp",
+    "repo_owner": "umadesai",
+    "repotime": "2022-06-12, 15:04:22",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
     "commits_count": 4,
     "date_started": "2022-06-09",
     "date_updated": "2022-06-12",
@@ -686,14 +1027,15 @@
     "forks_count": 0,
     "html_url": "https://github.com/reubensammut/dogwalk",
     "keywords": [
-        "Microsoft rce poc"
+        "Microsoft rce poc",
+        "Microsoft rce"
     ],
     "language": "Python",
     "repo_name": "dogwalk",
     "repo_owner": "reubensammut",
     "repotime": "2022-06-12, 16:39:51",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 56,
@@ -709,8 +1051,8 @@
     "repo_name": "imagejs",
     "repo_owner": "jklmnn",
     "repotime": "2022-06-11, 21:18:44",
-    "stargazers_count": 898,
-    "watchers_count": 898
+    "stargazers_count": 903,
+    "watchers_count": 903
 }
 {
     "commits_count": 12,
@@ -720,14 +1062,15 @@
     "forks_count": 4,
     "html_url": "https://github.com/abdulkadir-gungor/Block_Smartscreen_and_Security_Center_on_Windows_Operating_Systems",
     "keywords": [
-        "Windows zero-day"
+        "Windows zero-day",
+        "Win zero-day"
     ],
     "language": "Python",
     "repo_name": "Block_Smartscreen_and_Security_Center_on_Windows_Operating_Systems",
     "repo_owner": "abdulkadir-gungor",
     "repotime": "2022-06-10, 17:48:54",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 9,
@@ -754,6 +1097,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/archanchoudhury/Confluence-CVE-2022-26134",
     "keywords": [
+        "zero-day exploitation",
+        "zero-day analysis",
         "zero-day exploit"
     ],
     "language": null,
@@ -768,7 +1113,7 @@
     "date_started": "2022-08-12",
     "date_updated": "2022-06-09",
     "description": "<no description>",
-    "forks_count": 3224,
+    "forks_count": 3279,
     "html_url": "https://github.com/MetaVPS/xssh1",
     "keywords": [
         "xss"
@@ -777,15 +1122,32 @@
     "repo_name": "xssh1",
     "repo_owner": "MetaVPS",
     "repotime": "2022-06-09, 19:22:19",
-    "stargazers_count": 130,
-    "watchers_count": 130
+    "stargazers_count": 137,
+    "watchers_count": 137
+}
+{
+    "commits_count": 467,
+    "date_started": "2019-11-04",
+    "date_updated": "2022-06-09",
+    "description": "⚛️  Custom React Hook to handle open/close/toggle of a state.",
+    "forks_count": 3,
+    "html_url": "https://github.com/yoannfleurydev/react-use-disclosure",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "JavaScript",
+    "repo_name": "react-use-disclosure",
+    "repo_owner": "yoannfleurydev",
+    "repotime": "2022-06-09, 12:17:00",
+    "stargazers_count": 32,
+    "watchers_count": 32
 }
 {
     "commits_count": 11,
     "date_started": "2022-06-08",
     "date_updated": "2022-06-09",
     "description": "Windows Privilege Escalation",
-    "forks_count": 16,
+    "forks_count": 17,
     "html_url": "https://github.com/k4sth4/UAC-bypass",
     "keywords": [
         "uac bypass"
@@ -794,25 +1156,25 @@
     "repo_name": "UAC-bypass",
     "repo_owner": "k4sth4",
     "repotime": "2022-06-09, 12:46:19",
-    "stargazers_count": 70,
-    "watchers_count": 70
+    "stargazers_count": 84,
+    "watchers_count": 84
 }
 {
-    "commits_count": 3,
+    "commits_count": 0,
     "date_started": "2022-06-08",
     "date_updated": "2022-06-08",
-    "description": "Atlassian confluence unauthenticated ONGL injection remote code execution scanner (CVE-2022-26134).",
-    "forks_count": 3,
-    "html_url": "https://github.com/redhuntlabs/ConfluentPwn",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Julicraft44/Word-Zero_Day_Exploit_tests",
     "keywords": [
-        "unauthenticated remote code execution"
+        "zero-day exploit"
     ],
-    "language": "Go",
-    "repo_name": "ConfluentPwn",
-    "repo_owner": "redhuntlabs",
-    "repotime": "2022-06-08, 12:09:02",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "language": null,
+    "repo_name": "Word-Zero_Day_Exploit_tests",
+    "repo_owner": "Julicraft44",
+    "repotime": "2022-06-08, 10:50:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -828,25 +1190,32 @@
     "repo_name": "CVE-2022-26134",
     "repo_owner": "Habib0x0",
     "repotime": "2022-06-08, 02:19:34",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 2,
     "date_started": "2022-06-07",
     "date_updated": "2022-06-07",
     "description": "According to all known laws of aviation, there is no way that a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway. Because bees don’t care what humans think is impossible.” SEQ. 75 - “INTRO TO BARRY” INT. BENSON HOUSE - DAY ANGLE ON: Sneakers on the ground. Camera PANS UP to reveal BARRY BENSON’S BEDROOM ANGLE ON: Barry’s hand flipping through different sweaters in his closet. BARRY Yellow black, yellow black, yellow black, yellow black, yellow black, yellow black...oohh, black and yellow... ANGLE ON: Barry wearing the sweater he picked, looking in the mirror. BARRY (CONT’D) Yeah, let’s shake it up a little. He picks the black and yellow one. He then goes to the sink, takes the top off a CONTAINER OF HONEY, and puts some honey into his hair. He squirts some in his mouth and gargles. Then he takes the lid off the bottle, and rolls some on like deodorant. CUT TO: INT. BENSON HOUSE KITCHEN - CONTINUOUS Barry’s mo...",
-    "forks_count": 18,
+    "forks_count": 24,
     "html_url": "https://github.com/danderfer/Comp_Sci_Sem_2",
     "keywords": [
-        "Windows use after free"
+        "Windows use after free",
+        "Win use after free",
+        "Win use after free exploit",
+        "Windows use after free exploit",
+        "use after free exploitation",
+        "Windows use after free exploitation",
+        "use after free exploit",
+        "Win use after free exploitation"
     ],
     "language": "Python",
     "repo_name": "Comp_Sci_Sem_2",
     "repo_owner": "danderfer",
     "repotime": "2022-06-07, 20:31:10",
-    "stargazers_count": 88,
-    "watchers_count": 88
+    "stargazers_count": 123,
+    "watchers_count": 123
 }
 {
     "commits_count": 3,
@@ -890,7 +1259,11 @@
     "forks_count": 0,
     "html_url": "https://github.com/devinSchminke/Follina-workaround-automation",
     "keywords": [
-        "Microsoft zero-day"
+        "Microsoft zero-day exploit",
+        "Microsoft zero-day exploitation",
+        "Microsoft zero-day",
+        "zero-day exploitation",
+        "zero-day exploit"
     ],
     "language": "Python",
     "repo_name": "Follina-workaround-automation",
@@ -898,6 +1271,23 @@
     "repotime": "2022-06-06, 09:02:20",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2014-11-14",
+    "date_updated": "2022-06-06",
+    "description": "Guest to host VM escape exploit for Parallels Desktop",
+    "forks_count": 10,
+    "html_url": "https://github.com/Cr4sh/prl_guest_to_host",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": "C++",
+    "repo_name": "prl_guest_to_host",
+    "repo_owner": "Cr4sh",
+    "repotime": "2022-06-06, 13:18:15",
+    "stargazers_count": 26,
+    "watchers_count": 26
 }
 {
     "commits_count": 41,
@@ -913,25 +1303,43 @@
     "repo_name": "injectbot",
     "repo_owner": "tariqhawis",
     "repotime": "2022-06-06, 06:46:45",
-    "stargazers_count": 29,
-    "watchers_count": 29
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 15,
+    "date_started": "2022-06-06",
+    "date_updated": "2022-06-06",
+    "description": "Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134)",
+    "forks_count": 13,
+    "html_url": "https://github.com/hev0x/CVE-2022-26134",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "hev0x",
+    "repotime": "2022-06-06, 00:37:25",
+    "stargazers_count": 36,
+    "watchers_count": 36
 }
 {
     "commits_count": 12,
     "date_started": "2022-05-30",
     "date_updated": "2022-06-05",
     "description": "POC CVE-2022-30190 : CVE 0-day MS Offic RCE aka msdt follina",
-    "forks_count": 57,
+    "forks_count": 55,
     "html_url": "https://github.com/JMousqueton/PoC-CVE-2022-30190",
     "keywords": [
+        "rce poc",
         "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "PoC-CVE-2022-30190",
     "repo_owner": "JMousqueton",
     "repotime": "2022-06-05, 23:06:11",
-    "stargazers_count": 153,
-    "watchers_count": 153
+    "stargazers_count": 157,
+    "watchers_count": 157
 }
 {
     "commits_count": 5,
@@ -947,8 +1355,25 @@
     "repo_name": "CVE-2022-26134",
     "repo_owner": "Brucetg",
     "repotime": "2022-06-05, 23:43:38",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-06-04",
+    "date_updated": "2022-06-04",
+    "description": "A file upload restriction bypass vulnerability in Pluck CMS before 4.7.13 allows an admin privileged user to gain access in the host through the &amp;quot;manage files&amp;quot; functionality, which may result in remote code execution.",
+    "forks_count": 2,
+    "html_url": "https://github.com/0xAbbarhSF/CVE-2020-29607",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-29607",
+    "repo_owner": "0xAbbarhSF",
+    "repotime": "2022-06-04, 22:11:13",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 6,
@@ -958,7 +1383,9 @@
     "forks_count": 0,
     "html_url": "https://github.com/luca-regne/public-exploits",
     "keywords": [
-        "0day poc"
+        "0day poc",
+        "0day exploitation",
+        "0day vulnerability"
     ],
     "language": null,
     "repo_name": "public-exploits",
@@ -975,7 +1402,11 @@
     "forks_count": 0,
     "html_url": "https://github.com/hereticerik/follina-patch",
     "keywords": [
-        "Windows zero-day"
+        "Windows zero-day exploit",
+        "Windows zero-day exploitation",
+        "Windows zero-day",
+        "zero-day exploitation",
+        "zero-day exploit"
     ],
     "language": null,
     "repo_name": "follina-patch",
@@ -992,7 +1423,10 @@
     "forks_count": 2,
     "html_url": "https://github.com/shamo0/CVE-2022-26134",
     "keywords": [
-        "unauthenticated rce"
+        "unauthenticated rce",
+        "remote code execution vulnerability",
+        "unauthenticated remote code execution",
+        "remote code execution poc"
     ],
     "language": "Python",
     "repo_name": "CVE-2022-26134",
@@ -1000,6 +1434,23 @@
     "repotime": "2022-06-04, 16:53:58",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-06-03",
+    "date_updated": "2022-06-03",
+    "description": "0-DAY: Unauthenticated Remote Code Execution in Atlassian Confluence (CVE-2022-26134).",
+    "forks_count": 0,
+    "html_url": "https://github.com/CyberDonkyx0/CVE-2022-26134",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-26134",
+    "repo_owner": "CyberDonkyx0",
+    "repotime": "2022-06-03, 12:13:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 31,
@@ -1049,8 +1500,8 @@
     "repo_name": "xxexploiter",
     "repo_owner": "luisfontes19",
     "repotime": "2022-06-01, 22:44:03",
-    "stargazers_count": 538,
-    "watchers_count": 538
+    "stargazers_count": 558,
+    "watchers_count": 558
 }
 {
     "commits_count": 1,
@@ -1074,7 +1525,7 @@
     "date_started": "2020-08-24",
     "date_updated": "2022-06-01",
     "description": "XSScope is one of the most powerful and advanced GUI Framework for Modern Browser exploitation via XSS.",
-    "forks_count": 76,
+    "forks_count": 79,
     "html_url": "https://github.com/kleiton0x00/XSScope",
     "keywords": [
         "xss"
@@ -1083,8 +1534,8 @@
     "repo_name": "XSScope",
     "repo_owner": "kleiton0x00",
     "repotime": "2022-06-01, 19:24:08",
-    "stargazers_count": 309,
-    "watchers_count": 309
+    "stargazers_count": 313,
+    "watchers_count": 313
 }
 {
     "commits_count": 2,

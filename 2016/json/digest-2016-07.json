@@ -29,8 +29,8 @@
     "repo_name": "XOE",
     "repo_owner": "D4Vinci",
     "repotime": "2016-07-28, 17:44:25",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 8,
@@ -54,17 +54,24 @@
     "date_started": "2016-07-25",
     "date_updated": "2016-07-26",
     "description": "HitCon 2016 Windows 10 x64 edge 0day and exploit",
-    "forks_count": 36,
+    "forks_count": 34,
     "html_url": "https://github.com/exp-sky/HitCon-2016-Windows-10-x64-edge-0day-and-exploit",
     "keywords": [
-        "Windows 0day"
+        "0day exploit",
+        "Windows 0day exploitation",
+        "Win 0day exploitation",
+        "Win 0day",
+        "Windows 0day",
+        "Windows 0day exploit",
+        "0day exploitation",
+        "Win 0day exploit"
     ],
     "language": null,
     "repo_name": "HitCon-2016-Windows-10-x64-edge-0day-and-exploit",
     "repo_owner": "exp-sky",
     "repotime": "2016-07-26, 11:47:07",
-    "stargazers_count": 101,
-    "watchers_count": 101
+    "stargazers_count": 102,
+    "watchers_count": 102
 }
 {
     "commits_count": 10,
@@ -74,7 +81,10 @@
     "forks_count": 0,
     "html_url": "https://github.com/huggablehacker/CORE-test",
     "keywords": [
-        "Windows remote code execution"
+        "Microsoft remote code execution vulnerability",
+        "Windows remote code execution",
+        "Microsoft remote code execution",
+        "Windows remote code execution vulnerability"
     ],
     "language": "Shell",
     "repo_name": "CORE-test",
@@ -99,23 +109,6 @@
     "repotime": "2016-07-19, 13:32:05",
     "stargazers_count": 10,
     "watchers_count": 10
-}
-{
-    "commits_count": 2,
-    "date_started": "2016-07-14",
-    "date_updated": "2016-07-14",
-    "description": "<no description>",
-    "forks_count": 15,
-    "html_url": "https://github.com/Invoke-IR/PowerForensicsPortable",
-    "keywords": [
-        "by_owner"
-    ],
-    "language": "PowerShell",
-    "repo_name": "PowerForensicsPortable",
-    "repo_owner": "Invoke-IR",
-    "repotime": "2016-07-14, 21:09:46",
-    "stargazers_count": 29,
-    "watchers_count": 29
 }
 {
     "commits_count": 3,
@@ -165,8 +158,8 @@
     "repo_name": "Pebblecoin",
     "repo_owner": "BlockchainLabs",
     "repotime": "2016-07-12, 16:41:31",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 11,
@@ -184,6 +177,23 @@
     "repotime": "2016-07-09, 00:22:38",
     "stargazers_count": 4,
     "watchers_count": 4
+}
+{
+    "commits_count": 3,
+    "date_started": "2016-07-08",
+    "date_updated": "2016-07-08",
+    "description": "a fast and simple excel2007 parser and writer ",
+    "forks_count": 1,
+    "html_url": "https://github.com/lscgzwd/xxexcel",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "C",
+    "repo_name": "xxexcel",
+    "repo_owner": "lscgzwd",
+    "repotime": "2016-07-08, 23:24:18",
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 20,

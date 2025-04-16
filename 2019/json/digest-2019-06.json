@@ -6,14 +6,34 @@
     "forks_count": 14,
     "html_url": "https://github.com/vsec7/Laravel-PhpUnit-Rce-And-Get-Env-Exploiter",
     "keywords": [
-        "rce exploit"
+        "rce exploit",
+        "rce exploitation"
     ],
     "language": "Shell",
     "repo_name": "Laravel-PhpUnit-Rce-And-Get-Env-Exploiter",
     "repo_owner": "vsec7",
     "repotime": "2019-06-30, 12:03:04",
-    "stargazers_count": 22,
-    "watchers_count": 22
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-05-31",
+    "date_updated": "2019-06-29",
+    "description": "Bypassing kernel &amp;quot;ASLR&amp;quot; - Target : Windows 10 - (remote bypass)",
+    "forks_count": 0,
+    "html_url": "https://github.com/5l1v3r1/BypassAslrWindows10",
+    "keywords": [
+        "aslr bypass",
+        "Win aslr bypass",
+        "Windows aslr bypass"
+    ],
+    "language": null,
+    "repo_name": "BypassAslrWindows10",
+    "repo_owner": "5l1v3r1",
+    "repotime": "2019-06-29, 18:29:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 52,
@@ -50,6 +70,23 @@
     "watchers_count": 14
 }
 {
+    "commits_count": 2,
+    "date_started": "2019-06-28",
+    "date_updated": "2019-06-27",
+    "description": "An attacker may be able to set a session ID (session fixation), change the scope or expiration time of a cookie, and otherwise affect the application's behavior by setting new cookies. A user-controllable string is used to construct a cookie.",
+    "forks_count": 0,
+    "html_url": "https://github.com/bryonglodencissp/cookie-injection",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "JavaScript",
+    "repo_name": "cookie-injection",
+    "repo_owner": "bryonglodencissp",
+    "repotime": "2019-06-27, 21:48:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 5,
     "date_started": "2019-06-27",
     "date_updated": "2019-06-27",
@@ -57,7 +94,12 @@
     "forks_count": 15,
     "html_url": "https://github.com/RayScri/A8-OA-seeyon-RCE",
     "keywords": [
-        "Windows rce"
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "Windows rce",
+        "remote code execution vulnerability",
+        "Windows rce vulnerability",
+        "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "A8-OA-seeyon-RCE",
@@ -74,14 +116,15 @@
     "forks_count": 3,
     "html_url": "https://github.com/MXWXZ/zfsoft-Hijacking-0day-PoC",
     "keywords": [
+        "0day poc",
         "session hijacking"
     ],
     "language": "Python",
     "repo_name": "zfsoft-Hijacking-0day-PoC",
     "repo_owner": "MXWXZ",
     "repotime": "2019-06-26, 23:31:37",
-    "stargazers_count": 26,
-    "watchers_count": 26
+    "stargazers_count": 27,
+    "watchers_count": 27
 }
 {
     "commits_count": 4,
@@ -97,8 +140,8 @@
     "repo_name": "FFmpeg-HLS-SSRF",
     "repo_owner": "0xcoyote",
     "repotime": "2019-06-25, 23:21:22",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 3,
@@ -108,14 +151,49 @@
     "forks_count": 2,
     "html_url": "https://github.com/DownWithUp/WinPools",
     "keywords": [
-        "Win address leak"
+        "Win address leak",
+        "Windows address leak"
     ],
     "language": "C",
     "repo_name": "WinPools",
     "repo_owner": "DownWithUp",
     "repotime": "2019-06-22, 21:04:50",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-05-23",
+    "date_updated": "2019-06-21",
+    "description": "The HIPAA Survival Guide was developed as a collaborative effort between an attorney and a registered nurse, both licensed in the State of Florida. In addition the authors, both individually and collectively, have significant technology experience. However, neither author had significant HIPAA experience prior to this effort, although both had compliance experience in other industries. For personal and professional reasons, the need arose to acquire a much deeper understanding of HIPAA, especially in light of the recent nationwide initiatives of the administration regarding electronic health records.   HIPAA 2018 Changes: In this HIPAA session we will be discussing HIPAA 2018 Changes taking place in Washington with the Health and Human Services when it comes to the enforcement of the HIPAA regulations already on the books as well as some step-by-step discussions on the audit method and some current functions regarding HIPAA cases (both in courtrooms and from live audits).  Attend this ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/atanu1982/Major-HIPAA-Survival-Guide",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Major-HIPAA-Survival-Guide",
+    "repo_owner": "atanu1982",
+    "repotime": "2019-06-21, 22:41:13",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 0,
+    "date_started": "2019-06-21",
+    "date_updated": "2019-06-21",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/sahil30/SessionPrediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": null,
+    "repo_name": "SessionPrediction",
+    "repo_owner": "sahil30",
+    "repotime": "2019-06-21, 15:08:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 26,
@@ -131,15 +209,15 @@
     "repo_name": "WebRtcXSS",
     "repo_owner": "BlackHole1",
     "repotime": "2019-06-21, 13:33:44",
-    "stargazers_count": 196,
-    "watchers_count": 196
+    "stargazers_count": 198,
+    "watchers_count": 198
 }
 {
     "commits_count": 18,
     "date_started": "2017-03-30",
     "date_updated": "2019-06-21",
     "description": "Template project for code injection in Diablo II",
-    "forks_count": 16,
+    "forks_count": 14,
     "html_url": "https://github.com/ThePhrozenKeep/D2Template",
     "keywords": [
         "code injection"
@@ -148,8 +226,27 @@
     "repo_name": "D2Template",
     "repo_owner": "ThePhrozenKeep",
     "repotime": "2019-06-21, 00:07:38",
-    "stargazers_count": 29,
-    "watchers_count": 29
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-06-18",
+    "date_updated": "2019-06-19",
+    "description": "thinkphp5 RCE auto exploit",
+    "forks_count": 4,
+    "html_url": "https://github.com/zyazhb/thinkphp5-poc",
+    "keywords": [
+        "rce exploitation",
+        "rce poc",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "thinkphp5-poc",
+    "repo_owner": "zyazhb",
+    "repotime": "2019-06-19, 14:03:46",
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 3,
@@ -190,17 +287,18 @@
     "date_started": "2019-06-13",
     "date_updated": "2019-06-13",
     "description": "    {   &amp;quot;releases&amp;quot;: {     &amp;quot;2.0.4&amp;quot;: [       &amp;quot;[Fixed] Refresh for Enterprise repositories did not handle API error querying branches - &amp;&#35;35;7713&amp;quot;,       &amp;quot;[Fixed] Missing \\&amp;quot;Discard all changes\\&amp;quot; context menu in Changes header - &amp;&#35;35;7696&amp;quot;,       &amp;quot;[Fixed] \\&amp;quot;Select all\\&amp;quot; keyboard shortcut not firing on Windows - &amp;&#35;35;7759&amp;quot;     ],     &amp;quot;2.0.4-beta1&amp;quot;: [       &amp;quot;[Fixed] Refresh for Enterprise repositories did not handle API error querying branches - &amp;&#35;35;7713&amp;quot;,       &amp;quot;[Fixed] Missing \\&amp;quot;Discard all changes\\&amp;quot; context menu in Changes header - &amp;&#35;35;7696&amp;quot;,       &amp;quot;[Fixed] \\&amp;quot;Select all\\&amp;quot; keyboard shortcut not firing on Windows - &amp;&#35;35;7759&amp;quot;     ],     &amp;quot;2.0.4-beta0&amp;quot;: [       &amp;quot;[Added] Extend crash reports with more information about application state for troubleshooting - &amp;&#35;35;7693&amp;quot;,       &amp;quot;[Fixed] Crash when attempting to update pull requests with part...",
-    "forks_count": 28,
+    "forks_count": 30,
     "html_url": "https://github.com/klonnet23/helloy-word",
     "keywords": [
-        "wrong input validation"
+        "wrong input validation",
+        "hard coded password"
     ],
     "language": null,
     "repo_name": "helloy-word",
     "repo_owner": "klonnet23",
     "repotime": "2019-06-13, 04:59:11",
-    "stargazers_count": 48,
-    "watchers_count": 48
+    "stargazers_count": 55,
+    "watchers_count": 55
 }
 {
     "commits_count": 1,
@@ -227,14 +325,20 @@
     "forks_count": 66,
     "html_url": "https://github.com/petercunha/jenkins-rce",
     "keywords": [
-        "unauthenticated user"
+        "unauthenticated user",
+        "rce poc",
+        "remote code execution exploit",
+        "unauthenticated remote code execution",
+        "rce exploit",
+        "remote code execution poc",
+        "unauthenticated rce"
     ],
     "language": "Java",
     "repo_name": "jenkins-rce",
     "repo_owner": "petercunha",
     "repotime": "2019-06-09, 23:57:57",
-    "stargazers_count": 295,
-    "watchers_count": 295
+    "stargazers_count": 294,
+    "watchers_count": 294
 }
 {
     "commits_count": 4,
@@ -261,6 +365,7 @@
     "forks_count": 15,
     "html_url": "https://github.com/slowmistio/Issue-198327",
     "keywords": [
+        "rce exploit",
         "rce exploitation"
     ],
     "language": "HTML",
@@ -269,6 +374,23 @@
     "repotime": "2019-06-09, 01:47:08",
     "stargazers_count": 33,
     "watchers_count": 33
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-06-08",
+    "date_updated": "2019-06-08",
+    "description": "These scripts are written to explore the practice of processing XML documents using the xml.dom API (Application Programming Interface). The following scripts are explored;  Python XML DOM Minidom.  ‘xml.dom.minidom’ is a minimal DOM implementation.  xml.dom.minidom is a minimal implementation of the Document Object Model interface, with an API similar to that in other languages. It is intended to be simpler than the full DOM and also significantly smaller. Users who are not already proficient with the DOM should consider using the xml.etree.ElementTree module for their XML processing instead.  Python XHTML Parser.  ‘html.parser’ is a simple HTML and XHTML parser. This module defines a class HTMLParser which serves as the basis for parsing text files formatted in HTML (HyperText Mark-up Language) and XHTML.  Python XML Parsers Expat. ‘xml.parsers.expat’ is a fast XML parsing using Expat. Warning: The pyexpat module is not secure against maliciously constructed data. If you need to pars...",
+    "forks_count": 1,
+    "html_url": "https://github.com/VakinduPhilliam/Python_XML_Processing",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "Python_XML_Processing",
+    "repo_owner": "VakinduPhilliam",
+    "repotime": "2019-06-08, 17:05:36",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 5,
@@ -301,8 +423,8 @@
     "repo_name": "TwitterX",
     "repo_owner": "nakiostudio",
     "repotime": "2019-06-05, 08:57:43",
-    "stargazers_count": 188,
-    "watchers_count": 188
+    "stargazers_count": 187,
+    "watchers_count": 187
 }
 {
     "commits_count": 1,
@@ -335,15 +457,15 @@
     "repo_name": "liri-node-app",
     "repo_owner": "CaptainEFFF",
     "repotime": "2019-06-04, 15:50:11",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 24,
     "date_started": "2018-11-14",
     "date_updated": "2019-06-04",
     "description": "A tool which creates a spoofed certificate of any online website and signs an Executable for AV Evasion. Works for both Windows and Linux",
-    "forks_count": 279,
+    "forks_count": 285,
     "html_url": "https://github.com/paranoidninja/CarbonCopy",
     "keywords": [
         "spoofing certificate"
@@ -352,15 +474,15 @@
     "repo_name": "CarbonCopy",
     "repo_owner": "paranoidninja",
     "repotime": "2019-06-04, 23:27:14",
-    "stargazers_count": 1303,
-    "watchers_count": 1303
+    "stargazers_count": 1358,
+    "watchers_count": 1358
 }
 {
     "commits_count": 11,
     "date_started": "2019-05-12",
     "date_updated": "2019-06-04",
     "description": "A simple PHP application to learn SQL Injection detection and exploitation techniques.",
-    "forks_count": 54,
+    "forks_count": 57,
     "html_url": "https://github.com/appsecco/sqlinjection-training-app",
     "keywords": [
         "sql injection"
@@ -369,8 +491,8 @@
     "repo_name": "sqlinjection-training-app",
     "repo_owner": "appsecco",
     "repotime": "2019-06-04, 15:50:57",
-    "stargazers_count": 97,
-    "watchers_count": 97
+    "stargazers_count": 113,
+    "watchers_count": 113
 }
 {
     "commits_count": 10,

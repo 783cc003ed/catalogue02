@@ -16,6 +16,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 14,
+    "date_started": "2018-07-30",
+    "date_updated": "2018-07-30",
+    "description": "Python code injection library",
+    "forks_count": 5,
+    "html_url": "https://github.com/andreafortuna/pycodeinjector",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "pycodeinjector",
+    "repo_owner": "andreafortuna",
+    "repotime": "2018-07-30, 17:27:28",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 40,
+    "date_started": "2018-07-24",
+    "date_updated": "2018-07-30",
+    "description": "Sample code for articles",
+    "forks_count": 5,
+    "html_url": "https://github.com/ploeh/dependency-injection-revisited",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C#",
+    "repo_name": "dependency-injection-revisited",
+    "repo_owner": "ploeh",
+    "repotime": "2018-07-30, 08:12:53",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
     "commits_count": 6,
     "date_started": "2018-07-27",
     "date_updated": "2018-07-27",
@@ -33,11 +67,28 @@
     "watchers_count": 4
 }
 {
+    "commits_count": 37,
+    "date_started": "2019-10-20",
+    "date_updated": "2018-07-26",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/fk-code-ctrl/Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "Session-Hijacking",
+    "repo_owner": "fk-code-ctrl",
+    "repotime": "2018-07-26, 00:12:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 65,
     "date_started": "2015-08-24",
     "date_updated": "2018-07-24",
     "description": "Sleepy Puppy XSS Payload Management Framework",
-    "forks_count": 135,
+    "forks_count": 138,
     "html_url": "https://github.com/Netflix-Skunkworks/sleepy-puppy",
     "keywords": [
         "xss"
@@ -46,8 +97,8 @@
     "repo_name": "sleepy-puppy",
     "repo_owner": "Netflix-Skunkworks",
     "repotime": "2018-07-24, 13:33:08",
-    "stargazers_count": 1029,
-    "watchers_count": 1029
+    "stargazers_count": 1037,
+    "watchers_count": 1037
 }
 {
     "commits_count": 251,
@@ -63,8 +114,8 @@
     "repo_name": "psychoPATH",
     "repo_owner": "ewilded",
     "repotime": "2018-07-24, 09:37:49",
-    "stargazers_count": 270,
-    "watchers_count": 270
+    "stargazers_count": 275,
+    "watchers_count": 275
 }
 {
     "commits_count": 15,
@@ -97,8 +148,8 @@
     "repo_name": "CVE-2018-2894",
     "repo_owner": "LandGrey",
     "repotime": "2018-07-20, 20:46:37",
-    "stargazers_count": 135,
-    "watchers_count": 135
+    "stargazers_count": 138,
+    "watchers_count": 138
 }
 {
     "commits_count": 1,
@@ -125,7 +176,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/Trevor3000/OsCommerce2-3RceExploit",
     "keywords": [
-        "remote code execution exploitation"
+        "remote code execution exploitation",
+        "remote code execution exploit"
     ],
     "language": "Python",
     "repo_name": "OsCommerce2-3RceExploit",
@@ -156,7 +208,7 @@
     "date_started": "2013-04-02",
     "date_updated": "2018-07-17",
     "description": "Inject C&amp;&#35;35; code into a running process",
-    "forks_count": 70,
+    "forks_count": 71,
     "html_url": "https://github.com/ChadSki/SharpNeedle",
     "keywords": [
         "code injection"
@@ -165,8 +217,8 @@
     "repo_name": "SharpNeedle",
     "repo_owner": "ChadSki",
     "repotime": "2018-07-17, 19:18:25",
-    "stargazers_count": 332,
-    "watchers_count": 332
+    "stargazers_count": 336,
+    "watchers_count": 336
 }
 {
     "commits_count": 19,
@@ -176,6 +228,7 @@
     "forks_count": 4,
     "html_url": "https://github.com/alt3kx/CVE-2018-12463",
     "keywords": [
+        "xml external entity",
         "0day vulnerability"
     ],
     "language": null,
@@ -186,21 +239,21 @@
     "watchers_count": 5
 }
 {
-    "commits_count": 13,
-    "date_started": "2015-12-20",
-    "date_updated": "2018-07-12",
-    "description": "Blind SQL injection exploitation tool written in ruby.",
-    "forks_count": 25,
-    "html_url": "https://github.com/enjoiz/BSQLinjector",
+    "commits_count": 1,
+    "date_started": "2018-07-13",
+    "date_updated": "2018-07-13",
+    "description": " Automated Oracle CVE-2014-6577 exploitation via SQLi",
+    "forks_count": 2,
+    "html_url": "https://github.com/SecurityArtWork/oracle-xxe-sqli",
     "keywords": [
-        "sql injection"
+        "xxe"
     ],
-    "language": "Ruby",
-    "repo_name": "BSQLinjector",
-    "repo_owner": "enjoiz",
-    "repotime": "2018-07-12, 09:54:31",
-    "stargazers_count": 97,
-    "watchers_count": 97
+    "language": "Python",
+    "repo_name": "oracle-xxe-sqli",
+    "repo_owner": "SecurityArtWork",
+    "repotime": "2018-07-13, 14:26:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 20,
@@ -216,32 +269,33 @@
     "repo_name": "pwnVNC",
     "repo_owner": "slyd0g",
     "repotime": "2018-07-08, 13:56:27",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 50,
     "date_started": "2018-04-25",
     "date_updated": "2018-07-08",
     "description": "Some exploits, which I’ve created during my OSCE preparation.",
-    "forks_count": 38,
+    "forks_count": 37,
     "html_url": "https://github.com/dhn/OSCE",
     "keywords": [
-        "dep bypass"
+        "dep bypass",
+        "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "OSCE",
     "repo_owner": "dhn",
     "repotime": "2018-07-08, 01:56:54",
-    "stargazers_count": 79,
-    "watchers_count": 79
+    "stargazers_count": 82,
+    "watchers_count": 82
 }
 {
     "commits_count": 1,
     "date_started": "2018-07-06",
     "date_updated": "2018-07-06",
     "description": "Google dorks for SQL injection, Local File Inclusion, open CCTV cams and sensitive information.",
-    "forks_count": 6,
+    "forks_count": 7,
     "html_url": "https://github.com/j0nk0/Google_Dorks-list",
     "keywords": [
         "local file inclusion"
@@ -250,6 +304,6 @@
     "repo_name": "Google_Dorks-list",
     "repo_owner": "j0nk0",
     "repotime": "2018-07-06, 18:52:15",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 14,
+    "watchers_count": 14
 }

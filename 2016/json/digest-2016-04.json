@@ -20,7 +20,7 @@
     "date_started": "2016-03-03",
     "date_updated": "2016-04-22",
     "description": "Correlated injection proxy tool for XSS Hunter",
-    "forks_count": 59,
+    "forks_count": 54,
     "html_url": "https://github.com/mandatoryprogrammer/xsshunter_client",
     "keywords": [
         "xss"
@@ -29,8 +29,8 @@
     "repo_name": "xsshunter_client",
     "repo_owner": "mandatoryprogrammer",
     "repotime": "2016-04-22, 11:00:19",
-    "stargazers_count": 247,
-    "watchers_count": 247
+    "stargazers_count": 254,
+    "watchers_count": 254
 }
 {
     "commits_count": 17,
@@ -40,21 +40,42 @@
     "forks_count": 116,
     "html_url": "https://github.com/Kevin-Robertson/Tater",
     "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges",
         "escalation of privileges exploit"
     ],
     "language": "PowerShell",
     "repo_name": "Tater",
     "repo_owner": "Kevin-Robertson",
     "repotime": "2016-04-21, 23:04:10",
-    "stargazers_count": 448,
-    "watchers_count": 448
+    "stargazers_count": 449,
+    "watchers_count": 449
+}
+{
+    "commits_count": 16,
+    "date_started": "2016-01-29",
+    "date_updated": "2016-04-03",
+    "description": "Information gathering tool via LFI vuln.",
+    "forks_count": 2,
+    "html_url": "https://github.com/Claor/LFI-Digger",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "LFI-Digger",
+    "repo_owner": "Claor",
+    "repotime": "2016-04-03, 16:03:40",
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 37,
     "date_started": "2016-03-26",
     "date_updated": "2016-04-01",
     "description": "Pen test your &amp;quot;friend's&amp;quot; online MMORPG game - specific focus, sql injection opportunities",
-    "forks_count": 56,
+    "forks_count": 50,
     "html_url": "https://github.com/breakthenet/HackMe-SQL-Injection-Challenges",
     "keywords": [
         "sql injection"
@@ -63,6 +84,6 @@
     "repo_name": "HackMe-SQL-Injection-Challenges",
     "repo_owner": "breakthenet",
     "repotime": "2016-04-01, 20:48:35",
-    "stargazers_count": 413,
-    "watchers_count": 413
+    "stargazers_count": 419,
+    "watchers_count": 419
 }

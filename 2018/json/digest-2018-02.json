@@ -1,4 +1,21 @@
 {
+    "commits_count": 3,
+    "date_started": "2018-02-28",
+    "date_updated": "2018-02-28",
+    "description": "Prevent session be hijacked",
+    "forks_count": 0,
+    "html_url": "https://github.com/arashjava/Nodejs-CSRF_Injection",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Nodejs-CSRF_Injection",
+    "repo_owner": "arashjava",
+    "repotime": "2018-02-28, 15:04:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2,
     "date_started": "2017-04-26",
     "date_updated": "2018-02-26",
@@ -33,6 +50,23 @@
     "watchers_count": 32
 }
 {
+    "commits_count": 0,
+    "date_started": "2018-02-23",
+    "date_updated": "2018-02-23",
+    "description": "Your PPC account is never perfect. Hopefully, that doesn’t come as a surprise to you. The truth of the matter is that no matter how hard you work on building an account and optimizing it according to best practices, you will probably miss something. An even truer statement is that the longer you work in an account, the easier it is for things to slip past your ever-watchful eye. What is a PPC account audit? An account audit is a dive into your account to determine areas that could use further attention or work to improve performance. We’ll outline the actual process of the audit shortly. When and why should I audit? There’s never a bad time to audit your account because you’ll typically find something to help improve performance. However, you don’t particularly want to audit your account after a recent strategy change or account update. You could be auditing based on skewed information and nobody wants that. The most important time to audit your account is if you’re having performance ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/sumit0002/PPC-Account-Audit",
+    "keywords": [
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "PPC-Account-Audit",
+    "repo_owner": "sumit0002",
+    "repotime": "2018-02-23, 10:49:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2,
     "date_started": "2018-01-23",
     "date_updated": "2018-02-21",
@@ -54,7 +88,7 @@
     "date_started": "2015-12-22",
     "date_updated": "2018-02-20",
     "description": "small set of PHP scripts to practice exploiting LFI, RFI and CMD injection vulns",
-    "forks_count": 82,
+    "forks_count": 83,
     "html_url": "https://github.com/paralax/lfi-labs",
     "keywords": [
         "lfi"
@@ -63,8 +97,8 @@
     "repo_name": "lfi-labs",
     "repo_owner": "paralax",
     "repotime": "2018-02-20, 12:41:11",
-    "stargazers_count": 316,
-    "watchers_count": 316
+    "stargazers_count": 328,
+    "watchers_count": 328
 }
 {
     "commits_count": 1,
@@ -101,11 +135,28 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 2,
+    "date_started": "2018-02-13",
+    "date_updated": "2018-02-15",
+    "description": "My own repository used for testing XXE vulnerabilities in a more automated way.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0x00-0x00/XXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "XXE",
+    "repo_owner": "0x00-0x00",
+    "repotime": "2018-02-15, 09:42:41",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 109,
     "date_started": "2018-02-14",
     "date_updated": "2018-02-15",
     "description": "Python api for usage with cobalt strike's External C2 specification ",
-    "forks_count": 18,
+    "forks_count": 17,
     "html_url": "https://github.com/RhinoSecurityLabs/external_c2_framework",
     "keywords": [
         "by_owner"
@@ -114,8 +165,25 @@
     "repo_name": "external_c2_framework",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2018-02-15, 00:49:59",
-    "stargazers_count": 67,
-    "watchers_count": 67
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-02-13",
+    "date_updated": "2018-02-13",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/rohankalra97/Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "Session-Hijacking",
+    "repo_owner": "rohankalra97",
+    "repotime": "2018-02-13, 21:47:57",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 2,
@@ -142,7 +210,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/0x00-0x00/CVE-2016-10033",
     "keywords": [
-        "remote code execution exploitation"
+        "remote code execution exploitation",
+        "remote code execution exploit"
     ],
     "language": "Go",
     "repo_name": "CVE-2016-10033",
@@ -150,6 +219,24 @@
     "repotime": "2018-02-09, 06:58:56",
     "stargazers_count": 7,
     "watchers_count": 7
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-11-24",
+    "date_updated": "2018-02-08",
+    "description": "Exploit script for Apache Struts2 REST Plugin XStream RCE (‎CVE-2017-9805)",
+    "forks_count": 15,
+    "html_url": "https://github.com/0x00-0x00/-CVE-2017-9805",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "-CVE-2017-9805",
+    "repo_owner": "0x00-0x00",
+    "repotime": "2018-02-08, 16:22:10",
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 6,
@@ -165,8 +252,8 @@
     "repo_name": "micros_honeypot",
     "repo_owner": "Cymmetria",
     "repotime": "2018-02-09, 00:56:57",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 8,
@@ -184,6 +271,23 @@
     "repotime": "2018-02-09, 00:54:44",
     "stargazers_count": 32,
     "watchers_count": 32
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-02-06",
+    "date_updated": "2018-02-07",
+    "description": "Exploit for Adobe Coldfusion BlazeDS Java Object Deserialization RCE",
+    "forks_count": 7,
+    "html_url": "https://github.com/depthsecurity/coldfusion_blazeds_des",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "coldfusion_blazeds_des",
+    "repo_owner": "depthsecurity",
+    "repotime": "2018-02-07, 13:20:39",
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 80,

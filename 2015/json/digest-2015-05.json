@@ -12,8 +12,25 @@
     "repo_name": "py-cookieJsInjection",
     "repo_owner": "diogomonica",
     "repotime": "2015-05-29, 10:28:42",
-    "stargazers_count": 42,
-    "watchers_count": 42
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 58,
+    "date_started": "2011-11-25",
+    "date_updated": "2015-05-27",
+    "description": "Open Sourced HTML filtering utility for Java. Used to parse user-submitted input and sanitize it against potential cross site scripting attacks, malicious html, or simply badly formed html.",
+    "forks_count": 100,
+    "html_url": "https://github.com/finn-no/xss-html-filter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "xss-html-filter",
+    "repo_owner": "finn-no",
+    "repotime": "2015-05-27, 09:50:47",
+    "stargazers_count": 118,
+    "watchers_count": 118
 }
 {
     "commits_count": 3,
@@ -23,7 +40,9 @@
     "forks_count": 0,
     "html_url": "https://github.com/theowni/encryptedSession-PHP",
     "keywords": [
-        "session attack"
+        "session hijacking attack",
+        "session attack",
+        "session hijacking"
     ],
     "language": "PHP",
     "repo_name": "encryptedSession-PHP",
@@ -46,8 +65,8 @@
     "repo_name": "skyfactory-2.4-faults",
     "repo_owner": "HurriKane",
     "repotime": "2015-05-16, 19:06:14",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 8,
@@ -65,6 +84,23 @@
     "repotime": "2015-05-13, 18:38:16",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2014-12-13",
+    "date_updated": "2015-05-11",
+    "description": "Fully functional Windows UAC bypass for Hak5 USB rubber ducky.",
+    "forks_count": 8,
+    "html_url": "https://github.com/JPaulMora/BypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": null,
+    "repo_name": "BypassUAC",
+    "repo_owner": "JPaulMora",
+    "repotime": "2015-05-11, 11:44:49",
+    "stargazers_count": 27,
+    "watchers_count": 27
 }
 {
     "commits_count": 227,

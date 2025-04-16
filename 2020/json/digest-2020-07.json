@@ -6,7 +6,10 @@
     "forks_count": 6,
     "html_url": "https://github.com/ArunBhandarii/Apache-Struts-0Day-Exploit",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "remote code execution vulnerability",
+        "remote code execution exploit",
+        "0day vulnerability"
     ],
     "language": "Python",
     "repo_name": "Apache-Struts-0Day-Exploit",
@@ -29,15 +32,15 @@
     "repo_name": "Yippee-Ki-Yay-MFA-er",
     "repo_owner": "pan0pt1c0n",
     "repotime": "2020-07-29, 16:07:35",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 23,
     "date_started": "2017-04-24",
     "date_updated": "2020-07-29",
     "description": "A blind XXE injection callback handler. Uses HTTP and FTP to extract information. Originally written in Ruby by ONsec-Lab.",
-    "forks_count": 87,
+    "forks_count": 88,
     "html_url": "https://github.com/TheTwitchy/xxer",
     "keywords": [
         "xxe"
@@ -46,8 +49,25 @@
     "repo_name": "xxer",
     "repo_owner": "TheTwitchy",
     "repotime": "2020-07-29, 09:54:37",
-    "stargazers_count": 510,
-    "watchers_count": 510
+    "stargazers_count": 516,
+    "watchers_count": 516
+}
+{
+    "commits_count": 53,
+    "date_started": "2019-12-06",
+    "date_updated": "2020-07-28",
+    "description": "Musicmantra is a music review website where users can submit reviews of musical performances similar to IMDb. The project comprises of ReSTfull web API with front-end framework in angular and back-end implementation in node.js, and an authentication protocol providing different levels of functionality to authenticated vs. unauthenticated users. Tools, Languages and Frameworks: Mongo BD, Express JS, Angular JS, Node JS, Javascript, HTML, CSS, GitHub, Visual Code, AWS",
+    "forks_count": 0,
+    "html_url": "https://github.com/siddharthgaind/Musicmantra-A-Music-Review-Website",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "TypeScript",
+    "repo_name": "Musicmantra-A-Music-Review-Website",
+    "repo_owner": "siddharthgaind",
+    "repotime": "2020-07-28, 12:37:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1,
@@ -74,7 +94,9 @@
     "forks_count": 0,
     "html_url": "https://github.com/GenoWang/0CTF-2020-Chromium",
     "keywords": [
-        "Chromium rce"
+        "Chromium rce exploitation",
+        "Chromium rce",
+        "Chromium rce exploit"
     ],
     "language": "HTML",
     "repo_name": "0CTF-2020-Chromium",
@@ -105,17 +127,18 @@
     "date_started": "2020-07-26",
     "date_updated": "2020-07-25",
     "description": "Hackingtool Menu 🧰 AnonSurf Information Gathering Password Attack Wireless Attack SQL Injection Tools Phishing Attack Web Attack Tool Post exploitation Forensic Tools Payload Creator Router Exploit Wifi Jamming XSS Attack Tool Reverse Engineering SocialMedia Finder DDos Attack Tools Steganography Tools IDN Homograph Attack Hash Cracking Tools SocialMedia Attack Android Hack RAT Tools Web Crawling Payload Injector Update System AnonSurf Anonmously Surf Multitor Information Gathering Nmap Dracnmap Port Scanning Host To IP Xerosploit Infoga - Email OSINT ReconSpider RED HAWK (All In One Scanning) ReconDog Striker SecretFinder Port Scanner Breacher Password Attack Cupp WordlistCreator Goblin WordGenerator Credential reuse attacks Wordlist (Contain 1.4 Billion Pass) Wireless Attack WiFi-Pumpkin pixiewps Bluetooth Honeypot GUI Framework Fluxion Wifiphisher Wifite EvilTwin SQL Injection Tools sqlmap tool NoSqlMap Damn Small SQLi Scanner Explo Blisqy - Exploit Time-based blind-SQL injection Le...",
-    "forks_count": 36,
+    "forks_count": 39,
     "html_url": "https://github.com/tnt-wolve/ch3r0",
     "keywords": [
+        "session hijacking attack",
         "session attack"
     ],
     "language": null,
     "repo_name": "ch3r0",
     "repo_owner": "tnt-wolve",
     "repotime": "2020-07-25, 19:37:02",
-    "stargazers_count": 223,
-    "watchers_count": 223
+    "stargazers_count": 252,
+    "watchers_count": 252
 }
 {
     "commits_count": 7,
@@ -125,6 +148,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/emb-team/shell-exploit",
     "keywords": [
+        "aslr bypass",
+        "aslr bypass exploit",
         "aslr bypass exploitation"
     ],
     "language": "C",
@@ -150,6 +175,24 @@
     "repotime": "2020-07-24, 10:03:44",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2019-10-10",
+    "date_updated": "2020-07-23",
+    "description": "Privacy Policy introduction We understand the importance of personal information to you and will do our utmost to protect your personal information. We are committed to maintaining your trust in us and to abide by the following principles to protect your personal information: the principle of consistency of rights and responsibilities, the principle of purpose , choose the principle of consent, at least the principle of sufficient use, ensure the principle of security, the principle of subject participation, the principle of openness and transparency, and so on. At the same time, we promise that we will take appropriate security measures to protect your personal information according to the industry's mature security solutions. In view of this, we have formulated this &amp;quot;Private Privacy Policy&amp;quot; (hereinafter referred to as &amp;quot;this policy&amp;quot; /This Privacy Policy&amp;quot;) and remind you:  This policy applies to products or services on this platform. If the products or services...",
+    "forks_count": 0,
+    "html_url": "https://github.com/yqmark/agreement",
+    "keywords": [
+        "address leak disclosure",
+        "address leak analysis"
+    ],
+    "language": null,
+    "repo_name": "agreement",
+    "repo_owner": "yqmark",
+    "repotime": "2020-07-23, 21:51:27",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 2,
@@ -182,15 +225,15 @@
     "repo_name": "LeakDetect",
     "repo_owner": "vastlimits",
     "repotime": "2020-07-22, 21:53:56",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 17,
     "date_started": "2017-04-09",
     "date_updated": "2020-07-22",
     "description": "A lab for playing with NoSQL Injection",
-    "forks_count": 40,
+    "forks_count": 39,
     "html_url": "https://github.com/digininja/nosqlilab",
     "keywords": [
         "sql injection"
@@ -199,8 +242,25 @@
     "repo_name": "nosqlilab",
     "repo_owner": "digininja",
     "repotime": "2020-07-22, 16:58:48",
-    "stargazers_count": 128,
-    "watchers_count": 128
+    "stargazers_count": 130,
+    "watchers_count": 130
+}
+{
+    "commits_count": 7,
+    "date_started": "2020-07-17",
+    "date_updated": "2020-07-21",
+    "description": " There has been a lot of interest in Machine Learning and Artificial Intelligence lately. Everyone seems from the data scientists to the business analysts, and the web developers are so interested in this fields. I notice that most people who build machine learning models are not good in web development and deployment. So most times it is left for the web developer to deploy those models and integrate them into the web project.  As a Django developer, this is an important knowledge to possess as more and more machine learning models are being built these days. Sooner or later you will find yourself having to do this or even having this become part of your daily work demands.  This is going to be a hands-on workshop session in which we will build a simple deep neural network from scratch using Keras and deploy it into a Django project so that users visiting our website can supply data which our model can make predictions from.  The workshop is practically going to consist of two parts. ...",
+    "forks_count": 2,
+    "html_url": "https://github.com/psalmskalu/pycon-africa-2020-workshop",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "pycon-africa-2020-workshop",
+    "repo_owner": "psalmskalu",
+    "repotime": "2020-07-21, 12:04:09",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 3,
@@ -233,8 +293,59 @@
     "repo_name": "LibreHealth-authRCE",
     "repo_owner": "boku7",
     "repotime": "2020-07-19, 00:46:57",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-07-18",
+    "date_updated": "2020-07-18",
+    "description": "Enviroment and exploit to rce test",
+    "forks_count": 3,
+    "html_url": "https://github.com/h4ms1k/CVE-2020-8163",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2020-8163",
+    "repo_owner": "h4ms1k",
+    "repotime": "2020-07-18, 21:20:28",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-07-16",
+    "date_updated": "2020-07-17",
+    "description": "firefox extension - xss session hijack trojan base",
+    "forks_count": 0,
+    "html_url": "https://github.com/angeal185/firefox-trojan-xss-session-hijack",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "JavaScript",
+    "repo_name": "firefox-trojan-xss-session-hijack",
+    "repo_owner": "angeal185",
+    "repotime": "2020-07-17, 16:20:15",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-07-16",
+    "date_updated": "2020-07-16",
+    "description": "chrome extension - xss session hijack trojan base",
+    "forks_count": 0,
+    "html_url": "https://github.com/angeal185/chrome-trojan-xss-session-hijack",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "JavaScript",
+    "repo_name": "chrome-trojan-xss-session-hijack",
+    "repo_owner": "angeal185",
+    "repotime": "2020-07-16, 19:21:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -244,7 +355,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/boku7/onlineCourseReg-RCE",
     "keywords": [
-        "remote code execution exploitation"
+        "remote code execution exploitation",
+        "remote code execution exploit"
     ],
     "language": "Python",
     "repo_name": "onlineCourseReg-RCE",
@@ -267,8 +379,8 @@
     "repo_name": "Text-Spoofing-Vulnerability-in-Online-Payment-Systems",
     "repo_owner": "RayyanI",
     "repotime": "2020-07-15, 19:29:10",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 18,
@@ -305,6 +417,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 7,
+    "date_started": "2020-07-12",
+    "date_updated": "2020-07-14",
+    "description": "This Metasploit-Framework module can be use to help companies to check the last Citrix vulnerability CVE-2020-8193, CVE-2020-8195 and CVE-2020-8196 (disclosed July 08, 2020).",
+    "forks_count": 4,
+    "html_url": "https://github.com/Zeop-CyberSec/citrix_adc_netscaler_lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Ruby",
+    "repo_name": "citrix_adc_netscaler_lfi",
+    "repo_owner": "Zeop-CyberSec",
+    "repotime": "2020-07-14, 18:55:41",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
     "commits_count": 2,
     "date_started": "2020-07-13",
     "date_updated": "2020-07-13",
@@ -329,7 +458,11 @@
     "forks_count": 1,
     "html_url": "https://github.com/PolitoInc/Polarbear-LPE-Metasploit-Module",
     "keywords": [
-        "lpe exploit"
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows lpe exploitation",
+        "lpe exploitation"
     ],
     "language": "Ruby",
     "repo_name": "Polarbear-LPE-Metasploit-Module",
@@ -369,8 +502,8 @@
     "repo_name": "react-router-protected-route",
     "repo_owner": "VideoAmp",
     "repotime": "2020-07-10, 12:07:15",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 1,
@@ -390,11 +523,45 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 3,
+    "date_started": "2020-07-09",
+    "date_updated": "2020-07-09",
+    "description": "<no description>",
+    "forks_count": 11,
+    "html_url": "https://github.com/foxsin34/WebMin-1.890-Exploit-unauthorized-RCE",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "WebMin-1.890-Exploit-unauthorized-RCE",
+    "repo_owner": "foxsin34",
+    "repotime": "2020-07-09, 08:13:30",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-01-16",
+    "date_updated": "2020-07-08",
+    "description": "Download Windows 8.1   Windows 8.1 Pro ISO Download Free Full Version [2017 Direct Links]  http://freeappstorepc.com/windows-8-1-iso-download/ http://freeappstorepc.com/windows-8-iso-download/  Get the Final Version of Microsoft Windows 8.1 Pro ISO Download. Free immediate connection by freeappstorepc. Download ISO document without Media Creation Tool or Windows 8 Product key. Untouched, full form ISO 64-bit.   Windows 8 clients can free move up to Windows 8.1 full form without setting off to the Windows Store. You can download Windows 8.1 ISO (DVD) From MSDN with the Windows 8 item key. Download Windows 8.1 Pro ISO from their Official Microsoft Link.   Microsoft Windows 8.1 Pro ISO Download – Overview   Windows 8.1 Update incorporates new highlights and usefulness overhauls that ought to significantly enhance the general client encounter on Microsoft OS. Windows 8.1 (as administration pack) is a piece of Microsoft Windows 8's help life-cycle and introducing 8.1 refreshes will be oblig...",
+    "forks_count": 0,
+    "html_url": "https://github.com/usmanhere33/freeware",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "freeware",
+    "repo_owner": "usmanhere33",
+    "repotime": "2020-07-08, 06:14:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2,
     "date_started": "2020-07-08",
     "date_updated": "2020-07-07",
     "description": "PYTHON CODE WALKTHROUGH Data Sourcing In order to run a discounted cash flow model (DCF), I needed data, so I found a free API that provided us with everything I needed. I wrote a code that saved every financial statement of every company in a separate text file. In this code, I asked to ping the API’s URL for every ticker, open a text file for one of the financial statements for one company ticker, dump all the data found by the code into this file, and close it. This process was repeated for every company in our company list and every statement I have a code for. By doing so I Ire able to store the data for every company locally and did not need to ping the API every time I ran our code. Once all the financial data for each company was stored in form of a balance sheet, income statement, cash flow statement, and company profile text file, I needed to pick out specific items required for our DCF model. Thus, I defined the functions that selected all required items from the respective ...",
-    "forks_count": 6,
+    "forks_count": 7,
     "html_url": "https://github.com/Nikkitaseth/ProjectAlpha",
     "keywords": [
         "Windows use after free"
@@ -403,8 +570,8 @@
     "repo_name": "ProjectAlpha",
     "repo_owner": "Nikkitaseth",
     "repotime": "2020-07-07, 23:52:50",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 21,
+    "watchers_count": 21
 }
 {
     "commits_count": 7,
@@ -462,17 +629,24 @@
     "date_started": "2020-06-30",
     "date_updated": "2020-07-06",
     "description": "A PoC of a privilege escalation vulnerability in the Realtek rtkio64 Windows driver.",
-    "forks_count": 2,
+    "forks_count": 1,
     "html_url": "https://github.com/blogresponder/Realtek-rtkio64-Windows-driver-privilege-escalation",
     "keywords": [
-        "escalation of privileges poc"
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges poc",
+        "Win escalation of privileges",
+        "escalation of privileges vulnerability",
+        "Win escalation of privileges poc",
+        "Windows escalation of privileges",
+        "Win escalation of privileges vulnerability",
+        "Windows escalation of privileges poc"
     ],
     "language": "C",
     "repo_name": "Realtek-rtkio64-Windows-driver-privilege-escalation",
     "repo_owner": "blogresponder",
     "repotime": "2020-07-06, 10:34:10",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 14,
@@ -482,6 +656,7 @@
     "forks_count": 4,
     "html_url": "https://github.com/AleWong/PHP-FPM-Remote-Code-Execution-Vulnerability-CVE-2019-11043-",
     "keywords": [
+        "remote code execution vulnerability",
         "remote code execution poc"
     ],
     "language": "Python",
@@ -499,6 +674,7 @@
     "forks_count": 73,
     "html_url": "https://github.com/fengjixuchui/mouse",
     "keywords": [
+        "escalation of privileges exploitation",
         "escalation of privileges exploit"
     ],
     "language": "Python",
@@ -507,6 +683,24 @@
     "repotime": "2020-07-04, 16:50:32",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 0,
+    "date_started": "2020-07-03",
+    "date_updated": "2020-07-03",
+    "description": "Promoting on the web and disconnected is so packed. Your opposition is all over and advertising can be costly.   You need the best profit for your promoting dollars, advantage over rivalry, and the quickest and most effortless approach to create results, clients, and benefits, isn't that so?   Imagine a scenario in which there was a spot that you could arrive at clients on order and 99% of entrepreneurs won't be around to contend. Envision...   An approach to have your message perused as much as multiple times more than messages. You are getting higher reaction rates as much as multiple times more than papers and business directory and 2 to multiple times a greater number of results than web advertisements.   What might it feel like currently to have energetic clients remaining around and genuinely needing to catch wind of your offer or deal? That would all be a sweet dream, correct?   It is anything but a Dream. It's a Profitable Reality Now. Continue Reading...   Since you would now ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Amelia805/Marketing-Text-Messaging-and-Mobile-SMS-Marketing-For-Your-Business",
+    "keywords": [
+        "use after free exploit",
+        "use after free exploitation"
+    ],
+    "language": null,
+    "repo_name": "Marketing-Text-Messaging-and-Mobile-SMS-Marketing-For-Your-Business",
+    "repo_owner": "Amelia805",
+    "repotime": "2020-07-03, 14:23:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 2,
@@ -530,7 +724,7 @@
     "date_started": "2020-06-02",
     "date_updated": "2020-07-02",
     "description": "<no description>",
-    "forks_count": 347,
+    "forks_count": 348,
     "html_url": "https://github.com/chompie1337/SMBGhost_RCE_PoC",
     "keywords": [
         "rce poc"
@@ -539,6 +733,6 @@
     "repo_name": "SMBGhost_RCE_PoC",
     "repo_owner": "chompie1337",
     "repotime": "2020-07-02, 13:49:21",
-    "stargazers_count": 1314,
-    "watchers_count": 1314
+    "stargazers_count": 1340,
+    "watchers_count": 1340
 }

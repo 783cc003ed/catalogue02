@@ -1,4 +1,21 @@
 {
+    "commits_count": 1,
+    "date_started": "2017-06-01",
+    "date_updated": "2017-05-31",
+    "description": "Scripts for exploratory data analysis of x86-64 Linux functions",
+    "forks_count": 0,
+    "html_url": "https://github.com/vadimkotov/rce-ml",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": "Python",
+    "repo_name": "rce-ml",
+    "repo_owner": "vadimkotov",
+    "repotime": "2017-05-31, 21:39:17",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 11,
     "date_started": "2017-05-31",
     "date_updated": "2017-05-31",
@@ -12,8 +29,8 @@
     "repo_name": "xxetimes",
     "repo_owner": "ropnop",
     "repotime": "2017-05-31, 18:28:15",
-    "stargazers_count": 90,
-    "watchers_count": 90
+    "stargazers_count": 91,
+    "watchers_count": 91
 }
 {
     "commits_count": 5,
@@ -46,8 +63,8 @@
     "repo_name": "BlueLotus_XSSReceiver",
     "repo_owner": "trysec",
     "repotime": "2017-05-26, 11:18:40",
-    "stargazers_count": 260,
-    "watchers_count": 260
+    "stargazers_count": 270,
+    "watchers_count": 270
 }
 {
     "commits_count": 80,
@@ -63,8 +80,25 @@
     "repo_name": "SpoofcheckSelfTest",
     "repo_owner": "BishopFox",
     "repotime": "2017-05-24, 14:54:11",
-    "stargazers_count": 33,
-    "watchers_count": 33
+    "stargazers_count": 35,
+    "watchers_count": 35
+}
+{
+    "commits_count": 5,
+    "date_started": "2017-05-15",
+    "date_updated": "2017-05-23",
+    "description": "<no description>",
+    "forks_count": 45,
+    "html_url": "https://github.com/winscripting/UAC-bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "UAC-bypass",
+    "repo_owner": "winscripting",
+    "repotime": "2017-05-23, 21:59:19",
+    "stargazers_count": 210,
+    "watchers_count": 210
 }
 {
     "commits_count": 1,
@@ -84,6 +118,23 @@
     "watchers_count": 6
 }
 {
+    "commits_count": 3,
+    "date_started": "2017-05-19",
+    "date_updated": "2017-05-19",
+    "description": "WordPress 4.6 - Remote Code Execution (RCE) PoC Exploit",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bajunan/CVE-2016-10033",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2016-10033",
+    "repo_owner": "Bajunan",
+    "repotime": "2017-05-19, 15:57:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 7,
     "date_started": "2017-05-18",
     "date_updated": "2017-05-18",
@@ -99,6 +150,40 @@
     "repotime": "2017-05-18, 16:07:32",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2017-05-11",
+    "date_updated": "2017-05-17",
+    "description": "This is an ASP.NET MVC Web Application utilizing Entity Framework to create a code first database. Additionally, this project explores server-side and client side validation using data annotations, jquery as well as AntiForgeryTokens to protect user sessions from cross-site request forgery attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/jackson925/MVCMovieDataBase",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "JavaScript",
+    "repo_name": "MVCMovieDataBase",
+    "repo_owner": "jackson925",
+    "repotime": "2017-05-17, 10:30:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2017-05-13",
+    "date_updated": "2017-05-16",
+    "description": "XSS, SQL, LFI, RFI Injector in python!",
+    "forks_count": 4,
+    "html_url": "https://github.com/YourIguanaSquad/Bust3r",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "Bust3r",
+    "repo_owner": "YourIguanaSquad",
+    "repotime": "2017-05-16, 23:55:35",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 1,
@@ -118,6 +203,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 422,
+    "date_started": "2013-10-10",
+    "date_updated": "2017-05-16",
+    "description": "GreenSQL is an Open Source database firewall used to protect databases from SQL injection attacks.",
+    "forks_count": 50,
+    "html_url": "https://github.com/larskanis/greensql-fw",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "C++",
+    "repo_name": "greensql-fw",
+    "repo_owner": "larskanis",
+    "repotime": "2017-05-16, 15:54:52",
+    "stargazers_count": 73,
+    "watchers_count": 73
+}
+{
     "commits_count": 11,
     "date_started": "2017-04-24",
     "date_updated": "2017-05-13",
@@ -131,8 +233,8 @@
     "repo_name": "vulnd_xxe",
     "repo_owner": "TheTwitchy",
     "repotime": "2017-05-13, 11:29:21",
-    "stargazers_count": 25,
-    "watchers_count": 25
+    "stargazers_count": 26,
+    "watchers_count": 26
 }
 {
     "commits_count": 6,
@@ -170,10 +272,27 @@
 }
 {
     "commits_count": 1,
+    "date_started": "2017-05-10",
+    "date_updated": "2017-05-09",
+    "description": "RCE against WordPress 4.6; Python port of https://exploitbox.io/vuln/WordPress-Exploit-4-6-RCE-CODE-EXEC-CVE-2016-10033.html",
+    "forks_count": 6,
+    "html_url": "https://github.com/GeneralTesler/CVE-2016-10033",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2016-10033",
+    "repo_owner": "GeneralTesler",
+    "repotime": "2017-05-09, 20:31:56",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 1,
     "date_started": "2017-05-06",
     "date_updated": "2017-05-06",
     "description": "Browser's XSS Filter Bypass Cheat Sheet",
-    "forks_count": 207,
+    "forks_count": 211,
     "html_url": "https://github.com/masatokinugawa/filterbypass",
     "keywords": [
         "xss"
@@ -182,8 +301,8 @@
     "repo_name": "filterbypass",
     "repo_owner": "masatokinugawa",
     "repotime": "2017-05-06, 22:53:03",
-    "stargazers_count": 1109,
-    "watchers_count": 1109
+    "stargazers_count": 1130,
+    "watchers_count": 1130
 }
 {
     "commits_count": 3,
@@ -193,7 +312,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/ww9210/Linux_LPEs",
     "keywords": [
-        "lpe exploit"
+        "lpe exploit",
+        "lpe exploitation"
     ],
     "language": null,
     "repo_name": "Linux_LPEs",
@@ -203,6 +323,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 4,
+    "date_started": "2017-05-05",
+    "date_updated": "2017-05-05",
+    "description": "Apache Struts 2.0 RCE vulnerability - Allows an attacker to inject OS commands into a web application through the content-type header ",
+    "forks_count": 5,
+    "html_url": "https://github.com/payatu/CVE-2017-5638",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-5638",
+    "repo_owner": "payatu",
+    "repotime": "2017-05-05, 19:25:52",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
     "commits_count": 2,
     "date_started": "2017-05-05",
     "date_updated": "2017-05-05",
@@ -210,14 +347,21 @@
     "forks_count": 34,
     "html_url": "https://github.com/MarkipTheMudkip/in-class-project-2",
     "keywords": [
-        "Win use after free"
+        "Windows use after free",
+        "Win use after free",
+        "Win use after free exploit",
+        "Windows use after free exploit",
+        "use after free exploitation",
+        "Win use after free exploitation",
+        "Windows use after free exploitation",
+        "use after free exploit"
     ],
     "language": "HTML",
     "repo_name": "in-class-project-2",
     "repo_owner": "MarkipTheMudkip",
     "repotime": "2017-05-05, 01:47:10",
-    "stargazers_count": 58,
-    "watchers_count": 58
+    "stargazers_count": 62,
+    "watchers_count": 62
 }
 {
     "commits_count": 2,
@@ -227,7 +371,10 @@
     "forks_count": 0,
     "html_url": "https://github.com/rodolfovile/session_fixation",
     "keywords": [
-        "session attack"
+        "session vulnerability",
+        "session hijacking attack",
+        "session attack",
+        "session hijacking vulnerability"
     ],
     "language": "Python",
     "repo_name": "session_fixation",

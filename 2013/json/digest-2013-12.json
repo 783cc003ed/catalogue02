@@ -1,4 +1,75 @@
 {
+    "commits_count": 134,
+    "date_started": "2010-10-10",
+    "date_updated": "2013-12-29",
+    "description": "A Firefox extension that demonstrates HTTP session hijacking attacks.",
+    "forks_count": 636,
+    "html_url": "https://github.com/codebutler/firesheep",
+    "keywords": [
+        "session hijacking attack",
+        "session attack",
+        "session hijacking"
+    ],
+    "language": "C++",
+    "repo_name": "firesheep",
+    "repo_owner": "codebutler",
+    "repotime": "2013-12-29, 10:40:47",
+    "stargazers_count": 2344,
+    "watchers_count": 2344
+}
+{
+    "commits_count": 4,
+    "date_started": "2013-07-31",
+    "date_updated": "2013-12-24",
+    "description": "RCE Exploit PoC for Spring based RESTFul APIs using XStream as Unmarshaler",
+    "forks_count": 5,
+    "html_url": "https://github.com/pwntester/XStreamServer",
+    "keywords": [
+        "rce exploitation",
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "XStreamServer",
+    "repo_owner": "pwntester",
+    "repotime": "2013-12-24, 15:10:20",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 2,
+    "date_started": "2013-12-23",
+    "date_updated": "2013-12-23",
+    "description": "POC for XStream RCE",
+    "forks_count": 5,
+    "html_url": "https://github.com/pwntester/XStreamPOC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "XStreamPOC",
+    "repo_owner": "pwntester",
+    "repotime": "2013-12-23, 15:18:53",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 11,
+    "date_started": "2013-02-06",
+    "date_updated": "2013-12-20",
+    "description": "A collection of utilities for Android applications.",
+    "forks_count": 15,
+    "html_url": "https://github.com/FSecureLABS/mwr-android",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Java",
+    "repo_name": "mwr-android",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2013-12-20, 11:13:19",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
     "commits_count": 8,
     "date_started": "2013-02-06",
     "date_updated": "2013-12-20",
@@ -40,14 +111,16 @@
     "forks_count": 22,
     "html_url": "https://github.com/pwntester/SpringBreaker",
     "keywords": [
-        "rce exploit"
+        "rce exploit",
+        "rce poc",
+        "rce exploitation"
     ],
     "language": "Java",
     "repo_name": "SpringBreaker",
     "repo_owner": "pwntester",
     "repotime": "2013-12-17, 12:21:14",
-    "stargazers_count": 41,
-    "watchers_count": 41
+    "stargazers_count": 43,
+    "watchers_count": 43
 }
 {
     "commits_count": 1,
@@ -57,7 +130,16 @@
     "forks_count": 1,
     "html_url": "https://github.com/Friarfukd/RobbinHood",
     "keywords": [
-        "Microsoft 0day"
+        "Windows 0day vulnerability",
+        "Windows 0day exploitation",
+        "Microsoft 0day vulnerability",
+        "Microsoft 0day exploitation",
+        "Microsoft 0day",
+        "Microsoft 0day exploit",
+        "Windows 0day exploit",
+        "0day vulnerability",
+        "Windows 0day",
+        "0day exploitation"
     ],
     "language": null,
     "repo_name": "RobbinHood",

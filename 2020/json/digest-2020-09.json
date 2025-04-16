@@ -3,7 +3,7 @@
     "date_started": "2019-08-28",
     "date_updated": "2020-09-28",
     "description": "This is a collection of writeups, cheatsheets, videos, books related to SSRF in one single location",
-    "forks_count": 229,
+    "forks_count": 232,
     "html_url": "https://github.com/jdonsec/AllThingsSSRF",
     "keywords": [
         "ssrf"
@@ -12,8 +12,8 @@
     "repo_name": "AllThingsSSRF",
     "repo_owner": "jdonsec",
     "repotime": "2020-09-28, 10:13:19",
-    "stargazers_count": 1210,
-    "watchers_count": 1210
+    "stargazers_count": 1249,
+    "watchers_count": 1249
 }
 {
     "commits_count": 6,
@@ -23,7 +23,8 @@
     "forks_count": 3,
     "html_url": "https://github.com/Kr0ff/Kentico-12-RCE-via-SyncServer",
     "keywords": [
-        "remote code execution vulnerability"
+        "remote code execution vulnerability",
+        "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "Kentico-12-RCE-via-SyncServer",
@@ -91,7 +92,11 @@
     "forks_count": 4,
     "html_url": "https://github.com/whereisr0da/CVE-2018-8414-POC",
     "keywords": [
-        "Windows rce"
+        "Windows rce",
+        "Windows rce poc",
+        "Windows rce vulnerability",
+        "rce vulnerability",
+        "rce poc"
     ],
     "language": null,
     "repo_name": "CVE-2018-8414-POC",
@@ -118,6 +123,23 @@
     "watchers_count": 10
 }
 {
+    "commits_count": 20,
+    "date_started": "2020-09-14",
+    "date_updated": "2020-09-16",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/WyvernDrexx/XXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "XXE",
+    "repo_owner": "WyvernDrexx",
+    "repotime": "2020-09-16, 08:26:08",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 31,
     "date_started": "2020-08-22",
     "date_updated": "2020-09-15",
@@ -131,8 +153,8 @@
     "repo_name": "easy-byte-coder",
     "repo_owner": "ymm-tech",
     "repotime": "2020-09-15, 14:45:50",
-    "stargazers_count": 139,
-    "watchers_count": 139
+    "stargazers_count": 137,
+    "watchers_count": 137
 }
 {
     "commits_count": 1,
@@ -142,7 +164,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/xVandaTheGod/wp-file-manaer",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation"
     ],
     "language": "Python",
     "repo_name": "wp-file-manaer",
@@ -165,8 +188,42 @@
     "repo_name": "burp-shell-fwd-lfi",
     "repo_owner": "gnothiseautonlw",
     "repotime": "2020-09-11, 21:28:23",
-    "stargazers_count": 76,
-    "watchers_count": 76
+    "stargazers_count": 79,
+    "watchers_count": 79
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-09-11",
+    "date_updated": "2020-09-11",
+    "description": "通达OA RCE",
+    "forks_count": 7,
+    "html_url": "https://github.com/wikiZ/tongda-exp-poc",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "tongda-exp-poc",
+    "repo_owner": "wikiZ",
+    "repotime": "2020-09-11, 22:54:21",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 13,
+    "date_started": "2015-09-18",
+    "date_updated": "2020-09-10",
+    "description": "Portcullis Computer Security Co-ordinated Disclosure Toolkit",
+    "forks_count": 4,
+    "html_url": "https://github.com/portcullislabs/co-ordinated-disclosure-toolkit",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "XSLT",
+    "repo_name": "co-ordinated-disclosure-toolkit",
+    "repo_owner": "portcullislabs",
+    "repotime": "2020-09-10, 23:36:44",
+    "stargazers_count": 24,
+    "watchers_count": 24
 }
 {
     "commits_count": 2,
@@ -190,17 +247,18 @@
     "date_started": "2019-03-14",
     "date_updated": "2020-09-07",
     "description": "SAP Gateway RCE exploits",
-    "forks_count": 52,
+    "forks_count": 45,
     "html_url": "https://github.com/chipik/SAP_GW_RCE_exploit",
     "keywords": [
-        "rce exploit"
+        "rce exploit",
+        "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "SAP_GW_RCE_exploit",
     "repo_owner": "chipik",
     "repotime": "2020-09-07, 16:46:03",
-    "stargazers_count": 150,
-    "watchers_count": 150
+    "stargazers_count": 151,
+    "watchers_count": 151
 }
 {
     "commits_count": 2,
@@ -237,6 +295,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 9,
+    "date_started": "2020-09-05",
+    "date_updated": "2020-09-06",
+    "description": "Test your XXE Payloads",
+    "forks_count": 0,
+    "html_url": "https://github.com/d1y1n/xxetester",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "xxetester",
+    "repo_owner": "d1y1n",
+    "repotime": "2020-09-06, 11:39:35",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
     "commits_count": 15,
     "date_started": "2020-09-05",
     "date_updated": "2020-09-05",
@@ -269,6 +344,23 @@
     "repotime": "2020-09-05, 11:35:23",
     "stargazers_count": 22,
     "watchers_count": 22
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-01-14",
+    "date_updated": "2020-09-04",
+    "description": "A Simple Toolkit That Uses Metasploit's msfconsole to automatically exploit some of the remote code execution vulnerabilities to drop a remote shell on target/vulnerable computers on a network.",
+    "forks_count": 1,
+    "html_url": "https://github.com/abdu1aziz/metasploit_payload_maker",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "metasploit_payload_maker",
+    "repo_owner": "abdu1aziz",
+    "repotime": "2020-09-04, 22:07:11",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 5,
@@ -386,8 +478,8 @@
     "repo_name": "N1QLMap",
     "repo_owner": "FSecureLABS",
     "repotime": "2020-09-02, 13:45:20",
-    "stargazers_count": 72,
-    "watchers_count": 72
+    "stargazers_count": 76,
+    "watchers_count": 76
 }
 {
     "commits_count": 66,
@@ -403,6 +495,6 @@
     "repo_name": "ssrf-tool",
     "repo_owner": "ethicalhackingplayground",
     "repotime": "2020-09-01, 18:29:48",
-    "stargazers_count": 142,
-    "watchers_count": 142
+    "stargazers_count": 144,
+    "watchers_count": 144
 }

@@ -16,6 +16,23 @@
     "watchers_count": 6
 }
 {
+    "commits_count": 12,
+    "date_started": "2012-03-03",
+    "date_updated": "2012-07-07",
+    "description": "Examples from The Hitchhiker's Guide To Cross-Site Scripting (XSS)",
+    "forks_count": 13,
+    "html_url": "https://github.com/padraic/xss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "xss",
+    "repo_owner": "padraic",
+    "repotime": "2012-07-07, 20:59:50",
+    "stargazers_count": 45,
+    "watchers_count": 45
+}
+{
     "commits_count": 1,
     "date_started": "2012-07-06",
     "date_updated": "2012-07-06",
@@ -31,4 +48,21 @@
     "repotime": "2012-07-06, 17:11:10",
     "stargazers_count": 13,
     "watchers_count": 13
+}
+{
+    "commits_count": 10,
+    "date_started": "2012-06-26",
+    "date_updated": "2012-07-06",
+    "description": "Automating SQL injection using Burp Proxy Logs and SQLMap",
+    "forks_count": 17,
+    "html_url": "https://github.com/milo2012/burpSQL",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "burpSQL",
+    "repo_owner": "milo2012",
+    "repotime": "2012-07-06, 16:22:49",
+    "stargazers_count": 26,
+    "watchers_count": 26
 }

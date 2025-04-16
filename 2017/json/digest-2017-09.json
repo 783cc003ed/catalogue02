@@ -1,4 +1,21 @@
 {
+    "commits_count": 0,
+    "date_started": "2017-09-30",
+    "date_updated": "2017-09-30",
+    "description": "Proudly serving for INDIAHitesh is one of the truenation man. So many times he has dedicated his skills of cyber expertise to army intelligence and police department. He also founded a session hijacking and authentication vulnerability in many major websites and got appreciated by “those sites and companies” for being a white hat hacker. One of his research work includes of BARCODE vulnerability in price tagging system and some attacks over wireless.Talks/seminars/presentations“best use of knowledge is to distribute” Hitesh has delivered many talks and lectures on various topics related to InfoSec education. People love to listen when he is on stage. If you are planning same, be specific with your time schedule due to the availabilityof Hitesh.",
+    "forks_count": 0,
+    "html_url": "https://github.com/hiteshchoudhary2610/Hitesh-Choudhary",
+    "keywords": [
+        "session hijacking attack"
+    ],
+    "language": null,
+    "repo_name": "Hitesh-Choudhary",
+    "repo_owner": "hiteshchoudhary2610",
+    "repotime": "2017-09-30, 16:37:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2,
     "date_started": "2017-09-30",
     "date_updated": "2017-09-30",
@@ -6,7 +23,8 @@
     "forks_count": 37,
     "html_url": "https://github.com/togie6/Windows-Privesc",
     "keywords": [
-        "Windows escalation of privileges"
+        "Windows escalation of privileges",
+        "Win escalation of privileges"
     ],
     "language": null,
     "repo_name": "Windows-Privesc",
@@ -50,6 +68,23 @@
     "watchers_count": 282
 }
 {
+    "commits_count": 499,
+    "date_started": "2015-01-22",
+    "date_updated": "2017-09-27",
+    "description": "<no description>",
+    "forks_count": 4,
+    "html_url": "https://github.com/martinmcallister/lfit_python",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfit_python",
+    "repo_owner": "martinmcallister",
+    "repotime": "2017-09-27, 15:00:55",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 11,
     "date_started": "2017-08-25",
     "date_updated": "2017-09-26",
@@ -71,7 +106,7 @@
     "date_started": "2013-03-06",
     "date_updated": "2017-09-26",
     "description": "Panoptic is an open source penetration testing tool that automates the process of search and retrieval of content for common log and config files through path traversal vulnerabilities.",
-    "forks_count": 78,
+    "forks_count": 75,
     "html_url": "https://github.com/lightos/Panoptic",
     "keywords": [
         "path traversal vulnerability"
@@ -80,15 +115,15 @@
     "repo_name": "Panoptic",
     "repo_owner": "lightos",
     "repotime": "2017-09-26, 20:43:56",
-    "stargazers_count": 306,
-    "watchers_count": 306
+    "stargazers_count": 314,
+    "watchers_count": 314
 }
 {
     "commits_count": 2,
     "date_started": "2017-09-26",
     "date_updated": "2017-09-26",
     "description": "macOS Cython IOKit Utility Library",
-    "forks_count": 11,
+    "forks_count": 12,
     "html_url": "https://github.com/FSecureLABS/coralsun",
     "keywords": [
         "by_owner"
@@ -97,8 +132,8 @@
     "repo_name": "coralsun",
     "repo_owner": "FSecureLABS",
     "repotime": "2017-09-26, 10:39:07",
-    "stargazers_count": 39,
-    "watchers_count": 39
+    "stargazers_count": 40,
+    "watchers_count": 40
 }
 {
     "commits_count": 15,
@@ -108,6 +143,7 @@
     "forks_count": 8,
     "html_url": "https://github.com/ysrc/PIL-RCE-By-GhostButt",
     "keywords": [
+        "rce exploitation",
         "rce vulnerability"
     ],
     "language": "Python",
@@ -156,7 +192,7 @@
     "date_started": "2016-08-28",
     "date_updated": "2017-09-22",
     "description": "Automatic SQL injection with Charles and sqlmap api",
-    "forks_count": 281,
+    "forks_count": 282,
     "html_url": "https://github.com/0xbug/SQLiScanner",
     "keywords": [
         "sql injection"
@@ -165,8 +201,8 @@
     "repo_name": "SQLiScanner",
     "repo_owner": "0xbug",
     "repotime": "2017-09-22, 12:37:50",
-    "stargazers_count": 795,
-    "watchers_count": 795
+    "stargazers_count": 801,
+    "watchers_count": 801
 }
 {
     "commits_count": 19,
@@ -176,7 +212,9 @@
     "forks_count": 6,
     "html_url": "https://github.com/homjxi0e/CVE-2017-8759_-SOAP_WSDL",
     "keywords": [
-        "Microsoft remote code execution vulnerability"
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution"
     ],
     "language": null,
     "repo_name": "CVE-2017-8759_-SOAP_WSDL",
@@ -216,8 +254,25 @@
     "repo_name": "DelayLoadInject",
     "repo_owner": "hatRiot",
     "repotime": "2017-09-20, 09:57:16",
-    "stargazers_count": 34,
-    "watchers_count": 34
+    "stargazers_count": 35,
+    "watchers_count": 35
+}
+{
+    "commits_count": 0,
+    "date_started": "2017-09-19",
+    "date_updated": "2017-09-19",
+    "description": "A blockchain based email system that removes vulnerability to spoofs.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Skillerz/bmail",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "bmail",
+    "repo_owner": "Skillerz",
+    "repotime": "2017-09-19, 10:30:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -244,14 +299,15 @@
     "forks_count": 43,
     "html_url": "https://github.com/MAVProxyUser/P0VsRedHerring",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation"
     ],
     "language": "Ruby",
     "repo_name": "P0VsRedHerring",
     "repo_owner": "MAVProxyUser",
     "repotime": "2017-09-13, 09:26:20",
-    "stargazers_count": 108,
-    "watchers_count": 108
+    "stargazers_count": 110,
+    "watchers_count": 110
 }
 {
     "commits_count": 1,
@@ -267,8 +323,8 @@
     "repo_name": "bot-lua",
     "repo_owner": "arashstar1",
     "repotime": "2017-09-11, 21:45:27",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 3,
@@ -278,7 +334,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/exploitcollection/-EXPLOIT-APACHE-STRUT-0DAY",
     "keywords": [
-        "0day exploitation"
+        "0day exploitation",
+        "0day exploit"
     ],
     "language": null,
     "repo_name": "-EXPLOIT-APACHE-STRUT-0DAY",
@@ -295,7 +352,8 @@
     "forks_count": 25,
     "html_url": "https://github.com/brianwrf/S2-053-CVE-2017-12611",
     "keywords": [
-        "rce exploitation"
+        "rce exploitation",
+        "rce exploit"
     ],
     "language": "Python",
     "repo_name": "S2-053-CVE-2017-12611",
@@ -303,6 +361,40 @@
     "repotime": "2017-09-08, 19:59:19",
     "stargazers_count": 36,
     "watchers_count": 36
+}
+{
+    "commits_count": 3,
+    "date_started": "2017-09-07",
+    "date_updated": "2017-09-07",
+    "description": "<no description>",
+    "forks_count": 6,
+    "html_url": "https://github.com/h4x0r-dz/Apache-Struts-2.5-RCE-Exploit",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Apache-Struts-2.5-RCE-Exploit",
+    "repo_owner": "h4x0r-dz",
+    "repotime": "2017-09-07, 08:58:00",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 7,
+    "date_started": "2016-08-03",
+    "date_updated": "2017-09-06",
+    "description": "多线程批量扫描ssrf漏洞",
+    "forks_count": 13,
+    "html_url": "https://github.com/bipabo1l/ssrf_scan",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "ssrf_scan",
+    "repo_owner": "bipabo1l",
+    "repotime": "2017-09-06, 22:37:41",
+    "stargazers_count": 27,
+    "watchers_count": 27
 }
 {
     "commits_count": 7,
@@ -360,7 +452,7 @@
     "date_started": "2015-05-14",
     "date_updated": "2017-09-04",
     "description": "One-off scripts",
-    "forks_count": 27,
+    "forks_count": 20,
     "html_url": "https://github.com/bluscreenofjeff/Scripts",
     "keywords": [
         "by_owner"
@@ -369,8 +461,8 @@
     "repo_name": "Scripts",
     "repo_owner": "bluscreenofjeff",
     "repotime": "2017-09-04, 16:39:01",
-    "stargazers_count": 49,
-    "watchers_count": 49
+    "stargazers_count": 50,
+    "watchers_count": 50
 }
 {
     "commits_count": 7,
@@ -380,7 +472,9 @@
     "forks_count": 1,
     "html_url": "https://github.com/NitescuLucian/nli-exploits",
     "keywords": [
-        "zero-day exploitation"
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "zero-day exploit"
     ],
     "language": "Python",
     "repo_name": "nli-exploits",

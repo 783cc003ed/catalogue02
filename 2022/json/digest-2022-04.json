@@ -16,6 +16,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 6,
+    "date_started": "2016-10-04",
+    "date_updated": "2022-04-29",
+    "description": "Native design files and source code for the model and sample disclosure forms in the CFPB's final rule on prepaid accounts.",
+    "forks_count": 9,
+    "html_url": "https://github.com/cfpb/prepaid-disclosure-files",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "HTML",
+    "repo_name": "prepaid-disclosure-files",
+    "repo_owner": "cfpb",
+    "repotime": "2022-04-29, 15:03:47",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 26,
     "date_started": "2022-04-15",
     "date_updated": "2022-04-27",
@@ -33,21 +50,39 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 0,
+    "date_started": "2022-04-27",
+    "date_updated": "2022-04-27",
+    "description": "OS X 10.11.6 LPE PoC for CVE-2016-4655 / CVE-2016-4656",
+    "forks_count": 0,
+    "html_url": "https://github.com/liangle1986126z/jndok",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": null,
+    "repo_name": "jndok",
+    "repo_owner": "liangle1986126z",
+    "repotime": "2022-04-27, 09:11:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 13,
     "date_started": "2022-04-20",
     "date_updated": "2022-04-27",
     "description": "WSO2 RCE (CVE-2022-29464) exploit and writeup.",
-    "forks_count": 93,
+    "forks_count": 90,
     "html_url": "https://github.com/hakivvi/CVE-2022-29464",
     "keywords": [
-        "rce exploit"
+        "rce exploit",
+        "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "CVE-2022-29464",
     "repo_owner": "hakivvi",
     "repotime": "2022-04-27, 05:52:43",
-    "stargazers_count": 366,
-    "watchers_count": 366
+    "stargazers_count": 371,
+    "watchers_count": 371
 }
 {
     "commits_count": 2,
@@ -67,6 +102,24 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 0,
+    "date_started": "2022-04-26",
+    "date_updated": "2022-04-26",
+    "description": "Everyone can understand the significance of a kitchen. After all, a house without a kitchen cannot be considered complete. An Indian housewife spends most of her time in the kitchen – her day starts in the kitchen and ends in the kitchen – and the entire family gets their basic life energy from food that is prepared in the kitchen. One can even say that the kitchen is the backbone of the house.  In earlier times, the kitchen was situated in an open space. This helped the kitchen access as much light as possible and made it easier to dispel smoke rising from the stove. Today, most of us have closed kitchens. Hence, it is essential to create a vaastu friendly kitchen that fulfils the requirement for a place that takes care of our physical, emotional and biological needs.  1. The kitchen should, ideally, be located between the southern and eastern directions, i.e. in the southeast direction of the plot. Kitchens situated in the northeastern direction may result in heavy losses for the fam...",
+    "forks_count": 0,
+    "html_url": "https://github.com/DrPuneetChawla/vastu-for-kicthen-",
+    "keywords": [
+        "Windows use after free",
+        "use after free dos"
+    ],
+    "language": null,
+    "repo_name": "vastu-for-kicthen-",
+    "repo_owner": "DrPuneetChawla",
+    "repotime": "2022-04-26, 11:47:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2,
     "date_started": "2022-04-26",
     "date_updated": "2022-04-26",
@@ -74,14 +127,15 @@
     "forks_count": 7,
     "html_url": "https://github.com/theVulnerableMMII/oSkan",
     "keywords": [
+        "lfi",
         "rce vulnerability"
     ],
     "language": "Shell",
     "repo_name": "oSkan",
     "repo_owner": "theVulnerableMMII",
     "repotime": "2022-04-26, 11:46:32",
-    "stargazers_count": 22,
-    "watchers_count": 22
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 2,
@@ -108,6 +162,7 @@
     "forks_count": 5,
     "html_url": "https://github.com/UNDESC0N0CID0/CVE-2022-26809-RCE",
     "keywords": [
+        "rce poc",
         "remote code execution poc"
     ],
     "language": "Python",
@@ -125,21 +180,22 @@
     "forks_count": 14,
     "html_url": "https://github.com/Wh04m1001/ZoneAlarmLPE",
     "keywords": [
-        "lpe exploit"
+        "lpe exploit",
+        "lpe exploitation"
     ],
     "language": "C++",
     "repo_name": "ZoneAlarmLPE",
     "repo_owner": "Wh04m1001",
     "repotime": "2022-04-25, 22:24:52",
-    "stargazers_count": 31,
-    "watchers_count": 31
+    "stargazers_count": 32,
+    "watchers_count": 32
 }
 {
     "commits_count": 153,
     "date_started": "2014-06-23",
     "date_updated": "2022-04-25",
     "description": "XSS spider - 66/66 wavsep XSS detected",
-    "forks_count": 439,
+    "forks_count": 446,
     "html_url": "https://github.com/DanMcInerney/xsscrapy",
     "keywords": [
         "xss"
@@ -148,8 +204,25 @@
     "repo_name": "xsscrapy",
     "repo_owner": "DanMcInerney",
     "repotime": "2022-04-25, 12:15:45",
-    "stargazers_count": 1648,
-    "watchers_count": 1648
+    "stargazers_count": 1696,
+    "watchers_count": 1696
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-04-25",
+    "date_updated": "2022-04-25",
+    "description": "A large technology say they've been hacked! Luckily their forensic engineers have grabbed valuable data about the hacks, including information like session time,locations, wpm typing speed, etc. The forensic engineer relates to you what she has been able to figure out so far, she has been able to grab meta data of each session that the hackers used to connect to their servers. The technology firm has 3 potential hackers that perpetrated the attack. Their certain of the first two hackers but they aren't very sure if the third hacker was involved or not.Using the tool of Pyspark   with help of KMeans we are building two Clusters one with k=2 and one with k=3 .After the deployment it is proved that in k=2 the group of hackers(predictions) are even so the number of hackers are two.",
+    "forks_count": 0,
+    "html_url": "https://github.com/liakos1607/KMeans-Clustering-Find-The-Number-of-Hackers",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "KMeans-Clustering-Find-The-Number-of-Hackers",
+    "repo_owner": "liakos1607",
+    "repotime": "2022-04-25, 12:09:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -176,14 +249,16 @@
     "forks_count": 24,
     "html_url": "https://github.com/0vercl0k/zenith",
     "keywords": [
-        "remote code execution exploit"
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability"
     ],
     "language": "Python",
     "repo_name": "zenith",
     "repo_owner": "0vercl0k",
     "repotime": "2022-04-24, 17:57:39",
-    "stargazers_count": 121,
-    "watchers_count": 121
+    "stargazers_count": 127,
+    "watchers_count": 127
 }
 {
     "commits_count": 17,
@@ -193,7 +268,10 @@
     "forks_count": 6,
     "html_url": "https://github.com/hakivvi/proxylogon",
     "keywords": [
-        "Microsoft rce"
+        "Microsoft rce exploitation",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "proxylogon",
@@ -220,6 +298,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 4,
+    "date_started": "2022-04-22",
+    "date_updated": "2022-04-23",
+    "description": " Repository containing nse script for vulnerability CVE-2022-29464 known as WSO2 RCE.",
+    "forks_count": 3,
+    "html_url": "https://github.com/gpiechnik2/nmap-CVE-2022-29464",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Lua",
+    "repo_name": "nmap-CVE-2022-29464",
+    "repo_owner": "gpiechnik2",
+    "repotime": "2022-04-23, 00:38:25",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 6,
     "date_started": "2022-04-15",
     "date_updated": "2022-04-22",
@@ -233,8 +328,8 @@
     "repo_name": "CVE-2022-1329-WordPress-Elementor-3.6.0-3.6.1-3.6.2-Remote-Code-Execution-Exploit",
     "repo_owner": "AkuCyberSec",
     "repotime": "2022-04-22, 19:55:37",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 23,
@@ -272,13 +367,40 @@
 }
 {
     "commits_count": 2,
+    "date_started": "2022-04-22",
+    "date_updated": "2022-04-22",
+    "description": "&amp;&#35;35; Liberty House Club **A Parallel Binance Chain to Enable Smart Contracts**  _NOTE: This document is under development. Please check regularly for updates!_  &amp;&#35;35;&amp;&#35;35; Table of Contents - [Motivation](&amp;&#35;35;motivation) - [Design Principles](&amp;&#35;35;design-principles) - [Consensus and Validator Quorum](&amp;&#35;35;consensus-and-validator-quorum)   * [Proof of Staked Authority](&amp;&#35;35;proof-of-staked-authority)   * [Validator Quorum](&amp;&#35;35;validator-quorum)   * [Security and Finality](&amp;&#35;35;security-and-finality)   * [Reward](&amp;&#35;35;reward) - [Token Economy](&amp;&#35;35;token-economy)   * [Native Token](&amp;&#35;35;native-token)   * [Other Tokens](&amp;&#35;35;other-tokens) - [Cross-Chain Transfer and Communication](&amp;&#35;35;cross-chain-transfer-and-communication)   * [Cross-Chain Transfer](&amp;&#35;35;cross-chain-transfer)   * [BC to BSC Architecture](&amp;&#35;35;bc-to-bsc-architecture)   * [BSC to BC Architecture](&amp;&#35;35;bsc-to-bc-architecture)   * [Timeout and Error Handling](&amp;&#35;35;timeout-and-error-handling)   * [Cross-Chain User Experie...",
+    "forks_count": 4,
+    "html_url": "https://github.com/realbeeed/Liberty-House-Club-Whitepaper",
+    "keywords": [
+        "Win use after free",
+        "Win use after free proof of concept",
+        "zero-day proof of concept",
+        "use after free proof of concept",
+        "Win zero-day",
+        "Win zero-day proof of concept"
+    ],
+    "language": null,
+    "repo_name": "Liberty-House-Club-Whitepaper",
+    "repo_owner": "realbeeed",
+    "repotime": "2022-04-22, 09:27:24",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
     "date_started": "2022-07-12",
     "date_updated": "2022-04-22",
     "description": "&amp;&#35;35; Liberty House Club **A Parallel Binance Chain to Enable Smart Contracts**  _NOTE: This document is under development. Please check regularly for updates!_  &amp;&#35;35;&amp;&#35;35; Table of Contents - [Motivation](&amp;&#35;35;motivation) - [Design Principles](&amp;&#35;35;design-principles) - [Consensus and Validator Quorum](&amp;&#35;35;consensus-and-validator-quorum)   * [Proof of Staked Authority](&amp;&#35;35;proof-of-staked-authority)   * [Validator Quorum](&amp;&#35;35;validator-quorum)   * [Security and Finality](&amp;&#35;35;security-and-finality)   * [Reward](&amp;&#35;35;reward) - [Token Economy](&amp;&#35;35;token-economy)   * [Native Token](&amp;&#35;35;native-token)   * [Other Tokens](&amp;&#35;35;other-tokens) - [Cross-Chain Transfer and Communication](&amp;&#35;35;cross-chain-transfer-and-communication)   * [Cross-Chain Transfer](&amp;&#35;35;cross-chain-transfer)   * [BC to BSC Architecture](&amp;&#35;35;bc-to-bsc-architecture)   * [BSC to BC Architecture](&amp;&#35;35;bsc-to-bc-architecture)   * [Timeout and Error Handling](&amp;&#35;35;timeout-and-error-handling)   * [Cross-Chain User Experie...",
     "forks_count": 5,
     "html_url": "https://github.com/Mdshobu/Liberty-House-Club-Whitepaper",
     "keywords": [
-        "Win use after free"
+        "Win use after free proof of concept",
+        "zero-day proof of concept",
+        "Win zero-day proof of concept",
+        "use after free proof of concept",
+        "Win use after free",
+        "Win zero-day"
     ],
     "language": null,
     "repo_name": "Liberty-House-Club-Whitepaper",
@@ -286,6 +408,24 @@
     "repotime": "2022-04-22, 09:27:24",
     "stargazers_count": 16,
     "watchers_count": 16
+}
+{
+    "commits_count": 18,
+    "date_started": "2022-03-22",
+    "date_updated": "2022-04-22",
+    "description": "Deployement of Webmin version 1.984 which is vulnerable to authenticated remote code execution exploit.",
+    "forks_count": 0,
+    "html_url": "https://github.com/honypot/CVE-2022-0824",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution exploitation"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "CVE-2022-0824",
+    "repo_owner": "honypot",
+    "repotime": "2022-04-22, 15:17:44",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 5,
@@ -326,7 +466,7 @@
     "date_started": "2022-04-21",
     "date_updated": "2022-04-21",
     "description": "Code used in this post https://captmeelo.com/redteam/maldev/2022/04/21/kernelcallbacktable-injection.html",
-    "forks_count": 26,
+    "forks_count": 27,
     "html_url": "https://github.com/capt-meelo/KernelCallbackTable-Injection",
     "keywords": [
         "code injection"
@@ -335,8 +475,8 @@
     "repo_name": "KernelCallbackTable-Injection",
     "repo_owner": "capt-meelo",
     "repotime": "2022-04-21, 19:26:09",
-    "stargazers_count": 97,
-    "watchers_count": 97
+    "stargazers_count": 122,
+    "watchers_count": 122
 }
 {
     "commits_count": 2,
@@ -346,6 +486,7 @@
     "forks_count": 42,
     "html_url": "https://github.com/HackerUSA-CE/CS-SQL-Injection-Demo",
     "keywords": [
+        "sql injection",
         "code injection"
     ],
     "language": "JavaScript",
@@ -363,7 +504,9 @@
     "forks_count": 0,
     "html_url": "https://github.com/RajaRamPriyadarshi/Red-Wine-Analysis",
     "keywords": [
-        "Win use after free"
+        "Win use after free",
+        "use after free analysis",
+        "Win use after free analysis"
     ],
     "language": "Jupyter Notebook",
     "repo_name": "Red-Wine-Analysis",
@@ -380,7 +523,9 @@
     "forks_count": 0,
     "html_url": "https://github.com/sentinelblue/CVE-2022-29072",
     "keywords": [
-        "escalation of privileges vulnerability"
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges"
     ],
     "language": "PowerShell",
     "repo_name": "CVE-2022-29072",
@@ -403,8 +548,8 @@
     "repo_name": "rcea",
     "repo_owner": "hesim-dev",
     "repotime": "2022-04-19, 18:21:04",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 21,
+    "watchers_count": 21
 }
 {
     "commits_count": 10,
@@ -414,6 +559,7 @@
     "forks_count": 3,
     "html_url": "https://github.com/websecnl/CVE-2022-26809",
     "keywords": [
+        "remote code execution exploitation",
         "remote code execution exploit"
     ],
     "language": "Python",
@@ -424,6 +570,91 @@
     "watchers_count": 26
 }
 {
+    "commits_count": 43,
+    "date_started": "2022-03-31",
+    "date_updated": "2022-04-19",
+    "description": "Vulnerabilidad RCE en Spring Framework vía Data Binding on JDK 9+ (CVE-2022-22965 aka &amp;quot;Spring4Shell&amp;quot;)",
+    "forks_count": 3,
+    "html_url": "https://github.com/GuayoyoCyber/CVE-2022-22965",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-22965",
+    "repo_owner": "GuayoyoCyber",
+    "repotime": "2022-04-19, 12:05:47",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-04-12",
+    "date_updated": "2022-04-19",
+    "description": "A mod that allows you to load Minecraft session ID tokens and a description of why this is bad",
+    "forks_count": 4,
+    "html_url": "https://github.com/mindlesslydev/MinecraftSessionVulnerability",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "MinecraftSessionVulnerability",
+    "repo_owner": "mindlesslydev",
+    "repotime": "2022-04-19, 10:05:28",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-11-07",
+    "date_updated": "2022-04-19",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/MindIessIydev/MinecraftSessionVulnerability",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "MinecraftSessionVulnerability",
+    "repo_owner": "MindIessIydev",
+    "repotime": "2022-04-19, 10:05:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-04-19",
+    "date_updated": "2022-04-19",
+    "description": "Create a spring vulnerability test to see if it can withstand the new vulnerability called Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Shakeel-Nordien/spring-vulnerability-test",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "spring-vulnerability-test",
+    "repo_owner": "Shakeel-Nordien",
+    "repotime": "2022-04-19, 08:38:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-04-18",
+    "date_updated": "2022-04-18",
+    "description": "exploit of Minecraft zero day vulnerablity",
+    "forks_count": 0,
+    "html_url": "https://github.com/PilaFFF/atack",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "atack",
+    "repo_owner": "PilaFFF",
+    "repotime": "2022-04-18, 12:57:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 1,
     "date_started": "2022-04-18",
     "date_updated": "2022-04-18",
@@ -431,7 +662,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/momika233/cve-2021-22205-GitLab-13.10.2---Remote-Code-Execution-RCE-Unauthenticated-",
     "keywords": [
-        "unauthenticated rce"
+        "unauthenticated rce",
+        "unauthenticated remote code execution"
     ],
     "language": null,
     "repo_name": "cve-2021-22205-GitLab-13.10.2---Remote-Code-Execution-RCE-Unauthenticated-",
@@ -448,7 +680,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/sherlocksecurity/Microsoft-CVE-2022-26809-The-Little-Boy",
     "keywords": [
-        "Microsoft rce poc"
+        "Microsoft rce poc",
+        "Microsoft rce"
     ],
     "language": null,
     "repo_name": "Microsoft-CVE-2022-26809-The-Little-Boy",
@@ -456,6 +689,40 @@
     "repotime": "2022-04-18, 08:58:10",
     "stargazers_count": 20,
     "watchers_count": 20
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-04-17",
+    "date_updated": "2022-04-18",
+    "description": "PoC for CVE-2021-28476 a guest-to-host &amp;quot;Hyper-V Remote Code Execution Vulnerability&amp;quot; in vmswitch.sys.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dengyang123x/0vercl0k",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": null,
+    "repo_name": "0vercl0k",
+    "repo_owner": "dengyang123x",
+    "repotime": "2022-04-18, 02:00:50",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-04-17",
+    "date_updated": "2022-04-16",
+    "description": "WordPress Elementor 3.6.0 3.6.1 3.6.2 RCE POC",
+    "forks_count": 8,
+    "html_url": "https://github.com/mcdulltii/CVE-2022-1329",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-1329",
+    "repo_owner": "mcdulltii",
+    "repotime": "2022-04-16, 22:53:49",
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 12,
@@ -482,6 +749,7 @@
     "forks_count": 1,
     "html_url": "https://github.com/gpiechnik2/nmap-CVE-2022-21907",
     "keywords": [
+        "Windows remote code execution vulnerability",
         "Windows remote code execution"
     ],
     "language": "Lua",
@@ -490,6 +758,76 @@
     "repotime": "2022-04-16, 16:31:31",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 729,
+    "date_started": "2017-06-09",
+    "date_updated": "2022-04-16",
+    "description": "https://51pwn.com,Awesome Penetration Testing，hacker tools collection, metasploit exploit, meterpreter....struts2、weblogic, 0day,poc,apt,backdoor,VulApps,vuln,pentest-script",
+    "forks_count": 11,
+    "html_url": "https://github.com/hktalent/myhktools",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day poc"
+    ],
+    "language": "Java",
+    "repo_name": "myhktools",
+    "repo_owner": "hktalent",
+    "repotime": "2022-04-16, 00:32:21",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 107,
+    "date_started": "2022-03-13",
+    "date_updated": "2022-04-15",
+    "description": "A powerful reverse shell generator",
+    "forks_count": 14,
+    "html_url": "https://github.com/FlyfishSec/rcX",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "rcX",
+    "repo_owner": "FlyfishSec",
+    "repotime": "2022-04-15, 23:46:21",
+    "stargazers_count": 39,
+    "watchers_count": 39
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-08",
+    "date_updated": "2022-04-15",
+    "description": "Unrestricted upload of file with dangerous type in Aviatrix allows an authenticated user to execute arbitrary code",
+    "forks_count": 2,
+    "html_url": "https://github.com/JoyGhoshs/CVE-2021-40870",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-40870",
+    "repo_owner": "JoyGhoshs",
+    "repotime": "2022-04-15, 06:06:50",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-04-15",
+    "date_updated": "2022-04-15",
+    "description": "Git is a free, open source, distributed version control system used for managing code on small, medium and large projects.  GitHub is a web-based Git hosting service.  It is mostly used for computer code, and is used by software development professionals not just for code management, but for archival and sharing of code and projects amongst each other, and for potential clients/employers to see.  Use of GitHub is an extremely common way for software developers to internetwork as well.  Learning about and using GitHub (or, perhaps, similar tools) will be a key part of your software development career.  For this second step in completing your Final Project, you'll need to:  Submit what you've completed so far with the zip folder of your project. Create a document of your project, what you have completed, what problem you have, and what is your next step. Create a GitHub repository to upload your final project. Please visit the website https://github.com/ (Links to an external site.) to g...",
+    "forks_count": 1,
+    "html_url": "https://github.com/Liulseged/M06-Project-Introduction-and-Project-Status-Report-II",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "Python",
+    "repo_name": "M06-Project-Introduction-and-Project-Status-Report-II",
+    "repo_owner": "Liulseged",
+    "repotime": "2022-04-15, 00:56:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 7,
@@ -513,24 +851,26 @@
     "date_started": "2019-12-12",
     "date_updated": "2022-04-14",
     "description": "RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX.",
-    "forks_count": 85,
+    "forks_count": 84,
     "html_url": "https://github.com/noperator/CVE-2019-18935",
     "keywords": [
-        "rce exploit"
+        "rce exploit",
+        "rce exploitation",
+        "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2019-18935",
     "repo_owner": "noperator",
     "repotime": "2022-04-14, 14:23:38",
-    "stargazers_count": 345,
-    "watchers_count": 345
+    "stargazers_count": 353,
+    "watchers_count": 353
 }
 {
     "commits_count": 139,
     "date_started": "2012-07-09",
     "date_updated": "2022-04-14",
     "description": "A collection of web pages vulnerable to SQL injection flaws",
-    "forks_count": 130,
+    "forks_count": 129,
     "html_url": "https://github.com/sqlmapproject/testenv",
     "keywords": [
         "sql injection"
@@ -539,8 +879,42 @@
     "repo_name": "testenv",
     "repo_owner": "sqlmapproject",
     "repotime": "2022-04-14, 11:05:57",
-    "stargazers_count": 342,
-    "watchers_count": 342
+    "stargazers_count": 348,
+    "watchers_count": 348
+}
+{
+    "commits_count": 281,
+    "date_started": "2014-03-13",
+    "date_updated": "2022-04-14",
+    "description": "(UNMAINTAINED) Proof of Concept Third Party Web Engine using Crosswalk",
+    "forks_count": 454,
+    "html_url": "https://github.com/infil00p/cordova-crosswalk-engine",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Java",
+    "repo_name": "cordova-crosswalk-engine",
+    "repo_owner": "infil00p",
+    "repotime": "2022-04-14, 08:16:10",
+    "stargazers_count": 47,
+    "watchers_count": 47
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-04-14",
+    "date_updated": "2022-04-14",
+    "description": "HackSys Extreme Vulnerable Driver - Windows 10 x64 StackOverflow Exploit with SMEP Bypass",
+    "forks_count": 0,
+    "html_url": "https://github.com/Swagger-Rangerr/Cn33lizw",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": null,
+    "repo_name": "Cn33lizw",
+    "repo_owner": "Swagger-Rangerr",
+    "repotime": "2022-04-14, 04:52:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -567,6 +941,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/smoelius/safe_path",
     "keywords": [
+        "directory traversal attack",
         "path traversal attack"
     ],
     "language": "Rust",
@@ -575,6 +950,23 @@
     "repotime": "2022-04-13, 21:52:41",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-04-13",
+    "date_updated": "2022-04-14",
+    "description": "* problem:we are going to predict the outcome of a specific speed dating session based on the profile of two people and their information. * input:for train process 192 columns  191 training and 1 target values (match). * output:y_hat for Match, we will prediction if the two person  will match or not. * data mining function: Classification * the challenges: feature selection choise the feature. * the impact: there many steps for cleaning and ideas  * an ideal solution: drop all column have many null values.",
+    "forks_count": 0,
+    "html_url": "https://github.com/karimankarmgabaa/Speed-Dating-Match-Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Speed-Dating-Match-Prediction",
+    "repo_owner": "karimankarmgabaa",
+    "repotime": "2022-04-14, 00:18:26",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 8,
@@ -611,6 +1003,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 6,
+    "date_started": "2022-04-11",
+    "date_updated": "2022-04-13",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Harikrishnan2904/directory-traversal-attack",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "directory-traversal-attack",
+    "repo_owner": "Harikrishnan2904",
+    "repotime": "2022-04-13, 11:12:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2,
     "date_started": "2022-04-13",
     "date_updated": "2022-04-13",
@@ -632,7 +1041,7 @@
     "date_started": "2022-04-09",
     "date_updated": "2022-04-12",
     "description": "Nginx 18.1 04/09/22 zero-day repo",
-    "forks_count": 34,
+    "forks_count": 32,
     "html_url": "https://github.com/AgainstTheWest/NginxDay",
     "keywords": [
         "zero-day exploit"
@@ -641,8 +1050,25 @@
     "repo_name": "NginxDay",
     "repo_owner": "AgainstTheWest",
     "repotime": "2022-04-12, 11:16:00",
-    "stargazers_count": 368,
-    "watchers_count": 368
+    "stargazers_count": 372,
+    "watchers_count": 372
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-03-02",
+    "date_updated": "2022-04-12",
+    "description": "This repository contains exploit and reverse-engineering source code regarding the Spectre-BHB/Branch History Injection vulnerability",
+    "forks_count": 17,
+    "html_url": "https://github.com/vusec/bhi-spectre-bhb",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "bhi-spectre-bhb",
+    "repo_owner": "vusec",
+    "repotime": "2022-04-12, 11:13:22",
+    "stargazers_count": 101,
+    "watchers_count": 101
 }
 {
     "commits_count": 3,
@@ -652,7 +1078,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/antx-code/CVE-2022-24990",
     "keywords": [
-        "unauthenticated rce"
+        "unauthenticated rce",
+        "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2022-24990",
@@ -662,6 +1089,23 @@
     "watchers_count": 3
 }
 {
+    "commits_count": 21,
+    "date_started": "2022-03-26",
+    "date_updated": "2022-04-11",
+    "description": "The Shop API is an e-commerce application built with express.js, node.js and React.Js, and MongoDB, for online product sales. The app provides authenticated and unauthenticated users with a catalog of available products to purchase. Before placing an order, users need to add all the products they want to purchase to a shopping cart. After that, the user can proceed with placing an order which if successfully processed, returns a session id to the client. It is worthy to note that each user can have only one cart that becomes empty after placing an order. To create a product, you must have dealer privilege access because only dealers have permission to perform this action.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nasa28/Enigma-Shop-React",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Enigma-Shop-React",
+    "repo_owner": "Nasa28",
+    "repotime": "2022-04-11, 21:09:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 3,
     "date_started": "2022-04-11",
     "date_updated": "2022-04-11",
@@ -669,7 +1113,9 @@
     "forks_count": 0,
     "html_url": "https://github.com/xerosic/leidenfrost",
     "keywords": [
-        "lpe exploit"
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe"
     ],
     "language": "C++",
     "repo_name": "leidenfrost",
@@ -679,6 +1125,23 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 4,
+    "date_started": "2022-04-11",
+    "date_updated": "2022-04-11",
+    "description": "This bypasses the Anti-DisplayDepth functions on Zombi.exe",
+    "forks_count": 0,
+    "html_url": "https://github.com/i64-sudo/ZombiU_Zombi_DisplayDepthBypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "HLSL",
+    "repo_name": "ZombiU_Zombi_DisplayDepthBypass",
+    "repo_owner": "i64-sudo",
+    "repotime": "2022-04-11, 00:34:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2,
     "date_started": "2022-04-11",
     "date_updated": "2022-04-11",
@@ -686,6 +1149,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/AgainstTheWest/C2Break",
     "keywords": [
+        "zero-day exploitation",
         "zero-day exploit"
     ],
     "language": null,
@@ -720,14 +1184,45 @@
     "forks_count": 3,
     "html_url": "https://github.com/ajay04323/cpanel_CPSP",
     "keywords": [
-        "Chrome use after free"
+        "Apple Mail mail use after free exploitation",
+        "Chrome use after free exploitation",
+        "Windows use after free",
+        "Apple Mail webmail use after free exploitation",
+        "Microsoft use after free exploitation",
+        "Windows use after free exploit",
+        "use after free exploitation",
+        "Chrome use after free exploit",
+        "Microsoft use after free exploit",
+        "Windows use after free exploitation",
+        "Microsoft use after free",
+        "Chrome use after free",
+        "Apple Mail webmail use after free exploit",
+        "Apple Mail mail use after free exploit",
+        "use after free exploit"
     ],
     "language": null,
     "repo_name": "cpanel_CPSP",
     "repo_owner": "ajay04323",
     "repotime": "2022-04-09, 18:25:54",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 14,
+    "date_started": "2022-04-03",
+    "date_updated": "2022-04-08",
+    "description": "Nmap Spring4Shell NSE script for Spring Boot RCE (CVE-2022-22965) ",
+    "forks_count": 4,
+    "html_url": "https://github.com/gpiechnik2/nmap-spring4shell",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Lua",
+    "repo_name": "nmap-spring4shell",
+    "repo_owner": "gpiechnik2",
+    "repotime": "2022-04-08, 21:24:41",
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 2,
@@ -737,6 +1232,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/suhasks123/vulnerable-web-server",
     "keywords": [
+        "path traversal vulnerability",
         "path traversal attack"
     ],
     "language": "JavaScript",
@@ -764,6 +1260,40 @@
     "watchers_count": 657
 }
 {
+    "commits_count": 0,
+    "date_started": "2022-04-07",
+    "date_updated": "2022-04-07",
+    "description": "HackSys Extreme Vulnerable Driver - Windows 10 x64 StackOverflow Exploit with SMEP Bypass",
+    "forks_count": 0,
+    "html_url": "https://github.com/fs1850857812008/Cn33lizw",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": null,
+    "repo_name": "Cn33lizw",
+    "repo_owner": "fs1850857812008",
+    "repotime": "2022-04-07, 13:36:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-04-07",
+    "date_updated": "2022-04-07",
+    "description": "Self-Storage in Dubai  It is often hard to find superior, modern, climatically controlled, affordable storage units or warehouses in Dubai. We pick up items from your doorstep. We store your items safely. And when you need them, we bring them back. Self-storage Dubai is the most affordable provider of storage facilities in Dubai. The cheapest and most flexible storage solutions in the UAE. Sizes start from 25 Sq Ft. Store your personal and business assets in a secure and environmentally controlled storage company in Dubai. Self Storage is a fast-growing company for rent in Dubai. That offers storage services, self-storage services, Warehousing Services, and office services. Career and employment options have changed dramatically in recent times. Today more and more people are choosing to work as freelancers or self-employed business owners instead of paid employees when given the opportunity. The growth of this new workforce has increased the number of people using storage units. Here ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/AqsaImran00/Self-Storage-in-Dubai",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": null,
+    "repo_name": "Self-Storage-in-Dubai",
+    "repo_owner": "AqsaImran00",
+    "repotime": "2022-04-07, 08:46:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 3,
     "date_started": "2022-03-26",
     "date_updated": "2022-04-06",
@@ -788,6 +1318,10 @@
     "forks_count": 0,
     "html_url": "https://github.com/kh0rvus/powershell-infect",
     "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges",
         "escalation of privileges exploit"
     ],
     "language": "PowerShell",
@@ -832,6 +1366,24 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 1,
+    "date_started": "2022-04-06",
+    "date_updated": "2022-04-06",
+    "description": "Development of a proof of concept to simulate an API with performance problems.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lucasnsants/poc-memory-leak",
+    "keywords": [
+        "memory leak proof of concept",
+        "memory leak poc"
+    ],
+    "language": null,
+    "repo_name": "poc-memory-leak",
+    "repo_owner": "lucasnsants",
+    "repotime": "2022-04-06, 09:17:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 3,
     "date_started": "2022-04-06",
     "date_updated": "2022-04-06",
@@ -839,7 +1391,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/satoki/the-thor_vulnerability",
     "keywords": [
-        "0day poc"
+        "0day poc",
+        "0day vulnerability"
     ],
     "language": null,
     "repo_name": "the-thor_vulnerability",
@@ -853,7 +1406,7 @@
     "date_started": "2020-02-20",
     "date_updated": "2022-04-06",
     "description": "DLL injection &amp;amp; Code injection &amp;amp; Function Hook &amp;amp; IAT Hook",
-    "forks_count": 27,
+    "forks_count": 30,
     "html_url": "https://github.com/iTruth/cheatlib",
     "keywords": [
         "code injection"
@@ -864,6 +1417,23 @@
     "repotime": "2022-04-06, 13:03:44",
     "stargazers_count": 62,
     "watchers_count": 62
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-03-31",
+    "date_updated": "2022-04-06",
+    "description": "Spring Framework RCE (Quick pentest notes)",
+    "forks_count": 7,
+    "html_url": "https://github.com/alt3kx/CVE-2022-22965_PoC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-22965_PoC",
+    "repo_owner": "alt3kx",
+    "repotime": "2022-04-06, 03:02:17",
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 3,
@@ -879,6 +1449,23 @@
     "repo_name": "RandomGameWinner",
     "repo_owner": "Frankozoalor",
     "repotime": "2022-04-05, 08:47:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-11-18",
+    "date_updated": "2022-04-05",
+    "description": "The personal data disclosure form template and related tools/scripts",
+    "forks_count": 8,
+    "html_url": "https://github.com/folio-org/personal-data-disclosure",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": null,
+    "repo_name": "personal-data-disclosure",
+    "repo_owner": "folio-org",
+    "repotime": "2022-04-05, 15:10:08",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -907,14 +1494,15 @@
     "forks_count": 36,
     "html_url": "https://github.com/tweedge/springcore-0day-en",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation"
     ],
     "language": "Python",
     "repo_name": "springcore-0day-en",
     "repo_owner": "tweedge",
     "repotime": "2022-04-04, 20:33:00",
-    "stargazers_count": 106,
-    "watchers_count": 106
+    "stargazers_count": 107,
+    "watchers_count": 107
 }
 {
     "commits_count": 2,
@@ -924,7 +1512,8 @@
     "forks_count": 5,
     "html_url": "https://github.com/Leovalcante/spring4shell",
     "keywords": [
-        "rce exploitation"
+        "rce exploitation",
+        "rce exploit"
     ],
     "language": "Python",
     "repo_name": "spring4shell",
@@ -951,6 +1540,24 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 0,
+    "date_started": "2022-04-03",
+    "date_updated": "2022-04-03",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/h4ckti/Log4jRCE-ExploitWindows",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": null,
+    "repo_name": "Log4jRCE-ExploitWindows",
+    "repo_owner": "h4ckti",
+    "repotime": "2022-04-03, 17:04:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 3,
     "date_started": "2022-04-03",
     "date_updated": "2022-04-03",
@@ -968,21 +1575,56 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 39,
+    "date_started": "2022-02-24",
+    "date_updated": "2022-04-03",
+    "description": "A simple snippetbox project like gist for creating snippets for authenticated users and show for both authenticated and unauthenticated users",
+    "forks_count": 0,
+    "html_url": "https://github.com/nathanmbicho/snippet-box",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Go",
+    "repo_name": "snippet-box",
+    "repo_owner": "nathanmbicho",
+    "repotime": "2022-04-03, 08:05:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2022-04-01",
+    "date_updated": "2022-04-02",
+    "description": "collection poc use pocsuite framework",
+    "forks_count": 1,
+    "html_url": "https://github.com/n11dc0la/PocSuite_POC",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "Python",
+    "repo_name": "PocSuite_POC",
+    "repo_owner": "n11dc0la",
+    "repotime": "2022-04-02, 15:09:42",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 6,
     "date_started": "2022-03-29",
     "date_updated": "2022-04-01",
     "description": "golang RCE 0day POC",
-    "forks_count": 15,
+    "forks_count": 9,
     "html_url": "https://github.com/hktalent/golang-RCE-0day-POC",
     "keywords": [
+        "rce poc",
         "0day poc"
     ],
     "language": null,
     "repo_name": "golang-RCE-0day-POC",
     "repo_owner": "hktalent",
     "repotime": "2022-04-01, 21:48:05",
-    "stargazers_count": 71,
-    "watchers_count": 71
+    "stargazers_count": 73,
+    "watchers_count": 73
 }
 {
     "commits_count": 5,
@@ -1034,4 +1676,38 @@
     "repotime": "2022-04-01, 03:23:31",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-04-01",
+    "date_updated": "2022-04-01",
+    "description": "we are going to predict the outcome of a specific speed dating session based on the profile of two people, so we can implement a recommendation system to better match people in speed dating events",
+    "forks_count": 0,
+    "html_url": "https://github.com/sondosm2/Speed-Dating-Match-Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Speed-Dating-Match-Prediction",
+    "repo_owner": "sondosm2",
+    "repotime": "2022-04-01, 02:14:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-03-31",
+    "date_updated": "2022-04-01",
+    "description": "This includes CVE-2022-22963, a Spring SpEL / Expression Resource Access Vulnerability, as well as CVE-2022-22965, the spring-webmvc/spring-webflux RCE termed &amp;quot;SpringShell&amp;quot;.",
+    "forks_count": 7,
+    "html_url": "https://github.com/kh4sh3i/Spring-CVE",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Spring-CVE",
+    "repo_owner": "kh4sh3i",
+    "repotime": "2022-04-01, 01:28:54",
+    "stargazers_count": 14,
+    "watchers_count": 14
 }

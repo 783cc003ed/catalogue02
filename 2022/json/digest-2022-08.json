@@ -1,4 +1,21 @@
 {
+    "commits_count": 3,
+    "date_started": "2021-08-16",
+    "date_updated": "2022-08-31",
+    "description": "A list of Department of Defense Endpoints to check for DoD VDP (Vulnerability Disclosure Program)",
+    "forks_count": 11,
+    "html_url": "https://github.com/jonathandata1/departmentofdefense",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": null,
+    "repo_name": "departmentofdefense",
+    "repo_owner": "jonathandata1",
+    "repotime": "2022-08-31, 13:33:18",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
     "commits_count": 11,
     "date_started": "2022-07-06",
     "date_updated": "2022-08-31",
@@ -6,14 +23,15 @@
     "forks_count": 5,
     "html_url": "https://github.com/R3LI4NT/LFIscanner",
     "keywords": [
+        "local file inclusion",
         "lfi"
     ],
     "language": "Python",
     "repo_name": "LFIscanner",
     "repo_owner": "R3LI4NT",
     "repotime": "2022-08-31, 00:53:22",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 7,
@@ -46,8 +64,8 @@
     "repo_name": "SharpElevator",
     "repo_owner": "eladshamir",
     "repotime": "2022-08-30, 10:32:02",
-    "stargazers_count": 47,
-    "watchers_count": 47
+    "stargazers_count": 51,
+    "watchers_count": 51
 }
 {
     "commits_count": 2,
@@ -67,21 +85,90 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 10,
+    "date_started": "2021-10-08",
+    "date_updated": "2022-08-30",
+    "description": "Apache 2.4.50 Path traversal vulnerability",
+    "forks_count": 4,
+    "html_url": "https://github.com/Vulnmachines/cve-2021-42013",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "cve-2021-42013",
+    "repo_owner": "Vulnmachines",
+    "repotime": "2022-08-30, 17:29:18",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-10-05",
+    "date_updated": "2022-08-30",
+    "description": "CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49.",
+    "forks_count": 14,
+    "html_url": "https://github.com/Vulnmachines/cve-2021-41773",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "cve-2021-41773",
+    "repo_owner": "Vulnmachines",
+    "repotime": "2022-08-30, 17:28:32",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-09-24",
+    "date_updated": "2022-08-30",
+    "description": "Vulnerability-analysis Poc、python shell",
+    "forks_count": 74,
+    "html_url": "https://github.com/myzing00/Vulnerability-analysis",
+    "keywords": [
+        "vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Vulnerability-analysis",
+    "repo_owner": "myzing00",
+    "repotime": "2022-08-30, 09:47:34",
+    "stargazers_count": 60,
+    "watchers_count": 60
+}
+{
     "commits_count": 15,
     "date_started": "2022-01-28",
     "date_updated": "2022-08-29",
     "description": "Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126.",
-    "forks_count": 8,
+    "forks_count": 7,
     "html_url": "https://github.com/tremwil/ds3-nrssr-rce",
     "keywords": [
-        "rce proof of concept"
+        "rce proof of concept",
+        "rce exploit"
     ],
     "language": "C++",
     "repo_name": "ds3-nrssr-rce",
     "repo_owner": "tremwil",
     "repotime": "2022-08-29, 22:11:05",
-    "stargazers_count": 149,
-    "watchers_count": 149
+    "stargazers_count": 155,
+    "watchers_count": 155
+}
+{
+    "commits_count": 129,
+    "date_started": "2015-03-29",
+    "date_updated": "2022-08-30",
+    "description": "An SSRF-preventing wrapper around Python's requests library",
+    "forks_count": 12,
+    "html_url": "https://github.com/JordanMilne/Advocate",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Advocate",
+    "repo_owner": "JordanMilne",
+    "repotime": "2022-08-30, 00:57:55",
+    "stargazers_count": 92,
+    "watchers_count": 92
 }
 {
     "commits_count": 2,
@@ -105,7 +192,7 @@
     "date_started": "2022-08-29",
     "date_updated": "2022-08-29",
     "description": "A PoC for adding NtContinue to CFG allowed list in order to make Ekko work in a CFG protected process",
-    "forks_count": 16,
+    "forks_count": 17,
     "html_url": "https://github.com/Crypt0s/Ekko_CFG_Bypass",
     "keywords": [
         "cfg bypass"
@@ -114,8 +201,94 @@
     "repo_name": "Ekko_CFG_Bypass",
     "repo_owner": "Crypt0s",
     "repotime": "2022-08-29, 13:23:35",
-    "stargazers_count": 86,
-    "watchers_count": 86
+    "stargazers_count": 98,
+    "watchers_count": 98
+}
+{
+    "commits_count": 28,
+    "date_started": "2017-02-21",
+    "date_updated": "2022-08-29",
+    "description": "A clang analyzer checker that looks for kernel uninitialized memory disclosures to userland.",
+    "forks_count": 14,
+    "html_url": "https://github.com/vlad902/kernel-uninitialized-memory-checker",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "kernel-uninitialized-memory-checker",
+    "repo_owner": "vlad902",
+    "repotime": "2022-08-29, 15:36:11",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-08-29",
+    "date_updated": "2022-08-29",
+    "description": "Adobe Acrobat Reader UAF vulnerability Exploit code",
+    "forks_count": 0,
+    "html_url": "https://github.com/WonjunChun/CVE-2020-9715",
+    "keywords": [
+        "uaf exploit",
+        "uaf exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-9715",
+    "repo_owner": "WonjunChun",
+    "repotime": "2022-08-29, 14:33:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2021-10-30",
+    "date_updated": "2022-08-29",
+    "description": "Just another script for automatize boolean-based blind SQL injections. (Demo)",
+    "forks_count": 12,
+    "html_url": "https://github.com/Sunlight-Rim/SQLbit",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "SQLbit",
+    "repo_owner": "Sunlight-Rim",
+    "repotime": "2022-08-29, 16:14:35",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-10-16",
+    "date_updated": "2022-08-29",
+    "description": "Example script of bypassing aslr on linux",
+    "forks_count": 0,
+    "html_url": "https://github.com/kphongagsorn/linux-aslr-bypass",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "linux-aslr-bypass",
+    "repo_owner": "kphongagsorn",
+    "repotime": "2022-08-29, 13:36:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 113,
+    "date_started": "2014-09-25",
+    "date_updated": "2022-08-28",
+    "description": "<no description>",
+    "forks_count": 29,
+    "html_url": "https://github.com/dds-utn/jpa-proof-of-concept-template",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Java",
+    "repo_name": "jpa-proof-of-concept-template",
+    "repo_owner": "dds-utn",
+    "repotime": "2022-08-28, 23:23:30",
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 3,
@@ -133,6 +306,128 @@
     "repotime": "2022-08-27, 23:23:26",
     "stargazers_count": 3,
     "watchers_count": 3
+}
+{
+    "commits_count": 11,
+    "date_started": "2016-02-27",
+    "date_updated": "2022-08-28",
+    "description": "LPE exploits for Secret Net and Secret Net Studio",
+    "forks_count": 21,
+    "html_url": "https://github.com/Cr4sh/secretnet_expl",
+    "keywords": [
+        "Windows 0day vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "secretnet_expl",
+    "repo_owner": "Cr4sh",
+    "repotime": "2022-08-28, 01:05:41",
+    "stargazers_count": 46,
+    "watchers_count": 46
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-10-12",
+    "date_updated": "2022-08-28",
+    "description": "https://www.secretmessage.link/ 0day exploit | read message board of any accounts",
+    "forks_count": 0,
+    "html_url": "https://github.com/jmrcsnchz/nosecrets",
+    "keywords": [
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "nosecrets",
+    "repo_owner": "jmrcsnchz",
+    "repotime": "2022-08-28, 04:58:32",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-25",
+    "date_updated": "2022-08-27",
+    "description": "Modern, quality hacks developed by professional developers A variety of game hacks and cheats with outstanding features 24/7 customer support Protection against anti-cheat software Completely secure and undetected Continuous patches and updates Kernel level bypasses for complete and long-term security",
+    "forks_count": 0,
+    "html_url": "https://github.com/sebbixr/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat",
+    "keywords": [
+        "kernel patch protection bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat",
+    "repo_owner": "sebbixr",
+    "repotime": "2022-08-27, 20:08:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-25",
+    "date_updated": "2022-08-27",
+    "description": "Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit, a package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG",
+    "forks_count": 1,
+    "html_url": "https://github.com/LarityRay/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022",
+    "keywords": [
+        "rce disclosure",
+        "remote code execution disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022",
+    "repo_owner": "LarityRay",
+    "repotime": "2022-08-27, 17:46:41",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-25",
+    "date_updated": "2022-08-27",
+    "description": "Vulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. Silent PDF Exploit silent-pdf-exploit-2018silent-pdf-exploit-2018 Silent PDF Exploit There are multiple Exploit PDF in Silent PDF Exploit, a package commonly used by web services to process Exploit PDF File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted PDF. The exploit for this vulnerability is being used in the wild.",
+    "forks_count": 2,
+    "html_url": "https://github.com/LarityRay/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve",
+    "keywords": [
+        "rce disclosure",
+        "remote code execution disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve",
+    "repo_owner": "LarityRay",
+    "repotime": "2022-08-27, 17:45:16",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-08-26",
+    "date_updated": "2022-08-26",
+    "description": "As maybe the most sensible vehicle creators, Maruti Suzuki vehicles are well known and generally liked in all bits of India. Maruti Suzuki accessories are a piece of the association's most commonly purchased vehicle models since they need least help and up-keep. Their features, areas of strength for features and sensible vehicle protection installments are three essential inspirations driving why Maruti Cars are the starter vehicles for basically all Indian families says Dealer of Maruti Suzuki genuine accessories near me Pratham Motors.  The Need for vehicle upkeep Being perhaps of the most notable association, the protection installments of these vehicles are successfully conceivable. Farewell AIG vehicle insurance covers damage and hardship in normal calamities and disasters. In any case, this is simply applicable, accepting that you stay aware of your vehicle properly.  The Need for vehicle support  Vehicle support is ordinarily not covered by motor vehicle insurance policies, whic...",
+    "forks_count": 0,
+    "html_url": "https://github.com/prathammotors/Maruti-Suzuki-Accessories",
+    "keywords": [
+        "use after free exploit",
+        "use after free exploitation"
+    ],
+    "language": null,
+    "repo_name": "Maruti-Suzuki-Accessories",
+    "repo_owner": "prathammotors",
+    "repotime": "2022-08-26, 06:33:51",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 54,
+    "date_started": "2018-03-16",
+    "date_updated": "2022-08-25",
+    "description": "Oracle WebLogic WLS-WSAT Remote Code Execution Exploit (CVE-2017-10271)",
+    "forks_count": 2,
+    "html_url": "https://github.com/R0B1NL1N/Oracle-WebLogic-WLS-WSAT",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "Oracle-WebLogic-WLS-WSAT",
+    "repo_owner": "R0B1NL1N",
+    "repotime": "2022-08-25, 21:33:12",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 17,
@@ -169,6 +464,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 30,
+    "date_started": "2019-04-10",
+    "date_updated": "2022-08-25",
+    "description": "Proofs of Concept. Just fucking around.",
+    "forks_count": 32,
+    "html_url": "https://github.com/tinkersec/scratchpad",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Shell",
+    "repo_name": "scratchpad",
+    "repo_owner": "tinkersec",
+    "repotime": "2022-08-25, 10:00:35",
+    "stargazers_count": 196,
+    "watchers_count": 196
+}
+{
     "commits_count": 3,
     "date_started": "2022-08-25",
     "date_updated": "2022-08-25",
@@ -176,7 +488,11 @@
     "forks_count": 0,
     "html_url": "https://github.com/hexdev00/hexdev00",
     "keywords": [
-        "Windows zero-day"
+        "Windows zero-day exploit",
+        "Windows zero-day exploitation",
+        "Windows zero-day",
+        "zero-day exploitation",
+        "zero-day exploit"
     ],
     "language": null,
     "repo_name": "hexdev00",
@@ -220,40 +536,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 14,
-    "date_started": "2022-07-04",
-    "date_updated": "2022-08-23",
-    "description": "xdebug 2.5.5 RCE exploit",
-    "forks_count": 7,
-    "html_url": "https://github.com/D3Ext/XDEBUG-Exploit",
-    "keywords": [
-        "rce exploit"
-    ],
-    "language": "Python",
-    "repo_name": "XDEBUG-Exploit",
-    "repo_owner": "D3Ext",
-    "repotime": "2022-08-23, 23:37:02",
-    "stargazers_count": 29,
-    "watchers_count": 29
-}
-{
-    "commits_count": 11,
-    "date_started": "2022-08-11",
-    "date_updated": "2022-08-23",
-    "description": "A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin &amp;lt; 1.997.",
-    "forks_count": 35,
-    "html_url": "https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE",
-    "keywords": [
-        "rce exploit"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2022-36446-Webmin-Software-Package-Updates-RCE",
-    "repo_owner": "p0dalirius",
-    "repotime": "2022-08-23, 17:57:41",
-    "stargazers_count": 110,
-    "watchers_count": 110
-}
-{
     "commits_count": 4,
     "date_started": "2021-12-27",
     "date_updated": "2022-08-23",
@@ -288,6 +570,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 9,
+    "date_started": "2016-11-10",
+    "date_updated": "2022-08-23",
+    "description": "BlackNurse attack PoC",
+    "forks_count": 68,
+    "html_url": "https://github.com/jedisct1/blacknurse",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "C",
+    "repo_name": "blacknurse",
+    "repo_owner": "jedisct1",
+    "repotime": "2022-08-23, 12:16:06",
+    "stargazers_count": 168,
+    "watchers_count": 168
+}
+{
     "commits_count": 2,
     "date_started": "2022-08-23",
     "date_updated": "2022-08-23",
@@ -309,7 +608,7 @@
     "date_started": "2022-08-23",
     "date_updated": "2022-08-22",
     "description": "A Poc on blocking Procmon from monitoring network events",
-    "forks_count": 13,
+    "forks_count": 12,
     "html_url": "https://github.com/NUL0x4C/EtwSessionHijacking",
     "keywords": [
         "session hijacking"
@@ -318,8 +617,25 @@
     "repo_name": "EtwSessionHijacking",
     "repo_owner": "NUL0x4C",
     "repotime": "2022-08-22, 23:08:22",
-    "stargazers_count": 97,
-    "watchers_count": 97
+    "stargazers_count": 101,
+    "watchers_count": 101
+}
+{
+    "commits_count": 15,
+    "date_started": "2018-11-09",
+    "date_updated": "2022-08-23",
+    "description": "A standard point from which crypto projects may derive their responsible disclosure policy.",
+    "forks_count": 13,
+    "html_url": "https://github.com/RD-Crypto-Spec/Responsible-Disclosure",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": null,
+    "repo_name": "Responsible-Disclosure",
+    "repo_owner": "RD-Crypto-Spec",
+    "repotime": "2022-08-23, 05:49:58",
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 5,
@@ -329,7 +645,10 @@
     "forks_count": 0,
     "html_url": "https://github.com/keeslonkf/Attack_Defense_Analysis_VulnerableNetwork",
     "keywords": [
-        "privelege escalation exploit"
+        "privelege escalation exploitation",
+        "privelege escalation vulnerability",
+        "privelege escalation exploit",
+        "privelege escalation analysis"
     ],
     "language": null,
     "repo_name": "Attack_Defense_Analysis_VulnerableNetwork",
@@ -337,6 +656,41 @@
     "repotime": "2022-08-22, 17:30:12",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-02-08",
+    "date_updated": "2022-08-22",
+    "description": "5 best windows 10 apps in windows app store in 2021  5 best windows 10 apps in windows app store in 2021. Windows 10 is the most popular computer OS out there &amp;amp; to support that we have some cool programs for windows 10. so here are 5 best windows 10 apps in windows app store in 2021.  Most of us use the windows 10 platform regularly and also use some top windows 10 apps that we download from their respective website or through some illegal way which is not suggested to anyone.  Typically most of us get our hands on the must have apps on windows that we use from their store or their website because people don't think that cool programs for windows 10 will be on the app store.  It is not only that people don't know that there is a more secure and better way than going to any unsafe website and downloading the best apps for windows 10 that &amp;amp; it is the way that we must follow that.  Best windows 10 apps in the Windows app store :  In the earlier windows app store wasn't available f...",
+    "forks_count": 0,
+    "html_url": "https://github.com/adnanasif007/5-best-windows-10-apps-in-windows-app-store-in-2021",
+    "keywords": [
+        "Windows use after free",
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "5-best-windows-10-apps-in-windows-app-store-in-2021",
+    "repo_owner": "adnanasif007",
+    "repotime": "2022-08-22, 17:56:17",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-22",
+    "date_updated": "2022-08-22",
+    "description": "The Rescue_Refugees application aims to put refugees from the war in Ukraine in touch with each other by registering their personal information that is entered into the application's database, cross-referencing it with searches made on the side of family members and friends through this personal mapping.  The project was part of a Code Academy event called Hackathon, in which we must in groups of 5 people define, develop and present the concept of an application and its functionalities in an uninterrupted period of 28 hours.  The tools used in JavaBank were Spring, Hibernate, Mockito, Mysql, Junit,Mvc, Javascript, Restcontrollers, Java Script, HTML5, CSS3.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ThiagoBarlanza/Hackathon_Rescue_Refugees",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "Java",
+    "repo_name": "Hackathon_Rescue_Refugees",
+    "repo_owner": "ThiagoBarlanza",
+    "repotime": "2022-08-22, 17:32:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 2,
@@ -356,6 +710,57 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 7,
+    "date_started": "2019-04-15",
+    "date_updated": "2022-08-21",
+    "description": "Proof of concept Unity project for more precise control of framerates and GenLock",
+    "forks_count": 13,
+    "html_url": "https://github.com/Unity-Technologies/GenLockProofOfConcept",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "C#",
+    "repo_name": "GenLockProofOfConcept",
+    "repo_owner": "Unity-Technologies",
+    "repotime": "2022-08-21, 12:20:12",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-08-21",
+    "date_updated": "2022-08-21",
+    "description": "GYM MANAGEMENT SYSTEM-Shark Fitness Center  In this project we have developed a consumer website for shark fitness center. FEATURES OF THE SYSTEM -The wbsite has 7 pages in total. -That allows members to login to the website,contact the GYM admin via the website,check their body mass index,get their membership plans,view their profile,get workout session schedule and diet plan. -Our system offers a gallery page consisting a walkthrough view of the GYM facilitis. -Our system also also allows new members to register themselves as a member of fitness center. -while registration peocess the users are expected to provide their details,such as FirstName,LastName,Verified Email ID,ContactNO,Address and their medical conditions. -In addition to the above the user is required to provide a password of their login.The system will ensure that the password selected by the users and the compliance with the password policy. -The application will also allow the registered users to update their members...",
+    "forks_count": 0,
+    "html_url": "https://github.com/FarookSajithAhamed/sharkfitness-project-source-code",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "sharkfitness-project-source-code",
+    "repo_owner": "FarookSajithAhamed",
+    "repotime": "2022-08-21, 09:56:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2018-01-04",
+    "date_updated": "2022-08-21",
+    "description": "Repo for proof of concept exploits and tools.",
+    "forks_count": 25,
+    "html_url": "https://github.com/NickstaDB/PoC",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Python",
+    "repo_name": "PoC",
+    "repo_owner": "NickstaDB",
+    "repotime": "2022-08-21, 05:05:32",
+    "stargazers_count": 54,
+    "watchers_count": 54
+}
+{
     "commits_count": 2,
     "date_started": "2022-08-20",
     "date_updated": "2022-08-20",
@@ -373,6 +778,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 1,
+    "date_started": "2022-08-20",
+    "date_updated": "2022-08-20",
+    "description": "An Android Application that lists all the Stock Market Company information and Stock Chart with graphical representation. ● I will learn to use dependency injection with Dogger-Hilt, CSV parsing with OpenCSV, working with remote APIs using Retrofit, and local caching with Room.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mkumarrangi/StockMarketApp",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Kotlin",
+    "repo_name": "StockMarketApp",
+    "repo_owner": "mkumarrangi",
+    "repotime": "2022-08-20, 14:34:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2,
     "date_started": "2021-10-01",
     "date_updated": "2022-08-20",
@@ -380,7 +802,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/kxisxr/Bash-Script-CVE-2019-17662",
     "keywords": [
-        "directory traversal attack"
+        "directory traversal attack",
+        "directory traversal vulnerability"
     ],
     "language": "Shell",
     "repo_name": "Bash-Script-CVE-2019-17662",
@@ -397,7 +820,8 @@
     "forks_count": 3,
     "html_url": "https://github.com/gscamelo/CVE-2018-20580",
     "keywords": [
-        "remote code execution proof of concept"
+        "remote code execution proof of concept",
+        "remote code execution vulnerability"
     ],
     "language": null,
     "repo_name": "CVE-2018-20580",
@@ -408,13 +832,51 @@
 }
 {
     "commits_count": 2,
+    "date_started": "2016-11-08",
+    "date_updated": "2022-08-19",
+    "description": "Various PoCs",
+    "forks_count": 214,
+    "html_url": "https://github.com/lgandx/PoC",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Python",
+    "repo_name": "PoC",
+    "repo_owner": "lgandx",
+    "repotime": "2022-08-19, 19:04:36",
+    "stargazers_count": 485,
+    "watchers_count": 485
+}
+{
+    "commits_count": 79,
+    "date_started": "2022-06-12",
+    "date_updated": "2022-08-19",
+    "description": "Learning and hunting SQL injection bugs for 50 continuous days ",
+    "forks_count": 11,
+    "html_url": "https://github.com/arpeetrathii/50-Days-Of-SQLi",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "50-Days-Of-SQLi",
+    "repo_owner": "arpeetrathii",
+    "repotime": "2022-08-19, 12:58:34",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 2,
     "date_started": "2022-08-18",
     "date_updated": "2022-08-18",
     "description": "1.1 Purpose This project is a cloud-based program that requires internet-connected devices  and applications to work. This purpose behind this project is that it be able to  will help users or enterprises to manage a set of tasks, previously only made  possible by humans.  1.2 Product Features It is able to interpret human speech and respond via synthesized voices. Users  can ask their assistants questions, media playback via voice and manage other  basic tasks such as internet surfing, sending mails and answering basic  computational queries with verbal commands.  2. System Analysis  2.1 Hardware Requirements  Pentium IV or higher, (PIV-300GHz recommended)  4 GB RAM  1 Gb hard drive free space  Microphone required 2.2 Software Used Any system configuration can be used but we’ll suggest using Visual Studio as it  is what we have used.  VS Code Visual Studio Code, also commonly referred to as VS Code, is a source-code  editor made by Microsoft for Windows, Linux and mac OS. Features...",
     "forks_count": 0,
     "html_url": "https://github.com/Meenakhi66/Athena-voice-assistant",
     "keywords": [
-        "Windows use after free analysis"
+        "Windows use after free",
+        "Windows use after free analysis",
+        "use after free analysis",
+        "Microsoft use after free analysis",
+        "Microsoft use after free"
     ],
     "language": "Python",
     "repo_name": "Athena-voice-assistant",
@@ -422,6 +884,74 @@
     "repotime": "2022-08-18, 21:36:18",
     "stargazers_count": 7,
     "watchers_count": 7
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-05-01",
+    "date_updated": "2022-08-17",
+    "description": "A lab to introduce beginners to Local File Inclusion",
+    "forks_count": 0,
+    "html_url": "https://github.com/christianrang/lfi-lab",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "PHP",
+    "repo_name": "lfi-lab",
+    "repo_owner": "christianrang",
+    "repotime": "2022-08-17, 06:17:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 171,
+    "date_started": "2020-07-29",
+    "date_updated": "2022-08-17",
+    "description": "The OpenSSF Vulnerability Disclosures Working Group seeks to help improve the overall security of the open source software ecosystem by helping mature and advocate well-managed vulnerability reporting and communication.",
+    "forks_count": 34,
+    "html_url": "https://github.com/ossf/wg-vulnerability-disclosures",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": null,
+    "repo_name": "wg-vulnerability-disclosures",
+    "repo_owner": "ossf",
+    "repotime": "2022-08-17, 07:40:45",
+    "stargazers_count": 138,
+    "watchers_count": 138
+}
+{
+    "commits_count": 6,
+    "date_started": "2014-05-29",
+    "date_updated": "2022-08-17",
+    "description": "Facebook hidden friends crawler POC",
+    "forks_count": 115,
+    "html_url": "https://github.com/prili/fb-hfc",
+    "keywords": [
+        "PoC"
+    ],
+    "language": null,
+    "repo_name": "fb-hfc",
+    "repo_owner": "prili",
+    "repotime": "2022-08-17, 02:58:05",
+    "stargazers_count": 266,
+    "watchers_count": 266
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-09-18",
+    "date_updated": "2022-08-16",
+    "description": "WP-Engine Disclosure",
+    "forks_count": 5,
+    "html_url": "https://github.com/random-robbie/wp-engine",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "wp-engine",
+    "repo_owner": "random-robbie",
+    "repotime": "2022-08-16, 23:18:42",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 2,
@@ -462,17 +992,19 @@
     "date_started": "2022-08-16",
     "date_updated": "2022-08-16",
     "description": "&amp;&#35;35; Cmder  [![Join the chat at https://gitter.im/cmderdev/cmder](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cmderdev/cmder?utm_source=badge&amp;amp;utm_medium=badge&amp;amp;utm_campaign=pr-badge&amp;amp;utm_content=badge) [![Build Status](https://ci.appveyor.com/api/projects/status/github/cmderdev/cmder?branch=master&amp;amp;svg=true)](https://ci.appveyor.com/project/MartiUK/cmder)  Cmder is a **software package** created out of pure frustration over absence of usable console emulator on Windows. It is based on [ConEmu](https://conemu.github.io/) with *major* config overhaul, comes with a Monokai color scheme, amazing [clink](https://chrisant996.github.io/clink/) (further enhanced by [clink-completions](https://github.com/vladimir-kotikov/clink-completions)) and a custom prompt layout.  ![Cmder Screenshot](http://i.imgur.com/g1nNf0I.png)  &amp;&#35;35;&amp;&#35;35; Why use it  The main advantage of Cmder is portability. It is designed to be totally self-contained with no external dependencies, whi...",
-    "forks_count": 2,
+    "forks_count": 3,
     "html_url": "https://github.com/Ch-Jad/CH-JaDi-Rajput1",
     "keywords": [
-        "Windows use after free"
+        "Windows use after free",
+        "Win use after free",
+        "Microsoft use after free"
     ],
     "language": null,
     "repo_name": "CH-JaDi-Rajput1",
     "repo_owner": "Ch-Jad",
     "repotime": "2022-08-16, 11:04:08",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 13,
@@ -492,11 +1024,28 @@
     "watchers_count": 13
 }
 {
+    "commits_count": 7,
+    "date_started": "2013-10-14",
+    "date_updated": "2022-08-15",
+    "description": "Non-Disclosure Agreements in Legal Markdown Style",
+    "forks_count": 12,
+    "html_url": "https://github.com/pimpin/non-disclosure-agreements",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": null,
+    "repo_name": "non-disclosure-agreements",
+    "repo_owner": "pimpin",
+    "repotime": "2022-08-15, 16:40:11",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 244,
     "date_started": "2020-09-18",
     "date_updated": "2022-08-15",
     "description": "An automation tool that scans sub-domains, sub-domain takeover, then filters out XSS, SSTI, SSRF, and more injection point parameters and scans for some low hanging vulnerabilities automatically.",
-    "forks_count": 176,
+    "forks_count": 177,
     "html_url": "https://github.com/R0X4R/Garud",
     "keywords": [
         "ssrf"
@@ -505,8 +1054,8 @@
     "repo_name": "Garud",
     "repo_owner": "R0X4R",
     "repotime": "2022-08-15, 17:41:14",
-    "stargazers_count": 773,
-    "watchers_count": 773
+    "stargazers_count": 785,
+    "watchers_count": 785
 }
 {
     "commits_count": 3,
@@ -539,8 +1088,8 @@
     "repo_name": "CVE-2022-27925-PoC",
     "repo_owner": "vnhacker1337",
     "repotime": "2022-08-14, 01:54:58",
-    "stargazers_count": 63,
-    "watchers_count": 63
+    "stargazers_count": 67,
+    "watchers_count": 67
 }
 {
     "commits_count": 17,
@@ -567,7 +1116,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/secure-77/CVE-2022-31262",
     "keywords": [
-        "lpe exploit"
+        "lpe exploit",
+        "lpe exploitation"
     ],
     "language": "PowerShell",
     "repo_name": "CVE-2022-31262",
@@ -575,6 +1125,40 @@
     "repotime": "2022-08-12, 12:39:46",
     "stargazers_count": 4,
     "watchers_count": 4
+}
+{
+    "commits_count": 36,
+    "date_started": "2018-05-30",
+    "date_updated": "2022-08-12",
+    "description": "An open-source EOS wallet project",
+    "forks_count": 70,
+    "html_url": "https://github.com/OracleChain/PocketEOS-Android",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Java",
+    "repo_name": "PocketEOS-Android",
+    "repo_owner": "OracleChain",
+    "repotime": "2022-08-12, 06:25:42",
+    "stargazers_count": 159,
+    "watchers_count": 159
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-11-16",
+    "date_updated": "2022-08-11",
+    "description": "This repository contains information related to vulnerability disclosures done by the Citizen Lab.",
+    "forks_count": 2,
+    "html_url": "https://github.com/citizenlab/vuln-disclosures",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": null,
+    "repo_name": "vuln-disclosures",
+    "repo_owner": "citizenlab",
+    "repotime": "2022-08-11, 22:14:37",
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 2,
@@ -618,6 +1202,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/PowerIsCoding/BitRat-Cracked-SRC-2022",
     "keywords": [
+        "Windows remote code execution exploitation",
+        "Windows remote code execution",
         "Windows remote code execution exploit"
     ],
     "language": null,
@@ -628,6 +1214,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 7,
+    "date_started": "2018-08-22",
+    "date_updated": "2022-08-10",
+    "description": "A Bochs-based instrumentation performing kernel memory taint tracking to detect disclosure of uninitialized memory to ring 3",
+    "forks_count": 58,
+    "html_url": "https://github.com/googleprojectzero/bochspwn-reloaded",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "bochspwn-reloaded",
+    "repo_owner": "googleprojectzero",
+    "repotime": "2022-08-10, 02:24:36",
+    "stargazers_count": 267,
+    "watchers_count": 267
+}
+{
     "commits_count": 2,
     "date_started": "2022-08-09",
     "date_updated": "2022-08-09",
@@ -635,6 +1238,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/X0rb1t/KOTH",
     "keywords": [
+        "escalation of privileges exploitation",
         "escalation of privileges exploit"
     ],
     "language": null,
@@ -645,6 +1249,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 3,
+    "date_started": "2022-08-09",
+    "date_updated": "2022-08-09",
+    "description": "Samble vulnerable app with RCE over prototype pollution",
+    "forks_count": 3,
+    "html_url": "https://github.com/vdeturckheim/pollute-me",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "pollute-me",
+    "repo_owner": "vdeturckheim",
+    "repotime": "2022-08-09, 10:20:13",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 1,
     "date_started": "2022-08-09",
     "date_updated": "2022-08-09",
@@ -652,14 +1273,54 @@
     "forks_count": 9,
     "html_url": "https://github.com/theabysslabs/CVE-2022-21881",
     "keywords": [
-        "Chrome sandbox escape"
+        "Chrome sandbox escape poc",
+        "sandbox escape poc",
+        "Chrome sandbox escape exploitation",
+        "Chrome sandbox escape",
+        "sandbox escape exploitation",
+        "sandbox escape exploit",
+        "Chrome sandbox escape exploit"
     ],
     "language": "C++",
     "repo_name": "CVE-2022-21881",
     "repo_owner": "theabysslabs",
     "repotime": "2022-08-09, 16:21:34",
-    "stargazers_count": 20,
-    "watchers_count": 20
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 312,
+    "date_started": "2020-08-21",
+    "date_updated": "2022-08-09",
+    "description": "A financial disclosure data extraction tool.",
+    "forks_count": 4,
+    "html_url": "https://github.com/freelawproject/disclosure-extractor",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "disclosure-extractor",
+    "repo_owner": "freelawproject",
+    "repotime": "2022-08-09, 08:17:12",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-08-08",
+    "date_updated": "2022-08-08",
+    "description": "JavaScript exploit : Firefox version 41 - 50 are affected. Easy fix by disabling JavaScript (use NoScript for better leverage). Victim must visit website using correct version of Tor in order to be potentially deanonymized.",
+    "forks_count": 1,
+    "html_url": "https://github.com/unCodeBoss/Tor-0day",
+    "keywords": [
+        "0day exploitation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Tor-0day",
+    "repo_owner": "unCodeBoss",
+    "repotime": "2022-08-08, 22:52:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 1,
@@ -675,8 +1336,8 @@
     "repo_name": "blind-sql-bitshifting",
     "repo_owner": "awnumar",
     "repotime": "2022-08-07, 15:36:27",
-    "stargazers_count": 111,
-    "watchers_count": 111
+    "stargazers_count": 119,
+    "watchers_count": 119
 }
 {
     "commits_count": 4,
@@ -696,6 +1357,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4,
+    "date_started": "2022-01-30",
+    "date_updated": "2022-08-06",
+    "description": "A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/glowbase/CVE-2020-35476",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-35476",
+    "repo_owner": "glowbase",
+    "repotime": "2022-08-06, 23:47:46",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 5,
     "date_started": "2022-05-19",
     "date_updated": "2022-08-06",
@@ -709,8 +1387,25 @@
     "repo_name": "CVE-2022-24086-RCE-PoC",
     "repo_owner": "oK0mo",
     "repotime": "2022-08-06, 01:33:51",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-04-26",
+    "date_updated": "2022-08-06",
+    "description": "Automatically search for the required class and package it as a jar Create One Min Jar file",
+    "forks_count": 2,
+    "html_url": "https://github.com/hktalent/CreateOneMinJar",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": "Java",
+    "repo_name": "CreateOneMinJar",
+    "repo_owner": "hktalent",
+    "repotime": "2022-08-06, 15:20:11",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 8,
@@ -726,8 +1421,42 @@
     "repo_name": "CVE-2021-36260",
     "repo_owner": "Cuerz",
     "repotime": "2022-08-06, 03:57:30",
-    "stargazers_count": 139,
-    "watchers_count": 139
+    "stargazers_count": 149,
+    "watchers_count": 149
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-08-09",
+    "date_updated": "2022-08-06",
+    "description": "For XXE Through SSRF",
+    "forks_count": 1,
+    "html_url": "https://github.com/EagleTube/XXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "PHP",
+    "repo_name": "XXE",
+    "repo_owner": "EagleTube",
+    "repotime": "2022-08-06, 01:03:25",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2016-07-03",
+    "date_updated": "2022-08-05",
+    "description": "poc from bugscan beebeeto",
+    "forks_count": 246,
+    "html_url": "https://github.com/burnegg/poc",
+    "keywords": [
+        "PoC"
+    ],
+    "language": "Python",
+    "repo_name": "poc",
+    "repo_owner": "burnegg",
+    "repotime": "2022-08-05, 13:36:27",
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 7,
@@ -737,14 +1466,33 @@
     "forks_count": 56,
     "html_url": "https://github.com/strongcourage/uafuzz",
     "keywords": [
+        "use after free vulnerability",
         "uaf vulnerability"
     ],
     "language": "C",
     "repo_name": "uafuzz",
     "repo_owner": "strongcourage",
     "repotime": "2022-08-05, 09:06:35",
-    "stargazers_count": 335,
-    "watchers_count": 335
+    "stargazers_count": 344,
+    "watchers_count": 344
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-08-04",
+    "date_updated": "2022-08-04",
+    "description": "Silent PDF Exploit 0day Codium Algorithm",
+    "forks_count": 0,
+    "html_url": "https://github.com/CodiumAlgorithm/Silent-PDF-Exploit-Builder-0day-Demonstration-2022",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "Silent-PDF-Exploit-Builder-0day-Demonstration-2022",
+    "repo_owner": "CodiumAlgorithm",
+    "repotime": "2022-08-04, 14:59:34",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 43,
@@ -788,12 +1536,118 @@
     "forks_count": 5,
     "html_url": "https://github.com/Noxtal/follina",
     "keywords": [
-        "Microsoft rce poc"
+        "Microsoft rce vulnerability",
+        "Microsoft rce",
+        "Microsoft rce poc",
+        "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "follina",
     "repo_owner": "Noxtal",
     "repotime": "2022-08-03, 23:47:25",
-    "stargazers_count": 23,
-    "watchers_count": 23
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 37,
+    "date_started": "2018-01-29",
+    "date_updated": "2022-08-03",
+    "description": "[CVE-2018-6407 &amp;amp; CVE-2018-6408] Conceptronic IPCam Administration panel CSRF and Denial of Service",
+    "forks_count": 7,
+    "html_url": "https://github.com/dreadlocked/ConceptronicIPCam_MultipleVulnerabilities",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "ConceptronicIPCam_MultipleVulnerabilities",
+    "repo_owner": "dreadlocked",
+    "repotime": "2022-08-03, 10:06:03",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-02",
+    "date_updated": "2022-08-02",
+    "description": "External Game Project written mostly in C++ along with external libraries Internal And External projects.I started to get rid of scammers.i am developing Hack Cheat Driver Esp Aimbot Magic Bullet Driver Injector Overlay Imgui for many games.Games I've developed with hack so far Rise Online ,Apex Legends ,Bloodhunt , Call of Duty: Cold War , Call of Duty: Vanguard ,Call of Duty: Warzone/MW ,Dayz ,Dead By Daylight ,Destiny 2 ,Enlisted ,Escape From Tarkov ,Fortnite ,Game accounts ,Halo Infinite ,HyperFlick ,New Critical Hit ,New World ,Mir 4 ,Noble ,Playerunknowns Battlegrounds ,Steam ,Rainbow Siz Siege , Playerunknown's Battlegrounds, Rijin ,Rogue Company ,Rust ,Scum ,SpliteGa ,Super People ,Unleashed ,Valorant ,Spoofer ::: Buying a Hack Cheat don't be scammed, more to come  We, at Lavicheats, always strive to be one of the leading and most reliable gameplay cheat and hack providers, when it comes to security, usability, and compatibility. We've been developing high-quality, undetected g...",
+    "forks_count": 2,
+    "html_url": "https://github.com/Hashpepe/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat",
+    "keywords": [
+        "kernel patch protection bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat",
+    "repo_owner": "Hashpepe",
+    "repotime": "2022-08-02, 22:53:49",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-02",
+    "date_updated": "2022-08-02",
+    "description": "Vulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. Silent PDF Exploit silent-pdf-exploit-2018silent-pdf-exploit-2018 Silent PDF Exploit There are multiple Exploit PDF in Silent PDF Exploit, a package commonly used by web services to process Exploit PDF File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted PDF. The exploit for this vulnerability is being used in the wild. Why Are You Disclosing A Exploit PDF We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.",
+    "forks_count": 2,
+    "html_url": "https://github.com/lmdelm/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve",
+    "keywords": [
+        "rce disclosure",
+        "remote code execution disclosure"
+    ],
+    "language": "C++",
+    "repo_name": "Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve",
+    "repo_owner": "lmdelm",
+    "repotime": "2022-08-02, 22:51:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-08-02",
+    "date_updated": "2022-08-02",
+    "description": "蓝凌oa无回显rce漏洞poc脚本",
+    "forks_count": 7,
+    "html_url": "https://github.com/k3sc/Landray-oa-rce-1",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "Landray-oa-rce-1",
+    "repo_owner": "k3sc",
+    "repotime": "2022-08-02, 09:36:12",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-01",
+    "date_updated": "2022-08-01",
+    "description": "t.me/codeboss503",
+    "forks_count": 1,
+    "html_url": "https://github.com/4L4K4Z4/ApacheAPISIX-RCE-Unauthenticated",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "ApacheAPISIX-RCE-Unauthenticated",
+    "repo_owner": "4L4K4Z4",
+    "repotime": "2022-08-01, 16:44:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-08-01",
+    "date_updated": "2022-08-01",
+    "description": "t.me/codeboss503",
+    "forks_count": 0,
+    "html_url": "https://github.com/4L4K4Z4/Core-BIGIP-RCE-Unauthenticated",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Core-BIGIP-RCE-Unauthenticated",
+    "repo_owner": "4L4K4Z4",
+    "repotime": "2022-08-01, 16:36:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }

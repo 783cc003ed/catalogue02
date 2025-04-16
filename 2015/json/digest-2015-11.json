@@ -3,17 +3,19 @@
     "date_started": "2015-11-26",
     "date_updated": "2015-11-28",
     "description": "Fuzz and Detect &amp;quot;Use After Free&amp;quot; vulnerability  in win32k.sys ( Heap based )",
-    "forks_count": 58,
+    "forks_count": 53,
     "html_url": "https://github.com/Rootkitsmm-zz/Win32k-Fuzzer",
     "keywords": [
-        "Win use after free"
+        "Win use after free",
+        "use after free vulnerability",
+        "Win use after free vulnerability"
     ],
     "language": "C",
     "repo_name": "Win32k-Fuzzer",
     "repo_owner": "Rootkitsmm-zz",
     "repotime": "2015-11-28, 17:29:14",
-    "stargazers_count": 131,
-    "watchers_count": 131
+    "stargazers_count": 132,
+    "watchers_count": 132
 }
 {
     "commits_count": 3,
@@ -23,6 +25,8 @@
     "forks_count": 22,
     "html_url": "https://github.com/googleinurl/WORDPRESS-Revslider-Exploit-0DAY",
     "keywords": [
+        "unrestricted file upload",
+        "0day exploitation",
         "0day exploit"
     ],
     "language": "PHP",
@@ -37,7 +41,7 @@
     "date_started": "2015-04-28",
     "date_updated": "2015-11-18",
     "description": "<no description>",
-    "forks_count": 79,
+    "forks_count": 77,
     "html_url": "https://github.com/AonCyberLabs/xxe-recursive-download",
     "keywords": [
         "xxe"
@@ -46,8 +50,8 @@
     "repo_name": "xxe-recursive-download",
     "repo_owner": "AonCyberLabs",
     "repotime": "2015-11-18, 11:08:43",
-    "stargazers_count": 227,
-    "watchers_count": 227
+    "stargazers_count": 231,
+    "watchers_count": 231
 }
 {
     "commits_count": 10,
@@ -88,7 +92,7 @@
     "date_started": "2015-11-09",
     "date_updated": "2015-11-10",
     "description": "Small lib for Windows app to detect C++ memory leaks",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/matthall3531/MemoryLeakDetector",
     "keywords": [
         "Windows memory leak"
@@ -97,8 +101,8 @@
     "repo_name": "MemoryLeakDetector",
     "repo_owner": "matthall3531",
     "repotime": "2015-11-10, 09:46:54",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 193,
@@ -119,12 +123,30 @@
 }
 {
     "commits_count": 1,
+    "date_started": "2015-11-09",
+    "date_updated": "2015-11-08",
+    "description": "Repository for Coursera Data Analysis training",
+    "forks_count": 0,
+    "html_url": "https://github.com/sureoc/RCE",
+    "keywords": [
+        "rce analysis"
+    ],
+    "language": null,
+    "repo_name": "RCE",
+    "repo_owner": "sureoc",
+    "repotime": "2015-11-08, 21:03:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
     "date_started": "2015-11-06",
     "date_updated": "2015-11-06",
     "description": "Plugin to integrate Discourse with Exploit: Zero Day",
     "forks_count": 0,
     "html_url": "https://github.com/FutureProofGames/discourse-ezd-integration",
     "keywords": [
+        "zero-day exploitation",
         "zero-day exploit"
     ],
     "language": "HTML",

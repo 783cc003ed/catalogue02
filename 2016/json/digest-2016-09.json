@@ -23,7 +23,9 @@
     "forks_count": 1,
     "html_url": "https://github.com/susanth224/xbs_vulnerability_scanner",
     "keywords": [
-        "session vulnerability"
+        "session vulnerability",
+        "session hijacking vulnerability",
+        "session hijacking"
     ],
     "language": "Python",
     "repo_name": "xbs_vulnerability_scanner",
@@ -37,7 +39,7 @@
     "date_started": "2016-08-17",
     "date_updated": "2016-09-26",
     "description": "Bypassing User Account Control (UAC) using TpmInit.exe",
-    "forks_count": 39,
+    "forks_count": 37,
     "html_url": "https://github.com/Cn33liz/TpmInitUACBypass",
     "keywords": [
         "uac bypass"
@@ -46,8 +48,8 @@
     "repo_name": "TpmInitUACBypass",
     "repo_owner": "Cn33liz",
     "repotime": "2016-09-26, 15:28:29",
-    "stargazers_count": 125,
-    "watchers_count": 125
+    "stargazers_count": 127,
+    "watchers_count": 127
 }
 {
     "commits_count": 5,
@@ -80,8 +82,8 @@
     "repo_name": "KernelFuzzer",
     "repo_owner": "FSecureLABS",
     "repotime": "2016-09-26, 09:27:53",
-    "stargazers_count": 445,
-    "watchers_count": 445
+    "stargazers_count": 450,
+    "watchers_count": 450
 }
 {
     "commits_count": 2,
@@ -131,8 +133,25 @@
     "repo_name": "uac",
     "repo_owner": "oxfemale",
     "repotime": "2016-09-24, 19:37:49",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 1,
+    "date_started": "2016-09-23",
+    "date_updated": "2016-09-23",
+    "description": "Some tools to prevent session hijacking in Seaside yet allowing multi sessions per browser",
+    "forks_count": 0,
+    "html_url": "https://github.com/marianopeck/SeasideSessionHijackingPrevention",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": null,
+    "repo_name": "SeasideSessionHijackingPrevention",
+    "repo_owner": "marianopeck",
+    "repotime": "2016-09-23, 16:47:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -142,14 +161,15 @@
     "forks_count": 62,
     "html_url": "https://github.com/nowsecure/samsung-ime-rce-poc",
     "keywords": [
+        "rce poc",
         "remote code execution poc"
     ],
     "language": "Python",
     "repo_name": "samsung-ime-rce-poc",
     "repo_owner": "nowsecure",
     "repotime": "2016-09-22, 11:57:39",
-    "stargazers_count": 122,
-    "watchers_count": 122
+    "stargazers_count": 124,
+    "watchers_count": 124
 }
 {
     "commits_count": 16,
@@ -159,14 +179,15 @@
     "forks_count": 8,
     "html_url": "https://github.com/zhexxian/From-Machine-Learning-To-Zero-Day-Exploits",
     "keywords": [
+        "zero-day exploitation",
         "zero-day exploit"
     ],
     "language": "Python",
     "repo_name": "From-Machine-Learning-To-Zero-Day-Exploits",
     "repo_owner": "zhexxian",
     "repotime": "2016-09-22, 23:36:12",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 280,
@@ -210,7 +231,10 @@
     "forks_count": 10,
     "html_url": "https://github.com/Ashrafdev/MySQL-Remote-Root-Code-Execution",
     "keywords": [
-        "remote code execution exploit"
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution poc",
+        "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "MySQL-Remote-Root-Code-Execution",
@@ -278,7 +302,8 @@
     "forks_count": 12,
     "html_url": "https://github.com/55-AA/CVE-2015-0057",
     "keywords": [
-        "use after free exploit"
+        "use after free exploit",
+        "use after free exploitation"
     ],
     "language": null,
     "repo_name": "CVE-2015-0057",
@@ -286,6 +311,23 @@
     "repotime": "2016-09-13, 08:12:50",
     "stargazers_count": 23,
     "watchers_count": 23
+}
+{
+    "commits_count": 34,
+    "date_started": "2016-12-05",
+    "date_updated": "2016-09-13",
+    "description": " 翻译文章，CVE-2015-0057漏洞在32位和64位系统上的利用。Exploiting the win32k!xxxEnableWndSBArrows use-after-free (CVE 2015-0057) bug on both 32-bit and 64-bit(Aaron Adams of NCC )",
+    "forks_count": 8,
+    "html_url": "https://github.com/highandhigh/CVE-2015-0057",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2015-0057",
+    "repo_owner": "highandhigh",
+    "repotime": "2016-09-13, 08:12:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 148,
@@ -301,8 +343,8 @@
     "repo_name": "xss-filters",
     "repo_owner": "YahooArchive",
     "repotime": "2016-09-12, 13:03:36",
-    "stargazers_count": 1079,
-    "watchers_count": 1079
+    "stargazers_count": 1081,
+    "watchers_count": 1081
 }
 {
     "commits_count": 2,
@@ -318,6 +360,23 @@
     "repo_name": "lfi-challenge",
     "repo_owner": "Anthem9",
     "repotime": "2016-09-09, 18:10:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2016-09-08",
+    "date_updated": "2016-09-08",
+    "description": "about bypass uac",
+    "forks_count": 5,
+    "html_url": "https://github.com/luciouskami/ByPassUac-1",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "HTML",
+    "repo_name": "ByPassUac-1",
+    "repo_owner": "luciouskami",
+    "repotime": "2016-09-08, 17:14:37",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -363,7 +422,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/vaginessa/exploit0day",
     "keywords": [
-        "0day exploitation"
+        "0day exploitation",
+        "0day exploit"
     ],
     "language": null,
     "repo_name": "exploit0day",

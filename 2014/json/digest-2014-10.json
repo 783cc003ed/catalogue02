@@ -1,4 +1,21 @@
 {
+    "commits_count": 7,
+    "date_started": "2014-10-12",
+    "date_updated": "2014-10-27",
+    "description": "A keystroke logger to exploit XSS vulnerabilities in a site - for my personal Educational purposes only",
+    "forks_count": 42,
+    "html_url": "https://github.com/hadynz/xss-keylogger",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xss-keylogger",
+    "repo_owner": "hadynz",
+    "repotime": "2014-10-27, 00:16:09",
+    "stargazers_count": 164,
+    "watchers_count": 164
+}
+{
     "commits_count": 232,
     "date_started": "2013-02-08",
     "date_updated": "2014-10-24",
@@ -12,8 +29,8 @@
     "repo_name": "thresher",
     "repo_owner": "cuplv",
     "repotime": "2014-10-24, 21:22:19",
-    "stargazers_count": 31,
-    "watchers_count": 31
+    "stargazers_count": 32,
+    "watchers_count": 32
 }
 {
     "commits_count": 1259,
@@ -29,8 +46,8 @@
     "repo_name": "auto-patcher",
     "repo_owner": "mateor",
     "repotime": "2014-10-21, 00:31:13",
-    "stargazers_count": 74,
-    "watchers_count": 74
+    "stargazers_count": 75,
+    "watchers_count": 75
 }
 {
     "commits_count": 2,
@@ -40,6 +57,7 @@
     "forks_count": 4,
     "html_url": "https://github.com/ronald-nsale/Poodle-Me",
     "keywords": [
+        "session vulnerability",
         "session attack"
     ],
     "language": null,
@@ -54,17 +72,18 @@
     "date_started": "2014-05-15",
     "date_updated": "2014-10-14",
     "description": "A tool to exploit .NET DCOM for EoP and RCE. Is fixed in latest versions of the .NET.",
-    "forks_count": 30,
+    "forks_count": 31,
     "html_url": "https://github.com/tyranid/ExploitDotNetDCOM",
     "keywords": [
-        "rce exploit"
+        "rce exploit",
+        "rce exploitation"
     ],
     "language": "C++",
     "repo_name": "ExploitDotNetDCOM",
     "repo_owner": "tyranid",
     "repotime": "2014-10-14, 23:44:26",
-    "stargazers_count": 87,
-    "watchers_count": 87
+    "stargazers_count": 91,
+    "watchers_count": 91
 }
 {
     "commits_count": 15,
@@ -80,8 +99,8 @@
     "repo_name": "InjectionAttackFilter",
     "repo_owner": "acslocum",
     "repotime": "2014-10-06, 17:18:45",
-    "stargazers_count": 34,
-    "watchers_count": 34
+    "stargazers_count": 35,
+    "watchers_count": 35
 }
 {
     "commits_count": 1,

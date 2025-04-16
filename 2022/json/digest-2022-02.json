@@ -1,19 +1,36 @@
 {
-    "commits_count": 2,
+    "commits_count": 1,
+    "date_started": "2021-04-01",
+    "date_updated": "2022-02-28",
+    "description": "--------------------------------------------------------------------------------------------------------------------------------------- - script  :  https://pst.klgrth.io/paste/7zb9xspodnoh47wnu4f6cqcc -----------------------------------------------------------------------------------------------------------------------------------------   Its called:Instant Refund Method G2A to make some easy money with BITCOIN.    Read this eBook first as it's a core of the method:  -------------------------------------------------------------------------------------------------------------------------- https://anonfiles.com/v4s1q683qd/g2a-BTC-method_v4.0_-updated_pdf  ---------------------------------------------------------------------------------------------------------------------------    G2A Instant Refund Exploit allows you to get any product from https://www.g2a.com/ completely for free.you will need some Bitcoin (because you will have to send a payment for these products, which will be retur...",
+    "forks_count": 0,
+    "html_url": "https://github.com/ozacksoz78/BTC-EXPLOIT-METHODS",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": null,
+    "repo_name": "BTC-EXPLOIT-METHODS",
+    "repo_owner": "ozacksoz78",
+    "repotime": "2022-02-28, 18:04:37",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 1,
     "date_started": "2022-02-26",
     "date_updated": "2022-02-26",
-    "description": "PoC for CVE-2022-21971 &amp;quot;Windows Runtime Remote Code Execution Vulnerability&amp;quot;",
-    "forks_count": 64,
-    "html_url": "https://github.com/0vercl0k/CVE-2022-21971",
+    "description": "Local File Inclusion Vuln ",
+    "forks_count": 0,
+    "html_url": "https://github.com/websofchaos/LFI",
     "keywords": [
-        "Windows remote code execution"
+        "local file inclusion"
     ],
-    "language": "Rich Text Format",
-    "repo_name": "CVE-2022-21971",
-    "repo_owner": "0vercl0k",
-    "repotime": "2022-02-26, 12:45:07",
-    "stargazers_count": 305,
-    "watchers_count": 305
+    "language": "PHP",
+    "repo_name": "LFI",
+    "repo_owner": "websofchaos",
+    "repotime": "2022-02-26, 23:57:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 2,
@@ -23,7 +40,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/tufanturhan/CVE-2022-21971-Windows-Runtime-RCE",
     "keywords": [
-        "Windows rce"
+        "Windows rce",
+        "Win rce"
     ],
     "language": "Rich Text Format",
     "repo_name": "CVE-2022-21971-Windows-Runtime-RCE",
@@ -36,18 +54,40 @@
     "commits_count": 2,
     "date_started": "2022-02-26",
     "date_updated": "2022-02-26",
+    "description": "PoC for CVE-2022-21971 &amp;quot;Windows Runtime Remote Code Execution Vulnerability&amp;quot;",
+    "forks_count": 61,
+    "html_url": "https://github.com/0vercl0k/CVE-2022-21971",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "remote code execution vulnerability",
+        "remote code execution poc",
+        "Windows remote code execution poc"
+    ],
+    "language": "Rich Text Format",
+    "repo_name": "CVE-2022-21971",
+    "repo_owner": "0vercl0k",
+    "repotime": "2022-02-26, 12:45:07",
+    "stargazers_count": 306,
+    "watchers_count": 306
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-26",
+    "date_updated": "2022-02-26",
     "description": "PoC for CVE-2022-21974 &amp;quot;Roaming Security Rights Management Services Remote Code Execution Vulnerability&amp;quot;",
     "forks_count": 12,
     "html_url": "https://github.com/0vercl0k/CVE-2022-21974",
     "keywords": [
+        "remote code execution vulnerability",
         "remote code execution poc"
     ],
     "language": "Rich Text Format",
     "repo_name": "CVE-2022-21974",
     "repo_owner": "0vercl0k",
     "repotime": "2022-02-26, 11:11:56",
-    "stargazers_count": 58,
-    "watchers_count": 58
+    "stargazers_count": 59,
+    "watchers_count": 59
 }
 {
     "commits_count": 16,
@@ -57,7 +97,11 @@
     "forks_count": 0,
     "html_url": "https://github.com/malakkf/CVE-2021-46702",
     "keywords": [
-        "Windows use after free vulnerability"
+        "use after free disclosure",
+        "Windows use after free",
+        "Windows use after free disclosure",
+        "Windows use after free vulnerability",
+        "use after free vulnerability"
     ],
     "language": "Shell",
     "repo_name": "CVE-2021-46702",
@@ -65,6 +109,23 @@
     "repotime": "2022-02-26, 17:44:24",
     "stargazers_count": 6,
     "watchers_count": 6
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-02-25",
+    "date_updated": "2022-02-26",
+    "description": "The Dow Jones Industrial Average (DJIA), is a stock market index that shows how 30 large, publicly owned companies based in the United States have traded during a standard trading session in the stock market. The value of the Dow is not a weighted arithmetic mean and does not represent its component companies' market capitalization, but rather the sum of the price of one share of stock for each component company. The sum is corrected by a factor which changes whenever one of the component stocks has a stock split or stock dividend, so as to generate a consistent value for the index.  It is the second-oldest U.S. market index after the Dow Jones Transportation Average, created by Wall Street Journal editor and Dow Jones &amp;amp; Company co-founder Charles Dow. Currently owned by S&amp;amp;P Dow Jones Indices, which is majority owned by S&amp;amp;P Global, it is the best known of the Dow Averages, of which the first (non-industrial) was originally published on February 16, 1885.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rishi45D/Stock-close-price-prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Stock-close-price-prediction",
+    "repo_owner": "Rishi45D",
+    "repotime": "2022-02-26, 03:23:14",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 5,
@@ -91,14 +152,17 @@
     "forks_count": 3,
     "html_url": "https://github.com/wjl110/Clash_for_Windows-poc-rce-",
     "keywords": [
+        "Win rce poc",
+        "Windows rce poc",
+        "Win rce",
         "Windows rce"
     ],
     "language": null,
     "repo_name": "Clash_for_Windows-poc-rce-",
     "repo_owner": "wjl110",
     "repotime": "2022-02-25, 23:43:02",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 4,
@@ -108,7 +172,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/Jaky5155/clash_windows_RCE",
     "keywords": [
-        "Windows rce"
+        "Windows rce",
+        "Win rce"
     ],
     "language": null,
     "repo_name": "clash_windows_RCE",
@@ -116,6 +181,23 @@
     "repotime": "2022-02-25, 22:36:20",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 551,
+    "date_started": "2015-09-17",
+    "date_updated": "2022-02-25",
+    "description": "DEPRECATED (We're working on the &amp;quot;odca-jekyll&amp;quot; repo instead) California’s online source for local campaign finance data",
+    "forks_count": 15,
+    "html_url": "https://github.com/caciviclab/disclosure-frontend",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "JavaScript",
+    "repo_name": "disclosure-frontend",
+    "repo_owner": "caciviclab",
+    "repotime": "2022-02-25, 07:03:59",
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 20,
@@ -139,7 +221,7 @@
     "date_started": "2014-01-11",
     "date_updated": "2022-02-24",
     "description": "This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.",
-    "forks_count": 157,
+    "forks_count": 156,
     "html_url": "https://github.com/NetSPI/xssValidator",
     "keywords": [
         "xss"
@@ -148,8 +230,8 @@
     "repo_name": "xssValidator",
     "repo_owner": "NetSPI",
     "repotime": "2022-02-24, 15:00:10",
-    "stargazers_count": 409,
-    "watchers_count": 409
+    "stargazers_count": 414,
+    "watchers_count": 414
 }
 {
     "commits_count": 9,
@@ -159,6 +241,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/egovorukhin/pathTraversalAttacks",
     "keywords": [
+        "path traversal vulnerability",
         "path traversal attack"
     ],
     "language": "Go",
@@ -176,7 +259,10 @@
     "forks_count": 2,
     "html_url": "https://github.com/OXDBXKXO/ez-pwnkit",
     "keywords": [
-        "lpe exploit"
+        "escalation of privileges exploitation",
+        "lpe exploit",
+        "escalation of privileges exploit",
+        "lpe exploitation"
     ],
     "language": "Go",
     "repo_name": "ez-pwnkit",
@@ -190,7 +276,7 @@
     "date_started": "2014-03-28",
     "date_updated": "2022-02-23",
     "description": "HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors",
-    "forks_count": 420,
+    "forks_count": 421,
     "html_url": "https://github.com/cure53/H5SC",
     "keywords": [
         "xss"
@@ -199,8 +285,8 @@
     "repo_name": "H5SC",
     "repo_owner": "cure53",
     "repotime": "2022-02-23, 17:46:18",
-    "stargazers_count": 2851,
-    "watchers_count": 2851
+    "stargazers_count": 2876,
+    "watchers_count": 2876
 }
 {
     "commits_count": 15,
@@ -210,7 +296,16 @@
     "forks_count": 4,
     "html_url": "https://github.com/snippray/Hell0",
     "keywords": [
-        "Windows 0day"
+        "0day exploit",
+        "Windows 0day exploitation",
+        "Windows zero-day exploitation",
+        "Windows zero-day",
+        "Windows 0day exploit",
+        "0day exploitation",
+        "zero-day exploitation",
+        "Windows 0day",
+        "zero-day exploit",
+        "Windows zero-day exploit"
     ],
     "language": "Python",
     "repo_name": "Hell0",
@@ -233,8 +328,8 @@
     "repo_name": "cybersecurity-ssrf",
     "repo_owner": "paulveillard",
     "repotime": "2022-02-21, 20:07:57",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 2,
@@ -261,7 +356,10 @@
     "forks_count": 0,
     "html_url": "https://github.com/ousbaailyas/Directory_traversal",
     "keywords": [
-        "path traversal attack"
+        "directory traversal attack",
+        "path traversal vulnerability",
+        "path traversal attack",
+        "directory traversal vulnerability"
     ],
     "language": null,
     "repo_name": "Directory_traversal",
@@ -292,17 +390,22 @@
     "date_started": "2021-11-28",
     "date_updated": "2022-02-21",
     "description": "CVE-2021-24084 Windows Local Privilege Escalation Left officially unpatched since 2020. Hence, its still a zero day",
-    "forks_count": 14,
+    "forks_count": 15,
     "html_url": "https://github.com/exploitblizzard/WindowsMDM-LPE-0Day",
     "keywords": [
-        "Windows 0day"
+        "Win lpe",
+        "Windows lpe",
+        "Windows zero-day",
+        "Win 0day",
+        "Windows 0day",
+        "Win zero-day"
     ],
     "language": "C++",
     "repo_name": "WindowsMDM-LPE-0Day",
     "repo_owner": "exploitblizzard",
     "repotime": "2022-02-21, 14:00:22",
-    "stargazers_count": 48,
-    "watchers_count": 48
+    "stargazers_count": 50,
+    "watchers_count": 50
 }
 {
     "commits_count": 4,
@@ -318,8 +421,8 @@
     "repo_name": "NFC-UAF-exploit-2021",
     "repo_owner": "Ruia-ruia",
     "repotime": "2022-02-20, 22:29:36",
-    "stargazers_count": 29,
-    "watchers_count": 29
+    "stargazers_count": 30,
+    "watchers_count": 30
 }
 {
     "commits_count": 9,
@@ -339,6 +442,23 @@
     "watchers_count": 166
 }
 {
+    "commits_count": 7,
+    "date_started": "2020-07-05",
+    "date_updated": "2022-02-19",
+    "description": "Proof of concept for CVE-2020-5902",
+    "forks_count": 25,
+    "html_url": "https://github.com/yassineaboukir/CVE-2020-5902",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-5902",
+    "repo_owner": "yassineaboukir",
+    "repotime": "2022-02-19, 13:35:53",
+    "stargazers_count": 71,
+    "watchers_count": 71
+}
+{
     "commits_count": 8,
     "date_started": "2020-11-21",
     "date_updated": "2022-02-19",
@@ -346,6 +466,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/retrymp3/Openbsd-Privilege-Escalation",
     "keywords": [
+        "escalation of privileges exploitation",
         "escalation of privileges exploit"
     ],
     "language": "Shell",
@@ -354,6 +475,23 @@
     "repotime": "2022-02-19, 09:41:26",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-02-18",
+    "date_updated": "2022-02-18",
+    "description": "1. It is important that you have the right expectations for free technical support for free open source software. For an average business day you should expect about 24 hours before your first response. For the weekend (any post after 3PM PST Friday to 11AM PST Monday) expect about 48 hours before your first response.  We totally love you, but we also have loved ones, pets, and stuffed animals we like to spend time with when we’re not making free software.  2. Did you check out our Common Issues? https://community.brave.com/c/common-issues 1 Clicking on that Lion in the upper-right corner and fiddling with settings is going to solve like 99% of your problems.  3. Keep It Tidy Rather than posting “+1” or “Agreed”, use the Like button. Rather than taking an existing topic in a radically different direction, use Reply as a Linked Topic.  4. On the Internet nobody knows if you are being funny/sarcastic/rude. Smileys go a long way, but it’s better if you stick to the facts and say ‘please’ ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/DeGuzmanBenjie/Brave-creator-reward-not-received-Gemini-account-my-Gemini-account-is-verified-but-not-received-any-",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Brave-creator-reward-not-received-Gemini-account-my-Gemini-account-is-verified-but-not-received-any-",
+    "repo_owner": "DeGuzmanBenjie",
+    "repotime": "2022-02-18, 05:34:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 20,
@@ -371,6 +509,23 @@
     "repotime": "2022-02-17, 21:28:31",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 0,
+    "date_started": "2020-06-11",
+    "date_updated": "2022-02-17",
+    "description": "Weevely Weevely is a command line web shell dynamically extended over the network at runtime, designed for remote administration and penetration testing. It provides a ssh-like terminal just dropping a PHP script on the target server, even in restricted environments.  The low footprint agent and over 30 modules shape an extensible framework to administrate web accounts and post exploit web servers escalating privileges and moving laterally in the network.  Read the Wiki for tutorials and uses cases.  The modules feature:  Ssh-like terminal Run SQL console pivoting on target Proxy your HTTP traffic pivoting on target Host configurations security auditing Mount target file system locally Conduct network scans pivoting on target File upload and download Spawn reverse and direct TCP shells Bruteforce internal services Manage compressed archives The backdoor agent The remote agent is a small PHP script which can extend its functionality over the network at run-time. The agent code is polymo...",
+    "forks_count": 0,
+    "html_url": "https://github.com/HiredHaxor/Weevely-1.1",
+    "keywords": [
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "Weevely-1.1",
+    "repo_owner": "HiredHaxor",
+    "repotime": "2022-02-17, 19:27:04",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 2,
@@ -405,6 +560,23 @@
     "repotime": "2022-02-17, 16:43:52",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-02-17",
+    "date_updated": "2022-02-17",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/Rrarandom/UAC_Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "UAC_Bypass",
+    "repo_owner": "Rrarandom",
+    "repotime": "2022-02-17, 19:01:47",
+    "stargazers_count": 28,
+    "watchers_count": 28
 }
 {
     "commits_count": 29,
@@ -448,6 +620,7 @@
     "forks_count": 6,
     "html_url": "https://github.com/aniqfakhrul/lazyParam",
     "keywords": [
+        "rce vulnerability",
         "lfi"
     ],
     "language": "Python",
@@ -488,8 +661,8 @@
     "repo_name": "Jira-Scan",
     "repo_owner": "random-robbie",
     "repotime": "2022-02-14, 22:00:28",
-    "stargazers_count": 185,
-    "watchers_count": 185
+    "stargazers_count": 188,
+    "watchers_count": 188
 }
 {
     "commits_count": 10,
@@ -522,8 +695,8 @@
     "repo_name": "CVE-2021-21311",
     "repo_owner": "llhala",
     "repotime": "2022-02-14, 22:01:29",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 6,
@@ -547,17 +720,19 @@
     "date_started": "2019-06-12",
     "date_updated": "2022-02-14",
     "description": "a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and techniques of an advanced adversary in a network.",
-    "forks_count": 121,
-    "html_url": "https://github.com/lawrenceamer/0xsp-Mongoose",
+    "forks_count": 122,
+    "html_url": "https://github.com/zux0x3a/0xsp-Mongoose",
     "keywords": [
-        "escalation of privileges vulnerability"
+        "Windows escalation of privileges vulnerability",
+        "escalation of privileges vulnerability",
+        "Windows escalation of privileges"
     ],
     "language": "Pascal",
     "repo_name": "0xsp-Mongoose",
-    "repo_owner": "lawrenceamer",
+    "repo_owner": "zux0x3a",
     "repotime": "2022-02-14, 11:04:23",
-    "stargazers_count": 529,
-    "watchers_count": 529
+    "stargazers_count": 537,
+    "watchers_count": 537
 }
 {
     "commits_count": 8,
@@ -567,14 +742,15 @@
     "forks_count": 6,
     "html_url": "https://github.com/uvhw/Bitcoin-Foundation",
     "keywords": [
-        "use after free vulnerability"
+        "use after free vulnerability",
+        "use after free denial of service"
     ],
     "language": "C++",
     "repo_name": "Bitcoin-Foundation",
     "repo_owner": "uvhw",
     "repotime": "2022-02-14, 07:05:49",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 34,
@@ -590,8 +766,8 @@
     "repo_name": "Disclosures",
     "repo_owner": "DrunkenShells",
     "repotime": "2022-02-13, 23:59:47",
-    "stargazers_count": 87,
-    "watchers_count": 87
+    "stargazers_count": 89,
+    "watchers_count": 89
 }
 {
     "commits_count": 9,
@@ -618,6 +794,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/VP4triot/WP-SupportPlusTicketSystemPE",
     "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges poc",
         "escalation of privileges exploit"
     ],
     "language": "Go",
@@ -652,14 +830,16 @@
     "forks_count": 35,
     "html_url": "https://github.com/0xDezzy/CVE-2019-11539",
     "keywords": [
+        "rce exploit",
+        "rce exploitation",
         "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2019-11539",
     "repo_owner": "0xDezzy",
     "repotime": "2022-02-10, 18:00:44",
-    "stargazers_count": 131,
-    "watchers_count": 131
+    "stargazers_count": 132,
+    "watchers_count": 132
 }
 {
     "commits_count": 9,
@@ -669,6 +849,7 @@
     "forks_count": 10,
     "html_url": "https://github.com/Xh4H/Satellian-CVE-2020-7980",
     "keywords": [
+        "rce poc",
         "rce vulnerability"
     ],
     "language": "Python",
@@ -683,17 +864,23 @@
     "date_started": "2022-02-08",
     "date_updated": "2022-02-09",
     "description": "Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE)",
-    "forks_count": 159,
+    "forks_count": 160,
     "html_url": "https://github.com/ly4k/SpoolFool",
     "keywords": [
-        "Windows lpe"
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows lpe vulnerability",
+        "lpe vulnerability",
+        "Windows lpe exploitation",
+        "lpe exploitation"
     ],
     "language": "C#",
     "repo_name": "SpoolFool",
     "repo_owner": "ly4k",
     "repotime": "2022-02-09, 17:53:19",
-    "stargazers_count": 763,
-    "watchers_count": 763
+    "stargazers_count": 787,
+    "watchers_count": 787
 }
 {
     "commits_count": 1,
@@ -747,11 +934,28 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 27,
+    "date_started": "2020-12-16",
+    "date_updated": "2022-02-07",
+    "description": "Code for the paper: &amp;quot;Score Matched Conditional Exponential Families for Likelihood-Free Inference&amp;quot;, https://jmlr.org/papers/v23/21-0061.html",
+    "forks_count": 3,
+    "html_url": "https://github.com/LoryPack/SM-ExpFam-LFI",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "SM-ExpFam-LFI",
+    "repo_owner": "LoryPack",
+    "repotime": "2022-02-07, 09:23:33",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 4,
     "date_started": "2022-02-07",
     "date_updated": "2022-02-07",
     "description": "lpe poc for cve-2022-21882 ",
-    "forks_count": 19,
+    "forks_count": 18,
     "html_url": "https://github.com/sailay1996/cve-2022-21882-poc",
     "keywords": [
         "lpe poc"
@@ -760,8 +964,8 @@
     "repo_name": "cve-2022-21882-poc",
     "repo_owner": "sailay1996",
     "repotime": "2022-02-07, 10:19:37",
-    "stargazers_count": 47,
-    "watchers_count": 47
+    "stargazers_count": 49,
+    "watchers_count": 49
 }
 {
     "commits_count": 3,
@@ -785,7 +989,7 @@
     "date_started": "2016-07-06",
     "date_updated": "2022-02-06",
     "description": "Server-Side Template Injection and Code Injection Detection and Exploitation Tool",
-    "forks_count": 670,
+    "forks_count": 683,
     "html_url": "https://github.com/epinna/tplmap",
     "keywords": [
         "code injection"
@@ -794,8 +998,8 @@
     "repo_name": "tplmap",
     "repo_owner": "epinna",
     "repotime": "2022-02-06, 15:13:15",
-    "stargazers_count": 3759,
-    "watchers_count": 3759
+    "stargazers_count": 3917,
+    "watchers_count": 3917
 }
 {
     "commits_count": 4,
@@ -805,7 +1009,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/7ub/AnonStress-Stored-XSS-Exploit",
     "keywords": [
-        "0day exploitation"
+        "0day exploitation",
+        "0day vulnerability"
     ],
     "language": "Python",
     "repo_name": "AnonStress-Stored-XSS-Exploit",
@@ -836,7 +1041,7 @@
     "date_started": "2021-12-19",
     "date_updated": "2022-02-04",
     "description": "A Basic Java Application Vulnerable to the Log4Shell RCE",
-    "forks_count": 32,
+    "forks_count": 35,
     "html_url": "https://github.com/tothi/log4shell-vulnerable-app",
     "keywords": [
         "rce vulnerability"
@@ -845,8 +1050,8 @@
     "repo_name": "log4shell-vulnerable-app",
     "repo_owner": "tothi",
     "repotime": "2022-02-04, 23:37:25",
-    "stargazers_count": 38,
-    "watchers_count": 38
+    "stargazers_count": 40,
+    "watchers_count": 40
 }
 {
     "commits_count": 1,
@@ -873,14 +1078,32 @@
     "forks_count": 1,
     "html_url": "https://github.com/ec-council-learning/Hands-on-Zero-Day-Exploit",
     "keywords": [
+        "zero-day exploitation",
         "zero-day exploit"
     ],
     "language": "Python",
     "repo_name": "Hands-on-Zero-Day-Exploit",
     "repo_owner": "ec-council-learning",
     "repotime": "2022-02-04, 13:55:11",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-09-24",
+    "date_updated": "2022-02-04",
+    "description": "CVE-2018-13379 Exploit",
+    "forks_count": 5,
+    "html_url": "https://github.com/0xHunter/FortiOS-Credentials-Disclosure",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "FortiOS-Credentials-Disclosure",
+    "repo_owner": "0xHunter",
+    "repotime": "2022-02-04, 05:12:28",
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 5,
@@ -898,6 +1121,23 @@
     "repotime": "2022-02-03, 23:01:51",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-02-01",
+    "date_updated": "2022-02-03",
+    "description": "phpMyAdmin XSS ",
+    "forks_count": 24,
+    "html_url": "https://github.com/dipakpanchal05/CVE-2022-23808",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-23808",
+    "repo_owner": "dipakpanchal05",
+    "repotime": "2022-02-03, 21:51:01",
+    "stargazers_count": 111,
+    "watchers_count": 111
 }
 {
     "commits_count": 13,
@@ -924,12 +1164,32 @@
     "forks_count": 4,
     "html_url": "https://github.com/LucaBarile/TOCTOU",
     "keywords": [
-        "lpe exploit"
+        "lpe poc",
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
     ],
     "language": "C#",
     "repo_name": "TOCTOU",
     "repo_owner": "LucaBarile",
     "repotime": "2022-02-01, 22:37:18",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-01-31",
+    "date_updated": "2022-02-01",
+    "description": "This is a simple eCommerce website. It's totally build using Django. I mainly build this project for the purpose of practicing Django. In this Project, you can see cart functionality then I added some more features like user authentication, login, logout functionality. if you are a superuser, you can able to add products, delete products, and update products. if you are just a normal authenticated user then you can able to view, and Cart products. if you are an unauthenticated user then you can only able to see products.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mh152796/Ecommerce_Website",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "CSS",
+    "repo_name": "Ecommerce_Website",
+    "repo_owner": "mh152796",
+    "repotime": "2022-02-01, 00:37:35",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }

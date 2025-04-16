@@ -6,7 +6,14 @@
     "forks_count": 54,
     "html_url": "https://github.com/alpha1ab/Win2016LPE",
     "keywords": [
-        "lpe exploit"
+        "Win lpe",
+        "Windows lpe exploit",
+        "Win lpe exploitation",
+        "Windows lpe",
+        "Windows lpe exploitation",
+        "lpe exploit",
+        "Win lpe exploit",
+        "lpe exploitation"
     ],
     "language": "C",
     "repo_name": "Win2016LPE",
@@ -14,6 +21,23 @@
     "repotime": "2018-09-28, 13:28:59",
     "stargazers_count": 102,
     "watchers_count": 102
+}
+{
+    "commits_count": 10,
+    "date_started": "2017-01-12",
+    "date_updated": "2018-09-27",
+    "description": "Recaptcha v2 - Session Hijacker",
+    "forks_count": 0,
+    "html_url": "https://github.com/rafaelsilverioit/recaptchahijacker",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "recaptchahijacker",
+    "repo_owner": "rafaelsilverioit",
+    "repotime": "2018-09-27, 15:30:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 9,
@@ -29,8 +53,42 @@
     "repo_name": "vulnerable-lfi",
     "repo_owner": "nikosdano",
     "repotime": "2018-09-27, 10:54:53",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-04-07",
+    "date_updated": "2018-09-26",
+    "description": "<no description>",
+    "forks_count": 2,
+    "html_url": "https://github.com/ZTK-009/RDP_SessionHijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Batchfile",
+    "repo_name": "RDP_SessionHijacking",
+    "repo_owner": "ZTK-009",
+    "repotime": "2018-09-26, 11:07:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-09-24",
+    "date_updated": "2018-09-26",
+    "description": "Linux x86_64 inject based on inject",
+    "forks_count": 5,
+    "html_url": "https://github.com/HotIce0/code_injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C",
+    "repo_name": "code_injection",
+    "repo_owner": "HotIce0",
+    "repotime": "2018-09-26, 08:34:35",
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 2,
@@ -40,14 +98,19 @@
     "forks_count": 7,
     "html_url": "https://github.com/HlaingPhyoAung/sqlmap",
     "keywords": [
+        "Windows escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "csv injection",
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges",
         "escalation of privileges exploit"
     ],
     "language": null,
     "repo_name": "sqlmap",
     "repo_owner": "HlaingPhyoAung",
     "repotime": "2018-09-21, 04:51:04",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 18,
@@ -74,6 +137,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/jadeallencook/Zero-Days",
     "keywords": [
+        "zero-day exploitation",
         "zero-day exploit"
     ],
     "language": "JavaScript",
@@ -97,15 +161,32 @@
     "repo_name": "aws-metadata-proxy",
     "repo_owner": "Netflix-Skunkworks",
     "repotime": "2018-09-17, 08:04:34",
-    "stargazers_count": 68,
-    "watchers_count": 68
+    "stargazers_count": 67,
+    "watchers_count": 67
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-09-13",
+    "date_updated": "2018-09-13",
+    "description": "Canton Roofer Rain is a blessing of God. It is such a thing which is liked by every person in the world. It is very useful thing for every type of creature. It has good impacts on your mood. Sometimes, when you become irritated by your boring and dull routine of life, then rain becomes the source of fun in your life. Many people enjoy the rain by long drives while some people enjoy the rain by seeing this and also they make some delicious dishes and make the fun of rain double. Rain is useful not only for humans but also it is very useful for plants and trees. It has good effects on the health of plants and trees. It becomes the natural source of water for plants and trees. After rain, everything becomes neat and clean. And this cleanliness is a big source of attraction for everyone. Some people want to enjoy the rain with their friends and fellows by going outside. But some people want to enjoy these natural things by living at home with their family members. But you only can enjoy th...",
+    "forks_count": 0,
+    "html_url": "https://github.com/royaltyroofs/Canton-Roofer",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Canton-Roofer",
+    "repo_owner": "royaltyroofs",
+    "repotime": "2018-09-13, 12:31:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 12,
     "date_started": "2018-09-10",
     "date_updated": "2018-09-12",
     "description": "A PowerShell example of the Windows zero day priv esc",
-    "forks_count": 87,
+    "forks_count": 86,
     "html_url": "https://github.com/OneLogicalMyth/zeroday-powershell",
     "keywords": [
         "Windows zero-day"
@@ -114,8 +195,8 @@
     "repo_name": "zeroday-powershell",
     "repo_owner": "OneLogicalMyth",
     "repotime": "2018-09-12, 10:03:03",
-    "stargazers_count": 321,
-    "watchers_count": 321
+    "stargazers_count": 326,
+    "watchers_count": 326
 }
 {
     "commits_count": 20,
@@ -125,14 +206,15 @@
     "forks_count": 2,
     "html_url": "https://github.com/manojcode/Foxit-Reader-RCE-with-virualalloc-and-shellcode-for-CVE-2018-9948-and-CVE-2018-9958",
     "keywords": [
-        "dep bypass"
+        "dep bypass",
+        "aslr bypass"
     ],
     "language": "Python",
     "repo_name": "Foxit-Reader-RCE-with-virualalloc-and-shellcode-for-CVE-2018-9948-and-CVE-2018-9958",
     "repo_owner": "manojcode",
     "repotime": "2018-09-11, 19:49:06",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 2,
@@ -142,7 +224,9 @@
     "forks_count": 3,
     "html_url": "https://github.com/whereisr0da/CVE-2018-8353-POC",
     "keywords": [
-        "Microsoft use after free poc"
+        "Microsoft use after free poc",
+        "use after free poc",
+        "Microsoft use after free"
     ],
     "language": "HTML",
     "repo_name": "CVE-2018-8353-POC",
@@ -156,17 +240,20 @@
     "date_started": "2017-09-14",
     "date_updated": "2018-09-10",
     "description": "Exploit toolkit CVE-2017-8759 - v1.0 is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft .NET Framework RCE. It could generate a malicious RTF file and deliver metasploit / meterpreter / other payload to victim without any complex configuration.",
-    "forks_count": 127,
+    "forks_count": 109,
     "html_url": "https://github.com/bhdresh/CVE-2017-8759",
     "keywords": [
-        "Microsoft rce exploit"
+        "Microsoft rce exploitation",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "CVE-2017-8759",
     "repo_owner": "bhdresh",
     "repotime": "2018-09-10, 20:25:11",
-    "stargazers_count": 317,
-    "watchers_count": 317
+    "stargazers_count": 316,
+    "watchers_count": 316
 }
 {
     "commits_count": 33,
@@ -176,14 +263,16 @@
     "forks_count": 111,
     "html_url": "https://github.com/ww9210/Linux_kernel_exploits",
     "keywords": [
-        "lpe exploit"
+        "lpe exploit",
+        "lpe vulnerability",
+        "lpe exploitation"
     ],
     "language": "C",
     "repo_name": "Linux_kernel_exploits",
     "repo_owner": "ww9210",
     "repotime": "2018-09-06, 20:02:34",
-    "stargazers_count": 491,
-    "watchers_count": 491
+    "stargazers_count": 497,
+    "watchers_count": 497
 }
 {
     "commits_count": 10,
@@ -193,14 +282,21 @@
     "forks_count": 12,
     "html_url": "https://github.com/landonasato/Function",
     "keywords": [
-        "Win use after free exploit"
+        "Windows use after free",
+        "Win use after free",
+        "Win use after free exploit",
+        "Windows use after free exploit",
+        "use after free exploitation",
+        "Win use after free exploitation",
+        "Windows use after free exploitation",
+        "use after free exploit"
     ],
     "language": "HTML",
     "repo_name": "Function",
     "repo_owner": "landonasato",
     "repotime": "2018-09-05, 12:18:06",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 1,
@@ -210,6 +306,7 @@
     "forks_count": 3,
     "html_url": "https://github.com/Nervous/WebLogic-RCE-exploit",
     "keywords": [
+        "remote code execution exploitation",
         "remote code execution exploit"
     ],
     "language": "Python",

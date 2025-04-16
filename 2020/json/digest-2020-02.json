@@ -23,7 +23,11 @@
     "forks_count": 0,
     "html_url": "https://github.com/younghack3r/cyberknowtz",
     "keywords": [
-        "Chrome zero-day"
+        "zero-day exploitation",
+        "Chrome zero-day",
+        "Chrome zero-day exploit",
+        "Chrome zero-day exploitation",
+        "zero-day exploit"
     ],
     "language": "Shell",
     "repo_name": "cyberknowtz",
@@ -46,8 +50,25 @@
     "repo_name": "xfrm_poc",
     "repo_owner": "duasynt",
     "repotime": "2020-02-29, 05:06:36",
-    "stargazers_count": 132,
-    "watchers_count": 132
+    "stargazers_count": 133,
+    "watchers_count": 133
+}
+{
+    "commits_count": 0,
+    "date_started": "2020-02-28",
+    "date_updated": "2020-02-28",
+    "description": "Yeah?  Can you turn down the music.  What?  Can you turn down the music!  I'm trying to get some sleep here!  Turn down the music?  How's that!  How's that. Is that much better?  Turn down your damn music, or I'll come over there and turn it down myself!  All right, sucker. You come down here, we can dance.  Hello?  Hello?  Bitch!  When I don't get enough sleep, I get irritable. And you don't want to make me -  'Calling VAGAN'  Wait! Who are you?  Just a bean trying to get some sleep.  Wait, wait, wait, wait, wait!  You came here just to make us turn off the music?  If you were listening on the phone,  I said I would come here to turn it off myself.  What!  Are you insane?! Do you know what you just got yourself into?  Do you know who I am!  Do you know who my uncle is?!  Yes.  I do.  Detective Cromwell. Good morning.  Yeah.  Something tells me there's nothing good about this morning.  What do we got here?  Multiple gunshots were reported coming from this warehouse.  I was the first on...",
+    "forks_count": 0,
+    "html_url": "https://github.com/nasa10069420/hola",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "hola",
+    "repo_owner": "nasa10069420",
+    "repotime": "2020-02-28, 15:26:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 9,
@@ -135,11 +156,46 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 5,
+    "date_started": "2020-02-22",
+    "date_updated": "2020-02-22",
+    "description": "The official exploit for Cacti v1.2.8 Remote Code Execution CVE-2020-8813",
+    "forks_count": 20,
+    "html_url": "https://github.com/mhaskar/CVE-2020-8813",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-8813",
+    "repo_owner": "mhaskar",
+    "repotime": "2020-02-22, 18:33:31",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-02-22",
+    "date_updated": "2020-02-22",
+    "description": "CVE-2020-1938",
+    "forks_count": 8,
+    "html_url": "https://github.com/ze0r/GhostCat-LFI-exp",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "GhostCat-LFI-exp",
+    "repo_owner": "ze0r",
+    "repotime": "2020-02-22, 13:23:52",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
     "commits_count": 3,
     "date_started": "2020-02-20",
     "date_updated": "2020-02-20",
     "description": "Tomcat-Ajp协议文件读取漏洞",
-    "forks_count": 341,
+    "forks_count": 340,
     "html_url": "https://github.com/YDHCUI/CNVD-2020-10487-Tomcat-Ajp-lfi",
     "keywords": [
         "lfi"
@@ -148,8 +204,8 @@
     "repo_name": "CNVD-2020-10487-Tomcat-Ajp-lfi",
     "repo_owner": "YDHCUI",
     "repotime": "2020-02-20, 23:39:27",
-    "stargazers_count": 753,
-    "watchers_count": 753
+    "stargazers_count": 773,
+    "watchers_count": 773
 }
 {
     "commits_count": 7,
@@ -159,14 +215,17 @@
     "forks_count": 2,
     "html_url": "https://github.com/Dor-Tumarkin/CVE-2019-17564-FastJson-Gadget",
     "keywords": [
-        "unauthenticated remote code execution"
+        "remote code execution exploitation",
+        "unauthenticated remote code execution",
+        "remote code execution vulnerability",
+        "remote code execution exploit"
     ],
     "language": "Java",
     "repo_name": "CVE-2019-17564-FastJson-Gadget",
     "repo_owner": "Dor-Tumarkin",
     "repotime": "2020-02-20, 13:49:34",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 67,
@@ -190,7 +249,7 @@
     "date_started": "2015-11-15",
     "date_updated": "2020-02-18",
     "description": "From XSS to RCE 2.75 - Black Hat Europe Arsenal 2017 + Extras",
-    "forks_count": 101,
+    "forks_count": 84,
     "html_url": "https://github.com/Varbaek/xsser",
     "keywords": [
         "xss"
@@ -199,8 +258,8 @@
     "repo_name": "xsser",
     "repo_owner": "Varbaek",
     "repotime": "2020-02-18, 20:57:19",
-    "stargazers_count": 423,
-    "watchers_count": 423
+    "stargazers_count": 425,
+    "watchers_count": 425
 }
 {
     "commits_count": 15,
@@ -210,6 +269,7 @@
     "forks_count": 7,
     "html_url": "https://github.com/superzerosec/cve-2020-7247",
     "keywords": [
+        "remote code execution exploitation",
         "remote code execution exploit"
     ],
     "language": "Python",
@@ -227,7 +287,10 @@
     "forks_count": 3,
     "html_url": "https://github.com/ianxtianxt/CVE-2019-5096-GoAhead-Web-Server-Dos-Exploit",
     "keywords": [
-        "uaf exploit"
+        "uaf exploit",
+        "uaf exploitation",
+        "uaf dos",
+        "uaf denial of service"
     ],
     "language": null,
     "repo_name": "CVE-2019-5096-GoAhead-Web-Server-Dos-Exploit",
@@ -254,6 +317,23 @@
     "watchers_count": 37
 }
 {
+    "commits_count": 2,
+    "date_started": "2020-02-14",
+    "date_updated": "2020-02-14",
+    "description": "Privacy Policy Vitaly built the Mario simple app as a Free app. This SERVICE is provided by Vitaly at no cost and is intended for use as is.  This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.  If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.  The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Mario simple unless otherwise defined in this Privacy Policy.  Information Collection and Use  For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained o...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vitaly-code/Privacy-Policy",
+    "keywords": [
+        "use after free disclosure"
+    ],
+    "language": null,
+    "repo_name": "Privacy-Policy",
+    "repo_owner": "Vitaly-code",
+    "repotime": "2020-02-14, 09:10:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 8,
     "date_started": "2019-08-21",
     "date_updated": "2020-02-12",
@@ -261,7 +341,8 @@
     "forks_count": 6,
     "html_url": "https://github.com/jakgibb/nagiosxi-root-rce-exploit",
     "keywords": [
-        "rce vulnerability"
+        "rce vulnerability",
+        "rce exploit"
     ],
     "language": "PHP",
     "repo_name": "nagiosxi-root-rce-exploit",
@@ -286,6 +367,41 @@
     "repotime": "2020-02-12, 22:00:35",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-02-11",
+    "date_updated": "2020-02-11",
+    "description": "Exploit Use After Free (W7 SP1 x86 )  - Hacksys Driver ",
+    "forks_count": 0,
+    "html_url": "https://github.com/dvicedo/UseAfterFree",
+    "keywords": [
+        "use after free exploit",
+        "use after free exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "UseAfterFree",
+    "repo_owner": "dvicedo",
+    "repotime": "2020-02-11, 11:22:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-02-09",
+    "date_updated": "2020-02-11",
+    "description": "Neural likelihood-free methods in PyTorch. ",
+    "forks_count": 9,
+    "html_url": "https://github.com/conormdurkan/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "lfi",
+    "repo_owner": "conormdurkan",
+    "repotime": "2020-02-11, 12:13:29",
+    "stargazers_count": 39,
+    "watchers_count": 39
 }
 {
     "commits_count": 2,
@@ -329,14 +445,15 @@
     "forks_count": 7,
     "html_url": "https://github.com/blazeinfosec/aslrekt",
     "keywords": [
+        "aslr bypass",
         "aslr bypass proof of concept"
     ],
     "language": "C",
     "repo_name": "aslrekt",
     "repo_owner": "blazeinfosec",
     "repotime": "2020-02-10, 13:36:38",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 10,
@@ -346,6 +463,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/shamiul94/DHCP-Spoofing-Attack-Network-Security",
     "keywords": [
+        "spoofing session",
         "session attack"
     ],
     "language": "Python",
@@ -354,6 +472,23 @@
     "repotime": "2020-02-10, 09:14:15",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-02-06",
+    "date_updated": "2020-02-06",
+    "description": "Remote code execution in Microvirt MEmu",
+    "forks_count": 2,
+    "html_url": "https://github.com/seqred-s-a/cve-2019-14514",
+    "keywords": [
+        "remote code execution exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "cve-2019-14514",
+    "repo_owner": "seqred-s-a",
+    "repotime": "2020-02-06, 10:07:15",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 2,
@@ -380,6 +515,8 @@
     "forks_count": 7,
     "html_url": "https://github.com/bo1349/Thinkcmf_RCE",
     "keywords": [
+        "rce exploit",
+        "rce exploitation",
         "rce vulnerability"
     ],
     "language": "Python",
@@ -411,7 +548,7 @@
     "date_started": "2020-02-04",
     "date_updated": "2020-02-04",
     "description": "Amlogic S905L Android 6.0 Firmwares",
-    "forks_count": 23,
+    "forks_count": 25,
     "html_url": "https://github.com/afirmware/AmlogicS905LFirmwares",
     "keywords": [
         "lfi"
@@ -420,8 +557,8 @@
     "repo_name": "AmlogicS905LFirmwares",
     "repo_owner": "afirmware",
     "repotime": "2020-02-04, 17:51:23",
-    "stargazers_count": 34,
-    "watchers_count": 34
+    "stargazers_count": 41,
+    "watchers_count": 41
 }
 {
     "commits_count": 1,
@@ -431,7 +568,10 @@
     "forks_count": 0,
     "html_url": "https://github.com/DimitriFourny/uaf_replacer",
     "keywords": [
-        "uaf exploit"
+        "uaf exploit",
+        "uaf exploitation",
+        "use after free exploitation",
+        "use after free exploit"
     ],
     "language": "C++",
     "repo_name": "uaf_replacer",
@@ -456,6 +596,23 @@
     "repotime": "2020-02-02, 15:35:40",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-01-08",
+    "date_updated": "2020-02-01",
+    "description": "Built in Python where I analyze online session data of users to gain insights into their browsing patterns in e-commerce sites and the factors that affect a purchase. Various model like Random-Forest, KNN, Gradient-boost, built as a prediction model and compared these models with deep learning technique ",
+    "forks_count": 0,
+    "html_url": "https://github.com/kshreyas20/Onlineshopping",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Onlineshopping",
+    "repo_owner": "kshreyas20",
+    "repotime": "2020-02-01, 19:00:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,

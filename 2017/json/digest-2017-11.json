@@ -12,8 +12,8 @@
     "repo_name": "Windows-Fingerprint-PowerShell",
     "repo_owner": "caday00",
     "repotime": "2017-11-30, 20:08:19",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 1,
@@ -29,6 +29,23 @@
     "repo_name": "angular-dfp-memory-leak-proof-of-concept",
     "repo_owner": "jbojcic1",
     "repotime": "2017-11-30, 22:31:41",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 13,
+    "date_started": "2017-11-05",
+    "date_updated": "2017-11-28",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/FelipeBrizola/tcp-session-hijacking-ipv6",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "C++",
+    "repo_name": "tcp-session-hijacking-ipv6",
+    "repo_owner": "FelipeBrizola",
+    "repotime": "2017-11-28, 15:49:36",
     "stargazers_count": 1,
     "watchers_count": 1
 }
@@ -67,23 +84,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 9,
-    "date_started": "2017-11-18",
-    "date_updated": "2017-11-22",
-    "description": "Path Traversal Vulnerability Detector",
-    "forks_count": 1,
-    "html_url": "https://github.com/ikanoano/PTVD",
-    "keywords": [
-        "path traversal vulnerability"
-    ],
-    "language": "Java",
-    "repo_name": "PTVD",
-    "repo_owner": "ikanoano",
-    "repotime": "2017-11-22, 13:16:21",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 20,
     "date_started": "2017-01-18",
     "date_updated": "2017-11-20",
@@ -97,8 +97,45 @@
     "repo_name": "SQL-Injection-Simulation-Project",
     "repo_owner": "mndarren",
     "repotime": "2017-11-20, 17:25:23",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 111,
+    "date_started": "2017-04-17",
+    "date_updated": "2017-11-19",
+    "description": "Exploit toolkit CVE-2017-0199 - v4.0 is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft Office RCE. It could generate a malicious RTF/PPSX file and deliver metasploit / meterpreter / other payload to victim without any complex configuration.",
+    "forks_count": 260,
+    "html_url": "https://github.com/bhdresh/CVE-2017-0199",
+    "keywords": [
+        "Microsoft rce exploitation",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-0199",
+    "repo_owner": "bhdresh",
+    "repotime": "2017-11-19, 15:01:15",
+    "stargazers_count": 724,
+    "watchers_count": 724
+}
+{
+    "commits_count": 9,
+    "date_started": "2017-11-18",
+    "date_updated": "2017-11-19",
+    "description": "Path Traversal Vulnerability Detector",
+    "forks_count": 1,
+    "html_url": "https://github.com/ikanoano/PTVD",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "PTVD",
+    "repo_owner": "ikanoano",
+    "repotime": "2017-11-19, 06:52:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 1,
@@ -122,7 +159,7 @@
     "date_started": "2017-09-14",
     "date_updated": "2017-11-19",
     "description": "Purpose only! The   dangers   of   Bluetooth   implementations:   Unveiling   zero   day vulnerabilities   and   security   flaws   in   modern   Bluetooth   stacks.",
-    "forks_count": 93,
+    "forks_count": 94,
     "html_url": "https://github.com/mailinneberg/BlueBorne",
     "keywords": [
         "zero-day vulnerability"
@@ -131,8 +168,8 @@
     "repo_name": "BlueBorne",
     "repo_owner": "mailinneberg",
     "repotime": "2017-11-19, 02:28:10",
-    "stargazers_count": 268,
-    "watchers_count": 268
+    "stargazers_count": 276,
+    "watchers_count": 276
 }
 {
     "commits_count": 7,
@@ -152,6 +189,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 5,
+    "date_started": "2017-10-20",
+    "date_updated": "2017-11-07",
+    "description": "Fuzzy test rules (include Sqli xss Lfi and so on)",
+    "forks_count": 4,
+    "html_url": "https://github.com/DictionaryHouse/Fuzzy-test-rules",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "Fuzzy-test-rules",
+    "repo_owner": "DictionaryHouse",
+    "repotime": "2017-11-07, 06:38:05",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
     "commits_count": 4,
     "date_started": "2017-10-20",
     "date_updated": "2017-11-07",
@@ -165,8 +219,8 @@
     "repo_name": "Sql-injection-FuzzPayload-collection",
     "repo_owner": "DictionaryHouse",
     "repotime": "2017-11-07, 06:35:06",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 28,
+    "watchers_count": 28
 }
 {
     "commits_count": 15,
@@ -207,7 +261,7 @@
     "date_started": "2016-02-29",
     "date_updated": "2017-11-03",
     "description": "(extensible) Data Exfiltration Toolkit (DET)",
-    "forks_count": 189,
+    "forks_count": 191,
     "html_url": "https://github.com/sensepost/DET",
     "keywords": [
         "by_owner"
@@ -216,8 +270,25 @@
     "repo_name": "DET",
     "repo_owner": "sensepost",
     "repotime": "2017-11-03, 10:50:53",
-    "stargazers_count": 819,
-    "watchers_count": 819
+    "stargazers_count": 826,
+    "watchers_count": 826
+}
+{
+    "commits_count": 9,
+    "date_started": "2017-08-21",
+    "date_updated": "2017-11-02",
+    "description": "Tạo trang web bị lỗi LFI",
+    "forks_count": 0,
+    "html_url": "https://github.com/doanngochoanghy/Local-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "PHP",
+    "repo_name": "Local-File-Inclusion",
+    "repo_owner": "doanngochoanghy",
+    "repotime": "2017-11-02, 17:26:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 25,

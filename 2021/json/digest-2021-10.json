@@ -6,7 +6,14 @@
     "forks_count": 1,
     "html_url": "https://github.com/kagura-maru/CVE-2021-40444-POC",
     "keywords": [
-        "Microsoft rce poc"
+        "Microsoft remote code execution vulnerability",
+        "Microsoft rce",
+        "Microsoft rce poc",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution poc",
+        "remote code execution poc",
+        "Microsoft remote code execution",
+        "Microsoft rce vulnerability"
     ],
     "language": null,
     "repo_name": "CVE-2021-40444-POC",
@@ -23,31 +30,36 @@
     "forks_count": 27,
     "html_url": "https://github.com/brianwrf/SambaHunter",
     "keywords": [
+        "rce exploit",
         "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "SambaHunter",
     "repo_owner": "brianwrf",
     "repotime": "2021-10-31, 15:06:25",
-    "stargazers_count": 55,
-    "watchers_count": 55
+    "stargazers_count": 54,
+    "watchers_count": 54
 }
 {
-    "commits_count": 36,
-    "date_started": "2021-10-26",
+    "commits_count": 5,
+    "date_started": "2021-10-29",
     "date_updated": "2021-10-29",
-    "description": "How to exploit a double free vulnerability in 2021. Use After Free for Dummies",
-    "forks_count": 65,
-    "html_url": "https://github.com/stong/how-to-exploit-a-double-free",
+    "description": "After many requests, our team created a new Silent DOC Exploit for Microsoft Office. The purpose of this exploit is to silently infect victims upon opening the document. Furthermore, this exploit will convert an .EXE to .DOC or .XLS without any detection’s from antivirus. In addition, we guarantee the exploit is FUD for the entirety of your subscription. Furthermore, this is a private exploit by our team of 0Day Developers. Our method is completely new and we guarantee success with all subscriptions.  Using this exploit alongside one of our great Botnets will be very effective.",
+    "forks_count": 6,
+    "html_url": "https://github.com/attakercyebr/exploit-doc-product-box",
     "keywords": [
-        "use after free exploitation"
+        "0day exploit",
+        "0day exploitation",
+        "Microsoft 0day exploitation",
+        "Microsoft 0day",
+        "Microsoft 0day exploit"
     ],
     "language": "Python",
-    "repo_name": "how-to-exploit-a-double-free",
-    "repo_owner": "stong",
-    "repotime": "2021-10-29, 03:29:45",
-    "stargazers_count": 1318,
-    "watchers_count": 1318
+    "repo_name": "exploit-doc-product-box",
+    "repo_owner": "attakercyebr",
+    "repotime": "2021-10-29, 12:50:12",
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 15,
@@ -57,7 +69,10 @@
     "forks_count": 0,
     "html_url": "https://github.com/tschecurity/Unit-9-Website-Application-Security-Pentest",
     "keywords": [
-        "session vulnerability"
+        "session vulnerability",
+        "session hijacking attack",
+        "session attack",
+        "session hijacking vulnerability"
     ],
     "language": null,
     "repo_name": "Unit-9-Website-Application-Security-Pentest",
@@ -91,12 +106,30 @@
     "forks_count": 0,
     "html_url": "https://github.com/melanievogel/web-security",
     "keywords": [
-        "session hijacking attack"
+        "session hijacking attack",
+        "session attack"
     ],
     "language": "HTML",
     "repo_name": "web-security",
     "repo_owner": "melanievogel",
     "repotime": "2021-10-28, 16:06:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-10-28",
+    "date_updated": "2021-10-28",
+    "description": "Infopercept is a global leader in web application penetration testing; finding bugs in a number of programming languages and environments. Our security specialists have helped protect data all over the world, from webapps in highly scalable AWS environments to legacy apps in conventional infrastructure.  We regularly illustrate our dedication to top-notch security testing with thousands of zero-day vulnerabilities exposed and our research circulating on national news outlets. Visit Now:  https://www.infopercept.com/web-application-perneration-testing-service",
+    "forks_count": 0,
+    "html_url": "https://github.com/digitalinfopercept/Web-Application-Penetration-Testing",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Web-Application-Penetration-Testing",
+    "repo_owner": "digitalinfopercept",
+    "repotime": "2021-10-28, 12:26:02",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -108,14 +141,34 @@
     "forks_count": 46,
     "html_url": "https://github.com/KaLendsi/CVE-2021-40449-Exploit",
     "keywords": [
+        "lpe exploit",
+        "Windows lpe exploit",
         "Windows lpe"
     ],
     "language": "C++",
     "repo_name": "CVE-2021-40449-Exploit",
     "repo_owner": "KaLendsi",
     "repotime": "2021-10-28, 11:51:09",
-    "stargazers_count": 93,
-    "watchers_count": 93
+    "stargazers_count": 96,
+    "watchers_count": 96
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-10-30",
+    "date_updated": "2021-10-27",
+    "description": "Sleirsgoevy: PoC for the FontFaceSet vulnerability, which was wrongly classified as a use-after-free. Works only on PC for now. Please check if this prints &amp;quot;failed to guess...&amp;quot; for you. Especially interested in reports from 9.00.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ps4lib/900Test",
+    "keywords": [
+        "use after free vulnerability",
+        "use after free poc"
+    ],
+    "language": null,
+    "repo_name": "900Test",
+    "repo_owner": "ps4lib",
+    "repotime": "2021-10-27, 11:37:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -133,6 +186,23 @@
     "repotime": "2021-10-27, 14:41:18",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-10-26",
+    "date_updated": "2021-10-26",
+    "description": "Remote Code Execution exploit for Apache servers. Affected versions: Apache 2.4.49, Apache 2.4.50",
+    "forks_count": 0,
+    "html_url": "https://github.com/mr-exo/CVE-2021-41773",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "mr-exo",
+    "repotime": "2021-10-26, 20:04:43",
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 4,
@@ -176,7 +246,8 @@
     "forks_count": 5,
     "html_url": "https://github.com/darrenmartyn/zimbra-hinginx",
     "keywords": [
-        "lpe exploit"
+        "lpe exploit",
+        "lpe exploitation"
     ],
     "language": "Shell",
     "repo_name": "zimbra-hinginx",
@@ -184,6 +255,23 @@
     "repotime": "2021-10-25, 11:01:28",
     "stargazers_count": 11,
     "watchers_count": 11
+}
+{
+    "commits_count": 11,
+    "date_started": "2020-08-28",
+    "date_updated": "2021-10-24",
+    "description": "A memory leak exploit I discovered in 2019 while playing around with WiFi 802.11 Signal Beacons and how android improperly parses and displays the packets in the WiFi menu in Settings",
+    "forks_count": 0,
+    "html_url": "https://github.com/ripmeep/android-memory-leak",
+    "keywords": [
+        "memory leak exploit"
+    ],
+    "language": "C",
+    "repo_name": "android-memory-leak",
+    "repo_owner": "ripmeep",
+    "repotime": "2021-10-24, 17:46:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 4,
@@ -199,8 +287,8 @@
     "repo_name": "LIBRARY-MANAGEMENT-SYSTEM-L_I_B_R_A-",
     "repo_owner": "uttkarshparmar50",
     "repotime": "2021-10-24, 18:33:25",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 10,
@@ -237,6 +325,23 @@
     "watchers_count": 3
 }
 {
+    "commits_count": 3,
+    "date_started": "2021-10-18",
+    "date_updated": "2021-10-22",
+    "description": "By write list bypassuac",
+    "forks_count": 14,
+    "html_url": "https://github.com/Memoryo3o/BypassUAC",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": null,
+    "repo_name": "BypassUAC",
+    "repo_owner": "Memoryo3o",
+    "repotime": "2021-10-22, 16:43:31",
+    "stargazers_count": 170,
+    "watchers_count": 170
+}
+{
     "commits_count": 9,
     "date_started": "2021-12-12",
     "date_updated": "2021-10-21",
@@ -244,6 +349,7 @@
     "forks_count": 1,
     "html_url": "https://github.com/sangralrs/verizon_samsung_auto_enable_adb",
     "keywords": [
+        "zero-day exploitation",
         "zero-day exploit"
     ],
     "language": null,
@@ -271,6 +377,40 @@
     "watchers_count": 6
 }
 {
+    "commits_count": 9,
+    "date_started": "2021-10-11",
+    "date_updated": "2021-10-21",
+    "description": "Server Side Request Forgery",
+    "forks_count": 0,
+    "html_url": "https://github.com/NayanDZ/SSRF",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "SSRF",
+    "repo_owner": "NayanDZ",
+    "repotime": "2021-10-21, 21:58:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-10-21",
+    "date_updated": "2021-10-21",
+    "description": "Using Nmap, Dirb, Hydra, and Crack Station in order to gain access and establish a connection to the web server. Creating a PHP reverse shell payload using MSFVenom in order to create a meterpreter session on the machine and run commands in order to find the flag. Using the ELK Stack in order to identify Attacker port scan, request to hidden directories, uncovering the brute force attack, and the connection to the web server that allowed the attacker to upload the malicious PHP reverse shell payload in to | Created report on these findings and identified mitigation techniques",
+    "forks_count": 0,
+    "html_url": "https://github.com/christophernicolaus/Red_vs_Blue_Team_GT",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Red_vs_Blue_Team_GT",
+    "repo_owner": "christophernicolaus",
+    "repotime": "2021-10-21, 10:41:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 206,
     "date_started": "2017-02-01",
     "date_updated": "2021-10-20",
@@ -284,8 +424,8 @@
     "repo_name": "angularjs-csti-scanner",
     "repo_owner": "tijme",
     "repotime": "2021-10-20, 17:19:50",
-    "stargazers_count": 302,
-    "watchers_count": 302
+    "stargazers_count": 314,
+    "watchers_count": 314
 }
 {
     "commits_count": 2,
@@ -295,6 +435,7 @@
     "forks_count": 2,
     "html_url": "https://github.com/CodyJohnston/verizon_samsung_auto_enable_adb",
     "keywords": [
+        "zero-day exploitation",
         "zero-day exploit"
     ],
     "language": null,
@@ -312,6 +453,7 @@
     "forks_count": 39,
     "html_url": "https://github.com/herwonowr/exprolog",
     "keywords": [
+        "rce poc",
         "rce exploitation"
     ],
     "language": "Python",
@@ -373,23 +515,6 @@
     "watchers_count": 3
 }
 {
-    "commits_count": 38,
-    "date_started": "2020-07-09",
-    "date_updated": "2021-10-16",
-    "description": "A collection of tiny XSS Payloads that can be used in different contexts. https://tinyxss.terjanq.me",
-    "forks_count": 192,
-    "html_url": "https://github.com/terjanq/Tiny-XSS-Payloads",
-    "keywords": [
-        "xss"
-    ],
-    "language": "JavaScript",
-    "repo_name": "Tiny-XSS-Payloads",
-    "repo_owner": "terjanq",
-    "repotime": "2021-10-16, 00:37:44",
-    "stargazers_count": 1919,
-    "watchers_count": 1919
-}
-{
     "commits_count": 3,
     "date_started": "2021-10-15",
     "date_updated": "2021-10-15",
@@ -407,6 +532,24 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 0,
+    "date_started": "2021-10-15",
+    "date_updated": "2021-10-15",
+    "description": "In Visual Tools DVR VX16 4.2.28.0, an unauthenticated attacker can achieve remote command execution via shell metacharacters in the cgi-bin/slogin/login.py User-Agent HTTP header.",
+    "forks_count": 0,
+    "html_url": "https://github.com/adubaldo/CVE-2021-42071",
+    "keywords": [
+        "unauthenticated user",
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-42071",
+    "repo_owner": "adubaldo",
+    "repotime": "2021-10-15, 16:08:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 31,
     "date_started": "2021-09-05",
     "date_updated": "2021-10-15",
@@ -414,6 +557,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/risacker/Vulnerable_Machine",
     "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
         "escalation of privileges exploit"
     ],
     "language": null,
@@ -437,15 +582,15 @@
     "repo_name": "Microsoft_Kernel_Memory_Leak",
     "repo_owner": "huoji120",
     "repotime": "2021-10-14, 17:18:08",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 20,
     "date_started": "2016-10-26",
     "date_updated": "2021-10-13",
     "description": "Automated Python Code Injection Tool",
-    "forks_count": 25,
+    "forks_count": 23,
     "html_url": "https://github.com/sethsec/PyCodeInjection",
     "keywords": [
         "code injection"
@@ -454,8 +599,8 @@
     "repo_name": "PyCodeInjection",
     "repo_owner": "sethsec",
     "repotime": "2021-10-13, 14:37:25",
-    "stargazers_count": 85,
-    "watchers_count": 85
+    "stargazers_count": 88,
+    "watchers_count": 88
 }
 {
     "commits_count": 3,
@@ -465,6 +610,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/SleepTheGod/0day",
     "keywords": [
+        "0day exploitation",
         "0day exploit"
     ],
     "language": "PHP",
@@ -479,10 +625,11 @@
     "date_started": "2021-09-23",
     "date_updated": "2021-10-12",
     "description": "iOS gamed exploit (fixed in 15.0.2)",
-    "forks_count": 85,
+    "forks_count": 83,
     "html_url": "https://github.com/illusionofchaos/ios-gamed-0day",
     "keywords": [
-        "0day exploit"
+        "0day exploit",
+        "0day exploitation"
     ],
     "language": "Objective-C",
     "repo_name": "ios-gamed-0day",
@@ -499,7 +646,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/Shadawks/Strapi-CVE-2019-1881",
     "keywords": [
-        "escalation of privileges proof of concept"
+        "escalation of privileges proof of concept",
+        "escalation of privileges vulnerability"
     ],
     "language": "Python",
     "repo_name": "Strapi-CVE-2019-1881",
@@ -522,8 +670,8 @@
     "repo_name": "CVE-2021-34486",
     "repo_owner": "KaLendsi",
     "repotime": "2021-10-12, 13:52:00",
-    "stargazers_count": 49,
-    "watchers_count": 49
+    "stargazers_count": 50,
+    "watchers_count": 50
 }
 {
     "commits_count": 16,
@@ -539,8 +687,8 @@
     "repo_name": "Exchange_SSRF",
     "repo_owner": "Jumbo-WJB",
     "repotime": "2021-10-12, 10:17:09",
-    "stargazers_count": 166,
-    "watchers_count": 166
+    "stargazers_count": 165,
+    "watchers_count": 165
 }
 {
     "commits_count": 2,
@@ -550,7 +698,13 @@
     "forks_count": 0,
     "html_url": "https://github.com/Sirius-RJ/FullstackAcademy-Printernightmare-writeup-2105-E.C.A.R.",
     "keywords": [
-        "escalation of privileges vulnerability"
+        "Microsoft remote code execution vulnerability",
+        "Microsoft escalation of privileges vulnerability",
+        "Microsoft rce",
+        "escalation of privileges vulnerability",
+        "Microsoft escalation of privileges",
+        "Microsoft remote code execution",
+        "Microsoft rce vulnerability"
     ],
     "language": null,
     "repo_name": "FullstackAcademy-Printernightmare-writeup-2105-E.C.A.R.",
@@ -567,7 +721,8 @@
     "forks_count": 1,
     "html_url": "https://github.com/orangmuda/CVE-2019-15858",
     "keywords": [
-        "unauthenticated remote code execution"
+        "unauthenticated remote code execution",
+        "remote code execution poc"
     ],
     "language": "JavaScript",
     "repo_name": "CVE-2019-15858",
@@ -590,8 +745,8 @@
     "repo_name": "XXE-Notes",
     "repo_owner": "Ambrotd",
     "repotime": "2021-10-10, 15:17:01",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 2,
@@ -601,14 +756,34 @@
     "forks_count": 3,
     "html_url": "https://github.com/twseptian/cve-2021-41773",
     "keywords": [
+        "zero-day vulnerability",
+        "path traversal vulnerability",
+        "zero-day exploitation",
         "zero-day exploit"
     ],
     "language": null,
     "repo_name": "cve-2021-41773",
     "repo_owner": "twseptian",
     "repotime": "2021-10-10, 12:19:29",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-10-09",
+    "date_updated": "2021-10-10",
+    "description": "Apache 2.4.49 Path Traversal Vulnerability Checker ",
+    "forks_count": 1,
+    "html_url": "https://github.com/EagleTube/CVE-2021-41773",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "EagleTube",
+    "repotime": "2021-10-10, 00:32:08",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 3,
@@ -635,6 +810,7 @@
     "forks_count": 6,
     "html_url": "https://github.com/0xAgun/CVE-2021-40870",
     "keywords": [
+        "unrestricted file upload",
         "unauthenticated user"
     ],
     "language": "Python",
@@ -643,6 +819,75 @@
     "repotime": "2021-10-09, 12:06:47",
     "stargazers_count": 15,
     "watchers_count": 15
+}
+{
+    "commits_count": 0,
+    "date_started": "2015-08-21",
+    "date_updated": "2021-10-08",
+    "description": "Microsoft Windows HTA (HTML Application) - Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/codecrack3/HTAexploit.py",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Windows remote code execution"
+    ],
+    "language": null,
+    "repo_name": "HTAexploit.py",
+    "repo_owner": "codecrack3",
+    "repotime": "2021-10-08, 06:33:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-09-27",
+    "date_updated": "2021-10-08",
+    "description": "XML external entity injection",
+    "forks_count": 0,
+    "html_url": "https://github.com/NayanDZ/XXE",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XXE",
+    "repo_owner": "NayanDZ",
+    "repotime": "2021-10-08, 10:23:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 68,
+    "date_started": "2012-05-14",
+    "date_updated": "2021-10-07",
+    "description": "CSS Testing Framework Proof of Concept",
+    "forks_count": 14,
+    "html_url": "https://github.com/winston/cactus",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "Ruby",
+    "repo_name": "cactus",
+    "repo_owner": "winston",
+    "repotime": "2021-10-07, 23:07:07",
+    "stargazers_count": 258,
+    "watchers_count": 258
+}
+{
+    "commits_count": 20,
+    "date_started": "2021-10-06",
+    "date_updated": "2021-10-08",
+    "description": "Path Traversal vulnerability in Apache 2.4.49",
+    "forks_count": 1,
+    "html_url": "https://github.com/PentesterGuruji/CVE-2021-41773",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "PentesterGuruji",
+    "repotime": "2021-10-08, 01:09:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1,
@@ -662,6 +907,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 7,
+    "date_started": "2020-07-06",
+    "date_updated": "2021-10-07",
+    "description": "exploit code for  F5-Big-IP (CVE-2020-5902)",
+    "forks_count": 13,
+    "html_url": "https://github.com/yasserjanah/CVE-2020-5902",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-5902",
+    "repo_owner": "yasserjanah",
+    "repotime": "2021-10-07, 17:53:30",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-10-07",
+    "date_updated": "2021-10-07",
+    "description": "Unrestricted upload of file with dangerous type in Aviatrix allows an authenticated user to execute arbitrary code",
+    "forks_count": 1,
+    "html_url": "https://github.com/System00-Security/CVE-2021-40870",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-40870",
+    "repo_owner": "System00-Security",
+    "repotime": "2021-10-07, 14:53:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 22,
     "date_started": "2018-09-21",
     "date_updated": "2021-10-06",
@@ -675,8 +954,8 @@
     "repo_name": "codesamples",
     "repo_owner": "DependencyInjection-2nd-edition",
     "repotime": "2021-10-06, 22:15:45",
-    "stargazers_count": 142,
-    "watchers_count": 142
+    "stargazers_count": 153,
+    "watchers_count": 153
 }
 {
     "commits_count": 280,
@@ -696,6 +975,40 @@
     "watchers_count": 9
 }
 {
+    "commits_count": 7,
+    "date_started": "2021-10-06",
+    "date_updated": "2021-10-06",
+    "description": "Path traversal and file disclosure vulnerability in Apache HTTP Server 2.4.49 (CVE-2021-41773)",
+    "forks_count": 5,
+    "html_url": "https://github.com/jbovet/CVE-2021-41773",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "CVE-2021-41773",
+    "repo_owner": "jbovet",
+    "repotime": "2021-10-06, 11:15:42",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-10-05",
+    "date_updated": "2021-10-06",
+    "description": "A online food ordering website build using Angular Framework and used REST API with JSON server. The Aim of this project is to the order food through web app.UI is designed with the hr Angular material. New Customer have to register before ordering some food and login with same username and password after he can logout. Validation is done before storing the data. Error handing is done at UI level for user wrong input and it will display proper message so that customer can understand.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pssanjana/Online-Food-Ordering-Website",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "HTML",
+    "repo_name": "Online-Food-Ordering-Website",
+    "repo_owner": "pssanjana",
+    "repotime": "2021-10-06, 08:21:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2021-10-05",
     "date_updated": "2021-10-05",
@@ -713,6 +1026,40 @@
     "watchers_count": 3
 }
 {
+    "commits_count": 2,
+    "date_started": "2021-10-05",
+    "date_updated": "2021-10-05",
+    "description": "Create a website that can act as an image holder for users. Users can save images in them with different albums. Make a homepage, about page, contact page, signup page, login page. One can add images in different albums of their choice. Make the view page of images as much beautiful as you can. Along with it, one can add description to an image. Arrange the images in such a sequence in which they are mostly liked and mostly commented.  Add a secret code for each image. The one with the link and secret key can see the image. An authenticated user can add comments and likes on the image of other user but can only access it with given link and secret key.  Elaboration- Every image has a link and each image has a secret key, the user who has created will be accessed to create the key and view the image on login without key. But the unauthenticated users are also given the access to see the image with a given link, when they touch the link, they need enter a secret key so that they can see ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/himanshu-joshi-2000/The_Intern_Academy_",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "HTML",
+    "repo_name": "The_Intern_Academy_",
+    "repo_owner": "himanshu-joshi-2000",
+    "repotime": "2021-10-05, 15:09:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-10-05",
+    "date_updated": "2021-10-05",
+    "description": "The plugin does not prevent HTML files from being uploaded via its form, allowing unauthenticated user to upload a malicious HTML file containing JavaScript for example, which will be triggered when someone access the file directly",
+    "forks_count": 0,
+    "html_url": "https://github.com/V35HR4J/CVE-2021-24563",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-24563",
+    "repo_owner": "V35HR4J",
+    "repotime": "2021-10-05, 12:15:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 8,
     "date_started": "2021-07-26",
     "date_updated": "2021-10-04",
@@ -726,8 +1073,8 @@
     "repo_name": "IOMobileFrameBuffer_LPE_POC",
     "repo_owner": "saaramar",
     "repotime": "2021-10-04, 12:30:26",
-    "stargazers_count": 53,
-    "watchers_count": 53
+    "stargazers_count": 54,
+    "watchers_count": 54
 }
 {
     "commits_count": 6,
@@ -743,8 +1090,8 @@
     "repo_name": "CVE-2021-29447",
     "repo_owner": "motikan2010",
     "repotime": "2021-10-04, 10:13:54",
-    "stargazers_count": 41,
-    "watchers_count": 41
+    "stargazers_count": 42,
+    "watchers_count": 42
 }
 {
     "commits_count": 6,
@@ -754,7 +1101,8 @@
     "forks_count": 6,
     "html_url": "https://github.com/nth347/Zimbra-RCE-exploit",
     "keywords": [
-        "rce exploit"
+        "rce exploit",
+        "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "Zimbra-RCE-exploit",

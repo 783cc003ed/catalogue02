@@ -29,8 +29,25 @@
     "repo_name": "sqlchop",
     "repo_owner": "chaitin",
     "repotime": "2017-03-31, 18:14:49",
-    "stargazers_count": 249,
-    "watchers_count": 249
+    "stargazers_count": 254,
+    "watchers_count": 254
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-03-30",
+    "date_updated": "2017-03-30",
+    "description": "web安全之模拟xss攻击",
+    "forks_count": 26,
+    "html_url": "https://github.com/yxhsea/xss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xss",
+    "repo_owner": "yxhsea",
+    "repotime": "2017-03-30, 17:15:16",
+    "stargazers_count": 37,
+    "watchers_count": 37
 }
 {
     "commits_count": 6,
@@ -46,8 +63,8 @@
     "repo_name": "DoubleAgent",
     "repo_owner": "Cybellum",
     "repotime": "2017-03-28, 18:41:57",
-    "stargazers_count": 1216,
-    "watchers_count": 1216
+    "stargazers_count": 1227,
+    "watchers_count": 1227
 }
 {
     "commits_count": 2,
@@ -63,8 +80,8 @@
     "repo_name": "Bypassing_CFG_SEH",
     "repo_owner": "MortenSchenk",
     "repotime": "2017-03-28, 07:46:06",
-    "stargazers_count": 28,
-    "watchers_count": 28
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 19,
@@ -97,8 +114,8 @@
     "repo_name": "so-sql-injections",
     "repo_owner": "laurent22",
     "repotime": "2017-03-25, 16:16:34",
-    "stargazers_count": 169,
-    "watchers_count": 169
+    "stargazers_count": 172,
+    "watchers_count": 172
 }
 {
     "commits_count": 23,
@@ -152,6 +169,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 0,
+    "date_started": "2017-03-18",
+    "date_updated": "2017-03-18",
+    "description": "Local-file-Inclusion-by-SQL-Injection-Lab-Demo",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xsharz/LFI_by_SQL",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "LFI_by_SQL",
+    "repo_owner": "0xsharz",
+    "repotime": "2017-03-18, 19:52:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 5,
     "date_started": "2017-03-17",
     "date_updated": "2017-03-18",
@@ -165,8 +199,8 @@
     "repo_name": "XSSJacking",
     "repo_owner": "dxa4481",
     "repotime": "2017-03-18, 09:14:27",
-    "stargazers_count": 131,
-    "watchers_count": 131
+    "stargazers_count": 132,
+    "watchers_count": 132
 }
 {
     "commits_count": 1,
@@ -176,6 +210,7 @@
     "forks_count": 3,
     "html_url": "https://github.com/wumb0/windows_malware_classes",
     "keywords": [
+        "Windows memory leak",
         "Win memory leak"
     ],
     "language": "C++",
@@ -210,7 +245,8 @@
     "forks_count": 13,
     "html_url": "https://github.com/incredibleindishell/Local-file-disclosure-SQL-Injection-Lab",
     "keywords": [
-        "code injection"
+        "code injection",
+        "sql injection"
     ],
     "language": "PHP",
     "repo_name": "Local-file-disclosure-SQL-Injection-Lab",
@@ -250,8 +286,25 @@
     "repo_name": "dyci-main",
     "repo_owner": "DyCI",
     "repotime": "2017-03-13, 22:48:27",
-    "stargazers_count": 1113,
-    "watchers_count": 1113
+    "stargazers_count": 1114,
+    "watchers_count": 1114
+}
+{
+    "commits_count": 5,
+    "date_started": "2017-03-11",
+    "date_updated": "2017-03-13",
+    "description": "This is Valve for Tomcat7 to block  Struts 2 Remote Code Execution vulnerability (CVE-2017-5638)",
+    "forks_count": 0,
+    "html_url": "https://github.com/Masahiro-Yamada/OgnlContentTypeRejectorValve",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "OgnlContentTypeRejectorValve",
+    "repo_owner": "Masahiro-Yamada",
+    "repotime": "2017-03-13, 23:49:24",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1,
@@ -261,6 +314,7 @@
     "forks_count": 0,
     "html_url": "https://github.com/MartinKolarik/is-safe-path",
     "keywords": [
+        "directory traversal attack",
         "path traversal attack"
     ],
     "language": "JavaScript",
@@ -275,7 +329,7 @@
     "date_started": "2017-03-10",
     "date_updated": "2017-03-10",
     "description": "CVE-2014-4210+Redis未授权访问",
-    "forks_count": 36,
+    "forks_count": 37,
     "html_url": "https://github.com/NoneNotNull/SSRFX",
     "keywords": [
         "ssrf"
@@ -301,8 +355,8 @@
     "repo_name": "CVE-2016-7255",
     "repo_owner": "FSecureLABS",
     "repotime": "2017-03-09, 22:55:17",
-    "stargazers_count": 82,
-    "watchers_count": 82
+    "stargazers_count": 81,
+    "watchers_count": 81
 }
 {
     "commits_count": 2,
@@ -312,7 +366,9 @@
     "forks_count": 8,
     "html_url": "https://github.com/PolarisLab/Drupal-Exploit",
     "keywords": [
-        "remote code execution exploit"
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "rce exploitation"
     ],
     "language": "PHP",
     "repo_name": "Drupal-Exploit",
@@ -369,15 +425,15 @@
     "repo_name": "HttpPwnly",
     "repo_owner": "Danladi",
     "repotime": "2017-03-04, 20:54:55",
-    "stargazers_count": 135,
-    "watchers_count": 135
+    "stargazers_count": 134,
+    "watchers_count": 134
 }
 {
     "commits_count": 22,
     "date_started": "2016-08-26",
     "date_updated": "2017-03-03",
     "description": "Annotation and Utility to check if data Strings are Sql-Injection-Safe",
-    "forks_count": 27,
+    "forks_count": 26,
     "html_url": "https://github.com/rkpunjal/sql-injection-safe",
     "keywords": [
         "sql injection"
@@ -386,8 +442,8 @@
     "repo_name": "sql-injection-safe",
     "repo_owner": "rkpunjal",
     "repotime": "2017-03-03, 12:31:13",
-    "stargazers_count": 60,
-    "watchers_count": 60
+    "stargazers_count": 62,
+    "watchers_count": 62
 }
 {
     "commits_count": 7,
@@ -397,12 +453,30 @@
     "forks_count": 0,
     "html_url": "https://github.com/LuXSecurity/Win32ViruX",
     "keywords": [
+        "Windows memory leak",
         "Win memory leak"
     ],
     "language": "C++",
     "repo_name": "Win32ViruX",
     "repo_owner": "LuXSecurity",
     "repotime": "2017-03-02, 12:07:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-03-01",
+    "date_updated": "2017-03-01",
+    "description": "This project is for Codepath's Web Security Week 4 Assignment. It explores implementing defensive measures to protect an application against Cross-Site Scripting, SQL Injection, Cross-Site Request Forgery, Session Hijacking, and Session Fixation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/R4leung/Forgery-Theft-and-Hijacking-Prevention",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "Forgery-Theft-and-Hijacking-Prevention",
+    "repo_owner": "R4leung",
+    "repotime": "2017-03-01, 08:00:41",
     "stargazers_count": 0,
     "watchers_count": 0
 }

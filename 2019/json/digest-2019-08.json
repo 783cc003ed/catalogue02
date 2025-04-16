@@ -12,15 +12,15 @@
     "repo_name": "09-SQL_Homework",
     "repo_owner": "smith-jj",
     "repotime": "2019-08-29, 13:10:36",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 3,
     "date_started": "2019-07-16",
     "date_updated": "2019-08-27",
     "description": "Automatic tool for DNS rebinding-based SSRF attacks",
-    "forks_count": 50,
+    "forks_count": 52,
     "html_url": "https://github.com/daeken/httprebind",
     "keywords": [
         "ssrf"
@@ -29,8 +29,8 @@
     "repo_name": "httprebind",
     "repo_owner": "daeken",
     "repotime": "2019-08-27, 18:56:49",
-    "stargazers_count": 293,
-    "watchers_count": 293
+    "stargazers_count": 298,
+    "watchers_count": 298
 }
 {
     "commits_count": 2,
@@ -46,8 +46,8 @@
     "repo_name": "SAP-ECC_Sales-Order-Management",
     "repo_owner": "srishi0007",
     "repotime": "2019-08-25, 09:48:30",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 2,
@@ -57,6 +57,7 @@
     "forks_count": 8,
     "html_url": "https://github.com/mhaskar/CVE-2019-13024",
     "keywords": [
+        "remote code execution exploitation",
         "remote code execution exploit"
     ],
     "language": "Python",
@@ -79,7 +80,7 @@
     "language": "Shell",
     "repo_name": "deploy-openvpn-docker",
     "repo_owner": "esgn",
-    "repotime": "2019-08-23, 16:53:51",
+    "repotime": "2019-08-23, 14:53:53",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -88,17 +89,19 @@
     "date_started": "2019-08-23",
     "date_updated": "2019-08-23",
     "description": "Toolkit to detect and keep track on Blind XSS, XXE &amp;amp; SSRF",
-    "forks_count": 74,
+    "forks_count": 73,
     "html_url": "https://github.com/SpiderMate/B-XSSRF",
     "keywords": [
-        "xss"
+        "xss",
+        "xxe",
+        "ssrf"
     ],
     "language": "PHP",
     "repo_name": "B-XSSRF",
     "repo_owner": "SpiderMate",
     "repotime": "2019-08-23, 16:20:04",
-    "stargazers_count": 294,
-    "watchers_count": 294
+    "stargazers_count": 295,
+    "watchers_count": 295
 }
 {
     "commits_count": 24,
@@ -114,8 +117,8 @@
     "repo_name": "memhunter",
     "repo_owner": "marcosd4h",
     "repotime": "2019-08-22, 12:46:34",
-    "stargazers_count": 374,
-    "watchers_count": 374
+    "stargazers_count": 379,
+    "watchers_count": 379
 }
 {
     "commits_count": 26,
@@ -131,8 +134,8 @@
     "repo_name": "OpenXML-XXE-Generator",
     "repo_owner": "MantisSTS",
     "repotime": "2019-08-21, 22:26:14",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 1,
@@ -156,9 +159,14 @@
     "date_started": "2019-08-17",
     "date_updated": "2019-08-19",
     "description": "rce exploit , made to work with pocsuite3",
-    "forks_count": 60,
+    "forks_count": 53,
     "html_url": "https://github.com/dorkerdevil/Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-",
     "keywords": [
+        "rce exploit",
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability",
+        "rce exploitation",
         "rce vulnerability"
     ],
     "language": "Python",
@@ -169,6 +177,23 @@
     "watchers_count": 119
 }
 {
+    "commits_count": 42,
+    "date_started": "2015-05-18",
+    "date_updated": "2019-08-18",
+    "description": "Sample electron app",
+    "forks_count": 3,
+    "html_url": "https://github.com/Quramy/electron-disclosure",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "JavaScript",
+    "repo_name": "electron-disclosure",
+    "repo_owner": "Quramy",
+    "repotime": "2019-08-18, 16:44:51",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
     "commits_count": 9,
     "date_started": "2019-08-19",
     "date_updated": "2019-08-17",
@@ -176,7 +201,9 @@
     "forks_count": 1,
     "html_url": "https://github.com/zenzue/XSS-Session-Hijacking-Simulator",
     "keywords": [
-        "session vulnerability"
+        "session vulnerability",
+        "session hijacking vulnerability",
+        "session hijacking"
     ],
     "language": "PHP",
     "repo_name": "XSS-Session-Hijacking-Simulator",
@@ -210,14 +237,17 @@
     "forks_count": 14,
     "html_url": "https://github.com/rek7/Zimbra-RCE",
     "keywords": [
-        "xxe"
+        "rce exploit",
+        "rce poc",
+        "xxe",
+        "ssrf"
     ],
     "language": "Python",
     "repo_name": "Zimbra-RCE",
     "repo_owner": "rek7",
     "repotime": "2019-08-16, 01:54:15",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 16,
@@ -241,10 +271,17 @@
     "date_started": "2019-08-15",
     "date_updated": "2019-08-15",
     "description": "Latest working elevation of privilege exploit by Tavis Ormandy from Google's Project Zero Team",
-    "forks_count": 4,
+    "forks_count": 3,
     "html_url": "https://github.com/TinToSer/Windows-EOP-Exploit",
     "keywords": [
-        "Windows zero-day"
+        "Win zero-day exploit",
+        "Windows zero-day exploitation",
+        "Win zero-day exploitation",
+        "Windows zero-day",
+        "zero-day exploitation",
+        "Win zero-day",
+        "Windows zero-day exploit",
+        "zero-day exploit"
     ],
     "language": null,
     "repo_name": "Windows-EOP-Exploit",
@@ -254,6 +291,24 @@
     "watchers_count": 9
 }
 {
+    "commits_count": 1,
+    "date_started": "2019-08-13",
+    "date_updated": "2019-08-14",
+    "description": "AgentTesla botnet C&amp;amp;C RCE exploit.",
+    "forks_count": 5,
+    "html_url": "https://github.com/EgeBalci/AgentTesla_RCE",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "AgentTesla_RCE",
+    "repo_owner": "EgeBalci",
+    "repotime": "2019-08-14, 02:49:34",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
     "commits_count": 3,
     "date_started": "2019-08-12",
     "date_updated": "2019-08-12",
@@ -261,7 +316,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/kn6869610/Steam-Windows-Client-Local-Privilege-Escalation-0day",
     "keywords": [
-        "Windows 0day"
+        "Windows 0day",
+        "Win 0day"
     ],
     "language": "PowerShell",
     "repo_name": "Steam-Windows-Client-Local-Privilege-Escalation-0day",
@@ -326,7 +382,7 @@
     "date_started": "2019-09-16",
     "date_updated": "2019-08-10",
     "description": "xss 跨站漏洞平台",
-    "forks_count": 68,
+    "forks_count": 75,
     "html_url": "https://github.com/do0dl3/xss-labs",
     "keywords": [
         "xss"
@@ -335,8 +391,8 @@
     "repo_name": "xss-labs",
     "repo_owner": "do0dl3",
     "repotime": "2019-08-10, 10:25:31",
-    "stargazers_count": 242,
-    "watchers_count": 242
+    "stargazers_count": 283,
+    "watchers_count": 283
 }
 {
     "commits_count": 6,
@@ -356,11 +412,28 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 25,
+    "date_started": "2019-08-05",
+    "date_updated": "2019-08-09",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/93ChampionsLeague/XML-External-Entity",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XML-External-Entity",
+    "repo_owner": "93ChampionsLeague",
+    "repotime": "2019-08-09, 09:27:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 68,
     "date_started": "2016-11-03",
     "date_updated": "2019-08-08",
     "description": "Exploits written by the Rhino Security Labs team",
-    "forks_count": 293,
+    "forks_count": 296,
     "html_url": "https://github.com/RhinoSecurityLabs/Security-Research",
     "keywords": [
         "by_owner"
@@ -369,8 +442,8 @@
     "repo_name": "Security-Research",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2019-08-08, 13:28:37",
-    "stargazers_count": 1052,
-    "watchers_count": 1052
+    "stargazers_count": 1072,
+    "watchers_count": 1072
 }
 {
     "commits_count": 1,
@@ -380,7 +453,8 @@
     "forks_count": 2,
     "html_url": "https://github.com/EgeBalci/Baldr_Exploit",
     "keywords": [
-        "remote code execution exploitation"
+        "remote code execution exploitation",
+        "remote code execution exploit"
     ],
     "language": "Ruby",
     "repo_name": "Baldr_Exploit",
@@ -397,7 +471,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/devanshot/Reflected-Stored-XSS-POC",
     "keywords": [
-        "session vulnerability"
+        "session vulnerability",
+        "session hijacking vulnerability"
     ],
     "language": null,
     "repo_name": "Reflected-Stored-XSS-POC",
@@ -414,7 +489,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/Doctor-Hacker/Apps-vulnerable-to-directory-traversal",
     "keywords": [
-        "directory traversal attack"
+        "directory traversal attack",
+        "directory traversal vulnerability"
     ],
     "language": null,
     "repo_name": "Apps-vulnerable-to-directory-traversal",
@@ -431,14 +507,50 @@
     "forks_count": 5,
     "html_url": "https://github.com/shift-crops/House_of_Rabbit",
     "keywords": [
+        "aslr bypass",
+        "aslr bypass exploit",
         "aslr bypass exploitation"
     ],
     "language": "C",
     "repo_name": "House_of_Rabbit",
     "repo_owner": "shift-crops",
     "repotime": "2019-08-06, 17:27:10",
-    "stargazers_count": 47,
-    "watchers_count": 47
+    "stargazers_count": 46,
+    "watchers_count": 46
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-08-05",
+    "date_updated": "2019-08-06",
+    "description": "ARM Bot RCE Exploit.",
+    "forks_count": 4,
+    "html_url": "https://github.com/EgeBalci/ARMBot_RCE",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Ruby",
+    "repo_name": "ARMBot_RCE",
+    "repo_owner": "EgeBalci",
+    "repotime": "2019-08-06, 08:51:13",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-08-05",
+    "date_updated": "2019-08-05",
+    "description": "SIP is widely used signaling protocol for controlling the communication on the internet, maintaining, establishing as well as terminating the sessions.  It works on the application layer which can create, modify and terminate sessions with the participants. It supports multimedia sessions/services on both wired and wireless networks like multimedia distribution, internet telephone calls.  We are implementing Cryptanalysis for a secure mutual authentication which is based on Elliptical Curve Discrete Logarithm problem for SIP which is immune to the attacks.  Authentication is a crucial process when a remote user wants to get services from a corresponding sever.  Most environment communications of SIP are unsafe which naturally raises the issue of providing security protection for communicating participants.  Therefore, we are trying to design a robust and efficient mutual authentication which is meaningful and interesting. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/Shivikam6/Elliptic-Curve-cryptography-based-mutual-authentication-scheme-for-session-initiation-protocol",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Java",
+    "repo_name": "Elliptic-Curve-cryptography-based-mutual-authentication-scheme-for-session-initiation-protocol",
+    "repo_owner": "Shivikam6",
+    "repotime": "2019-08-05, 15:01:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 20,
@@ -454,8 +566,8 @@
     "repo_name": "extended-xss-search",
     "repo_owner": "Damian89",
     "repotime": "2019-08-03, 21:33:13",
-    "stargazers_count": 181,
-    "watchers_count": 181
+    "stargazers_count": 182,
+    "watchers_count": 182
 }
 {
     "commits_count": 7,
@@ -473,6 +585,23 @@
     "repotime": "2019-08-03, 18:33:34",
     "stargazers_count": 3,
     "watchers_count": 3
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-03-17",
+    "date_updated": "2019-08-03",
+    "description": "Sql injection labs via docker.",
+    "forks_count": 11,
+    "html_url": "https://github.com/realvect0r/sqli-labs-for-docker",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "sqli-labs-for-docker",
+    "repo_owner": "realvect0r",
+    "repotime": "2019-08-03, 11:49:08",
+    "stargazers_count": 21,
+    "watchers_count": 21
 }
 {
     "commits_count": 4,

@@ -16,6 +16,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 11,
+    "date_started": "2017-07-19",
+    "date_updated": "2017-07-30",
+    "description": "DC25 5A1F - Demystifying Windows Kernel Exploitation by Abusing GDI Objects",
+    "forks_count": 60,
+    "html_url": "https://github.com/sensepost/gdi-palettes-exp",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "C++",
+    "repo_name": "gdi-palettes-exp",
+    "repo_owner": "sensepost",
+    "repotime": "2017-07-30, 06:13:40",
+    "stargazers_count": 143,
+    "watchers_count": 143
+}
+{
     "commits_count": 5,
     "date_started": "2017-06-21",
     "date_updated": "2017-07-29",
@@ -57,14 +74,34 @@
     "forks_count": 59,
     "html_url": "https://github.com/betab0t/cve-2017-7494",
     "keywords": [
-        "rce proof of concept"
+        "rce proof of concept",
+        "rce exploit",
+        "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "cve-2017-7494",
     "repo_owner": "betab0t",
     "repotime": "2017-07-26, 16:07:51",
-    "stargazers_count": 177,
-    "watchers_count": 177
+    "stargazers_count": 179,
+    "watchers_count": 179
+}
+{
+    "commits_count": 9,
+    "date_started": "2017-07-07",
+    "date_updated": "2017-07-25",
+    "description": "Parser for tor exploit database website 0day.today",
+    "forks_count": 0,
+    "html_url": "https://github.com/oreaga/Exploit-Parsers",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Exploit-Parsers",
+    "repo_owner": "oreaga",
+    "repotime": "2017-07-25, 10:18:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -88,7 +125,7 @@
     "date_started": "2015-11-18",
     "date_updated": "2017-07-17",
     "description": "Powershell to CodeExecution and ProcessInjection",
-    "forks_count": 29,
+    "forks_count": 23,
     "html_url": "https://github.com/3gstudent/Code-Execution-and-Process-Injection",
     "keywords": [
         "code injection"
@@ -97,8 +134,8 @@
     "repo_name": "Code-Execution-and-Process-Injection",
     "repo_owner": "3gstudent",
     "repotime": "2017-07-17, 17:40:17",
-    "stargazers_count": 63,
-    "watchers_count": 63
+    "stargazers_count": 64,
+    "watchers_count": 64
 }
 {
     "commits_count": 12,
@@ -156,17 +193,18 @@
     "date_started": "2017-01-30",
     "date_updated": "2017-07-07",
     "description": "Examples of leaking Kernel Mode information from User Mode on Windows",
-    "forks_count": 158,
+    "forks_count": 161,
     "html_url": "https://github.com/sam-b/windows_kernel_address_leaks",
     "keywords": [
+        "Win address leak",
         "Windows address leak"
     ],
     "language": "C++",
     "repo_name": "windows_kernel_address_leaks",
     "repo_owner": "sam-b",
     "repotime": "2017-07-07, 11:05:33",
-    "stargazers_count": 576,
-    "watchers_count": 576
+    "stargazers_count": 597,
+    "watchers_count": 597
 }
 {
     "commits_count": 9,
@@ -182,6 +220,6 @@
     "repo_name": "GUI-JDBC",
     "repo_owner": "mnanda021",
     "repotime": "2017-07-05, 13:37:13",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }

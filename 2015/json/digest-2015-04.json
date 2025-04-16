@@ -57,14 +57,15 @@
     "forks_count": 2,
     "html_url": "https://github.com/Shmoopi/RootPipe-Demo",
     "keywords": [
-        "escalation of privileges proof of concept"
+        "escalation of privileges proof of concept",
+        "escalation of privileges vulnerability"
     ],
     "language": "Objective-C",
     "repo_name": "RootPipe-Demo",
     "repo_owner": "Shmoopi",
     "repotime": "2015-04-10, 17:03:16",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 6,
@@ -74,14 +75,34 @@
     "forks_count": 7,
     "html_url": "https://github.com/kpwn/phpmess",
     "keywords": [
-        "use after free exploit"
+        "use after free exploit",
+        "use after free vulnerability",
+        "use after free exploitation",
+        "use after free poc"
     ],
     "language": "PHP",
     "repo_name": "phpmess",
     "repo_owner": "kpwn",
     "repotime": "2015-04-09, 01:19:24",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 17,
+    "date_started": "2013-01-02",
+    "date_updated": "2015-04-05",
+    "description": "This library helps to manage a client session cookie in node.js outside of connect/express sessions. It is desirable to maintain a htttpOnly cookie for express sessions (to auth users and prevent replay attacks by snatching the cookie via XSS) while at the same time storing some session state in a cookie that is accessable and modifiable to the client. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/coen-hyde/cookie-swap",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "JavaScript",
+    "repo_name": "cookie-swap",
+    "repo_owner": "coen-hyde",
+    "repotime": "2015-04-05, 12:39:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 3,
@@ -91,6 +112,7 @@
     "forks_count": 44,
     "html_url": "https://github.com/RickGray/Bypass-PHP-GD-Process-To-RCE",
     "keywords": [
+        "rce exploit",
         "rce vulnerability"
     ],
     "language": "PHP",
@@ -125,7 +147,8 @@
     "forks_count": 5,
     "html_url": "https://github.com/googleinurl/lfiINURL",
     "keywords": [
-        "lfi"
+        "lfi",
+        "local file inclusion"
     ],
     "language": "PHP",
     "repo_name": "lfiINURL",

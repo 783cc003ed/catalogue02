@@ -1,4 +1,21 @@
 {
+    "commits_count": 9,
+    "date_started": "2018-01-24",
+    "date_updated": "2018-01-31",
+    "description": "Explore the information available on the water crisis in Cape Town South Africa",
+    "forks_count": 0,
+    "html_url": "https://github.com/akin-aroge/Day_Zero_Sentiment_Analysis",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "Day_Zero_Sentiment_Analysis",
+    "repo_owner": "akin-aroge",
+    "repotime": "2018-01-31, 12:59:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 30,
     "date_started": "2018-01-24",
     "date_updated": "2018-01-31",
@@ -6,14 +23,15 @@
     "forks_count": 9,
     "html_url": "https://github.com/bao7uo/bmc_bladelogic",
     "keywords": [
+        "remote code execution exploitation",
         "remote code execution exploit"
     ],
     "language": "Python",
     "repo_name": "bmc_bladelogic",
     "repo_owner": "bao7uo",
     "repotime": "2018-01-31, 01:24:07",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 3,
@@ -37,7 +55,7 @@
     "date_started": "2015-02-11",
     "date_updated": "2018-01-27",
     "description": "A General Purpose DLL &amp;amp; Code Injection Utility",
-    "forks_count": 40,
+    "forks_count": 38,
     "html_url": "https://github.com/rsmusllp/syringe",
     "keywords": [
         "code injection"
@@ -46,8 +64,8 @@
     "repo_name": "syringe",
     "repo_owner": "rsmusllp",
     "repotime": "2018-01-27, 14:43:44",
-    "stargazers_count": 152,
-    "watchers_count": 152
+    "stargazers_count": 154,
+    "watchers_count": 154
 }
 {
     "commits_count": 65,
@@ -63,8 +81,8 @@
     "repo_name": "birp",
     "repo_owner": "sensepost",
     "repotime": "2018-01-24, 17:14:27",
-    "stargazers_count": 123,
-    "watchers_count": 123
+    "stargazers_count": 126,
+    "watchers_count": 126
 }
 {
     "commits_count": 3,
@@ -74,7 +92,14 @@
     "forks_count": 12,
     "html_url": "https://github.com/yuvatia/Win10GdiExploitation",
     "keywords": [
-        "lpe exploit"
+        "Win lpe",
+        "Windows lpe exploitation",
+        "Windows lpe exploit",
+        "Win lpe exploitation",
+        "Windows lpe",
+        "lpe exploit",
+        "Win lpe exploit",
+        "lpe exploitation"
     ],
     "language": "C++",
     "repo_name": "Win10GdiExploitation",
@@ -88,17 +113,19 @@
     "date_started": "2017-03-29",
     "date_updated": "2018-01-23",
     "description": "DoS PoC's for SAP products ",
-    "forks_count": 19,
+    "forks_count": 17,
     "html_url": "https://github.com/vah13/SAP_vulnerabilities",
     "keywords": [
-        "rce dos"
+        "rce poc",
+        "rce dos",
+        "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "SAP_vulnerabilities",
     "repo_owner": "vah13",
     "repotime": "2018-01-23, 14:27:30",
-    "stargazers_count": 48,
-    "watchers_count": 48
+    "stargazers_count": 50,
+    "watchers_count": 50
 }
 {
     "commits_count": 3,
@@ -156,7 +183,7 @@
     "date_started": "2016-10-19",
     "date_updated": "2018-01-19",
     "description": "Cross-site scripting (XSS)",
-    "forks_count": 31,
+    "forks_count": 33,
     "html_url": "https://github.com/Learn-by-doing/xss",
     "keywords": [
         "xss"
@@ -165,8 +192,8 @@
     "repo_name": "xss",
     "repo_owner": "Learn-by-doing",
     "repotime": "2018-01-19, 13:42:09",
-    "stargazers_count": 62,
-    "watchers_count": 62
+    "stargazers_count": 65,
+    "watchers_count": 65
 }
 {
     "commits_count": 1,
@@ -193,6 +220,7 @@
     "forks_count": 3,
     "html_url": "https://github.com/vah13/SAP_ransomware",
     "keywords": [
+        "remote code execution exploitation",
         "remote code execution exploit"
     ],
     "language": null,
@@ -271,6 +299,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 4,
+    "date_started": "2017-11-28",
+    "date_updated": "2018-01-15",
+    "description": "Exploit for piwik CVE-2009-4140 RCE",
+    "forks_count": 6,
+    "html_url": "https://github.com/Alexeyan/CVE-2009-4137",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "PHP",
+    "repo_name": "CVE-2009-4137",
+    "repo_owner": "Alexeyan",
+    "repotime": "2018-01-15, 11:40:22",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 6,
     "date_started": "2017-02-13",
     "date_updated": "2018-01-13",
@@ -284,8 +329,26 @@
     "repo_name": "cfget",
     "repo_owner": "gnuns",
     "repotime": "2018-01-13, 15:19:23",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 8,
+    "date_started": "2017-05-28",
+    "date_updated": "2018-01-12",
+    "description": "An exploit for CVE-2017-5638 Remote Code Execution (RCE) Vulnerability in Apache Struts 2",
+    "forks_count": 2,
+    "html_url": "https://github.com/SpiderMate/Stutsfi",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "Stutsfi",
+    "repo_owner": "SpiderMate",
+    "repotime": "2018-01-12, 23:19:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 1,
@@ -318,8 +381,8 @@
     "repo_name": "SQLi-CTF",
     "repo_owner": "Corb3nik",
     "repotime": "2018-01-10, 12:34:36",
-    "stargazers_count": 66,
-    "watchers_count": 66
+    "stargazers_count": 69,
+    "watchers_count": 69
 }
 {
     "commits_count": 8,
@@ -335,8 +398,8 @@
     "repo_name": "bypassUAC",
     "repo_owner": "genome21",
     "repotime": "2018-01-09, 10:42:56",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 11,
@@ -346,21 +409,22 @@
     "forks_count": 63,
     "html_url": "https://github.com/irsl/jackson-rce-via-spel",
     "keywords": [
-        "rce exploit"
+        "rce exploit",
+        "rce exploitation"
     ],
     "language": "Java",
     "repo_name": "jackson-rce-via-spel",
     "repo_owner": "irsl",
     "repotime": "2018-01-09, 09:14:03",
-    "stargazers_count": 121,
-    "watchers_count": 121
+    "stargazers_count": 122,
+    "watchers_count": 122
 }
 {
     "commits_count": 133,
     "date_started": "2017-06-08",
     "date_updated": "2018-01-08",
     "description": "<no description>",
-    "forks_count": 48,
+    "forks_count": 46,
     "html_url": "https://github.com/bugbountyforum/XSS-Radar",
     "keywords": [
         "xss"
@@ -369,8 +433,25 @@
     "repo_name": "XSS-Radar",
     "repo_owner": "bugbountyforum",
     "repotime": "2018-01-08, 22:17:43",
-    "stargazers_count": 317,
-    "watchers_count": 317
+    "stargazers_count": 326,
+    "watchers_count": 326
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-01-07",
+    "date_updated": "2018-01-07",
+    "description": "There's nothing better than settling always under a thick warm duvet on a nippy winter's night and with Vision's authoritative social event of filled sheet material, the most pleasant experiences are simply with Hotel quality duvet covers. Our achieves fuse everything from excess sheet material for boutique lodgings, regard for money, extreme hotel bedding planned for general use and heat proof duvets covers that are ideal for good invest create or care homes  Inn quality sheet material upgrades to give an unrivaled and rich night's rest. Our need is continually giving the most happy with resting background possible. There are couple of things superior to anything tunneling into bed at a 5-star inn. The fresh white materials, the superbly plumped pads and a sleeping pad with a perfect delicate to-firm proportion.  The present hoteliers invest a colossal measure of energy and cash getting the mix precisely ideal to ensure visitors rich resting. Significant inn networks have opened outli...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sheikhhinashahab/Health-Care-Possible-With-Hotel-Quality-Duvet-Covers-",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Health-Care-Possible-With-Hotel-Quality-Duvet-Covers-",
+    "repo_owner": "Sheikhhinashahab",
+    "repotime": "2018-01-07, 15:33:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 6,
@@ -388,6 +469,23 @@
     "repotime": "2018-01-07, 02:38:55",
     "stargazers_count": 6,
     "watchers_count": 6
+}
+{
+    "commits_count": 24,
+    "date_started": "2016-08-02",
+    "date_updated": "2018-01-06",
+    "description": "Code Injection technique written in cpp language",
+    "forks_count": 15,
+    "html_url": "https://github.com/revsic/CodeInjection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "CodeInjection",
+    "repo_owner": "revsic",
+    "repotime": "2018-01-06, 05:13:28",
+    "stargazers_count": 31,
+    "watchers_count": 31
 }
 {
     "commits_count": 2,
@@ -431,7 +529,10 @@
     "forks_count": 40,
     "html_url": "https://github.com/cjjduck/weblogic_wls_wsat_rce",
     "keywords": [
-        "unauthenticated rce"
+        "unauthenticated attacker",
+        "rce exploitation",
+        "unauthenticated rce",
+        "rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "weblogic_wls_wsat_rce",
@@ -456,4 +557,21 @@
     "repotime": "2018-01-02, 15:34:45",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-01-01",
+    "date_updated": "2018-01-01",
+    "description": "session hijacking em php",
+    "forks_count": 0,
+    "html_url": "https://github.com/erivancledson/session_hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "session_hijacking",
+    "repo_owner": "erivancledson",
+    "repotime": "2018-01-01, 20:19:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }

@@ -12,15 +12,32 @@
     "repo_name": "Aggressor-Scripts",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2018-03-31, 11:48:00",
-    "stargazers_count": 144,
-    "watchers_count": 144
+    "stargazers_count": 142,
+    "watchers_count": 142
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-03-31",
+    "date_updated": "2018-03-31",
+    "description": "Program made for after having made a backdoor attack make an intrusion into the WhatsApp of the victim. These types of attacks occur at night, while the victim sleeps, because he loses his WhatsApp session. BackDoors can be hidden in applications, audios, music and even in simple images sent by WhatsApp.",
+    "forks_count": 0,
+    "html_url": "https://github.com/obredan/WhatsApp-Parser",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Shell",
+    "repo_name": "WhatsApp-Parser",
+    "repo_owner": "obredan",
+    "repotime": "2018-03-31, 11:25:18",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 7,
     "date_started": "2018-03-27",
     "date_updated": "2018-03-30",
     "description": "Check if your VPN leaks your IP address via the WebRTC technology",
-    "forks_count": 44,
+    "forks_count": 40,
     "html_url": "https://github.com/VoidSec/WebRTC-Leak",
     "keywords": [
         "address leak exploit"
@@ -29,8 +46,8 @@
     "repo_name": "WebRTC-Leak",
     "repo_owner": "VoidSec",
     "repotime": "2018-03-30, 13:15:26",
-    "stargazers_count": 181,
-    "watchers_count": 181
+    "stargazers_count": 182,
+    "watchers_count": 182
 }
 {
     "commits_count": 2,
@@ -54,17 +71,18 @@
     "date_started": "2018-02-28",
     "date_updated": "2018-03-28",
     "description": "A sandbox escape based on the proof-of-concept (CVE-2018-4087) by Rani Idan (Zimperium)",
-    "forks_count": 23,
+    "forks_count": 21,
     "html_url": "https://github.com/MTJailed/UnjailMe",
     "keywords": [
-        "sandbox escape proof of concept"
+        "sandbox escape proof of concept",
+        "sandbox escape vulnerability"
     ],
     "language": "JavaScript",
     "repo_name": "UnjailMe",
     "repo_owner": "MTJailed",
     "repotime": "2018-03-28, 22:56:40",
-    "stargazers_count": 82,
-    "watchers_count": 82
+    "stargazers_count": 81,
+    "watchers_count": 81
 }
 {
     "commits_count": 6,
@@ -91,6 +109,7 @@
     "forks_count": 2,
     "html_url": "https://github.com/mrsuman2002/Week-7",
     "keywords": [
+        "escalation of privileges exploitation",
         "escalation of privileges exploit"
     ],
     "language": null,
@@ -113,7 +132,7 @@
     "language": "Python",
     "repo_name": "extract_kern_size",
     "repo_owner": "Escapingbug",
-    "repotime": "2018-03-17, 14:47:42",
+    "repotime": "2018-03-17, 14:18:11",
     "stargazers_count": 1,
     "watchers_count": 1
 }
@@ -159,7 +178,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/dc170/bufferOverflows",
     "keywords": [
-        "dep bypass"
+        "dep bypass",
+        "aslr bypass"
     ],
     "language": "Python",
     "repo_name": "bufferOverflows",
@@ -193,6 +213,7 @@
     "forks_count": 22,
     "html_url": "https://github.com/joedaguy/Exploit11.2",
     "keywords": [
+        "sandbox escape exploitation",
         "sandbox escape exploit"
     ],
     "language": "Objective-C",
@@ -207,17 +228,18 @@
     "date_started": "2018-03-07",
     "date_updated": "2018-03-07",
     "description": "0day安全_软件漏洞分析技术",
-    "forks_count": 249,
+    "forks_count": 250,
     "html_url": "https://github.com/jas502n/0day-security-software-vulnerability-analysis-technology",
     "keywords": [
-        "0day vulnerability"
+        "0day vulnerability",
+        "0day analysis"
     ],
     "language": "C",
     "repo_name": "0day-security-software-vulnerability-analysis-technology",
     "repo_owner": "jas502n",
     "repotime": "2018-03-07, 23:00:55",
-    "stargazers_count": 614,
-    "watchers_count": 614
+    "stargazers_count": 623,
+    "watchers_count": 623
 }
 {
     "commits_count": 38,
@@ -233,8 +255,25 @@
     "repo_name": "ACE",
     "repo_owner": "Invoke-IR",
     "repotime": "2018-03-06, 20:26:34",
-    "stargazers_count": 322,
-    "watchers_count": 322
+    "stargazers_count": 324,
+    "watchers_count": 324
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-03-06",
+    "date_updated": "2018-03-06",
+    "description": "A honeypot for collecting data from remote file inclusion, local file inclusion, cross site scripting, SQL injection",
+    "forks_count": 0,
+    "html_url": "https://github.com/AGSD/Honeypot",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Honeypot",
+    "repo_owner": "AGSD",
+    "repotime": "2018-03-06, 09:05:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 2,
@@ -252,6 +291,23 @@
     "repotime": "2018-03-05, 17:14:08",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-03-05",
+    "date_updated": "2018-03-05",
+    "description": "The list of files through which we can pop-up the java script alert box",
+    "forks_count": 130,
+    "html_url": "https://github.com/pranav77/XSS-using-SVG-file",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "XSS-using-SVG-file",
+    "repo_owner": "pranav77",
+    "repotime": "2018-03-05, 15:55:20",
+    "stargazers_count": 33,
+    "watchers_count": 33
 }
 {
     "commits_count": 2,
