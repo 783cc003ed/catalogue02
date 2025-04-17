@@ -812,3 +812,817 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 4,
+    "date_started": "2020-12-12",
+    "date_updated": "2021-01-31",
+    "description": "A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;quot;dock&amp;quot; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.     A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.      In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19....",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sushil-Deore/Shared-Bike-Demand-Analysis",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Shared-Bike-Demand-Analysis",
+    "repo_owner": "Sushil-Deore",
+    "repotime": "2021-01-31, 18:45:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 24,
+    "date_started": "2021-01-24",
+    "date_updated": "2021-01-31",
+    "description": "The task is to predict whether individual tracks encountered in a listening session will be skipped by a particular user. In order to do this, complete information about the first half of a user’s listening session is provided, while the prediction is to be carried out on the second half. Participants have access to metadata, as well as acoustic descriptors, for all the tracks encountered in listening sessions.  The output of a prediction is a binary variable for each track in the second half of the session indicating if it was skipped or not, with a 1 indicating that the track skipped, and a 0 indicating that the track was not skipped.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Abhistha1996/spotify_skip_prediction_technocolabs_internship",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "spotify_skip_prediction_technocolabs_internship",
+    "repo_owner": "Abhistha1996",
+    "repotime": "2021-01-31, 14:41:05",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-01-30",
+    "date_updated": "2021-01-30",
+    "description": "Copy of the game Space invaders",
+    "forks_count": 0,
+    "html_url": "https://github.com/amasl0/Session-attacks",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Session-attacks",
+    "repo_owner": "amasl0",
+    "repotime": "2021-01-30, 22:01:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-01-27",
+    "date_updated": "2021-01-30",
+    "description": "DOS2RCE scan tool using Google TAG and Microsoft MSTIC analysis information",
+    "forks_count": 0,
+    "html_url": "https://github.com/lutwidse/DOS2RCE-Malware-Scanner",
+    "keywords": [
+        "Microsoft rce dos",
+        "Microsoft rce",
+        "rce analysis",
+        "rce dos",
+        "Microsoft rce analysis"
+    ],
+    "language": "Python",
+    "repo_name": "DOS2RCE-Malware-Scanner",
+    "repo_owner": "lutwidse",
+    "repotime": "2021-01-30, 04:41:26",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-03-28",
+    "date_updated": "2021-01-29",
+    "description": "Umbraco CMS 7.12.4 - (Authenticated) Remote Code Execution",
+    "forks_count": 40,
+    "html_url": "https://github.com/noraj/Umbraco-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "remote code execution exploit",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Umbraco-RCE",
+    "repo_owner": "noraj",
+    "repotime": "2021-01-29, 10:11:29",
+    "stargazers_count": 75,
+    "watchers_count": 75
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-01-28",
+    "date_updated": "2021-01-28",
+    "description": "This project will show you how to use Python’s random module. The program uses random choices from groups of adjectives, nouns, numbers, and punctuation characters to assemble each password. You’ll soon be making crazy, hard-to-forget passwords, such as “fluffyapple14(“ or “smellygoat&amp;amp;”!. The program does clever things with passwords, but there isn’t a lot of code in it, so it won’t take long to make.",
+    "forks_count": 0,
+    "html_url": "https://github.com/cizamihigo/password_Picker_Python",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Python",
+    "repo_name": "password_Picker_Python",
+    "repo_owner": "cizamihigo",
+    "repotime": "2021-01-28, 21:47:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-01-20",
+    "date_updated": "2021-01-27",
+    "description": "Redirect unauthenticated users to the Flarum login modal",
+    "forks_count": 0,
+    "html_url": "https://github.com/tiborsulyan/loginredirect",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "PHP",
+    "repo_name": "loginredirect",
+    "repo_owner": "tiborsulyan",
+    "repotime": "2021-01-27, 21:25:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-03-23",
+    "date_updated": "2021-01-27",
+    "description": "Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder",
+    "forks_count": 116,
+    "html_url": "https://github.com/capture0x/XSS-LOADER",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-LOADER",
+    "repo_owner": "capture0x",
+    "repotime": "2021-01-27, 09:47:44",
+    "stargazers_count": 578,
+    "watchers_count": 578
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-01-26",
+    "date_updated": "2021-01-26",
+    "description": "SonicWall SSL-VPN RCE",
+    "forks_count": 5,
+    "html_url": "https://github.com/Al1ex/SonicWall",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "SonicWall",
+    "repo_owner": "Al1ex",
+    "repotime": "2021-01-26, 21:44:41",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-01-25",
+    "date_updated": "2021-01-26",
+    "description": "Quick and dirty bruteforcer for CVE-2018-7669 (Directory Traversal Vulnerability in Sitecore)",
+    "forks_count": 0,
+    "html_url": "https://github.com/palaziv/CVE-2018-7669",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-7669",
+    "repo_owner": "palaziv",
+    "repotime": "2021-01-26, 11:21:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2012-07-31",
+    "date_updated": "2021-01-24",
+    "description": "Proof of concept",
+    "forks_count": 54,
+    "html_url": "https://github.com/dfm/flask-d3-hello-world",
+    "keywords": [
+        "proof-of-concept"
+    ],
+    "language": "HTML",
+    "repo_name": "flask-d3-hello-world",
+    "repo_owner": "dfm",
+    "repotime": "2021-01-24, 23:06:59",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}
+{
+    "commits_count": 38,
+    "date_started": "2021-01-07",
+    "date_updated": "2021-01-24",
+    "description": "Remote Code Execution vulnerability on ArcSight Logger",
+    "forks_count": 1,
+    "html_url": "https://github.com/ch1nghz/CVE-2020-11851",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-11851",
+    "repo_owner": "ch1nghz",
+    "repotime": "2021-01-24, 13:28:07",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-01-22",
+    "date_updated": "2021-01-22",
+    "description": "The House of Rust is a heap exploitation technique that drops a shell against full PIE binaries that don’t leak any addresses.",
+    "forks_count": 1,
+    "html_url": "https://github.com/c4ebt/House-of-Rust",
+    "keywords": [
+        "address leak exploit",
+        "address leak exploitation"
+    ],
+    "language": null,
+    "repo_name": "House-of-Rust",
+    "repo_owner": "c4ebt",
+    "repotime": "2021-01-22, 16:45:26",
+    "stargazers_count": 30,
+    "watchers_count": 30
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-01-21",
+    "date_updated": "2021-01-21",
+    "description": "PhreeBooks ERP 5.2.3 Remote Code Execution due to authenticated unrestricted file upload",
+    "forks_count": 1,
+    "html_url": "https://github.com/Kr0ff/PhreeBooksERP5.2.3-RCE",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Python",
+    "repo_name": "PhreeBooksERP5.2.3-RCE",
+    "repo_owner": "Kr0ff",
+    "repotime": "2021-01-21, 19:01:20",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-01-21",
+    "date_updated": "2021-01-21",
+    "description": "An AWS based Flow structure which would be used to represent Session based Prediction for User Profiles regarding Buying/Selling Informations.",
+    "forks_count": 1,
+    "html_url": "https://github.com/shafaypro/AWSSessionBasedRecommender",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": null,
+    "repo_name": "AWSSessionBasedRecommender",
+    "repo_owner": "shafaypro",
+    "repotime": "2021-01-21, 18:54:58",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-02-07",
+    "date_updated": "2021-01-20",
+    "description": "Local File Inclusion (LFI) in FHEM 6.0 allows an attacker to include a file, it can lead to sensitive information disclosure.",
+    "forks_count": 3,
+    "html_url": "https://github.com/EmreOvunc/FHEM-6.0-Local-File-Inclusion-LFI-Vulnerability",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "FHEM-6.0-Local-File-Inclusion-LFI-Vulnerability",
+    "repo_owner": "EmreOvunc",
+    "repotime": "2021-01-20, 09:13:11",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-01-19",
+    "date_updated": "2021-01-19",
+    "description": "Identify the better strategy for session level predictions that lead to personalization.",
+    "forks_count": 0,
+    "html_url": "https://github.com/chrispmaag/clickstream_sequence_learning",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "clickstream_sequence_learning",
+    "repo_owner": "chrispmaag",
+    "repotime": "2021-01-19, 21:22:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 49,
+    "date_started": "2021-01-12",
+    "date_updated": "2021-01-20",
+    "description": "SSRF plugin for burp Automates SSRF Detection in all of the Request",
+    "forks_count": 58,
+    "html_url": "https://github.com/ethicalhackingplayground/ssrf-king",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Java",
+    "repo_name": "ssrf-king",
+    "repo_owner": "ethicalhackingplayground",
+    "repotime": "2021-01-20, 15:53:04",
+    "stargazers_count": 576,
+    "watchers_count": 576
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-01-20",
+    "date_updated": "2021-01-19",
+    "description": "Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC           ",
+    "forks_count": 0,
+    "html_url": "https://github.com/rmccarth/cve-2021-3164",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2021-3164",
+    "repo_owner": "rmccarth",
+    "repotime": "2021-01-19, 21:48:05",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-01-15",
+    "date_updated": "2021-01-19",
+    "description": "09:17:02 Steam Console Client (c) Valve Corporation 09:17:02 -- type 'quit' to exit -- 09:17:02 Loading Steam API...OK. 09:17:02  09:17:03 Connecting anonymously to Steam Public...Logged in OK 09:17:03 Waiting for user info...OK 09:17:04 Success! App '740' already up to date.  09:17:05 @sSteamCmdForcePlatformType windows 09:17:05 &amp;quot;@sSteamCmdForcePlatformType&amp;quot; = &amp;quot;windows&amp;quot; 09:17:05 force_install_dir ../ 09:17:05 app_update 740 09:17:05 quit 09:17:05 Redirecting stderr to 'D:\\servers\\csgo_297437\\steamcmd\\logs\\stderr.txt'  09:17:05 Params: -game csgo -console -tickrate 128.00 -port 49525 +tv_port 49526 -maxplayers_override 16 -usercon -nowatchdog +sv_pure 0 +sv_lan 0 +ip 89.203.193.220 +game_type 0 +exec server.cfg +game_mode 1 +map de_dust2 +sv_setsteamaccount B74A031F37B9312A5EC65A15FC43AA0C -gamemodes_serverfile gamemodes_server.txt +mapgroup h_custom -condebug -norestart -allowdebug 09:17:06 &amp;&#35;35; 09:17:06 &amp;&#35;35;Console initialized. 09:17:06 &amp;&#35;35;Using breakpad minid...",
+    "forks_count": 0,
+    "html_url": "https://github.com/marostcs/konzole",
+    "keywords": [
+        "Windows use after free",
+        "Win use after free"
+    ],
+    "language": null,
+    "repo_name": "konzole",
+    "repo_owner": "marostcs",
+    "repotime": "2021-01-19, 23:41:23",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 17,
+    "date_started": "2021-01-17",
+    "date_updated": "2021-01-19",
+    "description": "Code for the freeCodeCamp Chicago session held on 2021-01-17",
+    "forks_count": 0,
+    "html_url": "https://github.com/rgroves/fcc-chi-20210117-attack-of-the-clones",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "HTML",
+    "repo_name": "fcc-chi-20210117-attack-of-the-clones",
+    "repo_owner": "rgroves",
+    "repotime": "2021-01-19, 17:33:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-01-19",
+    "date_updated": "2021-01-19",
+    "description": "A small Windows GUI application for cleaning up possible memory leaks",
+    "forks_count": 0,
+    "html_url": "https://github.com/alenoi/RAM-Cleaner-Pro",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "RAM-Cleaner-Pro",
+    "repo_owner": "alenoi",
+    "repotime": "2021-01-19, 03:22:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2021-01-18",
+    "date_updated": "2021-01-18",
+    "description": "Tyke is simple dns server to exploit Server Side Request Forgery using DNS rebinding technique",
+    "forks_count": 0,
+    "html_url": "https://github.com/creativetoken/tyke",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "tyke",
+    "repo_owner": "creativetoken",
+    "repotime": "2021-01-18, 09:47:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2021-01-16",
+    "date_updated": "2021-01-16",
+    "description": "  Karamel is a free Karaoke Player which provides two user interfaces. A simple one for the personal use and one with more possibilities for karaoke bars.  In its first version it only contains the simple mode with the following features: - Media library - Random / Playlist playback - Stop after song / go on mode - MP3+G and video playback - Playback in additional window Features      Media Library     Playlist     Stop playback after song     Shuffle",
+    "forks_count": 0,
+    "html_url": "https://github.com/akrostichon/Karamel",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Karamel",
+    "repo_owner": "akrostichon",
+    "repotime": "2021-01-16, 16:22:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-01-14",
+    "date_updated": "2021-01-15",
+    "description": "Smashing Stack in linux 64bit and bypass NX, ASLR, and stack canaries. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/vulnsystem/SmashingStack",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "SmashingStack",
+    "repo_owner": "vulnsystem",
+    "repotime": "2021-01-15, 20:59:03",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-01-14",
+    "date_updated": "2021-01-15",
+    "description": "Instashell v1.5.5 Author: github.com/thelinuxchoice Edited &amp;amp; Uploaded By: kNIGHT(github.com/cyberknight777) IG: instagram.com/thelinuxchoice IG: Instagram.com/cyb3r_kn1ght_0ff1c1al Don't copy this code without give me the credits, bitch! Instashell is an Shell Script to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of +400 passwords/min using 20 threads.  insta  Features Multi-thread (400 pass/min, 20 threads) Save/Resume sessions Anonymous attack through TOR Check valid usernames Default password list (best +39k 8 letters) Check and Install all dependencies Usage: git clone https://github.com/cyberknight777/instashell Open A Session And Type tor cd instashell chmod +x instashell.sh ./instashell.sh Install requirements (Curl, Tor, Openssl): chmod +x install.sh ./install.sh How it works? Script uses an Android ApkSignature to perform authentication in addition using TOR and ...",
+    "forks_count": 9,
+    "html_url": "https://github.com/69zainka69/instashell",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Shell",
+    "repo_name": "instashell",
+    "repo_owner": "69zainka69",
+    "repotime": "2021-01-15, 10:17:55",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-03-07",
+    "date_updated": "2021-01-13",
+    "description": "An overload of overload of global operator new and global operator delete to explicitly check for memory leaks and freeing invalid memory. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ayxan13/MemoryAnalysis",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "C++",
+    "repo_name": "MemoryAnalysis",
+    "repo_owner": "Ayxan13",
+    "repotime": "2021-01-13, 23:57:28",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 446,
+    "date_started": "2021-01-14",
+    "date_updated": "2021-01-13",
+    "description": "An alternative to ssh, written from the ground up in Golang. A test-bed for experimental key exchanges and symmetric session crypto algorithms. xs Features integrated traffic chaffing to obscure interactive session and file copy activity, and serves as a playground for other experimental attack-resistance techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/isgasho/xs",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "xs",
+    "repo_owner": "isgasho",
+    "repotime": "2021-01-13, 00:59:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-01-11",
+    "date_updated": "2021-01-11",
+    "description": "The objective of this study is to predict learners’ learning styles based on their learning traces. we analyzed data collected from the edX course “Statistical Learning&amp;quot;  session Winter 2015 and Winter 2016), administered via Stanford’s Logunita platform",
+    "forks_count": 7,
+    "html_url": "https://github.com/Br-Hmedna/Learning-Styles-prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Learning-Styles-prediction",
+    "repo_owner": "Br-Hmedna",
+    "repotime": "2021-01-11, 17:13:59",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 221,
+    "date_started": "2020-03-05",
+    "date_updated": "2021-01-11",
+    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "forks_count": 42,
+    "html_url": "https://github.com/hash3liZer/evilginx2",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Go",
+    "repo_name": "evilginx2",
+    "repo_owner": "hash3liZer",
+    "repotime": "2021-01-11, 13:08:23",
+    "stargazers_count": 108,
+    "watchers_count": 108
+}
+{
+    "commits_count": 20,
+    "date_started": "2017-04-01",
+    "date_updated": "2021-01-10",
+    "description": "Data collection and analysis around the financial disclosures from the Office of Government Ethics",
+    "forks_count": 4,
+    "html_url": "https://github.com/Data4Democracy/wh-financial-disclosures",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "wh-financial-disclosures",
+    "repo_owner": "Data4Democracy",
+    "repotime": "2021-01-10, 22:08:59",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-01-10",
+    "date_updated": "2021-01-11",
+    "description": "Test Scenarios for XXE Under .NET Core",
+    "forks_count": 0,
+    "html_url": "https://github.com/mindingdata/XXEDotNetCore",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "C#",
+    "repo_name": "XXEDotNetCore",
+    "repo_owner": "mindingdata",
+    "repotime": "2021-01-11, 09:17:12",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 221,
+    "date_started": "2021-01-03",
+    "date_updated": "2021-01-10",
+    "description": "What is JavaScript and what does it do?   Before you start learning something new, it’s important to understand exactly what it is and what it does. This is especially useful when it comes to mastering a new programming language.  In simple terms, JavaScript is a programming language used to make websites interactive. If you think about the basic makeup of a website, you have HTML, which describes and defines the basic content and structure of the website, then you have CSS, which tells the browser how this HTML content should be displayed—determining things like color and font. With just HTML and CSS, you have a website that looks good but doesn’t actually do much. JavaScript brings the website to life by adding functionality. JavaScript is responsible for elements that the user can interact with, such as drop-down menus, modal windows, and contact forms. It is also used to create things like animations, video players, and interactive maps.  Nowadays, JavaScript is an all-purpose prog...",
+    "forks_count": 21,
+    "html_url": "https://github.com/sanusanth/javascript-basic-program",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "javascript-basic-program",
+    "repo_owner": "sanusanth",
+    "repotime": "2021-01-10, 13:19:14",
+    "stargazers_count": 53,
+    "watchers_count": 53
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-01-10",
+    "date_updated": "2021-01-10",
+    "description": "CVE-2020-36179~82  Jackson-databind SSRF&amp;amp;RCE",
+    "forks_count": 9,
+    "html_url": "https://github.com/Al1ex/CVE-2020-36179",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-36179",
+    "repo_owner": "Al1ex",
+    "repotime": "2021-01-10, 14:48:52",
+    "stargazers_count": 80,
+    "watchers_count": 80
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-01-09",
+    "date_updated": "2021-01-09",
+    "description": "A form that responds to proper inputs and queries improper inputs",
+    "forks_count": 0,
+    "html_url": "https://github.com/davido242/form_validation_awka",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "PHP",
+    "repo_name": "form_validation_awka",
+    "repo_owner": "davido242",
+    "repotime": "2021-01-09, 22:36:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-01-09",
+    "date_updated": "2021-01-10",
+    "description": "<no description>",
+    "forks_count": 6,
+    "html_url": "https://github.com/mave12/0DaylnkExploit-Builder",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "0DaylnkExploit-Builder",
+    "repo_owner": "mave12",
+    "repotime": "2021-01-10, 01:08:31",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 25,
+    "date_started": "2020-12-20",
+    "date_updated": "2021-01-08",
+    "description": "A useful tool for tracking native (C++) memory leakage in Windows 10 environment (support both x86 and x64)",
+    "forks_count": 0,
+    "html_url": "https://github.com/avipreshel/CLI-Native-Leak-Detector",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "CLI-Native-Leak-Detector",
+    "repo_owner": "avipreshel",
+    "repotime": "2021-01-08, 17:18:58",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-01-07",
+    "date_updated": "2021-01-08",
+    "description": "A small Windows console application for cleaning up possible memory leaks",
+    "forks_count": 0,
+    "html_url": "https://github.com/alenoi/RAM-Cleaner",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "C#",
+    "repo_name": "RAM-Cleaner",
+    "repo_owner": "alenoi",
+    "repotime": "2021-01-08, 09:27:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2021-05-25",
+    "date_updated": "2021-01-07",
+    "description": "OS command injection 0-day exploits for Jeff the eGod's APIs",
+    "forks_count": 2,
+    "html_url": "https://github.com/5l1v3r1/CTW-Auth-API-0day",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": null,
+    "repo_name": "CTW-Auth-API-0day",
+    "repo_owner": "5l1v3r1",
+    "repotime": "2021-01-07, 09:21:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-01-07",
+    "date_updated": "2021-01-07",
+    "description": "Cross Site Scripting is a major vulnerability that is often exploited by hackers for website hacking. It is one of the more difficult vulnerabilities to deal with because of the way it works. Some of the largest websites in the world have dealt with successful XSS attacks including Microsoft and Google.  Most XSS website hacking attacks use malicious Javascript scripts that are embedded in hyperlinks. When the user clicks the link, it might steal personal information, hijack a web session, take over a user account, or change the advertisements that are being displayed on a page.  Hackers will often insert these malicious links into web forums, social media websites, and other prominent locations where users will click them. To avoid XSS attacks, website owners must filter user input to remove any malicious code.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Aryia-Behroziuan/Cross-Site-Scripting-XSS-",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking attack",
+        "session hijacking vulnerability",
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "Cross-Site-Scripting-XSS-",
+    "repo_owner": "Aryia-Behroziuan",
+    "repotime": "2021-01-07, 10:15:01",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 22,
+    "date_started": "2021-01-01",
+    "date_updated": "2021-01-06",
+    "description": "Interactive Semi Automatic Image 2D Bounding Box Annotation and Labelling Tool using Multi Template Matching   An Interactive Semi Automatic Image 2D Bounding Box Annotation/Labelling Tool to aid the Annotater/User to rapidly create 2D Bounding Box Single Object Detection masks for large number of training images in a semi automatic manner in order to train an object detection deep neural network such as Mask R-CNN or U-Net. As the Annotater/User starts annotating/labelling by drawing a bounding box for a few number of images in the selected folder then the algorithm suggests bounding box predictions for the rest of the yet to be annotated/labelled images in the folder. If the predictions are right then the user/annotater can simply press the keyboard key 'y' which indicates that the detected bounding box is correct. If the prediction is wrong then the user/annotater can manually draw a rectangular 2D bounding box over the correct ROI (Region of interest) in the image and then press th...",
+    "forks_count": 4,
+    "html_url": "https://github.com/robertarvind/Interactive-Semi-Automatic-Image-2D-Bounding-Box-Annotation-Tool-using-Multi-Template_Matching",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "Python",
+    "repo_name": "Interactive-Semi-Automatic-Image-2D-Bounding-Box-Annotation-Tool-using-Multi-Template_Matching",
+    "repo_owner": "robertarvind",
+    "repotime": "2021-01-06, 18:57:22",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-12-04",
+    "date_updated": "2021-01-06",
+    "description": "Like Russian roulette, but for your kernel.",
+    "forks_count": 0,
+    "html_url": "https://github.com/thebabush/linux-russian-roulette",
+    "keywords": [
+        "0day dos",
+        "0day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "linux-russian-roulette",
+    "repo_owner": "thebabush",
+    "repotime": "2021-01-06, 14:15:15",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-01-06",
+    "date_updated": "2021-01-06",
+    "description": "Blind spot is a python tool for blind injection vulnerabilities , SQLi time based , Command injection , code injection , SSTI",
+    "forks_count": 14,
+    "html_url": "https://github.com/zeronine9/Blind_SPOT",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "Blind_SPOT",
+    "repo_owner": "zeronine9",
+    "repotime": "2021-01-06, 12:52:35",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-01-05",
+    "date_updated": "2021-01-05",
+    "description": "This project was done as a part of the Hackathon organised by MachineHack.com. https://www.machinehack.com/hackathons/buyers_time_prediction_challenge/overview   In this competition provided the visitor's session data, we are challenging the Machinehack community to come up with a regression algorithm to predict the time a buyer will spend on the platform.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sourav-dscml/Buyers-Time-Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Buyers-Time-Prediction",
+    "repo_owner": "sourav-dscml",
+    "repotime": "2021-01-05, 23:39:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2018-08-20",
+    "date_updated": "2021-01-04",
+    "description": "LFI (Local File Inclusion) Exploitation Tool",
+    "forks_count": 6,
+    "html_url": "https://github.com/BoxingOctopusCreative/toxin",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "toxin",
+    "repo_owner": "BoxingOctopusCreative",
+    "repotime": "2021-01-04, 15:23:31",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 7,
+    "date_started": "2018-01-28",
+    "date_updated": "2021-01-04",
+    "description": "Cheatsheet to exploit and learn SQL Injection.",
+    "forks_count": 48,
+    "html_url": "https://github.com/AdmiralGaust/SQL-Injection-cheat-sheet",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL-Injection-cheat-sheet",
+    "repo_owner": "AdmiralGaust",
+    "repotime": "2021-01-04, 14:20:02",
+    "stargazers_count": 138,
+    "watchers_count": 138
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-12-25",
+    "date_updated": "2021-01-01",
+    "description": "Unrestricted File Upload in Gym Management Software 1.0",
+    "forks_count": 0,
+    "html_url": "https://github.com/mazdafunsunn/gym-management-unrestricted-upload",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "gym-management-unrestricted-upload",
+    "repo_owner": "mazdafunsunn",
+    "repotime": "2021-01-01, 15:05:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

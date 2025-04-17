@@ -307,3 +307,312 @@
     "stargazers_count": 6,
     "watchers_count": 6
 }
+{
+    "commits_count": 2,
+    "date_started": "2017-12-01",
+    "date_updated": "2017-11-30",
+    "description": "This script is used as a supplement to vulnerability assessment tools such as Nessus, Retina, and various other scanners that are used in the industry.  The script collects data specfic to the network, firewall configuration (host based), audit logs (security, system, application) and other information that can be useful in determining false positives during a vulnerability assessment.   I created to tool to negate having to take numerous screen shots or going to different places to pull data manually. Primarily, I use this tool to collect the data at the test site and then review the data as needed during post-analysis. The tool is meant to capture more data than neccessary allowing the analysts to comment out portions they may not need or want during a test event; allowing them to use the script on embedded systems if needed (not been tested on embedded systems yet).   The following files are generated as output of this script:  Application_Log.xml Audit_Policy.txt Error_Log.txt ßonl...",
+    "forks_count": 8,
+    "html_url": "https://github.com/caday00/Windows-Fingerprint-PowerShell",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Windows-Fingerprint-PowerShell",
+    "repo_owner": "caday00",
+    "repotime": "2017-11-30, 20:08:19",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 1,
+    "date_started": "2017-11-30",
+    "date_updated": "2017-11-30",
+    "description": "This project serves as a proof of concept for DFP issues with SPAs",
+    "forks_count": 0,
+    "html_url": "https://github.com/jbojcic1/angular-dfp-memory-leak-proof-of-concept",
+    "keywords": [
+        "memory leak proof of concept"
+    ],
+    "language": "TypeScript",
+    "repo_name": "angular-dfp-memory-leak-proof-of-concept",
+    "repo_owner": "jbojcic1",
+    "repotime": "2017-11-30, 22:31:41",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 13,
+    "date_started": "2017-11-05",
+    "date_updated": "2017-11-28",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/FelipeBrizola/tcp-session-hijacking-ipv6",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "C++",
+    "repo_name": "tcp-session-hijacking-ipv6",
+    "repo_owner": "FelipeBrizola",
+    "repotime": "2017-11-28, 15:49:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2017-11-23",
+    "date_updated": "2017-11-27",
+    "description": "Light up the darknet by crawling it for posts advertising new hacking tools and zero-day vulnerabilities.",
+    "forks_count": 2,
+    "html_url": "https://github.com/bachsh/flame-darknet",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "flame-darknet",
+    "repo_owner": "bachsh",
+    "repotime": "2017-11-27, 09:37:01",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 22,
+    "date_started": "2017-11-08",
+    "date_updated": "2017-11-25",
+    "description": "O objevo geral do trabalho é desenvolver uma aplicação usando raw sockets para sequestrar conexões TCP",
+    "forks_count": 1,
+    "html_url": "https://github.com/emanoelvianna/tcp-session-hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "C",
+    "repo_name": "tcp-session-hijacking",
+    "repo_owner": "emanoelvianna",
+    "repotime": "2017-11-25, 23:47:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2017-01-18",
+    "date_updated": "2017-11-20",
+    "description": "A college project to simulate a SQL Injection in java",
+    "forks_count": 17,
+    "html_url": "https://github.com/mndarren/SQL-Injection-Simulation-Project",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "CSS",
+    "repo_name": "SQL-Injection-Simulation-Project",
+    "repo_owner": "mndarren",
+    "repotime": "2017-11-20, 17:25:23",
+    "stargazers_count": 14,
+    "watchers_count": 14
+}
+{
+    "commits_count": 111,
+    "date_started": "2017-04-17",
+    "date_updated": "2017-11-19",
+    "description": "Exploit toolkit CVE-2017-0199 - v4.0 is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft Office RCE. It could generate a malicious RTF/PPSX file and deliver metasploit / meterpreter / other payload to victim without any complex configuration.",
+    "forks_count": 260,
+    "html_url": "https://github.com/bhdresh/CVE-2017-0199",
+    "keywords": [
+        "Microsoft rce exploitation",
+        "Microsoft rce",
+        "Microsoft rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-0199",
+    "repo_owner": "bhdresh",
+    "repotime": "2017-11-19, 15:01:15",
+    "stargazers_count": 724,
+    "watchers_count": 724
+}
+{
+    "commits_count": 9,
+    "date_started": "2017-11-18",
+    "date_updated": "2017-11-19",
+    "description": "Path Traversal Vulnerability Detector",
+    "forks_count": 1,
+    "html_url": "https://github.com/ikanoano/PTVD",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "PTVD",
+    "repo_owner": "ikanoano",
+    "repotime": "2017-11-19, 06:52:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2017-11-19",
+    "date_updated": "2017-11-18",
+    "description": "Kernel memory leak/local DOS on iOS 11.",
+    "forks_count": 4,
+    "html_url": "https://github.com/bazad/AppleJPEGDriver-memleak",
+    "keywords": [
+        "memory leak dos"
+    ],
+    "language": "C",
+    "repo_name": "AppleJPEGDriver-memleak",
+    "repo_owner": "bazad",
+    "repotime": "2017-11-18, 20:57:16",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 56,
+    "date_started": "2017-09-14",
+    "date_updated": "2017-11-19",
+    "description": "Purpose only! The   dangers   of   Bluetooth   implementations:   Unveiling   zero   day vulnerabilities   and   security   flaws   in   modern   Bluetooth   stacks.",
+    "forks_count": 94,
+    "html_url": "https://github.com/mailinneberg/BlueBorne",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "BlueBorne",
+    "repo_owner": "mailinneberg",
+    "repotime": "2017-11-19, 02:28:10",
+    "stargazers_count": 276,
+    "watchers_count": 276
+}
+{
+    "commits_count": 7,
+    "date_started": "2017-07-16",
+    "date_updated": "2017-11-17",
+    "description": "Python script specifically made to find interesting files in Kioptrix 4 (This leverages the LFI vulnerability).",
+    "forks_count": 1,
+    "html_url": "https://github.com/nathunandwani/local-file-inclusion-recon",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "local-file-inclusion-recon",
+    "repo_owner": "nathunandwani",
+    "repotime": "2017-11-17, 18:12:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2017-10-20",
+    "date_updated": "2017-11-07",
+    "description": "Fuzzy test rules (include Sqli xss Lfi and so on)",
+    "forks_count": 4,
+    "html_url": "https://github.com/DictionaryHouse/Fuzzy-test-rules",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "Fuzzy-test-rules",
+    "repo_owner": "DictionaryHouse",
+    "repotime": "2017-11-07, 06:38:05",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 4,
+    "date_started": "2017-10-20",
+    "date_updated": "2017-11-07",
+    "description": "Sql-injection FuzzPayload collection:Sql-injection FuzzPayload 集合",
+    "forks_count": 11,
+    "html_url": "https://github.com/DictionaryHouse/Sql-injection-FuzzPayload-collection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "Sql-injection-FuzzPayload-collection",
+    "repo_owner": "DictionaryHouse",
+    "repotime": "2017-11-07, 06:35:06",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 15,
+    "date_started": "2017-11-05",
+    "date_updated": "2017-11-05",
+    "description": "Unrestricted file upload vulnerability - Web Viewer 1.0.0.193 on Samsung SRN-1670D",
+    "forks_count": 1,
+    "html_url": "https://github.com/realistic-security/CVE-2017-16524",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Ruby",
+    "repo_name": "CVE-2017-16524",
+    "repo_owner": "realistic-security",
+    "repotime": "2017-11-05, 23:30:53",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 12,
+    "date_started": "2017-11-03",
+    "date_updated": "2017-11-04",
+    "description": "Local File Inclusion",
+    "forks_count": 0,
+    "html_url": "https://github.com/brokensound77/lfi_injector",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "lfi_injector",
+    "repo_owner": "brokensound77",
+    "repotime": "2017-11-04, 03:48:25",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 31,
+    "date_started": "2016-02-29",
+    "date_updated": "2017-11-03",
+    "description": "(extensible) Data Exfiltration Toolkit (DET)",
+    "forks_count": 191,
+    "html_url": "https://github.com/sensepost/DET",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "DET",
+    "repo_owner": "sensepost",
+    "repotime": "2017-11-03, 10:50:53",
+    "stargazers_count": 826,
+    "watchers_count": 826
+}
+{
+    "commits_count": 9,
+    "date_started": "2017-08-21",
+    "date_updated": "2017-11-02",
+    "description": "Tạo trang web bị lỗi LFI",
+    "forks_count": 0,
+    "html_url": "https://github.com/doanngochoanghy/Local-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "PHP",
+    "repo_name": "Local-File-Inclusion",
+    "repo_owner": "doanngochoanghy",
+    "repotime": "2017-11-02, 17:26:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 25,
+    "date_started": "2017-11-02",
+    "date_updated": "2017-11-02",
+    "description": "<no description>",
+    "forks_count": 3,
+    "html_url": "https://github.com/CodeOcenS/LFIconFont",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Swift",
+    "repo_name": "LFIconFont",
+    "repo_owner": "CodeOcenS",
+    "repotime": "2017-11-02, 13:02:03",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}

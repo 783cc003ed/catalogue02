@@ -175,3 +175,180 @@
     "stargazers_count": 27,
     "watchers_count": 27
 }
+{
+    "commits_count": 2,
+    "date_started": "2015-09-27",
+    "date_updated": "2015-09-27",
+    "description": "PowerShell Module to provide Network Block Device like functionality on Windows Hosts",
+    "forks_count": 7,
+    "html_url": "https://github.com/Invoke-IR/POSHNBD",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "PowerShell",
+    "repo_name": "POSHNBD",
+    "repo_owner": "Invoke-IR",
+    "repotime": "2015-09-27, 10:38:39",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-03-24",
+    "date_updated": "2015-09-27",
+    "description": "Proof Of Concept, demonstrating a method to escalate privileges on any Windows system, allows all the registered user accounts on a machine with their passwords, this is a security error and that one should not access this information.",
+    "forks_count": 0,
+    "html_url": "https://github.com/yakkobr/WindowsPrivilegeEscalation",
+    "keywords": [
+        "Win escalation of privileges proof of concept",
+        "Win escalation of privileges",
+        "Windows escalation of privileges",
+        "escalation of privileges proof of concept",
+        "Windows escalation of privileges proof of concept"
+    ],
+    "language": null,
+    "repo_name": "WindowsPrivilegeEscalation",
+    "repo_owner": "yakkobr",
+    "repotime": "2015-09-27, 04:53:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2015-09-26",
+    "date_updated": "2015-09-26",
+    "description": "hijacking-session-demo",
+    "forks_count": 0,
+    "html_url": "https://github.com/baya/hijacking-session-demo",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Ruby",
+    "repo_name": "hijacking-session-demo",
+    "repo_owner": "baya",
+    "repotime": "2015-09-26, 16:01:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2015-09-24",
+    "date_updated": "2015-09-24",
+    "description": "Explotación de la vulnerabilidad XXE de XML",
+    "forks_count": 6,
+    "html_url": "https://github.com/s1kr10s/SCAN_XXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "SCAN_XXE",
+    "repo_owner": "s1kr10s",
+    "repotime": "2015-09-24, 13:10:18",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 7,
+    "date_started": "2015-09-19",
+    "date_updated": "2015-09-19",
+    "description": "Inject codes to another process to watch and operate other process. This is usually used as anti-virus software.",
+    "forks_count": 5,
+    "html_url": "https://github.com/hkhk366/Memory_Codes_Injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "Memory_Codes_Injection",
+    "repo_owner": "hkhk366",
+    "repotime": "2015-09-19, 16:45:56",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 2,
+    "date_started": "2015-09-10",
+    "date_updated": "2015-09-10",
+    "description": "An exploit for CVE-2015-1538-1 - Google Stagefright ‘stsc’ MP4 Atom Integer Overflow Remote Code Execution",
+    "forks_count": 118,
+    "html_url": "https://github.com/jduck/cve-2015-1538-1",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2015-1538-1",
+    "repo_owner": "jduck",
+    "repotime": "2015-09-10, 10:36:10",
+    "stargazers_count": 205,
+    "watchers_count": 205
+}
+{
+    "commits_count": 16,
+    "date_started": "2015-09-09",
+    "date_updated": "2015-09-09",
+    "description": "Sandbox for testing local file inclusion attack",
+    "forks_count": 0,
+    "html_url": "https://github.com/mjacobus/lfi-sandbox",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Shell",
+    "repo_name": "lfi-sandbox",
+    "repo_owner": "mjacobus",
+    "repotime": "2015-09-09, 17:26:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2015-09-02",
+    "date_updated": "2015-09-02",
+    "description": "Slim cross-browser JavaScript library to simplify the client-side scripting. It's perfect for both small and demanding projects in the web, whereby the usage of common libraries is totally oversized.",
+    "forks_count": 0,
+    "html_url": "https://github.com/felixheck/hxnwrk",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "hxnwrk",
+    "repo_owner": "felixheck",
+    "repotime": "2015-09-02, 15:49:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2015-09-09",
+    "date_updated": "2015-09-02",
+    "description": "An exploit for CVE-2015-1538-1 - Google Stagefright ‘stsc’ MP4 Atom Integer Overflow Remote Code Execution",
+    "forks_count": 12,
+    "html_url": "https://github.com/oguzhantopgul/cve-2015-1538-1",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "cve-2015-1538-1",
+    "repo_owner": "oguzhantopgul",
+    "repotime": "2015-09-02, 05:27:00",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 7,
+    "date_started": "2015-09-01",
+    "date_updated": "2015-09-01",
+    "description": "HitCon 2015 spartan 0day &amp;amp; exploit",
+    "forks_count": 25,
+    "html_url": "https://github.com/exp-sky/HitCon-2015-spartan-0day-exploit",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation"
+    ],
+    "language": null,
+    "repo_name": "HitCon-2015-spartan-0day-exploit",
+    "repo_owner": "exp-sky",
+    "repotime": "2015-09-01, 14:30:52",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
