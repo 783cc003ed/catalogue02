@@ -1,4 +1,183 @@
 {
+    "commits_count": 39,
+    "date_started": "2025-04-16",
+    "date_updated": "2025-04-17",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Qweryyts/HTA-Exploit",
+    "keywords": [
+        "Windows remote code execution exploit",
+        "Windows remote code execution",
+        "Microsoft remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "Qweryyts",
+    "repotime": "2025-04-17, 04:52:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2635,
+    "date_started": "2009-12-19",
+    "date_updated": "2025-04-17",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "forks_count": 2227,
+    "html_url": "https://github.com/jhy/jsoup",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "jsoup",
+    "repo_owner": "jhy",
+    "repotime": "2025-04-17, 12:07:13",
+    "stargazers_count": 11110,
+    "watchers_count": 11110
+}
+{
+    "commits_count": 1156,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-04-17",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 119,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-04-17, 01:10:45",
+    "stargazers_count": 694,
+    "watchers_count": 694
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-03-27",
+    "date_updated": "2025-04-16",
+    "description": " Explorative Intel Gathering of EternalBlue (MS17-010) simulating exploit via Metasploit, engaging privilege escalation, and mitigation analysis.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MichaelColburn/externalblue_exploit_exploratory_sim",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "externalblue_exploit_exploratory_sim",
+    "repo_owner": "MichaelColburn",
+    "repotime": "2025-04-16, 17:02:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 655,
+    "date_started": "2025-04-05",
+    "date_updated": "2025-04-16",
+    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kaorast/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "keywords": [
+        "Windows remote code execution exploit",
+        "Windows remote code execution"
+    ],
+    "language": "C++",
+    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "repo_owner": "Kaorast",
+    "repotime": "2025-04-16, 23:54:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 950,
+    "date_started": "2023-05-31",
+    "date_updated": "2025-04-16",
+    "description": "LFI: Practical, Efficient, and Secure Software-based Sandboxing",
+    "forks_count": 8,
+    "html_url": "https://github.com/zyedidia/lfi",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "C",
+    "repo_name": "lfi",
+    "repo_owner": "zyedidia",
+    "repotime": "2025-04-16, 13:52:06",
+    "stargazers_count": 67,
+    "watchers_count": 67
+}
+{
+    "commits_count": 1268,
+    "date_started": "2025-03-25",
+    "date_updated": "2025-04-16",
+    "description": "The WinRAR Exploit Builder is a C&amp;&#35;35; project designed to create an exploit targeting a vulnerability in WinRAR.",
+    "forks_count": 0,
+    "html_url": "https://github.com/TypsSec/WinRAR-Exploit-Builder",
+    "keywords": [
+        "0day vulnerability",
+        "Win 0day",
+        "Win 0day exploit",
+        "Win 0day vulnerability"
+    ],
+    "language": "C#",
+    "repo_name": "WinRAR-Exploit-Builder",
+    "repo_owner": "TypsSec",
+    "repotime": "2025-04-16, 19:24:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-04-16",
+    "date_updated": "2025-04-16",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/VladAndreiToma/AutomaticBot_ForCSV_PreLearn_DataInjection",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "AutomaticBot_ForCSV_PreLearn_DataInjection",
+    "repo_owner": "VladAndreiToma",
+    "repotime": "2025-04-16, 22:20:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2024-11-22",
+    "date_updated": "2025-04-16",
+    "description": "This project will focus on the implementation and configuration of AWS WAF to detect and block common web application vulnerabilities such as SQL injection, Cross-Site Scripting (XSS), and Server-Side Request Forgery (SSRF) attacks. Additionally, the project will explore integration of other AWS services such as CloudWatch.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Iremidee/Project2_Leveraging_AWS_WAF_to_detect_and_block_web_application_vulnerabilities",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "Project2_Leveraging_AWS_WAF_to_detect_and_block_web_application_vulnerabilities",
+    "repo_owner": "Iremidee",
+    "repotime": "2025-04-16, 16:16:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 131,
+    "date_started": "2024-09-13",
+    "date_updated": "2025-04-16",
+    "description": "best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect",
+    "forks_count": 251,
+    "html_url": "https://github.com/coffinxp/loxs",
+    "keywords": [
+        "lfi",
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "loxs",
+    "repo_owner": "coffinxp",
+    "repotime": "2025-04-16, 14:13:53",
+    "stargazers_count": 1108,
+    "watchers_count": 1108
+}
+{
     "commits_count": 358,
     "date_started": "2025-04-11",
     "date_updated": "2025-04-16",
@@ -16,59 +195,23 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 16,
-    "date_started": "2024-11-22",
+    "commits_count": 663,
+    "date_started": "2022-04-19",
     "date_updated": "2025-04-16",
-    "description": "This project will focus on the implementation and configuration of AWS WAF to detect and block common web application vulnerabilities such as SQL injection, Cross-Site Scripting (XSS), and Server-Side Request Forgery (SSRF) attacks. Additionally, the project will explore integration of other AWS services such as CloudWatch.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Iremidee/Project2_Leveraging_AWS_WAF_to_detect_and_block_web_application_vulnerabilities",
-    "keywords": [
-        "cross-side-scripting"
-    ],
-    "language": null,
-    "repo_name": "Project2_Leveraging_AWS_WAF_to_detect_and_block_web_application_vulnerabilities",
-    "repo_owner": "Iremidee",
-    "repotime": "2025-04-16, 11:39:23",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 618,
-    "date_started": "2025-04-05",
-    "date_updated": "2025-04-16",
-    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Kaorast/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
-    "keywords": [
-        "Windows remote code execution exploit",
-        "Windows remote code execution"
-    ],
-    "language": "C++",
-    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
-    "repo_owner": "Kaorast",
-    "repotime": "2025-04-16, 09:58:36",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 1245,
-    "date_started": "2025-03-25",
-    "date_updated": "2025-04-16",
-    "description": "The WinRAR Exploit Builder is a C&amp;&#35;35; project designed to create an exploit targeting a vulnerability in WinRAR.",
-    "forks_count": 0,
-    "html_url": "https://github.com/TypsSec/WinRAR-Exploit-Builder",
+    "description": "Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.",
+    "forks_count": 39,
+    "html_url": "https://github.com/Ostorlab/KEV",
     "keywords": [
         "0day vulnerability",
-        "Win 0day",
-        "Win 0day exploit",
-        "Win 0day vulnerability"
+        "0day exploitation",
+        "0day exploit"
     ],
-    "language": "C#",
-    "repo_name": "WinRAR-Exploit-Builder",
-    "repo_owner": "TypsSec",
-    "repotime": "2025-04-16, 09:58:06",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "language": null,
+    "repo_name": "KEV",
+    "repo_owner": "Ostorlab",
+    "repotime": "2025-04-16, 10:51:06",
+    "stargazers_count": 562,
+    "watchers_count": 562
 }
 {
     "commits_count": 1,
@@ -101,44 +244,8 @@
     "repo_name": "acra",
     "repo_owner": "cossacklabs",
     "repotime": "2025-04-16, 06:20:34",
-    "stargazers_count": 1388,
-    "watchers_count": 1388
-}
-{
-    "commits_count": 2632,
-    "date_started": "2009-12-19",
-    "date_updated": "2025-04-16",
-    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2227,
-    "html_url": "https://github.com/jhy/jsoup",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Java",
-    "repo_name": "jsoup",
-    "repo_owner": "jhy",
-    "repotime": "2025-04-16, 11:23:06",
-    "stargazers_count": 11111,
-    "watchers_count": 11111
-}
-{
-    "commits_count": 1155,
-    "date_started": "2022-03-19",
-    "date_updated": "2025-04-16",
-    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-    "forks_count": 119,
-    "html_url": "https://github.com/GhostTroops/TOP",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "rce vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "TOP",
-    "repo_owner": "GhostTroops",
-    "repotime": "2025-04-16, 01:11:43",
-    "stargazers_count": 694,
-    "watchers_count": 694
+    "stargazers_count": 1387,
+    "watchers_count": 1387
 }
 {
     "commits_count": 45,
@@ -227,25 +334,6 @@
     "watchers_count": 2
 }
 {
-    "commits_count": 659,
-    "date_started": "2022-04-19",
-    "date_updated": "2025-04-15",
-    "description": "Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.",
-    "forks_count": 39,
-    "html_url": "https://github.com/Ostorlab/KEV",
-    "keywords": [
-        "0day vulnerability",
-        "0day exploitation",
-        "0day exploit"
-    ],
-    "language": null,
-    "repo_name": "KEV",
-    "repo_owner": "Ostorlab",
-    "repotime": "2025-04-15, 17:29:30",
-    "stargazers_count": 562,
-    "watchers_count": 562
-}
-{
     "commits_count": 6,
     "date_started": "2025-04-14",
     "date_updated": "2025-04-15",
@@ -278,23 +366,6 @@
     "repotime": "2025-04-15, 14:16:56",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 949,
-    "date_started": "2023-05-31",
-    "date_updated": "2025-04-14",
-    "description": "LFI: Practical, Efficient, and Secure Software-based Sandboxing",
-    "forks_count": 8,
-    "html_url": "https://github.com/zyedidia/lfi",
-    "keywords": [
-        "lfi"
-    ],
-    "language": "C",
-    "repo_name": "lfi",
-    "repo_owner": "zyedidia",
-    "repotime": "2025-04-14, 13:32:34",
-    "stargazers_count": 67,
-    "watchers_count": 67
 }
 {
     "commits_count": 31,
@@ -965,8 +1036,8 @@
     "repo_name": "See-SURF",
     "repo_owner": "In3tinct",
     "repotime": "2025-04-09, 11:16:51",
-    "stargazers_count": 318,
-    "watchers_count": 318
+    "stargazers_count": 319,
+    "watchers_count": 319
 }
 {
     "commits_count": 341,
@@ -1205,8 +1276,8 @@
     "repo_name": "agartha",
     "repo_owner": "volkandindar",
     "repotime": "2025-04-06, 18:12:42",
-    "stargazers_count": 369,
-    "watchers_count": 369
+    "stargazers_count": 370,
+    "watchers_count": 370
 }
 {
     "commits_count": 48,
@@ -1224,24 +1295,6 @@
     "repotime": "2025-04-06, 15:23:35",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 126,
-    "date_started": "2024-09-13",
-    "date_updated": "2025-04-06",
-    "description": "best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect",
-    "forks_count": 250,
-    "html_url": "https://github.com/coffinxp/loxs",
-    "keywords": [
-        "lfi",
-        "xss"
-    ],
-    "language": "Python",
-    "repo_name": "loxs",
-    "repo_owner": "coffinxp",
-    "repotime": "2025-04-06, 11:19:04",
-    "stargazers_count": 1102,
-    "watchers_count": 1102
 }
 {
     "commits_count": 36,
@@ -1555,7 +1608,7 @@
     "date_started": "2018-07-17",
     "date_updated": "2025-04-03",
     "description": "CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool",
-    "forks_count": 667,
+    "forks_count": 668,
     "html_url": "https://github.com/RhinoSecurityLabs/cloudgoat",
     "keywords": [
         "by_owner"
@@ -1564,8 +1617,8 @@
     "repo_name": "cloudgoat",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2025-04-03, 17:14:42",
-    "stargazers_count": 3173,
-    "watchers_count": 3173
+    "stargazers_count": 3178,
+    "watchers_count": 3178
 }
 {
     "commits_count": 5,

@@ -291,23 +291,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 4,
-    "date_started": "2025-03-27",
-    "date_updated": "2025-03-28",
-    "description": " Explorative Intel Gathering of EternalBlue (MS17-010) simulating exploit via Metasploit, engaging privilege escalation, and mitigation analysis.",
-    "forks_count": 0,
-    "html_url": "https://github.com/MichaelColburn/externalblue_exploit_exploratory_sim",
-    "keywords": [
-        "escalation of privileges exploit"
-    ],
-    "language": null,
-    "repo_name": "externalblue_exploit_exploratory_sim",
-    "repo_owner": "MichaelColburn",
-    "repotime": "2025-03-28, 17:15:40",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 29,
     "date_started": "2025-03-27",
     "date_updated": "2025-03-28",
@@ -483,7 +466,7 @@
     "date_started": "2023-05-22",
     "date_updated": "2025-03-26",
     "description": "NucleiFuzzer is a robust automation tool that efficiently detects web application vulnerabilities, including XSS, SQLi, SSRF, and Open Redirects, leveraging advanced scanning and URL enumeration techniques",
-    "forks_count": 229,
+    "forks_count": 230,
     "html_url": "https://github.com/0xKayala/NucleiFuzzer",
     "keywords": [
         "ssrf"
@@ -492,8 +475,8 @@
     "repo_name": "NucleiFuzzer",
     "repo_owner": "0xKayala",
     "repotime": "2025-03-26, 11:07:16",
-    "stargazers_count": 1508,
-    "watchers_count": 1508
+    "stargazers_count": 1509,
+    "watchers_count": 1509
 }
 {
     "commits_count": 8,
@@ -718,8 +701,8 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-03-23, 21:18:55",
-    "stargazers_count": 4442,
-    "watchers_count": 4442
+    "stargazers_count": 4445,
+    "watchers_count": 4445
 }
 {
     "commits_count": 13,
@@ -981,7 +964,7 @@
     "date_started": "2018-06-13",
     "date_updated": "2025-03-20",
     "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
-    "forks_count": 730,
+    "forks_count": 731,
     "html_url": "https://github.com/RhinoSecurityLabs/pacu",
     "keywords": [
         "exploitation",
@@ -991,8 +974,8 @@
     "repo_name": "pacu",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2025-03-20, 14:08:56",
-    "stargazers_count": 4638,
-    "watchers_count": 4638
+    "stargazers_count": 4641,
+    "watchers_count": 4641
 }
 {
     "commits_count": 21,
@@ -1012,8 +995,8 @@
     "repo_name": "Exploit-Street",
     "repo_owner": "MzHmO",
     "repotime": "2025-03-20, 19:33:11",
-    "stargazers_count": 774,
-    "watchers_count": 774
+    "stargazers_count": 775,
+    "watchers_count": 775
 }
 {
     "commits_count": 47,
@@ -1204,8 +1187,8 @@
     "repo_name": "XSStrike",
     "repo_owner": "s0md3v",
     "repotime": "2025-03-17, 16:54:27",
-    "stargazers_count": 13829,
-    "watchers_count": 13829
+    "stargazers_count": 13830,
+    "watchers_count": 13830
 }
 {
     "commits_count": 1,
@@ -1306,8 +1289,8 @@
     "repo_name": "XSS",
     "repo_owner": "ShadowByte1",
     "repotime": "2025-03-17, 09:53:09",
-    "stargazers_count": 105,
-    "watchers_count": 105
+    "stargazers_count": 106,
+    "watchers_count": 106
 }
 {
     "commits_count": 135,
@@ -1484,7 +1467,7 @@
     "date_started": "2025-03-14",
     "date_updated": "2025-03-14",
     "description": "his repository contains an automated Proof of Concept (PoC) script for exploiting **CVE-2025-24813**, a Remote Code Execution (RCE) vulnerability in Apache Tomcat. The vulnerability allows an attacker to upload a malicious serialized payload to the server, leading to arbitrary code execution via deserialization when specific conditions are met.",
-    "forks_count": 28,
+    "forks_count": 29,
     "html_url": "https://github.com/absholi7ly/POC-CVE-2025-24813",
     "keywords": [
         "remote code execution exploitation",
@@ -1498,8 +1481,8 @@
     "repo_name": "POC-CVE-2025-24813",
     "repo_owner": "absholi7ly",
     "repotime": "2025-03-14, 10:57:27",
-    "stargazers_count": 106,
-    "watchers_count": 106
+    "stargazers_count": 108,
+    "watchers_count": 108
 }
 {
     "commits_count": 2,

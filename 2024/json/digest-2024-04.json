@@ -83,8 +83,8 @@
     "repo_name": "webcopilot",
     "repo_owner": "h4r5h1t",
     "repotime": "2024-04-28, 18:49:52",
-    "stargazers_count": 1207,
-    "watchers_count": 1207
+    "stargazers_count": 1209,
+    "watchers_count": 1209
 }
 {
     "commits_count": 7,
@@ -896,13 +896,14 @@
     "date_started": "2024-03-20",
     "date_updated": "2024-04-07",
     "description": "Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.",
-    "forks_count": 313,
+    "forks_count": 314,
     "html_url": "https://github.com/Notselwyn/CVE-2024-1086",
     "keywords": [
         "escalation of privileges poc",
         "lpe exploit",
         "escalation of privileges exploit",
-        "escalation of privileges exploitation"
+        "escalation of privileges exploitation",
+        "lpe exploitation"
     ],
     "language": "C",
     "repo_name": "CVE-2024-1086",
