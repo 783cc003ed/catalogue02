@@ -148,3 +148,303 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 134,
+    "date_started": "2010-10-10",
+    "date_updated": "2013-12-29",
+    "description": "A Firefox extension that demonstrates HTTP session hijacking attacks.",
+    "forks_count": 636,
+    "html_url": "https://github.com/codebutler/firesheep",
+    "keywords": [
+        "session hijacking attack",
+        "session attack",
+        "session hijacking"
+    ],
+    "language": "C++",
+    "repo_name": "firesheep",
+    "repo_owner": "codebutler",
+    "repotime": "2013-12-29, 10:40:47",
+    "stargazers_count": 2344,
+    "watchers_count": 2344
+}
+{
+    "commits_count": 4,
+    "date_started": "2013-07-31",
+    "date_updated": "2013-12-24",
+    "description": "RCE Exploit PoC for Spring based RESTFul APIs using XStream as Unmarshaler",
+    "forks_count": 5,
+    "html_url": "https://github.com/pwntester/XStreamServer",
+    "keywords": [
+        "rce exploitation",
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "XStreamServer",
+    "repo_owner": "pwntester",
+    "repotime": "2013-12-24, 15:10:20",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 2,
+    "date_started": "2013-12-23",
+    "date_updated": "2013-12-23",
+    "description": "POC for XStream RCE",
+    "forks_count": 5,
+    "html_url": "https://github.com/pwntester/XStreamPOC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "XStreamPOC",
+    "repo_owner": "pwntester",
+    "repotime": "2013-12-23, 15:18:53",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 11,
+    "date_started": "2013-02-06",
+    "date_updated": "2013-12-20",
+    "description": "A collection of utilities for Android applications.",
+    "forks_count": 15,
+    "html_url": "https://github.com/FSecureLABS/mwr-android",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Java",
+    "repo_name": "mwr-android",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2013-12-20, 11:13:19",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 8,
+    "date_started": "2013-02-06",
+    "date_updated": "2013-12-20",
+    "description": "A collection of utilities for interacting with SSL and X509 Certificates on Android.",
+    "forks_count": 8,
+    "html_url": "https://github.com/FSecureLABS/mwr-tls",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Java",
+    "repo_name": "mwr-tls",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2013-12-20, 11:12:34",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 2,
+    "date_started": "2013-12-19",
+    "date_updated": "2013-12-19",
+    "description": "A playground for experimenting with chrome's profiling tools",
+    "forks_count": 0,
+    "html_url": "https://github.com/wshaver/memory_leaky",
+    "keywords": [
+        "Chrome memory leak"
+    ],
+    "language": null,
+    "repo_name": "memory_leaky",
+    "repo_owner": "wshaver",
+    "repotime": "2013-12-19, 10:11:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2013-07-31",
+    "date_updated": "2013-12-17",
+    "description": "Exploit PoC for Spring RCE issue (CVE-2011-2894)",
+    "forks_count": 22,
+    "html_url": "https://github.com/pwntester/SpringBreaker",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "SpringBreaker",
+    "repo_owner": "pwntester",
+    "repotime": "2013-12-17, 12:21:14",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 1,
+    "date_started": "2013-12-07",
+    "date_updated": "2013-12-06",
+    "description": "&amp;&#35;35; NDPROXY Local SYSTEM privilege escalation &amp;&#35;35; http://www.offensive-security.com &amp;&#35;35; Tested on Windows XP SP3 &amp;&#35;35; http://www.offensive-security.com/vulndev/ndproxy-local-system-exploit-cve-2013-5065/     &amp;&#35;35; Original crash ... null pointer dereference &amp;&#35;35; Access violation - code c0000005 (!!! second chance !!!) &amp;&#35;35; 00000038 ??              ???   from ctypes import * from ctypes.wintypes import * import os, sys   kernel32 = windll.kernel32 ntdll = windll.ntdll   GENERIC_READ     = 0x80000000 GENERIC_WRITE    = 0x40000000 FILE_SHARE_READ  = 0x00000001 FILE_SHARE_WRITE = 0x00000002 NULL = 0x0 OPEN_EXISTING = 0x3 PROCESS_VM_WRITE            = 0x0020 PROCESS_VM_READ             = 0x0010 MEM_COMMIT                  = 0x00001000 MEM_RESERVE                 = 0x00002000 MEM_FREE                    = 0x00010000 PAGE_EXECUTE_READWRITE      = 0x00000040 PROCESS_ALL_ACCESS          = 2097151 FORMAT_MESSAGE_FROM_SYSTEM  = 0x00001000 baseadd = c_int(0x00000001) MEMRES = (0x1000 | 0x...",
+    "forks_count": 1,
+    "html_url": "https://github.com/Friarfukd/RobbinHood",
+    "keywords": [
+        "Windows 0day vulnerability",
+        "Windows 0day exploitation",
+        "Microsoft 0day vulnerability",
+        "Microsoft 0day exploitation",
+        "Microsoft 0day",
+        "Microsoft 0day exploit",
+        "Windows 0day exploit",
+        "0day vulnerability",
+        "Windows 0day",
+        "0day exploitation"
+    ],
+    "language": null,
+    "repo_name": "RobbinHood",
+    "repo_owner": "Friarfukd",
+    "repotime": "2013-12-06, 21:37:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 134,
+    "date_started": "2010-10-10",
+    "date_updated": "2013-12-29",
+    "description": "A Firefox extension that demonstrates HTTP session hijacking attacks.",
+    "forks_count": 636,
+    "html_url": "https://github.com/codebutler/firesheep",
+    "keywords": [
+        "session hijacking attack",
+        "session attack",
+        "session hijacking"
+    ],
+    "language": "C++",
+    "repo_name": "firesheep",
+    "repo_owner": "codebutler",
+    "repotime": "2013-12-29, 10:40:47",
+    "stargazers_count": 2344,
+    "watchers_count": 2344
+}
+{
+    "commits_count": 4,
+    "date_started": "2013-07-31",
+    "date_updated": "2013-12-24",
+    "description": "RCE Exploit PoC for Spring based RESTFul APIs using XStream as Unmarshaler",
+    "forks_count": 5,
+    "html_url": "https://github.com/pwntester/XStreamServer",
+    "keywords": [
+        "rce exploitation",
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "XStreamServer",
+    "repo_owner": "pwntester",
+    "repotime": "2013-12-24, 15:10:20",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 2,
+    "date_started": "2013-12-23",
+    "date_updated": "2013-12-23",
+    "description": "POC for XStream RCE",
+    "forks_count": 5,
+    "html_url": "https://github.com/pwntester/XStreamPOC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "XStreamPOC",
+    "repo_owner": "pwntester",
+    "repotime": "2013-12-23, 15:18:53",
+    "stargazers_count": 12,
+    "watchers_count": 12
+}
+{
+    "commits_count": 11,
+    "date_started": "2013-02-06",
+    "date_updated": "2013-12-20",
+    "description": "A collection of utilities for Android applications.",
+    "forks_count": 15,
+    "html_url": "https://github.com/FSecureLABS/mwr-android",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Java",
+    "repo_name": "mwr-android",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2013-12-20, 11:13:19",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 8,
+    "date_started": "2013-02-06",
+    "date_updated": "2013-12-20",
+    "description": "A collection of utilities for interacting with SSL and X509 Certificates on Android.",
+    "forks_count": 8,
+    "html_url": "https://github.com/FSecureLABS/mwr-tls",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Java",
+    "repo_name": "mwr-tls",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2013-12-20, 11:12:34",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 2,
+    "date_started": "2013-12-19",
+    "date_updated": "2013-12-19",
+    "description": "A playground for experimenting with chrome's profiling tools",
+    "forks_count": 0,
+    "html_url": "https://github.com/wshaver/memory_leaky",
+    "keywords": [
+        "Chrome memory leak"
+    ],
+    "language": null,
+    "repo_name": "memory_leaky",
+    "repo_owner": "wshaver",
+    "repotime": "2013-12-19, 10:11:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2013-07-31",
+    "date_updated": "2013-12-17",
+    "description": "Exploit PoC for Spring RCE issue (CVE-2011-2894)",
+    "forks_count": 22,
+    "html_url": "https://github.com/pwntester/SpringBreaker",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "SpringBreaker",
+    "repo_owner": "pwntester",
+    "repotime": "2013-12-17, 12:21:14",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 1,
+    "date_started": "2013-12-07",
+    "date_updated": "2013-12-06",
+    "description": "&amp;&#35;35; NDPROXY Local SYSTEM privilege escalation &amp;&#35;35; http://www.offensive-security.com &amp;&#35;35; Tested on Windows XP SP3 &amp;&#35;35; http://www.offensive-security.com/vulndev/ndproxy-local-system-exploit-cve-2013-5065/     &amp;&#35;35; Original crash ... null pointer dereference &amp;&#35;35; Access violation - code c0000005 (!!! second chance !!!) &amp;&#35;35; 00000038 ??              ???   from ctypes import * from ctypes.wintypes import * import os, sys   kernel32 = windll.kernel32 ntdll = windll.ntdll   GENERIC_READ     = 0x80000000 GENERIC_WRITE    = 0x40000000 FILE_SHARE_READ  = 0x00000001 FILE_SHARE_WRITE = 0x00000002 NULL = 0x0 OPEN_EXISTING = 0x3 PROCESS_VM_WRITE            = 0x0020 PROCESS_VM_READ             = 0x0010 MEM_COMMIT                  = 0x00001000 MEM_RESERVE                 = 0x00002000 MEM_FREE                    = 0x00010000 PAGE_EXECUTE_READWRITE      = 0x00000040 PROCESS_ALL_ACCESS          = 2097151 FORMAT_MESSAGE_FROM_SYSTEM  = 0x00001000 baseadd = c_int(0x00000001) MEMRES = (0x1000 | 0x...",
+    "forks_count": 1,
+    "html_url": "https://github.com/Friarfukd/RobbinHood",
+    "keywords": [
+        "Windows 0day vulnerability",
+        "Windows 0day exploitation",
+        "Microsoft 0day vulnerability",
+        "Microsoft 0day exploitation",
+        "Microsoft 0day",
+        "Microsoft 0day exploit",
+        "Windows 0day exploit",
+        "0day vulnerability",
+        "Windows 0day",
+        "0day exploitation"
+    ],
+    "language": null,
+    "repo_name": "RobbinHood",
+    "repo_owner": "Friarfukd",
+    "repotime": "2013-12-06, 21:37:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

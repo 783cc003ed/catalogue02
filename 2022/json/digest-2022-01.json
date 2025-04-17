@@ -1093,3 +1093,1098 @@
     "stargazers_count": 9,
     "watchers_count": 9
 }
+{
+    "commits_count": 8,
+    "date_started": "2022-01-31",
+    "date_updated": "2022-01-31",
+    "description": "Syllabus – COMP 596 Web Application Development Class Meeting Time &amp;amp; Location: Wednesday 4-6:40 Website: https://github.com/ http://blackboard.bridgew.edu/ Instructor: Dr. Jung (sjung@bridgew.edu) DMF339 Office Hours: 10-11 Tuesdays and Thursdays, 2-3:30 Wednesdays, or by appointment ___________________________________________________________________________________________ BSU Catalog Course Description: (http://catalog.bridgew.edu ) COMP 596 - Topics in Computer Science Prerequisite: Admission to the MS program in Computer Science or consent of instructor 3 credits, this course is elective in the category 3 Software Development https://www.bridgew.edu/graduate/computer-science-ms In this course, topics are chosen from program verification, formal semantics, formal language theory, concurrent programming, complexity or algorithms, programming language theory, graphics and other computer science topics. Repeatable for different topics. Offered as topics arise. This course covers we...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Electronick79/NicksonDossantos.github.io",
+    "keywords": [
+        "zero-day dos"
+    ],
+    "language": "HTML",
+    "repo_name": "NicksonDossantos.github.io",
+    "repo_owner": "Electronick79",
+    "repotime": "2022-01-31, 23:06:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-31",
+    "date_updated": "2022-01-31",
+    "description": "PoC for CVE-2021-45897",
+    "forks_count": 7,
+    "html_url": "https://github.com/manuelz120/CVE-2021-45897",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-45897",
+    "repo_owner": "manuelz120",
+    "repotime": "2022-01-31, 21:08:16",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 13,
+    "date_started": "2022-01-25",
+    "date_updated": "2022-01-30",
+    "description": "Roblox 0day exploit also known as xss and pretty much a one click beaming method for roblox",
+    "forks_count": 11,
+    "html_url": "https://github.com/lnfernal/roblox-rce",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "roblox-rce",
+    "repo_owner": "lnfernal",
+    "repotime": "2022-01-30, 13:23:25",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-26",
+    "date_updated": "2022-01-30",
+    "description": "A flaw was found in a change made to path normalization in Apache HTTP Server 2.4.49. An attacker could use a path traversal attack to map URLs to files outside the directories configured by Alias-like directives. If files outside of these directories are not protected by the usual default configuration &amp;quot;require all denied&amp;quot;, these requests can succeed. If CGI scripts are also enabled for these aliased pathes, this could allow for remote code execution. This issue only affects Apache 2.4.49 and not earlier versions. Credits to: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41773 ",
+    "forks_count": 0,
+    "html_url": "https://github.com/m96dg/CVE-2021-41773-exercise",
+    "keywords": [
+        "directory traversal attack",
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-41773-exercise",
+    "repo_owner": "m96dg",
+    "repotime": "2022-01-30, 20:02:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-01-30",
+    "date_updated": "2022-01-31",
+    "description": "-- -- File generated with SQLiteStudio v3.2.1 on Sun Feb 7 14:58:28 2021 -- -- Text encoding used: System -- PRAGMA foreign_keys = off; BEGIN TRANSACTION;  -- Table: Commands CREATE TABLE Commands (Command_No INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, Name TEXT REFERENCES Programs (Name) NOT NULL, Description TEXT NOT NULL, Command TEXT, File BLOB); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (1, 'Kerbrute', 'brute single user password', 'kerbrute bruteuers [flags]', NULL); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (2, 'Kerbrute', 'brute username:password combos from file or stdin', 'kerbrute brutforce [flags]', NULL); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (3, 'Kerbrute', 'test a single password agains a list of users', 'kerbrute passwordspray [flags]', NULL); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (4, 'Kerbrute', 'Enumerate valid domain usernames vi...",
+    "forks_count": 15,
+    "html_url": "https://github.com/Don-No7/Hack-SQL",
+    "keywords": [
+        "path traversal vulnerability",
+        "Windows escalation of privileges analysis",
+        "path traversal attack",
+        "Win escalation of privileges analysis",
+        "Win escalation of privileges exploitation",
+        "Windows remote code execution vulnerability",
+        "Win remote code execution exploit",
+        "Windows remote code execution exploit",
+        "remote code execution analysis",
+        "Windows remote code execution analysis",
+        "Win escalation of privileges",
+        "Windows remote code execution exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploitation",
+        "Win escalation of privileges vulnerability",
+        "directory traversal attack",
+        "Win remote code execution analysis",
+        "Win remote code execution",
+        "directory traversal vulnerability",
+        "Windows escalation of privileges exploit",
+        "session vulnerability",
+        "Win remote code execution exploitation",
+        "Windows escalation of privileges",
+        "Win remote code execution vulnerability",
+        "Windows remote code execution",
+        "escalation of privileges analysis",
+        "Windows escalation of privileges exploitation",
+        "Windows escalation of privileges vulnerability",
+        "Win escalation of privileges exploit",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Hack-SQL",
+    "repo_owner": "Don-No7",
+    "repotime": "2022-01-31, 00:12:54",
+    "stargazers_count": 85,
+    "watchers_count": 85
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-30",
+    "date_updated": "2022-01-30",
+    "description": "There are three new vulnerability added in 2021, which are Insecure Design, Software and Data Integrity Failures and Server Side Request Forgery [SSRF].",
+    "forks_count": 0,
+    "html_url": "https://github.com/hasibb/OWASP-Top10-",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "OWASP-Top10-",
+    "repo_owner": "hasibb",
+    "repotime": "2022-01-30, 08:50:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-01-29",
+    "date_updated": "2022-01-29",
+    "description": "{     // Use IntelliSense to learn about possible attributes.     // Hover to view descriptions of existing attributes.     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387     &amp;quot;version&amp;quot;: &amp;quot;0.2.0&amp;quot;,     &amp;quot;configurations&amp;quot;: [                  {             &amp;quot;name&amp;quot;: &amp;quot;.NET Core Attach&amp;quot;,             &amp;quot;type&amp;quot;: &amp;quot;coreclr&amp;quot;,             &amp;quot;request&amp;quot;: &amp;quot;attach&amp;quot;         },         {             &amp;quot;name&amp;quot;: &amp;quot;.NET Core Launch (console)&amp;quot;,             &amp;quot;type&amp;quot;: &amp;quot;coreclr&amp;quot;,             &amp;quot;request&amp;quot;: &amp;quot;launch&amp;quot;,             &amp;quot;preLaunchTask&amp;quot;: &amp;quot;build&amp;quot;,             &amp;quot;program&amp;quot;: &amp;quot;${workspaceFolder}/bin/Debug/&amp;lt;target-framework&amp;gt;/&amp;lt;project-name.dll&amp;gt;&amp;quot;,             &amp;quot;args&amp;quot;: [],             &amp;quot;cwd&amp;quot;: &amp;quot;${workspaceFolder}&amp;quot;,ST2GJYE7M7DKT4EHZX9NW9H11GTZD5R3EZES1RJ8             &amp;quot;stopAt...",
+    "forks_count": 4,
+    "html_url": "https://github.com/saadbitcoin/-a-href-https-globadino.com-Trusted-Secure-Cloud-Mining-a-",
+    "keywords": [
+        "Windows use after free",
+        "Win use after free",
+        "Microsoft use after free"
+    ],
+    "language": null,
+    "repo_name": "-a-href-https-globadino.com-Trusted-Secure-Cloud-Mining-a-",
+    "repo_owner": "saadbitcoin",
+    "repotime": "2022-01-29, 15:35:49",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-01-28",
+    "date_updated": "2022-01-29",
+    "description": "Server side request forgery via open redirect vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/glowbase/ssrf_redirect",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "ssrf_redirect",
+    "repo_owner": "glowbase",
+    "repotime": "2022-01-29, 10:51:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-01-28",
+    "date_updated": "2022-01-28",
+    "description": "UAC-ByPass utils",
+    "forks_count": 1,
+    "html_url": "https://github.com/itlabbet/uac-bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "uac-bypass",
+    "repo_owner": "itlabbet",
+    "repotime": "2022-01-28, 20:18:56",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 9,
+    "date_started": "2022-01-26",
+    "date_updated": "2022-01-28",
+    "description": "POC for CVE-2021-4034",
+    "forks_count": 0,
+    "html_url": "https://github.com/callrbx/pkexec-lpe-poc",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "pkexec-lpe-poc",
+    "repo_owner": "callrbx",
+    "repotime": "2022-01-28, 16:58:47",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-01-28",
+    "date_updated": "2022-01-28",
+    "description": "pkexec (Polkit) exploit of Privilege Escalation vulnerability CVE-2021-4034",
+    "forks_count": 2,
+    "html_url": "https://github.com/Kirill89/CVE-2021-4034",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2021-4034",
+    "repo_owner": "Kirill89",
+    "repotime": "2022-01-28, 17:17:32",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 8,
+    "date_started": "2022-01-27",
+    "date_updated": "2022-01-28",
+    "description": "vulnerable setup to display an attack chain of log4j CVE-2021-44228 with privilege escalation to root using the polkit exploit CVE-2021-4034",
+    "forks_count": 2,
+    "html_url": "https://github.com/0xalwayslucky/log4j-polkit-poc",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges poc",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": "Dockerfile",
+    "repo_name": "log4j-polkit-poc",
+    "repo_owner": "0xalwayslucky",
+    "repotime": "2022-01-28, 16:08:53",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-01-28",
+    "date_updated": "2022-01-28",
+    "description": "Hello Community,  Description of the issue: I am stumped, but all my attempts to hide my location from Google in Brave have failed. I am behind a VPN (paid NordVPN, and on occasion free ProtonVPN), and as far as I can tell I have disabled all options in the Settings that could lead to this. Since I don’t know exactly what to turn/off, I ended up trying a lot of options:  Shields &amp;gt; Trackers &amp;amp; ads blocking &amp;gt; Aggressive. Security and Privacy &amp;gt; Clear browsing data &amp;gt; On exit &amp;gt; Cookies and other site data, Cached images and files, Autofill form data, Hosted app data. Security and Privacy &amp;gt; Cookies and other site data &amp;gt; Block third-party cookies, Clear cookies and site data when you close all windows, Send a “Do Not Track” request with your browsing traffic, Always clear cookies when windows are closed (I added google.com). Security and Privacy &amp;gt; Security &amp;gt; Use secure DNS &amp;gt; Cloudflare (1.1.1.1). Regardless, every time I start Brave (on Linux desktop or laptop...",
+    "forks_count": 0,
+    "html_url": "https://github.com/RaniGaytri/Stop-Google-location",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "Stop-Google-location",
+    "repo_owner": "RaniGaytri",
+    "repotime": "2022-01-28, 06:16:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 67,
+    "date_started": "2022-01-10",
+    "date_updated": "2022-01-28",
+    "description": "This is my Data Science Project in Sem 1 Session 2021/2022. It is a pneumonia prediction web app.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ooihuien/Pneu-will-know",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "Pneu-will-know",
+    "repo_owner": "ooihuien",
+    "repotime": "2022-01-28, 09:28:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2017-12-02",
+    "date_updated": "2022-01-27",
+    "description": "import marshal  exec(marshal.loads('''c\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x00@\\x00\\x00\\x00sH\\x0f\\x00\\x00d\\x00\\x00d\\x01\\x00l\\x00\\x00Z\\x00\\x00d\\x00\\x00d\\x01\\x00l\\x01\\x00Z\\x01\\x00d\\x02\\x00\\x84\\x00\\x00Z\\x02\\x00e\\x00\\x00j\\x03\\x00d\\x03\\x00\\x83\\x01\\x00\\x01d\\x04\\x00GHd\\x05\\x00GHd\\x06\\x00GHd\\x07\\x00GHd\\x08\\x00GHd\\t\\x00GHd\\n\\x00GHd\\x0b\\x00GHd\\x0c\\x00GHd\\r\\x00GHd\\x0e\\x00GHd\\x0f\\x00GHHd\\x10\\x00GHd\\x11\\x00GHd\\x12\\x00GHd\\x13\\x00GHd\\x14\\x00GHd\\x15\\x00GHd\\x16\\x00GHd\\x17\\x00GHd\\x18\\x00GHd\\x19\\x00GHd\\x1a\\x00GHd\\x1b\\x00GHd\\x1c\\x00GHd\\x1d\\x00GHd\\x1e\\x00GHd\\x1f\\x00GHd \\x00GHd!\\x00GHd&amp;quot;\\x00GHd&amp;&#35;35;\\x00GHe\\x04\\x00d$\\x00\\x83\\x01\\x00Z\\x05\\x00e\\x05\\x00j\\x06\\x00\\x83\\x00\\x00d%\\x00j\\x07\\x00\\x83\\x00\\x00k\\x06\\x00rX\\x01d&amp;amp;\\x00GHe\\x00\\x00j\\x03\\x00d\\'\\x00\\x83\\x01\\x00\\x01e\\x00\\x00j\\x03\\x00d(\\x00\\x83\\x01\\x00\\x01e\\x00\\x00j\\x03\\x00d)\\x00\\x83\\x01\\x00\\x01e\\x00\\x00j\\x03\\x00d*\\x00\\x83\\x01\\x00\\x01e\\x00\\x00j\\x03\\x00d+\\x00\\x83\\x01\\x00\\x01e\\x00\\x00j\\x03\\x00d,\\x00\\x83\\x01\\x00\\x01d-\\x00GHe\\x01\\x00j\\x08\\x00\\x83\\x00\\x...",
+    "forks_count": 0,
+    "html_url": "https://github.com/PsycoRo6otGX1/Lazymux.pt",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": null,
+    "repo_name": "Lazymux.pt",
+    "repo_owner": "PsycoRo6otGX1",
+    "repotime": "2022-01-27, 15:29:21",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 32,
+    "date_started": "2021-10-25",
+    "date_updated": "2022-01-26",
+    "description": "Send and receive bypassing Little Snitch alerting.",
+    "forks_count": 2,
+    "html_url": "https://github.com/RhinoSecurityLabs/little-stitch",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Go",
+    "repo_name": "little-stitch",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2022-01-26, 20:41:24",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-01-27",
+    "date_updated": "2022-01-26",
+    "description": "A simple proof-of-concept for CVE-2021-4034 (pkexec local privilege escalation)",
+    "forks_count": 0,
+    "html_url": "https://github.com/cd80-ctf/CVE-2021-4034",
+    "keywords": [
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2021-4034",
+    "repo_owner": "cd80-ctf",
+    "repotime": "2022-01-26, 20:23:02",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-01-26",
+    "date_updated": "2022-01-26",
+    "description": "Local File Inclusion to Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/lnfernal/lfi2rce",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "lfi2rce",
+    "repo_owner": "lnfernal",
+    "repotime": "2022-01-26, 15:52:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-26",
+    "date_updated": "2022-01-26",
+    "description": "This project illustrates a developer centric model Loky for Static Code Analysis to improve Security of Web Applications empowered by early vulnerability detection and taint analysis. Its core is a configurable rule engine comprising of popular attacks - SQL injections, Cross Site Scripting, Server Side Request Forgery, Linting errors, Hard-coded Credentials",
+    "forks_count": 0,
+    "html_url": "https://github.com/prachipundir97/Loky-Static-Code-Analyzer",
+    "keywords": [
+        "server side request forgery",
+        "cross-side-scripting"
+    ],
+    "language": null,
+    "repo_name": "Loky-Static-Code-Analyzer",
+    "repo_owner": "prachipundir97",
+    "repotime": "2022-01-26, 14:52:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-01-26",
+    "date_updated": "2022-01-26",
+    "description": "CVE-2021-4034: Local Privilege Escalation in polkit's pkexec proof of concept",
+    "forks_count": 4,
+    "html_url": "https://github.com/mebeim/CVE-2021-4034",
+    "keywords": [
+        "escalation of privileges proof of concept",
+        "lpe proof of concept"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2021-4034",
+    "repo_owner": "mebeim",
+    "repotime": "2022-01-26, 17:22:39",
+    "stargazers_count": 20,
+    "watchers_count": 20
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-01-26",
+    "date_updated": "2022-01-26",
+    "description": "Proof of Concept for CVE-2021-4034 Polkit Privilege Escalation",
+    "forks_count": 1,
+    "html_url": "https://github.com/Immersive-Labs-Sec/CVE-2021-4034",
+    "keywords": [
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2021-4034",
+    "repo_owner": "Immersive-Labs-Sec",
+    "repotime": "2022-01-26, 09:37:15",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-25",
+    "date_updated": "2022-01-25",
+    "description": "Oracle WebLogic Server 12.1.3.0.0 / 12.2.1.3.0 / 12.2.1.4.0 / 14.1.1.0.0 Local File Inclusion",
+    "forks_count": 9,
+    "html_url": "https://github.com/Mr-xn/CVE-2022-21371",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-21371",
+    "repo_owner": "Mr-xn",
+    "repotime": "2022-01-25, 22:52:21",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-01-20",
+    "date_updated": "2022-01-25",
+    "description": "A Django shop project with cart handling for both authenticated and unauthenticated users.",
+    "forks_count": 0,
+    "html_url": "https://github.com/evakdev/django-shop",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "django-shop",
+    "repo_owner": "evakdev",
+    "repotime": "2022-01-25, 13:28:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-01-23",
+    "date_updated": "2022-01-25",
+    "description": "Strapi CMS 3.0.0-beta.17.4 - Unauthenticated Remote Code Execution (CVE-2019-18818, CVE-2019-19609)",
+    "forks_count": 0,
+    "html_url": "https://github.com/glowbase/CVE-2019-19609",
+    "keywords": [
+        "unauthenticated rce",
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-19609",
+    "repo_owner": "glowbase",
+    "repotime": "2022-01-25, 11:41:37",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 3,
+    "date_started": "2022-01-24",
+    "date_updated": "2022-01-25",
+    "description": "The stress testing of your PG bypass [old school project]",
+    "forks_count": 0,
+    "html_url": "https://github.com/gmh5225/QuickPGTrigger",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "QuickPGTrigger",
+    "repo_owner": "gmh5225",
+    "repotime": "2022-01-25, 00:54:20",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 6,
+    "date_started": "2022-01-17",
+    "date_updated": "2022-01-24",
+    "description": "CVE-2021-43297 POC，Apache Dubbo&amp;lt;= 2.7.13时可以实现RCE",
+    "forks_count": 9,
+    "html_url": "https://github.com/bitterzzZZ/CVE-2021-43297-POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2021-43297-POC",
+    "repo_owner": "bitterzzZZ",
+    "repotime": "2022-01-24, 19:24:56",
+    "stargazers_count": 38,
+    "watchers_count": 38
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-23",
+    "date_updated": "2022-01-23",
+    "description": "My exploit for ClipBucket v4.0 unauthenticated file upload to RCE",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nehal-Zaman/ClipBucket-v4.0-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "ClipBucket-v4.0-RCE",
+    "repo_owner": "Nehal-Zaman",
+    "repotime": "2022-01-23, 13:52:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-01-17",
+    "date_updated": "2022-01-22",
+    "description": "Instacart’s data science team plays a big part in providing this delightful shopping experience. Currently they use transactional data to develop models that predict which products a user will buy again, try for the first time, or add to their cart next during a session.",
+    "forks_count": 0,
+    "html_url": "https://github.com/will-fong/instacart_online_grocery_shopping_analysis",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "instacart_online_grocery_shopping_analysis",
+    "repo_owner": "will-fong",
+    "repotime": "2022-01-22, 20:57:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 39,
+    "date_started": "2022-01-21",
+    "date_updated": "2022-01-21",
+    "description": "Improper Input Validation vulnerability in Hitachi ABB Power Grids Relion 670 Series, Relion 670/650 Series, Relion 670/650/SAM600-IO, Relion 650, REB500, RTU500 Series, FOX615 (TEGO1), MSM, GMS600, PWC600 allows an attacker with access to the IEC 61850 network with knowledge of how to reproduce the attack, as well as the IP addresses of the different IEC 61850 access points (of IEDs/products), to force the device to reboot, which renders the device inoperable for approximately 60 seconds. This vulnerability affects only products with IEC 61850 interfaces. This issue affects: Hitachi ABB Power Grids Relion 670 Series 1.1; 1.2.3 versions prior to 1.2.3.20; 2.0 versions prior to 2.0.0.13; 2.1; 2.2.2 versions prior to 2.2.2.3; 2.2.3 versions prior to 2.2.3.2. Hitachi ABB Power Grids Relion 670/650 Series 2.2.0 versions prior to 2.2.0.13. Hitachi ABB Power Grids Relion 670/650/SAM600-IO 2.2.1 versions prior to 2.2.1.6. Hitachi ABB Power Grids Relion 650 1.1; 1.2; 1.3 versions prior to 1.3....",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mario-Kart-Felix/cve-lib-power-grid",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "Rust",
+    "repo_name": "cve-lib-power-grid",
+    "repo_owner": "Mario-Kart-Felix",
+    "repotime": "2022-01-21, 03:06:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-20",
+    "date_updated": "2022-01-20",
+    "description": "// SPDX-FileCopyrightText: Portions Copyright 2021 Siemens   // Modified on 15-Jul-2021 by Siemens and/or its affiliates to fix CVE-2018-1311: Apache Xerces-C use-after-free vulnerability scanning external DTD. Copyright 2021 Siemens.",
+    "forks_count": 0,
+    "html_url": "https://github.com/johnjamesmccann/xerces-3.2.3-DTD-hotfix",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "xerces-3.2.3-DTD-hotfix",
+    "repo_owner": "johnjamesmccann",
+    "repotime": "2022-01-20, 13:42:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 138,
+    "date_started": "2015-05-14",
+    "date_updated": "2022-01-20",
+    "description": "<no description>",
+    "forks_count": 81,
+    "html_url": "https://github.com/naver/lucy-xss-servlet-filter",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "lucy-xss-servlet-filter",
+    "repo_owner": "naver",
+    "repotime": "2022-01-20, 21:29:00",
+    "stargazers_count": 242,
+    "watchers_count": 242
+}
+{
+    "commits_count": 19,
+    "date_started": "2022-01-17",
+    "date_updated": "2022-01-20",
+    "description": "HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907",
+    "forks_count": 98,
+    "html_url": "https://github.com/ZZ-SOCMAP/CVE-2022-21907",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-21907",
+    "repo_owner": "ZZ-SOCMAP",
+    "repotime": "2022-01-20, 10:07:54",
+    "stargazers_count": 362,
+    "watchers_count": 362
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-12-10",
+    "date_updated": "2022-01-19",
+    "description": "Apache Log4j 2   a remote code execution vulnerability via the ldap JNDI parser.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dbgee/CVE-2021-44228",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-44228",
+    "repo_owner": "dbgee",
+    "repotime": "2022-01-19, 17:58:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-01-19",
+    "date_updated": "2022-01-19",
+    "description": "This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes. You will need to submit a Jupyter notebook for the same.      Problem Statement A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;quot;dock&amp;quot; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.   A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an e...",
+    "forks_count": 1,
+    "html_url": "https://github.com/AnkurNapa/linear-regression-model-for-the-prediction-of-demand-for-shared-bikes",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "linear-regression-model-for-the-prediction-of-demand-for-shared-bikes",
+    "repo_owner": "AnkurNapa",
+    "repotime": "2022-01-19, 11:21:54",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-05-02",
+    "date_updated": "2022-01-18",
+    "description": "Wiki.js Customization Injection Code",
+    "forks_count": 20,
+    "html_url": "https://github.com/madodig/wikijs-customization",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "wikijs-customization",
+    "repo_owner": "madodig",
+    "repotime": "2022-01-18, 19:49:54",
+    "stargazers_count": 103,
+    "watchers_count": 103
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-16",
+    "date_updated": "2022-01-18",
+    "description": "Proof of concept for unauthenticated sensitive data disclosure affecting the wp-import-export WordPress plugin (CVE-2022-0236)",
+    "forks_count": 2,
+    "html_url": "https://github.com/qurbat/CVE-2022-0236",
+    "keywords": [
+        "unauthenticated disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2022-0236",
+    "repo_owner": "qurbat",
+    "repotime": "2022-01-18, 22:44:49",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 30,
+    "date_started": "2019-05-21",
+    "date_updated": "2022-01-18",
+    "description": "small python3 tool to check common vulnerabilities in SMTP servers",
+    "forks_count": 37,
+    "html_url": "https://github.com/xFreed0m/SMTPTester",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "SMTPTester",
+    "repo_owner": "xFreed0m",
+    "repotime": "2022-01-18, 18:08:48",
+    "stargazers_count": 160,
+    "watchers_count": 160
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-12-10",
+    "date_updated": "2022-01-18",
+    "description": "Remote Code Injection In Log4j",
+    "forks_count": 119,
+    "html_url": "https://github.com/jas502n/Log4j2-CVE-2021-44228",
+    "keywords": [
+        "code injection"
+    ],
+    "language": null,
+    "repo_name": "Log4j2-CVE-2021-44228",
+    "repo_owner": "jas502n",
+    "repotime": "2022-01-18, 20:01:52",
+    "stargazers_count": 464,
+    "watchers_count": 464
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-01-10",
+    "date_updated": "2022-01-16",
+    "description": "Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.",
+    "forks_count": 0,
+    "html_url": "https://github.com/CharlesMensah5/Final-Engagement",
+    "keywords": [
+        "remote code execution analysis"
+    ],
+    "language": null,
+    "repo_name": "Final-Engagement",
+    "repo_owner": "CharlesMensah5",
+    "repotime": "2022-01-16, 20:48:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-11-11",
+    "date_updated": "2022-01-16",
+    "description": "GitLab CE/EE Preauth RCE using ExifTool",
+    "forks_count": 39,
+    "html_url": "https://github.com/inspiringz/CVE-2021-22205",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-22205",
+    "repo_owner": "inspiringz",
+    "repotime": "2022-01-16, 23:54:07",
+    "stargazers_count": 224,
+    "watchers_count": 224
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-07-09",
+    "date_updated": "2022-01-16",
+    "description": "&amp;&#35;35; Intellifotainment assist” – Smart HMI for passenger cars  To run the program, download all files and save them in the same directory. After that, simply run 'Master.py' in the terminal.  At the moment, the program will only run in linux based systems.    &amp;&#35;35; The Idea Infotainment systems have come a long way since the first set of dashboards installed in cars. Through our idea, we aim to create a Human Machine interaction model that takes infotainment systems to a new level. The driver tends to get distracted from the road while performing secondary tasks such as changing the music track, locking/unlocking the door while driving etc. Our system shall enable the driver to focus only on driving. Controlling the secondary tasks will be much easier. Our product primarily comprises of 5 modules:  1)  Attention and drowsiness detection: - A camera shall be present on the dashboard, in front of the driver, behind the steering wheel. Through digital image processing techniques , using ...",
+    "forks_count": 6,
+    "html_url": "https://github.com/Nishant-Wadhwani/Intelligent-Infotainment-System-for-Automobiles",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Intelligent-Infotainment-System-for-Automobiles",
+    "repo_owner": "Nishant-Wadhwani",
+    "repotime": "2022-01-16, 13:16:56",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-14",
+    "date_updated": "2022-01-15",
+    "description": "CVE-2021-46079 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to Html Injection.",
+    "forks_count": 0,
+    "html_url": "https://github.com/plsanu/CVE-2021-46079",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-46079",
+    "repo_owner": "plsanu",
+    "repotime": "2022-01-15, 02:57:13",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-12-28",
+    "date_updated": "2022-01-15",
+    "description": "CVE-2021-46079 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to Html Injection.",
+    "forks_count": 0,
+    "html_url": "https://github.com/plsanu/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Html-Injection",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Html-Injection",
+    "repo_owner": "plsanu",
+    "repotime": "2022-01-15, 02:49:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-14",
+    "date_updated": "2022-01-15",
+    "description": "CVE-2021-46078 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to a Stored Cross-Site Scripting vulnerability.",
+    "forks_count": 0,
+    "html_url": "https://github.com/plsanu/CVE-2021-46078",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "CVE-2021-46078",
+    "repo_owner": "plsanu",
+    "repotime": "2022-01-15, 02:20:28",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2021-12-28",
+    "date_updated": "2022-01-15",
+    "description": "CVE-2021-46078 - An Unrestricted File Upload vulnerability exists in Sourcecodester Vehicle Service Management System 1.0. A remote attacker can upload malicious files leading to a Stored Cross-Site Scripting vulnerability.",
+    "forks_count": 0,
+    "html_url": "https://github.com/plsanu/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Stored-Cross-Site-Scripting",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Stored-Cross-Site-Scripting",
+    "repo_owner": "plsanu",
+    "repotime": "2022-01-15, 02:18:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2021-09-12",
+    "date_updated": "2022-01-14",
+    "description": "Config files for my GitHub profile.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0hv1/windows-rce-",
+    "keywords": [
+        "Windows rce",
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "windows-rce-",
+    "repo_owner": "0hv1",
+    "repotime": "2022-01-14, 16:29:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-11-06",
+    "date_updated": "2022-01-14",
+    "description": "PoC for iOS, macOS, iPadOS (DoS)",
+    "forks_count": 0,
+    "html_url": "https://github.com/darling-x0r/0day_dos_apple",
+    "keywords": [
+        "0day dos",
+        "0day poc"
+    ],
+    "language": "C",
+    "repo_name": "0day_dos_apple",
+    "repo_owner": "darling-x0r",
+    "repotime": "2022-01-14, 16:39:36",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-12",
+    "date_updated": "2022-01-13",
+    "description": "Unauthenticated Sqlinjection that leads to dump data base but this one impersonated Admin and drops a interactive shell",
+    "forks_count": 10,
+    "html_url": "https://github.com/shyam0904a/Pandora_v7.0NG.742_exploit_unauthenticated",
+    "keywords": [
+        "unauthenticated rce",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Pandora_v7.0NG.742_exploit_unauthenticated",
+    "repo_owner": "shyam0904a",
+    "repotime": "2022-01-13, 13:24:05",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-01-12",
+    "date_updated": "2022-01-12",
+    "description": "CVE Vulnerability  Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/jiangminghua/Vulnerability-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Vulnerability-Remote-Code-Execution",
+    "repo_owner": "jiangminghua",
+    "repotime": "2022-01-12, 14:45:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2022-01-12",
+    "date_updated": "2022-01-12",
+    "description": "&amp;&#35;35;objective It is a responsive web application for ordering food, users can select different restaurants and food items and order food.  &amp;&#35;35;summary &amp;&#35;35;loginRoute only authenticated user can login into website. when unauthenticated user try to access home route, restaurant details route and cart route. user will be redirected to login page. &amp;&#35;35;navbar user can navigate between home page, restaurant page, favorite page and cart page. &amp;&#35;35;homeRoute user can see list of restaurants, user can select the restaurants by sorting with rating and user can search for a particular restaurant. &amp;&#35;35;restaurantRoute when a user clicks on a particular restaurant user will be navigated to this page it shows the various food items which are present in the restaurant and user can add them into the cart and user can save food item into favorite section. &amp;&#35;35;bookmarkRoute user can view different food items which are saved and also add them to cart. &amp;&#35;35;cartRoute user can see food items, quantity...",
+    "forks_count": 0,
+    "html_url": "https://github.com/chaitu1002/zomato-clone",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "zomato-clone",
+    "repo_owner": "chaitu1002",
+    "repotime": "2022-01-12, 06:00:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2022-01-11",
+    "date_updated": "2022-01-10",
+    "description": "SonicWall SMA-100 Unauth RCE Exploit (CVE-2021-20038)",
+    "forks_count": 27,
+    "html_url": "https://github.com/jbaines-r7/badblood",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "badblood",
+    "repo_owner": "jbaines-r7",
+    "repotime": "2022-01-10, 18:34:57",
+    "stargazers_count": 95,
+    "watchers_count": 95
+}
+{
+    "commits_count": 10,
+    "date_started": "2022-01-05",
+    "date_updated": "2022-01-10",
+    "description": "Exploiting CVE-2021-44228 in VMWare Horizon for remote code execution and more.",
+    "forks_count": 14,
+    "html_url": "https://github.com/puzzlepeaches/Log4jHorizon",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Log4jHorizon",
+    "repo_owner": "puzzlepeaches",
+    "repotime": "2022-01-10, 13:26:59",
+    "stargazers_count": 120,
+    "watchers_count": 120
+}
+{
+    "commits_count": 60,
+    "date_started": "2021-12-13",
+    "date_updated": "2022-01-10",
+    "description": "Log4j Zero-Day Exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/rajasoun/log4j-zero-day-exploit",
+    "keywords": [
+        "zero-day poc",
+        "zero-day exploit",
+        "zero-day exploitation"
+    ],
+    "language": "Java",
+    "repo_name": "log4j-zero-day-exploit",
+    "repo_owner": "rajasoun",
+    "repotime": "2022-01-10, 19:57:34",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-01-10",
+    "date_updated": "2022-01-10",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/aayuv17/Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Session-Hijacking",
+    "repo_owner": "aayuv17",
+    "repotime": "2022-01-10, 08:46:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2022-01-08",
+    "date_updated": "2022-01-08",
+    "description": "Nuclei Templates to reproduce Cracking the lens's Research",
+    "forks_count": 21,
+    "html_url": "https://github.com/0xAwali/Blind-SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "Blind-SSRF",
+    "repo_owner": "0xAwali",
+    "repotime": "2022-01-08, 03:31:18",
+    "stargazers_count": 125,
+    "watchers_count": 125
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-01-03",
+    "date_updated": "2022-01-07",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kawa-1/Server-Side_Request_Forgery_Presentation",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "Server-Side_Request_Forgery_Presentation",
+    "repo_owner": "Kawa-1",
+    "repotime": "2022-01-07, 01:10:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-01-06",
+    "date_updated": "2022-01-06",
+    "description": "TCP/IP Attack lab: This lab covers the following topics: • The TCP protocol • TCP SYN flood attack, and SYN cookies • TCP reset attack • TCP session hijacking attack • Reverse shell",
+    "forks_count": 0,
+    "html_url": "https://github.com/GHa123/TCP-IP-Attack-Lab",
+    "keywords": [
+        "session hijacking attack",
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "TCP-IP-Attack-Lab",
+    "repo_owner": "GHa123",
+    "repotime": "2022-01-06, 14:44:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-12-12",
+    "date_updated": "2022-01-06",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/zpucci/uafoh-on-a-chromebook",
+    "keywords": [
+        "Chrome uaf"
+    ],
+    "language": "HTML",
+    "repo_name": "uafoh-on-a-chromebook",
+    "repo_owner": "zpucci",
+    "repotime": "2022-01-06, 11:24:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1423,
+    "date_started": "2015-05-16",
+    "date_updated": "2022-01-05",
+    "description": "DEPRECATED (We're working on the `disclosure-backend-static` repo instead) A Django app to download, extract and load campaign finance and lobbying activity data from the California Secretary of State's CAL-ACCESS database as well as local Netfile jurisdictions",
+    "forks_count": 20,
+    "html_url": "https://github.com/caciviclab/disclosure-backend",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "Python",
+    "repo_name": "disclosure-backend",
+    "repo_owner": "caciviclab",
+    "repotime": "2022-01-05, 16:05:30",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 63,
+    "date_started": "2022-01-04",
+    "date_updated": "2022-01-04",
+    "description": "This repo is a fork from main repo and will usually have new features bundled faster than main repo (and maybe bundle some bugs, too).  &amp;&#35;35; Unofficial Facebook Chat API &amp;lt;img alt=&amp;quot;version&amp;quot; src=&amp;quot;https://img.shields.io/github/package-json/v/ProCoderMew/fca-unofficial?label=github&amp;amp;style=flat-square&amp;quot;&amp;gt;  Facebook now has an official API for chat bots [here](https://developers.facebook.com/docs/messenger-platform).  This API is the only way to automate chat functionalities on a user account. We do this by emulating the browser. This means doing the exact same GET/POST requests and tricking Facebook into thinking we're accessing the website normally. Because we're doing it this way, this API won't work with an auth token but requires the credentials of a Facebook account.  _Disclaimer_: We are not responsible if your account gets banned for spammy activities such as sending lots of messages to people you don't know, sending messages very quickly, sending spammy l...",
+    "forks_count": 17,
+    "html_url": "https://github.com/Tinkprocodes/fca-unofficial",
+    "keywords": [
+        "empty string password"
+    ],
+    "language": "JavaScript",
+    "repo_name": "fca-unofficial",
+    "repo_owner": "Tinkprocodes",
+    "repotime": "2022-01-04, 21:33:29",
+    "stargazers_count": 36,
+    "watchers_count": 36
+}
+{
+    "commits_count": 1,
+    "date_started": "2022-01-02",
+    "date_updated": "2022-01-02",
+    "description": "&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; This module requires Metasploit: https://metasploit.com/download&amp;&#35;35; Current source: https://github.com/rapid7/metasploit-framework&amp;&#35;35;&amp;&#35;35;class MetasploitModule &amp;lt; Msf::Exploit::Remote  Rank = NormalRanking  prepend Msf::Exploit::Remote::AutoCheck  include Msf::Exploit::FileDropper  include Msf::Exploit::Remote::HttpClient  include Msf::Exploit::Remote::HttpServer  include Msf::Exploit::Remote::HTTP::Wordpress  def initialize(info = {})    super(      update_info(        info,        'Name' =&amp;gt; 'Wordpress Popular Posts Authenticated RCE',        'Description' =&amp;gt; %q{          This exploit requires Metasploit to have a FQDN and the ability to run a payload web server on port 80, 443, or 8080.          The FQDN must also not resolve to a reserved address (192/172/127/10).  The server must also respond to a HEAD request          for the payload, prior to getting a GET request.          This exploit leverages an authenticated improper input validation in Wordpress...",
+    "forks_count": 2,
+    "html_url": "https://github.com/Nate0634034090/nate158g-m-w-n-l-p-d-a-o-e",
+    "keywords": [
+        "unauthenticated user",
+        "rce analysis",
+        "remote code execution analysis",
+        "unauthenticated remote code execution",
+        "unauthenticated attacker",
+        "remote code execution poc",
+        "improper input validation",
+        "unauthenticated rce",
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "nate158g-m-w-n-l-p-d-a-o-e",
+    "repo_owner": "Nate0634034090",
+    "repotime": "2022-01-02, 15:08:01",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}

@@ -478,3 +478,483 @@
     "stargazers_count": 752,
     "watchers_count": 752
 }
+{
+    "commits_count": 1,
+    "date_started": "2019-01-31",
+    "date_updated": "2019-01-31",
+    "description": "PHP web app. Uses SQL and database to simulate an army building game. USERNAME: sam PASSWORD: password. Hard coded for easy testing",
+    "forks_count": 0,
+    "html_url": "https://github.com/KaleviMcKay/starwars-web-app",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "PHP",
+    "repo_name": "starwars-web-app",
+    "repo_owner": "KaleviMcKay",
+    "repotime": "2019-01-31, 14:28:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-01-30",
+    "date_updated": "2019-01-30",
+    "description": "Windows Contact File HTML Injection Mailto: Link RCE 0day / ZDI-CAN-7591",
+    "forks_count": 0,
+    "html_url": "https://github.com/wlsfla/ZDI-CAN-7591",
+    "keywords": [
+        "Windows rce",
+        "Windows 0day"
+    ],
+    "language": null,
+    "repo_name": "ZDI-CAN-7591",
+    "repo_owner": "wlsfla",
+    "repotime": "2019-01-30, 22:28:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-01-30",
+    "date_updated": "2019-01-30",
+    "description": "iOS/macOS: task_swap_mach_voucher() does not respect MIG semantics leading to use-after-free",
+    "forks_count": 1,
+    "html_url": "https://github.com/S0rryMyBad/poc.voucherSwap",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "Objective-C",
+    "repo_name": "poc.voucherSwap",
+    "repo_owner": "S0rryMyBad",
+    "repotime": "2019-01-30, 18:55:12",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-01-26",
+    "date_updated": "2019-01-26",
+    "description": "CERIO RCE CVE-2018-18852, authenticated (vendor defaults) web-based RCE as root user.",
+    "forks_count": 16,
+    "html_url": "https://github.com/hook-s3c/CVE-2018-18852",
+    "keywords": [
+        "0day exploit",
+        "rce exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-18852",
+    "repo_owner": "hook-s3c",
+    "repotime": "2019-01-26, 03:48:47",
+    "stargazers_count": 46,
+    "watchers_count": 46
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-01-23",
+    "date_updated": "2019-01-24",
+    "description": "Privacy Policy  Sander Schulhoff built the Heart Heist app as a Free app. This SERVICE is provided by Sander Schulhoff at no cost and is intended for use as is.  This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.  If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.  The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Heart Heist unless otherwise defined in this Privacy Policy.  Information Collection and Use  For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request...",
+    "forks_count": 0,
+    "html_url": "https://github.com/art-hack/Privacy-Policy",
+    "keywords": [
+        "use after free disclosure"
+    ],
+    "language": null,
+    "repo_name": "Privacy-Policy",
+    "repo_owner": "art-hack",
+    "repotime": "2019-01-24, 03:33:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-01-21",
+    "date_updated": "2019-01-22",
+    "description": "XML External Entity Attack : Codes sample and script related to XXE attacks",
+    "forks_count": 1,
+    "html_url": "https://github.com/sec-artdotnet/XXEAttacks",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "PHP",
+    "repo_name": "XXEAttacks",
+    "repo_owner": "sec-artdotnet",
+    "repotime": "2019-01-22, 00:04:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-10-11",
+    "date_updated": "2019-01-19",
+    "description": "These two methods are very helpful to compact PST file of Microsoft Outlook. But if you’re looking for a professional solution to avoid all these manual steps and achieve best results, you should try the PST Compress tool provided by SysInfoTools Software. It’s a safe and easy-to-use application that requires no prior technical expertise. Via this software, you can safely compact PST file of any size without causing any damage or data loss. It can reduce PST file size by removing all the extra and unused space. The PST Compress tool is available with the demo version for free evaluation. By using the demo version, you can save first 5 emails of every PST file you select after compression. Corrupt PST File But if you have a corrupt PST file, then you can neither compress PST file nor can you split PST it. In such a critical situation, you must repair PST file with the help of scanpst.exe or any third-party PST Repair application.  Microsoft Outlook client has a wide range of smart featu...",
+    "forks_count": 0,
+    "html_url": "https://github.com/deanamb/Professional-Way-to-Compact-PST-File",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": null,
+    "repo_name": "Professional-Way-to-Compact-PST-File",
+    "repo_owner": "deanamb",
+    "repotime": "2019-01-19, 07:07:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 202,
+    "date_started": "2017-04-25",
+    "date_updated": "2019-01-18",
+    "description": "ARTist's deployment application, for code-injection on an Android device.",
+    "forks_count": 12,
+    "html_url": "https://github.com/Project-ARTist/ArtistGui",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "ArtistGui",
+    "repo_owner": "Project-ARTist",
+    "repotime": "2019-01-18, 23:25:40",
+    "stargazers_count": 37,
+    "watchers_count": 37
+}
+{
+    "commits_count": 14,
+    "date_started": "2014-02-04",
+    "date_updated": "2019-01-17",
+    "description": "Injection of managed code into non-managed Windows applications",
+    "forks_count": 9,
+    "html_url": "https://github.com/sunsided/native-dotnet-code-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "native-dotnet-code-injection",
+    "repo_owner": "sunsided",
+    "repotime": "2019-01-17, 20:28:39",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 13,
+    "date_started": "2018-02-23",
+    "date_updated": "2019-01-15",
+    "description": "Windows / Linux Local Privilege Escalation Workshop",
+    "forks_count": 246,
+    "html_url": "https://github.com/sagishahar-zz/lpeworkshop",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "Batchfile",
+    "repo_name": "lpeworkshop",
+    "repo_owner": "sagishahar-zz",
+    "repotime": "2019-01-15, 23:05:43",
+    "stargazers_count": 1007,
+    "watchers_count": 1007
+}
+{
+    "commits_count": 24,
+    "date_started": "2019-08-06",
+    "date_updated": "2019-01-15",
+    "description": "thinkphp v5.x 远程代码执行漏洞-POC集合",
+    "forks_count": 11,
+    "html_url": "https://github.com/oneoy/thinkphp-RCE-POC",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "thinkphp-RCE-POC",
+    "repo_owner": "oneoy",
+    "repotime": "2019-01-15, 15:04:12",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 24,
+    "date_started": "2019-01-08",
+    "date_updated": "2019-01-15",
+    "description": "thinkphp v5.x 远程代码执行漏洞-POC集合",
+    "forks_count": 236,
+    "html_url": "https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "thinkphp-RCE-POC-Collection",
+    "repo_owner": "SkyBlueEternal",
+    "repotime": "2019-01-15, 15:04:12",
+    "stargazers_count": 1134,
+    "watchers_count": 1134
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-01-14",
+    "date_updated": "2019-01-14",
+    "description": "aula sobre memory leak dos observable de angula",
+    "forks_count": 0,
+    "html_url": "https://github.com/maicongobbi/requisicoes-http",
+    "keywords": [
+        "memory leak dos"
+    ],
+    "language": "TypeScript",
+    "repo_name": "requisicoes-http",
+    "repo_owner": "maicongobbi",
+    "repotime": "2019-01-14, 19:40:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-01-14",
+    "date_updated": "2019-01-14",
+    "description": "Proof of Concept - RCE Exploitation : Web Shell on Apache Tomcat - Ensimag January 2018",
+    "forks_count": 3,
+    "html_url": "https://github.com/ygouzerh/CVE-2017-12617",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2017-12617",
+    "repo_owner": "ygouzerh",
+    "repotime": "2019-01-14, 22:56:39",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-01-14",
+    "date_updated": "2019-01-14",
+    "description": "Targets Sign Up feature of a vulnerable service, collects existing user account email addresses, bypasses google Captcha when session cookie is loaded into",
+    "forks_count": 0,
+    "html_url": "https://github.com/drberecz/Harvey---email-harvest-bot",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Harvey---email-harvest-bot",
+    "repo_owner": "drberecz",
+    "repotime": "2019-01-14, 08:20:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2017-12-12",
+    "date_updated": "2019-01-12",
+    "description": "This solution is an ASP.NET MVC Web application that shows a memory leak loading an array in memory every time a new http request is made to the Home controller default index. The solution is meant to showcase the Profiling Sessions for Memory Analysis.",
+    "forks_count": 1,
+    "html_url": "https://github.com/lizetpena/MVCSampleMemoryLeak",
+    "keywords": [
+        "memory leak analysis"
+    ],
+    "language": "JavaScript",
+    "repo_name": "MVCSampleMemoryLeak",
+    "repo_owner": "lizetpena",
+    "repotime": "2019-01-12, 23:04:05",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-01-12",
+    "date_updated": "2019-01-12",
+    "description": "An Exploit finder using the website: 0day.today",
+    "forks_count": 1,
+    "html_url": "https://github.com/AnisJokerDz/ExploitCov",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": "PHP",
+    "repo_name": "ExploitCov",
+    "repo_owner": "AnisJokerDz",
+    "repotime": "2019-01-12, 19:09:18",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-01-11",
+    "date_updated": "2019-01-11",
+    "description": "webpwn3r ========  WebPwn3r - Web Applications Security Scanner.  By Ebrahim Hegazy - @Zigoo0  Thanks: @lnxg33k, @dia2diab @Aelhemily, @okamalo   Please send all your feedback and suggestions to: zigoo.blog['at']@gmail.com  How to use:  1- python scan.py  2- The tool will ask you if you want to scan URL or List of urls?      1- Enter number 1 to scan a URL          2- Enter number 2 to scan list of URL's      3- URL should be a full link with a parameters  .e.g http://localhost/rand/news.php?com=val&amp;amp;id=11&amp;amp;page=24&amp;amp;text=zigoo  same thing with the list of links.  Demo Video: https://www.youtube.com/watch?v=B6kDUk-ehOE  In it’s Current Public [Demo] version, WebPwn3r got below Features:  1- Scan a URL or List of URL’s  2- Detect and Exploit Remote Code  Injection Vulnerabilities.  3- ~ ~ ~ Remote Command  Execution Vulnerabilities.  4- ~ ~ ~ SQL Injection Vulnerabilities.  5- ~ ~ ~ Typical XSS Vulnerabilities.  6- Detect WebKnight WAF.  7- Improved Payloads to bypass Security F...",
+    "forks_count": 10,
+    "html_url": "https://github.com/hudacbr/webpwn3r",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "webpwn3r",
+    "repo_owner": "hudacbr",
+    "repotime": "2019-01-11, 22:46:45",
+    "stargazers_count": 28,
+    "watchers_count": 28
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-01-08",
+    "date_updated": "2019-01-11",
+    "description": "Execute Local File Inclusion (LFI) With This Perl Program",
+    "forks_count": 3,
+    "html_url": "https://github.com/mfazrinizar/Anon-LFI-Executor",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": "Perl",
+    "repo_name": "Anon-LFI-Executor",
+    "repo_owner": "mfazrinizar",
+    "repotime": "2019-01-11, 22:45:45",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-01-10",
+    "date_updated": "2019-01-11",
+    "description": "The Challenge Set up an automated test suite for the GitHub search repositories API resource. Add tests to cover searching repositories by author name, with pagination and sorting, as an unauthenticated user. Even though there are probably many scenarios you could think of, test up to ten scenarios that you think are the most critical for this resource. Set up an automated test suite for the GitHub search repositories API resource",
+    "forks_count": 0,
+    "html_url": "https://github.com/aatariq8/QA-Automation-Coding-Challenge-aatariq8",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Java",
+    "repo_name": "QA-Automation-Coding-Challenge-aatariq8",
+    "repo_owner": "aatariq8",
+    "repotime": "2019-01-11, 00:10:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 22,
+    "date_started": "2016-08-24",
+    "date_updated": "2019-01-10",
+    "description": "A complete banking application with &amp;quot;Session Password using Grids and Colors&amp;quot;, a secured mechanism to keep banking application safe from MIM (Man in Middle) attack, solder sniffing and  eavesdropping in.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kevindsouza2306/iskonsbank",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "iskonsbank",
+    "repo_owner": "kevindsouza2306",
+    "repotime": "2019-01-10, 23:34:12",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 11,
+    "date_started": "2018-12-03",
+    "date_updated": "2019-01-10",
+    "description": "Extremely raw draft as proof of concept agains memory leak",
+    "forks_count": 0,
+    "html_url": "https://github.com/TemirkhanN/Excel",
+    "keywords": [
+        "memory leak proof of concept"
+    ],
+    "language": "PHP",
+    "repo_name": "Excel",
+    "repo_owner": "TemirkhanN",
+    "repotime": "2019-01-10, 14:28:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-01-09",
+    "date_updated": "2019-01-10",
+    "description": "A small PoC on checking memory leak in the serverless local stack",
+    "forks_count": 0,
+    "html_url": "https://github.com/jaydp17/serverless-memory-leak",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "JavaScript",
+    "repo_name": "serverless-memory-leak",
+    "repo_owner": "jaydp17",
+    "repotime": "2019-01-10, 02:45:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2019-01-08",
+    "date_updated": "2019-01-09",
+    "description": "本脚本旨在生成各类畸形URL链接，进行探测使用的payload，尝试绕过服务端ssrf限制。",
+    "forks_count": 7,
+    "html_url": "https://github.com/grayddq/SSRF_payload",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRF_payload",
+    "repo_owner": "grayddq",
+    "repotime": "2019-01-09, 21:41:27",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-01-07",
+    "date_updated": "2019-01-07",
+    "description": "expressjs/express 5.0.0-alpha.7 memory leak test on window",
+    "forks_count": 0,
+    "html_url": "https://github.com/bill1812/mem-leak",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": "JavaScript",
+    "repo_name": "mem-leak",
+    "repo_owner": "bill1812",
+    "repotime": "2019-01-07, 17:56:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-01-06",
+    "date_updated": "2019-01-06",
+    "description": "Apache Karaf XXE Vulnerability (CVE-2018-11788)",
+    "forks_count": 6,
+    "html_url": "https://github.com/brianwrf/CVE-2018-11788",
+    "keywords": [
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-11788",
+    "repo_owner": "brianwrf",
+    "repotime": "2019-01-06, 19:50:43",
+    "stargazers_count": 38,
+    "watchers_count": 38
+}
+{
+    "commits_count": 10,
+    "date_started": "2018-09-14",
+    "date_updated": "2019-01-06",
+    "description": "Predicting web hits based on different attributes such as location, device, session time etc",
+    "forks_count": 0,
+    "html_url": "https://github.com/techedlaksh/website-hits-prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "website-hits-prediction",
+    "repo_owner": "techedlaksh",
+    "repotime": "2019-01-06, 15:46:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 261,
+    "date_started": "2012-01-10",
+    "date_updated": "2019-01-04",
+    "description": "SQL Injection Exploitation Tool",
+    "forks_count": 191,
+    "html_url": "https://github.com/CiscoCXSecurity/bbqsql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "bbqsql",
+    "repo_owner": "CiscoCXSecurity",
+    "repotime": "2019-01-04, 14:23:19",
+    "stargazers_count": 752,
+    "watchers_count": 752
+}

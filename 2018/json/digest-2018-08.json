@@ -576,3 +576,581 @@
     "stargazers_count": 34,
     "watchers_count": 34
 }
+{
+    "commits_count": 4,
+    "date_started": "2018-08-31",
+    "date_updated": "2018-08-31",
+    "description": " I have created a Proof of Concept for using a split SPA with Lambda@Edge and AWS Cloudfront. It's purpose is to send a partial application (just Sign In app) for unauthenticated users and only deliver the full application when authentication is complete.",
+    "forks_count": 0,
+    "html_url": "https://github.com/david-novicki/lambda-edge-split-app",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "lambda-edge-split-app",
+    "repo_owner": "david-novicki",
+    "repotime": "2018-08-31, 14:34:48",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 41,
+    "date_started": "2013-12-05",
+    "date_updated": "2018-08-31",
+    "description": "PHP shell that hijacks the the incoming socket connection to provide an interactive shell session on port 80",
+    "forks_count": 4,
+    "html_url": "https://github.com/BrianHeeseIs/BratShell",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "BratShell",
+    "repo_owner": "BrianHeeseIs",
+    "repotime": "2018-08-31, 12:47:34",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-08-31",
+    "date_updated": "2018-08-31",
+    "description": "<no description>",
+    "forks_count": 27,
+    "html_url": "https://github.com/alphaSeclab/bypass-uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "bypass-uac",
+    "repo_owner": "alphaSeclab",
+    "repotime": "2018-08-31, 16:54:34",
+    "stargazers_count": 57,
+    "watchers_count": 57
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-08-31",
+    "date_updated": "2018-08-30",
+    "description": "Windows Zero Day - Vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/TheRipperJhon/Random_Repo",
+    "keywords": [
+        "zero-day vulnerability",
+        "Windows zero-day",
+        "Windows zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Random_Repo",
+    "repo_owner": "TheRipperJhon",
+    "repotime": "2018-08-30, 22:12:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2018-08-29",
+    "date_updated": "2018-08-30",
+    "description": "Directory Traversal in CyBroHttpServer v1.0.3 allows an attacker to read sensitive informations.",
+    "forks_count": 3,
+    "html_url": "https://github.com/EmreOvunc/CyBroHttpServer-v1.0.3-Directory-Traversal",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CyBroHttpServer-v1.0.3-Directory-Traversal",
+    "repo_owner": "EmreOvunc",
+    "repotime": "2018-08-30, 09:12:10",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2018-06-06",
+    "date_updated": "2018-08-29",
+    "description": "CVE-2018-12031 | LFI in Eaton Intelligent Power Manager  v1.6 allows an attacker to include a file, it can lead to sensitive information disclosure, denial of service and code execution.",
+    "forks_count": 3,
+    "html_url": "https://github.com/EmreOvunc/Eaton-Intelligent-Power-Manager-Local-File-Inclusion",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "Eaton-Intelligent-Power-Manager-Local-File-Inclusion",
+    "repo_owner": "EmreOvunc",
+    "repotime": "2018-08-29, 13:50:56",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-08-29",
+    "date_updated": "2018-08-29",
+    "description": "Session 14 Assignment 1- Salary prediction using XGBoost",
+    "forks_count": 0,
+    "html_url": "https://github.com/biltu1987/AcadGild_DataScience_Batch2_Assignment_14",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "AcadGild_DataScience_Batch2_Assignment_14",
+    "repo_owner": "biltu1987",
+    "repotime": "2018-08-29, 07:49:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-08-29",
+    "date_updated": "2018-08-28",
+    "description": "Article that out lines bypassing directory traversal",
+    "forks_count": 1,
+    "html_url": "https://github.com/0penwir3/Bypassing-Filter-to-Traversal-Attacks",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Bypassing-Filter-to-Traversal-Attacks",
+    "repo_owner": "0penwir3",
+    "repotime": "2018-08-28, 21:27:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-08-28",
+    "date_updated": "2018-08-29",
+    "description": "A simple exploit for Apache Struts RCE S2-057 (CVE-2018-11776)",
+    "forks_count": 4,
+    "html_url": "https://github.com/brianwrf/S2-057-CVE-2018-11776",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "S2-057-CVE-2018-11776",
+    "repo_owner": "brianwrf",
+    "repotime": "2018-08-29, 08:03:56",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-09-03",
+    "date_updated": "2018-08-28",
+    "description": "<no description>",
+    "forks_count": 3,
+    "html_url": "https://github.com/0x24bin/0day-exploit",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "0day-exploit",
+    "repo_owner": "0x24bin",
+    "repotime": "2018-08-28, 19:46:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2018-06-18",
+    "date_updated": "2018-08-23",
+    "description": "Simple Server Side Request Forgery services enumeration tool.",
+    "forks_count": 18,
+    "html_url": "https://github.com/dreadlocked/SSRFmap",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Ruby",
+    "repo_name": "SSRFmap",
+    "repo_owner": "dreadlocked",
+    "repotime": "2018-08-23, 09:38:35",
+    "stargazers_count": 55,
+    "watchers_count": 55
+}
+{
+    "commits_count": 8,
+    "date_started": "2018-08-21",
+    "date_updated": "2018-08-21",
+    "description": "Code Injection into a Process",
+    "forks_count": 5,
+    "html_url": "https://github.com/x0r19x91/code-injection",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Assembly",
+    "repo_name": "code-injection",
+    "repo_owner": "x0r19x91",
+    "repotime": "2018-08-21, 15:48:49",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-08-19",
+    "date_updated": "2018-08-20",
+    "description": "Take control of Millions of Routers based on Mikrotik/RouterOS in some hours.",
+    "forks_count": 1,
+    "html_url": "https://github.com/PersisLeoPardZ/Mikrotik-RouterOS-0day-Mass-Exploiter",
+    "keywords": [
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "Mikrotik-RouterOS-0day-Mass-Exploiter",
+    "repo_owner": "PersisLeoPardZ",
+    "repotime": "2018-08-20, 08:18:40",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-08-19",
+    "date_updated": "2018-08-19",
+    "description": "InstagramLive-PHP Discord A PHP script that allows for you to go live on Instagram with any streaming program that supports RTMP!  Built with mgp25's amazing Instagram Private API Wrapper for PHP.  Note This has been only tested on Windows, I have no clue if this works on UNIX-Based Systems. Feel free to try though!  Additionally, I've only tested this in OBS. Therefore, I highly recommend using it.  Setup If you are running this after the first setup, work from step six on...  Install PHP, of course... Install Composer Clone the Repository Run composer install in the cloned folder Edit the Username and Password inside of config.php to your Instagram details Run the goLive.php script. (php goLive.php) Copy you Stream-URL and Stream-Key and paste them into your streaming software. See OBS-Setup Video Tutorial If you'd like a video version of this tutorial, see this video.  OBS-Setup Go to the &amp;quot;Stream&amp;quot; section of your OBS Settings Set &amp;quot;Stream Type&amp;quot; to &amp;quot;Custom Str...",
+    "forks_count": 3,
+    "html_url": "https://github.com/penteseter123/LiveInstagramLocalhosts",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": "PHP",
+    "repo_name": "LiveInstagramLocalhosts",
+    "repo_owner": "penteseter123",
+    "repotime": "2018-08-19, 14:55:41",
+    "stargazers_count": 19,
+    "watchers_count": 19
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-08-19",
+    "date_updated": "2018-08-19",
+    "description": "Player points prediction",
+    "forks_count": 0,
+    "html_url": "https://github.com/SunilChandraGit/Session28_Assignment1",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Session28_Assignment1",
+    "repo_owner": "SunilChandraGit",
+    "repotime": "2018-08-19, 13:09:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-08-18",
+    "date_updated": "2018-08-18",
+    "description": "Microsoft Visual Studio CVE-2018-8172 Remote Code Execution Vulnerability",
+    "forks_count": 5,
+    "html_url": "https://github.com/SyFi/CVE-2018-8172",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "remote code execution vulnerability",
+        "Microsoft remote code execution"
+    ],
+    "language": null,
+    "repo_name": "CVE-2018-8172",
+    "repo_owner": "SyFi",
+    "repotime": "2018-08-18, 06:56:35",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 12,
+    "date_started": "2018-05-22",
+    "date_updated": "2018-08-17",
+    "description": "Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.",
+    "forks_count": 83,
+    "html_url": "https://github.com/RhinoSecurityLabs/SleuthQL",
+    "keywords": [
+        "sql injection",
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "SleuthQL",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2018-08-17, 17:43:02",
+    "stargazers_count": 467,
+    "watchers_count": 467
+}
+{
+    "commits_count": 11,
+    "date_started": "2018-02-08",
+    "date_updated": "2018-08-16",
+    "description": "A low interaction honeypot for the Cisco ASA component capable of detecting CVE-2018-0101, a DoS and remote code execution vulnerability.",
+    "forks_count": 23,
+    "html_url": "https://github.com/Cymmetria/ciscoasa_honeypot",
+    "keywords": [
+        "remote code execution vulnerability",
+        "remote code execution dos"
+    ],
+    "language": "JavaScript",
+    "repo_name": "ciscoasa_honeypot",
+    "repo_owner": "Cymmetria",
+    "repotime": "2018-08-16, 17:24:19",
+    "stargazers_count": 51,
+    "watchers_count": 51
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-08-16",
+    "date_updated": "2018-08-16",
+    "description": "CVE-2018-8120 Windows LPE exploit",
+    "forks_count": 1,
+    "html_url": "https://github.com/ozkanbilge/CVE-2018-8120",
+    "keywords": [
+        "lpe exploit",
+        "Windows lpe exploit",
+        "Windows lpe",
+        "Windows lpe exploitation",
+        "lpe exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "CVE-2018-8120",
+    "repo_owner": "ozkanbilge",
+    "repotime": "2018-08-16, 13:53:18",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2018-08-15",
+    "date_updated": "2018-08-16",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/jihwann/-BoB07-Use-After-Free-Exploit-Code",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "Python",
+    "repo_name": "-BoB07-Use-After-Free-Exploit-Code",
+    "repo_owner": "jihwann",
+    "repotime": "2018-08-16, 03:17:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 249,
+    "date_started": "2015-06-11",
+    "date_updated": "2018-08-14",
+    "description": "massive SQL injection vulnerability scanner",
+    "forks_count": 380,
+    "html_url": "https://github.com/the-robot/sqliv",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqliv",
+    "repo_owner": "the-robot",
+    "repotime": "2018-08-14, 19:28:45",
+    "stargazers_count": 1195,
+    "watchers_count": 1195
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-08-13",
+    "date_updated": "2018-08-13",
+    "description": "A collection of slides, videos, and proof-of-concept scripts from various Rhino presentations.",
+    "forks_count": 6,
+    "html_url": "https://github.com/RhinoSecurityLabs/Presentations",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": null,
+    "repo_name": "Presentations",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2018-08-13, 15:51:21",
+    "stargazers_count": 38,
+    "watchers_count": 38
+}
+{
+    "commits_count": 15,
+    "date_started": "2018-02-09",
+    "date_updated": "2018-08-11",
+    "description": "<no description>",
+    "forks_count": 4,
+    "html_url": "https://github.com/yuvatia/windows-lpe-examples",
+    "keywords": [
+        "Win lpe",
+        "Windows lpe"
+    ],
+    "language": "C++",
+    "repo_name": "windows-lpe-examples",
+    "repo_owner": "yuvatia",
+    "repotime": "2018-08-11, 21:23:56",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 7,
+    "date_started": "2018-08-09",
+    "date_updated": "2018-08-10",
+    "description": "Where can I find exploits and how to use them ?",
+    "forks_count": 1,
+    "html_url": "https://github.com/JulienCheny/Exploit-Vulnerabilities",
+    "keywords": [
+        "0day exploit",
+        "0day exploitation",
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Exploit-Vulnerabilities",
+    "repo_owner": "JulienCheny",
+    "repotime": "2018-08-10, 19:36:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-08-09",
+    "date_updated": "2018-08-09",
+    "description": "One Token To Rule Them All https://labs.mwrinfosecurity.com/blog/incognito-v2-0-released/ ",
+    "forks_count": 34,
+    "html_url": "https://github.com/FSecureLABS/incognito",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "C",
+    "repo_name": "incognito",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2018-08-09, 13:28:51",
+    "stargazers_count": 149,
+    "watchers_count": 149
+}
+{
+    "commits_count": 1,
+    "date_started": "2018-08-08",
+    "date_updated": "2018-08-08",
+    "description": "Implements the POP/MOV SS (CVE-2018-8897) vulnerability by leveraging SYSCALL to perform a local privilege escalation (LPE).",
+    "forks_count": 22,
+    "html_url": "https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897",
+    "keywords": [
+        "lpe exploit",
+        "lpe vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "syscall_exploit_CVE-2018-8897",
+    "repo_owner": "nmulasmajic",
+    "repotime": "2018-08-08, 13:08:30",
+    "stargazers_count": 116,
+    "watchers_count": 116
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-08-08",
+    "date_updated": "2018-08-08",
+    "description": "Vulnerability Name -Mail server Miss-configuration-&amp;gt;Missing SPF on Email Domain or Error in SPF  Description -  SPF/TXT Records  An SPF record is a type of Domain Name Service (DNS) record that identifies which mail servers are permitted to send email  on behalf of your domain. The purpose of an SPF record is to prevent spammers from sending messages with forged From  addresses at your domain.  Checking Missing SPF:-  There Are Various Ways of Checking Missing SPF Records on a website But the Most Common and Popular way is kitterman.com  Steps to Check SPF Records on a website:-  1.Go to http://www.kitterman.com/spf/validate.html  2.Enter Target Website http://bimserver.org/  3.If You seem any SPF Record than Domain is Not Vulnerable But if you see Nothing or Error in SPF Here then &amp;quot;HURRAY! You  Found a Bug&amp;quot;  Attack Scenario &amp;amp; PoC:-  Once There is No SPF Records. or Error in SPF  An Attacker Can Spoof Email Via any Fake Mailer Like emkei.cz  Attacker Can Send Email Fro...",
+    "forks_count": 0,
+    "html_url": "https://github.com/manishddhole/Vulnerability-Name--Mail-server-Miss-configuration--Missing-SPF-on-Email-Domain-or-Error-in-SPF-Des",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Vulnerability-Name--Mail-server-Miss-configuration--Missing-SPF-on-Email-Domain-or-Error-in-SPF-Des",
+    "repo_owner": "manishddhole",
+    "repotime": "2018-08-08, 18:23:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-08-07",
+    "date_updated": "2018-08-07",
+    "description": "Use After Free vulnerability example ",
+    "forks_count": 2,
+    "html_url": "https://github.com/shahaf-sameach/UseAfterFree",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "UseAfterFree",
+    "repo_owner": "shahaf-sameach",
+    "repotime": "2018-08-07, 15:13:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2017-10-06",
+    "date_updated": "2018-08-04",
+    "description": "The VirtualPath library normalises paths and prevents directory traversal attacks without querying a file system",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rayne/virtual-path",
+    "keywords": [
+        "directory traversal attack",
+        "path traversal attack"
+    ],
+    "language": "PHP",
+    "repo_name": "virtual-path",
+    "repo_owner": "Rayne",
+    "repotime": "2018-08-04, 23:49:34",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 14,
+    "date_started": "2017-06-23",
+    "date_updated": "2018-08-04",
+    "description": "Small utility written in c++ to bypass windows UAC prompt",
+    "forks_count": 25,
+    "html_url": "https://github.com/AdvancedHacker101/Bypass-Uac",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "Bypass-Uac",
+    "repo_owner": "AdvancedHacker101",
+    "repotime": "2018-08-04, 20:32:45",
+    "stargazers_count": 42,
+    "watchers_count": 42
+}
+{
+    "commits_count": 13,
+    "date_started": "2018-07-28",
+    "date_updated": "2018-08-04",
+    "description": "Synchronizer token pattern (STP) is a method of preventing Cross-site request forgery (CSRF).It uses s technique where a token, secret and unique value for each request, is embedded by the web application in all HTML forms and verified on the server side.",
+    "forks_count": 0,
+    "html_url": "https://github.com/anuruddha-thennakoon/synchronizer-token-pattern",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Java",
+    "repo_name": "synchronizer-token-pattern",
+    "repo_owner": "anuruddha-thennakoon",
+    "repotime": "2018-08-04, 19:19:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2018-07-29",
+    "date_updated": "2018-08-04",
+    "description": "This tool allows one to recover old RDP (mstsc) session information in the form of broken PNG files. These PNG files allows Red Team member to extract juicy information such as LAPS passwords or any sensitive information on the screen. Blue Team member can reconstruct PNG files to see what an attacker did on a compromised host. It is extremely useful for a forensics team to extract timestamps after an attack on a host to collect evidences and perform further analysis.",
+    "forks_count": 57,
+    "html_url": "https://github.com/Viralmaniar/Remote-Desktop-Caching-",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Remote-Desktop-Caching-",
+    "repo_owner": "Viralmaniar",
+    "repotime": "2018-08-04, 21:35:51",
+    "stargazers_count": 214,
+    "watchers_count": 214
+}
+{
+    "commits_count": 4,
+    "date_started": "2018-08-03",
+    "date_updated": "2018-08-02",
+    "description": "Windows 10 UAC bypass PoC using LaunchInfSection",
+    "forks_count": 8,
+    "html_url": "https://github.com/dro/uac-launchinf-poc",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "uac-launchinf-poc",
+    "repo_owner": "dro",
+    "repotime": "2018-08-02, 20:22:40",
+    "stargazers_count": 34,
+    "watchers_count": 34
+}

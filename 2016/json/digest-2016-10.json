@@ -270,3 +270,275 @@
     "stargazers_count": 62,
     "watchers_count": 62
 }
+{
+    "commits_count": 2,
+    "date_started": "2016-10-31",
+    "date_updated": "2016-10-31",
+    "description": "Middleware routes for express that provide middleware for unauthenticated users, admin users and sysadmin users. Used in Neonce with Neonce default example test functions. Expects the use of passport like req.user and req.isAuthenticated()",
+    "forks_count": 0,
+    "html_url": "https://github.com/mindiply/express-auth-usertype-middleware",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "express-auth-usertype-middleware",
+    "repo_owner": "mindiply",
+    "repotime": "2016-10-31, 11:14:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2016-10-29",
+    "date_updated": "2016-10-28",
+    "description": "Brand New Code Injection for Windows https://breakingmalware.com/injection-techniques/atombombing-brand-new-code-injection-for-windows ",
+    "forks_count": 10,
+    "html_url": "https://github.com/gcoinman/atom-bombing-",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "atom-bombing-",
+    "repo_owner": "gcoinman",
+    "repotime": "2016-10-28, 20:24:05",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 5,
+    "date_started": "2016-10-27",
+    "date_updated": "2016-10-28",
+    "description": "Brand New Code Injection for Windows",
+    "forks_count": 268,
+    "html_url": "https://github.com/BreakingMalwareResearch/atom-bombing",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "atom-bombing",
+    "repo_owner": "BreakingMalwareResearch",
+    "repotime": "2016-10-28, 20:24:05",
+    "stargazers_count": 729,
+    "watchers_count": 729
+}
+{
+    "commits_count": 3,
+    "date_started": "2015-03-18",
+    "date_updated": "2016-10-26",
+    "description": "A tool to copy remote file systems though a local file inclusion vulnerability.",
+    "forks_count": 0,
+    "html_url": "https://github.com/motsu35/LFIler",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "LFIler",
+    "repo_owner": "motsu35",
+    "repotime": "2016-10-26, 19:09:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2016-10-21",
+    "date_updated": "2016-10-21",
+    "description": "Takes input from the user and validates the screen for null values and displays error for wrong entries.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Anupnair1288/Android_Session3Assignment4",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "Java",
+    "repo_name": "Android_Session3Assignment4",
+    "repo_owner": "Anupnair1288",
+    "repotime": "2016-10-21, 07:00:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 0,
+    "date_started": "2016-10-19",
+    "date_updated": "2016-10-19",
+    "description": "Instructions  Introduction  It is now possible to collect a large amount of data about personal movement using activity monitoring devices such as a Fitbit, Nike Fuelband, or Jawbone Up. These type of devices are part of the “quantified self” movement – a group of enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech geeks. But these data remain under-utilized both because the raw data are hard to obtain and there is a lack of statistical methods and software for processing and interpreting the data.  This assignment makes use of data from a personal activity monitoring device. This device collects data at 5 minute intervals through out the day. The data consists of two months of data from an anonymous individual collected during the months of October and November, 2012 and include the number of steps taken in 5 minute intervals each day.  The data for this assignment can be downloaded from the...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Bhaskarghose/Reproductible-Research-Project-1",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": null,
+    "repo_name": "Reproductible-Research-Project-1",
+    "repo_owner": "Bhaskarghose",
+    "repotime": "2016-10-19, 11:25:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2015-12-28",
+    "date_updated": "2016-10-16",
+    "description": "(POC) This script can be used for the notification about of the expiration of the password or account on the server / desktop of GNU/Linux.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dkhabarov/lpen",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "Python",
+    "repo_name": "lpen",
+    "repo_owner": "dkhabarov",
+    "repotime": "2016-10-16, 17:11:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2016-06-25",
+    "date_updated": "2016-10-14",
+    "description": "<no description>",
+    "forks_count": 5,
+    "html_url": "https://github.com/DshtAnger/discuz_redis_ssrf_exec",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "discuz_redis_ssrf_exec",
+    "repo_owner": "DshtAnger",
+    "repotime": "2016-10-14, 21:36:29",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 7,
+    "date_started": "2016-10-14",
+    "date_updated": "2016-10-14",
+    "description": "It sniffs mail lists from naver by hijacking cookie(session).",
+    "forks_count": 1,
+    "html_url": "https://github.com/WeareJoker/naver_mail_list_sniffer",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "naver_mail_list_sniffer",
+    "repo_owner": "WeareJoker",
+    "repotime": "2016-10-14, 14:24:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2016-09-29",
+    "date_updated": "2016-10-09",
+    "description": "Basic login template using flask with a hard-coded password.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Karol-Regula/login",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Python",
+    "repo_name": "login",
+    "repo_owner": "Karol-Regula",
+    "repotime": "2016-10-09, 11:00:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2016-10-07",
+    "date_updated": "2016-10-07",
+    "description": "Using iframes as workers that will do canvas manipulations to isolate a memory leak in chrome",
+    "forks_count": 0,
+    "html_url": "https://github.com/nathand8/iframecanvasworkers",
+    "keywords": [
+        "Chrome memory leak"
+    ],
+    "language": "HTML",
+    "repo_name": "iframecanvasworkers",
+    "repo_owner": "nathand8",
+    "repotime": "2016-10-07, 15:11:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 26,
+    "date_started": "2016-08-02",
+    "date_updated": "2016-10-06",
+    "description": "Fox-scan is a initiative and passive SQL Injection vulnerable Test tools.",
+    "forks_count": 235,
+    "html_url": "https://github.com/fengxuangit/Fox-scan",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "Fox-scan",
+    "repo_owner": "fengxuangit",
+    "repotime": "2016-10-06, 22:49:45",
+    "stargazers_count": 407,
+    "watchers_count": 407
+}
+{
+    "commits_count": 3,
+    "date_started": "2016-10-05",
+    "date_updated": "2016-10-05",
+    "description": "DNS-Shell is an interactive Shell over DNS channel",
+    "forks_count": 133,
+    "html_url": "https://github.com/sensepost/DNS-Shell",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "DNS-Shell",
+    "repo_owner": "sensepost",
+    "repotime": "2016-10-05, 15:05:33",
+    "stargazers_count": 525,
+    "watchers_count": 525
+}
+{
+    "commits_count": 1,
+    "date_started": "2016-10-05",
+    "date_updated": "2016-10-05",
+    "description": "Attacker Domain will maintain the session in cookies and also has house developed authentication - Attacker domain is used to attack the other domains with csrf by using other authorized cookies on browser",
+    "forks_count": 0,
+    "html_url": "https://github.com/reddivenkat39/AttackerDomain",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Java",
+    "repo_name": "AttackerDomain",
+    "repo_owner": "reddivenkat39",
+    "repotime": "2016-10-05, 00:12:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2016-10-02",
+    "date_updated": "2016-10-04",
+    "description": "OS X 10.11.6 LPE PoC for CVE-2016-4655 / CVE-2016-4656",
+    "forks_count": 28,
+    "html_url": "https://github.com/jndok/PegasusX",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "C",
+    "repo_name": "PegasusX",
+    "repo_owner": "jndok",
+    "repotime": "2016-10-04, 18:36:17",
+    "stargazers_count": 98,
+    "watchers_count": 98
+}
+{
+    "commits_count": 2,
+    "date_started": "2016-10-04",
+    "date_updated": "2016-10-04",
+    "description": "Fuzzing for LFI using Burpsuite",
+    "forks_count": 30,
+    "html_url": "https://github.com/Team-Firebugs/Burp-LFI-tests",
+    "keywords": [
+        "lfi"
+    ],
+    "language": null,
+    "repo_name": "Burp-LFI-tests",
+    "repo_owner": "Team-Firebugs",
+    "repotime": "2016-10-04, 18:03:41",
+    "stargazers_count": 62,
+    "watchers_count": 62
+}

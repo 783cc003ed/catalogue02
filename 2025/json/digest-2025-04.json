@@ -1,5 +1,42 @@
 {
-    "commits_count": 1295,
+    "commits_count": 57,
+    "date_started": "2025-04-16",
+    "date_updated": "2025-04-17",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Qweryyts/HTA-Exploit",
+    "keywords": [
+        "Windows remote code execution exploit",
+        "Windows remote code execution",
+        "Microsoft remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "Qweryyts",
+    "repotime": "2025-04-17, 10:42:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 673,
+    "date_started": "2025-04-05",
+    "date_updated": "2025-04-17",
+    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kaorast/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "keywords": [
+        "Windows remote code execution exploit",
+        "Windows remote code execution"
+    ],
+    "language": "C++",
+    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "repo_owner": "Kaorast",
+    "repotime": "2025-04-17, 10:41:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1300,
     "date_started": "2025-03-25",
     "date_updated": "2025-04-17",
     "description": "The WinRAR Exploit Builder is a C&amp;&#35;35; project designed to create an exploit targeting a vulnerability in WinRAR.",
@@ -14,31 +51,12 @@
     "language": "C#",
     "repo_name": "WinRAR-Exploit-Builder",
     "repo_owner": "TypsSec",
-    "repotime": "2025-04-17, 07:55:38",
+    "repotime": "2025-04-17, 09:55:48",
     "stargazers_count": 1,
     "watchers_count": 1
 }
 {
-    "commits_count": 39,
-    "date_started": "2025-04-16",
-    "date_updated": "2025-04-17",
-    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-    "forks_count": 0,
-    "html_url": "https://github.com/Qweryyts/HTA-Exploit",
-    "keywords": [
-        "Windows remote code execution exploit",
-        "Windows remote code execution",
-        "Microsoft remote code execution"
-    ],
-    "language": "C#",
-    "repo_name": "HTA-Exploit",
-    "repo_owner": "Qweryyts",
-    "repotime": "2025-04-17, 04:52:43",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 2635,
+    "commits_count": 2637,
     "date_started": "2009-12-19",
     "date_updated": "2025-04-17",
     "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
@@ -51,8 +69,8 @@
     "repo_name": "jsoup",
     "repo_owner": "jhy",
     "repotime": "2025-04-17, 12:07:13",
-    "stargazers_count": 11110,
-    "watchers_count": 11110
+    "stargazers_count": 11111,
+    "watchers_count": 11111
 }
 {
     "commits_count": 1156,
@@ -87,24 +105,6 @@
     "repo_name": "externalblue_exploit_exploratory_sim",
     "repo_owner": "MichaelColburn",
     "repotime": "2025-04-16, 17:02:04",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 655,
-    "date_started": "2025-04-05",
-    "date_updated": "2025-04-16",
-    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Kaorast/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
-    "keywords": [
-        "Windows remote code execution exploit",
-        "Windows remote code execution"
-    ],
-    "language": "C++",
-    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
-    "repo_owner": "Kaorast",
-    "repotime": "2025-04-16, 23:54:37",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -174,8 +174,8 @@
     "repo_name": "loxs",
     "repo_owner": "coffinxp",
     "repotime": "2025-04-16, 14:13:53",
-    "stargazers_count": 1108,
-    "watchers_count": 1108
+    "stargazers_count": 1110,
+    "watchers_count": 1110
 }
 {
     "commits_count": 358,
@@ -1387,7 +1387,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2025-04-05",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 5847,
+    "forks_count": 5849,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -1396,8 +1396,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-04-05, 14:41:45",
-    "stargazers_count": 33881,
-    "watchers_count": 33881
+    "stargazers_count": 33895,
+    "watchers_count": 33895
 }
 {
     "commits_count": 25,

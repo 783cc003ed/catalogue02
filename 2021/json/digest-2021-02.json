@@ -408,7 +408,7 @@
     "date_started": "2021-01-26",
     "date_updated": "2021-02-15",
     "description": "Electron JS Browser To Find XSS Vulnerabilities Automatically",
-    "forks_count": 119,
+    "forks_count": 120,
     "html_url": "https://github.com/RenwaX23/XSSTRON",
     "keywords": [
         "xss"
@@ -417,8 +417,1642 @@
     "repo_name": "XSSTRON",
     "repo_owner": "RenwaX23",
     "repotime": "2021-02-15, 23:07:57",
-    "stargazers_count": 694,
-    "watchers_count": 694
+    "stargazers_count": 695,
+    "watchers_count": 695
+}
+{
+    "commits_count": 31,
+    "date_started": "2012-08-07",
+    "date_updated": "2021-02-14",
+    "description": "Automatic generate dll wrapper for code injection.",
+    "forks_count": 56,
+    "html_url": "https://github.com/mavenlin/wrap_dll",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "wrap_dll",
+    "repo_owner": "mavenlin",
+    "repotime": "2021-02-14, 05:44:54",
+    "stargazers_count": 166,
+    "watchers_count": 166
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-05-23",
+    "date_updated": "2021-02-13",
+    "description": "the working exploit for phpinfo-Local-File-Inclusion founded by insomniasec",
+    "forks_count": 0,
+    "html_url": "https://github.com/diegoalbuquerque/phpinfo-Local-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "phpinfo-Local-File-Inclusion",
+    "repo_owner": "diegoalbuquerque",
+    "repotime": "2021-02-13, 22:11:06",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-13",
+    "date_updated": "2021-02-13",
+    "description": "commands git clone https://github.com/Screetsec/Brutal.git cd Brutal chmod +x Brutal.sh sudo ./Brutal.sh or sudo su ./Brutal.sh about : Now Teensy can be use for penetration Teensy like a rubber ducky , why im choose teensy ? because the price very cheap for me . t’s extremely useful for executing scripts on a target machine without the need for human-to-keyboard interaction ( HID -ATTACK ) .When you insert the device, it will be detected as a keyboard, and using the microprocessor and onboard flash memory storage, you can send a very fast set of keystrokes to the target’s machine and completely compromise it, regardless of autorun. I’ve used it in my security testing to run recon or enumeration scripts, execute reverse shells, exploit local DLL hijack/privilege escalation vulnerabilities, and get all password . Now im develop new tools the name is Brutal Brutal Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interf...",
+    "forks_count": 0,
+    "html_url": "https://github.com/anthophilee/Brutal",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Brutal",
+    "repo_owner": "anthophilee",
+    "repotime": "2021-02-13, 12:13:21",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-02-10",
+    "date_updated": "2021-02-12",
+    "description": "Powerfull Automatic Sql injection Tools Pack",
+    "forks_count": 44,
+    "html_url": "https://github.com/Agressiv1njector/psqli-pro",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Shell",
+    "repo_name": "psqli-pro",
+    "repo_owner": "Agressiv1njector",
+    "repotime": "2021-02-12, 12:59:04",
+    "stargazers_count": 111,
+    "watchers_count": 111
+}
+{
+    "commits_count": 28,
+    "date_started": "2019-02-27",
+    "date_updated": "2021-02-11",
+    "description": "Smart ssrf scanner using different methods like parameter brute forcing in post and get...",
+    "forks_count": 71,
+    "html_url": "https://github.com/Damian89/extended-ssrf-search",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "extended-ssrf-search",
+    "repo_owner": "Damian89",
+    "repotime": "2021-02-11, 21:12:37",
+    "stargazers_count": 275,
+    "watchers_count": 275
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-11",
+    "date_updated": "2021-02-10",
+    "description": "A Burp extension adding a passive scan check to flag parameters whose name or value may indicate a possible insertion point for SSRF or LFI.",
+    "forks_count": 23,
+    "html_url": "https://github.com/allyomalley/BurpParamFlagger",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "BurpParamFlagger",
+    "repo_owner": "allyomalley",
+    "repotime": "2021-02-10, 18:00:14",
+    "stargazers_count": 130,
+    "watchers_count": 130
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-02-10",
+    "date_updated": "2021-02-10",
+    "description": "maptool unauthenticated rce exploit &amp;lt;1.8.0 beta2b",
+    "forks_count": 0,
+    "html_url": "https://github.com/sum-catnip/maptool-rce",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "maptool-rce",
+    "repo_owner": "sum-catnip",
+    "repotime": "2021-02-10, 18:16:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-02-09",
+    "date_updated": "2021-02-10",
+    "description": "An SSRF detector tool written in golang. I have fixed some errors and added some more payloads to it. But the tool credits go to z0idsec.",
+    "forks_count": 10,
+    "html_url": "https://github.com/R0X4R/ssrf-tool",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "ssrf-tool",
+    "repo_owner": "R0X4R",
+    "repotime": "2021-02-10, 09:14:01",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-01-12",
+    "date_updated": "2021-02-09",
+    "description": "Telegram session hijacker with SFTP.",
+    "forks_count": 0,
+    "html_url": "https://github.com/noarchwastaken/TGpyrate",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "TGpyrate",
+    "repo_owner": "noarchwastaken",
+    "repotime": "2021-02-09, 09:21:32",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-02-09",
+    "date_updated": "2021-02-09",
+    "description": "Proof Of Concept of RCE exploit in EJS web app",
+    "forks_count": 2,
+    "html_url": "https://github.com/mahsunon/Web-App-RCE-POC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Web-App-RCE-POC",
+    "repo_owner": "mahsunon",
+    "repotime": "2021-02-09, 11:24:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-12-24",
+    "date_updated": "2021-02-09",
+    "description": "POC for GitLabs Authenticated RCE in version 11.4.7 community edition",
+    "forks_count": 13,
+    "html_url": "https://github.com/ctrlsam/GitLab-11.4.7-RCE",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "GitLab-11.4.7-RCE",
+    "repo_owner": "ctrlsam",
+    "repotime": "2021-02-09, 10:35:21",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 53,
+    "date_started": "2018-06-22",
+    "date_updated": "2021-02-07",
+    "description": "pen testing scripts",
+    "forks_count": 9,
+    "html_url": "https://github.com/Ch0pin/ToolBox",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PowerShell",
+    "repo_name": "ToolBox",
+    "repo_owner": "Ch0pin",
+    "repotime": "2021-02-07, 08:19:39",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-01-02",
+    "date_updated": "2021-02-06",
+    "description": "The processes in continuity of image and sounds are partially interrupted, disrupted in more or less expected ways. Driving triggers signal lack, require input; I do my best to appease the waves. Solitude brings about conversation with the self and thus with the other, the limit that spills about rendering difference precariously pinned in place. A conversation with the Other within the self or that is non Other than the self or that the self dissimulates its own hollowness. Nostalgia projects a real reality, other than, that never was in fact. It then projects a potentiality hidden in impossibility. in that of a past that has flown. It isn't the frail child but the formless life that I now fancy myself with the tools to furnish. However, the possibility is blocked by present circumstance. A process of situating ourselves in the best possible reality, one of invalidation of possibility, runs through this nostalgia at a supra individual level. If identities like the coupling of man and ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/marcosparajua/I-do-my-best-to-appease-the-waves",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "HTML",
+    "repo_name": "I-do-my-best-to-appease-the-waves",
+    "repo_owner": "marcosparajua",
+    "repotime": "2021-02-06, 21:18:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-02-03",
+    "date_updated": "2021-02-05",
+    "description": "Escalate as Administrator bypassing the UAC affecting administrator accounts only.",
+    "forks_count": 62,
+    "html_url": "https://github.com/0xyg3n/UAC_Exploit",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C#",
+    "repo_name": "UAC_Exploit",
+    "repo_owner": "0xyg3n",
+    "repotime": "2021-02-05, 22:23:01",
+    "stargazers_count": 252,
+    "watchers_count": 252
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-04",
+    "date_updated": "2021-02-05",
+    "description": "This is my first AIML based project under the guidance of Dr. Darshan Ingle live project session conducted by LetsUgrade",
+    "forks_count": 0,
+    "html_url": "https://github.com/iamrahul-9/AIML_Breast_Cancer_Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "AIML_Breast_Cancer_Prediction",
+    "repo_owner": "iamrahul-9",
+    "repotime": "2021-02-05, 03:11:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2020-12-21",
+    "date_updated": "2021-02-04",
+    "description": "Workshop given at Hack in Paris 2019",
+    "forks_count": 38,
+    "html_url": "https://github.com/GoSecure/xxe-workshop",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xxe-workshop",
+    "repo_owner": "GoSecure",
+    "repotime": "2021-02-04, 15:10:48",
+    "stargazers_count": 121,
+    "watchers_count": 121
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-01-31",
+    "date_updated": "2021-02-02",
+    "description": "A great setup for SQL Injection, xss and xxe (plus a few more) on Kali",
+    "forks_count": 2,
+    "html_url": "https://github.com/AssassinUKG/Sqli_Best_Setup",
+    "keywords": [
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "Sqli_Best_Setup",
+    "repo_owner": "AssassinUKG",
+    "repotime": "2021-02-02, 18:48:13",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-01-04",
+    "date_updated": "2021-02-02",
+    "description": "The file contain a list of Server side Request Forgery (SSRF) payloads to connect with internal IP of the server. The File is made from the PortSwigger Practice Lab.",
+    "forks_count": 0,
+    "html_url": "https://github.com/princep4/SSRF_cheatsheet",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "SSRF_cheatsheet",
+    "repo_owner": "princep4",
+    "repotime": "2021-02-02, 10:37:12",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 32,
+    "date_started": "2021-01-24",
+    "date_updated": "2021-02-02",
+    "description": "The goal of the challenge is to predict the likelihood of a user skipping any given song during a listening session.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nikhildhabu/Spotify-Music-Skips-Action-Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Spotify-Music-Skips-Action-Prediction",
+    "repo_owner": "Nikhildhabu",
+    "repotime": "2021-02-02, 12:22:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-01",
+    "date_updated": "2021-02-01",
+    "description": "0day_spain Exploit",
+    "forks_count": 0,
+    "html_url": "https://github.com/RpcSecurity/0day_spain",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "0day_spain",
+    "repo_owner": "RpcSecurity",
+    "repotime": "2021-02-01, 20:24:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-01",
+    "date_updated": "2021-02-01",
+    "description": "0day_nvr Exploit",
+    "forks_count": 0,
+    "html_url": "https://github.com/RpcSecurity/0day_nvr",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "0day_nvr",
+    "repo_owner": "RpcSecurity",
+    "repotime": "2021-02-01, 20:22:54",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-01-30",
+    "date_updated": "2021-02-01",
+    "description": "[17:11:39] [main/INFO] Prepared background image in bgskin folder. [17:11:41] [AWT-EventQueue-0/ERROR] Faield to query java java.io.IOException: Cannot run program &amp;quot;cmd&amp;quot;: CreateProcess error=2, 系统找不到指定的文件。      at java.lang.ProcessBuilder.start(Unknown Source)      at org.jackhuang.hellominecraft.util.system.IOUtils.readProcessByInputStream(IOUtils.java:301)      at org.jackhuang.hellominecraft.util.system.Java.queryRegSubFolders(Java.java:144)      at org.jackhuang.hellominecraft.util.system.Java.queryJava(Java.java:129)      at org.jackhuang.hellominecraft.util.system.Java.queryAllJavaHomeInWindowsByReg(Java.java:120)      at org.jackhuang.hellominecraft.util.system.Java.&amp;lt;clinit&amp;gt;(Java.java:41)      at org.jackhuang.hellominecraft.launcher.ui.GameSettingsPanel.initGui(GameSettingsPanel.java:106)      at org.jackhuang.hellominecraft.launcher.ui.GameSettingsPanel.onCreate(GameSettingsPanel.java:1298)      at org.jackhuang.hellominecraft.launcher.ui.MainFrame.selectTab(Ma...",
+    "forks_count": 0,
+    "html_url": "https://github.com/13894865204/-",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "-",
+    "repo_owner": "13894865204",
+    "repotime": "2021-02-01, 10:07:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-01-31",
+    "date_updated": "2021-02-01",
+    "description": "Code for WWW-2021 full paper: Long Short-Term Session Search: Joint Personalized Reranking and Next Query Prediction",
+    "forks_count": 4,
+    "html_url": "https://github.com/QiannanCheng/LostNet",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "LostNet",
+    "repo_owner": "QiannanCheng",
+    "repotime": "2021-02-01, 10:56:36",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-03-01",
+    "date_updated": "2021-02-28",
+    "description": "First we need to find some information about the system. So we are going to start by opening up nmap to be able to scan  So after running that you should of gotten the number of ports and that should be answer to the second thing needed. This is used so We can find out how open it is and we can level it by how vulnerable it is. In this one it is MS17-01o this vulnerability is marked as arisk level of critical  Now we know how vulnerable it is time to exploit it. For this step we are going to run Metasploit to open the terminal usein the search msfconsole in the terminal and search (MS17–010) You should know  which exploit to use at this point so, let’s run it. Type show options to be able to know which parameter is needed to run as a prerequisite and be able torun the exploit. Once the exploit and the parameters are set, run the exploit  After running the exploit you will see that you have gained the shell of the target machine You did it!! You now need to escalate our privileges in or...",
+    "forks_count": 0,
+    "html_url": "https://github.com/deezzhandzz/Blue",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit",
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Blue",
+    "repo_owner": "deezzhandzz",
+    "repotime": "2021-02-28, 20:30:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-02-28",
+    "date_updated": "2021-02-28",
+    "description": "FOOD ORDERING SYSTEM IN PHP WITH SOURCE CODE       Project: Food Ordering System In PHP With Source Code The Food Ordering System In PHP is a simple project developed using PHP, JavaScript, and CSS. The project is developed for helping the restaurants by making the digital order taking system. The project contains an admin and user side. All the management like editing site contents, adding staff, updating food items, and checking order status can be managed from the admin side. The admin has an important role in the management of this system.  For the user section, the users are the staff members of the restaurant. Every staff has their account and they can log in to do the task. The staff as a waiter can go to take order with the phone having this app instead of a pen and paper. The food you select comes with the cost as well. And the staff as a chef can smoothly work in the orders without having the waiter to go to them. This project makes a convenient way for staff to manage orders...",
+    "forks_count": 1,
+    "html_url": "https://github.com/richtope66/food-ordering-system-in-php_mysqli-with-full-source-code-",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "food-ordering-system-in-php_mysqli-with-full-source-code-",
+    "repo_owner": "richtope66",
+    "repotime": "2021-02-28, 19:02:28",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-02-28",
+    "date_updated": "2021-02-28",
+    "description": "OpenNetAdmin 18.1.1 is vulnerable to Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kr0ff/OpenNetAdmin-18.1.1-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "OpenNetAdmin-18.1.1-Remote-Code-Execution",
+    "repo_owner": "Kr0ff",
+    "repotime": "2021-02-28, 03:08:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-01-29",
+    "date_updated": "2021-02-27",
+    "description": "The goal of the challenge is to predict the likelihood of a user skipping any given song during a listening session.",
+    "forks_count": 1,
+    "html_url": "https://github.com/sahil-ansari-15/Spotify-Music-Skips-Action-Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Spotify-Music-Skips-Action-Prediction",
+    "repo_owner": "sahil-ansari-15",
+    "repotime": "2021-02-27, 03:21:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-11-30",
+    "date_updated": "2021-02-26",
+    "description": "This module massively scan and exploit a path traversal vulnerability in the FortiOS SSL VPN web portal may allow an unauthenticated attacker to download FortiOS system files through specially crafted HTTP resource requests (CVE-2018-13379).",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zeop-CyberSec/fortios_vpnssl_traversal_leak",
+    "keywords": [
+        "unauthenticated attacker",
+        "path traversal vulnerability",
+        "path traversal attack"
+    ],
+    "language": "Ruby",
+    "repo_name": "fortios_vpnssl_traversal_leak",
+    "repo_owner": "Zeop-CyberSec",
+    "repotime": "2021-02-26, 17:40:06",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-25",
+    "date_updated": "2021-02-25",
+    "description": "Create tar/zip archives that can exploit directory traversal vulnerabilities",
+    "forks_count": 1,
+    "html_url": "https://github.com/patrickhener/go-evilarc",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "go-evilarc",
+    "repo_owner": "patrickhener",
+    "repotime": "2021-02-25, 11:29:44",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-08-21",
+    "date_updated": "2021-02-24",
+    "description": "A remote code execution vulnerability exists in the HTTP protocol stack (HTTP.sys) that is caused when HTTP.sys improperly parses specially crafted HTTP requests. An attacker who successfully exploited this vulnerability could execute arbitrary code in the context of the System account.  To exploit this vulnerability, an attacker would have to send a specially crafted HTTP request to the affected system. The update addresses the vulnerability by modifying how the Windows HTTP stack handles requests.",
+    "forks_count": 0,
+    "html_url": "https://github.com/jc-base4sec/MS15-034",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "Windows remote code execution exploit",
+        "Windows remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "MS15-034",
+    "repo_owner": "jc-base4sec",
+    "repotime": "2021-02-24, 13:28:39",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-02-23",
+    "date_updated": "2021-02-24",
+    "description": "Robot researchers need the simulator to test their functions and algorithm before implementing into the real robot. Most of the time, a customizable Robot simulator is not available to the researcher. Some good options are available in the market, but their price is too high, not affordable. After much research, we found a better solution around all aspects, fully customizable and entirely free of cost. There are two sides. One is a 3D view of robotics ARM, and another is a joint controller of robotics ARM. For 3D simulation, CoppeliaSim is the best option. It is free of cost and Open Source. The C&amp;&#35;35; language is becoming famous for its managed code structure and ease of implementation. Our Robot controller is in the C&amp;&#35;35; language. For control and debug we use Microsoft visual studio 2019. It is an unparallel IDE for the programmer. In the CoppeliaSim little bit, Lua script is in associated functions. Communication Between the simulator and our application, we will use Remote API F...",
+    "forks_count": 1,
+    "html_url": "https://github.com/sudipchakraborty/Forward-Kinematics-Demonstration-Using-CoppeliaSim-and-C-",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": null,
+    "repo_name": "Forward-Kinematics-Demonstration-Using-CoppeliaSim-and-C-",
+    "repo_owner": "sudipchakraborty",
+    "repotime": "2021-02-24, 17:01:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2018-06-28",
+    "date_updated": "2021-02-24",
+    "description": "SQL Injection Payload List",
+    "forks_count": 56,
+    "html_url": "https://github.com/omurugur/SQL_Injection_Payload",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL_Injection_Payload",
+    "repo_owner": "omurugur",
+    "repotime": "2021-02-24, 00:49:49",
+    "stargazers_count": 109,
+    "watchers_count": 109
+}
+{
+    "commits_count": 9,
+    "date_started": "2019-05-29",
+    "date_updated": "2021-02-24",
+    "description": "XML External Entity Vulnerability Payload List",
+    "forks_count": 2,
+    "html_url": "https://github.com/omurugur/XXE_Payload_List",
+    "keywords": [
+        "xml external entity",
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "XXE_Payload_List",
+    "repo_owner": "omurugur",
+    "repotime": "2021-02-24, 00:48:25",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 21,
+    "date_started": "2019-05-29",
+    "date_updated": "2021-02-24",
+    "description": "Path Traversal Vulnerability Payload List",
+    "forks_count": 26,
+    "html_url": "https://github.com/omurugur/Path_Travelsal_Payload_List",
+    "keywords": [
+        "path traversal vulnerability",
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Path_Travelsal_Payload_List",
+    "repo_owner": "omurugur",
+    "repotime": "2021-02-24, 00:48:18",
+    "stargazers_count": 64,
+    "watchers_count": 64
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-23",
+    "date_updated": "2021-02-23",
+    "description": "This repo contains a proof-of-concept for 📱🚀👑⚡, a deserialization vuln for local escalation of privilege to system_server in Android 10. This proof-of-concept only activates a privileged intent.",
+    "forks_count": 1,
+    "html_url": "https://github.com/0x742/CVE-2020-0082-ExternalVibration",
+    "keywords": [
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2020-0082-ExternalVibration",
+    "repo_owner": "0x742",
+    "repotime": "2021-02-23, 16:02:06",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-02-21",
+    "date_updated": "2021-02-23",
+    "description": "A short script to automate the process of RDP session hijacking.",
+    "forks_count": 1,
+    "html_url": "https://github.com/pyrrh1c/Start-RdpSessionTakeover",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Start-RdpSessionTakeover",
+    "repo_owner": "pyrrh1c",
+    "repotime": "2021-02-23, 08:30:49",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 34,
+    "date_started": "2021-01-12",
+    "date_updated": "2021-02-22",
+    "description": "SSRFuzz is a tool to find Server Side Request Forgery vulnerabilities, with CRLF chaining capabilities",
+    "forks_count": 20,
+    "html_url": "https://github.com/ryandamour/ssrfuzz",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "ssrfuzz",
+    "repo_owner": "ryandamour",
+    "repotime": "2021-02-22, 08:54:42",
+    "stargazers_count": 182,
+    "watchers_count": 182
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-02-22",
+    "date_updated": "2021-02-22",
+    "description": "Hello! This module is intended as a learning method for Introduction to Machine Learning Session 2 by HMTE UP. This module discusses about Introduction to Machine Learning: Loan Prediction using Random Forest Classifier",
+    "forks_count": 0,
+    "html_url": "https://github.com/anggitaaps/Session2_IML",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Session2_IML",
+    "repo_owner": "anggitaaps",
+    "repotime": "2021-02-22, 21:20:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-02-21",
+    "date_updated": "2021-02-22",
+    "description": "__ Introduction: Clickthrough rate (CTR) __                    is a ratio showing how often people who see your ad end up clicking it. Clickthrough rate (CTR) can be used to gauge how well your keywords and ads are performing.           - CTR is the number of clicks that your ad receives divided by the number of times your ad is shown: clicks ÷ impressions = CTR. For example, if you had 5 clicks and 100 impressions, then your CTR would be 5%.                   - Each of your ads and keywords have their own CTRs that you can see listed in your account.                               - A high CTR is a good indication that users find your ads helpful and relevant. CTR also contributes to your keyword's expected CTR, which is a component of Ad Rank. Note that a good CTR is relative to what you're advertising and on which networks.                                                    &amp;gt; Credits: Google (https://support.google.com/adwords/answer/2615875?hl=en)                     Search adver...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sahil-Chavan/AdClickPrediction-CaseStudy",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": null,
+    "repo_name": "AdClickPrediction-CaseStudy",
+    "repo_owner": "Sahil-Chavan",
+    "repotime": "2021-02-22, 00:29:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 54,
+    "date_started": "2019-07-22",
+    "date_updated": "2021-02-20",
+    "description": "Dios sql injection",
+    "forks_count": 10,
+    "html_url": "https://github.com/Rizsyad/diosqli",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "diosqli",
+    "repo_owner": "Rizsyad",
+    "repotime": "2021-02-20, 19:56:53",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 4,
+    "date_started": "2015-09-11",
+    "date_updated": "2021-02-20",
+    "description": "CSCI Template made for iOSGods.com users!",
+    "forks_count": 4,
+    "html_url": "https://github.com/iOSGods/CS-Code-Injection-Template",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "CS-Code-Injection-Template",
+    "repo_owner": "iOSGods",
+    "repotime": "2021-02-20, 04:38:07",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 19,
+    "date_started": "2020-12-31",
+    "date_updated": "2021-02-19",
+    "description": "Reflective DLL that hooks the creation of the UAC prompt popped by explorer.exe for privilege escalation. ",
+    "forks_count": 3,
+    "html_url": "https://github.com/TheKevinWang/UACHooker",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C",
+    "repo_name": "UACHooker",
+    "repo_owner": "TheKevinWang",
+    "repotime": "2021-02-19, 22:39:25",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-18",
+    "date_updated": "2021-02-18",
+    "description": "Ecommerce web site without authentication. for register user and with browser cookies for unauthenticated user",
+    "forks_count": 0,
+    "html_url": "https://github.com/ramziddinabd/Ecommerce-web-site",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "Ecommerce-web-site",
+    "repo_owner": "ramziddinabd",
+    "repotime": "2021-02-18, 13:24:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-02-13",
+    "date_updated": "2021-02-17",
+    "description": "OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit",
+    "forks_count": 2,
+    "html_url": "https://github.com/QTranspose/CVE-2020-7247-exploit",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-7247-exploit",
+    "repo_owner": "QTranspose",
+    "repotime": "2021-02-17, 20:23:57",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 60,
+    "date_started": "2019-10-25",
+    "date_updated": "2021-02-16",
+    "description": "Hello my friends, it is my repo about sql injections.  Call me in Telegram: @anakein",
+    "forks_count": 17,
+    "html_url": "https://github.com/an4kein/_sql_injections",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "_sql_injections",
+    "repo_owner": "an4kein",
+    "repotime": "2021-02-16, 22:12:12",
+    "stargazers_count": 44,
+    "watchers_count": 44
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-02-16",
+    "date_updated": "2021-02-17",
+    "description": "-?        Print this help message and exit    -alertnotify=&amp;lt;cmd&amp;gt;        Execute command when a relevant alert is received or we see a really        long fork (%s in cmd is replaced by message)    -assumevalid=&amp;lt;hex&amp;gt;        If this block is in the chain assume that it and its ancestors are valid        and potentially skip their script verification (0 to verify all,        default:        0000000000000000000b9d2ec5a352ecba0592946514a92f14319dc2b367fc72,        testnet:        000000000000006433d1efec504c53ca332b64963c425395515b01977bd7b3b0,        signet:        0000002a1de0f46379358c1fd09906f7ac59adf3712323ed90eb59e4c183c020)    -blockfilterindex=&amp;lt;type&amp;gt;        Maintain an index of compact filters by block (default: 0, values:        basic). If &amp;lt;type&amp;gt; is not supplied or if &amp;lt;type&amp;gt; = 1, indexes for        all known types are enabled.    -blocknotify=&amp;lt;cmd&amp;gt;        Execute command when the best block changes (%s in cmd is replaced by        block hash)    -...",
+    "forks_count": 7,
+    "html_url": "https://github.com/heru299/script-copy",
+    "keywords": [
+        "empty string password",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "script-copy",
+    "repo_owner": "heru299",
+    "repotime": "2021-02-17, 06:38:02",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-01-26",
+    "date_updated": "2021-02-15",
+    "description": "Electron JS Browser To Find XSS Vulnerabilities Automatically",
+    "forks_count": 120,
+    "html_url": "https://github.com/RenwaX23/XSSTRON",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "XSSTRON",
+    "repo_owner": "RenwaX23",
+    "repotime": "2021-02-15, 23:07:57",
+    "stargazers_count": 695,
+    "watchers_count": 695
+}
+{
+    "commits_count": 31,
+    "date_started": "2012-08-07",
+    "date_updated": "2021-02-14",
+    "description": "Automatic generate dll wrapper for code injection.",
+    "forks_count": 56,
+    "html_url": "https://github.com/mavenlin/wrap_dll",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "wrap_dll",
+    "repo_owner": "mavenlin",
+    "repotime": "2021-02-14, 05:44:54",
+    "stargazers_count": 166,
+    "watchers_count": 166
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-05-23",
+    "date_updated": "2021-02-13",
+    "description": "the working exploit for phpinfo-Local-File-Inclusion founded by insomniasec",
+    "forks_count": 0,
+    "html_url": "https://github.com/diegoalbuquerque/phpinfo-Local-File-Inclusion",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": null,
+    "repo_name": "phpinfo-Local-File-Inclusion",
+    "repo_owner": "diegoalbuquerque",
+    "repotime": "2021-02-13, 22:11:06",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-13",
+    "date_updated": "2021-02-13",
+    "description": "commands git clone https://github.com/Screetsec/Brutal.git cd Brutal chmod +x Brutal.sh sudo ./Brutal.sh or sudo su ./Brutal.sh about : Now Teensy can be use for penetration Teensy like a rubber ducky , why im choose teensy ? because the price very cheap for me . t’s extremely useful for executing scripts on a target machine without the need for human-to-keyboard interaction ( HID -ATTACK ) .When you insert the device, it will be detected as a keyboard, and using the microprocessor and onboard flash memory storage, you can send a very fast set of keystrokes to the target’s machine and completely compromise it, regardless of autorun. I’ve used it in my security testing to run recon or enumeration scripts, execute reverse shells, exploit local DLL hijack/privilege escalation vulnerabilities, and get all password . Now im develop new tools the name is Brutal Brutal Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interf...",
+    "forks_count": 0,
+    "html_url": "https://github.com/anthophilee/Brutal",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Brutal",
+    "repo_owner": "anthophilee",
+    "repotime": "2021-02-13, 12:13:21",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 10,
+    "date_started": "2021-02-10",
+    "date_updated": "2021-02-12",
+    "description": "Powerfull Automatic Sql injection Tools Pack",
+    "forks_count": 44,
+    "html_url": "https://github.com/Agressiv1njector/psqli-pro",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Shell",
+    "repo_name": "psqli-pro",
+    "repo_owner": "Agressiv1njector",
+    "repotime": "2021-02-12, 12:59:04",
+    "stargazers_count": 111,
+    "watchers_count": 111
+}
+{
+    "commits_count": 28,
+    "date_started": "2019-02-27",
+    "date_updated": "2021-02-11",
+    "description": "Smart ssrf scanner using different methods like parameter brute forcing in post and get...",
+    "forks_count": 71,
+    "html_url": "https://github.com/Damian89/extended-ssrf-search",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "extended-ssrf-search",
+    "repo_owner": "Damian89",
+    "repotime": "2021-02-11, 21:12:37",
+    "stargazers_count": 275,
+    "watchers_count": 275
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-11",
+    "date_updated": "2021-02-10",
+    "description": "A Burp extension adding a passive scan check to flag parameters whose name or value may indicate a possible insertion point for SSRF or LFI.",
+    "forks_count": 23,
+    "html_url": "https://github.com/allyomalley/BurpParamFlagger",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Python",
+    "repo_name": "BurpParamFlagger",
+    "repo_owner": "allyomalley",
+    "repotime": "2021-02-10, 18:00:14",
+    "stargazers_count": 130,
+    "watchers_count": 130
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-02-10",
+    "date_updated": "2021-02-10",
+    "description": "maptool unauthenticated rce exploit &amp;lt;1.8.0 beta2b",
+    "forks_count": 0,
+    "html_url": "https://github.com/sum-catnip/maptool-rce",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "maptool-rce",
+    "repo_owner": "sum-catnip",
+    "repotime": "2021-02-10, 18:16:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-02-09",
+    "date_updated": "2021-02-10",
+    "description": "An SSRF detector tool written in golang. I have fixed some errors and added some more payloads to it. But the tool credits go to z0idsec.",
+    "forks_count": 10,
+    "html_url": "https://github.com/R0X4R/ssrf-tool",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "ssrf-tool",
+    "repo_owner": "R0X4R",
+    "repotime": "2021-02-10, 09:14:01",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-01-12",
+    "date_updated": "2021-02-09",
+    "description": "Telegram session hijacker with SFTP.",
+    "forks_count": 0,
+    "html_url": "https://github.com/noarchwastaken/TGpyrate",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "TGpyrate",
+    "repo_owner": "noarchwastaken",
+    "repotime": "2021-02-09, 09:21:32",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-02-09",
+    "date_updated": "2021-02-09",
+    "description": "Proof Of Concept of RCE exploit in EJS web app",
+    "forks_count": 2,
+    "html_url": "https://github.com/mahsunon/Web-App-RCE-POC",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "Web-App-RCE-POC",
+    "repo_owner": "mahsunon",
+    "repotime": "2021-02-09, 11:24:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-12-24",
+    "date_updated": "2021-02-09",
+    "description": "POC for GitLabs Authenticated RCE in version 11.4.7 community edition",
+    "forks_count": 13,
+    "html_url": "https://github.com/ctrlsam/GitLab-11.4.7-RCE",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "GitLab-11.4.7-RCE",
+    "repo_owner": "ctrlsam",
+    "repotime": "2021-02-09, 10:35:21",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 53,
+    "date_started": "2018-06-22",
+    "date_updated": "2021-02-07",
+    "description": "pen testing scripts",
+    "forks_count": 9,
+    "html_url": "https://github.com/Ch0pin/ToolBox",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PowerShell",
+    "repo_name": "ToolBox",
+    "repo_owner": "Ch0pin",
+    "repotime": "2021-02-07, 08:19:39",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-01-02",
+    "date_updated": "2021-02-06",
+    "description": "The processes in continuity of image and sounds are partially interrupted, disrupted in more or less expected ways. Driving triggers signal lack, require input; I do my best to appease the waves. Solitude brings about conversation with the self and thus with the other, the limit that spills about rendering difference precariously pinned in place. A conversation with the Other within the self or that is non Other than the self or that the self dissimulates its own hollowness. Nostalgia projects a real reality, other than, that never was in fact. It then projects a potentiality hidden in impossibility. in that of a past that has flown. It isn't the frail child but the formless life that I now fancy myself with the tools to furnish. However, the possibility is blocked by present circumstance. A process of situating ourselves in the best possible reality, one of invalidation of possibility, runs through this nostalgia at a supra individual level. If identities like the coupling of man and ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/marcosparajua/I-do-my-best-to-appease-the-waves",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "HTML",
+    "repo_name": "I-do-my-best-to-appease-the-waves",
+    "repo_owner": "marcosparajua",
+    "repotime": "2021-02-06, 21:18:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 19,
+    "date_started": "2021-02-03",
+    "date_updated": "2021-02-05",
+    "description": "Escalate as Administrator bypassing the UAC affecting administrator accounts only.",
+    "forks_count": 62,
+    "html_url": "https://github.com/0xyg3n/UAC_Exploit",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C#",
+    "repo_name": "UAC_Exploit",
+    "repo_owner": "0xyg3n",
+    "repotime": "2021-02-05, 22:23:01",
+    "stargazers_count": 252,
+    "watchers_count": 252
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-04",
+    "date_updated": "2021-02-05",
+    "description": "This is my first AIML based project under the guidance of Dr. Darshan Ingle live project session conducted by LetsUgrade",
+    "forks_count": 0,
+    "html_url": "https://github.com/iamrahul-9/AIML_Breast_Cancer_Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "AIML_Breast_Cancer_Prediction",
+    "repo_owner": "iamrahul-9",
+    "repotime": "2021-02-05, 03:11:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 37,
+    "date_started": "2020-12-21",
+    "date_updated": "2021-02-04",
+    "description": "Workshop given at Hack in Paris 2019",
+    "forks_count": 38,
+    "html_url": "https://github.com/GoSecure/xxe-workshop",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "JavaScript",
+    "repo_name": "xxe-workshop",
+    "repo_owner": "GoSecure",
+    "repotime": "2021-02-04, 15:10:48",
+    "stargazers_count": 121,
+    "watchers_count": 121
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-01-31",
+    "date_updated": "2021-02-02",
+    "description": "A great setup for SQL Injection, xss and xxe (plus a few more) on Kali",
+    "forks_count": 2,
+    "html_url": "https://github.com/AssassinUKG/Sqli_Best_Setup",
+    "keywords": [
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "Sqli_Best_Setup",
+    "repo_owner": "AssassinUKG",
+    "repotime": "2021-02-02, 18:48:13",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-01-04",
+    "date_updated": "2021-02-02",
+    "description": "The file contain a list of Server side Request Forgery (SSRF) payloads to connect with internal IP of the server. The File is made from the PortSwigger Practice Lab.",
+    "forks_count": 0,
+    "html_url": "https://github.com/princep4/SSRF_cheatsheet",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": null,
+    "repo_name": "SSRF_cheatsheet",
+    "repo_owner": "princep4",
+    "repotime": "2021-02-02, 10:37:12",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 32,
+    "date_started": "2021-01-24",
+    "date_updated": "2021-02-02",
+    "description": "The goal of the challenge is to predict the likelihood of a user skipping any given song during a listening session.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nikhildhabu/Spotify-Music-Skips-Action-Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Spotify-Music-Skips-Action-Prediction",
+    "repo_owner": "Nikhildhabu",
+    "repotime": "2021-02-02, 12:22:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-01",
+    "date_updated": "2021-02-01",
+    "description": "0day_spain Exploit",
+    "forks_count": 0,
+    "html_url": "https://github.com/RpcSecurity/0day_spain",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "0day_spain",
+    "repo_owner": "RpcSecurity",
+    "repotime": "2021-02-01, 20:24:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-01",
+    "date_updated": "2021-02-01",
+    "description": "0day_nvr Exploit",
+    "forks_count": 0,
+    "html_url": "https://github.com/RpcSecurity/0day_nvr",
+    "keywords": [
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "0day_nvr",
+    "repo_owner": "RpcSecurity",
+    "repotime": "2021-02-01, 20:22:54",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 0,
+    "date_started": "2018-01-30",
+    "date_updated": "2021-02-01",
+    "description": "[17:11:39] [main/INFO] Prepared background image in bgskin folder. [17:11:41] [AWT-EventQueue-0/ERROR] Faield to query java java.io.IOException: Cannot run program &amp;quot;cmd&amp;quot;: CreateProcess error=2, 系统找不到指定的文件。      at java.lang.ProcessBuilder.start(Unknown Source)      at org.jackhuang.hellominecraft.util.system.IOUtils.readProcessByInputStream(IOUtils.java:301)      at org.jackhuang.hellominecraft.util.system.Java.queryRegSubFolders(Java.java:144)      at org.jackhuang.hellominecraft.util.system.Java.queryJava(Java.java:129)      at org.jackhuang.hellominecraft.util.system.Java.queryAllJavaHomeInWindowsByReg(Java.java:120)      at org.jackhuang.hellominecraft.util.system.Java.&amp;lt;clinit&amp;gt;(Java.java:41)      at org.jackhuang.hellominecraft.launcher.ui.GameSettingsPanel.initGui(GameSettingsPanel.java:106)      at org.jackhuang.hellominecraft.launcher.ui.GameSettingsPanel.onCreate(GameSettingsPanel.java:1298)      at org.jackhuang.hellominecraft.launcher.ui.MainFrame.selectTab(Ma...",
+    "forks_count": 0,
+    "html_url": "https://github.com/13894865204/-",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "-",
+    "repo_owner": "13894865204",
+    "repotime": "2021-02-01, 10:07:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-01-31",
+    "date_updated": "2021-02-01",
+    "description": "Code for WWW-2021 full paper: Long Short-Term Session Search: Joint Personalized Reranking and Next Query Prediction",
+    "forks_count": 4,
+    "html_url": "https://github.com/QiannanCheng/LostNet",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Python",
+    "repo_name": "LostNet",
+    "repo_owner": "QiannanCheng",
+    "repotime": "2021-02-01, 10:56:36",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-03-01",
+    "date_updated": "2021-02-28",
+    "description": "First we need to find some information about the system. So we are going to start by opening up nmap to be able to scan  So after running that you should of gotten the number of ports and that should be answer to the second thing needed. This is used so We can find out how open it is and we can level it by how vulnerable it is. In this one it is MS17-01o this vulnerability is marked as arisk level of critical  Now we know how vulnerable it is time to exploit it. For this step we are going to run Metasploit to open the terminal usein the search msfconsole in the terminal and search (MS17–010) You should know  which exploit to use at this point so, let’s run it. Type show options to be able to know which parameter is needed to run as a prerequisite and be able torun the exploit. Once the exploit and the parameters are set, run the exploit  After running the exploit you will see that you have gained the shell of the target machine You did it!! You now need to escalate our privileges in or...",
+    "forks_count": 0,
+    "html_url": "https://github.com/deezzhandzz/Blue",
+    "keywords": [
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploit",
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Blue",
+    "repo_owner": "deezzhandzz",
+    "repotime": "2021-02-28, 20:30:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-02-28",
+    "date_updated": "2021-02-28",
+    "description": "FOOD ORDERING SYSTEM IN PHP WITH SOURCE CODE       Project: Food Ordering System In PHP With Source Code The Food Ordering System In PHP is a simple project developed using PHP, JavaScript, and CSS. The project is developed for helping the restaurants by making the digital order taking system. The project contains an admin and user side. All the management like editing site contents, adding staff, updating food items, and checking order status can be managed from the admin side. The admin has an important role in the management of this system.  For the user section, the users are the staff members of the restaurant. Every staff has their account and they can log in to do the task. The staff as a waiter can go to take order with the phone having this app instead of a pen and paper. The food you select comes with the cost as well. And the staff as a chef can smoothly work in the orders without having the waiter to go to them. This project makes a convenient way for staff to manage orders...",
+    "forks_count": 1,
+    "html_url": "https://github.com/richtope66/food-ordering-system-in-php_mysqli-with-full-source-code-",
+    "keywords": [
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "food-ordering-system-in-php_mysqli-with-full-source-code-",
+    "repo_owner": "richtope66",
+    "repotime": "2021-02-28, 19:02:28",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-02-28",
+    "date_updated": "2021-02-28",
+    "description": "OpenNetAdmin 18.1.1 is vulnerable to Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kr0ff/OpenNetAdmin-18.1.1-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "OpenNetAdmin-18.1.1-Remote-Code-Execution",
+    "repo_owner": "Kr0ff",
+    "repotime": "2021-02-28, 03:08:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2021-01-29",
+    "date_updated": "2021-02-27",
+    "description": "The goal of the challenge is to predict the likelihood of a user skipping any given song during a listening session.",
+    "forks_count": 1,
+    "html_url": "https://github.com/sahil-ansari-15/Spotify-Music-Skips-Action-Prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Spotify-Music-Skips-Action-Prediction",
+    "repo_owner": "sahil-ansari-15",
+    "repotime": "2021-02-27, 03:21:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-11-30",
+    "date_updated": "2021-02-26",
+    "description": "This module massively scan and exploit a path traversal vulnerability in the FortiOS SSL VPN web portal may allow an unauthenticated attacker to download FortiOS system files through specially crafted HTTP resource requests (CVE-2018-13379).",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zeop-CyberSec/fortios_vpnssl_traversal_leak",
+    "keywords": [
+        "unauthenticated attacker",
+        "path traversal vulnerability",
+        "path traversal attack"
+    ],
+    "language": "Ruby",
+    "repo_name": "fortios_vpnssl_traversal_leak",
+    "repo_owner": "Zeop-CyberSec",
+    "repotime": "2021-02-26, 17:40:06",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-25",
+    "date_updated": "2021-02-25",
+    "description": "Create tar/zip archives that can exploit directory traversal vulnerabilities",
+    "forks_count": 1,
+    "html_url": "https://github.com/patrickhener/go-evilarc",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "go-evilarc",
+    "repo_owner": "patrickhener",
+    "repotime": "2021-02-25, 11:29:44",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-08-21",
+    "date_updated": "2021-02-24",
+    "description": "A remote code execution vulnerability exists in the HTTP protocol stack (HTTP.sys) that is caused when HTTP.sys improperly parses specially crafted HTTP requests. An attacker who successfully exploited this vulnerability could execute arbitrary code in the context of the System account.  To exploit this vulnerability, an attacker would have to send a specially crafted HTTP request to the affected system. The update addresses the vulnerability by modifying how the Windows HTTP stack handles requests.",
+    "forks_count": 0,
+    "html_url": "https://github.com/jc-base4sec/MS15-034",
+    "keywords": [
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution",
+        "Windows remote code execution exploit",
+        "Windows remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "MS15-034",
+    "repo_owner": "jc-base4sec",
+    "repotime": "2021-02-24, 13:28:39",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2021-02-23",
+    "date_updated": "2021-02-24",
+    "description": "Robot researchers need the simulator to test their functions and algorithm before implementing into the real robot. Most of the time, a customizable Robot simulator is not available to the researcher. Some good options are available in the market, but their price is too high, not affordable. After much research, we found a better solution around all aspects, fully customizable and entirely free of cost. There are two sides. One is a 3D view of robotics ARM, and another is a joint controller of robotics ARM. For 3D simulation, CoppeliaSim is the best option. It is free of cost and Open Source. The C&amp;&#35;35; language is becoming famous for its managed code structure and ease of implementation. Our Robot controller is in the C&amp;&#35;35; language. For control and debug we use Microsoft visual studio 2019. It is an unparallel IDE for the programmer. In the CoppeliaSim little bit, Lua script is in associated functions. Communication Between the simulator and our application, we will use Remote API F...",
+    "forks_count": 1,
+    "html_url": "https://github.com/sudipchakraborty/Forward-Kinematics-Demonstration-Using-CoppeliaSim-and-C-",
+    "keywords": [
+        "Microsoft use after free"
+    ],
+    "language": null,
+    "repo_name": "Forward-Kinematics-Demonstration-Using-CoppeliaSim-and-C-",
+    "repo_owner": "sudipchakraborty",
+    "repotime": "2021-02-24, 17:01:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2018-06-28",
+    "date_updated": "2021-02-24",
+    "description": "SQL Injection Payload List",
+    "forks_count": 56,
+    "html_url": "https://github.com/omurugur/SQL_Injection_Payload",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "SQL_Injection_Payload",
+    "repo_owner": "omurugur",
+    "repotime": "2021-02-24, 00:49:49",
+    "stargazers_count": 109,
+    "watchers_count": 109
+}
+{
+    "commits_count": 9,
+    "date_started": "2019-05-29",
+    "date_updated": "2021-02-24",
+    "description": "XML External Entity Vulnerability Payload List",
+    "forks_count": 2,
+    "html_url": "https://github.com/omurugur/XXE_Payload_List",
+    "keywords": [
+        "xml external entity",
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "XXE_Payload_List",
+    "repo_owner": "omurugur",
+    "repotime": "2021-02-24, 00:48:25",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 21,
+    "date_started": "2019-05-29",
+    "date_updated": "2021-02-24",
+    "description": "Path Traversal Vulnerability Payload List",
+    "forks_count": 26,
+    "html_url": "https://github.com/omurugur/Path_Travelsal_Payload_List",
+    "keywords": [
+        "path traversal vulnerability",
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "Path_Travelsal_Payload_List",
+    "repo_owner": "omurugur",
+    "repotime": "2021-02-24, 00:48:18",
+    "stargazers_count": 64,
+    "watchers_count": 64
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-23",
+    "date_updated": "2021-02-23",
+    "description": "This repo contains a proof-of-concept for 📱🚀👑⚡, a deserialization vuln for local escalation of privilege to system_server in Android 10. This proof-of-concept only activates a privileged intent.",
+    "forks_count": 1,
+    "html_url": "https://github.com/0x742/CVE-2020-0082-ExternalVibration",
+    "keywords": [
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Java",
+    "repo_name": "CVE-2020-0082-ExternalVibration",
+    "repo_owner": "0x742",
+    "repotime": "2021-02-23, 16:02:06",
+    "stargazers_count": 24,
+    "watchers_count": 24
+}
+{
+    "commits_count": 12,
+    "date_started": "2021-02-21",
+    "date_updated": "2021-02-23",
+    "description": "A short script to automate the process of RDP session hijacking.",
+    "forks_count": 1,
+    "html_url": "https://github.com/pyrrh1c/Start-RdpSessionTakeover",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Start-RdpSessionTakeover",
+    "repo_owner": "pyrrh1c",
+    "repotime": "2021-02-23, 08:30:49",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 34,
+    "date_started": "2021-01-12",
+    "date_updated": "2021-02-22",
+    "description": "SSRFuzz is a tool to find Server Side Request Forgery vulnerabilities, with CRLF chaining capabilities",
+    "forks_count": 20,
+    "html_url": "https://github.com/ryandamour/ssrfuzz",
+    "keywords": [
+        "server side request forgery",
+        "ssrf"
+    ],
+    "language": "Go",
+    "repo_name": "ssrfuzz",
+    "repo_owner": "ryandamour",
+    "repotime": "2021-02-22, 08:54:42",
+    "stargazers_count": 182,
+    "watchers_count": 182
+}
+{
+    "commits_count": 3,
+    "date_started": "2021-02-22",
+    "date_updated": "2021-02-22",
+    "description": "Hello! This module is intended as a learning method for Introduction to Machine Learning Session 2 by HMTE UP. This module discusses about Introduction to Machine Learning: Loan Prediction using Random Forest Classifier",
+    "forks_count": 0,
+    "html_url": "https://github.com/anggitaaps/Session2_IML",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Session2_IML",
+    "repo_owner": "anggitaaps",
+    "repotime": "2021-02-22, 21:20:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-02-21",
+    "date_updated": "2021-02-22",
+    "description": "__ Introduction: Clickthrough rate (CTR) __                    is a ratio showing how often people who see your ad end up clicking it. Clickthrough rate (CTR) can be used to gauge how well your keywords and ads are performing.           - CTR is the number of clicks that your ad receives divided by the number of times your ad is shown: clicks ÷ impressions = CTR. For example, if you had 5 clicks and 100 impressions, then your CTR would be 5%.                   - Each of your ads and keywords have their own CTRs that you can see listed in your account.                               - A high CTR is a good indication that users find your ads helpful and relevant. CTR also contributes to your keyword's expected CTR, which is a component of Ad Rank. Note that a good CTR is relative to what you're advertising and on which networks.                                                    &amp;gt; Credits: Google (https://support.google.com/adwords/answer/2615875?hl=en)                     Search adver...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sahil-Chavan/AdClickPrediction-CaseStudy",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": null,
+    "repo_name": "AdClickPrediction-CaseStudy",
+    "repo_owner": "Sahil-Chavan",
+    "repotime": "2021-02-22, 00:29:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 54,
+    "date_started": "2019-07-22",
+    "date_updated": "2021-02-20",
+    "description": "Dios sql injection",
+    "forks_count": 10,
+    "html_url": "https://github.com/Rizsyad/diosqli",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "diosqli",
+    "repo_owner": "Rizsyad",
+    "repotime": "2021-02-20, 19:56:53",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 4,
+    "date_started": "2015-09-11",
+    "date_updated": "2021-02-20",
+    "description": "CSCI Template made for iOSGods.com users!",
+    "forks_count": 4,
+    "html_url": "https://github.com/iOSGods/CS-Code-Injection-Template",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Objective-C",
+    "repo_name": "CS-Code-Injection-Template",
+    "repo_owner": "iOSGods",
+    "repotime": "2021-02-20, 04:38:07",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 19,
+    "date_started": "2020-12-31",
+    "date_updated": "2021-02-19",
+    "description": "Reflective DLL that hooks the creation of the UAC prompt popped by explorer.exe for privilege escalation. ",
+    "forks_count": 3,
+    "html_url": "https://github.com/TheKevinWang/UACHooker",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "C",
+    "repo_name": "UACHooker",
+    "repo_owner": "TheKevinWang",
+    "repotime": "2021-02-19, 22:39:25",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 1,
+    "date_started": "2021-02-18",
+    "date_updated": "2021-02-18",
+    "description": "Ecommerce web site without authentication. for register user and with browser cookies for unauthenticated user",
+    "forks_count": 0,
+    "html_url": "https://github.com/ramziddinabd/Ecommerce-web-site",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "Ecommerce-web-site",
+    "repo_owner": "ramziddinabd",
+    "repotime": "2021-02-18, 13:24:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2021-02-13",
+    "date_updated": "2021-02-17",
+    "description": "OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit",
+    "forks_count": 2,
+    "html_url": "https://github.com/QTranspose/CVE-2020-7247-exploit",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2020-7247-exploit",
+    "repo_owner": "QTranspose",
+    "repotime": "2021-02-17, 20:23:57",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 60,
+    "date_started": "2019-10-25",
+    "date_updated": "2021-02-16",
+    "description": "Hello my friends, it is my repo about sql injections.  Call me in Telegram: @anakein",
+    "forks_count": 17,
+    "html_url": "https://github.com/an4kein/_sql_injections",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "_sql_injections",
+    "repo_owner": "an4kein",
+    "repotime": "2021-02-16, 22:12:12",
+    "stargazers_count": 44,
+    "watchers_count": 44
+}
+{
+    "commits_count": 2,
+    "date_started": "2021-02-16",
+    "date_updated": "2021-02-17",
+    "description": "-?        Print this help message and exit    -alertnotify=&amp;lt;cmd&amp;gt;        Execute command when a relevant alert is received or we see a really        long fork (%s in cmd is replaced by message)    -assumevalid=&amp;lt;hex&amp;gt;        If this block is in the chain assume that it and its ancestors are valid        and potentially skip their script verification (0 to verify all,        default:        0000000000000000000b9d2ec5a352ecba0592946514a92f14319dc2b367fc72,        testnet:        000000000000006433d1efec504c53ca332b64963c425395515b01977bd7b3b0,        signet:        0000002a1de0f46379358c1fd09906f7ac59adf3712323ed90eb59e4c183c020)    -blockfilterindex=&amp;lt;type&amp;gt;        Maintain an index of compact filters by block (default: 0, values:        basic). If &amp;lt;type&amp;gt; is not supplied or if &amp;lt;type&amp;gt; = 1, indexes for        all known types are enabled.    -blocknotify=&amp;lt;cmd&amp;gt;        Execute command when the best block changes (%s in cmd is replaced by        block hash)    -...",
+    "forks_count": 7,
+    "html_url": "https://github.com/heru299/script-copy",
+    "keywords": [
+        "empty string password",
+        "Windows use after free"
+    ],
+    "language": null,
+    "repo_name": "script-copy",
+    "repo_owner": "heru299",
+    "repotime": "2021-02-17, 06:38:02",
+    "stargazers_count": 17,
+    "watchers_count": 17
+}
+{
+    "commits_count": 15,
+    "date_started": "2021-01-26",
+    "date_updated": "2021-02-15",
+    "description": "Electron JS Browser To Find XSS Vulnerabilities Automatically",
+    "forks_count": 120,
+    "html_url": "https://github.com/RenwaX23/XSSTRON",
+    "keywords": [
+        "xss"
+    ],
+    "language": "JavaScript",
+    "repo_name": "XSSTRON",
+    "repo_owner": "RenwaX23",
+    "repotime": "2021-02-15, 23:07:57",
+    "stargazers_count": 695,
+    "watchers_count": 695
 }
 {
     "commits_count": 31,

@@ -575,3 +575,1157 @@
     "stargazers_count": 0,
     "watchers_count": 0
 }
+{
+    "commits_count": 10,
+    "date_started": "2020-10-16",
+    "date_updated": "2020-10-31",
+    "description": "JXA script to allow programmatic persistence via macOS Calendar.app alerts.",
+    "forks_count": 5,
+    "html_url": "https://github.com/FSecureLABS/CalendarPersist",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CalendarPersist",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2020-10-31, 14:29:35",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-10-30",
+    "date_updated": "2020-10-30",
+    "description": "Model to predict if a user will buy a product, added in cart, in a  session based on user clickstream",
+    "forks_count": 0,
+    "html_url": "https://github.com/amit-singh-rathore/customer-churn-prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "customer-churn-prediction",
+    "repo_owner": "amit-singh-rathore",
+    "repotime": "2020-10-30, 18:09:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-10-30",
+    "date_updated": "2020-10-30",
+    "description": "CuteNews Avatar  2.1.2 Remote Code Execution Vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/khuntor/CVE-2019-11447-EXP",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "CVE-2019-11447-EXP",
+    "repo_owner": "khuntor",
+    "repotime": "2020-10-30, 17:03:29",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-10-29",
+    "date_updated": "2020-10-29",
+    "description": "<no description>",
+    "forks_count": 6,
+    "html_url": "https://github.com/iustin24/SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "SSRF",
+    "repo_owner": "iustin24",
+    "repotime": "2020-10-29, 23:53:30",
+    "stargazers_count": 34,
+    "watchers_count": 34
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-10-28",
+    "date_updated": "2020-10-28",
+    "description": "Part I - WeatherPy In this example, you’ll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you’ll be utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.  Your first objective is to build a series of scatter plots to showcase the following relationships:  Temperature (F) vs. Latitude Humidity (%) vs. Latitude Cloudiness (%) vs. Latitude Wind Speed (mph) vs. Latitude After each plot add a sentence or too explaining what the code is and analyzing.  Your next objective is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):  Northern Hemisphere - Temperature (F) vs. Latitude Southern Hemisphere - Temperature (F) vs. Latitude Northern Hemisphere - Humi...",
+    "forks_count": 3,
+    "html_url": "https://github.com/Kwamb0/API_homework",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "API_homework",
+    "repo_owner": "Kwamb0",
+    "repotime": "2020-10-28, 15:12:50",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 85,
+    "date_started": "2015-11-18",
+    "date_updated": "2020-10-28",
+    "description": "UAF IceBridge Alaska Altimetry analysis scripts",
+    "forks_count": 1,
+    "html_url": "https://github.com/aaarendt/Alaska-altimetry",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Alaska-altimetry",
+    "repo_owner": "aaarendt",
+    "repotime": "2020-10-28, 12:03:17",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-10-28",
+    "date_updated": "2020-10-28",
+    "description": "Windows 7 LPE",
+    "forks_count": 3,
+    "html_url": "https://github.com/Graham382/CVE-2020-1054",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2020-1054",
+    "repo_owner": "Graham382",
+    "repotime": "2020-10-28, 09:57:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-10-27",
+    "date_updated": "2020-10-27",
+    "description": "windows 10 local privilege escalation",
+    "forks_count": 5,
+    "html_url": "https://github.com/kenemar/windows-lpe",
+    "keywords": [
+        "Win lpe",
+        "Windows lpe"
+    ],
+    "language": "HTML",
+    "repo_name": "windows-lpe",
+    "repo_owner": "kenemar",
+    "repotime": "2020-10-27, 20:28:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-10-07",
+    "date_updated": "2020-10-26",
+    "description": "CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule",
+    "forks_count": 31,
+    "html_url": "https://github.com/advanced-threat-research/CVE-2020-16898",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "Microsoft rce",
+        "Windows rce",
+        "Windows rce vulnerability",
+        "rce vulnerability"
+    ],
+    "language": "Lua",
+    "repo_name": "CVE-2020-16898",
+    "repo_owner": "advanced-threat-research",
+    "repotime": "2020-10-26, 05:15:31",
+    "stargazers_count": 209,
+    "watchers_count": 209
+}
+{
+    "commits_count": 34,
+    "date_started": "2020-10-24",
+    "date_updated": "2020-10-25",
+    "description": "A fuzzer made in golang for finding issues like xss, lfi, rce, ssti...that detects issues using change in content length and verify it using signatures",
+    "forks_count": 21,
+    "html_url": "https://github.com/Shivangx01b/BountyIt",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Go",
+    "repo_name": "BountyIt",
+    "repo_owner": "Shivangx01b",
+    "repotime": "2020-10-25, 00:42:59",
+    "stargazers_count": 59,
+    "watchers_count": 59
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-10-22",
+    "date_updated": "2020-10-22",
+    "description": "CVE-2018-19859 Remote Code Execution Proof of Concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/WhiteOakSecurity/CVE-2018-19859",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-19859",
+    "repo_owner": "WhiteOakSecurity",
+    "repotime": "2020-10-22, 13:48:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 27,
+    "date_started": "2020-04-21",
+    "date_updated": "2020-10-21",
+    "description": "zipdu is a webservice implementation vulnerable to zip bombs and directory traversals. Written in multiple different languages ",
+    "forks_count": 3,
+    "html_url": "https://github.com/ShiftLeftSecurity/zipdu",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "zipdu",
+    "repo_owner": "ShiftLeftSecurity",
+    "repotime": "2020-10-21, 20:00:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-10-15",
+    "date_updated": "2020-10-21",
+    "description": "PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility)",
+    "forks_count": 35,
+    "html_url": "https://github.com/0neb1n/CVE-2020-16947",
+    "keywords": [
+        "Microsoft rce poc",
+        "Microsoft rce",
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-16947",
+    "repo_owner": "0neb1n",
+    "repotime": "2020-10-21, 05:09:57",
+    "stargazers_count": 124,
+    "watchers_count": 124
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-10-23",
+    "date_updated": "2020-10-20",
+    "description": " Machine learning (ML) is a field that studies the algorithms that improve automatically through experience by extracting generalizable information from data.  Machine learning algorithms build a mathematical model based on sample data, known as &amp;quot;training data&amp;quot;, to make predictions or decisions without being explicitly programmed to do so.   The launch of quantum computing is giving rise to exciting research areas that seek to leverage the principles of quantum mechanics to increase machine learning or vice versa.  The field that uses the Quantum computer has machine learning tools is known as Quantum Machine Learning (QML). Where the goal is to improve classical machine learning algorithms by outsourcing complicated computations to a quantum computer or to optimize quantum algorithms using classical machine learning architectures, both fall within the scope of diversity of machine learning.  In this session, we will try to learn a bit more about the learner topic.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pifparfait/QML",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "QML",
+    "repo_owner": "pifparfait",
+    "repotime": "2020-10-20, 14:12:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-08-29",
+    "date_updated": "2020-10-20",
+    "description": "Java 开发的POC集合工具,集合了目前最常使用的POC以及2020护网公开的0day",
+    "forks_count": 0,
+    "html_url": "https://github.com/52kami/JavaPocListMuster",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "JavaPocListMuster",
+    "repo_owner": "52kami",
+    "repotime": "2020-10-20, 22:20:32",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-10-19",
+    "date_updated": "2020-10-19",
+    "description": "1. Takes a function of x from the user, e.g., 5*x^3 + 2*x 2. Takes min and max values of x from the user 3. Plots the function 4. The following operators must be supported: + - / * ^ 5. Do not use symbolic libraries (you have to parse the input string) 6. Write your GUI in code. Do not use visual GUI designers. 7. The GUI should be simple and beautiful (well organized) 8. Apply appropriate input validation to the user input 9. Print messages to the user to explain any wrong input he entered 10. You must use Pyside2 and Matplotlib in your application 11. The Matplotlib figure must be embedded in the Pyside2 application",
+    "forks_count": 0,
+    "html_url": "https://github.com/mohamedosama37/Function-Plotter",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "Python",
+    "repo_name": "Function-Plotter",
+    "repo_owner": "mohamedosama37",
+    "repotime": "2020-10-19, 15:31:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-10-12",
+    "date_updated": "2020-10-19",
+    "description": "CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule",
+    "forks_count": 9,
+    "html_url": "https://github.com/advanced-threat-research/CVE-2020-16899",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "Windows rce vulnerability",
+        "Windows rce",
+        "rce vulnerability",
+        "Microsoft rce"
+    ],
+    "language": "Lua",
+    "repo_name": "CVE-2020-16899",
+    "repo_owner": "advanced-threat-research",
+    "repotime": "2020-10-19, 08:58:44",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-10-18",
+    "date_updated": "2020-10-18",
+    "description": "Small memory leak PoC that is happening in IopGetDeviceInterfaces",
+    "forks_count": 8,
+    "html_url": "https://github.com/SamuelTulach/GetDeviceInterfacesMemoryLeak",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "C++",
+    "repo_name": "GetDeviceInterfacesMemoryLeak",
+    "repo_owner": "SamuelTulach",
+    "repotime": "2020-10-18, 23:02:26",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 25,
+    "date_started": "2020-09-20",
+    "date_updated": "2020-10-17",
+    "description": "An open source command line interface link checker that will look for dead links.  Made for DPS909 for release 0.1",
+    "forks_count": 4,
+    "html_url": "https://github.com/Supercraft888/lFinder",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "JavaScript",
+    "repo_name": "lFinder",
+    "repo_owner": "Supercraft888",
+    "repotime": "2020-10-17, 22:05:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-10-07",
+    "date_updated": "2020-10-16",
+    "description": "New UAC bypass for Silent Cleanup for CobaltStrike",
+    "forks_count": 30,
+    "html_url": "https://github.com/EncodeGroup/UAC-SilentClean",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C#",
+    "repo_name": "UAC-SilentClean",
+    "repo_owner": "EncodeGroup",
+    "repotime": "2020-10-16, 21:16:16",
+    "stargazers_count": 192,
+    "watchers_count": 192
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-06-11",
+    "date_updated": "2020-10-16",
+    "description": "This is my exploit for a 0day vulnerability in the squirrel VM as part of CSCG2020",
+    "forks_count": 1,
+    "html_url": "https://github.com/A2nkF/SquirrelAsAServive",
+    "keywords": [
+        "0day vulnerability",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "SquirrelAsAServive",
+    "repo_owner": "A2nkF",
+    "repotime": "2020-10-16, 00:56:05",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-10-15",
+    "date_updated": "2020-10-15",
+    "description": "<no description>",
+    "forks_count": 3,
+    "html_url": "https://github.com/jdonsec/AllThingsXXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "AllThingsXXE",
+    "repo_owner": "jdonsec",
+    "repotime": "2020-10-15, 12:58:23",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-10-15",
+    "date_updated": "2020-10-15",
+    "description": "CVE-2019–15107 - Unauthenticated RCE Webmin &amp;lt;=1.920",
+    "forks_count": 0,
+    "html_url": "https://github.com/squid22/Webmin_CVE-2019-15107",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Webmin_CVE-2019-15107",
+    "repo_owner": "squid22",
+    "repotime": "2020-10-15, 11:10:22",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 40,
+    "date_started": "2019-08-10",
+    "date_updated": "2020-10-13",
+    "description": "Apache Solr Exploits  🌟",
+    "forks_count": 57,
+    "html_url": "https://github.com/Imanfeng/Apache-Solr-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": null,
+    "repo_name": "Apache-Solr-RCE",
+    "repo_owner": "Imanfeng",
+    "repotime": "2020-10-13, 19:45:16",
+    "stargazers_count": 338,
+    "watchers_count": 338
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-10-13",
+    "date_updated": "2020-10-13",
+    "description": "Problem Statement A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;quot;dock&amp;quot; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.   A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.    In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation du...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Shubha9937/Bike-Sharing-Demand",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Bike-Sharing-Demand",
+    "repo_owner": "Shubha9937",
+    "repotime": "2020-10-13, 16:03:59",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-10-12",
+    "date_updated": "2020-10-13",
+    "description": "A shot code to Bypass UAC in Windows.",
+    "forks_count": 10,
+    "html_url": "https://github.com/avi7611/UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "UAC-Bypass",
+    "repo_owner": "avi7611",
+    "repotime": "2020-10-13, 10:24:59",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-10-12",
+    "date_updated": "2020-10-12",
+    "description": "BlueBorne Exploits &amp;amp; Framework This repository contains a PoC code of various exploits for the BlueBorne vulnerabilities.  Under 'android' exploits for the Android RCE vulnerability (CVE-2017-0781), and the SDP Information leak vulnerability (CVE-2017-0785) can be found.  Under 'linux-bluez' exploits for the Linux-RCE vulnerability (CVE-2017-1000251) can be found (for Amazon Echo, and Samsung Gear S3).  Under 'l2cap_infra' a general testing framework to send and receive raw l2cap messages (using scapy) can be found.  Under 'nRF24_BDADDR_Sniffer' a tool to capture bluetooth mac addresses (BDADDR) over the air, using a nRF24L01 chip  For more details on BlueBorne, you may read the full technical white paper available here:  https://www.armis.com/blueborne/  In addition a several detailed blog posts on the exploitation of these vulnerability can be found here:  https://www.armis.com/blog/  ===============  Dependencies:",
+    "forks_count": 1,
+    "html_url": "https://github.com/CrackSoft900/Blue-Borne",
+    "keywords": [
+        "address leak vulnerability",
+        "address leak exploitation",
+        "address leak exploit",
+        "address leak poc"
+    ],
+    "language": "Python",
+    "repo_name": "Blue-Borne",
+    "repo_owner": "CrackSoft900",
+    "repotime": "2020-10-12, 12:52:45",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-09-27",
+    "date_updated": "2020-10-12",
+    "description": "Unrestricted File Uploads",
+    "forks_count": 0,
+    "html_url": "https://github.com/yashmahaja/Unrestricted-File-upload",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Unrestricted-File-upload",
+    "repo_owner": "yashmahaja",
+    "repotime": "2020-10-12, 01:36:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-10-05",
+    "date_updated": "2020-10-07",
+    "description": "This repo has a core LWC component that validates a customer identity and open up UX for file upload, importantly as an unauthenticated guest user. Typical use case in Loan Origination scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sriram-venkatraman/FileUpload",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "FileUpload",
+    "repo_owner": "sriram-venkatraman",
+    "repotime": "2020-10-07, 12:00:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 35,
+    "date_started": "2016-06-08",
+    "date_updated": "2020-10-06",
+    "description": "A mode-locked fiber laser simulator 锁模光纤激光器仿真",
+    "forks_count": 19,
+    "html_url": "https://github.com/SeveNOlogy7/SimMoLFil",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "MATLAB",
+    "repo_name": "SimMoLFil",
+    "repo_owner": "SeveNOlogy7",
+    "repotime": "2020-10-06, 15:58:19",
+    "stargazers_count": 59,
+    "watchers_count": 59
+}
+{
+    "commits_count": 7,
+    "date_started": "2018-10-06",
+    "date_updated": "2020-10-05",
+    "description": "Quick SQLMap Tamper Suggester ",
+    "forks_count": 268,
+    "html_url": "https://github.com/m4ll0k/Atlas",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "Atlas",
+    "repo_owner": "m4ll0k",
+    "repotime": "2020-10-05, 19:07:26",
+    "stargazers_count": 1370,
+    "watchers_count": 1370
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-10-02",
+    "date_updated": "2020-10-02",
+    "description": "owasp top ten tryhackme walkthrough notes containing theory XXE (XML external entity),system misconfiguration and lot more",
+    "forks_count": 0,
+    "html_url": "https://github.com/anurag708989/owasp_top_10_tryhackme_notes",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "owasp_top_10_tryhackme_notes",
+    "repo_owner": "anurag708989",
+    "repotime": "2020-10-02, 10:55:23",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-09-25",
+    "date_updated": "2020-10-01",
+    "description": "Java Spring based Server Side Request Forgery (SSRF) examples",
+    "forks_count": 0,
+    "html_url": "https://github.com/GeekMasher/ssrf-java",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Java",
+    "repo_name": "ssrf-java",
+    "repo_owner": "GeekMasher",
+    "repotime": "2020-10-01, 13:07:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2020-10-16",
+    "date_updated": "2020-10-31",
+    "description": "JXA script to allow programmatic persistence via macOS Calendar.app alerts.",
+    "forks_count": 5,
+    "html_url": "https://github.com/FSecureLABS/CalendarPersist",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CalendarPersist",
+    "repo_owner": "FSecureLABS",
+    "repotime": "2020-10-31, 14:29:35",
+    "stargazers_count": 43,
+    "watchers_count": 43
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-10-30",
+    "date_updated": "2020-10-30",
+    "description": "Model to predict if a user will buy a product, added in cart, in a  session based on user clickstream",
+    "forks_count": 0,
+    "html_url": "https://github.com/amit-singh-rathore/customer-churn-prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "customer-churn-prediction",
+    "repo_owner": "amit-singh-rathore",
+    "repotime": "2020-10-30, 18:09:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-10-30",
+    "date_updated": "2020-10-30",
+    "description": "CuteNews Avatar  2.1.2 Remote Code Execution Vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/khuntor/CVE-2019-11447-EXP",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "PHP",
+    "repo_name": "CVE-2019-11447-EXP",
+    "repo_owner": "khuntor",
+    "repotime": "2020-10-30, 17:03:29",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 30,
+    "date_started": "2020-10-29",
+    "date_updated": "2020-10-29",
+    "description": "<no description>",
+    "forks_count": 6,
+    "html_url": "https://github.com/iustin24/SSRF",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": null,
+    "repo_name": "SSRF",
+    "repo_owner": "iustin24",
+    "repotime": "2020-10-29, 23:53:30",
+    "stargazers_count": 34,
+    "watchers_count": 34
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-10-28",
+    "date_updated": "2020-10-28",
+    "description": "Part I - WeatherPy In this example, you’ll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you’ll be utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.  Your first objective is to build a series of scatter plots to showcase the following relationships:  Temperature (F) vs. Latitude Humidity (%) vs. Latitude Cloudiness (%) vs. Latitude Wind Speed (mph) vs. Latitude After each plot add a sentence or too explaining what the code is and analyzing.  Your next objective is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):  Northern Hemisphere - Temperature (F) vs. Latitude Southern Hemisphere - Temperature (F) vs. Latitude Northern Hemisphere - Humi...",
+    "forks_count": 3,
+    "html_url": "https://github.com/Kwamb0/API_homework",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "API_homework",
+    "repo_owner": "Kwamb0",
+    "repotime": "2020-10-28, 15:12:50",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 85,
+    "date_started": "2015-11-18",
+    "date_updated": "2020-10-28",
+    "description": "UAF IceBridge Alaska Altimetry analysis scripts",
+    "forks_count": 1,
+    "html_url": "https://github.com/aaarendt/Alaska-altimetry",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Alaska-altimetry",
+    "repo_owner": "aaarendt",
+    "repotime": "2020-10-28, 12:03:17",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-10-28",
+    "date_updated": "2020-10-28",
+    "description": "Windows 7 LPE",
+    "forks_count": 3,
+    "html_url": "https://github.com/Graham382/CVE-2020-1054",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "C",
+    "repo_name": "CVE-2020-1054",
+    "repo_owner": "Graham382",
+    "repotime": "2020-10-28, 09:57:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-10-27",
+    "date_updated": "2020-10-27",
+    "description": "windows 10 local privilege escalation",
+    "forks_count": 5,
+    "html_url": "https://github.com/kenemar/windows-lpe",
+    "keywords": [
+        "Win lpe",
+        "Windows lpe"
+    ],
+    "language": "HTML",
+    "repo_name": "windows-lpe",
+    "repo_owner": "kenemar",
+    "repotime": "2020-10-27, 20:28:39",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 22,
+    "date_started": "2020-10-07",
+    "date_updated": "2020-10-26",
+    "description": "CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule",
+    "forks_count": 31,
+    "html_url": "https://github.com/advanced-threat-research/CVE-2020-16898",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "Microsoft rce",
+        "Windows rce",
+        "Windows rce vulnerability",
+        "rce vulnerability"
+    ],
+    "language": "Lua",
+    "repo_name": "CVE-2020-16898",
+    "repo_owner": "advanced-threat-research",
+    "repotime": "2020-10-26, 05:15:31",
+    "stargazers_count": 209,
+    "watchers_count": 209
+}
+{
+    "commits_count": 34,
+    "date_started": "2020-10-24",
+    "date_updated": "2020-10-25",
+    "description": "A fuzzer made in golang for finding issues like xss, lfi, rce, ssti...that detects issues using change in content length and verify it using signatures",
+    "forks_count": 21,
+    "html_url": "https://github.com/Shivangx01b/BountyIt",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Go",
+    "repo_name": "BountyIt",
+    "repo_owner": "Shivangx01b",
+    "repotime": "2020-10-25, 00:42:59",
+    "stargazers_count": 59,
+    "watchers_count": 59
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-10-22",
+    "date_updated": "2020-10-22",
+    "description": "CVE-2018-19859 Remote Code Execution Proof of Concept",
+    "forks_count": 0,
+    "html_url": "https://github.com/WhiteOakSecurity/CVE-2018-19859",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-19859",
+    "repo_owner": "WhiteOakSecurity",
+    "repotime": "2020-10-22, 13:48:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 27,
+    "date_started": "2020-04-21",
+    "date_updated": "2020-10-21",
+    "description": "zipdu is a webservice implementation vulnerable to zip bombs and directory traversals. Written in multiple different languages ",
+    "forks_count": 3,
+    "html_url": "https://github.com/ShiftLeftSecurity/zipdu",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "C++",
+    "repo_name": "zipdu",
+    "repo_owner": "ShiftLeftSecurity",
+    "repotime": "2020-10-21, 20:00:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2020-10-15",
+    "date_updated": "2020-10-21",
+    "description": "PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility)",
+    "forks_count": 35,
+    "html_url": "https://github.com/0neb1n/CVE-2020-16947",
+    "keywords": [
+        "Microsoft rce poc",
+        "Microsoft rce",
+        "rce poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2020-16947",
+    "repo_owner": "0neb1n",
+    "repotime": "2020-10-21, 05:09:57",
+    "stargazers_count": 124,
+    "watchers_count": 124
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-10-23",
+    "date_updated": "2020-10-20",
+    "description": " Machine learning (ML) is a field that studies the algorithms that improve automatically through experience by extracting generalizable information from data.  Machine learning algorithms build a mathematical model based on sample data, known as &amp;quot;training data&amp;quot;, to make predictions or decisions without being explicitly programmed to do so.   The launch of quantum computing is giving rise to exciting research areas that seek to leverage the principles of quantum mechanics to increase machine learning or vice versa.  The field that uses the Quantum computer has machine learning tools is known as Quantum Machine Learning (QML). Where the goal is to improve classical machine learning algorithms by outsourcing complicated computations to a quantum computer or to optimize quantum algorithms using classical machine learning architectures, both fall within the scope of diversity of machine learning.  In this session, we will try to learn a bit more about the learner topic.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pifparfait/QML",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "QML",
+    "repo_owner": "pifparfait",
+    "repotime": "2020-10-20, 14:12:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-08-29",
+    "date_updated": "2020-10-20",
+    "description": "Java 开发的POC集合工具,集合了目前最常使用的POC以及2020护网公开的0day",
+    "forks_count": 0,
+    "html_url": "https://github.com/52kami/JavaPocListMuster",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "JavaPocListMuster",
+    "repo_owner": "52kami",
+    "repotime": "2020-10-20, 22:20:32",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 12,
+    "date_started": "2020-10-19",
+    "date_updated": "2020-10-19",
+    "description": "1. Takes a function of x from the user, e.g., 5*x^3 + 2*x 2. Takes min and max values of x from the user 3. Plots the function 4. The following operators must be supported: + - / * ^ 5. Do not use symbolic libraries (you have to parse the input string) 6. Write your GUI in code. Do not use visual GUI designers. 7. The GUI should be simple and beautiful (well organized) 8. Apply appropriate input validation to the user input 9. Print messages to the user to explain any wrong input he entered 10. You must use Pyside2 and Matplotlib in your application 11. The Matplotlib figure must be embedded in the Pyside2 application",
+    "forks_count": 0,
+    "html_url": "https://github.com/mohamedosama37/Function-Plotter",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "Python",
+    "repo_name": "Function-Plotter",
+    "repo_owner": "mohamedosama37",
+    "repotime": "2020-10-19, 15:31:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-10-12",
+    "date_updated": "2020-10-19",
+    "description": "CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule",
+    "forks_count": 9,
+    "html_url": "https://github.com/advanced-threat-research/CVE-2020-16899",
+    "keywords": [
+        "Microsoft rce vulnerability",
+        "Windows rce vulnerability",
+        "Windows rce",
+        "rce vulnerability",
+        "Microsoft rce"
+    ],
+    "language": "Lua",
+    "repo_name": "CVE-2020-16899",
+    "repo_owner": "advanced-threat-research",
+    "repotime": "2020-10-19, 08:58:44",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-10-18",
+    "date_updated": "2020-10-18",
+    "description": "Small memory leak PoC that is happening in IopGetDeviceInterfaces",
+    "forks_count": 8,
+    "html_url": "https://github.com/SamuelTulach/GetDeviceInterfacesMemoryLeak",
+    "keywords": [
+        "memory leak poc"
+    ],
+    "language": "C++",
+    "repo_name": "GetDeviceInterfacesMemoryLeak",
+    "repo_owner": "SamuelTulach",
+    "repotime": "2020-10-18, 23:02:26",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 25,
+    "date_started": "2020-09-20",
+    "date_updated": "2020-10-17",
+    "description": "An open source command line interface link checker that will look for dead links.  Made for DPS909 for release 0.1",
+    "forks_count": 4,
+    "html_url": "https://github.com/Supercraft888/lFinder",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "JavaScript",
+    "repo_name": "lFinder",
+    "repo_owner": "Supercraft888",
+    "repotime": "2020-10-17, 22:05:33",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2020-10-07",
+    "date_updated": "2020-10-16",
+    "description": "New UAC bypass for Silent Cleanup for CobaltStrike",
+    "forks_count": 30,
+    "html_url": "https://github.com/EncodeGroup/UAC-SilentClean",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C#",
+    "repo_name": "UAC-SilentClean",
+    "repo_owner": "EncodeGroup",
+    "repotime": "2020-10-16, 21:16:16",
+    "stargazers_count": 192,
+    "watchers_count": 192
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-06-11",
+    "date_updated": "2020-10-16",
+    "description": "This is my exploit for a 0day vulnerability in the squirrel VM as part of CSCG2020",
+    "forks_count": 1,
+    "html_url": "https://github.com/A2nkF/SquirrelAsAServive",
+    "keywords": [
+        "0day vulnerability",
+        "0day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "SquirrelAsAServive",
+    "repo_owner": "A2nkF",
+    "repotime": "2020-10-16, 00:56:05",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-10-15",
+    "date_updated": "2020-10-15",
+    "description": "<no description>",
+    "forks_count": 3,
+    "html_url": "https://github.com/jdonsec/AllThingsXXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "AllThingsXXE",
+    "repo_owner": "jdonsec",
+    "repotime": "2020-10-15, 12:58:23",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 9,
+    "date_started": "2020-10-15",
+    "date_updated": "2020-10-15",
+    "description": "CVE-2019–15107 - Unauthenticated RCE Webmin &amp;lt;=1.920",
+    "forks_count": 0,
+    "html_url": "https://github.com/squid22/Webmin_CVE-2019-15107",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Webmin_CVE-2019-15107",
+    "repo_owner": "squid22",
+    "repotime": "2020-10-15, 11:10:22",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 40,
+    "date_started": "2019-08-10",
+    "date_updated": "2020-10-13",
+    "description": "Apache Solr Exploits  🌟",
+    "forks_count": 57,
+    "html_url": "https://github.com/Imanfeng/Apache-Solr-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": null,
+    "repo_name": "Apache-Solr-RCE",
+    "repo_owner": "Imanfeng",
+    "repotime": "2020-10-13, 19:45:16",
+    "stargazers_count": 338,
+    "watchers_count": 338
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-10-13",
+    "date_updated": "2020-10-13",
+    "description": "Problem Statement A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;quot;dock&amp;quot; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.   A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.    In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation du...",
+    "forks_count": 0,
+    "html_url": "https://github.com/Shubha9937/Bike-Sharing-Demand",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Bike-Sharing-Demand",
+    "repo_owner": "Shubha9937",
+    "repotime": "2020-10-13, 16:03:59",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 8,
+    "date_started": "2020-10-12",
+    "date_updated": "2020-10-13",
+    "description": "A shot code to Bypass UAC in Windows.",
+    "forks_count": 10,
+    "html_url": "https://github.com/avi7611/UAC-Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "PowerShell",
+    "repo_name": "UAC-Bypass",
+    "repo_owner": "avi7611",
+    "repotime": "2020-10-13, 10:24:59",
+    "stargazers_count": 26,
+    "watchers_count": 26
+}
+{
+    "commits_count": 3,
+    "date_started": "2020-10-12",
+    "date_updated": "2020-10-12",
+    "description": "BlueBorne Exploits &amp;amp; Framework This repository contains a PoC code of various exploits for the BlueBorne vulnerabilities.  Under 'android' exploits for the Android RCE vulnerability (CVE-2017-0781), and the SDP Information leak vulnerability (CVE-2017-0785) can be found.  Under 'linux-bluez' exploits for the Linux-RCE vulnerability (CVE-2017-1000251) can be found (for Amazon Echo, and Samsung Gear S3).  Under 'l2cap_infra' a general testing framework to send and receive raw l2cap messages (using scapy) can be found.  Under 'nRF24_BDADDR_Sniffer' a tool to capture bluetooth mac addresses (BDADDR) over the air, using a nRF24L01 chip  For more details on BlueBorne, you may read the full technical white paper available here:  https://www.armis.com/blueborne/  In addition a several detailed blog posts on the exploitation of these vulnerability can be found here:  https://www.armis.com/blog/  ===============  Dependencies:",
+    "forks_count": 1,
+    "html_url": "https://github.com/CrackSoft900/Blue-Borne",
+    "keywords": [
+        "address leak vulnerability",
+        "address leak exploitation",
+        "address leak exploit",
+        "address leak poc"
+    ],
+    "language": "Python",
+    "repo_name": "Blue-Borne",
+    "repo_owner": "CrackSoft900",
+    "repotime": "2020-10-12, 12:52:45",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-09-27",
+    "date_updated": "2020-10-12",
+    "description": "Unrestricted File Uploads",
+    "forks_count": 0,
+    "html_url": "https://github.com/yashmahaja/Unrestricted-File-upload",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "Unrestricted-File-upload",
+    "repo_owner": "yashmahaja",
+    "repotime": "2020-10-12, 01:36:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2020-10-05",
+    "date_updated": "2020-10-07",
+    "description": "This repo has a core LWC component that validates a customer identity and open up UX for file upload, importantly as an unauthenticated guest user. Typical use case in Loan Origination scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sriram-venkatraman/FileUpload",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "FileUpload",
+    "repo_owner": "sriram-venkatraman",
+    "repotime": "2020-10-07, 12:00:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 35,
+    "date_started": "2016-06-08",
+    "date_updated": "2020-10-06",
+    "description": "A mode-locked fiber laser simulator 锁模光纤激光器仿真",
+    "forks_count": 19,
+    "html_url": "https://github.com/SeveNOlogy7/SimMoLFil",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "MATLAB",
+    "repo_name": "SimMoLFil",
+    "repo_owner": "SeveNOlogy7",
+    "repotime": "2020-10-06, 15:58:19",
+    "stargazers_count": 59,
+    "watchers_count": 59
+}
+{
+    "commits_count": 7,
+    "date_started": "2018-10-06",
+    "date_updated": "2020-10-05",
+    "description": "Quick SQLMap Tamper Suggester ",
+    "forks_count": 268,
+    "html_url": "https://github.com/m4ll0k/Atlas",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "Atlas",
+    "repo_owner": "m4ll0k",
+    "repotime": "2020-10-05, 19:07:26",
+    "stargazers_count": 1370,
+    "watchers_count": 1370
+}
+{
+    "commits_count": 1,
+    "date_started": "2020-10-02",
+    "date_updated": "2020-10-02",
+    "description": "owasp top ten tryhackme walkthrough notes containing theory XXE (XML external entity),system misconfiguration and lot more",
+    "forks_count": 0,
+    "html_url": "https://github.com/anurag708989/owasp_top_10_tryhackme_notes",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "owasp_top_10_tryhackme_notes",
+    "repo_owner": "anurag708989",
+    "repotime": "2020-10-02, 10:55:23",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2020-09-25",
+    "date_updated": "2020-10-01",
+    "description": "Java Spring based Server Side Request Forgery (SSRF) examples",
+    "forks_count": 0,
+    "html_url": "https://github.com/GeekMasher/ssrf-java",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Java",
+    "repo_name": "ssrf-java",
+    "repo_owner": "GeekMasher",
+    "repotime": "2020-10-01, 13:07:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}

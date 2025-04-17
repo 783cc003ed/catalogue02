@@ -620,3 +620,625 @@
     "stargazers_count": 3,
     "watchers_count": 3
 }
+{
+    "commits_count": 19,
+    "date_started": "2019-07-29",
+    "date_updated": "2019-08-29",
+    "description": "&amp;&#35;35; Employee Database: A Mystery in Two Parts  ![sql.png](sql.png)  &amp;&#35;35;&amp;&#35;35; Background  It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.  In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:  1. Data Modeling  2. Data Engineering  3. Data Analysis  &amp;&#35;35;&amp;&#35;35; Instructions  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Data Modeling  Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).  &amp;&#35;35;&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; Data Engineering  * Use the information you have to create a table schema for each of the six CSV files. Remember to spec...",
+    "forks_count": 3,
+    "html_url": "https://github.com/smith-jj/09-SQL_Homework",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "09-SQL_Homework",
+    "repo_owner": "smith-jj",
+    "repotime": "2019-08-29, 13:10:36",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-07-16",
+    "date_updated": "2019-08-27",
+    "description": "Automatic tool for DNS rebinding-based SSRF attacks",
+    "forks_count": 52,
+    "html_url": "https://github.com/daeken/httprebind",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "httprebind",
+    "repo_owner": "daeken",
+    "repotime": "2019-08-27, 18:56:49",
+    "stargazers_count": 298,
+    "watchers_count": 298
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-08-25",
+    "date_updated": "2019-08-25",
+    "description": "1.Lack of skilled resources - The company uses SAP ECC platform for their footwear and apparel business. They had a mandate to upgrade the old ECC system to new S/4 HANA. But due to lack of skilled resources they were unable to do so.  2.Potential Option for Data Migration from ECC to S/4 - Since the ECC system was very old, SAP is unable to provide a direct migration scripts for data migration. This has resulted a big challenge for the client. So they are looking RPA to automate the data migration by automatically fetching the records from ECC and creating the same in S/4.   Challenges (with respect to this particular process):  1. Client used to get Sales Order creation request from multiple sources.  2.Their back-office team used to collate those request in an excel sheet from reading the invoice PDF. Once the data is available, back-office user used to take input data from excel sheet and enter into SAP ECC system.  3.The whole process of creating Sales Order is time consuming and ...",
+    "forks_count": 0,
+    "html_url": "https://github.com/srishi0007/SAP-ECC_Sales-Order-Management",
+    "keywords": [
+        "use after free analysis"
+    ],
+    "language": null,
+    "repo_name": "SAP-ECC_Sales-Order-Management",
+    "repo_owner": "srishi0007",
+    "repotime": "2019-08-25, 09:48:30",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-08-24",
+    "date_updated": "2019-08-24",
+    "description": "The official exploit code for Centreon v19.04 Remote Code Execution CVE-2019-13024",
+    "forks_count": 8,
+    "html_url": "https://github.com/mhaskar/CVE-2019-13024",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-13024",
+    "repo_owner": "mhaskar",
+    "repotime": "2019-08-24, 22:27:23",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-04-05",
+    "date_updated": "2019-08-23",
+    "description": "A little script to deploy an OpenVPN container to bypass port restrictions",
+    "forks_count": 0,
+    "html_url": "https://github.com/esgn/deploy-openvpn-docker",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Shell",
+    "repo_name": "deploy-openvpn-docker",
+    "repo_owner": "esgn",
+    "repotime": "2019-08-23, 14:53:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 33,
+    "date_started": "2019-08-23",
+    "date_updated": "2019-08-23",
+    "description": "Toolkit to detect and keep track on Blind XSS, XXE &amp;amp; SSRF",
+    "forks_count": 73,
+    "html_url": "https://github.com/SpiderMate/B-XSSRF",
+    "keywords": [
+        "xss",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "PHP",
+    "repo_name": "B-XSSRF",
+    "repo_owner": "SpiderMate",
+    "repotime": "2019-08-23, 16:20:04",
+    "stargazers_count": 295,
+    "watchers_count": 295
+}
+{
+    "commits_count": 24,
+    "date_started": "2018-08-09",
+    "date_updated": "2019-08-22",
+    "description": "Live hunting of code injection techniques",
+    "forks_count": 90,
+    "html_url": "https://github.com/marcosd4h/memhunter",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "C++",
+    "repo_name": "memhunter",
+    "repo_owner": "marcosd4h",
+    "repotime": "2019-08-22, 12:46:34",
+    "stargazers_count": 380,
+    "watchers_count": 380
+}
+{
+    "commits_count": 26,
+    "date_started": "2019-07-24",
+    "date_updated": "2019-08-21",
+    "description": "A tool to generate OpenXML XXE Payloads written in Python3. ",
+    "forks_count": 2,
+    "html_url": "https://github.com/MantisSTS/OpenXML-XXE-Generator",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Python",
+    "repo_name": "OpenXML-XXE-Generator",
+    "repo_owner": "MantisSTS",
+    "repotime": "2019-08-21, 22:26:14",
+    "stargazers_count": 16,
+    "watchers_count": 16
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-08-20",
+    "date_updated": "2019-08-20",
+    "description": "Basically Just ported the bash shell scanner into a mass like python module poc",
+    "forks_count": 2,
+    "html_url": "https://github.com/devcoinfet/Webmin-1.920-Unauthenticated-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "Webmin-1.920-Unauthenticated-RCE",
+    "repo_owner": "devcoinfet",
+    "repotime": "2019-08-20, 12:05:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-08-17",
+    "date_updated": "2019-08-19",
+    "description": "rce exploit , made to work with pocsuite3",
+    "forks_count": 53,
+    "html_url": "https://github.com/dorkerdevil/Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-",
+    "keywords": [
+        "rce exploit",
+        "remote code execution exploitation",
+        "remote code execution exploit",
+        "remote code execution vulnerability",
+        "rce exploitation",
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-",
+    "repo_owner": "dorkerdevil",
+    "repotime": "2019-08-19, 08:22:11",
+    "stargazers_count": 119,
+    "watchers_count": 119
+}
+{
+    "commits_count": 42,
+    "date_started": "2015-05-18",
+    "date_updated": "2019-08-18",
+    "description": "Sample electron app",
+    "forks_count": 3,
+    "html_url": "https://github.com/Quramy/electron-disclosure",
+    "keywords": [
+        "disclosure"
+    ],
+    "language": "JavaScript",
+    "repo_name": "electron-disclosure",
+    "repo_owner": "Quramy",
+    "repotime": "2019-08-18, 16:44:51",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 9,
+    "date_started": "2019-08-19",
+    "date_updated": "2019-08-17",
+    "description": "Exploiting stored XSS vulnerability to hijack sessions",
+    "forks_count": 1,
+    "html_url": "https://github.com/zenzue/XSS-Session-Hijacking-Simulator",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking vulnerability",
+        "session hijacking"
+    ],
+    "language": "PHP",
+    "repo_name": "XSS-Session-Hijacking-Simulator",
+    "repo_owner": "zenzue",
+    "repotime": "2019-08-17, 19:17:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-08-17",
+    "date_updated": "2019-08-16",
+    "description": "HACKING BITCOIN AND OTHER DIGITAL ASSETS FOR INFLATION USING SOFTWARE BUGS IN THE CODE",
+    "forks_count": 1,
+    "html_url": "https://github.com/ramiroborja/CRYPTO-ZERO-DAY-EXPLOITS",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "CRYPTO-ZERO-DAY-EXPLOITS",
+    "repo_owner": "ramiroborja",
+    "repotime": "2019-08-16, 21:32:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-08-16",
+    "date_updated": "2019-08-16",
+    "description": "Zimbra RCE PoC - CVE-2019-9670 XXE/SSRF",
+    "forks_count": 14,
+    "html_url": "https://github.com/rek7/Zimbra-RCE",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "Zimbra-RCE",
+    "repo_owner": "rek7",
+    "repotime": "2019-08-16, 01:54:15",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
+    "commits_count": 16,
+    "date_started": "2019-08-13",
+    "date_updated": "2019-08-15",
+    "description": "<no description>",
+    "forks_count": 1,
+    "html_url": "https://github.com/Gu4rana/Using_ROP_Bypassing_DEP",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Python",
+    "repo_name": "Using_ROP_Bypassing_DEP",
+    "repo_owner": "Gu4rana",
+    "repotime": "2019-08-15, 23:52:10",
+    "stargazers_count": 7,
+    "watchers_count": 7
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-08-15",
+    "date_updated": "2019-08-15",
+    "description": "Latest working elevation of privilege exploit by Tavis Ormandy from Google's Project Zero Team",
+    "forks_count": 3,
+    "html_url": "https://github.com/TinToSer/Windows-EOP-Exploit",
+    "keywords": [
+        "Win zero-day exploit",
+        "Windows zero-day exploitation",
+        "Win zero-day exploitation",
+        "Windows zero-day",
+        "zero-day exploitation",
+        "Win zero-day",
+        "Windows zero-day exploit",
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "Windows-EOP-Exploit",
+    "repo_owner": "TinToSer",
+    "repotime": "2019-08-15, 14:29:21",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-08-13",
+    "date_updated": "2019-08-14",
+    "description": "AgentTesla botnet C&amp;amp;C RCE exploit.",
+    "forks_count": 5,
+    "html_url": "https://github.com/EgeBalci/AgentTesla_RCE",
+    "keywords": [
+        "rce exploitation",
+        "rce exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "AgentTesla_RCE",
+    "repo_owner": "EgeBalci",
+    "repotime": "2019-08-14, 02:49:34",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 3,
+    "date_started": "2019-08-12",
+    "date_updated": "2019-08-12",
+    "description": "Steam Windows Client Local Privilege Escalation 0day",
+    "forks_count": 0,
+    "html_url": "https://github.com/kn6869610/Steam-Windows-Client-Local-Privilege-Escalation-0day",
+    "keywords": [
+        "Windows 0day",
+        "Win 0day"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Steam-Windows-Client-Local-Privilege-Escalation-0day",
+    "repo_owner": "kn6869610",
+    "repotime": "2019-08-12, 11:14:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 193,
+    "date_started": "2017-08-01",
+    "date_updated": "2019-08-12",
+    "description": "Unknown Key Share Attacks on uses of Transport Layer Security with the Session Description Protocol (SDP)",
+    "forks_count": 0,
+    "html_url": "https://github.com/martinthomson/sdp-uks",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Makefile",
+    "repo_name": "sdp-uks",
+    "repo_owner": "martinthomson",
+    "repotime": "2019-08-12, 12:04:09",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-08-11",
+    "date_updated": "2019-08-11",
+    "description": "Windows desktop GPU memory leaking into Linux screenshare app",
+    "forks_count": 0,
+    "html_url": "https://github.com/nh2/video-memory-across-reboots",
+    "keywords": [
+        "Windows memory leak"
+    ],
+    "language": null,
+    "repo_name": "video-memory-across-reboots",
+    "repo_owner": "nh2",
+    "repotime": "2019-08-11, 17:53:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2019-08-11",
+    "date_updated": "2019-08-11",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/WildfootW/Local-File-Inclusion-Scanner",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Local-File-Inclusion-Scanner",
+    "repo_owner": "WildfootW",
+    "repotime": "2019-08-11, 18:07:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-09-16",
+    "date_updated": "2019-08-10",
+    "description": "xss 跨站漏洞平台",
+    "forks_count": 75,
+    "html_url": "https://github.com/do0dl3/xss-labs",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "xss-labs",
+    "repo_owner": "do0dl3",
+    "repotime": "2019-08-10, 10:25:31",
+    "stargazers_count": 283,
+    "watchers_count": 283
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-05-09",
+    "date_updated": "2019-08-10",
+    "description": "Local File Inclusion to RCE via File Upload ",
+    "forks_count": 0,
+    "html_url": "https://github.com/laztname/notAcms",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "PHP",
+    "repo_name": "notAcms",
+    "repo_owner": "laztname",
+    "repotime": "2019-08-10, 00:09:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 25,
+    "date_started": "2019-08-05",
+    "date_updated": "2019-08-09",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/93ChampionsLeague/XML-External-Entity",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": null,
+    "repo_name": "XML-External-Entity",
+    "repo_owner": "93ChampionsLeague",
+    "repotime": "2019-08-09, 09:27:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 68,
+    "date_started": "2016-11-03",
+    "date_updated": "2019-08-08",
+    "description": "Exploits written by the Rhino Security Labs team",
+    "forks_count": 296,
+    "html_url": "https://github.com/RhinoSecurityLabs/Security-Research",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "Security-Research",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2019-08-08, 13:28:37",
+    "stargazers_count": 1073,
+    "watchers_count": 1073
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-08-07",
+    "date_updated": "2019-08-08",
+    "description": "Baldr remote code execution exploit for versions &amp;lt;= v3",
+    "forks_count": 2,
+    "html_url": "https://github.com/EgeBalci/Baldr_Exploit",
+    "keywords": [
+        "remote code execution exploitation",
+        "remote code execution exploit"
+    ],
+    "language": "Ruby",
+    "repo_name": "Baldr_Exploit",
+    "repo_owner": "EgeBalci",
+    "repotime": "2019-08-08, 09:31:11",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-08-07",
+    "date_updated": "2019-08-07",
+    "description": "This proof of concept is based on the reflected and stored XSS vulnerability on the Indian Ecommerce website 'ShopClues.com'. This vulnerability can cause session hijacking and stealing of customer's credentials via cookie hijacking. The issue was reported in the year 2018 and it took them more than 4 months to fix the bug. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/devanshot/Reflected-Stored-XSS-POC",
+    "keywords": [
+        "session vulnerability",
+        "session hijacking vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Reflected-Stored-XSS-POC",
+    "repo_owner": "devanshot",
+    "repotime": "2019-08-07, 21:06:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2019-08-06",
+    "date_updated": "2019-08-06",
+    "description": "Simple server apps (FTP, HTTP and TFTP) that are vulnerable to diretory traversal attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Doctor-Hacker/Apps-vulnerable-to-directory-traversal",
+    "keywords": [
+        "directory traversal attack",
+        "directory traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Apps-vulnerable-to-directory-traversal",
+    "repo_owner": "Doctor-Hacker",
+    "repotime": "2019-08-06, 11:38:40",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 3,
+    "date_started": "2017-09-15",
+    "date_updated": "2019-08-06",
+    "description": "Heap exploitation technique bypassing heap ASLR",
+    "forks_count": 5,
+    "html_url": "https://github.com/shift-crops/House_of_Rabbit",
+    "keywords": [
+        "aslr bypass",
+        "aslr bypass exploit",
+        "aslr bypass exploitation"
+    ],
+    "language": "C",
+    "repo_name": "House_of_Rabbit",
+    "repo_owner": "shift-crops",
+    "repotime": "2019-08-06, 17:27:10",
+    "stargazers_count": 46,
+    "watchers_count": 46
+}
+{
+    "commits_count": 1,
+    "date_started": "2019-08-05",
+    "date_updated": "2019-08-06",
+    "description": "ARM Bot RCE Exploit.",
+    "forks_count": 4,
+    "html_url": "https://github.com/EgeBalci/ARMBot_RCE",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Ruby",
+    "repo_name": "ARMBot_RCE",
+    "repo_owner": "EgeBalci",
+    "repotime": "2019-08-06, 08:51:13",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 5,
+    "date_started": "2019-08-05",
+    "date_updated": "2019-08-05",
+    "description": "SIP is widely used signaling protocol for controlling the communication on the internet, maintaining, establishing as well as terminating the sessions.  It works on the application layer which can create, modify and terminate sessions with the participants. It supports multimedia sessions/services on both wired and wireless networks like multimedia distribution, internet telephone calls.  We are implementing Cryptanalysis for a secure mutual authentication which is based on Elliptical Curve Discrete Logarithm problem for SIP which is immune to the attacks.  Authentication is a crucial process when a remote user wants to get services from a corresponding sever.  Most environment communications of SIP are unsafe which naturally raises the issue of providing security protection for communicating participants.  Therefore, we are trying to design a robust and efficient mutual authentication which is meaningful and interesting. ",
+    "forks_count": 1,
+    "html_url": "https://github.com/Shivikam6/Elliptic-Curve-cryptography-based-mutual-authentication-scheme-for-session-initiation-protocol",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Java",
+    "repo_name": "Elliptic-Curve-cryptography-based-mutual-authentication-scheme-for-session-initiation-protocol",
+    "repo_owner": "Shivikam6",
+    "repotime": "2019-08-05, 15:01:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2019-03-02",
+    "date_updated": "2019-08-03",
+    "description": "A better version of my xssfinder tool - scans for different types of xss on a list of urls.",
+    "forks_count": 52,
+    "html_url": "https://github.com/Damian89/extended-xss-search",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "extended-xss-search",
+    "repo_owner": "Damian89",
+    "repotime": "2019-08-03, 21:33:13",
+    "stargazers_count": 182,
+    "watchers_count": 182
+}
+{
+    "commits_count": 7,
+    "date_started": "2019-07-29",
+    "date_updated": "2019-08-03",
+    "description": "叉叉助手源文件加密工具",
+    "forks_count": 3,
+    "html_url": "https://github.com/Agritee/xxEncryptTool",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Lua",
+    "repo_name": "xxEncryptTool",
+    "repo_owner": "Agritee",
+    "repotime": "2019-08-03, 18:33:34",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 3,
+    "date_started": "2018-03-17",
+    "date_updated": "2019-08-03",
+    "description": "Sql injection labs via docker.",
+    "forks_count": 11,
+    "html_url": "https://github.com/realvect0r/sqli-labs-for-docker",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "sqli-labs-for-docker",
+    "repo_owner": "realvect0r",
+    "repotime": "2019-08-03, 11:49:08",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
+    "commits_count": 4,
+    "date_started": "2019-08-01",
+    "date_updated": "2019-08-01",
+    "description": "Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious scripts are injected into otherwise benign and trusted websites. XSS attacks occur when an attacker uses a web application to send malicious code, generally in the form of a browser side script, to a different end user. Flaws that allow these attacks to succeed are quite widespread and occur anywhere a web application uses input from a user within the output it generates without validating or encoding it.   An attacker can use XSS to send a malicious script to an unsuspecting user. The end user’s browser has no way to know that the script should not be trusted, and will execute the script. Because it thinks the script came from a trusted source, the malicious script can access any cookies, session tokens, or other sensitive information retained by the browser and used with that site. These scripts can even rewrite the content of the HTML page.   These 3 types of XSS are defined as follows:    Stored XSS (AK...",
+    "forks_count": 2,
+    "html_url": "https://github.com/17BCE0951/XSS-Scanner",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-Scanner",
+    "repo_owner": "17BCE0951",
+    "repotime": "2019-08-01, 20:35:13",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
