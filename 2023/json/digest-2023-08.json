@@ -1,4 +1,162 @@
 {
+    "commits_count": 2,
+    "date_started": "2023-08-31",
+    "date_updated": "2023-08-31",
+    "description": "A login page is a fundamental component of many websites and applications, serving as the initial point of access for users. Its primary purpose is to authenticate and authorize individuals, granting them access to specific content, features, or functionality that may not be available to unauthenticated users",
+    "forks_count": 0,
+    "html_url": "https://github.com/haseenabegum05/LoginPage-Repo",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "CSS",
+    "repo_name": "LoginPage-Repo",
+    "repo_owner": "haseenabegum05",
+    "repotime": "2023-08-31, 20:50:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-08-30",
+    "date_updated": "2023-08-31",
+    "description": "This is a POC for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.",
+    "forks_count": 4,
+    "html_url": "https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC",
+    "keywords": [
+        "rce proof of concept",
+        "Win rce",
+        "Win rce proof of concept",
+        "Win rce exploit",
+        "Win rce exploitation",
+        "Win rce poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831-Winrar-Exploit-Generator-POC",
+    "repo_owner": "MorDavid",
+    "repotime": "2023-08-31, 18:07:48",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 14,
+    "date_started": "2023-08-31",
+    "date_updated": "2023-08-31",
+    "description": "Adversaries commonly abuse the Local Security Authority Subsystem Service (LSASS) to dump credentials for privilege escalation, data theft, and lateral movement. The process is a fruitful target for adversaries because of the sheer amount of sensitive information it stores in memory.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mazyaar/lsass_memory",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "lsass_memory",
+    "repo_owner": "mazyaar",
+    "repotime": "2023-08-31, 11:46:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 24,
+    "date_started": "2023-08-28",
+    "date_updated": "2023-08-31",
+    "description": "Pasos necesarios para obtener una reverse shell explotando la vulnerabilidad de winrar CVE-2023-38831 en versiones anteriores a 6.23.",
+    "forks_count": 6,
+    "html_url": "https://github.com/Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2023-38831_ReverseShell_Winrar-RCE",
+    "repo_owner": "Maalfer",
+    "repotime": "2023-08-31, 09:40:12",
+    "stargazers_count": 22,
+    "watchers_count": 22
+}
+{
+    "commits_count": 16,
+    "date_started": "2023-08-30",
+    "date_updated": "2023-08-30",
+    "description": "Advanced phishing tool used for session &amp;amp; credential grabbing and bypassing 2FA using man-in-the-middle attack with standalone reverse proxy server.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kal1gh0st/Cipherishing",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Cipherishing",
+    "repo_owner": "kal1gh0st",
+    "repotime": "2023-08-30, 21:24:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2023-03-22",
+    "date_updated": "2023-08-30",
+    "description": "This repository contains a Command and Control Center to be contacted during a XSS attack. It extracts the victims session cookie, performs stealth attacks and privilege escalation. The attacked web application is the MISM by Amir Sanni",
+    "forks_count": 0,
+    "html_url": "https://github.com/RBReif/commandAndControlCenterXSS",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "PHP",
+    "repo_name": "commandAndControlCenterXSS",
+    "repo_owner": "RBReif",
+    "repotime": "2023-08-30, 20:22:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-08-30",
+    "date_updated": "2023-08-30",
+    "description": "Unauthenticated attackers can use this vulnerability to obtain sensitive database information and credentials, ultimately leading to server crashes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Despacito01/KSOA-SQL-INJECT",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "KSOA-SQL-INJECT",
+    "repo_owner": "Despacito01",
+    "repotime": "2023-08-30, 23:44:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 48,
+    "date_started": "2022-03-20",
+    "date_updated": "2023-08-30",
+    "description": "Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin，online https://51pwn.com",
+    "forks_count": 26,
+    "html_url": "https://github.com/GhostTroops/go4Hacker",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Go",
+    "repo_name": "go4Hacker",
+    "repo_owner": "GhostTroops",
+    "repotime": "2023-08-30, 16:43:21",
+    "stargazers_count": 147,
+    "watchers_count": 147
+}
+{
+    "commits_count": 8,
+    "date_started": "2023-08-29",
+    "date_updated": "2023-08-29",
+    "description": "A PHP Firewall to CUT OFF vulnerable Strings from the URL and redirect to homepage. No Error Messages. Can Protect Against: 1.SQLi, 2.LFI, 3.RFI, 4.SSI, 5. XSS, 6. CSRF, 7.Directory Traversal, 8. Clickjacking.",
+    "forks_count": 0,
+    "html_url": "https://github.com/jarircse16/Jarir_Cut_OFF_WAF",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Jarir_Cut_OFF_WAF",
+    "repo_owner": "jarircse16",
+    "repotime": "2023-08-29, 17:45:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 1,
     "date_started": "2023-08-28",
     "date_updated": "2023-08-29",
