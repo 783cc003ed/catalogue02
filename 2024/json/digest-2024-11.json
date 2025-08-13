@@ -71,7 +71,7 @@
     "date_started": "2020-07-09",
     "date_updated": "2024-11-29",
     "description": "A collection of tiny XSS Payloads that can be used in different contexts. https://tinyxss.terjanq.me",
-    "forks_count": 211,
+    "forks_count": 212,
     "html_url": "https://github.com/terjanq/Tiny-XSS-Payloads",
     "keywords": [
         "xss"
@@ -80,8 +80,8 @@
     "repo_name": "Tiny-XSS-Payloads",
     "repo_owner": "terjanq",
     "repotime": "2024-11-29, 23:58:22",
-    "stargazers_count": 2141,
-    "watchers_count": 2141
+    "stargazers_count": 2142,
+    "watchers_count": 2142
 }
 {
     "commits_count": 5,
@@ -199,8 +199,8 @@
     "repo_name": "SharpRDPHijack",
     "repo_owner": "bohops",
     "repotime": "2024-11-28, 01:08:58",
-    "stargazers_count": 486,
-    "watchers_count": 486
+    "stargazers_count": 487,
+    "watchers_count": 487
 }
 {
     "commits_count": 2,
@@ -600,7 +600,7 @@
     "date_started": "2015-05-06",
     "date_updated": "2024-11-21",
     "description": "<no description>",
-    "forks_count": 82,
+    "forks_count": 83,
     "html_url": "https://github.com/Invoke-IR/ForensicPosters",
     "keywords": [
         "by_owner"
@@ -609,8 +609,8 @@
     "repo_name": "ForensicPosters",
     "repo_owner": "Invoke-IR",
     "repotime": "2024-11-21, 08:48:15",
-    "stargazers_count": 447,
-    "watchers_count": 447
+    "stargazers_count": 449,
+    "watchers_count": 449
 }
 {
     "commits_count": 9,
@@ -719,7 +719,7 @@
     "date_started": "2021-04-22",
     "date_updated": "2024-11-19",
     "description": "Collection of Windows Privilege Escalation (Analyse/PoC/Exploit)",
-    "forks_count": 78,
+    "forks_count": 79,
     "html_url": "https://github.com/ycdxsb/WindowsPrivilegeEscalation",
     "keywords": [
         "Win escalation of privileges poc",
@@ -733,8 +733,8 @@
     "repo_name": "WindowsPrivilegeEscalation",
     "repo_owner": "ycdxsb",
     "repotime": "2024-11-19, 21:39:12",
-    "stargazers_count": 418,
-    "watchers_count": 418
+    "stargazers_count": 420,
+    "watchers_count": 420
 }
 {
     "commits_count": 6,
@@ -784,8 +784,8 @@
     "repo_name": "abdal-anydesk-remote-ip-detector",
     "repo_owner": "ebrasha",
     "repotime": "2024-11-18, 18:39:29",
-    "stargazers_count": 37,
-    "watchers_count": 37
+    "stargazers_count": 38,
+    "watchers_count": 38
 }
 {
     "commits_count": 4,
@@ -921,8 +921,8 @@
     "repo_name": "Fortijump-Exploit-CVE-2024-47575",
     "repo_owner": "watchtowrlabs",
     "repotime": "2024-11-14, 16:25:52",
-    "stargazers_count": 88,
-    "watchers_count": 88
+    "stargazers_count": 89,
+    "watchers_count": 89
 }
 {
     "commits_count": 7,
@@ -938,8 +938,8 @@
     "repo_name": "GWTMap",
     "repo_owner": "FSecureLABS",
     "repotime": "2024-11-14, 12:23:05",
-    "stargazers_count": 101,
-    "watchers_count": 101
+    "stargazers_count": 103,
+    "watchers_count": 103
 }
 {
     "commits_count": 28,
@@ -1092,8 +1092,8 @@
     "repo_name": "Citrix-Virtual-Apps-XEN-Exploit",
     "repo_owner": "watchtowrlabs",
     "repotime": "2024-11-12, 14:29:32",
-    "stargazers_count": 195,
-    "watchers_count": 195
+    "stargazers_count": 196,
+    "watchers_count": 196
 }
 {
     "commits_count": 11,
@@ -1593,7 +1593,7 @@
     "date_started": "2021-09-08",
     "date_updated": "2024-11-05",
     "description": "Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022",
-    "forks_count": 74,
+    "forks_count": 75,
     "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
     "keywords": [
         "uac bypass"
@@ -1602,8 +1602,8 @@
     "repo_name": "Automated-MUlti-UAC-Bypass",
     "repo_owner": "x0xr00t",
     "repotime": "2024-11-05, 13:45:21",
-    "stargazers_count": 445,
-    "watchers_count": 445
+    "stargazers_count": 447,
+    "watchers_count": 447
 }
 {
     "commits_count": 2,
@@ -1728,7 +1728,7 @@
     "commits_count": 6,
     "date_started": "2024-06-13",
     "date_updated": "2024-11-02",
-    "description": "This project simulates the effects of a buffer overflow and privilege escalation attack on a Windows system. The objective is to demonstrate the importance of vigilance and good practices in computer security, particularly when executing .exe files of unknown or suspicious origin.",
+    "description": "This project simulates the effects of a buffer overflow and privilege escalation attack on a Windows system.",
     "forks_count": 0,
     "html_url": "https://github.com/lyamss/Hakai",
     "keywords": [

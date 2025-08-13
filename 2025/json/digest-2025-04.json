@@ -33,23 +33,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 5,
-    "date_started": "2025-04-30",
-    "date_updated": "2025-04-30",
-    "description": "A Python-based wordle-clone created for my AP CSP Create Task. It selects a random five-letter word from a large .txt word list and gives feedback using $ (correct spot), % (wrong spot), and * (not in word). Includes input validation and tracks letter status after each guess.",
-    "forks_count": 0,
-    "html_url": "https://github.com/pranav-venkat23/pyWordle",
-    "keywords": [
-        "wrong input validation"
-    ],
-    "language": "Python",
-    "repo_name": "pyWordle",
-    "repo_owner": "pranav-venkat23",
-    "repotime": "2025-04-30, 11:44:51",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 4,
     "date_started": "2025-04-30",
     "date_updated": "2025-04-30",
@@ -63,8 +46,8 @@
     "repo_name": "ShadowCallback",
     "repo_owner": "izcarti",
     "repotime": "2025-04-30, 17:20:01",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 4,
@@ -518,8 +501,8 @@
     "repo_name": "CVE-2025-32432",
     "repo_owner": "Sachinart",
     "repotime": "2025-04-27, 14:35:54",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 10,
@@ -536,8 +519,8 @@
     "repo_name": "CVE-2025-29306-PoC-FoxCMS-RCE",
     "repo_owner": "Mattb709",
     "repotime": "2025-04-26, 17:35:06",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 2,
@@ -587,8 +570,8 @@
     "repo_name": "XSStrike",
     "repo_owner": "s0md3v",
     "repotime": "2025-04-26, 14:17:06",
-    "stargazers_count": 14117,
-    "watchers_count": 14117
+    "stargazers_count": 14125,
+    "watchers_count": 14125
 }
 {
     "commits_count": 7,
@@ -1021,7 +1004,7 @@
     "date_started": "2015-02-01",
     "date_updated": "2025-04-21",
     "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
-    "forks_count": 118,
+    "forks_count": 119,
     "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
     "keywords": [
         "rce exploit",
@@ -1032,8 +1015,8 @@
     "repo_name": "Commodity-Injection-Signatures",
     "repo_owner": "xsscx",
     "repotime": "2025-04-21, 11:07:40",
-    "stargazers_count": 403,
-    "watchers_count": 403
+    "stargazers_count": 405,
+    "watchers_count": 405
 }
 {
     "commits_count": 10,
@@ -1049,8 +1032,8 @@
     "repo_name": "mcp-exploit-demo",
     "repo_owner": "Repello-AI",
     "repotime": "2025-04-21, 18:08:32",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 4,
@@ -1109,7 +1092,7 @@
     "date_started": "2025-04-20",
     "date_updated": "2025-04-20",
     "description": "Various techniques used to bypass SMEP in the Windows Kernel.",
-    "forks_count": 1,
+    "forks_count": 3,
     "html_url": "https://github.com/r0keb/Smep-Bypass",
     "keywords": [
         "smep bypass"
@@ -1118,8 +1101,8 @@
     "repo_name": "Smep-Bypass",
     "repo_owner": "r0keb",
     "repotime": "2025-04-20, 20:42:37",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 2,
@@ -1250,14 +1233,16 @@
     "forks_count": 0,
     "html_url": "https://github.com/AnonKryptiQuz/AKQ-PipeFS-ZeroDay-Exploit",
     "keywords": [
-        "zero-day exploit"
+        "zero-day exploit",
+        "0day vulnerability",
+        "zero-day exploitation"
     ],
     "language": "Shell",
     "repo_name": "AKQ-PipeFS-ZeroDay-Exploit",
     "repo_owner": "AnonKryptiQuz",
     "repotime": "2025-04-18, 23:58:27",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 1349,
@@ -1451,8 +1436,8 @@
     "repo_name": "acra",
     "repo_owner": "cossacklabs",
     "repotime": "2025-04-17, 13:21:23",
-    "stargazers_count": 1408,
-    "watchers_count": 1408
+    "stargazers_count": 1411,
+    "watchers_count": 1411
 }
 {
     "commits_count": 5,
@@ -1521,8 +1506,8 @@
     "repo_name": "loxs",
     "repo_owner": "coffinxp",
     "repotime": "2025-04-16, 14:13:53",
-    "stargazers_count": 1245,
-    "watchers_count": 1245
+    "stargazers_count": 1246,
+    "watchers_count": 1246
 }
 {
     "commits_count": 358,
@@ -1590,8 +1575,8 @@
     "repo_name": "pop_n_bubble",
     "repo_owner": "demon-i386",
     "repotime": "2025-04-15, 17:15:17",
-    "stargazers_count": 74,
-    "watchers_count": 74
+    "stargazers_count": 75,
+    "watchers_count": 75
 }
 {
     "commits_count": 6,
@@ -1972,7 +1957,7 @@
     "date_started": "2024-05-03",
     "date_updated": "2025-04-10",
     "description": "&amp;quot;AMSI WRITE RAID&amp;quot; Vulnerability that leads to an effective AMSI BYPASS",
-    "forks_count": 51,
+    "forks_count": 52,
     "html_url": "https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS",
     "keywords": [
         "0day vulnerability"
@@ -1981,8 +1966,8 @@
     "repo_name": "AMSI-WRITE-RAID-BYPASS",
     "repo_owner": "V-i-x-x",
     "repotime": "2025-04-10, 17:59:30",
-    "stargazers_count": 291,
-    "watchers_count": 291
+    "stargazers_count": 292,
+    "watchers_count": 292
 }
 {
     "commits_count": 1478,
@@ -2208,8 +2193,8 @@
     "repo_name": "CVE-2025-2783",
     "repo_owner": "Alchemist3dot14",
     "repotime": "2025-04-06, 12:53:50",
-    "stargazers_count": 20,
-    "watchers_count": 20
+    "stargazers_count": 24,
+    "watchers_count": 24
 }
 {
     "commits_count": 37,
@@ -2260,8 +2245,8 @@
     "repo_name": "zerodayf",
     "repo_owner": "0xHamy",
     "repotime": "2025-04-05, 09:35:56",
-    "stargazers_count": 28,
-    "watchers_count": 28
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 25,
@@ -2311,8 +2296,8 @@
     "repo_name": "CVE-2023-4357-Chrome-XXE",
     "repo_owner": "xcanwin",
     "repotime": "2025-04-05, 02:37:38",
-    "stargazers_count": 217,
-    "watchers_count": 217
+    "stargazers_count": 218,
+    "watchers_count": 218
 }
 {
     "commits_count": 6,
@@ -2330,23 +2315,6 @@
     "repotime": "2025-04-04, 21:07:51",
     "stargazers_count": 12,
     "watchers_count": 12
-}
-{
-    "commits_count": 1,
-    "date_started": "2025-04-04",
-    "date_updated": "2025-04-04",
-    "description": "Includes Glibc Heap Explanation, Heap Exploitation, Use after free vulnerability, Buffer Overflow etc.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Md-Monowarul-Amin/SoftwareSecurity",
-    "keywords": [
-        "use after free exploit"
-    ],
-    "language": "C",
-    "repo_name": "SoftwareSecurity",
-    "repo_owner": "Md-Monowarul-Amin",
-    "repotime": "2025-04-04, 11:33:37",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -2550,8 +2518,8 @@
     "repo_name": "ZeroDayForge",
     "repo_owner": "Aviral2642",
     "repotime": "2025-04-01, 21:06:46",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1,

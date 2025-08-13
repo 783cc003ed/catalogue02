@@ -109,14 +109,15 @@
     "forks_count": 21,
     "html_url": "https://github.com/stoneharry/RCEPatcher",
     "keywords": [
-        "rce exploit"
+        "rce exploit",
+        "rce exploitation"
     ],
     "language": "C#",
     "repo_name": "RCEPatcher",
     "repo_owner": "stoneharry",
     "repotime": "2024-07-29, 19:45:35",
-    "stargazers_count": 54,
-    "watchers_count": 54
+    "stargazers_count": 58,
+    "watchers_count": 58
 }
 {
     "commits_count": 2,
@@ -134,8 +135,8 @@
     "repo_name": "CVE-2024-21338",
     "repo_owner": "Crowdfense",
     "repotime": "2024-07-29, 17:29:59",
-    "stargazers_count": 62,
-    "watchers_count": 62
+    "stargazers_count": 63,
+    "watchers_count": 63
 }
 {
     "commits_count": 23,
@@ -321,8 +322,8 @@
     "repo_name": "WoL-RCE",
     "repo_owner": "Rannden-SHA",
     "repotime": "2024-07-24, 15:58:47",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 18,
@@ -373,8 +374,8 @@
     "repo_name": "Resources-for-Beginner-Bug-Bounty-Hunters",
     "repo_owner": "nahamsec",
     "repotime": "2024-07-23, 10:01:39",
-    "stargazers_count": 11392,
-    "watchers_count": 11392
+    "stargazers_count": 11398,
+    "watchers_count": 11398
 }
 {
     "commits_count": 3,
@@ -654,7 +655,7 @@
     "date_started": "2024-07-15",
     "date_updated": "2024-07-17",
     "description": "网传nacos_rce漏洞poc",
-    "forks_count": 38,
+    "forks_count": 37,
     "html_url": "https://github.com/WingBy-Fkalis/Nacos_Rce",
     "keywords": [
         "rce poc"
@@ -663,15 +664,15 @@
     "repo_name": "Nacos_Rce",
     "repo_owner": "WingBy-Fkalis",
     "repotime": "2024-07-17, 14:06:13",
-    "stargazers_count": 92,
-    "watchers_count": 92
+    "stargazers_count": 94,
+    "watchers_count": 94
 }
 {
     "commits_count": 15,
     "date_started": "2024-07-15",
     "date_updated": "2024-07-17",
     "description": "PoC -  Authenticated Remote Code Execution in VMware vCenter Server (Exploit)",
-    "forks_count": 8,
+    "forks_count": 9,
     "html_url": "https://github.com/l0n3m4n/CVE-2024-22274-RCE",
     "keywords": [
         "remote code execution vulnerability",
@@ -682,8 +683,8 @@
     "repo_name": "CVE-2024-22274-RCE",
     "repo_owner": "l0n3m4n",
     "repotime": "2024-07-17, 07:22:14",
-    "stargazers_count": 43,
-    "watchers_count": 43
+    "stargazers_count": 44,
+    "watchers_count": 44
 }
 {
     "commits_count": 4,
@@ -852,15 +853,15 @@
     "repo_name": "oxml_xxe",
     "repo_owner": "BuffaloWill",
     "repotime": "2024-07-10, 21:54:08",
-    "stargazers_count": 1098,
-    "watchers_count": 1098
+    "stargazers_count": 1097,
+    "watchers_count": 1097
 }
 {
     "commits_count": 62,
     "date_started": "2018-07-18",
     "date_updated": "2024-07-10",
     "description": "Notes about attacking Jenkins servers",
-    "forks_count": 336,
+    "forks_count": 335,
     "html_url": "https://github.com/gquere/pwn_jenkins",
     "keywords": [
         "rce exploit"
@@ -869,8 +870,8 @@
     "repo_name": "pwn_jenkins",
     "repo_owner": "gquere",
     "repotime": "2024-07-10, 13:18:30",
-    "stargazers_count": 2065,
-    "watchers_count": 2065
+    "stargazers_count": 2071,
+    "watchers_count": 2071
 }
 {
     "commits_count": 4,
@@ -886,8 +887,8 @@
     "repo_name": "MS-SharePoint-July-Patch-RCE-PoC",
     "repo_owner": "testanull",
     "repotime": "2024-07-10, 14:06:36",
-    "stargazers_count": 155,
-    "watchers_count": 155
+    "stargazers_count": 158,
+    "watchers_count": 158
 }
 {
     "commits_count": 21,
@@ -954,8 +955,8 @@
     "repo_name": "HEVD-Exploit-Win10-22H2-KVAS",
     "repo_owner": "ommadawn46",
     "repotime": "2024-07-10, 09:52:46",
-    "stargazers_count": 30,
-    "watchers_count": 30
+    "stargazers_count": 31,
+    "watchers_count": 31
 }
 {
     "commits_count": 7,
@@ -1064,7 +1065,7 @@
     "date_started": "2024-07-06",
     "date_updated": "2024-07-06",
     "description": "Remote Code Execution (RCE) Vulnerability In Evaluating Property Name Expressions with multies ways to exploit",
-    "forks_count": 6,
+    "forks_count": 7,
     "html_url": "https://github.com/Mr-xn/CVE-2024-36401",
     "keywords": [
         "remote code execution vulnerability",
@@ -1077,8 +1078,8 @@
     "repo_name": "CVE-2024-36401",
     "repo_owner": "Mr-xn",
     "repotime": "2024-07-06, 09:57:58",
-    "stargazers_count": 50,
-    "watchers_count": 50
+    "stargazers_count": 51,
+    "watchers_count": 51
 }
 {
     "commits_count": 2,
@@ -1133,8 +1134,8 @@
     "repo_name": "CVE-2024-6387",
     "repo_owner": "l0n3m4n",
     "repotime": "2024-07-05, 23:19:28",
-    "stargazers_count": 87,
-    "watchers_count": 87
+    "stargazers_count": 88,
+    "watchers_count": 88
 }
 {
     "commits_count": 7,
@@ -1158,7 +1159,7 @@
     "date_started": "2024-07-02",
     "date_updated": "2024-07-04",
     "description": "This Python script exploits a remote code execution vulnerability (CVE-2024-6387) in OpenSSH.",
-    "forks_count": 14,
+    "forks_count": 13,
     "html_url": "https://github.com/d0rb/CVE-2024-6387",
     "keywords": [
         "remote code execution vulnerability",
@@ -1169,8 +1170,8 @@
     "repo_name": "CVE-2024-6387",
     "repo_owner": "d0rb",
     "repotime": "2024-07-04, 23:04:30",
-    "stargazers_count": 45,
-    "watchers_count": 45
+    "stargazers_count": 44,
+    "watchers_count": 44
 }
 {
     "commits_count": 1,
@@ -1382,7 +1383,7 @@
     "date_started": "2024-07-01",
     "date_updated": "2024-07-01",
     "description": "MIRROR of the original 32-bit PoC for CVE-2024-6387 &amp;quot;regreSSHion&amp;quot; by 7etsuo/cve-2024-6387-poc",
-    "forks_count": 43,
+    "forks_count": 42,
     "html_url": "https://github.com/lflare/cve-2024-6387-poc",
     "keywords": [
         "rce poc"
@@ -1391,6 +1392,6 @@
     "repo_name": "cve-2024-6387-poc",
     "repo_owner": "lflare",
     "repotime": "2024-07-01, 05:52:18",
-    "stargazers_count": 122,
-    "watchers_count": 122
+    "stargazers_count": 121,
+    "watchers_count": 121
 }

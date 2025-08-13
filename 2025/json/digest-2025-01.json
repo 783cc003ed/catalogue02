@@ -118,8 +118,8 @@
     "repo_name": "CVE-2022-36446-Webmin-Software-Package-Updates-RCE",
     "repo_owner": "p0dalirius",
     "repotime": "2025-01-31, 10:36:28",
-    "stargazers_count": 114,
-    "watchers_count": 114
+    "stargazers_count": 115,
+    "watchers_count": 115
 }
 {
     "commits_count": 37,
@@ -137,8 +137,8 @@
     "repo_name": "how-to-exploit-a-double-free",
     "repo_owner": "stong",
     "repotime": "2025-01-31, 03:45:57",
-    "stargazers_count": 1354,
-    "watchers_count": 1354
+    "stargazers_count": 1360,
+    "watchers_count": 1360
 }
 {
     "commits_count": 2,
@@ -368,13 +368,13 @@
     "date_updated": "2025-01-28",
     "description": "SnapIPLeak is a script to capture and leak a victim's IP address through a Snapchat call using ARP spoofing and packet analysis.",
     "forks_count": 0,
-    "html_url": "https://github.com/OusCyb3rH4ck/SnapIPLeak",
+    "html_url": "https://github.com/OusH4x/SnapIPLeak",
     "keywords": [
         "address leak analysis"
     ],
     "language": "Shell",
     "repo_name": "SnapIPLeak",
-    "repo_owner": "OusCyb3rH4ck",
+    "repo_owner": "OusH4x",
     "repotime": "2025-01-28, 00:53:19",
     "stargazers_count": 4,
     "watchers_count": 4
@@ -469,7 +469,7 @@
     "date_started": "2019-02-23",
     "date_updated": "2025-01-25",
     "description": "K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
-    "forks_count": 2069,
+    "forks_count": 2071,
     "html_url": "https://github.com/k8gege/K8tools",
     "keywords": [
         "0day poc",
@@ -477,14 +477,15 @@
         "0day exploit",
         "lpe exploit",
         "rce exploit",
-        "lpe poc"
+        "lpe poc",
+        "lpe exploitation"
     ],
     "language": "PowerShell",
     "repo_name": "K8tools",
     "repo_owner": "k8gege",
     "repotime": "2025-01-25, 14:32:49",
-    "stargazers_count": 6011,
-    "watchers_count": 6011
+    "stargazers_count": 6033,
+    "watchers_count": 6033
 }
 {
     "commits_count": 3,
@@ -654,8 +655,8 @@
     "repo_name": "xsshunter",
     "repo_owner": "trufflesecurity",
     "repotime": "2025-01-22, 15:35:19",
-    "stargazers_count": 470,
-    "watchers_count": 470
+    "stargazers_count": 471,
+    "watchers_count": 471
 }
 {
     "commits_count": 10,
@@ -747,7 +748,7 @@
     "date_started": "2018-07-10",
     "date_updated": "2025-01-21",
     "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-    "forks_count": 2312,
+    "forks_count": 2316,
     "html_url": "https://github.com/kgretzky/evilginx2",
     "keywords": [
         "session attack"
@@ -756,8 +757,8 @@
     "repo_name": "evilginx2",
     "repo_owner": "kgretzky",
     "repotime": "2025-01-21, 16:16:10",
-    "stargazers_count": 13303,
-    "watchers_count": 13303
+    "stargazers_count": 13320,
+    "watchers_count": 13320
 }
 {
     "commits_count": 3,
@@ -877,8 +878,8 @@
     "repo_name": "toxssin",
     "repo_owner": "t3l3machus",
     "repotime": "2025-01-19, 17:24:50",
-    "stargazers_count": 1382,
-    "watchers_count": 1382
+    "stargazers_count": 1384,
+    "watchers_count": 1384
 }
 {
     "commits_count": 19,
@@ -1220,8 +1221,8 @@
     "repo_name": "CVE-2025-0282-Ivanti-exploit",
     "repo_owner": "absholi7ly",
     "repotime": "2025-01-12, 01:54:06",
-    "stargazers_count": 47,
-    "watchers_count": 47
+    "stargazers_count": 48,
+    "watchers_count": 48
 }
 {
     "commits_count": 5,
@@ -1475,8 +1476,8 @@
     "repo_name": "uac-bypass-oneliners",
     "repo_owner": "blue0x1",
     "repotime": "2025-01-07, 22:56:28",
-    "stargazers_count": 124,
-    "watchers_count": 124
+    "stargazers_count": 127,
+    "watchers_count": 127
 }
 {
     "commits_count": 2,

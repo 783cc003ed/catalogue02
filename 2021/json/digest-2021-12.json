@@ -325,8 +325,8 @@
     "repo_name": "Log4jCenter",
     "repo_owner": "puzzlepeaches",
     "repotime": "2021-12-22, 09:56:21",
-    "stargazers_count": 104,
-    "watchers_count": 104
+    "stargazers_count": 107,
+    "watchers_count": 107
 }
 {
     "commits_count": 8,
@@ -437,18 +437,19 @@
     "date_started": "2022-03-17",
     "date_updated": "2021-12-20",
     "description": "   &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;!--[if IE 8]&amp;gt;&amp;lt;html class=&amp;quot;ie8&amp;quot; ng-app=&amp;quot;robloxApp&amp;quot;&amp;gt;&amp;lt;![endif]--&amp;gt; &amp;lt;!--[if gt IE 8]&amp;gt;&amp;lt;!--&amp;gt; &amp;lt;html&amp;gt; &amp;lt;!--&amp;lt;![endif]--&amp;gt; &amp;lt;head data-machine-id=&amp;quot;WEB7441&amp;quot;&amp;gt;     &amp;lt;!-- MachineID: WEB7441 --&amp;gt;     &amp;lt;title&amp;gt;Home - Roblox&amp;lt;/title&amp;gt;     &amp;lt;meta http-equiv=&amp;quot;X-UA-Compatible&amp;quot; content=&amp;quot;IE=edge,requiresActiveX=true&amp;quot; /&amp;gt; &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;author&amp;quot; content=&amp;quot;Roblox Corporation&amp;quot; /&amp;gt; &amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;Roblox is a global platform that brings people together through play.&amp;quot; /&amp;gt; &amp;lt;meta name=&amp;quot;keywords&amp;quot; content=&amp;quot;free games, online games, building games, virtual worlds, free mmo, gaming cloud, physics engine&amp;quot; /&amp;gt;      &amp;lt;meta name=&amp;quot;apple-itunes-app&amp;quot; content=...",
-    "forks_count": 57,
+    "forks_count": 60,
     "html_url": "https://github.com/djkaley5555/roblox.com",
     "keywords": [
         "Windows use after free",
-        "Chrome use after free"
+        "Chrome use after free",
+        "Microsoft use after free"
     ],
     "language": null,
     "repo_name": "roblox.com",
     "repo_owner": "djkaley5555",
     "repotime": "2021-12-20, 20:50:16",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 9,
@@ -586,7 +587,7 @@
     "date_started": "2021-12-16",
     "date_updated": "2021-12-19",
     "description": "Escalate from a low-integrity Administrator account to NT AUTHORITY\\SYSTEM without an LPE exploit by combining a COM UAC bypass and Token Impersonation",
-    "forks_count": 70,
+    "forks_count": 71,
     "html_url": "https://github.com/FULLSHADE/Auto-Elevate",
     "keywords": [
         "uac bypass",
@@ -597,8 +598,8 @@
     "repo_name": "Auto-Elevate",
     "repo_owner": "FULLSHADE",
     "repotime": "2021-12-19, 17:06:18",
-    "stargazers_count": 155,
-    "watchers_count": 155
+    "stargazers_count": 156,
+    "watchers_count": 156
 }
 {
     "commits_count": 5,
@@ -754,8 +755,8 @@
     "repo_name": "shakeitoff",
     "repo_owner": "jbaines-r7",
     "repotime": "2021-12-17, 07:53:51",
-    "stargazers_count": 76,
-    "watchers_count": 76
+    "stargazers_count": 78,
+    "watchers_count": 78
 }
 {
     "commits_count": 28,
@@ -935,7 +936,7 @@
     "date_started": "2021-12-10",
     "date_updated": "2021-12-15",
     "description": "log4j rce test environment and poc",
-    "forks_count": 88,
+    "forks_count": 89,
     "html_url": "https://github.com/leonjza/log4jpwn",
     "keywords": [
         "rce poc"
@@ -944,15 +945,15 @@
     "repo_name": "log4jpwn",
     "repo_owner": "leonjza",
     "repotime": "2021-12-15, 19:17:43",
-    "stargazers_count": 310,
-    "watchers_count": 310
+    "stargazers_count": 311,
+    "watchers_count": 311
 }
 {
     "commits_count": 11,
     "date_started": "2021-12-15",
     "date_updated": "2021-12-15",
     "description": "Apache Log4j Zero Day Vulnerability aka Log4Shell aka CVE-2021-44228",
-    "forks_count": 4,
+    "forks_count": 5,
     "html_url": "https://github.com/kubearmor/log4j-CVE-2021-44228",
     "keywords": [
         "zero-day vulnerability"
@@ -961,8 +962,8 @@
     "repo_name": "log4j-CVE-2021-44228",
     "repo_owner": "kubearmor",
     "repotime": "2021-12-15, 21:59:14",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 6,
@@ -1253,7 +1254,7 @@
     "date_started": "2019-06-04",
     "date_updated": "2021-12-12",
     "description": "Demo code for post &amp;lt;Restrictions of JNDI Manipulation RCE &amp;amp; Bypass&amp;gt;",
-    "forks_count": 44,
+    "forks_count": 42,
     "html_url": "https://github.com/kxcode/JNDI-Exploit-Bypass-Demo",
     "keywords": [
         "rce exploit"
@@ -1262,8 +1263,8 @@
     "repo_name": "JNDI-Exploit-Bypass-Demo",
     "repo_owner": "kxcode",
     "repotime": "2021-12-12, 11:29:21",
-    "stargazers_count": 261,
-    "watchers_count": 261
+    "stargazers_count": 262,
+    "watchers_count": 262
 }
 {
     "commits_count": 7,

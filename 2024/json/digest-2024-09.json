@@ -16,24 +16,6 @@
     "watchers_count": 35
 }
 {
-    "commits_count": 73,
-    "date_started": "2020-11-27",
-    "date_updated": "2024-09-30",
-    "description": "Zero-day and Exploit code of some  applications",
-    "forks_count": 2,
-    "html_url": "https://github.com/mustgundogdu/Research",
-    "keywords": [
-        "zero-day exploitation",
-        "zero-day exploit"
-    ],
-    "language": null,
-    "repo_name": "Research",
-    "repo_owner": "mustgundogdu",
-    "repotime": "2024-09-30, 16:36:42",
-    "stargazers_count": 8,
-    "watchers_count": 8
-}
-{
     "commits_count": 2,
     "date_started": "2024-09-27",
     "date_updated": "2024-09-30",
@@ -134,8 +116,8 @@
     "repo_name": "0day-mikrotik",
     "repo_owner": "mrmtwoj",
     "repotime": "2024-09-29, 11:04:47",
-    "stargazers_count": 112,
-    "watchers_count": 112
+    "stargazers_count": 114,
+    "watchers_count": 114
 }
 {
     "commits_count": 11,
@@ -210,7 +192,7 @@
     "date_started": "2017-04-30",
     "date_updated": "2024-09-23",
     "description": "hack tools",
-    "forks_count": 492,
+    "forks_count": 493,
     "html_url": "https://github.com/hacktoolspack/hack-tools",
     "keywords": [
         "0day exploit",
@@ -220,8 +202,8 @@
     "repo_name": "hack-tools",
     "repo_owner": "hacktoolspack",
     "repotime": "2024-09-23, 23:27:19",
-    "stargazers_count": 1126,
-    "watchers_count": 1126
+    "stargazers_count": 1131,
+    "watchers_count": 1131
 }
 {
     "commits_count": 35,
@@ -317,14 +299,15 @@
     "html_url": "https://github.com/joshuavanderpoll/CVE-2021-3129",
     "keywords": [
         "rce vulnerability",
-        "rce exploit"
+        "rce exploit",
+        "rce exploitation"
     ],
     "language": "Python",
     "repo_name": "CVE-2021-3129",
     "repo_owner": "joshuavanderpoll",
     "repotime": "2024-09-20, 10:40:05",
-    "stargazers_count": 109,
-    "watchers_count": 109
+    "stargazers_count": 112,
+    "watchers_count": 112
 }
 {
     "commits_count": 3,
@@ -495,7 +478,7 @@
     "date_started": "2024-09-14",
     "date_updated": "2024-09-15",
     "description": "Stuxnet extracted binaries by reversing &amp;amp; Stuxnet Rootkit Analysis",
-    "forks_count": 16,
+    "forks_count": 17,
     "html_url": "https://github.com/x86byte/Stuxnet-Rootkit",
     "keywords": [
         "zero-day analysis"
@@ -504,8 +487,8 @@
     "repo_name": "Stuxnet-Rootkit",
     "repo_owner": "x86byte",
     "repotime": "2024-09-15, 00:01:28",
-    "stargazers_count": 61,
-    "watchers_count": 61
+    "stargazers_count": 64,
+    "watchers_count": 64
 }
 {
     "commits_count": 5,
@@ -728,23 +711,6 @@
     "repotime": "2024-09-09, 22:16:00",
     "stargazers_count": 2,
     "watchers_count": 2
-}
-{
-    "commits_count": 215,
-    "date_started": "2013-08-03",
-    "date_updated": "2024-09-09",
-    "description": "A drop-in replacement for PHP's default session handler which stores session data in a MySQL database, providing better performance, better security and protection against session fixation and session hijacking",
-    "forks_count": 86,
-    "html_url": "https://github.com/stefangabos/Zebra_Session",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "PHP",
-    "repo_name": "Zebra_Session",
-    "repo_owner": "stefangabos",
-    "repotime": "2024-09-09, 21:11:15",
-    "stargazers_count": 174,
-    "watchers_count": 174
 }
 {
     "commits_count": 44,
