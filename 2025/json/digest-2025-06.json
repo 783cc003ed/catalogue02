@@ -12,8 +12,8 @@
     "repo_name": "JoomHeist",
     "repo_owner": "kaotickj",
     "repotime": "2025-06-30, 22:56:09",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 2,
@@ -97,8 +97,8 @@
     "repo_name": "CVE-2024-54498-PoC",
     "repo_owner": "wh1te4ever",
     "repotime": "2025-06-29, 07:57:45",
-    "stargazers_count": 60,
-    "watchers_count": 60
+    "stargazers_count": 62,
+    "watchers_count": 62
 }
 {
     "commits_count": 1,
@@ -148,8 +148,8 @@
     "repo_name": "slui-file-handler-hijack-privilege-escalation",
     "repo_owner": "bytecode77",
     "repotime": "2025-06-28, 12:37:51",
-    "stargazers_count": 93,
-    "watchers_count": 93
+    "stargazers_count": 94,
+    "watchers_count": 94
 }
 {
     "commits_count": 3,
@@ -241,7 +241,7 @@
     "date_started": "2025-06-27",
     "date_updated": "2025-06-27",
     "description": "Advance And Powerful Shellcode That Work On Fully Patched Debian 14 Systems and Bypass ASLR And NX Protections",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/bugbounty88/Shellcode-Advanced",
     "keywords": [
         "aslr bypass"
@@ -250,15 +250,15 @@
     "repo_name": "Shellcode-Advanced",
     "repo_owner": "bugbounty88",
     "repotime": "2025-06-27, 06:14:53",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 3,
     "date_started": "2025-06-26",
     "date_updated": "2025-06-27",
     "description": "Tool That Exploit Format String Vulnerablellity In Programs To Leak Memory Addresses From Stack, Powerful 💪, Advanced🥇 And Easy To Use ✨",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/bugbounty88/MemSpy",
     "keywords": [
         "memory leak exploit"
@@ -267,15 +267,15 @@
     "repo_name": "MemSpy",
     "repo_owner": "bugbounty88",
     "repotime": "2025-06-27, 05:32:56",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 42,
     "date_started": "2025-01-03",
     "date_updated": "2025-06-27",
     "description": "SQL Injection Scout 是一个用于 Burp Suite 的扩展，专为帮助安全研究人员和开发人员检测和分析 SQL 注入漏洞而设计。该扩展提供了丰富的配置选项和直观的用户界面，便于用户自定义扫描和分析过程。",
-    "forks_count": 7,
+    "forks_count": 10,
     "html_url": "https://github.com/JaveleyQAQ/SQL-Injection-Scout",
     "keywords": [
         "sql injection"
@@ -284,8 +284,8 @@
     "repo_name": "SQL-Injection-Scout",
     "repo_owner": "JaveleyQAQ",
     "repotime": "2025-06-27, 07:56:00",
-    "stargazers_count": 168,
-    "watchers_count": 168
+    "stargazers_count": 191,
+    "watchers_count": 191
 }
 {
     "commits_count": 3,
@@ -326,7 +326,7 @@
     "date_started": "2020-02-12",
     "date_updated": "2025-06-26",
     "description": "An XSS Exploitation Tool",
-    "forks_count": 61,
+    "forks_count": 62,
     "html_url": "https://github.com/Sharpforce/XSS-Exploitation-Tool",
     "keywords": [
         "xss"
@@ -335,8 +335,8 @@
     "repo_name": "XSS-Exploitation-Tool",
     "repo_owner": "Sharpforce",
     "repotime": "2025-06-26, 16:03:27",
-    "stargazers_count": 318,
-    "watchers_count": 318
+    "stargazers_count": 317,
+    "watchers_count": 317
 }
 {
     "commits_count": 2,
@@ -360,7 +360,7 @@
     "date_started": "2023-04-25",
     "date_updated": "2025-06-26",
     "description": "An AWS IAM policy statement parser and query tool.",
-    "forks_count": 16,
+    "forks_count": 15,
     "html_url": "https://github.com/RhinoSecurityLabs/IAMActionHunter",
     "keywords": [
         "by_owner"
@@ -369,8 +369,8 @@
     "repo_name": "IAMActionHunter",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2025-06-26, 08:23:13",
-    "stargazers_count": 193,
-    "watchers_count": 193
+    "stargazers_count": 194,
+    "watchers_count": 194
 }
 {
     "commits_count": 3,
@@ -388,40 +388,6 @@
     "repotime": "2025-06-26, 15:51:49",
     "stargazers_count": 16,
     "watchers_count": 16
-}
-{
-    "commits_count": 7,
-    "date_started": "2025-06-24",
-    "date_updated": "2025-06-25",
-    "description": "Broken Authentication Lab This lab provides a hands-on demonstration of credential stuffing (using Postman +weakpass) and session hijacking (via low-entropy session IDs) against a vulnerable login.php app. ",
-    "forks_count": 0,
-    "html_url": "https://github.com/Vestertech/Pen_test",
-    "keywords": [
-        "session vulnerability"
-    ],
-    "language": "PHP",
-    "repo_name": "Pen_test",
-    "repo_owner": "Vestertech",
-    "repotime": "2025-06-25, 18:24:56",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 7,
-    "date_started": "2025-06-25",
-    "date_updated": "2025-06-25",
-    "description": "Langflow versions prior to 1.3.0 are susceptible to code injection in the /api/v1/validate/code endpoint. A remote and unauthenticated attacker can send crafted HTTP requests to execute arbitrary code.",
-    "forks_count": 1,
-    "html_url": "https://github.com/ill-deed/Langflow-CVE-2025-3248-Multi-target",
-    "keywords": [
-        "unauthenticated attacker"
-    ],
-    "language": "Python",
-    "repo_name": "Langflow-CVE-2025-3248-Multi-target",
-    "repo_owner": "ill-deed",
-    "repotime": "2025-06-25, 15:57:23",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 15,
@@ -454,8 +420,8 @@
     "repo_name": "Online-Quiz",
     "repo_owner": "shreyajadhav98",
     "repotime": "2025-06-25, 18:35:05",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 7,
@@ -530,7 +496,7 @@
     "date_started": "2025-06-24",
     "date_updated": "2025-06-24",
     "description": "the POC of package.json RCE",
-    "forks_count": 8,
+    "forks_count": 9,
     "html_url": "https://github.com/orwagodfather/NPM-RCE",
     "keywords": [
         "rce poc"
@@ -539,8 +505,8 @@
     "repo_name": "NPM-RCE",
     "repo_owner": "orwagodfather",
     "repotime": "2025-06-24, 11:52:16",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 26,
+    "watchers_count": 26
 }
 {
     "commits_count": 12,
@@ -556,8 +522,8 @@
     "repo_name": "depscanner",
     "repo_owner": "sensepost",
     "repotime": "2025-06-24, 08:07:42",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 4,
@@ -594,6 +560,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 6,
+    "date_started": "2025-06-22",
+    "date_updated": "2025-06-24",
+    "description": "Powerful unauthenticated RCE scanner for CVE-2025-3248 affecting Langflow &amp;lt; 1.3.0",
+    "forks_count": 0,
+    "html_url": "https://github.com/issamjr/CVE-2025-3248-Scanner",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-3248-Scanner",
+    "repo_owner": "issamjr",
+    "repotime": "2025-06-24, 00:11:03",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 85,
     "date_started": "2025-06-22",
     "date_updated": "2025-06-23",
@@ -609,23 +592,6 @@
     "repotime": "2025-06-23, 19:55:22",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 9,
-    "date_started": "2025-06-19",
-    "date_updated": "2025-06-23",
-    "description": "Crema is a static analysis tool for Rust-C FFI. It detects memory errors (memory leak, double-free and use-after-free) in pure Rust code and Rust interacting with C code.",
-    "forks_count": 0,
-    "html_url": "https://github.com/AFx3/crema-static-analyzer",
-    "keywords": [
-        "use after free analysis"
-    ],
-    "language": "Rust",
-    "repo_name": "crema-static-analyzer",
-    "repo_owner": "AFx3",
-    "repotime": "2025-06-23, 16:13:40",
-    "stargazers_count": 2,
-    "watchers_count": 2
 }
 {
     "commits_count": 353,
@@ -700,23 +666,6 @@
     "commits_count": 2,
     "date_started": "2025-06-22",
     "date_updated": "2025-06-22",
-    "description": "Snyk learn lesson on improper input validation",
-    "forks_count": 0,
-    "html_url": "https://github.com/olsigjecii/improper_input_validation",
-    "keywords": [
-        "improper input validation"
-    ],
-    "language": "Rust",
-    "repo_name": "improper_input_validation",
-    "repo_owner": "olsigjecii",
-    "repotime": "2025-06-22, 11:10:01",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 2,
-    "date_started": "2025-06-22",
-    "date_updated": "2025-06-22",
     "description": "Using mona to bypass DEP, with TRUN exploit",
     "forks_count": 0,
     "html_url": "https://github.com/xKarma98/VulnServerDEP_bypass",
@@ -746,24 +695,6 @@
     "repotime": "2025-06-22, 03:56:36",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 138,
-    "date_started": "2019-04-19",
-    "date_updated": "2025-06-21",
-    "description": "Top disclosed reports from HackerOne",
-    "forks_count": 843,
-    "html_url": "https://github.com/reddelexc/hackerone-reports",
-    "keywords": [
-        "xxe",
-        "ssrf"
-    ],
-    "language": "Python",
-    "repo_name": "hackerone-reports",
-    "repo_owner": "reddelexc",
-    "repotime": "2025-06-21, 21:21:52",
-    "stargazers_count": 4655,
-    "watchers_count": 4655
 }
 {
     "commits_count": 4,
@@ -796,8 +727,8 @@
     "repo_name": "blackvenom",
     "repo_owner": "sergio11",
     "repotime": "2025-06-21, 10:25:12",
-    "stargazers_count": 20,
-    "watchers_count": 20
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 3,
@@ -882,8 +813,8 @@
     "repo_name": "MTuner",
     "repo_owner": "RudjiGames",
     "repotime": "2025-06-20, 20:13:40",
-    "stargazers_count": 2717,
-    "watchers_count": 2717
+    "stargazers_count": 2727,
+    "watchers_count": 2727
 }
 {
     "commits_count": 10,
@@ -902,23 +833,6 @@
     "repotime": "2025-06-20, 20:00:05",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 178,
-    "date_started": "2024-05-30",
-    "date_updated": "2025-06-20",
-    "description": "Fourth evolution of Code Injection for Xcode",
-    "forks_count": 7,
-    "html_url": "https://github.com/johnno1962/InjectionNext",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Swift",
-    "repo_name": "InjectionNext",
-    "repo_owner": "johnno1962",
-    "repotime": "2025-06-20, 19:36:40",
-    "stargazers_count": 185,
-    "watchers_count": 185
 }
 {
     "commits_count": 5,
@@ -942,7 +856,7 @@
     "date_started": "2025-05-13",
     "date_updated": "2025-06-20",
     "description": "Code for the paper &amp;quot;Defeating Prompt Injections by Design&amp;quot;",
-    "forks_count": 6,
+    "forks_count": 14,
     "html_url": "https://github.com/google-research/camel-prompt-injection",
     "keywords": [
         "code injection"
@@ -951,15 +865,15 @@
     "repo_name": "camel-prompt-injection",
     "repo_owner": "google-research",
     "repotime": "2025-06-20, 15:59:27",
-    "stargazers_count": 42,
-    "watchers_count": 42
+    "stargazers_count": 114,
+    "watchers_count": 114
 }
 {
     "commits_count": 743,
     "date_started": "2018-07-17",
     "date_updated": "2025-06-20",
     "description": "CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool",
-    "forks_count": 699,
+    "forks_count": 701,
     "html_url": "https://github.com/RhinoSecurityLabs/cloudgoat",
     "keywords": [
         "by_owner"
@@ -968,8 +882,8 @@
     "repo_name": "cloudgoat",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2025-06-20, 08:19:51",
-    "stargazers_count": 3302,
-    "watchers_count": 3302
+    "stargazers_count": 3331,
+    "watchers_count": 3331
 }
 {
     "commits_count": 4,
@@ -1045,18 +959,19 @@
     "date_started": "2025-06-18",
     "date_updated": "2025-06-19",
     "description": "Windows Remote Desktop Services Vulnerability Allows Remote Code Execution",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/Sincan2/RCE-CVE-2025-32710",
     "keywords": [
         "Windows rce",
-        "Windows remote code execution vulnerability"
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution"
     ],
     "language": "Shell",
     "repo_name": "RCE-CVE-2025-32710",
     "repo_owner": "Sincan2",
     "repotime": "2025-06-19, 10:48:42",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 5,
@@ -1120,14 +1035,15 @@
     "forks_count": 0,
     "html_url": "https://github.com/liandd/Buffer_overflow_slmail",
     "keywords": [
-        "rce dos"
+        "rce dos",
+        "Windows rce"
     ],
     "language": "Python",
     "repo_name": "Buffer_overflow_slmail",
     "repo_owner": "liandd",
     "repotime": "2025-06-17, 20:38:26",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 3,
@@ -1151,7 +1067,7 @@
     "date_started": "2024-09-10",
     "date_updated": "2025-06-17",
     "description": "Automate Recon XSS Bug Bounty ",
-    "forks_count": 56,
+    "forks_count": 57,
     "html_url": "https://github.com/xss0r/xssorRecon",
     "keywords": [
         "xss"
@@ -1160,8 +1076,8 @@
     "repo_name": "xssorRecon",
     "repo_owner": "xss0r",
     "repotime": "2025-06-17, 13:03:05",
-    "stargazers_count": 163,
-    "watchers_count": 163
+    "stargazers_count": 169,
+    "watchers_count": 169
 }
 {
     "commits_count": 19,
@@ -1228,8 +1144,8 @@
     "repo_name": "rbac-college-erp",
     "repo_owner": "Sukrut10k",
     "repotime": "2025-06-17, 00:06:14",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -1262,8 +1178,8 @@
     "repo_name": "CVE_2025_6169",
     "repo_owner": "Yuri08loveElaina",
     "repotime": "2025-06-16, 15:04:23",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 5,
@@ -1279,8 +1195,8 @@
     "repo_name": "CVE-2025-2783",
     "repo_owner": "byteReaper77",
     "repotime": "2025-06-16, 03:42:08",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 5,
@@ -1347,8 +1263,8 @@
     "repo_name": "CVE_2025_32433_exploit",
     "repo_owner": "Yuri08loveElaina",
     "repotime": "2025-06-15, 20:02:51",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 5,
@@ -1364,8 +1280,8 @@
     "repo_name": "CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit",
     "repo_owner": "Yuri08loveElaina",
     "repotime": "2025-06-15, 19:54:28",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 2,
@@ -1399,8 +1315,8 @@
     "repo_name": "CVE_2025_6065",
     "repo_owner": "Yuri08loveElaina",
     "repotime": "2025-06-15, 16:33:33",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 41,
@@ -1416,8 +1332,8 @@
     "repo_name": "Autopentesting-Recon",
     "repo_owner": "wasif-itu",
     "repotime": "2025-06-14, 22:33:20",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 11,
@@ -1457,7 +1373,7 @@
     "commits_count": 10,
     "date_started": "2025-02-05",
     "date_updated": "2025-06-13",
-    "description": "Write-up and proof of concepts for my vulnerability CVE-2021-30862, 1-click RCE bug in iOS iTunes U",
+    "description": "Write-up and proof of concepts for CVE-2021-30862, 1-click RCE bug in iOS iTunes U",
     "forks_count": 0,
     "html_url": "https://github.com/3h6-1/CVE-2021-30862",
     "keywords": [
@@ -1485,8 +1401,8 @@
     "repo_name": "-Windows-11-SMB-Client-RCE-Privilege-Escalation-Exploit-Using-DNS-Poisoning-NTLM-Relay-RPC-Coercion",
     "repo_owner": "mbanyamer",
     "repotime": "2025-06-13, 20:36:48",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 161,
@@ -1607,15 +1523,15 @@
     "repo_name": "Penetration-Testing-on-Open5Gs",
     "repo_owner": "contisimone99",
     "repotime": "2025-06-12, 12:34:56",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 802,
     "date_started": "2013-06-25",
     "date_updated": "2025-06-12",
     "description": "Cleans HTML to avoid XSS attacks",
-    "forks_count": 212,
+    "forks_count": 213,
     "html_url": "https://github.com/mganss/HtmlSanitizer",
     "keywords": [
         "xss"
@@ -1624,8 +1540,8 @@
     "repo_name": "HtmlSanitizer",
     "repo_owner": "mganss",
     "repotime": "2025-06-12, 12:20:40",
-    "stargazers_count": 1631,
-    "watchers_count": 1631
+    "stargazers_count": 1649,
+    "watchers_count": 1649
 }
 {
     "commits_count": 30,
@@ -1730,40 +1646,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 229,
-    "date_started": "2018-12-19",
-    "date_updated": "2025-06-11",
-    "description": "TypeScript clients for databases that prevent SQL Injection",
-    "forks_count": 46,
-    "html_url": "https://github.com/ForbesLindesay/atdatabases",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "TypeScript",
-    "repo_name": "atdatabases",
-    "repo_owner": "ForbesLindesay",
-    "repotime": "2025-06-11, 12:07:21",
-    "stargazers_count": 618,
-    "watchers_count": 618
-}
-{
-    "commits_count": 56,
-    "date_started": "2024-12-02",
-    "date_updated": "2025-06-11",
-    "description": " Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication ",
-    "forks_count": 0,
-    "html_url": "https://github.com/hidden9090/evilginx2",
-    "keywords": [
-        "session attack"
-    ],
-    "language": "Go",
-    "repo_name": "evilginx2",
-    "repo_owner": "hidden9090",
-    "repotime": "2025-06-11, 02:53:59",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
     "commits_count": 4,
     "date_started": "2025-06-10",
     "date_updated": "2025-06-10",
@@ -1777,8 +1659,8 @@
     "repo_name": "CVE-2025-24016",
     "repo_owner": "rxerium",
     "repotime": "2025-06-10, 19:56:38",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 3,
@@ -2019,23 +1901,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 107,
-    "date_started": "2019-06-22",
-    "date_updated": "2025-06-07",
-    "description": "Python tool to find potential Server Side Reqest Forgery (SSRF) vulnerability parameters.",
-    "forks_count": 69,
-    "html_url": "https://github.com/In3tinct/See-SURF",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Python",
-    "repo_name": "See-SURF",
-    "repo_owner": "In3tinct",
-    "repotime": "2025-06-07, 17:53:26",
-    "stargazers_count": 323,
-    "watchers_count": 323
-}
-{
     "commits_count": 21,
     "date_started": "2025-04-04",
     "date_updated": "2025-06-06",
@@ -2074,7 +1939,7 @@
     "date_started": "2025-06-06",
     "date_updated": "2025-06-06",
     "description": "Proof of Concept demonstrating Remote Code Execution through insecure deserialization in Roundcube (CVE-2025-49113).",
-    "forks_count": 6,
+    "forks_count": 15,
     "html_url": "https://github.com/hakaioffsec/CVE-2025-49113-exploit",
     "keywords": [
         "remote code execution proof of concept",
@@ -2084,8 +1949,8 @@
     "repo_name": "CVE-2025-49113-exploit",
     "repo_owner": "hakaioffsec",
     "repotime": "2025-06-06, 04:40:23",
-    "stargazers_count": 44,
-    "watchers_count": 44
+    "stargazers_count": 72,
+    "watchers_count": 72
 }
 {
     "commits_count": 23,
@@ -2171,8 +2036,8 @@
     "repo_name": "Portscanner",
     "repo_owner": "FANATICAL-SCOUT",
     "repotime": "2025-06-05, 14:10:39",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1,
@@ -2213,7 +2078,7 @@
     "date_started": "2025-06-04",
     "date_updated": "2025-06-04",
     "description": "Code execution/injection technique using DLL PEB module structure manipulation",
-    "forks_count": 19,
+    "forks_count": 27,
     "html_url": "https://github.com/RWXstoned/LdrShuffle",
     "keywords": [
         "code injection"
@@ -2222,15 +2087,15 @@
     "repo_name": "LdrShuffle",
     "repo_owner": "RWXstoned",
     "repotime": "2025-06-04, 15:23:48",
-    "stargazers_count": 134,
-    "watchers_count": 134
+    "stargazers_count": 174,
+    "watchers_count": 174
 }
 {
     "commits_count": 17,
     "date_started": "2022-12-12",
     "date_updated": "2025-06-04",
     "description": "A Server Side Request Forgery (SSRF) protection library. Made with 🖤 by Doyensec LLC.",
-    "forks_count": 9,
+    "forks_count": 10,
     "html_url": "https://github.com/doyensec/safeurl",
     "keywords": [
         "server side request forgery",
@@ -2240,8 +2105,8 @@
     "repo_name": "safeurl",
     "repo_owner": "doyensec",
     "repotime": "2025-06-04, 13:50:27",
-    "stargazers_count": 104,
-    "watchers_count": 104
+    "stargazers_count": 107,
+    "watchers_count": 107
 }
 {
     "commits_count": 1739,
@@ -2287,7 +2152,7 @@
     "date_started": "2018-12-18",
     "date_updated": "2025-06-03",
     "description": "Proof-of-Concept exploits for CVEs found by the team at Rhino Security Labs",
-    "forks_count": 250,
+    "forks_count": 248,
     "html_url": "https://github.com/RhinoSecurityLabs/CVEs",
     "keywords": [
         "proof-of-concept",
@@ -2297,8 +2162,8 @@
     "repo_name": "CVEs",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2025-06-03, 20:34:21",
-    "stargazers_count": 870,
-    "watchers_count": 870
+    "stargazers_count": 873,
+    "watchers_count": 873
 }
 {
     "commits_count": 39,
@@ -2423,23 +2288,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 3,
-    "date_started": "2025-06-02",
-    "date_updated": "2025-06-02",
-    "description": "PPress-CMS session forgery + SSTI vulnerability leads to remote command execution",
-    "forks_count": 0,
-    "html_url": "https://github.com/quarter77/PPress-CMS-session-forgery-SSTI-vulnerability-leads-to-remote-command-execution",
-    "keywords": [
-        "session vulnerability"
-    ],
-    "language": null,
-    "repo_name": "PPress-CMS-session-forgery-SSTI-vulnerability-leads-to-remote-command-execution",
-    "repo_owner": "quarter77",
-    "repotime": "2025-06-02, 16:14:23",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 4,
     "date_started": "2025-06-01",
     "date_updated": "2025-06-01",
@@ -2487,6 +2335,6 @@
     "repo_name": "NMIBlocker",
     "repo_owner": "oxunem",
     "repotime": "2025-06-01, 06:41:13",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }

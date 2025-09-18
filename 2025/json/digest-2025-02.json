@@ -118,23 +118,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 118,
-    "date_started": "2018-10-15",
-    "date_updated": "2025-02-26",
-    "description": "Automatic SSRF fuzzer and exploitation tool",
-    "forks_count": 547,
-    "html_url": "https://github.com/swisskyrepo/SSRFmap",
-    "keywords": [
-        "ssrf"
-    ],
-    "language": "Python",
-    "repo_name": "SSRFmap",
-    "repo_owner": "swisskyrepo",
-    "repotime": "2025-02-26, 20:38:36",
-    "stargazers_count": 3251,
-    "watchers_count": 3251
-}
-{
     "commits_count": 73,
     "date_started": "2022-01-10",
     "date_updated": "2025-02-26",
@@ -216,8 +199,8 @@
     "repo_name": "MagicADPwn",
     "repo_owner": "Mag1cByt3s",
     "repotime": "2025-02-26, 07:14:24",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 30,
@@ -241,7 +224,7 @@
     "date_started": "2022-10-01",
     "date_updated": "2025-02-26",
     "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
-    "forks_count": 375,
+    "forks_count": 391,
     "html_url": "https://github.com/r0oth3x49/ghauri",
     "keywords": [
         "sql injection"
@@ -250,15 +233,15 @@
     "repo_name": "ghauri",
     "repo_owner": "r0oth3x49",
     "repotime": "2025-02-26, 00:09:45",
-    "stargazers_count": 3598,
-    "watchers_count": 3598
+    "stargazers_count": 3684,
+    "watchers_count": 3684
 }
 {
     "commits_count": 4725,
     "date_started": "2017-05-29",
     "date_updated": "2025-02-25",
     "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
-    "forks_count": 167,
+    "forks_count": 165,
     "html_url": "https://github.com/airbus-seclab/bincat",
     "keywords": [
         "use after free analysis"
@@ -267,25 +250,8 @@
     "repo_name": "bincat",
     "repo_owner": "airbus-seclab",
     "repotime": "2025-02-25, 17:53:49",
-    "stargazers_count": 1821,
-    "watchers_count": 1821
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-02-25",
-    "date_updated": "2025-02-25",
-    "description": "CSCI218 Session 1 2025 Group 32 Assignment Submission",
-    "forks_count": 0,
-    "html_url": "https://github.com/lester-liam/csci218-diabetes-risk-prediction",
-    "keywords": [
-        "session prediction"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "csci218-diabetes-risk-prediction",
-    "repo_owner": "lester-liam",
-    "repotime": "2025-02-25, 17:21:16",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1830,
+    "watchers_count": 1830
 }
 {
     "commits_count": 5,
@@ -309,7 +275,7 @@
     "date_started": "2025-02-18",
     "date_updated": "2025-02-25",
     "description": "UAC Bypass using UIAccess program QuickAssist",
-    "forks_count": 12,
+    "forks_count": 15,
     "html_url": "https://github.com/R41N3RZUF477/QuickAssist_UAC_Bypass",
     "keywords": [
         "uac bypass"
@@ -318,8 +284,8 @@
     "repo_name": "QuickAssist_UAC_Bypass",
     "repo_owner": "R41N3RZUF477",
     "repotime": "2025-02-25, 02:25:30",
-    "stargazers_count": 108,
-    "watchers_count": 108
+    "stargazers_count": 120,
+    "watchers_count": 120
 }
 {
     "commits_count": 3,
@@ -377,7 +343,7 @@
     "date_started": "2015-05-28",
     "date_updated": "2025-02-24",
     "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
-    "forks_count": 564,
+    "forks_count": 569,
     "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
     "keywords": [
         "vulnerability",
@@ -391,8 +357,8 @@
     "repo_name": "HackSysExtremeVulnerableDriver",
     "repo_owner": "hacksysteam",
     "repotime": "2025-02-24, 17:49:16",
-    "stargazers_count": 2766,
-    "watchers_count": 2766
+    "stargazers_count": 2824,
+    "watchers_count": 2824
 }
 {
     "commits_count": 2450,
@@ -494,8 +460,8 @@
     "repo_name": "lhai36366",
     "repo_owner": "lhai36366",
     "repotime": "2025-02-23, 05:22:29",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 3,
@@ -571,7 +537,7 @@
     "date_started": "2021-10-17",
     "date_updated": "2025-02-21",
     "description": "Consider  the  design  of  a  database  for  a  web  site  that  allow  people  to  buy  and  sell  a  cypto called PPS (see website testing.ppswap.org). Only registered users can buy and sell PPS. Each user is identified by a userid, which is an email, first name, last name, birthday, address (street number, street, city, state, and zip code), balance of PPS and balance of dollar.  Initially, both PPS and dollar balances are zero. A user can withdraw and deposit dollars. A special user root (this is the only user whose id is root and not an email) initially will have the whole supply of PPS, which is 1T. A user will sell and buy PPS only with this special user root (in real life, this special root might be just a smart contract). The price of the PPS is set to 1M/$ initially. For the simplicity of this project, we assume each buy will increase the price by a little: each dollar can buy 1 less PPS after each buy. In the same way, each sell will decrease the price a little bit:  each  d...",
-    "forks_count": 5,
+    "forks_count": 3,
     "html_url": "https://github.com/jonschumaker/PPS_Project",
     "keywords": [
         "hard coded password"
@@ -582,23 +548,6 @@
     "repotime": "2025-02-21, 20:40:55",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 1,
-    "date_started": "2025-02-21",
-    "date_updated": "2025-02-21",
-    "description": "Validate file system paths to prevent errors and directory traversal attacks",
-    "forks_count": 0,
-    "html_url": "https://github.com/Le0X8/safepath",
-    "keywords": [
-        "path traversal attack"
-    ],
-    "language": "Rust",
-    "repo_name": "safepath",
-    "repo_owner": "Le0X8",
-    "repotime": "2025-02-21, 13:36:15",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 48,
@@ -658,13 +607,13 @@
     "date_updated": "2025-02-20",
     "description": "Illustrating session hijacking...",
     "forks_count": 0,
-    "html_url": "https://github.com/venantvr/Python.Session.Hijacking",
+    "html_url": "https://github.com/venantvr-security/Python.Session.Hijacking",
     "keywords": [
         "session hijacking"
     ],
     "language": "Python",
     "repo_name": "Python.Session.Hijacking",
-    "repo_owner": "venantvr",
+    "repo_owner": "venantvr-security",
     "repotime": "2025-02-20, 14:37:50",
     "stargazers_count": 0,
     "watchers_count": 0
@@ -734,25 +683,8 @@
     "repo_name": "CVE-2025-24016",
     "repo_owner": "0xjessie21",
     "repotime": "2025-02-19, 23:33:45",
-    "stargazers_count": 40,
-    "watchers_count": 40
-}
-{
-    "commits_count": 37,
-    "date_started": "2024-11-10",
-    "date_updated": "2025-02-19",
-    "description": "A command-line tool for analyzing the vulnerability of domain names to email spoofing attacks and suggesting changes for mitigation.",
-    "forks_count": 0,
-    "html_url": "https://github.com/v1sc0/stopemailspoofing",
-    "keywords": [
-        "spoofing vulnerability"
-    ],
-    "language": "Go",
-    "repo_name": "stopemailspoofing",
-    "repo_owner": "v1sc0",
-    "repotime": "2025-02-19, 06:57:17",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 41,
+    "watchers_count": 41
 }
 {
     "commits_count": 3,
@@ -776,7 +708,7 @@
     "date_started": "2025-02-11",
     "date_updated": "2025-02-18",
     "description": "Safari 1day RCE Exploit",
-    "forks_count": 27,
+    "forks_count": 28,
     "html_url": "https://github.com/wh1te4ever/WebKit-Bug-256172",
     "keywords": [
         "rce exploit",
@@ -786,8 +718,8 @@
     "repo_name": "WebKit-Bug-256172",
     "repo_owner": "wh1te4ever",
     "repotime": "2025-02-18, 17:58:05",
-    "stargazers_count": 142,
-    "watchers_count": 142
+    "stargazers_count": 146,
+    "watchers_count": 146
 }
 {
     "commits_count": 3,
@@ -855,15 +787,15 @@
     "repo_name": "ronin-vulns",
     "repo_owner": "ronin-rb",
     "repotime": "2025-02-17, 13:24:05",
-    "stargazers_count": 78,
-    "watchers_count": 78
+    "stargazers_count": 77,
+    "watchers_count": 77
 }
 {
     "commits_count": 25,
     "date_started": "2025-02-14",
     "date_updated": "2025-02-17",
     "description": "A multi-threaded web vulnerability fuzzer for automated testing of common web application flaws—XSS, SQLi, LFI, and more—featuring URL-based, crawler, and raw HTTP request modes with integrated session and authentication management.",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/Tharbouch/WebVulnFuzz",
     "keywords": [
         "session vulnerability"
@@ -872,8 +804,8 @@
     "repo_name": "WebVulnFuzz",
     "repo_owner": "Tharbouch",
     "repotime": "2025-02-17, 10:54:51",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 1,
@@ -1067,7 +999,7 @@
     "date_started": "2024-10-26",
     "date_updated": "2025-02-13",
     "description": "基于 BurpSuite 新版 MontoyaAPI 的 SSRF 漏洞自动探测插件",
-    "forks_count": 5,
+    "forks_count": 7,
     "html_url": "https://github.com/banchengkemeng/Auto-SSRF",
     "keywords": [
         "ssrf"
@@ -1076,8 +1008,8 @@
     "repo_name": "Auto-SSRF",
     "repo_owner": "banchengkemeng",
     "repotime": "2025-02-13, 13:59:13",
-    "stargazers_count": 103,
-    "watchers_count": 103
+    "stargazers_count": 113,
+    "watchers_count": 113
 }
 {
     "commits_count": 2,
@@ -1112,23 +1044,6 @@
     "repotime": "2025-02-12, 15:32:07",
     "stargazers_count": 2,
     "watchers_count": 2
-}
-{
-    "commits_count": 1,
-    "date_started": "2025-02-12",
-    "date_updated": "2025-02-12",
-    "description": "Web Applications Vulnerable to Path Traversal",
-    "forks_count": 0,
-    "html_url": "https://github.com/hashacademy/hash-path-traversal-vulnerable-labs",
-    "keywords": [
-        "path traversal vulnerability"
-    ],
-    "language": "JavaScript",
-    "repo_name": "hash-path-traversal-vulnerable-labs",
-    "repo_owner": "hashacademy",
-    "repotime": "2025-02-12, 21:30:25",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 2,
@@ -1265,8 +1180,8 @@
     "repo_name": "RayVLite",
     "repo_owner": "ProjectLOREM",
     "repotime": "2025-02-11, 20:05:56",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 28,
+    "watchers_count": 28
 }
 {
     "commits_count": 1,
@@ -1367,8 +1282,8 @@
     "repo_name": "SQL_Injection-Techniques",
     "repo_owner": "ifconfig-me",
     "repotime": "2025-02-10, 23:30:03",
-    "stargazers_count": 130,
-    "watchers_count": 130
+    "stargazers_count": 137,
+    "watchers_count": 137
 }
 {
     "commits_count": 1,
@@ -1426,7 +1341,7 @@
     "date_started": "2024-07-14",
     "date_updated": "2025-02-10",
     "description": "List of Directory Traversal/LFI Payloads Scraped from the Internet",
-    "forks_count": 36,
+    "forks_count": 38,
     "html_url": "https://github.com/ifconfig-me/Directory-Traversal-Payloads",
     "keywords": [
         "lfi"
@@ -1834,8 +1749,8 @@
     "repo_name": "advanced-sql-injection-for-awae",
     "repo_owner": "shreyaschavhan",
     "repotime": "2025-02-05, 10:53:10",
-    "stargazers_count": 202,
-    "watchers_count": 202
+    "stargazers_count": 203,
+    "watchers_count": 203
 }
 {
     "commits_count": 2,
@@ -2089,8 +2004,8 @@
     "repo_name": "berate_ap",
     "repo_owner": "sensepost",
     "repotime": "2025-02-03, 11:46:09",
-    "stargazers_count": 244,
-    "watchers_count": 244
+    "stargazers_count": 242,
+    "watchers_count": 242
 }
 {
     "commits_count": 5,

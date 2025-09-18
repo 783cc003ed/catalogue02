@@ -20,7 +20,7 @@
     "date_started": "2024-07-31",
     "date_updated": "2024-07-31",
     "description": "Demonstration of a critical vulnerability in WhatsApp that allows automatic execution of malicious .pyz (Python) files, leading to a reverse shell and privilege escalation on Windows systems. This exploit bypasses security checks in Windows Defender, UAC, antivirus software, and WhatsApp itself.",
-    "forks_count": 3,
+    "forks_count": 2,
     "html_url": "https://github.com/r000t1ng/Reverse-Shell-Whatsapp",
     "keywords": [
         "escalation of privileges exploit",
@@ -30,8 +30,8 @@
     "repo_name": "Reverse-Shell-Whatsapp",
     "repo_owner": "r000t1ng",
     "repotime": "2024-07-31, 03:45:48",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 8,
@@ -81,8 +81,8 @@
     "repo_name": "Email-Vulnerability-Checker",
     "repo_owner": "BLACK-SCORP10",
     "repotime": "2024-07-30, 18:15:37",
-    "stargazers_count": 96,
-    "watchers_count": 96
+    "stargazers_count": 98,
+    "watchers_count": 98
 }
 {
     "commits_count": 7,
@@ -116,8 +116,8 @@
     "repo_name": "RCEPatcher",
     "repo_owner": "stoneharry",
     "repotime": "2024-07-29, 19:45:35",
-    "stargazers_count": 58,
-    "watchers_count": 58
+    "stargazers_count": 59,
+    "watchers_count": 59
 }
 {
     "commits_count": 2,
@@ -135,8 +135,8 @@
     "repo_name": "CVE-2024-21338",
     "repo_owner": "Crowdfense",
     "repotime": "2024-07-29, 17:29:59",
-    "stargazers_count": 63,
-    "watchers_count": 63
+    "stargazers_count": 65,
+    "watchers_count": 65
 }
 {
     "commits_count": 23,
@@ -228,7 +228,7 @@
     "date_started": "2024-07-07",
     "date_updated": "2024-07-26",
     "description": "This is a script written in Python that allows the exploitation of the Chamilo's LMS software security flaw described in CVE-2023-4220",
-    "forks_count": 3,
+    "forks_count": 0,
     "html_url": "https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc",
     "keywords": [
         "unauthenticated rce"
@@ -237,8 +237,8 @@
     "repo_name": "chamilo-lms-unauthenticated-big-upload-rce-poc",
     "repo_owner": "m3m0o",
     "repotime": "2024-07-26, 21:19:17",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -322,8 +322,8 @@
     "repo_name": "WoL-RCE",
     "repo_owner": "Rannden-SHA",
     "repotime": "2024-07-24, 15:58:47",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 18,
@@ -365,7 +365,7 @@
     "date_started": "2019-01-15",
     "date_updated": "2024-07-23",
     "description": "A list of resources for those interested in getting started in bug bounties",
-    "forks_count": 1993,
+    "forks_count": 1994,
     "html_url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
     "keywords": [
         "ssrf"
@@ -374,8 +374,8 @@
     "repo_name": "Resources-for-Beginner-Bug-Bounty-Hunters",
     "repo_owner": "nahamsec",
     "repotime": "2024-07-23, 10:01:39",
-    "stargazers_count": 11398,
-    "watchers_count": 11398
+    "stargazers_count": 11514,
+    "watchers_count": 11514
 }
 {
     "commits_count": 3,
@@ -476,8 +476,8 @@
     "repo_name": "CVE-2020-13945-EXPLOIT",
     "repo_owner": "K3ysTr0K3R",
     "repotime": "2024-07-21, 12:21:07",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 2,
@@ -535,7 +535,7 @@
     "date_started": "2024-07-19",
     "date_updated": "2024-07-19",
     "description": "CVE-2024-40725 and CVE-2024-40898, affecting Apache HTTP Server versions 2.4.0 through 2.4.61. These flaws pose significant risks to web servers worldwide, potentially leading to source code disclosure and server-side request forgery (SSRF) attacks.",
-    "forks_count": 17,
+    "forks_count": 20,
     "html_url": "https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898",
     "keywords": [
         "server side request forgery"
@@ -544,8 +544,8 @@
     "repo_name": "CVE-2024-40725-CVE-2024-40898",
     "repo_owner": "TAM-K592",
     "repotime": "2024-07-19, 12:01:12",
-    "stargazers_count": 82,
-    "watchers_count": 82
+    "stargazers_count": 83,
+    "watchers_count": 83
 }
 {
     "commits_count": 21,
@@ -672,12 +672,13 @@
     "date_started": "2024-07-15",
     "date_updated": "2024-07-17",
     "description": "PoC -  Authenticated Remote Code Execution in VMware vCenter Server (Exploit)",
-    "forks_count": 9,
+    "forks_count": 8,
     "html_url": "https://github.com/l0n3m4n/CVE-2024-22274-RCE",
     "keywords": [
         "remote code execution vulnerability",
         "remote code execution exploit",
-        "rce exploitation"
+        "rce exploitation",
+        "remote code execution poc"
     ],
     "language": "Python",
     "repo_name": "CVE-2024-22274-RCE",
@@ -819,8 +820,8 @@
     "repo_name": "discord-injection",
     "repo_owner": "hackirby",
     "repotime": "2024-07-11, 14:35:05",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 1,
@@ -853,15 +854,15 @@
     "repo_name": "oxml_xxe",
     "repo_owner": "BuffaloWill",
     "repotime": "2024-07-10, 21:54:08",
-    "stargazers_count": 1097,
-    "watchers_count": 1097
+    "stargazers_count": 1107,
+    "watchers_count": 1107
 }
 {
     "commits_count": 62,
     "date_started": "2018-07-18",
     "date_updated": "2024-07-10",
     "description": "Notes about attacking Jenkins servers",
-    "forks_count": 335,
+    "forks_count": 333,
     "html_url": "https://github.com/gquere/pwn_jenkins",
     "keywords": [
         "rce exploit"
@@ -870,8 +871,8 @@
     "repo_name": "pwn_jenkins",
     "repo_owner": "gquere",
     "repotime": "2024-07-10, 13:18:30",
-    "stargazers_count": 2071,
-    "watchers_count": 2071
+    "stargazers_count": 2077,
+    "watchers_count": 2077
 }
 {
     "commits_count": 4,
@@ -887,8 +888,8 @@
     "repo_name": "MS-SharePoint-July-Patch-RCE-PoC",
     "repo_owner": "testanull",
     "repotime": "2024-07-10, 14:06:36",
-    "stargazers_count": 158,
-    "watchers_count": 158
+    "stargazers_count": 157,
+    "watchers_count": 157
 }
 {
     "commits_count": 21,
@@ -946,7 +947,7 @@
     "date_started": "2024-01-20",
     "date_updated": "2024-07-10",
     "description": "HEVD Exploit: ArbitraryWrite on Windows 10 22H2 - Bypassing KVA Shadow and SMEP via PML4 Entry Manipulation",
-    "forks_count": 6,
+    "forks_count": 7,
     "html_url": "https://github.com/ommadawn46/HEVD-Exploit-Win10-22H2-KVAS",
     "keywords": [
         "smep bypass"
@@ -955,8 +956,25 @@
     "repo_name": "HEVD-Exploit-Win10-22H2-KVAS",
     "repo_owner": "ommadawn46",
     "repotime": "2024-07-10, 09:52:46",
-    "stargazers_count": 31,
-    "watchers_count": 31
+    "stargazers_count": 32,
+    "watchers_count": 32
+}
+{
+    "commits_count": 20,
+    "date_started": "2024-03-27",
+    "date_updated": "2024-07-09",
+    "description": "TFRv2 for RCe, dynamic bypass and PenTesting for anti-virus. Collections of payloads for Android, Windows, and macOS.",
+    "forks_count": 10,
+    "html_url": "https://github.com/byt3n33dl3/TheFatRat_v2",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C",
+    "repo_name": "TheFatRat_v2",
+    "repo_owner": "byt3n33dl3",
+    "repotime": "2024-07-09, 10:49:42",
+    "stargazers_count": 120,
+    "watchers_count": 120
 }
 {
     "commits_count": 7,
@@ -980,17 +998,18 @@
     "date_started": "2024-04-25",
     "date_updated": "2024-07-08",
     "description": "CVE-2024-4040 CrushFTP SSTI LFI &amp;amp; Auth Bypass | Full Server Takeover | Wordlist Support",
-    "forks_count": 8,
+    "forks_count": 7,
     "html_url": "https://github.com/Stuub/CVE-2024-4040-SSTI-LFI-PoC",
     "keywords": [
-        "lfi"
+        "lfi",
+        "0day poc"
     ],
     "language": "Python",
     "repo_name": "CVE-2024-4040-SSTI-LFI-PoC",
     "repo_owner": "Stuub",
     "repotime": "2024-07-08, 00:47:57",
-    "stargazers_count": 57,
-    "watchers_count": 57
+    "stargazers_count": 56,
+    "watchers_count": 56
 }
 {
     "commits_count": 4,
@@ -1000,7 +1019,8 @@
     "forks_count": 0,
     "html_url": "https://github.com/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220",
     "keywords": [
-        "unauthenticated remote code execution"
+        "unauthenticated remote code execution",
+        "unrestricted file upload"
     ],
     "language": null,
     "repo_name": "Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220",
@@ -1078,8 +1098,8 @@
     "repo_name": "CVE-2024-36401",
     "repo_owner": "Mr-xn",
     "repotime": "2024-07-06, 09:57:58",
-    "stargazers_count": 51,
-    "watchers_count": 51
+    "stargazers_count": 52,
+    "watchers_count": 52
 }
 {
     "commits_count": 2,
@@ -1120,7 +1140,7 @@
     "date_started": "2024-07-02",
     "date_updated": "2024-07-05",
     "description": "PoC - Remote Unauthenticated Code Execution Vulnerability in OpenSSH server (Scanner and Exploit) ",
-    "forks_count": 30,
+    "forks_count": 31,
     "html_url": "https://github.com/l0n3m4n/CVE-2024-6387",
     "keywords": [
         "remote code execution vulnerability",
@@ -1134,8 +1154,8 @@
     "repo_name": "CVE-2024-6387",
     "repo_owner": "l0n3m4n",
     "repotime": "2024-07-05, 23:19:28",
-    "stargazers_count": 88,
-    "watchers_count": 88
+    "stargazers_count": 87,
+    "watchers_count": 87
 }
 {
     "commits_count": 7,
@@ -1170,8 +1190,8 @@
     "repo_name": "CVE-2024-6387",
     "repo_owner": "d0rb",
     "repotime": "2024-07-04, 23:04:30",
-    "stargazers_count": 44,
-    "watchers_count": 44
+    "stargazers_count": 47,
+    "watchers_count": 47
 }
 {
     "commits_count": 1,
@@ -1256,8 +1276,8 @@
     "repo_name": "lfienum",
     "repo_owner": "0bfxgh0st",
     "repotime": "2024-07-02, 18:04:19",
-    "stargazers_count": 61,
-    "watchers_count": 61
+    "stargazers_count": 60,
+    "watchers_count": 60
 }
 {
     "commits_count": 4,

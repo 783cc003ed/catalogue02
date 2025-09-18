@@ -12,8 +12,8 @@
     "repo_name": "ssrf-sheriff",
     "repo_owner": "teknogeek",
     "repotime": "2024-10-31, 13:47:15",
-    "stargazers_count": 328,
-    "watchers_count": 328
+    "stargazers_count": 330,
+    "watchers_count": 330
 }
 {
     "commits_count": 2,
@@ -37,7 +37,7 @@
     "date_started": "2018-03-11",
     "date_updated": "2024-10-31",
     "description": "Awesome XSS stuff",
-    "forks_count": 770,
+    "forks_count": 772,
     "html_url": "https://github.com/s0md3v/AwesomeXSS",
     "keywords": [
         "xss"
@@ -46,8 +46,8 @@
     "repo_name": "AwesomeXSS",
     "repo_owner": "s0md3v",
     "repotime": "2024-10-31, 00:31:09",
-    "stargazers_count": 4942,
-    "watchers_count": 4942
+    "stargazers_count": 4962,
+    "watchers_count": 4962
 }
 {
     "commits_count": 9,
@@ -148,8 +148,8 @@
     "repo_name": "Unauthenticated-RCE-FUXA-CVE-2023-33831",
     "repo_owner": "rodolfomarianocy",
     "repotime": "2024-10-27, 19:55:09",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 8,
@@ -237,23 +237,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 31,
-    "date_started": "2024-06-17",
-    "date_updated": "2024-10-23",
-    "description": "Drone Swarmer is an ESP8266 device based on RemoteIDSpoofer that spoofs &amp;quot;ghost&amp;quot; drones by exploiting an Open Drone ID vulnerability using Wi-Fi beacon broadcasts 📡  🛜",
-    "forks_count": 7,
-    "html_url": "https://github.com/ANG13T/drone-swarmer",
-    "keywords": [
-        "spoofing vulnerability"
-    ],
-    "language": "C",
-    "repo_name": "drone-swarmer",
-    "repo_owner": "ANG13T",
-    "repotime": "2024-10-23, 19:51:51",
-    "stargazers_count": 46,
-    "watchers_count": 46
-}
-{
     "commits_count": 2,
     "date_started": "2024-10-23",
     "date_updated": "2024-10-23",
@@ -275,7 +258,7 @@
     "date_started": "2023-02-28",
     "date_updated": "2024-10-23",
     "description": "C&amp;&#35;35; session hijacking gui",
-    "forks_count": 18,
+    "forks_count": 19,
     "html_url": "https://github.com/EbolaMan-YT/sessionsploit",
     "keywords": [
         "session hijacking"
@@ -284,8 +267,8 @@
     "repo_name": "sessionsploit",
     "repo_owner": "EbolaMan-YT",
     "repotime": "2024-10-23, 07:49:42",
-    "stargazers_count": 121,
-    "watchers_count": 121
+    "stargazers_count": 124,
+    "watchers_count": 124
 }
 {
     "commits_count": 3,
@@ -403,15 +386,15 @@
     "repo_name": "enzyme",
     "repo_owner": "camila314",
     "repotime": "2024-10-21, 18:04:57",
-    "stargazers_count": 116,
-    "watchers_count": 116
+    "stargazers_count": 118,
+    "watchers_count": 118
 }
 {
     "commits_count": 4,
     "date_started": "2024-10-20",
     "date_updated": "2024-10-20",
     "description": "Proof-of-Concept for LFI/Path Traversal vulnerability in Aiohttp =&amp;lt; 3.9.1",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/wizarddos/CVE-2024-23334",
     "keywords": [
         "path traversal vulnerability"
@@ -420,8 +403,8 @@
     "repo_name": "CVE-2024-23334",
     "repo_owner": "wizarddos",
     "repotime": "2024-10-20, 18:48:53",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 34,
@@ -440,8 +423,8 @@
     "repo_name": "CVE-2023-46747-RCE",
     "repo_owner": "W01fh4cker",
     "repotime": "2024-10-20, 18:27:37",
-    "stargazers_count": 204,
-    "watchers_count": 204
+    "stargazers_count": 206,
+    "watchers_count": 206
 }
 {
     "commits_count": 2,
@@ -618,7 +601,7 @@
     "date_started": "2024-10-17",
     "date_updated": "2024-10-17",
     "description": "CVE-2024-30090 - LPE PoC",
-    "forks_count": 22,
+    "forks_count": 23,
     "html_url": "https://github.com/Dor00tkit/CVE-2024-30090",
     "keywords": [
         "lpe poc"
@@ -627,15 +610,15 @@
     "repo_name": "CVE-2024-30090",
     "repo_owner": "Dor00tkit",
     "repotime": "2024-10-17, 17:53:29",
-    "stargazers_count": 107,
-    "watchers_count": 107
+    "stargazers_count": 108,
+    "watchers_count": 108
 }
 {
     "commits_count": 3,
     "date_started": "2024-09-11",
     "date_updated": "2024-10-17",
     "description": "Xploitra is a powerful reverse shell payload generator for educational and security testing. It offers customizable payloads with advanced obfuscation and session management, making it ideal for simulating real-world attack scenarios and assessing system security.",
-    "forks_count": 9,
+    "forks_count": 10,
     "html_url": "https://github.com/AnonKryptiQuz/Xploitra",
     "keywords": [
         "session attack"
@@ -644,8 +627,8 @@
     "repo_name": "Xploitra",
     "repo_owner": "AnonKryptiQuz",
     "repotime": "2024-10-17, 08:30:49",
-    "stargazers_count": 64,
-    "watchers_count": 64
+    "stargazers_count": 72,
+    "watchers_count": 72
 }
 {
     "commits_count": 4,
@@ -661,8 +644,8 @@
     "repo_name": "CVE-2024-6778-POC",
     "repo_owner": "ading2210",
     "repotime": "2024-10-17, 01:12:24",
-    "stargazers_count": 93,
-    "watchers_count": 93
+    "stargazers_count": 94,
+    "watchers_count": 94
 }
 {
     "commits_count": 10,
@@ -686,7 +669,7 @@
     "date_started": "2024-08-07",
     "date_updated": "2024-10-16",
     "description": "LMAP (large language model mapper) is like NMAP for LLM, is an LLM Vulnerability Scanner and Zero-day Vulnerability Fuzzer.",
-    "forks_count": 4,
+    "forks_count": 5,
     "html_url": "https://github.com/TrustAI-laboratory/LMAP",
     "keywords": [
         "zero-day vulnerability"
@@ -695,8 +678,8 @@
     "repo_name": "LMAP",
     "repo_owner": "TrustAI-laboratory",
     "repotime": "2024-10-16, 16:00:47",
-    "stargazers_count": 22,
-    "watchers_count": 22
+    "stargazers_count": 24,
+    "watchers_count": 24
 }
 {
     "commits_count": 1204,
@@ -954,23 +937,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 1193,
-    "date_started": "2016-12-09",
-    "date_updated": "2024-10-14",
-    "description": "This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can be declaratively extended by additional operations, which can be used to reassemble and execute the existing functionalities according to project-specific requirements. But also completely new commands can be integrated quickly and easily via dependency injection.",
-    "forks_count": 17,
-    "html_url": "https://github.com/techdivision/import-cli-simple",
-    "keywords": [
-        "csv injection"
-    ],
-    "language": "PHP",
-    "repo_name": "import-cli-simple",
-    "repo_owner": "techdivision",
-    "repotime": "2024-10-14, 11:53:52",
-    "stargazers_count": 70,
-    "watchers_count": 70
-}
-{
     "commits_count": 4,
     "date_started": "2023-06-19",
     "date_updated": "2024-10-13",
@@ -987,8 +953,8 @@
     "repo_name": "CVE-2023-27372",
     "repo_owner": "nuts7",
     "repotime": "2024-10-13, 21:08:54",
-    "stargazers_count": 66,
-    "watchers_count": 66
+    "stargazers_count": 65,
+    "watchers_count": 65
 }
 {
     "commits_count": 8,
@@ -1046,7 +1012,7 @@
     "date_started": "2017-05-04",
     "date_updated": "2024-10-12",
     "description": "XSS payloads for exploiting Markdown syntax",
-    "forks_count": 183,
+    "forks_count": 182,
     "html_url": "https://github.com/cujanovic/Markdown-XSS-Payloads",
     "keywords": [
         "xss"
@@ -1055,15 +1021,15 @@
     "repo_name": "Markdown-XSS-Payloads",
     "repo_owner": "cujanovic",
     "repotime": "2024-10-12, 14:43:35",
-    "stargazers_count": 474,
-    "watchers_count": 474
+    "stargazers_count": 478,
+    "watchers_count": 478
 }
 {
     "commits_count": 111,
     "date_started": "2017-03-21",
     "date_updated": "2024-10-12",
     "description": "SSRF (Server Side Request Forgery) testing resources",
-    "forks_count": 483,
+    "forks_count": 486,
     "html_url": "https://github.com/cujanovic/SSRF-Testing",
     "keywords": [
         "server side request forgery",
@@ -1073,8 +1039,8 @@
     "repo_name": "SSRF-Testing",
     "repo_owner": "cujanovic",
     "repotime": "2024-10-12, 14:43:20",
-    "stargazers_count": 2413,
-    "watchers_count": 2413
+    "stargazers_count": 2432,
+    "watchers_count": 2432
 }
 {
     "commits_count": 2,
@@ -1109,6 +1075,23 @@
     "repotime": "2024-10-11, 17:51:50",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 48,
+    "date_started": "2023-01-24",
+    "date_updated": "2024-10-11",
+    "description": "XSSRocket it is a tool designed for offensive security and XSS (Cross-Site Scripting) attacks.",
+    "forks_count": 35,
+    "html_url": "https://github.com/blackhatethicalhacking/XSSRocket",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Shell",
+    "repo_name": "XSSRocket",
+    "repo_owner": "blackhatethicalhacking",
+    "repotime": "2024-10-11, 12:18:15",
+    "stargazers_count": 146,
+    "watchers_count": 146
 }
 {
     "commits_count": 5633,
@@ -1159,8 +1142,8 @@
     "repo_name": "LPE_Windows_Exploitation",
     "repo_owner": "nu1lptr0",
     "repotime": "2024-10-10, 22:32:41",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 10,
@@ -1400,8 +1383,8 @@
     "repo_name": "airflow-remote-jupyter-notebook",
     "repo_owner": "marcelo225",
     "repotime": "2024-10-06, 10:13:33",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 3,
@@ -1417,8 +1400,8 @@
     "repo_name": "django-rce-exploit",
     "repo_owner": "Spix0r",
     "repotime": "2024-10-05, 23:53:01",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 4,
@@ -1536,8 +1519,8 @@
     "repo_name": "CVE-2024-47176",
     "repo_owner": "l0n3m4n",
     "repotime": "2024-10-04, 01:11:16",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 1,
@@ -1578,7 +1561,7 @@
     "date_started": "2024-08-08",
     "date_updated": "2024-10-02",
     "description": "Apache OFBiz RCE Scanner &amp;amp; Exploit (CVE-2024-38856)",
-    "forks_count": 11,
+    "forks_count": 12,
     "html_url": "https://github.com/securelayer7/CVE-2024-38856_Scanner",
     "keywords": [
         "rce exploitation"
@@ -1587,8 +1570,8 @@
     "repo_name": "CVE-2024-38856_Scanner",
     "repo_owner": "securelayer7",
     "repotime": "2024-10-02, 18:59:27",
-    "stargazers_count": 43,
-    "watchers_count": 43
+    "stargazers_count": 44,
+    "watchers_count": 44
 }
 {
     "commits_count": 8,
@@ -1629,7 +1612,7 @@
     "date_started": "2024-08-07",
     "date_updated": "2024-10-02",
     "description": "Fraktal's take on building an affordable Laser Fault Injection Rig",
-    "forks_count": 6,
+    "forks_count": 7,
     "html_url": "https://github.com/fraktalcyber/lfi-rig",
     "keywords": [
         "lfi"
@@ -1638,8 +1621,8 @@
     "repo_name": "lfi-rig",
     "repo_owner": "fraktalcyber",
     "repotime": "2024-10-02, 09:54:42",
-    "stargazers_count": 85,
-    "watchers_count": 85
+    "stargazers_count": 88,
+    "watchers_count": 88
 }
 {
     "commits_count": 7,

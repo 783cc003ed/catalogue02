@@ -46,8 +46,8 @@
     "repo_name": "JOP_ROCKET",
     "repo_owner": "Bw3ll",
     "repotime": "2024-08-30, 19:25:53",
-    "stargazers_count": 105,
-    "watchers_count": 105
+    "stargazers_count": 106,
+    "watchers_count": 106
 }
 {
     "commits_count": 1,
@@ -173,7 +173,7 @@
     "date_started": "2023-12-13",
     "date_updated": "2024-08-30",
     "description": "A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE).",
-    "forks_count": 23,
+    "forks_count": 24,
     "html_url": "https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE",
     "keywords": [
         "path traversal attack",
@@ -185,8 +185,8 @@
     "repo_name": "CVE-2023-50164-Apache-Struts-RCE",
     "repo_owner": "jakabakos",
     "repotime": "2024-08-30, 08:37:53",
-    "stargazers_count": 82,
-    "watchers_count": 82
+    "stargazers_count": 81,
+    "watchers_count": 81
 }
 {
     "commits_count": 2,
@@ -227,7 +227,7 @@
     "date_started": "2024-08-03",
     "date_updated": "2024-08-28",
     "description": "Kernel Level NMI Callback Blocker",
-    "forks_count": 14,
+    "forks_count": 16,
     "html_url": "https://github.com/DErDYAST1R/NmiCallbackBlocker",
     "keywords": [
         "patchguard bypass"
@@ -236,8 +236,8 @@
     "repo_name": "NmiCallbackBlocker",
     "repo_owner": "DErDYAST1R",
     "repotime": "2024-08-28, 19:49:08",
-    "stargazers_count": 108,
-    "watchers_count": 108
+    "stargazers_count": 119,
+    "watchers_count": 119
 }
 {
     "commits_count": 2,
@@ -322,15 +322,15 @@
     "repo_name": "chainreactor",
     "repo_owner": "ucsb-seclab",
     "repotime": "2024-08-27, 13:30:06",
-    "stargazers_count": 49,
-    "watchers_count": 49
+    "stargazers_count": 51,
+    "watchers_count": 51
 }
 {
     "commits_count": 9,
     "date_started": "2024-08-24",
     "date_updated": "2024-08-27",
     "description": "poc for CVE-2024-38063 (RCE in tcpip.sys)",
-    "forks_count": 122,
+    "forks_count": 123,
     "html_url": "https://github.com/ynwarcs/CVE-2024-38063",
     "keywords": [
         "rce poc"
@@ -494,8 +494,8 @@
     "repo_name": "Chrome-RCE-Poc",
     "repo_owner": "AabyssZG",
     "repotime": "2024-08-24, 14:22:02",
-    "stargazers_count": 86,
-    "watchers_count": 86
+    "stargazers_count": 88,
+    "watchers_count": 88
 }
 {
     "commits_count": 4,
@@ -632,8 +632,8 @@
     "repo_name": "CVE-2024-6387",
     "repo_owner": "Karmakstylez",
     "repotime": "2024-08-22, 10:50:24",
-    "stargazers_count": 132,
-    "watchers_count": 132
+    "stargazers_count": 139,
+    "watchers_count": 139
 }
 {
     "commits_count": 14,
@@ -692,7 +692,7 @@
     "date_started": "2024-08-12",
     "date_updated": "2024-08-20",
     "description": "针对PE文件的分离的攻防对抗工具，红队、研究者的好帮手。目前支持文件头伪装、证书区段感染。A no-kill confrontation tool for the separation of PE files, a good helper for red teams and researchers. Currently, file header spoofing and certificate segment infection are supported.",
-    "forks_count": 28,
+    "forks_count": 31,
     "html_url": "https://github.com/berryalen02/PECracker",
     "keywords": [
         "spoofing certificate"
@@ -701,8 +701,8 @@
     "repo_name": "PECracker",
     "repo_owner": "berryalen02",
     "repotime": "2024-08-20, 08:49:37",
-    "stargazers_count": 269,
-    "watchers_count": 269
+    "stargazers_count": 276,
+    "watchers_count": 276
 }
 {
     "commits_count": 18,
@@ -811,20 +811,21 @@
     "date_started": "2024-07-31",
     "date_updated": "2024-08-17",
     "description": "DeadPotato is a windows privilege escalation utility from the Potato family of exploits, leveraging the SeImpersonate right to obtain SYSTEM privileges.        This script has been customized from the original GodPotato source code by BeichenDream.",
-    "forks_count": 45,
+    "forks_count": 46,
     "html_url": "https://github.com/lypd0/DeadPotato",
     "keywords": [
         "escalation of privileges exploit",
         "Windows escalation of privileges",
         "escalation of privileges exploitation",
-        "Windows escalation of privileges exploit"
+        "Windows escalation of privileges exploit",
+        "Windows escalation of privileges exploitation"
     ],
     "language": "C#",
     "repo_name": "DeadPotato",
     "repo_owner": "lypd0",
     "repotime": "2024-08-17, 08:08:28",
-    "stargazers_count": 431,
-    "watchers_count": 431
+    "stargazers_count": 440,
+    "watchers_count": 440
 }
 {
     "commits_count": 9,
@@ -917,7 +918,7 @@
     "date_started": "2019-08-04",
     "date_updated": "2024-08-14",
     "description": "A list of useful payloads for Web Application Security and Pentest/CTF",
-    "forks_count": 56,
+    "forks_count": 57,
     "html_url": "https://github.com/zer0yu/Berserker",
     "keywords": [
         "xxe"
@@ -926,8 +927,8 @@
     "repo_name": "Berserker",
     "repo_owner": "zer0yu",
     "repotime": "2024-08-14, 16:06:00",
-    "stargazers_count": 305,
-    "watchers_count": 305
+    "stargazers_count": 307,
+    "watchers_count": 307
 }
 {
     "commits_count": 2,
@@ -1165,8 +1166,8 @@
     "repo_name": "threadfire",
     "repo_owner": "josh0xA",
     "repotime": "2024-08-08, 19:08:22",
-    "stargazers_count": 177,
-    "watchers_count": 177
+    "stargazers_count": 179,
+    "watchers_count": 179
 }
 {
     "commits_count": 3,
@@ -1356,8 +1357,8 @@
     "repo_name": "ssrf-exploit",
     "repo_owner": "errorfiathck",
     "repotime": "2024-08-03, 01:54:40",
-    "stargazers_count": 50,
-    "watchers_count": 50
+    "stargazers_count": 48,
+    "watchers_count": 48
 }
 {
     "commits_count": 3,

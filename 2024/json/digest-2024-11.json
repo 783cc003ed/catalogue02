@@ -71,7 +71,7 @@
     "date_started": "2020-07-09",
     "date_updated": "2024-11-29",
     "description": "A collection of tiny XSS Payloads that can be used in different contexts. https://tinyxss.terjanq.me",
-    "forks_count": 212,
+    "forks_count": 216,
     "html_url": "https://github.com/terjanq/Tiny-XSS-Payloads",
     "keywords": [
         "xss"
@@ -80,8 +80,8 @@
     "repo_name": "Tiny-XSS-Payloads",
     "repo_owner": "terjanq",
     "repotime": "2024-11-29, 23:58:22",
-    "stargazers_count": 2142,
-    "watchers_count": 2142
+    "stargazers_count": 2200,
+    "watchers_count": 2200
 }
 {
     "commits_count": 5,
@@ -97,8 +97,8 @@
     "repo_name": "DNS-Spoofer",
     "repo_owner": "spider863644",
     "repotime": "2024-11-29, 18:19:50",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 5,
@@ -165,8 +165,8 @@
     "repo_name": "SQLMutant",
     "repo_owner": "blackhatethicalhacking",
     "repotime": "2024-11-28, 22:06:35",
-    "stargazers_count": 150,
-    "watchers_count": 150
+    "stargazers_count": 152,
+    "watchers_count": 152
 }
 {
     "commits_count": 3,
@@ -190,7 +190,7 @@
     "date_started": "2020-07-06",
     "date_updated": "2024-11-28",
     "description": " A proof-of-concept Remote Desktop (RDP) session hijack utility",
-    "forks_count": 82,
+    "forks_count": 84,
     "html_url": "https://github.com/bohops/SharpRDPHijack",
     "keywords": [
         "session hijacking"
@@ -199,8 +199,8 @@
     "repo_name": "SharpRDPHijack",
     "repo_owner": "bohops",
     "repotime": "2024-11-28, 01:08:58",
-    "stargazers_count": 487,
-    "watchers_count": 487
+    "stargazers_count": 493,
+    "watchers_count": 493
 }
 {
     "commits_count": 2,
@@ -433,14 +433,15 @@
     "forks_count": 0,
     "html_url": "https://github.com/xthalach/CVE-2024-11318",
     "keywords": [
-        "session vulnerability"
+        "session vulnerability",
+        "session hijacking attack"
     ],
     "language": "Python",
     "repo_name": "CVE-2024-11318",
     "repo_owner": "xthalach",
     "repotime": "2024-11-25, 00:08:04",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 64,
@@ -626,8 +627,8 @@
     "repo_name": "PHPTickler",
     "repo_owner": "j4k0m",
     "repotime": "2024-11-21, 14:16:08",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 4,
@@ -694,8 +695,8 @@
     "repo_name": "XXE-Demos",
     "repo_owner": "Tib3rius",
     "repotime": "2024-11-20, 01:47:08",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 3,
@@ -784,8 +785,8 @@
     "repo_name": "abdal-anydesk-remote-ip-detector",
     "repo_owner": "ebrasha",
     "repotime": "2024-11-18, 18:39:29",
-    "stargazers_count": 38,
-    "watchers_count": 38
+    "stargazers_count": 35,
+    "watchers_count": 35
 }
 {
     "commits_count": 4,
@@ -869,8 +870,8 @@
     "repo_name": "CVE-2018-5955",
     "repo_owner": "MikeTheHash",
     "repotime": "2024-11-15, 17:36:27",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 1,
@@ -911,7 +912,7 @@
     "date_started": "2024-11-07",
     "date_updated": "2024-11-14",
     "description": "Fortinet Fortimanager Unauthenticated Remote Code Execution AKA FortiJump CVE-2024-47575",
-    "forks_count": 28,
+    "forks_count": 29,
     "html_url": "https://github.com/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575",
     "keywords": [
         "remote code execution exploit",
@@ -938,15 +939,15 @@
     "repo_name": "GWTMap",
     "repo_owner": "FSecureLABS",
     "repotime": "2024-11-14, 12:23:05",
-    "stargazers_count": 103,
-    "watchers_count": 103
+    "stargazers_count": 106,
+    "watchers_count": 106
 }
 {
     "commits_count": 28,
     "date_started": "2024-11-11",
     "date_updated": "2024-11-14",
     "description": "SQLMap Command Generator: A web-based tool to easily generate customizable SQLMap commands for testing SQL injection vulnerabilities. Features include target configuration, connection options, detection levels, and various SQL injection techniques. Perfect for penetration testers and security enthusiasts.",
-    "forks_count": 19,
+    "forks_count": 21,
     "html_url": "https://github.com/Acorzo1983/SQLMapCG",
     "keywords": [
         "sql injection"
@@ -955,8 +956,8 @@
     "repo_name": "SQLMapCG",
     "repo_owner": "Acorzo1983",
     "repotime": "2024-11-14, 12:52:11",
-    "stargazers_count": 69,
-    "watchers_count": 69
+    "stargazers_count": 74,
+    "watchers_count": 74
 }
 {
     "commits_count": 4,
@@ -997,7 +998,7 @@
     "date_started": "2021-10-28",
     "date_updated": "2024-11-13",
     "description": "Unauthenticated enumeration of AWS, Azure, and GCP Principals",
-    "forks_count": 32,
+    "forks_count": 33,
     "html_url": "https://github.com/righteousgambit/quiet-riot",
     "keywords": [
         "unauthenticated user"
@@ -1006,8 +1007,8 @@
     "repo_name": "quiet-riot",
     "repo_owner": "righteousgambit",
     "repotime": "2024-11-13, 13:41:26",
-    "stargazers_count": 235,
-    "watchers_count": 235
+    "stargazers_count": 241,
+    "watchers_count": 241
 }
 {
     "commits_count": 10,
@@ -1092,8 +1093,8 @@
     "repo_name": "Citrix-Virtual-Apps-XEN-Exploit",
     "repo_owner": "watchtowrlabs",
     "repotime": "2024-11-12, 14:29:32",
-    "stargazers_count": 196,
-    "watchers_count": 196
+    "stargazers_count": 195,
+    "watchers_count": 195
 }
 {
     "commits_count": 11,
@@ -1500,8 +1501,8 @@
     "repo_name": ".gg-axiomaccounts-1",
     "repo_owner": "RamanSamoil",
     "repotime": "2024-11-05, 16:30:55",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 75,
@@ -1593,7 +1594,7 @@
     "date_started": "2021-09-08",
     "date_updated": "2024-11-05",
     "description": "Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022",
-    "forks_count": 75,
+    "forks_count": 77,
     "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
     "keywords": [
         "uac bypass"
@@ -1602,8 +1603,8 @@
     "repo_name": "Automated-MUlti-UAC-Bypass",
     "repo_owner": "x0xr00t",
     "repotime": "2024-11-05, 13:45:21",
-    "stargazers_count": 447,
-    "watchers_count": 447
+    "stargazers_count": 452,
+    "watchers_count": 452
 }
 {
     "commits_count": 2,

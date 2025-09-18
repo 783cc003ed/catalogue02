@@ -20,7 +20,7 @@
     "date_started": "2023-08-30",
     "date_updated": "2023-08-31",
     "description": "This is a POC for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.",
-    "forks_count": 4,
+    "forks_count": 5,
     "html_url": "https://github.com/MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC",
     "keywords": [
         "rce proof of concept",
@@ -34,8 +34,8 @@
     "repo_name": "CVE-2023-38831-Winrar-Exploit-Generator-POC",
     "repo_owner": "MorDavid",
     "repotime": "2023-08-31, 18:07:48",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 14,
@@ -123,7 +123,7 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 47,
+    "commits_count": 48,
     "date_started": "2022-03-20",
     "date_updated": "2023-08-30",
     "description": "Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin，online https://51pwn.com",
@@ -136,8 +136,8 @@
     "repo_name": "go4Hacker",
     "repo_owner": "GhostTroops",
     "repotime": "2023-08-30, 16:43:21",
-    "stargazers_count": 147,
-    "watchers_count": 147
+    "stargazers_count": 146,
+    "watchers_count": 146
 }
 {
     "commits_count": 8,
@@ -292,8 +292,8 @@
     "repo_name": "CVE-2023-21768",
     "repo_owner": "Malwareman007",
     "repotime": "2023-08-27, 16:11:39",
-    "stargazers_count": 53,
-    "watchers_count": 53
+    "stargazers_count": 55,
+    "watchers_count": 55
 }
 {
     "commits_count": 457,
@@ -353,7 +353,7 @@
     "date_started": "2023-08-24",
     "date_updated": "2023-08-24",
     "description": "Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE",
-    "forks_count": 27,
+    "forks_count": 26,
     "html_url": "https://github.com/Octoberfest7/CVE-2023-36874_BOF",
     "keywords": [
         "Windows lpe"
@@ -362,8 +362,8 @@
     "repo_name": "CVE-2023-36874_BOF",
     "repo_owner": "Octoberfest7",
     "repotime": "2023-08-24, 20:30:01",
-    "stargazers_count": 206,
-    "watchers_count": 206
+    "stargazers_count": 205,
+    "watchers_count": 205
 }
 {
     "commits_count": 3,
@@ -451,8 +451,8 @@
     "repo_name": "CVE-2023-3519",
     "repo_owner": "BishopFox",
     "repotime": "2023-08-23, 09:27:28",
-    "stargazers_count": 226,
-    "watchers_count": 226
+    "stargazers_count": 227,
+    "watchers_count": 227
 }
 {
     "commits_count": 3,
@@ -519,8 +519,8 @@
     "repo_name": "bobby-tables",
     "repo_owner": "petdance",
     "repotime": "2023-08-22, 21:04:46",
-    "stargazers_count": 253,
-    "watchers_count": 253
+    "stargazers_count": 255,
+    "watchers_count": 255
 }
 {
     "commits_count": 33,
@@ -580,7 +580,7 @@
     "date_started": "2019-09-22",
     "date_updated": "2023-08-21",
     "description": "This Lab contain the sample codes which are vulnerable to Server-Side Request Forgery attack",
-    "forks_count": 201,
+    "forks_count": 200,
     "html_url": "https://github.com/incredibleindishell/SSRF_Vulnerable_Lab",
     "keywords": [
         "server side request forgery",
@@ -590,8 +590,8 @@
     "repo_name": "SSRF_Vulnerable_Lab",
     "repo_owner": "incredibleindishell",
     "repotime": "2023-08-21, 22:32:38",
-    "stargazers_count": 730,
-    "watchers_count": 730
+    "stargazers_count": 736,
+    "watchers_count": 736
 }
 {
     "commits_count": 15,
@@ -661,8 +661,8 @@
     "repo_name": "pghostile",
     "repo_owner": "Aiven-Open",
     "repotime": "2023-08-17, 11:21:11",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 3,
@@ -678,8 +678,8 @@
     "repo_name": "imagemagick-lfi-poc",
     "repo_owner": "Sybil-Scan",
     "repotime": "2023-08-16, 21:07:00",
-    "stargazers_count": 52,
-    "watchers_count": 52
+    "stargazers_count": 53,
+    "watchers_count": 53
 }
 {
     "commits_count": 3,
@@ -781,8 +781,8 @@
     "repo_name": "WPS-0DAY-20230809",
     "repo_owner": "b2git",
     "repotime": "2023-08-11, 21:34:35",
-    "stargazers_count": 141,
-    "watchers_count": 141
+    "stargazers_count": 143,
+    "watchers_count": 143
 }
 {
     "commits_count": 3,
@@ -1013,16 +1013,16 @@
     "date_updated": "2023-08-03",
     "description": "A file upload vulnerability allows attackers to inject malicious content into the application server. Also known as an unrestricted file upload",
     "forks_count": 0,
-    "html_url": "https://github.com/0xAbbarhSF/File-Upload-Exploit",
+    "html_url": "https://github.com/ar2o3/File-Upload-Exploit",
     "keywords": [
         "unrestricted file upload"
     ],
     "language": null,
     "repo_name": "File-Upload-Exploit",
-    "repo_owner": "0xAbbarhSF",
+    "repo_owner": "ar2o3",
     "repotime": "2023-08-03, 23:24:00",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 7,
@@ -1125,8 +1125,8 @@
     "repo_name": "Log4j-RCE-Scanner",
     "repo_owner": "adilsoybali",
     "repotime": "2023-08-02, 01:05:20",
-    "stargazers_count": 253,
-    "watchers_count": 253
+    "stargazers_count": 254,
+    "watchers_count": 254
 }
 {
     "commits_count": 13,

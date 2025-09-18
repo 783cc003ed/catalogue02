@@ -72,7 +72,7 @@
     "date_started": "2021-08-29",
     "date_updated": "2024-04-28",
     "description": "An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.",
-    "forks_count": 206,
+    "forks_count": 207,
     "html_url": "https://github.com/h4r5h1t/webcopilot",
     "keywords": [
         "rce vulnerability",
@@ -83,15 +83,15 @@
     "repo_name": "webcopilot",
     "repo_owner": "h4r5h1t",
     "repotime": "2024-04-28, 18:49:52",
-    "stargazers_count": 1238,
-    "watchers_count": 1238
+    "stargazers_count": 1244,
+    "watchers_count": 1244
 }
 {
     "commits_count": 7,
     "date_started": "2024-04-22",
     "date_updated": "2024-04-27",
     "description": "Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability",
-    "forks_count": 36,
+    "forks_count": 37,
     "html_url": "https://github.com/mansk1es/CVE-2024-21111",
     "keywords": [
         "escalation of privileges vulnerability"
@@ -102,23 +102,6 @@
     "repotime": "2024-04-27, 23:04:00",
     "stargazers_count": 219,
     "watchers_count": 219
-}
-{
-    "commits_count": 10,
-    "date_started": "2020-12-09",
-    "date_updated": "2024-04-27",
-    "description": "A tiny flask app for helping pentesters and bug hunters in XSS, Session Hijacking, Session Riding and Cookie Thieve.",
-    "forks_count": 1,
-    "html_url": "https://github.com/Fadavvi/Gamal",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "Python",
-    "repo_name": "Gamal",
-    "repo_owner": "Fadavvi",
-    "repotime": "2024-04-27, 00:25:59",
-    "stargazers_count": 7,
-    "watchers_count": 7
 }
 {
     "commits_count": 5,
@@ -142,7 +125,7 @@
     "date_started": "2024-04-26",
     "date_updated": "2024-04-26",
     "description": "Windows LPE Nday",
-    "forks_count": 10,
+    "forks_count": 12,
     "html_url": "https://github.com/ldpreload/werkernel",
     "keywords": [
         "Windows lpe"
@@ -151,8 +134,8 @@
     "repo_name": "werkernel",
     "repo_owner": "ldpreload",
     "repotime": "2024-04-26, 04:07:18",
-    "stargazers_count": 28,
-    "watchers_count": 28
+    "stargazers_count": 31,
+    "watchers_count": 31
 }
 {
     "commits_count": 7,
@@ -219,8 +202,8 @@
     "repo_name": "CVE-2023-42793",
     "repo_owner": "B4l3rI0n",
     "repotime": "2024-04-25, 01:10:27",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 49,
@@ -357,8 +340,8 @@
     "repo_name": "Kamek",
     "repo_owner": "Treeki",
     "repotime": "2024-04-21, 04:47:29",
-    "stargazers_count": 84,
-    "watchers_count": 84
+    "stargazers_count": 87,
+    "watchers_count": 87
 }
 {
     "commits_count": 6,
@@ -382,7 +365,7 @@
     "date_started": "2023-10-01",
     "date_updated": "2024-04-21",
     "description": "functions to exploit common web application vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Server-Side Request Forgery (SSRF), and Path Traversal.",
-    "forks_count": 12,
+    "forks_count": 13,
     "html_url": "https://github.com/AiGptCode/Ai-Security-URL",
     "keywords": [
         "cross-side-scripting",
@@ -393,8 +376,8 @@
     "repo_name": "Ai-Security-URL",
     "repo_owner": "AiGptCode",
     "repotime": "2024-04-21, 06:30:02",
-    "stargazers_count": 85,
-    "watchers_count": 85
+    "stargazers_count": 86,
+    "watchers_count": 86
 }
 {
     "commits_count": 7,
@@ -418,7 +401,7 @@
     "date_started": "2020-04-27",
     "date_updated": "2024-04-18",
     "description": "A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team.",
-    "forks_count": 74,
+    "forks_count": 75,
     "html_url": "https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation",
     "keywords": [
         "by_owner"
@@ -427,8 +410,8 @@
     "repo_name": "GCP-IAM-Privilege-Escalation",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2024-04-18, 09:00:58",
-    "stargazers_count": 396,
-    "watchers_count": 396
+    "stargazers_count": 400,
+    "watchers_count": 400
 }
 {
     "commits_count": 1,
@@ -546,8 +529,8 @@
     "repo_name": "CVE-2024-1642470",
     "repo_owner": "Symbolexe",
     "repotime": "2024-04-15, 21:24:39",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 10,
@@ -639,7 +622,7 @@
     "date_started": "2016-08-23",
     "date_updated": "2024-04-11",
     "description": "This repository holds all the list of advanced XSS payloads that can be used in penetration testing. These payloads can be loaded into XSS scanners as well.",
-    "forks_count": 800,
+    "forks_count": 801,
     "html_url": "https://github.com/pgaijin66/XSS-Payloads",
     "keywords": [
         "xss"
@@ -648,8 +631,8 @@
     "repo_name": "XSS-Payloads",
     "repo_owner": "pgaijin66",
     "repotime": "2024-04-11, 20:03:59",
-    "stargazers_count": 1074,
-    "watchers_count": 1074
+    "stargazers_count": 1084,
+    "watchers_count": 1084
 }
 {
     "commits_count": 7,
@@ -689,17 +672,17 @@
     "commits_count": 3,
     "date_started": "2024-02-14",
     "date_updated": "2024-04-10",
-    "description": "A simple Heap-based Buffer Overflow(with RCE) POC for Windows.",
+    "description": "A simple Heap-based Buffer Overflow(with RCE)-vulnerable application and POC for Windows.",
     "forks_count": 0,
-    "html_url": "https://github.com/Und3rTh3bu5/heapOverflow-win32-no-cfg",
+    "html_url": "https://github.com/GB102/Heap-Feng-Shui-Dojo",
     "keywords": [
         "Windows rce",
         "Windows rce poc",
         "Win rce"
     ],
     "language": "C++",
-    "repo_name": "heapOverflow-win32-no-cfg",
-    "repo_owner": "Und3rTh3bu5",
+    "repo_name": "Heap-Feng-Shui-Dojo",
+    "repo_owner": "GB102",
     "repotime": "2024-04-10, 17:49:05",
     "stargazers_count": 1,
     "watchers_count": 1
@@ -880,21 +863,22 @@
     "date_started": "2024-03-20",
     "date_updated": "2024-04-07",
     "description": "Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.",
-    "forks_count": 317,
+    "forks_count": 318,
     "html_url": "https://github.com/Notselwyn/CVE-2024-1086",
     "keywords": [
         "escalation of privileges poc",
         "lpe exploit",
         "escalation of privileges exploit",
         "escalation of privileges exploitation",
-        "lpe exploitation"
+        "lpe exploitation",
+        "lpe proof of concept"
     ],
     "language": "C",
     "repo_name": "CVE-2024-1086",
     "repo_owner": "Notselwyn",
     "repotime": "2024-04-07, 11:34:08",
-    "stargazers_count": 2389,
-    "watchers_count": 2389
+    "stargazers_count": 2391,
+    "watchers_count": 2391
 }
 {
     "commits_count": 2,

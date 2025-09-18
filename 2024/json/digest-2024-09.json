@@ -20,7 +20,7 @@
     "date_started": "2024-09-27",
     "date_updated": "2024-09-30",
     "description": "PoC and writeup for bypassing the initial patch of CVE-2024-0044, Android run-as any app vulnerability allowing privilege escalation from adb to installed app",
-    "forks_count": 24,
+    "forks_count": 23,
     "html_url": "https://github.com/canyie/CVE-2024-0044",
     "keywords": [
         "escalation of privileges poc"
@@ -29,8 +29,8 @@
     "repo_name": "CVE-2024-0044",
     "repo_owner": "canyie",
     "repotime": "2024-09-30, 20:47:42",
-    "stargazers_count": 154,
-    "watchers_count": 154
+    "stargazers_count": 160,
+    "watchers_count": 160
 }
 {
     "commits_count": 9,
@@ -40,14 +40,15 @@
     "forks_count": 1,
     "html_url": "https://github.com/BendicoE/WinUI3MultiWindowApp",
     "keywords": [
-        "Windows memory leak"
+        "Windows memory leak",
+        "Win memory leak"
     ],
     "language": "C#",
     "repo_name": "WinUI3MultiWindowApp",
     "repo_owner": "BendicoE",
     "repotime": "2024-09-30, 11:47:35",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 1,
@@ -84,23 +85,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 3,
-    "date_started": "2024-09-29",
-    "date_updated": "2024-09-29",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/annuraggg/SessionHijacking",
-    "keywords": [
-        "session hijacking"
-    ],
-    "language": "TypeScript",
-    "repo_name": "SessionHijacking",
-    "repo_owner": "annuraggg",
-    "repotime": "2024-09-29, 14:18:16",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 6,
     "date_started": "2018-07-25",
     "date_updated": "2024-09-29",
@@ -116,15 +100,15 @@
     "repo_name": "0day-mikrotik",
     "repo_owner": "mrmtwoj",
     "repotime": "2024-09-29, 11:04:47",
-    "stargazers_count": 114,
-    "watchers_count": 114
+    "stargazers_count": 115,
+    "watchers_count": 115
 }
 {
     "commits_count": 11,
     "date_started": "2024-01-31",
     "date_updated": "2024-09-28",
     "description": "PoCs of RCEs against open source C2 servers",
-    "forks_count": 17,
+    "forks_count": 18,
     "html_url": "https://github.com/IncludeSecurity/c2-vulnerabilities",
     "keywords": [
         "rce poc"
@@ -133,8 +117,8 @@
     "repo_name": "c2-vulnerabilities",
     "repo_owner": "IncludeSecurity",
     "repotime": "2024-09-28, 15:51:50",
-    "stargazers_count": 86,
-    "watchers_count": 86
+    "stargazers_count": 87,
+    "watchers_count": 87
 }
 {
     "commits_count": 1,
@@ -192,7 +176,7 @@
     "date_started": "2017-04-30",
     "date_updated": "2024-09-23",
     "description": "hack tools",
-    "forks_count": 493,
+    "forks_count": 495,
     "html_url": "https://github.com/hacktoolspack/hack-tools",
     "keywords": [
         "0day exploit",
@@ -202,8 +186,8 @@
     "repo_name": "hack-tools",
     "repo_owner": "hacktoolspack",
     "repotime": "2024-09-23, 23:27:19",
-    "stargazers_count": 1131,
-    "watchers_count": 1131
+    "stargazers_count": 1140,
+    "watchers_count": 1140
 }
 {
     "commits_count": 35,
@@ -295,7 +279,7 @@
     "date_started": "2022-04-16",
     "date_updated": "2024-09-20",
     "description": "Laravel RCE Exploit Script - CVE-2021-3129",
-    "forks_count": 23,
+    "forks_count": 24,
     "html_url": "https://github.com/joshuavanderpoll/CVE-2021-3129",
     "keywords": [
         "rce vulnerability",
@@ -306,8 +290,8 @@
     "repo_name": "CVE-2021-3129",
     "repo_owner": "joshuavanderpoll",
     "repotime": "2024-09-20, 10:40:05",
-    "stargazers_count": 112,
-    "watchers_count": 112
+    "stargazers_count": 113,
+    "watchers_count": 113
 }
 {
     "commits_count": 3,
@@ -331,7 +315,7 @@
     "date_started": "2020-02-13",
     "date_updated": "2024-09-20",
     "description": "Image preview support for lf (list files) using Überzug",
-    "forks_count": 47,
+    "forks_count": 46,
     "html_url": "https://github.com/thimc/lfimg",
     "keywords": [
         "lfi"
@@ -419,8 +403,8 @@
     "repo_name": "xsser",
     "repo_owner": "epsylon",
     "repotime": "2024-09-17, 09:58:12",
-    "stargazers_count": 1334,
-    "watchers_count": 1334
+    "stargazers_count": 1359,
+    "watchers_count": 1359
 }
 {
     "commits_count": 2,
@@ -470,15 +454,15 @@
     "repo_name": "CVE-2024-8504",
     "repo_owner": "Chocapikk",
     "repotime": "2024-09-16, 01:34:05",
-    "stargazers_count": 40,
-    "watchers_count": 40
+    "stargazers_count": 41,
+    "watchers_count": 41
 }
 {
     "commits_count": 15,
     "date_started": "2024-09-14",
     "date_updated": "2024-09-15",
     "description": "Stuxnet extracted binaries by reversing &amp;amp; Stuxnet Rootkit Analysis",
-    "forks_count": 17,
+    "forks_count": 18,
     "html_url": "https://github.com/x86byte/Stuxnet-Rootkit",
     "keywords": [
         "zero-day analysis"
@@ -487,8 +471,8 @@
     "repo_name": "Stuxnet-Rootkit",
     "repo_owner": "x86byte",
     "repotime": "2024-09-15, 00:01:28",
-    "stargazers_count": 64,
-    "watchers_count": 64
+    "stargazers_count": 66,
+    "watchers_count": 66
 }
 {
     "commits_count": 5,
@@ -512,7 +496,7 @@
     "date_started": "2020-04-15",
     "date_updated": "2024-09-13",
     "description": "GF Paterns For (ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic, interesting Subs) parameters grep",
-    "forks_count": 292,
+    "forks_count": 294,
     "html_url": "https://github.com/1ndianl33t/Gf-Patterns",
     "keywords": [
         "lfi",
@@ -522,8 +506,8 @@
     "repo_name": "Gf-Patterns",
     "repo_owner": "1ndianl33t",
     "repotime": "2024-09-13, 20:34:14",
-    "stargazers_count": 1335,
-    "watchers_count": 1335
+    "stargazers_count": 1361,
+    "watchers_count": 1361
 }
 {
     "commits_count": 1,
@@ -547,7 +531,7 @@
     "date_started": "2024-09-12",
     "date_updated": "2024-09-13",
     "description": "🚀 XSSFUZZ - A tool for detecting XSS vulnerabilities in web applications.",
-    "forks_count": 20,
+    "forks_count": 23,
     "html_url": "https://github.com/Asperis-Security/xssFuzz",
     "keywords": [
         "xss"
@@ -556,8 +540,8 @@
     "repo_name": "xssFuzz",
     "repo_owner": "Asperis-Security",
     "repotime": "2024-09-13, 10:44:50",
-    "stargazers_count": 104,
-    "watchers_count": 104
+    "stargazers_count": 114,
+    "watchers_count": 114
 }
 {
     "commits_count": 3,
@@ -581,7 +565,7 @@
     "date_started": "2024-07-13",
     "date_updated": "2024-09-11",
     "description": "CVE-2024-41570: Havoc C2 0.7 Teamserver SSRF exploit",
-    "forks_count": 13,
+    "forks_count": 14,
     "html_url": "https://github.com/chebuya/Havoc-C2-SSRF-poc",
     "keywords": [
         "ssrf"
@@ -590,8 +574,8 @@
     "repo_name": "Havoc-C2-SSRF-poc",
     "repo_owner": "chebuya",
     "repotime": "2024-09-11, 16:00:46",
-    "stargazers_count": 75,
-    "watchers_count": 75
+    "stargazers_count": 74,
+    "watchers_count": 74
 }
 {
     "commits_count": 9,
@@ -607,8 +591,8 @@
     "repo_name": "SSRF_Vulnerability",
     "repo_owner": "gh-ost00",
     "repotime": "2024-09-11, 14:03:19",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 16,
@@ -800,27 +784,6 @@
 }
 {
     "commits_count": 12,
-    "date_started": "2021-09-04",
-    "date_updated": "2024-09-07",
-    "description": "A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder.  To get started, simply fork this repo.  CONTRIBUTING See ways of contributing to this repo. You can contribute solutions (will be published in this repo) to existing problems, add new projects, or remove existing ones. Make sure you follow all instructions properly.  Solutions You can find implementations of these projects in many other languages by other users in this repo.  Credits  Problems are motivated by the ones shared at:  Martyr2’s Mega Project List Rosetta Code Table of Contents Numbers Classic Algorithms Graph Data Structures Text Networking Classes Threading Web Files Databases Graphics and Multimedia Security Numbers Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.  Find e to the Nth Dig...",
-    "forks_count": 35,
-    "html_url": "https://github.com/ManojKumarPatnaik/Major-project-list",
-    "keywords": [
-        "Windows zero-day analysis",
-        "zero-day analysis",
-        "path traversal attack",
-        "Windows zero-day",
-        "directory traversal attack"
-    ],
-    "language": null,
-    "repo_name": "Major-project-list",
-    "repo_owner": "ManojKumarPatnaik",
-    "repotime": "2024-09-07, 20:52:27",
-    "stargazers_count": 171,
-    "watchers_count": 171
-}
-{
-    "commits_count": 12,
     "date_started": "2024-09-07",
     "date_updated": "2024-09-07",
     "description": "This repository contains a comprehensive writeup for the mKingdom room on TryHackMe, detailing the steps taken to achieve complete ownership of the machine. Below is an overview of the process, including reconnaissance, exploitation, and privilege escalation.",
@@ -850,8 +813,8 @@
     "repo_name": "CVE-2024-8517",
     "repo_owner": "Chocapikk",
     "repotime": "2024-09-07, 04:12:04",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 1,
@@ -892,7 +855,7 @@
     "date_started": "2021-08-27",
     "date_updated": "2024-09-06",
     "description": "A 1 Liner SQL Injection Attack using SQLMAP and various parameters that helps quickly check for a vulnerabilities during Bug Bounty",
-    "forks_count": 10,
+    "forks_count": 11,
     "html_url": "https://github.com/blackhatethicalhacking/SQL-INJECTION-PWN",
     "keywords": [
         "sql injection"
@@ -960,7 +923,7 @@
     "date_started": "2024-09-01",
     "date_updated": "2024-09-05",
     "description": "Windows Exploit development : Bypass Data Execution Prevention (DEP) using ROP chains manually hard code",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/x86byte/ROPme",
     "keywords": [
         "dep bypass",
@@ -970,8 +933,8 @@
     "repo_name": "ROPme",
     "repo_owner": "x86byte",
     "repotime": "2024-09-05, 02:06:08",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 51,
@@ -987,8 +950,8 @@
     "repo_name": "hypno",
     "repo_owner": "kmaork",
     "repotime": "2024-09-04, 14:05:39",
-    "stargazers_count": 98,
-    "watchers_count": 98
+    "stargazers_count": 100,
+    "watchers_count": 100
 }
 {
     "commits_count": 4,

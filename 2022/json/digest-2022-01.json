@@ -74,7 +74,7 @@
     "date_started": "2022-01-30",
     "date_updated": "2022-01-31",
     "description": "-- -- File generated with SQLiteStudio v3.2.1 on Sun Feb 7 14:58:28 2021 -- -- Text encoding used: System -- PRAGMA foreign_keys = off; BEGIN TRANSACTION;  -- Table: Commands CREATE TABLE Commands (Command_No INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, Name TEXT REFERENCES Programs (Name) NOT NULL, Description TEXT NOT NULL, Command TEXT, File BLOB); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (1, 'Kerbrute', 'brute single user password', 'kerbrute bruteuers [flags]', NULL); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (2, 'Kerbrute', 'brute username:password combos from file or stdin', 'kerbrute brutforce [flags]', NULL); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (3, 'Kerbrute', 'test a single password agains a list of users', 'kerbrute passwordspray [flags]', NULL); INSERT INTO Commands (Command_No, Name, Description, Command, File) VALUES (4, 'Kerbrute', 'Enumerate valid domain usernames vi...",
-    "forks_count": 14,
+    "forks_count": 15,
     "html_url": "https://github.com/Don-No7/Hack-SQL",
     "keywords": [
         "path traversal vulnerability",
@@ -112,8 +112,8 @@
     "repo_name": "Hack-SQL",
     "repo_owner": "Don-No7",
     "repotime": "2022-01-31, 00:12:54",
-    "stargazers_count": 97,
-    "watchers_count": 97
+    "stargazers_count": 106,
+    "watchers_count": 106
 }
 {
     "commits_count": 2,
@@ -306,8 +306,8 @@
     "repo_name": "little-stitch",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2022-01-26, 20:41:24",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 3,
@@ -564,8 +564,8 @@
     "repo_name": "lucy-xss-servlet-filter",
     "repo_owner": "naver",
     "repotime": "2022-01-20, 21:29:00",
-    "stargazers_count": 243,
-    "watchers_count": 243
+    "stargazers_count": 245,
+    "watchers_count": 245
 }
 {
     "commits_count": 19,
@@ -632,8 +632,8 @@
     "repo_name": "wikijs-customization",
     "repo_owner": "madodig",
     "repotime": "2022-01-18, 19:49:54",
-    "stargazers_count": 113,
-    "watchers_count": 113
+    "stargazers_count": 115,
+    "watchers_count": 115
 }
 {
     "commits_count": 4,
@@ -657,7 +657,7 @@
     "date_started": "2019-05-21",
     "date_updated": "2022-01-18",
     "description": "small python3 tool to check common vulnerabilities in SMTP servers",
-    "forks_count": 37,
+    "forks_count": 36,
     "html_url": "https://github.com/xFreed0m/SMTPTester",
     "keywords": [
         "spoofing vulnerability"
@@ -666,8 +666,8 @@
     "repo_name": "SMTPTester",
     "repo_owner": "xFreed0m",
     "repotime": "2022-01-18, 18:08:48",
-    "stargazers_count": 161,
-    "watchers_count": 161
+    "stargazers_count": 163,
+    "watchers_count": 163
 }
 {
     "commits_count": 5,
@@ -717,15 +717,15 @@
     "repo_name": "CVE-2021-22205",
     "repo_owner": "inspiringz",
     "repotime": "2022-01-16, 23:54:07",
-    "stargazers_count": 230,
-    "watchers_count": 230
+    "stargazers_count": 231,
+    "watchers_count": 231
 }
 {
     "commits_count": 8,
     "date_started": "2020-07-09",
     "date_updated": "2022-01-16",
     "description": "&amp;&#35;35; Intellifotainment assist” – Smart HMI for passenger cars  To run the program, download all files and save them in the same directory. After that, simply run 'Master.py' in the terminal.  At the moment, the program will only run in linux based systems.    &amp;&#35;35; The Idea Infotainment systems have come a long way since the first set of dashboards installed in cars. Through our idea, we aim to create a Human Machine interaction model that takes infotainment systems to a new level. The driver tends to get distracted from the road while performing secondary tasks such as changing the music track, locking/unlocking the door while driving etc. Our system shall enable the driver to focus only on driving. Controlling the secondary tasks will be much easier. Our product primarily comprises of 5 modules:  1)  Attention and drowsiness detection: - A camera shall be present on the dashboard, in front of the driver, behind the steering wheel. Through digital image processing techniques , using ...",
-    "forks_count": 6,
+    "forks_count": 8,
     "html_url": "https://github.com/Nishant-Wadhwani/Intelligent-Infotainment-System-for-Automobiles",
     "keywords": [
         "Windows use after free"
@@ -734,8 +734,8 @@
     "repo_name": "Intelligent-Infotainment-System-for-Automobiles",
     "repo_owner": "Nishant-Wadhwani",
     "repotime": "2022-01-16, 13:16:56",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 2,
@@ -838,8 +838,8 @@
     "repo_name": "0day_dos_apple",
     "repo_owner": "darling-x0r",
     "repotime": "2022-01-14, 16:39:36",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 4,
@@ -908,8 +908,8 @@
     "repo_name": "badblood",
     "repo_owner": "jbaines-r7",
     "repotime": "2022-01-10, 18:34:57",
-    "stargazers_count": 95,
-    "watchers_count": 95
+    "stargazers_count": 96,
+    "watchers_count": 96
 }
 {
     "commits_count": 10,
@@ -1065,15 +1065,15 @@
     "repo_name": "fca-unofficial",
     "repo_owner": "Tinkprocodes",
     "repotime": "2022-01-04, 21:33:29",
-    "stargazers_count": 37,
-    "watchers_count": 37
+    "stargazers_count": 38,
+    "watchers_count": 38
 }
 {
     "commits_count": 1,
     "date_started": "2022-01-02",
     "date_updated": "2022-01-02",
     "description": "&amp;&#35;35;&amp;&#35;35;&amp;&#35;35; This module requires Metasploit: https://metasploit.com/download&amp;&#35;35; Current source: https://github.com/rapid7/metasploit-framework&amp;&#35;35;&amp;&#35;35;class MetasploitModule &amp;lt; Msf::Exploit::Remote  Rank = NormalRanking  prepend Msf::Exploit::Remote::AutoCheck  include Msf::Exploit::FileDropper  include Msf::Exploit::Remote::HttpClient  include Msf::Exploit::Remote::HttpServer  include Msf::Exploit::Remote::HTTP::Wordpress  def initialize(info = {})    super(      update_info(        info,        'Name' =&amp;gt; 'Wordpress Popular Posts Authenticated RCE',        'Description' =&amp;gt; %q{          This exploit requires Metasploit to have a FQDN and the ability to run a payload web server on port 80, 443, or 8080.          The FQDN must also not resolve to a reserved address (192/172/127/10).  The server must also respond to a HEAD request          for the payload, prior to getting a GET request.          This exploit leverages an authenticated improper input validation in Wordpress...",
-    "forks_count": 2,
+    "forks_count": 3,
     "html_url": "https://github.com/Nate0634034090/nate158g-m-w-n-l-p-d-a-o-e",
     "keywords": [
         "unauthenticated user",
@@ -1090,6 +1090,6 @@
     "repo_name": "nate158g-m-w-n-l-p-d-a-o-e",
     "repo_owner": "Nate0634034090",
     "repotime": "2022-01-02, 15:08:01",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 10,
+    "watchers_count": 10
 }

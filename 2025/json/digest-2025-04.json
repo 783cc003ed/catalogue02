@@ -501,8 +501,8 @@
     "repo_name": "CVE-2025-32432",
     "repo_owner": "Sachinart",
     "repotime": "2025-04-27, 14:35:54",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 21,
+    "watchers_count": 21
 }
 {
     "commits_count": 10,
@@ -561,7 +561,7 @@
     "date_started": "2017-06-26",
     "date_updated": "2025-04-26",
     "description": "Most advanced XSS scanner.",
-    "forks_count": 1996,
+    "forks_count": 2010,
     "html_url": "https://github.com/s0md3v/XSStrike",
     "keywords": [
         "xss"
@@ -570,8 +570,8 @@
     "repo_name": "XSStrike",
     "repo_owner": "s0md3v",
     "repotime": "2025-04-26, 14:17:06",
-    "stargazers_count": 14125,
-    "watchers_count": 14125
+    "stargazers_count": 14311,
+    "watchers_count": 14311
 }
 {
     "commits_count": 7,
@@ -587,8 +587,8 @@
     "repo_name": "CVE-2024-4577-PHP-RCE",
     "repo_owner": "ZephrFish",
     "repotime": "2025-04-26, 07:33:07",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 26,
+    "watchers_count": 26
 }
 {
     "commits_count": 4,
@@ -778,6 +778,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4,
+    "date_started": "2025-04-24",
+    "date_updated": "2025-04-24",
+    "description": "Lab: Exploiting Misconfigured Puppeteer to Achieve Local File Inclusion (LFI)",
+    "forks_count": 0,
+    "html_url": "https://github.com/x6vrn/exploiting_Puppeteer",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "exploiting_Puppeteer",
+    "repo_owner": "x6vrn",
+    "repotime": "2025-04-24, 14:59:21",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 24,
     "date_started": "2025-04-21",
     "date_updated": "2025-04-23",
@@ -844,23 +861,6 @@
     "repotime": "2025-04-23, 20:31:48",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 182,
-    "date_started": "2021-05-26",
-    "date_updated": "2025-04-23",
-    "description": "Create, edit and write a2l files with this rust crate",
-    "forks_count": 14,
-    "html_url": "https://github.com/DanielT/a2lfile",
-    "keywords": [
-        "lfi"
-    ],
-    "language": "Rust",
-    "repo_name": "a2lfile",
-    "repo_owner": "DanielT",
-    "repotime": "2025-04-23, 19:30:41",
-    "stargazers_count": 26,
-    "watchers_count": 26
 }
 {
     "commits_count": 5,
@@ -1015,8 +1015,8 @@
     "repo_name": "Commodity-Injection-Signatures",
     "repo_owner": "xsscx",
     "repotime": "2025-04-21, 11:07:40",
-    "stargazers_count": 405,
-    "watchers_count": 405
+    "stargazers_count": 402,
+    "watchers_count": 402
 }
 {
     "commits_count": 10,
@@ -1032,8 +1032,8 @@
     "repo_name": "mcp-exploit-demo",
     "repo_owner": "Repello-AI",
     "repotime": "2025-04-21, 18:08:32",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 4,
@@ -1092,7 +1092,7 @@
     "date_started": "2025-04-20",
     "date_updated": "2025-04-20",
     "description": "Various techniques used to bypass SMEP in the Windows Kernel.",
-    "forks_count": 3,
+    "forks_count": 6,
     "html_url": "https://github.com/r0keb/Smep-Bypass",
     "keywords": [
         "smep bypass"
@@ -1101,8 +1101,8 @@
     "repo_name": "Smep-Bypass",
     "repo_owner": "r0keb",
     "repotime": "2025-04-20, 20:42:37",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 2,
@@ -1188,8 +1188,8 @@
     "repo_name": "session_hijacking",
     "repo_owner": "p0unter",
     "repotime": "2025-04-19, 12:53:31",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 12,
@@ -1295,8 +1295,8 @@
     "repo_name": "CVE-2023-22515",
     "repo_owner": "rxerium",
     "repotime": "2025-04-18, 08:22:10",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 5,
@@ -1423,23 +1423,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 1403,
-    "date_started": "2016-11-14",
-    "date_updated": "2025-04-17",
-    "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (&amp;quot;transparent&amp;quot;) encryption. SQL, NoSQL.",
-    "forks_count": 131,
-    "html_url": "https://github.com/cossacklabs/acra",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Go",
-    "repo_name": "acra",
-    "repo_owner": "cossacklabs",
-    "repotime": "2025-04-17, 13:21:23",
-    "stargazers_count": 1411,
-    "watchers_count": 1411
-}
-{
     "commits_count": 5,
     "date_started": "2025-03-27",
     "date_updated": "2025-04-16",
@@ -1490,24 +1473,6 @@
     "repotime": "2025-04-16, 16:16:39",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 131,
-    "date_started": "2024-09-13",
-    "date_updated": "2025-04-16",
-    "description": "best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect",
-    "forks_count": 282,
-    "html_url": "https://github.com/coffinxp/loxs",
-    "keywords": [
-        "lfi",
-        "xss"
-    ],
-    "language": "Python",
-    "repo_name": "loxs",
-    "repo_owner": "coffinxp",
-    "repotime": "2025-04-16, 14:13:53",
-    "stargazers_count": 1246,
-    "watchers_count": 1246
 }
 {
     "commits_count": 358,
@@ -1906,7 +1871,7 @@
     "date_started": "2025-04-06",
     "date_updated": "2025-04-10",
     "description": "Code snippets to reproduce MCP tool poisoning attacks.",
-    "forks_count": 12,
+    "forks_count": 17,
     "html_url": "https://github.com/invariantlabs-ai/mcp-injection-experiments",
     "keywords": [
         "code injection"
@@ -1915,8 +1880,8 @@
     "repo_name": "mcp-injection-experiments",
     "repo_owner": "invariantlabs-ai",
     "repotime": "2025-04-10, 23:37:39",
-    "stargazers_count": 145,
-    "watchers_count": 145
+    "stargazers_count": 181,
+    "watchers_count": 181
 }
 {
     "commits_count": 1,
@@ -1941,13 +1906,13 @@
     "date_updated": "2025-04-10",
     "description": "A CTF challenge to demo path traversal vulnerability",
     "forks_count": 0,
-    "html_url": "https://github.com/phuhuynhlean/path_traversal_gallery",
+    "html_url": "https://github.com/BillionairePhu/vgucypher-gallery-demo",
     "keywords": [
         "path traversal vulnerability"
     ],
     "language": "HTML",
-    "repo_name": "path_traversal_gallery",
-    "repo_owner": "phuhuynhlean",
+    "repo_name": "vgucypher-gallery-demo",
+    "repo_owner": "BillionairePhu",
     "repotime": "2025-04-10, 22:40:08",
     "stargazers_count": 0,
     "watchers_count": 0
@@ -1966,8 +1931,8 @@
     "repo_name": "AMSI-WRITE-RAID-BYPASS",
     "repo_owner": "V-i-x-x",
     "repotime": "2025-04-10, 17:59:30",
-    "stargazers_count": 292,
-    "watchers_count": 292
+    "stargazers_count": 297,
+    "watchers_count": 297
 }
 {
     "commits_count": 1478,
@@ -2098,7 +2063,7 @@
     "date_started": "2025-03-27",
     "date_updated": "2025-04-09",
     "description": "A PoC of the exploit script for the Arbitrary File Read vulnerability of Vite /@fs/ Path Traversal in the transformMiddleware (CVE-2025-30208). ",
-    "forks_count": 0,
+    "forks_count": 3,
     "html_url": "https://github.com/4xura/CVE-2025-30208",
     "keywords": [
         "path traversal vulnerability"
@@ -2107,15 +2072,15 @@
     "repo_name": "CVE-2025-30208",
     "repo_owner": "4xura",
     "repotime": "2025-04-09, 08:49:11",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 15,
     "date_started": "2025-04-05",
     "date_updated": "2025-04-08",
     "description": "Command-line tool to detect email spoofing vulnerabilities by analyzing SPF and DMARC DNS records. Supports single and bulk domain checks with multiple output formats.",
-    "forks_count": 6,
+    "forks_count": 7,
     "html_url": "https://github.com/taygun08/spoof_checker",
     "keywords": [
         "spoofing vulnerability"
@@ -2143,23 +2108,6 @@
     "repotime": "2025-04-06, 23:27:24",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 41,
-    "date_started": "2025-01-30",
-    "date_updated": "2025-04-06",
-    "description": "GraphQL Authorization Tester is a tool that automates the testing of mutations in GraphQL to determine whether they are allowed or restricted for both authenticated and unauthenticated users.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ScarlyCodex/gqlms",
-    "keywords": [
-        "unauthenticated user"
-    ],
-    "language": "Go",
-    "repo_name": "gqlms",
-    "repo_owner": "ScarlyCodex",
-    "repotime": "2025-04-06, 22:20:26",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 7,
@@ -2197,23 +2145,6 @@
     "watchers_count": 24
 }
 {
-    "commits_count": 37,
-    "date_started": "2024-09-06",
-    "date_updated": "2025-04-05",
-    "description": "Automation tool to testing and confirm the xss vulnerability.",
-    "forks_count": 48,
-    "html_url": "https://github.com/iamunixtz/LazyXss",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Python",
-    "repo_name": "LazyXss",
-    "repo_owner": "iamunixtz",
-    "repotime": "2025-04-05, 09:28:00",
-    "stargazers_count": 272,
-    "watchers_count": 272
-}
-{
     "commits_count": 10,
     "date_started": "2025-03-31",
     "date_updated": "2025-04-05",
@@ -2245,8 +2176,8 @@
     "repo_name": "zerodayf",
     "repo_owner": "0xHamy",
     "repotime": "2025-04-05, 09:35:56",
-    "stargazers_count": 29,
-    "watchers_count": 29
+    "stargazers_count": 30,
+    "watchers_count": 30
 }
 {
     "commits_count": 25,
@@ -2262,8 +2193,8 @@
     "repo_name": "BankofAbel",
     "repo_owner": "abelreqma",
     "repotime": "2025-04-05, 00:58:56",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 2,
@@ -2287,7 +2218,7 @@
     "date_started": "2023-11-17",
     "date_updated": "2025-04-05",
     "description": "[漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.",
-    "forks_count": 35,
+    "forks_count": 36,
     "html_url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
     "keywords": [
         "xxe"
@@ -2296,15 +2227,15 @@
     "repo_name": "CVE-2023-4357-Chrome-XXE",
     "repo_owner": "xcanwin",
     "repotime": "2025-04-05, 02:37:38",
-    "stargazers_count": 218,
-    "watchers_count": 218
+    "stargazers_count": 221,
+    "watchers_count": 221
 }
 {
     "commits_count": 6,
     "date_started": "2025-04-04",
     "date_updated": "2025-04-04",
     "description": "YesWiki is a wiki system written in PHP. The squelette parameter is vulnerable to path traversal attacks, enabling read access to arbitrary files on the server.",
-    "forks_count": 2,
+    "forks_count": 0,
     "html_url": "https://github.com/MuhammadWaseem29/CVE-2025-31131",
     "keywords": [
         "path traversal attack"
@@ -2313,8 +2244,42 @@
     "repo_name": "CVE-2025-31131",
     "repo_owner": "MuhammadWaseem29",
     "repotime": "2025-04-04, 21:07:51",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-04-04",
+    "date_updated": "2025-04-04",
+    "description": "YesWiki is a wiki system written in PHP. The squelette parameter is vulnerable to path traversal attacks, enabling read access to arbitrary files on the server.",
+    "forks_count": 3,
+    "html_url": "https://github.com/nak000/CVE-2025-31131-RCE",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-31131-RCE",
+    "repo_owner": "nak000",
+    "repotime": "2025-04-04, 21:07:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-03-15",
+    "date_updated": "2025-04-04",
+    "description": "Deliberately vulnerable Flask app for ethical hacking practice  includes SQLi, XSS, CSRF, and weak session flaws.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sachinskyte/zomato-victim",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "zomato-victim",
+    "repo_owner": "sachinskyte",
+    "repotime": "2025-04-04, 17:59:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -2355,7 +2320,7 @@
     "date_started": "2025-03-08",
     "date_updated": "2025-04-04",
     "description": "AI-Powered GPT Web Vulnerability Scanner Detects security flaws (directory traversal, command injection) through context-aware payloads and GPT-assisted analysis, prioritizing ethical scanning with rate-limiting and safe testing protocols.",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/RicheByte/PentestGPT",
     "keywords": [
         "directory traversal vulnerability"
@@ -2364,8 +2329,8 @@
     "repo_name": "PentestGPT",
     "repo_owner": "RicheByte",
     "repotime": "2025-04-04, 00:22:53",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 245,
@@ -2469,23 +2434,6 @@
     "repotime": "2025-04-02, 22:57:50",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-01-02",
-    "date_updated": "2025-04-02",
-    "description": "This project is a program that uses Python to find SQL injection flaws in web applications. It tests them using different SQL payloads and automates the process of scanning forms on supplied URLs. Each CSV file containing the data is named after the domain that was scanned.",
-    "forks_count": 0,
-    "html_url": "https://github.com/hy3333/SqlSec_Tool",
-    "keywords": [
-        "csv injection"
-    ],
-    "language": "Python",
-    "repo_name": "SqlSec_Tool",
-    "repo_owner": "hy3333",
-    "repotime": "2025-04-02, 22:58:36",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 6,

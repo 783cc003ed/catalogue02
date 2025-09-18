@@ -228,7 +228,7 @@
     "date_started": "2018-08-19",
     "date_updated": "2018-08-19",
     "description": "InstagramLive-PHP Discord A PHP script that allows for you to go live on Instagram with any streaming program that supports RTMP!  Built with mgp25's amazing Instagram Private API Wrapper for PHP.  Note This has been only tested on Windows, I have no clue if this works on UNIX-Based Systems. Feel free to try though!  Additionally, I've only tested this in OBS. Therefore, I highly recommend using it.  Setup If you are running this after the first setup, work from step six on...  Install PHP, of course... Install Composer Clone the Repository Run composer install in the cloned folder Edit the Username and Password inside of config.php to your Instagram details Run the goLive.php script. (php goLive.php) Copy you Stream-URL and Stream-Key and paste them into your streaming software. See OBS-Setup Video Tutorial If you'd like a video version of this tutorial, see this video.  OBS-Setup Go to the &amp;quot;Stream&amp;quot; section of your OBS Settings Set &amp;quot;Stream Type&amp;quot; to &amp;quot;Custom Str...",
-    "forks_count": 3,
+    "forks_count": 4,
     "html_url": "https://github.com/penteseter123/LiveInstagramLocalhosts",
     "keywords": [
         "Windows use after free"
@@ -237,8 +237,8 @@
     "repo_name": "LiveInstagramLocalhosts",
     "repo_owner": "penteseter123",
     "repotime": "2018-08-19, 14:55:41",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 2,
@@ -347,15 +347,15 @@
     "repo_name": "-BoB07-Use-After-Free-Exploit-Code",
     "repo_owner": "jihwann",
     "repotime": "2018-08-16, 03:17:36",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 249,
     "date_started": "2015-06-11",
     "date_updated": "2018-08-14",
     "description": "massive SQL injection vulnerability scanner",
-    "forks_count": 380,
+    "forks_count": 379,
     "html_url": "https://github.com/the-robot/sqliv",
     "keywords": [
         "sql injection"
@@ -364,8 +364,8 @@
     "repo_name": "sqliv",
     "repo_owner": "the-robot",
     "repotime": "2018-08-14, 19:28:45",
-    "stargazers_count": 1213,
-    "watchers_count": 1213
+    "stargazers_count": 1222,
+    "watchers_count": 1222
 }
 {
     "commits_count": 4,
@@ -426,7 +426,7 @@
     "date_started": "2018-08-09",
     "date_updated": "2018-08-09",
     "description": "One Token To Rule Them All https://labs.mwrinfosecurity.com/blog/incognito-v2-0-released/ ",
-    "forks_count": 34,
+    "forks_count": 35,
     "html_url": "https://github.com/FSecureLABS/incognito",
     "keywords": [
         "by_owner"
@@ -435,8 +435,8 @@
     "repo_name": "incognito",
     "repo_owner": "FSecureLABS",
     "repotime": "2018-08-09, 13:28:51",
-    "stargazers_count": 153,
-    "watchers_count": 153
+    "stargazers_count": 155,
+    "watchers_count": 155
 }
 {
     "commits_count": 1,
@@ -556,8 +556,8 @@
     "repo_name": "Remote-Desktop-Caching-",
     "repo_owner": "Viralmaniar",
     "repotime": "2018-08-04, 21:35:51",
-    "stargazers_count": 215,
-    "watchers_count": 215
+    "stargazers_count": 219,
+    "watchers_count": 219
 }
 {
     "commits_count": 4,

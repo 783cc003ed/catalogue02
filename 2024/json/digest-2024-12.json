@@ -31,8 +31,8 @@
     "repo_name": "LFImap",
     "repo_owner": "hansmach1ne",
     "repotime": "2024-12-31, 01:13:47",
-    "stargazers_count": 319,
-    "watchers_count": 319
+    "stargazers_count": 324,
+    "watchers_count": 324
 }
 {
     "commits_count": 2,
@@ -257,6 +257,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 2,
+    "date_started": "2024-12-27",
+    "date_updated": "2024-12-27",
+    "description": "Simple prevention demo against Directory Traversal attacks",
+    "forks_count": 0,
+    "html_url": "https://github.com/saltlessGK/dirtrav-prevention",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "dirtrav-prevention",
+    "repo_owner": "saltlessGK",
+    "repotime": "2024-12-27, 22:04:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 8,
     "date_started": "2024-12-27",
     "date_updated": "2024-12-27",
@@ -475,8 +492,8 @@
     "repo_name": "Libc-GOT-Hijacking",
     "repo_owner": "n132",
     "repotime": "2024-12-23, 15:54:52",
-    "stargazers_count": 227,
-    "watchers_count": 227
+    "stargazers_count": 229,
+    "watchers_count": 229
 }
 {
     "commits_count": 32,
@@ -492,8 +509,8 @@
     "repo_name": "lfier",
     "repo_owner": "Cybersecurity-Ethical-Hacker",
     "repotime": "2024-12-23, 19:58:39",
-    "stargazers_count": 53,
-    "watchers_count": 53
+    "stargazers_count": 54,
+    "watchers_count": 54
 }
 {
     "commits_count": 3,
@@ -534,7 +551,7 @@
     "date_started": "2024-12-20",
     "date_updated": "2024-12-23",
     "description": "Unauthenticated RCE on CraftCMS when PHP `register_argc_argv` config setting is enabled",
-    "forks_count": 13,
+    "forks_count": 14,
     "html_url": "https://github.com/Chocapikk/CVE-2024-56145",
     "keywords": [
         "unauthenticated rce"
@@ -543,8 +560,8 @@
     "repo_name": "CVE-2024-56145",
     "repo_owner": "Chocapikk",
     "repotime": "2024-12-23, 13:51:54",
-    "stargazers_count": 45,
-    "watchers_count": 45
+    "stargazers_count": 47,
+    "watchers_count": 47
 }
 {
     "commits_count": 3,
@@ -560,8 +577,8 @@
     "repo_name": "CVE-2024-50623",
     "repo_owner": "verylazytech",
     "repotime": "2024-12-23, 11:16:15",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 3,
@@ -645,8 +662,8 @@
     "repo_name": "CVE-2024-53677-S2-067",
     "repo_owner": "TAM-K592",
     "repotime": "2024-12-20, 18:05:15",
-    "stargazers_count": 91,
-    "watchers_count": 91
+    "stargazers_count": 92,
+    "watchers_count": 92
 }
 {
     "commits_count": 3,
@@ -670,7 +687,7 @@
     "date_started": "2023-07-05",
     "date_updated": "2024-12-19",
     "description": "The Common Vulnerabilities Exposures (CVE) Database",
-    "forks_count": 12,
+    "forks_count": 14,
     "html_url": "https://github.com/justakazh/CVE_Database",
     "keywords": [
         "0day vulnerability"
@@ -679,8 +696,8 @@
     "repo_name": "CVE_Database",
     "repo_owner": "justakazh",
     "repotime": "2024-12-19, 10:15:20",
-    "stargazers_count": 30,
-    "watchers_count": 30
+    "stargazers_count": 31,
+    "watchers_count": 31
 }
 {
     "commits_count": 29,
@@ -883,15 +900,15 @@
     "repo_name": "sweetuu",
     "repo_owner": "cspshivam",
     "repotime": "2024-12-17, 02:02:11",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 21,
     "date_started": "2024-10-19",
     "date_updated": "2024-12-16",
     "description": "Exploit for Grafana arbitrary file-read and RCE (CVE-2024-9264)",
-    "forks_count": 19,
+    "forks_count": 18,
     "html_url": "https://github.com/nollium/CVE-2024-9264",
     "keywords": [
         "rce vulnerability",
@@ -902,15 +919,15 @@
     "repo_name": "CVE-2024-9264",
     "repo_owner": "nollium",
     "repotime": "2024-12-16, 21:15:28",
-    "stargazers_count": 115,
-    "watchers_count": 115
+    "stargazers_count": 125,
+    "watchers_count": 125
 }
 {
     "commits_count": 254,
     "date_started": "2021-05-08",
     "date_updated": "2024-12-16",
     "description": "LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) vulnerabilities on a server.",
-    "forks_count": 25,
+    "forks_count": 26,
     "html_url": "https://github.com/kostas-pa/LFITester",
     "keywords": [
         "lfi",
@@ -1098,7 +1115,7 @@
     "date_started": "2024-12-12",
     "date_updated": "2024-12-13",
     "description": " vulnerable React.js application designed for pentestting. It includes common web vulnerabilities such as NoSQL Injection, Cross-Site Scripting (XSS), Open Redirect, and Session Management Issues.",
-    "forks_count": 4,
+    "forks_count": 8,
     "html_url": "https://github.com/fatihtuzunn/vulnerable_react_app",
     "keywords": [
         "session vulnerability"
@@ -1107,8 +1124,8 @@
     "repo_name": "vulnerable_react_app",
     "repo_owner": "fatihtuzunn",
     "repotime": "2024-12-13, 19:04:32",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 3,
@@ -1126,23 +1143,6 @@
     "repotime": "2024-12-13, 11:04:07",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 255,
-    "date_started": "2020-12-17",
-    "date_updated": "2024-12-13",
-    "description": "🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration.",
-    "forks_count": 2,
-    "html_url": "https://github.com/TomerAberbach/lfi",
-    "keywords": [
-        "lfi"
-    ],
-    "language": "TypeScript",
-    "repo_name": "lfi",
-    "repo_owner": "TomerAberbach",
-    "repotime": "2024-12-13, 00:12:02",
-    "stargazers_count": 341,
-    "watchers_count": 341
 }
 {
     "commits_count": 3,
@@ -1706,23 +1706,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 10,
-    "date_started": "2024-11-28",
-    "date_updated": "2024-12-04",
-    "description": "A website made intentionally to be vulnerable by having Insecure JWT and Weak Session IDs for Computer Network Security lab penetration testing final project.",
-    "forks_count": 0,
-    "html_url": "https://github.com/arifatalya/Mishaps",
-    "keywords": [
-        "session vulnerability"
-    ],
-    "language": "JavaScript",
-    "repo_name": "Mishaps",
-    "repo_owner": "arifatalya",
-    "repotime": "2024-12-04, 22:22:01",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 1,
     "date_started": "2024-12-02",
     "date_updated": "2024-12-03",
@@ -1788,8 +1771,8 @@
     "repo_name": "uaf-2023-28205",
     "repo_owner": "ntfargo",
     "repotime": "2024-12-01, 17:08:17",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 14,
@@ -1805,15 +1788,15 @@
     "repo_name": "BSQLinjector",
     "repo_owner": "enjoiz",
     "repotime": "2024-12-01, 16:26:21",
-    "stargazers_count": 99,
-    "watchers_count": 99
+    "stargazers_count": 98,
+    "watchers_count": 98
 }
 {
     "commits_count": 56,
     "date_started": "2015-05-16",
     "date_updated": "2024-12-01",
     "description": "Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods.",
-    "forks_count": 318,
+    "forks_count": 319,
     "html_url": "https://github.com/enjoiz/XXEinjector",
     "keywords": [
         "xxe"
@@ -1822,8 +1805,8 @@
     "repo_name": "XXEinjector",
     "repo_owner": "enjoiz",
     "repotime": "2024-12-01, 16:25:27",
-    "stargazers_count": 1652,
-    "watchers_count": 1652
+    "stargazers_count": 1669,
+    "watchers_count": 1669
 }
 {
     "commits_count": 3,

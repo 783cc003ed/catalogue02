@@ -20,7 +20,7 @@
     "date_started": "2023-11-18",
     "date_updated": "2024-03-31",
     "description": "Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers",
-    "forks_count": 54,
+    "forks_count": 53,
     "html_url": "https://github.com/danialhalo/SqliSniper",
     "keywords": [
         "sql injection"
@@ -29,8 +29,8 @@
     "repo_name": "SqliSniper",
     "repo_owner": "danialhalo",
     "repotime": "2024-03-31, 05:32:28",
-    "stargazers_count": 303,
-    "watchers_count": 303
+    "stargazers_count": 304,
+    "watchers_count": 304
 }
 {
     "commits_count": 2,
@@ -309,7 +309,7 @@
     "date_started": "2020-11-13",
     "date_updated": "2024-03-22",
     "description": "Automating XSS using Bash",
-    "forks_count": 64,
+    "forks_count": 66,
     "html_url": "https://github.com/theinfosecguy/QuickXSS",
     "keywords": [
         "xss"
@@ -318,8 +318,8 @@
     "repo_name": "QuickXSS",
     "repo_owner": "theinfosecguy",
     "repotime": "2024-03-22, 19:51:16",
-    "stargazers_count": 355,
-    "watchers_count": 355
+    "stargazers_count": 357,
+    "watchers_count": 357
 }
 {
     "commits_count": 4,
@@ -369,8 +369,8 @@
     "repo_name": "CVE-2023-48788",
     "repo_owner": "horizon3ai",
     "repotime": "2024-03-20, 16:42:20",
-    "stargazers_count": 49,
-    "watchers_count": 49
+    "stargazers_count": 50,
+    "watchers_count": 50
 }
 {
     "commits_count": 690,
@@ -403,8 +403,8 @@
     "repo_name": "linjector-rs",
     "repo_owner": "erfur",
     "repotime": "2024-03-20, 11:57:45",
-    "stargazers_count": 246,
-    "watchers_count": 246
+    "stargazers_count": 255,
+    "watchers_count": 255
 }
 {
     "commits_count": 23,
@@ -437,8 +437,8 @@
     "repo_name": "avid_vulnerability",
     "repo_owner": "SanderShark",
     "repotime": "2024-03-19, 17:46:55",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 37,
@@ -454,8 +454,8 @@
     "repo_name": "assless-chaps",
     "repo_owner": "sensepost",
     "repotime": "2024-03-19, 13:59:18",
-    "stargazers_count": 133,
-    "watchers_count": 133
+    "stargazers_count": 136,
+    "watchers_count": 136
 }
 {
     "commits_count": 6,
@@ -488,8 +488,8 @@
     "repo_name": "Anti_Spoofing",
     "repo_owner": "Fenil2511",
     "repotime": "2024-03-17, 15:23:23",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 5,
@@ -562,8 +562,8 @@
     "repo_name": "LFIDump",
     "repo_owner": "p0dalirius",
     "repotime": "2024-03-16, 09:21:01",
-    "stargazers_count": 75,
-    "watchers_count": 75
+    "stargazers_count": 76,
+    "watchers_count": 76
 }
 {
     "commits_count": 2,
@@ -861,8 +861,8 @@
     "repo_name": "CVE-2024-27198-RCE",
     "repo_owner": "W01fh4cker",
     "repotime": "2024-03-11, 15:57:36",
-    "stargazers_count": 150,
-    "watchers_count": 150
+    "stargazers_count": 151,
+    "watchers_count": 151
 }
 {
     "commits_count": 14,
@@ -922,7 +922,7 @@
     "date_started": "2023-04-04",
     "date_updated": "2024-03-07",
     "description": "Session Hijacking Visual Exploitation",
-    "forks_count": 16,
+    "forks_count": 17,
     "html_url": "https://github.com/doyensec/Session-Hijacking-Visual-Exploitation",
     "keywords": [
         "session hijacking"
@@ -931,8 +931,8 @@
     "repo_name": "Session-Hijacking-Visual-Exploitation",
     "repo_owner": "doyensec",
     "repotime": "2024-03-07, 10:14:55",
-    "stargazers_count": 201,
-    "watchers_count": 201
+    "stargazers_count": 205,
+    "watchers_count": 205
 }
 {
     "commits_count": 10,
@@ -948,8 +948,8 @@
     "repo_name": "CVE-2023-32315",
     "repo_owner": "miko550",
     "repotime": "2024-03-07, 15:23:41",
-    "stargazers_count": 52,
-    "watchers_count": 52
+    "stargazers_count": 54,
+    "watchers_count": 54
 }
 {
     "commits_count": 1,
@@ -1086,8 +1086,8 @@
     "repo_name": "js-xss",
     "repo_owner": "leizongmin",
     "repotime": "2024-03-03, 10:31:06",
-    "stargazers_count": 5278,
-    "watchers_count": 5278
+    "stargazers_count": 5288,
+    "watchers_count": 5288
 }
 {
     "commits_count": 1,
@@ -1150,14 +1150,15 @@
     "html_url": "https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT",
     "keywords": [
         "remote code execution poc",
-        "remote code execution exploit"
+        "remote code execution exploit",
+        "remote code execution vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2024-25600-EXPLOIT",
     "repo_owner": "K3ysTr0K3R",
     "repotime": "2024-03-01, 04:46:56",
-    "stargazers_count": 47,
-    "watchers_count": 47
+    "stargazers_count": 46,
+    "watchers_count": 46
 }
 {
     "commits_count": 31,
@@ -1174,8 +1175,8 @@
     "repo_name": "SSRF",
     "repo_owner": "ASTTeam",
     "repotime": "2024-03-01, 17:34:42",
-    "stargazers_count": 53,
-    "watchers_count": 53
+    "stargazers_count": 58,
+    "watchers_count": 58
 }
 {
     "commits_count": 13,

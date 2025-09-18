@@ -32,8 +32,8 @@
     "repo_name": "CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-",
     "repo_owner": "mbanyamer",
     "repotime": "2025-05-31, 15:23:53",
-    "stargazers_count": 62,
-    "watchers_count": 62
+    "stargazers_count": 63,
+    "watchers_count": 63
 }
 {
     "commits_count": 7,
@@ -84,8 +84,8 @@
     "repo_name": "APT38-0day-Stealer",
     "repo_owner": "ZeroMemoryEx",
     "repotime": "2025-05-30, 17:52:14",
-    "stargazers_count": 316,
-    "watchers_count": 316
+    "stargazers_count": 318,
+    "watchers_count": 318
 }
 {
     "commits_count": 3,
@@ -152,23 +152,6 @@
     "repo_name": "csv-injection-cloudtrail-attack",
     "repo_owner": "levanacohen",
     "repotime": "2025-05-30, 02:16:10",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 2,
-    "date_started": "2025-05-29",
-    "date_updated": "2025-05-29",
-    "description": "Slasher is a specialized path traversal vulnerability scanner that tests URLs using various path manipulation techniques.",
-    "forks_count": 0,
-    "html_url": "https://github.com/fractalized-cyber/slasher",
-    "keywords": [
-        "path traversal vulnerability"
-    ],
-    "language": "Go",
-    "repo_name": "slasher",
-    "repo_owner": "fractalized-cyber",
-    "repotime": "2025-05-29, 15:50:39",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -492,8 +475,8 @@
     "repo_name": "vulnverse",
     "repo_owner": "w1t3ack3r",
     "repotime": "2025-05-26, 09:24:56",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 11,
@@ -903,8 +886,8 @@
     "repo_name": "HyFuzz",
     "repo_owner": "cs7org",
     "repotime": "2025-05-19, 22:56:52",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 5,
@@ -976,20 +959,20 @@
 }
 {
     "commits_count": 3,
-    "date_started": "2025-05-17",
+    "date_started": "2025-05-22",
     "date_updated": "2025-05-19",
     "description": "Public disclosure of CVE-2025-31200 – Zero-click RCE in iOS 18.X via AudioConverterService and malicious audio file.",
     "forks_count": 8,
-    "html_url": "https://github.com/JGoyd/CVE-2025-31200-iOS-AudioConverter-RCE",
+    "html_url": "https://github.com/serundengsapi/CVE-2025-31200-iOS-AudioConverter-RCE",
     "keywords": [
         "rce disclosure"
     ],
     "language": null,
     "repo_name": "CVE-2025-31200-iOS-AudioConverter-RCE",
-    "repo_owner": "JGoyd",
+    "repo_owner": "serundengsapi",
     "repotime": "2025-05-19, 11:30:42",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 104,
@@ -1211,15 +1194,15 @@
     "repo_name": "Gocomics-Depaywall",
     "repo_owner": "Idiot-01",
     "repotime": "2025-05-17, 21:25:50",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 63,
     "date_started": "2023-01-20",
     "date_updated": "2025-05-16",
     "description": "Community-sourced list of papers and resources on neural simulation-based inference.",
-    "forks_count": 9,
+    "forks_count": 10,
     "html_url": "https://github.com/smsharma/awesome-neural-sbi",
     "keywords": [
         "lfi"
@@ -1228,8 +1211,8 @@
     "repo_name": "awesome-neural-sbi",
     "repo_owner": "smsharma",
     "repotime": "2025-05-16, 20:27:34",
-    "stargazers_count": 118,
-    "watchers_count": 118
+    "stargazers_count": 126,
+    "watchers_count": 126
 }
 {
     "commits_count": 7,
@@ -1266,40 +1249,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 11,
-    "date_started": "2025-03-29",
-    "date_updated": "2025-05-16",
-    "description": "This script automates SQL injection testing using SQLMap with AI-powered decision making.",
-    "forks_count": 29,
-    "html_url": "https://github.com/atiilla/sqlmap-ai",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Python",
-    "repo_name": "sqlmap-ai",
-    "repo_owner": "atiilla",
-    "repotime": "2025-05-16, 12:46:11",
-    "stargazers_count": 199,
-    "watchers_count": 199
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-05-15",
-    "date_updated": "2025-05-15",
-    "description": "22h2 Windows patchguard runtime disabler.",
-    "forks_count": 1,
-    "html_url": "https://github.com/dpcpointer/patchedguard",
-    "keywords": [
-        "patchguard bypass"
-    ],
-    "language": "C",
-    "repo_name": "patchedguard",
-    "repo_owner": "dpcpointer",
-    "repotime": "2025-05-15, 17:34:28",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
     "commits_count": 3,
     "date_started": "2025-05-15",
     "date_updated": "2025-05-15",
@@ -1332,40 +1281,6 @@
     "repotime": "2025-05-15, 12:40:28",
     "stargazers_count": 2,
     "watchers_count": 2
-}
-{
-    "commits_count": 2,
-    "date_started": "2023-07-07",
-    "date_updated": "2025-05-15",
-    "description": "Une faille LFI à cause d'un builder CSS mal conçu",
-    "forks_count": 0,
-    "html_url": "https://github.com/Hack-Oeil/LOCAL_FILE_INCLUSION_BUILD_CSS",
-    "keywords": [
-        "local file inclusion"
-    ],
-    "language": "CSS",
-    "repo_name": "LOCAL_FILE_INCLUSION_BUILD_CSS",
-    "repo_owner": "Hack-Oeil",
-    "repotime": "2025-05-15, 16:43:12",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 2,
-    "date_started": "2023-07-07",
-    "date_updated": "2025-05-15",
-    "description": "Local File inclusion via une mauvaise gestion des téléchargements",
-    "forks_count": 0,
-    "html_url": "https://github.com/Hack-Oeil/LOCAL_FILE_INCLUSION_DOWNLOAD",
-    "keywords": [
-        "local file inclusion"
-    ],
-    "language": "CSS",
-    "repo_name": "LOCAL_FILE_INCLUSION_DOWNLOAD",
-    "repo_owner": "Hack-Oeil",
-    "repotime": "2025-05-15, 16:39:58",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 41,
@@ -1551,8 +1466,8 @@
     "repo_name": "xless",
     "repo_owner": "mazen160",
     "repotime": "2025-05-14, 00:05:40",
-    "stargazers_count": 338,
-    "watchers_count": 338
+    "stargazers_count": 340,
+    "watchers_count": 340
 }
 {
     "commits_count": 52,
@@ -1624,23 +1539,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 7,
-    "date_started": "2025-05-04",
-    "date_updated": "2025-05-13",
-    "description": "Server-Side Request Forgery Testing Utility",
-    "forks_count": 0,
-    "html_url": "https://github.com/TheOSuite/oSSRF",
-    "keywords": [
-        "server side request forgery"
-    ],
-    "language": "Python",
-    "repo_name": "oSSRF",
-    "repo_owner": "TheOSuite",
-    "repotime": "2025-05-13, 12:12:14",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 4,
     "date_started": "2025-05-13",
     "date_updated": "2025-05-13",
@@ -1705,8 +1603,8 @@
     "repo_name": "Malware-Analysis-Reports",
     "repo_owner": "SUmidcyber",
     "repotime": "2025-05-13, 16:51:56",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 12,
@@ -1766,7 +1664,7 @@
     "date_started": "2025-05-12",
     "date_updated": "2025-05-13",
     "description": "1day practice - Escape macOS sandbox (partial) using RemoteViewServices",
-    "forks_count": 6,
+    "forks_count": 8,
     "html_url": "https://github.com/wh1te4ever/CVE-2025-31258-PoC",
     "keywords": [
         "sandbox escape poc"
@@ -1775,8 +1673,8 @@
     "repo_name": "CVE-2025-31258-PoC",
     "repo_owner": "wh1te4ever",
     "repotime": "2025-05-13, 08:52:28",
-    "stargazers_count": 38,
-    "watchers_count": 38
+    "stargazers_count": 40,
+    "watchers_count": 40
 }
 {
     "commits_count": 7,
@@ -1809,8 +1707,8 @@
     "repo_name": "axis-rce",
     "repo_owner": "mascencerro",
     "repotime": "2025-05-12, 17:49:42",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 3,
@@ -1826,8 +1724,8 @@
     "repo_name": "MXSpoof",
     "repo_owner": "tomsec8",
     "repotime": "2025-05-12, 15:48:42",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 6,
@@ -2001,23 +1899,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 6,
-    "date_started": "2025-05-09",
-    "date_updated": "2025-05-09",
-    "description": "Integration of x402 Payment Protocol with Nevermined that allows AI agents to pay other agents without constant transaction signing. Make a single payment to purchase credits, eliminating the need for vulnerable session keys while enabling a seamless AI agent economy.",
-    "forks_count": 1,
-    "html_url": "https://github.com/nevermined-io/x402-nevermined-demo",
-    "keywords": [
-        "session vulnerability"
-    ],
-    "language": "TypeScript",
-    "repo_name": "x402-nevermined-demo",
-    "repo_owner": "nevermined-io",
-    "repotime": "2025-05-09, 12:36:14",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
     "commits_count": 1,
     "date_started": "2025-05-09",
     "date_updated": "2025-05-09",
@@ -2103,11 +1984,11 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 1547,
+    "commits_count": 1550,
     "date_started": "2012-07-18",
     "date_updated": "2025-05-09",
     "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 430,
+    "forks_count": 436,
     "html_url": "https://github.com/ron190/jsql-injection",
     "keywords": [
         "sql injection"
@@ -2116,8 +1997,8 @@
     "repo_name": "jsql-injection",
     "repo_owner": "ron190",
     "repotime": "2025-05-09, 01:37:35",
-    "stargazers_count": 1631,
-    "watchers_count": 1631
+    "stargazers_count": 1678,
+    "watchers_count": 1678
 }
 {
     "commits_count": 16,
@@ -2201,8 +2082,8 @@
     "repo_name": "buffer-overflow",
     "repo_owner": "eamanor8",
     "repotime": "2025-05-06, 22:42:34",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 16,
@@ -2222,23 +2103,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 17,
-    "date_started": "2024-12-05",
-    "date_updated": "2025-05-05",
-    "description": "🥷 Prevent CSV injection and data exfiltration",
-    "forks_count": 0,
-    "html_url": "https://github.com/samber/go-safe-csv-writer",
-    "keywords": [
-        "csv injection"
-    ],
-    "language": "Go",
-    "repo_name": "go-safe-csv-writer",
-    "repo_owner": "samber",
-    "repotime": "2025-05-05, 20:39:52",
-    "stargazers_count": 5,
-    "watchers_count": 5
-}
-{
     "commits_count": 55,
     "date_started": "2024-05-14",
     "date_updated": "2025-05-05",
@@ -2248,7 +2112,8 @@
     "keywords": [
         "Windows rce",
         "csv injection",
-        "Windows rce vulnerability"
+        "Windows rce vulnerability",
+        "Windows rce exploit"
     ],
     "language": "Python",
     "repo_name": "WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956",
@@ -2305,8 +2170,8 @@
     "repo_name": "Windows-Privilege-Escalation",
     "repo_owner": "maryamirfan18",
     "repotime": "2025-05-04, 21:58:04",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 12,
@@ -2373,8 +2238,8 @@
     "repo_name": "HTB-CPTS-Notes",
     "repo_owner": "ShortGiant13",
     "repotime": "2025-05-03, 17:25:46",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 4,
@@ -2390,8 +2255,8 @@
     "repo_name": "linux-memory-analyzer",
     "repo_owner": "nikhilkumar0102",
     "repotime": "2025-05-03, 12:06:07",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 2,
@@ -2458,15 +2323,15 @@
     "repo_name": "bepo-xxerty",
     "repo_owner": "Zwyx",
     "repotime": "2025-05-02, 22:32:39",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 35,
     "date_started": "2025-05-01",
     "date_updated": "2025-05-02",
     "description": "An Advanced Web Application Firewall that protects against threats like SQL injection and XSS by filtering HTTP traffic. It combines signature-based detection and machine learning-based anomaly detection to identify obfuscated, zero-day, and unknown attacks through behavioral analysis.",
-    "forks_count": 2,
+    "forks_count": 5,
     "html_url": "https://github.com/Piyush-2975/Advanced-WAF-WAFinity",
     "keywords": [
         "zero-day analysis"
@@ -2475,8 +2340,8 @@
     "repo_name": "Advanced-WAF-WAFinity",
     "repo_owner": "Piyush-2975",
     "repotime": "2025-05-02, 17:12:56",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 5,
@@ -2526,25 +2391,25 @@
     "repo_name": "Panoptic",
     "repo_owner": "lightos",
     "repotime": "2025-05-01, 01:06:17",
-    "stargazers_count": 316,
-    "watchers_count": 316
+    "stargazers_count": 315,
+    "watchers_count": 315
 }
 {
-    "commits_count": 193,
-    "date_started": "2013-11-05",
+    "commits_count": 2,
+    "date_started": "2025-05-01",
     "date_updated": "2025-05-01",
-    "description": "Command line tool to edit resources of exe",
-    "forks_count": 204,
-    "html_url": "https://github.com/electron/rcedit",
+    "description": "XML External Entity Injec",
+    "forks_count": 0,
+    "html_url": "https://github.com/M4rgs/xxe-injection",
     "keywords": [
-        "Windows rce"
+        "xml external entity"
     ],
-    "language": "C++",
-    "repo_name": "rcedit",
-    "repo_owner": "electron",
-    "repotime": "2025-05-01, 00:20:35",
-    "stargazers_count": 1936,
-    "watchers_count": 1936
+    "language": "Python",
+    "repo_name": "xxe-injection",
+    "repo_owner": "M4rgs",
+    "repotime": "2025-05-01, 05:06:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
