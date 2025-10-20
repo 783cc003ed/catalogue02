@@ -20,7 +20,7 @@
     "date_started": "2023-11-18",
     "date_updated": "2024-03-31",
     "description": "Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers",
-    "forks_count": 53,
+    "forks_count": 54,
     "html_url": "https://github.com/danialhalo/SqliSniper",
     "keywords": [
         "sql injection"
@@ -29,8 +29,8 @@
     "repo_name": "SqliSniper",
     "repo_owner": "danialhalo",
     "repotime": "2024-03-31, 05:32:28",
-    "stargazers_count": 304,
-    "watchers_count": 304
+    "stargazers_count": 305,
+    "watchers_count": 305
 }
 {
     "commits_count": 2,
@@ -394,7 +394,7 @@
     "date_started": "2024-02-21",
     "date_updated": "2024-03-20",
     "description": "Code injection on Android without ptrace",
-    "forks_count": 58,
+    "forks_count": 61,
     "html_url": "https://github.com/erfur/linjector-rs",
     "keywords": [
         "code injection"
@@ -403,8 +403,8 @@
     "repo_name": "linjector-rs",
     "repo_owner": "erfur",
     "repotime": "2024-03-20, 11:57:45",
-    "stargazers_count": 255,
-    "watchers_count": 255
+    "stargazers_count": 262,
+    "watchers_count": 262
 }
 {
     "commits_count": 23,
@@ -544,15 +544,15 @@
     "repo_name": "CVE-2022-21907-http.sys",
     "repo_owner": "p0dalirius",
     "repotime": "2024-03-16, 09:26:04",
-    "stargazers_count": 82,
-    "watchers_count": 82
+    "stargazers_count": 83,
+    "watchers_count": 83
 }
 {
     "commits_count": 12,
     "date_started": "2022-02-01",
     "date_updated": "2024-03-16",
     "description": "A simple python script to dump remote files through a local file read or local file inclusion web vulnerability.",
-    "forks_count": 14,
+    "forks_count": 15,
     "html_url": "https://github.com/p0dalirius/LFIDump",
     "keywords": [
         "lfi",
@@ -562,8 +562,8 @@
     "repo_name": "LFIDump",
     "repo_owner": "p0dalirius",
     "repotime": "2024-03-16, 09:21:01",
-    "stargazers_count": 76,
-    "watchers_count": 76
+    "stargazers_count": 77,
+    "watchers_count": 77
 }
 {
     "commits_count": 2,
@@ -861,8 +861,8 @@
     "repo_name": "CVE-2024-27198-RCE",
     "repo_owner": "W01fh4cker",
     "repotime": "2024-03-11, 15:57:36",
-    "stargazers_count": 151,
-    "watchers_count": 151
+    "stargazers_count": 152,
+    "watchers_count": 152
 }
 {
     "commits_count": 14,
@@ -931,15 +931,15 @@
     "repo_name": "Session-Hijacking-Visual-Exploitation",
     "repo_owner": "doyensec",
     "repotime": "2024-03-07, 10:14:55",
-    "stargazers_count": 205,
-    "watchers_count": 205
+    "stargazers_count": 208,
+    "watchers_count": 208
 }
 {
     "commits_count": 10,
     "date_started": "2023-06-18",
     "date_updated": "2024-03-07",
     "description": "Openfire Console Authentication Bypass Vulnerability with RCE plugin",
-    "forks_count": 10,
+    "forks_count": 11,
     "html_url": "https://github.com/miko550/CVE-2023-32315",
     "keywords": [
         "rce vulnerability"
@@ -948,8 +948,8 @@
     "repo_name": "CVE-2023-32315",
     "repo_owner": "miko550",
     "repotime": "2024-03-07, 15:23:41",
-    "stargazers_count": 54,
-    "watchers_count": 54
+    "stargazers_count": 55,
+    "watchers_count": 55
 }
 {
     "commits_count": 1,
@@ -1077,7 +1077,7 @@
     "date_started": "2012-09-18",
     "date_updated": "2024-03-03",
     "description": "Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist",
-    "forks_count": 628,
+    "forks_count": 627,
     "html_url": "https://github.com/leizongmin/js-xss",
     "keywords": [
         "xss"
@@ -1086,8 +1086,8 @@
     "repo_name": "js-xss",
     "repo_owner": "leizongmin",
     "repotime": "2024-03-03, 10:31:06",
-    "stargazers_count": 5288,
-    "watchers_count": 5288
+    "stargazers_count": 5297,
+    "watchers_count": 5297
 }
 {
     "commits_count": 1,
@@ -1157,8 +1157,8 @@
     "repo_name": "CVE-2024-25600-EXPLOIT",
     "repo_owner": "K3ysTr0K3R",
     "repotime": "2024-03-01, 04:46:56",
-    "stargazers_count": 46,
-    "watchers_count": 46
+    "stargazers_count": 48,
+    "watchers_count": 48
 }
 {
     "commits_count": 31,
@@ -1175,8 +1175,8 @@
     "repo_name": "SSRF",
     "repo_owner": "ASTTeam",
     "repotime": "2024-03-01, 17:34:42",
-    "stargazers_count": 58,
-    "watchers_count": 58
+    "stargazers_count": 60,
+    "watchers_count": 60
 }
 {
     "commits_count": 13,
@@ -1193,6 +1193,6 @@
     "repo_name": "XXE",
     "repo_owner": "ASTTeam",
     "repotime": "2024-03-01, 17:19:48",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 10,
+    "watchers_count": 10
 }

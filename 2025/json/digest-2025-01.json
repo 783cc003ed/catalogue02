@@ -126,7 +126,7 @@
     "date_started": "2021-10-26",
     "date_updated": "2025-01-31",
     "description": "How to exploit a double free vulnerability in 2021. Use After Free for Dummies",
-    "forks_count": 66,
+    "forks_count": 65,
     "html_url": "https://github.com/stong/how-to-exploit-a-double-free",
     "keywords": [
         "use after free exploit",
@@ -137,8 +137,8 @@
     "repo_name": "how-to-exploit-a-double-free",
     "repo_owner": "stong",
     "repotime": "2025-01-31, 03:45:57",
-    "stargazers_count": 1365,
-    "watchers_count": 1365
+    "stargazers_count": 1367,
+    "watchers_count": 1367
 }
 {
     "commits_count": 2,
@@ -240,8 +240,8 @@
     "repo_name": "SSRF-Scanner",
     "repo_owner": "Dancas93",
     "repotime": "2025-01-30, 15:59:06",
-    "stargazers_count": 36,
-    "watchers_count": 36
+    "stargazers_count": 37,
+    "watchers_count": 37
 }
 {
     "commits_count": 2,
@@ -359,8 +359,8 @@
     "repo_name": "Collabfiltrator",
     "repo_owner": "0xC01DF00D",
     "repotime": "2025-01-28, 03:11:15",
-    "stargazers_count": 271,
-    "watchers_count": 271
+    "stargazers_count": 270,
+    "watchers_count": 270
 }
 {
     "commits_count": 6,
@@ -467,8 +467,8 @@
     "repo_name": "K8tools",
     "repo_owner": "k8gege",
     "repotime": "2025-01-25, 14:32:49",
-    "stargazers_count": 6062,
-    "watchers_count": 6062
+    "stargazers_count": 6083,
+    "watchers_count": 6083
 }
 {
     "commits_count": 3,
@@ -625,11 +625,11 @@
     "watchers_count": 52
 }
 {
-    "commits_count": 223,
+    "commits_count": 224,
     "date_started": "2023-01-25",
     "date_updated": "2025-01-22",
     "description": "<no description>",
-    "forks_count": 138,
+    "forks_count": 142,
     "html_url": "https://github.com/trufflesecurity/xsshunter",
     "keywords": [
         "xss"
@@ -638,8 +638,8 @@
     "repo_name": "xsshunter",
     "repo_owner": "trufflesecurity",
     "repotime": "2025-01-22, 15:35:19",
-    "stargazers_count": 501,
-    "watchers_count": 501
+    "stargazers_count": 513,
+    "watchers_count": 513
 }
 {
     "commits_count": 10,
@@ -725,23 +725,6 @@
     "repotime": "2025-01-22, 10:48:47",
     "stargazers_count": 11,
     "watchers_count": 11
-}
-{
-    "commits_count": 255,
-    "date_started": "2018-07-10",
-    "date_updated": "2025-01-21",
-    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-    "forks_count": 2402,
-    "html_url": "https://github.com/kgretzky/evilginx2",
-    "keywords": [
-        "session attack"
-    ],
-    "language": "Go",
-    "repo_name": "evilginx2",
-    "repo_owner": "kgretzky",
-    "repotime": "2025-01-21, 16:16:10",
-    "stargazers_count": 13798,
-    "watchers_count": 13798
 }
 {
     "commits_count": 3,
@@ -852,7 +835,7 @@
     "date_started": "2022-05-08",
     "date_updated": "2025-01-19",
     "description": "An XSS exploitation command-line interface and payload generator.",
-    "forks_count": 192,
+    "forks_count": 194,
     "html_url": "https://github.com/t3l3machus/toxssin",
     "keywords": [
         "xss"
@@ -861,8 +844,8 @@
     "repo_name": "toxssin",
     "repo_owner": "t3l3machus",
     "repotime": "2025-01-19, 17:24:50",
-    "stargazers_count": 1391,
-    "watchers_count": 1391
+    "stargazers_count": 1398,
+    "watchers_count": 1398
 }
 {
     "commits_count": 19,
@@ -1204,8 +1187,8 @@
     "repo_name": "CVE-2025-0282-Ivanti-exploit",
     "repo_owner": "absholi7ly",
     "repotime": "2025-01-12, 01:54:06",
-    "stargazers_count": 48,
-    "watchers_count": 48
+    "stargazers_count": 49,
+    "watchers_count": 49
 }
 {
     "commits_count": 5,
@@ -1238,8 +1221,8 @@
     "repo_name": "balamod",
     "repo_owner": "balamod",
     "repotime": "2025-01-11, 12:09:02",
-    "stargazers_count": 144,
-    "watchers_count": 144
+    "stargazers_count": 146,
+    "watchers_count": 146
 }
 {
     "commits_count": 3,
@@ -1459,8 +1442,8 @@
     "repo_name": "uac-bypass-oneliners",
     "repo_owner": "blue0x1",
     "repotime": "2025-01-07, 22:56:28",
-    "stargazers_count": 134,
-    "watchers_count": 134
+    "stargazers_count": 137,
+    "watchers_count": 137
 }
 {
     "commits_count": 2,
@@ -1909,7 +1892,7 @@
     "date_started": "2018-06-07",
     "date_updated": "2025-01-02",
     "description": "List of XSS Vectors/Payloads ",
-    "forks_count": 270,
+    "forks_count": 269,
     "html_url": "https://github.com/RenwaX23/XSS-Payloads",
     "keywords": [
         "xss"
@@ -1918,8 +1901,8 @@
     "repo_name": "XSS-Payloads",
     "repo_owner": "RenwaX23",
     "repotime": "2025-01-02, 11:17:31",
-    "stargazers_count": 1324,
-    "watchers_count": 1324
+    "stargazers_count": 1331,
+    "watchers_count": 1331
 }
 {
     "commits_count": 9,
@@ -1935,6 +1918,6 @@
     "repo_name": "SimplePHPGal-RCE.py",
     "repo_owner": "beauknowstech",
     "repotime": "2025-01-01, 14:35:54",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }

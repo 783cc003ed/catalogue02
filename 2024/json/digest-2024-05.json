@@ -80,8 +80,8 @@
     "repo_name": "CVE-2024-24919",
     "repo_owner": "c3rrberu5",
     "repotime": "2024-05-30, 02:58:09",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 22,
@@ -97,8 +97,8 @@
     "repo_name": "Fortigate",
     "repo_owner": "RedcentricCyber",
     "repotime": "2024-05-29, 17:01:18",
-    "stargazers_count": 79,
-    "watchers_count": 79
+    "stargazers_count": 78,
+    "watchers_count": 78
 }
 {
     "commits_count": 863,
@@ -241,7 +241,7 @@
     "date_started": "2020-09-29",
     "date_updated": "2024-05-27",
     "description": "✨ Purpose only! The dangers of Bluetooth Low Energy（BLE）implementations: Unveiling zero day vulnerabilities and security flaws in modern Bluetooth LE stacks.",
-    "forks_count": 44,
+    "forks_count": 45,
     "html_url": "https://github.com/Charmve/BLE-Security-Attack-Defence",
     "keywords": [
         "zero-day vulnerability"
@@ -370,8 +370,8 @@
     "repo_name": "CDPwn",
     "repo_owner": "k0x-offsec",
     "repotime": "2024-05-24, 00:54:51",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 29,
@@ -541,8 +541,8 @@
     "repo_name": "nuclei-zero-day",
     "repo_owner": "topscoder",
     "repotime": "2024-05-21, 11:31:56",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 9,
@@ -645,8 +645,8 @@
     "repo_name": "CVE-2024-4323-Exploit-POC",
     "repo_owner": "skilfoy",
     "repotime": "2024-05-20, 10:28:07",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 7,
@@ -750,8 +750,8 @@
     "repo_name": "git_rce",
     "repo_owner": "amalmurali47",
     "repotime": "2024-05-19, 12:41:55",
-    "stargazers_count": 530,
-    "watchers_count": 530
+    "stargazers_count": 528,
+    "watchers_count": 528
 }
 {
     "commits_count": 1,
@@ -770,6 +770,23 @@
     "repotime": "2024-05-18, 17:05:31",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2022-03-30",
+    "date_updated": "2024-05-18",
+    "description": "DLL Hijacking and Mock directories technique to bypass Windows UAC security feature and getting high-level privileged reverse shell. Security researchers identified this technique which uses a simplified process of DLL hijacking and mock folders to bypass UAC control. I tested this on Windows 10,11 and bypassed Windows 10 UAC security feature.  ",
+    "forks_count": 8,
+    "html_url": "https://github.com/Offensive-Panda/C2_Elevated_Shell_DLL_Hijcking",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "C2_Elevated_Shell_DLL_Hijcking",
+    "repo_owner": "Offensive-Panda",
+    "repotime": "2024-05-18, 23:35:28",
+    "stargazers_count": 44,
+    "watchers_count": 44
 }
 {
     "commits_count": 2,
@@ -940,8 +957,8 @@
     "repo_name": "all-classification-templetes-for-ML",
     "repo_owner": "sayantann11",
     "repotime": "2024-05-15, 04:46:23",
-    "stargazers_count": 265,
-    "watchers_count": 265
+    "stargazers_count": 267,
+    "watchers_count": 267
 }
 {
     "commits_count": 2,
@@ -1263,8 +1280,8 @@
     "repo_name": "SQLInjectionWiki",
     "repo_owner": "NetSPI",
     "repotime": "2024-05-08, 15:34:27",
-    "stargazers_count": 783,
-    "watchers_count": 783
+    "stargazers_count": 780,
+    "watchers_count": 780
 }
 {
     "commits_count": 3,
@@ -1280,8 +1297,8 @@
     "repo_name": "UAC-Bypass",
     "repo_owner": "sexyiam",
     "repotime": "2024-05-08, 02:25:53",
-    "stargazers_count": 49,
-    "watchers_count": 49
+    "stargazers_count": 50,
+    "watchers_count": 50
 }
 {
     "commits_count": 2,
@@ -1561,7 +1578,7 @@
     "date_started": "2024-05-03",
     "date_updated": "2024-05-03",
     "description": "A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server.",
-    "forks_count": 3,
+    "forks_count": 2,
     "html_url": "https://github.com/gotr00t0day/CVE-2024-4040",
     "keywords": [
         "unauthenticated attacker"
@@ -1570,8 +1587,8 @@
     "repo_name": "CVE-2024-4040",
     "repo_owner": "gotr00t0day",
     "repotime": "2024-05-03, 20:05:16",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 35,
@@ -1673,8 +1690,8 @@
     "repo_name": "CVE-2024-27956-RCE",
     "repo_owner": "diego-tella",
     "repotime": "2024-05-03, 08:28:20",
-    "stargazers_count": 88,
-    "watchers_count": 88
+    "stargazers_count": 89,
+    "watchers_count": 89
 }
 {
     "commits_count": 2,

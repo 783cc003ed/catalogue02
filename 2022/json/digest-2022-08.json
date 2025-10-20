@@ -20,7 +20,7 @@
     "date_started": "2022-07-06",
     "date_updated": "2022-08-31",
     "description": "Local File Inclusion (LFI) scanner.",
-    "forks_count": 5,
+    "forks_count": 7,
     "html_url": "https://github.com/R3LI4NT/LFIscanner",
     "keywords": [
         "local file inclusion",
@@ -30,8 +30,8 @@
     "repo_name": "LFIscanner",
     "repo_owner": "R3LI4NT",
     "repotime": "2022-08-31, 00:53:22",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 7,
@@ -192,7 +192,7 @@
     "date_started": "2022-08-29",
     "date_updated": "2022-08-29",
     "description": "A PoC for adding NtContinue to CFG allowed list in order to make Ekko work in a CFG protected process",
-    "forks_count": 19,
+    "forks_count": 20,
     "html_url": "https://github.com/Crypt0s/Ekko_CFG_Bypass",
     "keywords": [
         "cfg bypass"
@@ -201,8 +201,8 @@
     "repo_name": "Ekko_CFG_Bypass",
     "repo_owner": "Crypt0s",
     "repotime": "2022-08-29, 13:23:35",
-    "stargazers_count": 105,
-    "watchers_count": 105
+    "stargazers_count": 106,
+    "watchers_count": 106
 }
 {
     "commits_count": 28,
@@ -289,23 +289,6 @@
     "repotime": "2022-08-28, 23:23:30",
     "stargazers_count": 7,
     "watchers_count": 7
-}
-{
-    "commits_count": 3,
-    "date_started": "2022-08-21",
-    "date_updated": "2022-08-27",
-    "description": "A tool for spoofing user sessions in active directory",
-    "forks_count": 3,
-    "html_url": "https://github.com/LIKEROFJAZZ/Honey-Sessions",
-    "keywords": [
-        "spoofing session"
-    ],
-    "language": "Python",
-    "repo_name": "Honey-Sessions",
-    "repo_owner": "LIKEROFJAZZ",
-    "repotime": "2022-08-27, 23:23:26",
-    "stargazers_count": 5,
-    "watchers_count": 5
 }
 {
     "commits_count": 11,
@@ -498,8 +481,8 @@
     "repo_name": "hexdev00",
     "repo_owner": "hexdev00",
     "repotime": "2022-08-25, 01:30:09",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 2,
@@ -986,8 +969,8 @@
     "repo_name": "CH-JaDi-Rajput1",
     "repo_owner": "Ch-Jad",
     "repotime": "2022-08-16, 11:04:08",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 13,
@@ -1028,7 +1011,7 @@
     "date_started": "2020-09-18",
     "date_updated": "2022-08-15",
     "description": "An automation tool that scans sub-domains, sub-domain takeover, then filters out XSS, SSTI, SSRF, and more injection point parameters and scans for some low hanging vulnerabilities automatically.",
-    "forks_count": 177,
+    "forks_count": 176,
     "html_url": "https://github.com/R0X4R/Garud",
     "keywords": [
         "ssrf"
@@ -1037,8 +1020,8 @@
     "repo_name": "Garud",
     "repo_owner": "R0X4R",
     "repotime": "2022-08-15, 17:41:14",
-    "stargazers_count": 794,
-    "watchers_count": 794
+    "stargazers_count": 795,
+    "watchers_count": 795
 }
 {
     "commits_count": 3,
@@ -1404,8 +1387,8 @@
     "repo_name": "CVE-2021-36260",
     "repo_owner": "Cuerz",
     "repotime": "2022-08-06, 03:57:30",
-    "stargazers_count": 160,
-    "watchers_count": 160
+    "stargazers_count": 161,
+    "watchers_count": 161
 }
 {
     "commits_count": 19,
@@ -1456,8 +1439,8 @@
     "repo_name": "uafuzz",
     "repo_owner": "strongcourage",
     "repotime": "2022-08-05, 09:06:35",
-    "stargazers_count": 346,
-    "watchers_count": 346
+    "stargazers_count": 347,
+    "watchers_count": 347
 }
 {
     "commits_count": 4,

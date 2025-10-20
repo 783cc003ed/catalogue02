@@ -1,0 +1,2119 @@
+{
+    "commits_count": 3,
+    "date_started": "2025-05-15",
+    "date_updated": "2025-10-20",
+    "description": "1day practice - Escape macOS sandbox (partial) using RemoteViewServices",
+    "forks_count": 1,
+    "html_url": "https://github.com/BODE987/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape vulnerability",
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Objective-C",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "BODE987",
+    "repotime": "2025-10-20, 08:16:46",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 169,
+    "date_started": "2025-10-18",
+    "date_updated": "2025-10-20",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/watmeom/HTA-Exploit",
+    "keywords": [
+        "Microsoft remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "watmeom",
+    "repotime": "2025-10-20, 04:57:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-11-15",
+    "date_updated": "2025-10-19",
+    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "KQL-Queries-Defender-Sentinel",
+    "repo_owner": "Juanjo9471",
+    "repotime": "2025-10-19, 22:18:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 39,
+    "date_started": "2025-06-14",
+    "date_updated": "2025-10-20",
+    "description": "🛠️ Exploit Microsoft SharePoint WebPart Injection vulnerabilities for .NET deserialization and remote code execution using ToolPane.aspx.",
+    "forks_count": 0,
+    "html_url": "https://github.com/yashz0007/CVE-2025-53770-Exploit",
+    "keywords": [
+        "Microsoft remote code execution exploit",
+        "Microsoft remote code execution",
+        "Microsoft remote code execution poc",
+        "Microsoft remote code execution vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-53770-Exploit",
+    "repo_owner": "yashz0007",
+    "repotime": "2025-10-20, 08:30:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2025-05-27",
+    "date_updated": "2025-10-20",
+    "description": "🛠️ Explore the CVE-2025-5777 memory leak vulnerability in Citrix NetScaler, illustrating the risks of uninitialized memory in parsing malformed POST data.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Lakiya673/CVE-2025-5777",
+    "keywords": [
+        "memory leak exploit",
+        "memory leak vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-5777",
+    "repo_owner": "Lakiya673",
+    "repotime": "2025-10-20, 08:29:38",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-10-20",
+    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
+    "keywords": [
+        "lpe poc",
+        "escalation of privileges poc",
+        "lpe proof of concept"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463_chwoot",
+    "repo_owner": "ashardev002",
+    "repotime": "2025-10-20, 08:29:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-06-23",
+    "date_updated": "2025-10-20",
+    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "sureshkumarsat",
+    "repotime": "2025-10-20, 08:24:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-10-20",
+    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "lab-cve-2020-0610",
+    "repo_owner": "Riocipta75",
+    "repotime": "2025-10-20, 10:47:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-10-20",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-10-20, 07:25:46",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-06-19",
+    "date_updated": "2025-10-20",
+    "description": "SeTcbPrivilege Local Privilege Escalation Exploit",
+    "forks_count": 2,
+    "html_url": "https://github.com/CharminDoge/tcb-lpe",
+    "keywords": [
+        "Windows lpe"
+    ],
+    "language": "Go",
+    "repo_name": "tcb-lpe",
+    "repo_owner": "CharminDoge",
+    "repotime": "2025-10-20, 03:08:58",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-08-08",
+    "date_updated": "2025-10-19",
+    "description": "This CVE addresses a vulnerability in sudo versions 1.9.14 to 1.9.17, enabling unauthorized local privilege escalation to root access.",
+    "forks_count": 2,
+    "html_url": "https://github.com/Nowafen/CVE-2025-32463",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2025-32463",
+    "repo_owner": "Nowafen",
+    "repotime": "2025-10-19, 23:02:59",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 145,
+    "date_started": "2024-05-26",
+    "date_updated": "2025-10-18",
+    "description": "CVE-2025-8088-BUILDER",
+    "forks_count": 26,
+    "html_url": "https://github.com/aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool",
+    "keywords": [
+        "Win zero-day",
+        "Win zero-day exploit",
+        "Win zero-day poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-8088-BUILDER-Winrar-Tool",
+    "repo_owner": "aldisakti2",
+    "repotime": "2025-10-18, 11:25:48",
+    "stargazers_count": 76,
+    "watchers_count": 76
+}
+{
+    "commits_count": 38,
+    "date_started": "2025-10-17",
+    "date_updated": "2025-10-17",
+    "description": "A technical report and hands-on proof of concept demonstrating privilege escalation pathways on Windows, with analysis of root causes, forensic indicators and recommended countermeasures for defenders.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MakiSaine/windows-privilege-escalation-2024",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "windows-privilege-escalation-2024",
+    "repo_owner": "MakiSaine",
+    "repotime": "2025-10-17, 17:32:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-10-17",
+    "date_updated": "2025-10-17",
+    "description": "A lightweight and configurable file server built with Go. Features secure multipart file uploads, configuration via YAML, and protection against path traversal attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mascotmascot1/fileserver",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Go",
+    "repo_name": "fileserver",
+    "repo_owner": "mascotmascot1",
+    "repotime": "2025-10-17, 14:45:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-10-17",
+    "date_updated": "2025-10-17",
+    "description": "Uji Kerentanan XML External Entity Pada Endpoint Yang Menerima XML.",
+    "forks_count": 0,
+    "html_url": "https://github.com/NaldyXploit-ID/XXE-Tester",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "XXE-Tester",
+    "repo_owner": "NaldyXploit-ID",
+    "repotime": "2025-10-17, 19:16:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-09-26",
+    "date_updated": "2025-10-17",
+    "description": "🛠️ Reproduce and validate CVE-2025-3515 by setting up a Dockerized WordPress lab for testing unrestricted file uploads in a vulnerable plugin.",
+    "forks_count": 0,
+    "html_url": "https://github.com/robertskimengote/lab-cve-2025-3515",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Shell",
+    "repo_name": "lab-cve-2025-3515",
+    "repo_owner": "robertskimengote",
+    "repotime": "2025-10-17, 19:10:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-10-17",
+    "description": "🛠️ Reproduce and validate CVE-2025-3515 in a Dockerized WordPress lab to test unrestricted file uploads via the Contact Form 7 plugin.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MrSoules/lab-cve-2025-3515",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": "Shell",
+    "repo_name": "lab-cve-2025-3515",
+    "repo_owner": "MrSoules",
+    "repotime": "2025-10-17, 05:50:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-10-17",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-10-17, 12:28:27",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-13",
+    "date_updated": "2025-10-17",
+    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
+    "forks_count": 1,
+    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "MXSpoof",
+    "repo_owner": "debashishmishra1122",
+    "repotime": "2025-10-17, 15:53:12",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 24,
+    "date_started": "2025-08-04",
+    "date_updated": "2025-10-17",
+    "description": "Modular Python framework for dynamic node health scoring and probabilistic fault injection in fog networks. Models fog node integrity in smart agriculture using real-time metrics, EMA thresholding, and health classification. Features fault injection, adaptive scoring, simulation control, and live visualization. Exports logs in JSON/CSV for analysis",
+    "forks_count": 0,
+    "html_url": "https://github.com/imosudi/dynamic-node-health-simulation",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "dynamic-node-health-simulation",
+    "repo_owner": "imosudi",
+    "repotime": "2025-10-17, 12:14:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-03-08",
+    "date_updated": "2025-10-17",
+    "description": "A vulnerability within Microsoft Office's wwlib allows attackers to achieve remote code execution with the privileges of the victim that opens a malicious RTF document. The attacker could deliver this file as an email attachment (or other means).",
+    "forks_count": 7,
+    "html_url": "https://github.com/gyaansastra/CVE-2023-21716",
+    "keywords": [
+        "Microsoft remote code execution vulnerability",
+        "Microsoft remote code execution",
+        "remote code execution vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-21716",
+    "repo_owner": "gyaansastra",
+    "repotime": "2025-10-17, 17:45:58",
+    "stargazers_count": 59,
+    "watchers_count": 59
+}
+{
+    "commits_count": 212,
+    "date_started": "2025-08-10",
+    "date_updated": "2025-10-16",
+    "description": "🔐 Cybersecurity Lab Reports &amp;amp; CTF Write-ups – Reconnaissance, exploitation, privilege escalation, and mitigation strategies 🛠️ | My curated archive of hacking challenges, vulnerability assessments, and hands-on security research 📂",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nish344/CTF-walkthroughs",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CTF-walkthroughs",
+    "repo_owner": "Nish344",
+    "repotime": "2025-10-16, 18:26:04",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-07-02",
+    "date_updated": "2025-10-16",
+    "description": "Automates data fetching from an external API, stores it in SQL Server, and uploads XML files to an FTP server. Built with C&amp;&#35;35;, .NET Framework, and Entity Framework. Confidential commercial project",
+    "forks_count": 0,
+    "html_url": "https://github.com/calKU0/RolgutApiSync",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "C#",
+    "repo_name": "RolgutApiSync",
+    "repo_owner": "calKU0",
+    "repotime": "2025-10-16, 20:15:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-09-09",
+    "date_updated": "2025-10-16",
+    "description": "Xninjaz is a powerful and versatile multi-vulnerability scanner designed to detect various web application vulnerabilities, including Local File Inclusion (LFI), Open Redirects (OR), SQL Injection (SQLi), and Cross-Site Scripting (XSS). This tool was created by Mr.X",
+    "forks_count": 3,
+    "html_url": "https://github.com/Whomrx666/Xninjaz",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Xninjaz",
+    "repo_owner": "Whomrx666",
+    "repotime": "2025-10-16, 22:20:17",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 176,
+    "date_started": "2025-08-01",
+    "date_updated": "2025-10-16",
+    "description": "GarudRecon automates domain recon with top open-source tools to discover assets, enumerate subdomains, and detect XSS, SQLi, LFI, RCE &amp;amp; more.",
+    "forks_count": 37,
+    "html_url": "https://github.com/rix4uni/GarudRecon",
+    "keywords": [
+        "rce vulnerability",
+        "lfi"
+    ],
+    "language": "Shell",
+    "repo_name": "GarudRecon",
+    "repo_owner": "rix4uni",
+    "repotime": "2025-10-16, 20:05:06",
+    "stargazers_count": 163,
+    "watchers_count": 163
+}
+{
+    "commits_count": 23,
+    "date_started": "2025-05-09",
+    "date_updated": "2025-10-16",
+    "description": "In this satirical simulation game, you take on the role of an underdog who makes money not through fighting, but through hacking, piracy, and all kinds of shady tricks. Instead of battles, you’ll rely on digital manipulation, illegal deals, and clever schemes to build your empire — always with a wink and plenty of absurd situations.",
+    "forks_count": 0,
+    "html_url": "https://github.com/TomatenHead/Zero_Day_Exploit",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "GDScript",
+    "repo_name": "Zero_Day_Exploit",
+    "repo_owner": "TomatenHead",
+    "repotime": "2025-10-16, 15:55:29",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-10-16",
+    "description": "🛡️ Exploit Akamai's RepositoryService XXE vulnerability (CVE-2025-49493) with this testbed, aiding in secure coding practices and vulnerability assessments.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Soham-id/2025hvv",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "2025hvv",
+    "repo_owner": "Soham-id",
+    "repotime": "2025-10-16, 05:16:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 17,
+    "date_started": "2025-10-15",
+    "date_updated": "2025-10-16",
+    "description": "Lab session: the Man-in-the-Middle Attacks",
+    "forks_count": 0,
+    "html_url": "https://github.com/lrx0014/MITM-Lab",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Shell",
+    "repo_name": "MITM-Lab",
+    "repo_owner": "lrx0014",
+    "repotime": "2025-10-16, 13:57:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-08-13",
+    "date_updated": "2025-10-16",
+    "description": "POCs for CVE-2025-50154 and CVE-2025-59214, zero day vulnerabilities on windows file explorer disclosing NTLMv2-SSP without user interaction. It is a bypass for the CVE-2025-24054 Security Patch",
+    "forks_count": 10,
+    "html_url": "https://github.com/rubenformation/CVE-2025-50154",
+    "keywords": [
+        "Windows zero-day poc",
+        "Windows zero-day",
+        "zero-day poc"
+    ],
+    "language": "PowerShell",
+    "repo_name": "CVE-2025-50154",
+    "repo_owner": "rubenformation",
+    "repotime": "2025-10-16, 13:53:07",
+    "stargazers_count": 35,
+    "watchers_count": 35
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-02-15",
+    "date_updated": "2025-10-16",
+    "description": "an MSI analysis tool for finding LPEs",
+    "forks_count": 0,
+    "html_url": "https://github.com/pongratzp/msicrab",
+    "keywords": [
+        "lpe analysis"
+    ],
+    "language": "Rust",
+    "repo_name": "msicrab",
+    "repo_owner": "pongratzp",
+    "repotime": "2025-10-16, 11:22:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-08-27",
+    "date_updated": "2025-10-16",
+    "description": "This repository contains a Proof of Concept (PoC) for a CSV Injection (Formula Injection) vulnerability affecting applications built with the Instant Developer Foundation framework (versions prior to 25.0).",
+    "forks_count": 0,
+    "html_url": "https://github.com/valeriocassoni/CSV-Injection-in-Instant-Developer-Foundation-25.0-PoC",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CSV-Injection-in-Instant-Developer-Foundation-25.0-PoC",
+    "repo_owner": "valeriocassoni",
+    "repotime": "2025-10-16, 11:06:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 38,
+    "date_started": "2025-08-12",
+    "date_updated": "2025-10-16",
+    "description": "Windows 11 24H2 Runtime PatchGuard Bypass",
+    "forks_count": 18,
+    "html_url": "https://github.com/NeoMaster831/kurasagi",
+    "keywords": [
+        "patchguard bypass",
+        "kpp bypass"
+    ],
+    "language": "C++",
+    "repo_name": "kurasagi",
+    "repo_owner": "NeoMaster831",
+    "repotime": "2025-10-16, 12:36:38",
+    "stargazers_count": 198,
+    "watchers_count": 198
+}
+{
+    "commits_count": 1338,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-10-16",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 122,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-10-16, 01:10:29",
+    "stargazers_count": 706,
+    "watchers_count": 706
+}
+{
+    "commits_count": 25,
+    "date_started": "2025-09-12",
+    "date_updated": "2025-10-16",
+    "description": "Research repo for analyzing BLE fitness-tracker vulnerabilities, replay/spoof attacks, and NIST-aligned mitigations.",
+    "forks_count": 0,
+    "html_url": "https://github.com/avU8989/fitness-tracker-attacks",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "fitness-tracker-attacks",
+    "repo_owner": "avU8989",
+    "repotime": "2025-10-16, 00:35:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 50,
+    "date_started": "2025-08-07",
+    "date_updated": "2025-10-15",
+    "description": "Webpage for Bueler's course in introductory real analysis (MATH 401) at UAF.",
+    "forks_count": 0,
+    "html_url": "https://github.com/bueler/real",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "real",
+    "repo_owner": "bueler",
+    "repotime": "2025-10-15, 12:10:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2025-08-17",
+    "date_updated": "2025-10-15",
+    "description": "WinRAR 0day CVE-2025-8088 PoC RAR Archive",
+    "forks_count": 12,
+    "html_url": "https://github.com/Snorx-cyber/CVE-2025-8088-builder",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-8088-builder",
+    "repo_owner": "Snorx-cyber",
+    "repotime": "2025-10-15, 19:14:41",
+    "stargazers_count": 68,
+    "watchers_count": 68
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-10-15",
+    "date_updated": "2025-10-15",
+    "description": "Educational proof-of-concept demonstrating DEP/NX bypass using hardware breakpoints, vectored exception handling, and instruction emulation on Windows x64. For security research and learning purposes only.",
+    "forks_count": 2,
+    "html_url": "https://github.com/VirtualAlllocEx/HWBP-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HWBP-DEP-Bypass",
+    "repo_owner": "VirtualAlllocEx",
+    "repotime": "2025-10-15, 18:52:18",
+    "stargazers_count": 50,
+    "watchers_count": 50
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-09-24",
+    "date_updated": "2025-10-15",
+    "description": "阿里巴巴安全SDK，提供SSRF、JDBC、XXE防护能力",
+    "forks_count": 6,
+    "html_url": "https://github.com/alibaba/seckit",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "Java",
+    "repo_name": "seckit",
+    "repo_owner": "alibaba",
+    "repotime": "2025-10-15, 23:20:07",
+    "stargazers_count": 83,
+    "watchers_count": 83
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-10-15",
+    "date_updated": "2025-10-15",
+    "description": "Command-line tool for security researchers who triage newly disclosed CVEs or hunt for 0-days in open-source codebases. It wraps the GitHub code search API to quickly scan repositories for vulnerable patterns.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Clock-Skew/BugXer0",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "BugXer0",
+    "repo_owner": "Clock-Skew",
+    "repotime": "2025-10-15, 09:21:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-10-15",
+    "date_updated": "2025-10-15",
+    "description": "a comprehensive XML External Entity (XXE) exploitation framework designed for professional penetration testing and red team engagements. This tool provides automated discovery, exploitation, and post-exploitation capabilities for XXE, XSLT, and XPATH injection vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/gh0stsh3ll56/ghostxxxe",
+    "keywords": [
+        "xml external entity"
+    ],
+    "language": "Python",
+    "repo_name": "ghostxxxe",
+    "repo_owner": "gh0stsh3ll56",
+    "repotime": "2025-10-15, 10:16:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 157,
+    "date_started": "2025-05-24",
+    "date_updated": "2025-10-15",
+    "description": "WebKit Heap Use-After-Free Proof-of-Concept (PoC) https://dark-life944.github.io/poc/",
+    "forks_count": 0,
+    "html_url": "https://github.com/Dark-life944/poc",
+    "keywords": [
+        "use after free poc"
+    ],
+    "language": "HTML",
+    "repo_name": "poc",
+    "repo_owner": "Dark-life944",
+    "repotime": "2025-10-15, 07:53:09",
+    "stargazers_count": 8,
+    "watchers_count": 8
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-10-14",
+    "date_updated": "2025-10-15",
+    "description": "Demonstrates a full penetration workflow on a lab target: scanning, exploitation, reverse shell establishment, privilege escalation, and defensive validation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/heinricitorgau/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors",
+    "repo_owner": "heinricitorgau",
+    "repotime": "2025-10-15, 13:41:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-10-14",
+    "date_updated": "2025-10-14",
+    "description": "Bufferoverflow script I made for a class to bypass a stack canary, NX, aslr, PIE.",
+    "forks_count": 0,
+    "html_url": "https://github.com/MPSherman/BufferOverflow",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "Python",
+    "repo_name": "BufferOverflow",
+    "repo_owner": "MPSherman",
+    "repotime": "2025-10-14, 16:28:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-10-14",
+    "date_updated": "2025-10-14",
+    "description": "Physics-based PV module simulator with two-diode per substring model, temperature-dependent I₀, spectral and IAM corrections, soiling/degradation effects, NOCT or energy-balance thermal modeling, and bypass diode behavior for partial shading analysis.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Ouassimlaouar/Temperature-Dependent-Two-Diode-PV-Simulator-for-Partial-Shading-Studies",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Python",
+    "repo_name": "Temperature-Dependent-Two-Diode-PV-Simulator-for-Partial-Shading-Studies",
+    "repo_owner": "Ouassimlaouar",
+    "repotime": "2025-10-14, 20:40:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2025-10-13",
+    "date_updated": "2025-10-14",
+    "description": "Crypto Dashboard is a modern and transparent dashboard with authentication enabled using jwt and cookies to login and authenticate the user and protect the dashboard from the unauthenticated users.",
+    "forks_count": 0,
+    "html_url": "https://github.com/waqas-404/Crypto-Dashboard",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Crypto-Dashboard",
+    "repo_owner": "waqas-404",
+    "repotime": "2025-10-14, 18:23:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-10-14",
+    "date_updated": "2025-10-14",
+    "description": "Demonstrates a full penetration workflow on a lab target: scanning, exploitation, reverse shell establishment, privilege escalation, and defensive validation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/heinricitorgau/Development-of-a-Dynamic-Identity-Hiding-System-Combining-Tor-and-SOCKS5-Proxy",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Python",
+    "repo_name": "Development-of-a-Dynamic-Identity-Hiding-System-Combining-Tor-and-SOCKS5-Proxy",
+    "repo_owner": "heinricitorgau",
+    "repotime": "2025-10-14, 19:42:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-10-14",
+    "date_updated": "2025-10-14",
+    "description": "Local privilege escalation exploit for CVE-2025-0886.",
+    "forks_count": 0,
+    "html_url": "https://github.com/JNDataRT/VirtualLockSensorLPE",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "C++",
+    "repo_name": "VirtualLockSensorLPE",
+    "repo_owner": "JNDataRT",
+    "repotime": "2025-10-14, 13:21:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 185,
+    "date_started": "2025-07-16",
+    "date_updated": "2025-10-14",
+    "description": "Strictly enforce path boundaries to prevent directory traversal attacks. This crate provides compile-time guarantees that file paths cannot escape their designated boundaries",
+    "forks_count": 0,
+    "html_url": "https://github.com/DK26/strict-path-rs",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Rust",
+    "repo_name": "strict-path-rs",
+    "repo_owner": "DK26",
+    "repotime": "2025-10-14, 13:53:45",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 9,
+    "date_started": "2024-02-28",
+    "date_updated": "2025-10-14",
+    "description": "LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2023-40000",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-40000",
+    "repo_owner": "rxerium",
+    "repotime": "2025-10-14, 07:46:54",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-02-07",
+    "date_updated": "2025-10-14",
+    "description": "Cityworks deserialization of untrusted data vulnerability Detection",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2025-0994",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-0994",
+    "repo_owner": "rxerium",
+    "repotime": "2025-10-14, 07:46:11",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-03-17",
+    "date_updated": "2025-10-14",
+    "description": "Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2022-41352",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-41352",
+    "repo_owner": "rxerium",
+    "repotime": "2025-10-14, 07:45:02",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-03-17",
+    "date_updated": "2025-10-14",
+    "description": "An attacker could place HTML containing executable JavaScript inside element attributes. This markup becomes unescaped, causing arbitrary markup to be injected into the document.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2022-24086",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": null,
+    "repo_name": "CVE-2022-24086",
+    "repo_owner": "rxerium",
+    "repotime": "2025-10-14, 07:44:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2024-02-24",
+    "date_updated": "2025-10-14",
+    "description": "Atlassian Confluence Data Center and Server Broken Access Control Vulnerability",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2023-22515",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2023-22515",
+    "repo_owner": "rxerium",
+    "repotime": "2025-10-14, 07:44:06",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2024-08-28",
+    "date_updated": "2025-10-14",
+    "description": "Incorrect implementation of an authentication algorithm in Ivanti vTM other than versions 22.2R1 or 22.7R2 allows a remote unauthenticated attacker to bypass authentication of the admin panel.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2024-7593",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": null,
+    "repo_name": "CVE-2024-7593",
+    "repo_owner": "rxerium",
+    "repotime": "2025-10-14, 07:43:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-04-25",
+    "date_updated": "2025-10-14",
+    "description": "SAP NetWeaver Visual Composer Metadata Uploader is not protected with a proper authorization, allowing unauthenticated agent to upload potentially malicious executable binaries that could severely harm the host system. This could significantly affect the confidentiality, integrity, and availability of the targeted system.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2025-31324",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-31324",
+    "repo_owner": "rxerium",
+    "repotime": "2025-10-14, 07:43:35",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-06-10",
+    "date_updated": "2025-10-14",
+    "description": "Detection for CVE-2025-24016 - Deserialization of Untrusted Data Vulnerability in the Wazuh software",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2025-24016",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-24016",
+    "repo_owner": "rxerium",
+    "repotime": "2025-10-14, 07:43:19",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-08-28",
+    "date_updated": "2025-10-14",
+    "description": "Detection for CVE-2025-57819",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2025-57819",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-57819",
+    "repo_owner": "rxerium",
+    "repotime": "2025-10-14, 07:38:15",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2783,
+    "date_started": "2009-12-19",
+    "date_updated": "2025-10-14",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "forks_count": 2258,
+    "html_url": "https://github.com/jhy/jsoup",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "jsoup",
+    "repo_owner": "jhy",
+    "repotime": "2025-10-14, 13:43:34",
+    "stargazers_count": 11264,
+    "watchers_count": 11264
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-10-13",
+    "date_updated": "2025-10-13",
+    "description": "Microsoft Windows Media Player v.12 WMDRM 'HTMLView' window",
+    "forks_count": 0,
+    "html_url": "https://github.com/Edubr2020/WMP_WMDRM_RES_RCE",
+    "keywords": [
+        "Microsoft rce",
+        "Windows rce"
+    ],
+    "language": "Batchfile",
+    "repo_name": "WMP_WMDRM_RES_RCE",
+    "repo_owner": "Edubr2020",
+    "repotime": "2025-10-13, 22:47:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2212,
+    "date_started": "2019-09-10",
+    "date_updated": "2025-10-14",
+    "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
+    "forks_count": 296,
+    "html_url": "https://github.com/TongchengOpenSource/smart-doc",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Java",
+    "repo_name": "smart-doc",
+    "repo_owner": "TongchengOpenSource",
+    "repotime": "2025-10-14, 09:33:45",
+    "stargazers_count": 1584,
+    "watchers_count": 1584
+}
+{
+    "commits_count": 35,
+    "date_started": "2025-06-24",
+    "date_updated": "2025-10-14",
+    "description": "A comprehensive collection of penetration testing resources including CTF writeups, web and binary exploitation, malware analysis, reverse engineering, privilege escalation, and custom pentesting tools — all documented for educational and ethical hacking purposes.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Asmodeus123-king/Penetration-Testing-",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges analysis"
+    ],
+    "language": null,
+    "repo_name": "Penetration-Testing-",
+    "repo_owner": "Asmodeus123-king",
+    "repotime": "2025-10-14, 06:21:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-10-07",
+    "date_updated": "2025-10-13",
+    "description": "MyTube is a Django-powered video sharing platform that supports user authentication. Unauthenticated users can view videos, while logged-in users can upload and manage their own uploads.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vadim-Gulkovich/myTube_Hulkovich_Harkusha",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "HTML",
+    "repo_name": "myTube_Hulkovich_Harkusha",
+    "repo_owner": "Vadim-Gulkovich",
+    "repotime": "2025-10-13, 21:20:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2025-10-08",
+    "date_updated": "2025-10-13",
+    "description": "&amp;&#35;35; GoGuard  Desktop application for web server log analysis. Detects SQLi, XSS, Path Traversal attacks using regex patterns and AI recommendations through OpenRouter API.  **Key Features:** - Standalone executable (no server/browser required) - AI-powered security recommendations   ",
+    "forks_count": 0,
+    "html_url": "https://github.com/LuaRennix/GoGuard",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Go",
+    "repo_name": "GoGuard",
+    "repo_owner": "LuaRennix",
+    "repotime": "2025-10-13, 21:20:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 640,
+    "date_started": "2024-09-27",
+    "date_updated": "2025-10-13",
+    "description": "Repository containing writeups of CTF machines from platforms like HackTheBox, HackMyVM, and VulNyx. It includes detailed steps for exploiting vulnerabilities, privilege escalation, and post-exploitation.",
+    "forks_count": 1,
+    "html_url": "https://github.com/francescolonardo/pentest-machine-writeups",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "pentest-machine-writeups",
+    "repo_owner": "francescolonardo",
+    "repotime": "2025-10-13, 13:33:47",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 7,
+    "date_started": "2024-05-21",
+    "date_updated": "2025-10-13",
+    "description": "⚠️ Patch CVE-2025-10585 now to fix a critical type-confusion vulnerability in Chrome’s V8 engine, preventing active exploitation in the wild.",
+    "forks_count": 0,
+    "html_url": "https://github.com/samus4vic/CVE-2025-10585-The-Chrome-V8-Zero-Day",
+    "keywords": [
+        "Chrome zero-day",
+        "zero-day exploitation",
+        "Chrome zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-10585-The-Chrome-V8-Zero-Day",
+    "repo_owner": "samus4vic",
+    "repotime": "2025-10-13, 11:31:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-09-13",
+    "date_updated": "2025-10-13",
+    "description": "CVE-2025-9776 — CatFolders WordPress Plugin: Authenticated SQL Injection via CSV Import | POC + Walkthrough",
+    "forks_count": 0,
+    "html_url": "https://github.com/SnailSploit/CVE-2025-9776",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-9776",
+    "repo_owner": "SnailSploit",
+    "repotime": "2025-10-13, 10:48:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-10-13",
+    "date_updated": "2025-10-13",
+    "description": "A session hijacking attack refers to the exploitation of a session token-generation mechanism or token security controls that enables an attacker to establish an unauthorized connection with a target server. The attacker guesses or steals a valid session ID (which identifies authenticated users) and uses it to establish a session with the server.",
+    "forks_count": 0,
+    "html_url": "https://github.com/asyrafzf95/Session-Hijacking",
+    "keywords": [
+        "session attack",
+        "session hijacking"
+    ],
+    "language": null,
+    "repo_name": "Session-Hijacking",
+    "repo_owner": "asyrafzf95",
+    "repotime": "2025-10-13, 14:57:43",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-04-07",
+    "date_updated": "2025-10-12",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jeytha/Case-study-replicating-the-Mitnick-Attack-a-TCP-session-hijacking-technique",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Case-study-replicating-the-Mitnick-Attack-a-TCP-session-hijacking-technique",
+    "repo_owner": "Jeytha",
+    "repotime": "2025-10-12, 23:58:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2024-07-03",
+    "date_updated": "2025-10-13",
+    "description": "ASUS wifi router RCE vulnerability",
+    "forks_count": 2,
+    "html_url": "https://github.com/BTtea/CVE-2018-14714-RCE-exploit",
+    "keywords": [
+        "rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2018-14714-RCE-exploit",
+    "repo_owner": "BTtea",
+    "repotime": "2025-10-13, 09:44:29",
+    "stargazers_count": 18,
+    "watchers_count": 18
+}
+{
+    "commits_count": 142,
+    "date_started": "2019-04-19",
+    "date_updated": "2025-10-12",
+    "description": "Top disclosed reports from HackerOne",
+    "forks_count": 887,
+    "html_url": "https://github.com/reddelexc/hackerone-reports",
+    "keywords": [
+        "xxe",
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "hackerone-reports",
+    "repo_owner": "reddelexc",
+    "repotime": "2025-10-12, 18:30:34",
+    "stargazers_count": 4930,
+    "watchers_count": 4930
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-10-11",
+    "date_updated": "2025-10-12",
+    "description": "We are expected to investigate a critical alert reporting a Windows OLE zero-click RCE exploitation (CVE-2025-21298) delivered via a malicious RTF attachment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Arkha-Corvus/LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298-",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": null,
+    "repo_name": "LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298-",
+    "repo_owner": "Arkha-Corvus",
+    "repotime": "2025-10-12, 10:06:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-10-12",
+    "date_updated": "2025-10-12",
+    "description": "A Python script for the classic &amp;quot;Cows and Bulls&amp;quot; game. Guess a unique 4-digit number in 7 tries. After each guess, get feedback on Bulls (correct digit, correct place) and Cows (correct digit, wrong place). Input is validated for uniqueness and length.",
+    "forks_count": 0,
+    "html_url": "https://github.com/pavankumarbandla/Cows_and_Bulls_Game",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "Python",
+    "repo_name": "Cows_and_Bulls_Game",
+    "repo_owner": "pavankumarbandla",
+    "repotime": "2025-10-12, 12:20:09",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-10-10",
+    "date_updated": "2025-10-11",
+    "description": "Proof of concept for exploitation of the vulnerability described in CVE-2025-11554, which concerns the possibility of a privilege escalation through arbitrary requests to user types change endpoint in the i-Educar software.",
+    "forks_count": 0,
+    "html_url": "https://github.com/m3m0o/portabilis-ieducar-user-type-privilege-escalation",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Python",
+    "repo_name": "portabilis-ieducar-user-type-privilege-escalation",
+    "repo_owner": "m3m0o",
+    "repotime": "2025-10-11, 18:23:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 196,
+    "date_started": "2021-05-26",
+    "date_updated": "2025-10-11",
+    "description": "Create, edit and write a2l files with this rust crate",
+    "forks_count": 16,
+    "html_url": "https://github.com/DanielT/a2lfile",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Rust",
+    "repo_name": "a2lfile",
+    "repo_owner": "DanielT",
+    "repotime": "2025-10-11, 11:43:55",
+    "stargazers_count": 27,
+    "watchers_count": 27
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-09-17",
+    "date_updated": "2025-10-10",
+    "description": "A collection of Sigma rules for detecting suspicious activity across Windows, Linux, and web applications. Includes detections for authentication anomalies, lateral movement, privilege escalation, and malicious command execution. Designed for SOC monitoring, threat hunting, and incident response.",
+    "forks_count": 0,
+    "html_url": "https://github.com/t8ddyxrd/Sigma-Rules",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "Sigma-Rules",
+    "repo_owner": "t8ddyxrd",
+    "repotime": "2025-10-10, 20:08:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-10-10",
+    "date_updated": "2025-10-10",
+    "description": "Reflected Cross-Site Scripting (XSS) in Xibo CMS v4.1.2 from Xibo Signage, due to a lack of proper validation of user input.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Marinafabregat/CVE-2025-41089",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-41089",
+    "repo_owner": "Marinafabregat",
+    "repotime": "2025-10-10, 20:24:41",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-10-10",
+    "date_updated": "2025-10-10",
+    "description": "Stored Cross-Site Scripting (XSS) in Xibo Signage's Xibo CMS v4.1.2, due to a lack of proper validation of user input.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Marinafabregat/CVE-2025-41088",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-41088",
+    "repo_owner": "Marinafabregat",
+    "repotime": "2025-10-10, 19:46:18",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 732,
+    "date_started": "2022-04-19",
+    "date_updated": "2025-10-10",
+    "description": "Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.",
+    "forks_count": 42,
+    "html_url": "https://github.com/Ostorlab/KEV",
+    "keywords": [
+        "0day vulnerability",
+        "0day exploitation",
+        "0day exploit"
+    ],
+    "language": null,
+    "repo_name": "KEV",
+    "repo_owner": "Ostorlab",
+    "repotime": "2025-10-10, 14:30:50",
+    "stargazers_count": 588,
+    "watchers_count": 588
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-10-10",
+    "date_updated": "2025-10-10",
+    "description": "Zero-Day Pattern Discovery Engine is an intelligent security platform that predicts and uncovers new, unknown software vulnerabilities by learning from historical CVEs and open-source code. Using a blend of semantic code analysis and vulnerability graph learning, it finds risky patterns even before hackers do",
+    "forks_count": 0,
+    "html_url": "https://github.com/bhakti060806/zeroshpere",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": null,
+    "repo_name": "zeroshpere",
+    "repo_owner": "bhakti060806",
+    "repotime": "2025-10-10, 10:23:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-10-09",
+    "date_updated": "2025-10-09",
+    "description": "Investigated GNSS signal behavior by analyzing two datasets, identifying interference patterns, and assessing vulnerabilities such as spoofed positions and signal delay attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/GiovanniLombardi13/GNSS_Spoofing",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": null,
+    "repo_name": "GNSS_Spoofing",
+    "repo_owner": "GiovanniLombardi13",
+    "repotime": "2025-10-09, 17:23:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2165,
+    "date_started": "2020-04-12",
+    "date_updated": "2025-10-09",
+    "description": "🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.",
+    "forks_count": 503,
+    "html_url": "https://github.com/hahwul/dalfox",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Go",
+    "repo_name": "dalfox",
+    "repo_owner": "hahwul",
+    "repotime": "2025-10-09, 18:25:53",
+    "stargazers_count": 4604,
+    "watchers_count": 4604
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-05-15",
+    "date_updated": "2025-10-09",
+    "description": "Collection of Hack The Box writeups, covering various challenges including Active Directory, web exploitation, and privilege escalation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Chw41/HackTheBox",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "PHP",
+    "repo_name": "HackTheBox",
+    "repo_owner": "Chw41",
+    "repotime": "2025-10-09, 17:12:51",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 380,
+    "date_started": "2019-08-21",
+    "date_updated": "2025-10-08",
+    "description": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserializati...",
+    "forks_count": 293,
+    "html_url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+    "keywords": [
+        "xml external entity",
+        "session attack",
+        "zero-day dos",
+        "zero-day vulnerability",
+        "zero-day exploitation",
+        "session vulnerability",
+        "zero-day exploit"
+    ],
+    "language": "Lua",
+    "repo_name": "Nginx-Lua-Anti-DDoS",
+    "repo_owner": "C0nw0nk",
+    "repotime": "2025-10-08, 22:36:40",
+    "stargazers_count": 1374,
+    "watchers_count": 1374
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-08-18",
+    "date_updated": "2025-10-08",
+    "description": "Proof-of-concept exploit for CVE-2025-4334, a privilege escalation vulnerability in the Simple User Registration WordPress plugin (&amp;lt;= 6.3), allowing unauthenticated attackers to create administrator accounts.",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xgh057r3c0n/CVE-2025-4334",
+    "keywords": [
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-4334",
+    "repo_owner": "0xgh057r3c0n",
+    "repotime": "2025-10-08, 23:56:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2025-10-08",
+    "date_updated": "2025-10-08",
+    "description": "1Password Families CSV injection RCE repro—vault export lag to multi-user exec",
+    "forks_count": 0,
+    "html_url": "https://github.com/enzo2alive/1password-family-rce-repro",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Python",
+    "repo_name": "1password-family-rce-repro",
+    "repo_owner": "enzo2alive",
+    "repotime": "2025-10-08, 11:30:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-10-08",
+    "date_updated": "2025-10-08",
+    "description": "Writeup and exploit for CVE-2025-22441: Privilege escalation from installed app to SystemUI process on Android due to pass of untrusted ApplicationInfo to LoadedApk",
+    "forks_count": 15,
+    "html_url": "https://github.com/michalbednarski/ResourcePoison",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Java",
+    "repo_name": "ResourcePoison",
+    "repo_owner": "michalbednarski",
+    "repotime": "2025-10-08, 15:12:51",
+    "stargazers_count": 77,
+    "watchers_count": 77
+}
+{
+    "commits_count": 11,
+    "date_started": "2019-05-28",
+    "date_updated": "2025-10-08",
+    "description": "Find directory Local File Inclusion on download website application query",
+    "forks_count": 0,
+    "html_url": "https://github.com/FachrulRH/lfi-attack",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "lfi-attack",
+    "repo_owner": "FachrulRH",
+    "repotime": "2025-10-08, 18:44:52",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-10-08",
+    "date_updated": "2025-10-08",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/DHileep14/ZeroSentinel-ML-Augmented-Threat-Intelligence-System-for-Zero-Day-Exploit-Prediction",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "ZeroSentinel-ML-Augmented-Threat-Intelligence-System-for-Zero-Day-Exploit-Prediction",
+    "repo_owner": "DHileep14",
+    "repotime": "2025-10-08, 13:51:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-10-08",
+    "date_updated": "2025-10-08",
+    "description": "HEVD x86 Exploit - SMEP &amp;amp; kASLR Bypass",
+    "forks_count": 0,
+    "html_url": "https://github.com/nightm4r3/HEVD",
+    "keywords": [
+        "smep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HEVD",
+    "repo_owner": "nightm4r3",
+    "repotime": "2025-10-08, 04:13:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2023-06-08",
+    "date_updated": "2025-10-07",
+    "description": "Exploiting SQL Injection vulnerability",
+    "forks_count": 562,
+    "html_url": "https://github.com/gowriganeshns/sqlinjection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": null,
+    "repo_name": "sqlinjection",
+    "repo_owner": "gowriganeshns",
+    "repotime": "2025-10-07, 22:33:21",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 10457,
+    "date_started": "2012-06-26",
+    "date_updated": "2025-10-07",
+    "description": "Automatic SQL injection and database takeover tool",
+    "forks_count": 6077,
+    "html_url": "https://github.com/sqlmapproject/sqlmap",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlmap",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2025-10-07, 10:48:16",
+    "stargazers_count": 35540,
+    "watchers_count": 35540
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-10-07",
+    "date_updated": "2025-10-07",
+    "description": "Pegasus WhatsApp Tracker – Advanced Surveillance Platform  The Ultimate Zero-Day Exploitation Framework for WhatsApp Intelligence  Pegasus WhatsApp Tracker represents the pinnacle of advanced surveillance technology, designed exclusively for authorized security professionals",
+    "forks_count": 1,
+    "html_url": "https://github.com/suchin-nagar/Pega-Whatsapp-Tracker",
+    "keywords": [
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "Pega-Whatsapp-Tracker",
+    "repo_owner": "suchin-nagar",
+    "repotime": "2025-10-07, 03:53:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 28,
+    "date_started": "2020-04-27",
+    "date_updated": "2025-10-06",
+    "description": "A collection of GCP IAM privilege escalation methods documented by the Rhino Security Labs team.",
+    "forks_count": 77,
+    "html_url": "https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": "Python",
+    "repo_name": "GCP-IAM-Privilege-Escalation",
+    "repo_owner": "RhinoSecurityLabs",
+    "repotime": "2025-10-06, 16:56:16",
+    "stargazers_count": 404,
+    "watchers_count": 404
+}
+{
+    "commits_count": 12,
+    "date_started": "2025-05-17",
+    "date_updated": "2025-10-06",
+    "description": "CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by a malicious audio file via iMessage/SMS. Exploitation bypassed Blastdoor, enabled kernel escalation (CVE-2025-31201), and allowed token theft until patched in iOS 18.4.1 (Apr 16, 2025).",
+    "forks_count": 8,
+    "html_url": "https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
+    "keywords": [
+        "rce disclosure",
+        "zero-day exploitation",
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
+    "repo_owner": "JGoyd",
+    "repotime": "2025-10-06, 14:31:05",
+    "stargazers_count": 56,
+    "watchers_count": 56
+}
+{
+    "commits_count": 35,
+    "date_started": "2025-10-02",
+    "date_updated": "2025-10-06",
+    "description": "Intentionally vulnerable captive portal lab for wireless security training. Demonstrates session hijacking, authentication bypass, and network security vulnerabilities. Docker containerized for safe, isolated learning environments. FOR EDUCATIONAL USE ONLY.",
+    "forks_count": 0,
+    "html_url": "https://github.com/516hackers/516-captive-portal-lab",
+    "keywords": [
+        "session hijacking vulnerability",
+        "session vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "516-captive-portal-lab",
+    "repo_owner": "516hackers",
+    "repotime": "2025-10-06, 22:50:17",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-10-06",
+    "date_updated": "2025-10-06",
+    "description": "Input Validation &amp;amp; Data Sanitization, In this lab, I will explore the critical role of input validation and data sanitization in securing web applications. beginning with a deliberately insecure Flask app that lacks proper validation, CSRF protection, and sanitization.",
+    "forks_count": 0,
+    "html_url": "https://github.com/gabriel-k-erzah/CSC2031-Practical-3-",
+    "keywords": [
+        "lack of input validation"
+    ],
+    "language": "Python",
+    "repo_name": "CSC2031-Practical-3-",
+    "repo_owner": "gabriel-k-erzah",
+    "repotime": "2025-10-06, 15:09:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-10-06",
+    "date_updated": "2025-10-06",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/anmol5936/Proof-of-Concept--PoC---CWE-918-Server-Side-Request-Forgery--SSRF--in-jackson-databind",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Java",
+    "repo_name": "Proof-of-Concept--PoC---CWE-918-Server-Side-Request-Forgery--SSRF--in-jackson-databind",
+    "repo_owner": "anmol5936",
+    "repotime": "2025-10-06, 16:27:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 257,
+    "date_started": "2018-07-10",
+    "date_updated": "2025-10-06",
+    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "forks_count": 2438,
+    "html_url": "https://github.com/kgretzky/evilginx2",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Go",
+    "repo_name": "evilginx2",
+    "repo_owner": "kgretzky",
+    "repotime": "2025-10-06, 12:23:37",
+    "stargazers_count": 13937,
+    "watchers_count": 13937
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-10-06",
+    "date_updated": "2025-10-06",
+    "description": "A machine learning-powered cybersecurity solution that detects unknown threats using network traffic analysis and ensemble learning.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Esvanth/Zero-day-vulnerability-detector",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Zero-day-vulnerability-detector",
+    "repo_owner": "Esvanth",
+    "repotime": "2025-10-06, 13:11:43",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-10-06",
+    "date_updated": "2025-10-06",
+    "description": "Security Information and Event Management (SIEM) system using ELK Stack for real-time threat detection and visualization. Monitors SSH authentication, web traffic, and firewall logs to identify SQL injection, brute force attacks, and path traversal attempts.",
+    "forks_count": 0,
+    "html_url": "https://github.com/BadBoy0170/elk-siem-project",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Python",
+    "repo_name": "elk-siem-project",
+    "repo_owner": "BadBoy0170",
+    "repotime": "2025-10-06, 08:11:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 18,
+    "date_started": "2025-08-23",
+    "date_updated": "2025-10-05",
+    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
+    "forks_count": 5,
+    "html_url": "https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": null,
+    "repo_name": "Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
+    "repo_owner": "JGoyd",
+    "repotime": "2025-10-05, 12:49:47",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-07-24",
+    "date_updated": "2025-10-04",
+    "description": "This project focuses on detecting potential cyberattacks by analyzing tabular network session data. The cleaned and transformed dataset is prepared for machine learning modeling to classify sessions as normal or attack attempts.",
+    "forks_count": 0,
+    "html_url": "https://github.com/maishatabassum932/Cyber-Attack-Detection",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Cyber-Attack-Detection",
+    "repo_owner": "maishatabassum932",
+    "repotime": "2025-10-04, 23:47:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-09-29",
+    "date_updated": "2025-10-05",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/TEABLANka/c-xxe",
+    "keywords": [
+        "xxe"
+    ],
+    "language": null,
+    "repo_name": "c-xxe",
+    "repo_owner": "TEABLANka",
+    "repotime": "2025-10-05, 03:19:47",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-10-04",
+    "date_updated": "2025-10-04",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/CTRLShelley/Session-Hijacking",
+    "keywords": [
+        "session hijacking"
+    ],
+    "language": null,
+    "repo_name": "Session-Hijacking",
+    "repo_owner": "CTRLShelley",
+    "repotime": "2025-10-04, 15:51:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 20,
+    "date_started": "2025-10-04",
+    "date_updated": "2025-10-04",
+    "description": "PhishGuard Proxy (PGP) combines the best of Evilginx2 (phishlets for service-specific auth flows, real-time MFA/session hijacking) and Modlishka (transparent URL/JS/CSS rewriting, fingerprint evasion via UA rotation and header spoofing).",
+    "forks_count": 0,
+    "html_url": "https://github.com/kinni124/phishguard-proxy",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "Go",
+    "repo_name": "phishguard-proxy",
+    "repo_owner": "kinni124",
+    "repotime": "2025-10-04, 08:49:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 148,
+    "date_started": "2022-10-01",
+    "date_updated": "2025-10-04",
+    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
+    "forks_count": 397,
+    "html_url": "https://github.com/r0oth3x49/ghauri",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "ghauri",
+    "repo_owner": "r0oth3x49",
+    "repotime": "2025-10-04, 07:50:12",
+    "stargazers_count": 3731,
+    "watchers_count": 3731
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-10-03",
+    "date_updated": "2025-10-04",
+    "description": "Summer Pearl Group's Vacation Rental Management Platform versions ≤ 1.0.1 contain an Insufficient Session Expiration vulnerability.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Stolichnayer/Summer-Pearl-Group-Insufficient-Session-Expiration",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Summer-Pearl-Group-Insufficient-Session-Expiration",
+    "repo_owner": "Stolichnayer",
+    "repotime": "2025-10-04, 01:11:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 71,
+    "date_started": "2023-12-03",
+    "date_updated": "2025-10-03",
+    "description": "Prevent path traversal attacks at type level",
+    "forks_count": 0,
+    "html_url": "https://github.com/TheAlgorythm/path-ratchet",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Rust",
+    "repo_name": "path-ratchet",
+    "repo_owner": "TheAlgorythm",
+    "repotime": "2025-10-03, 18:36:00",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-10-03",
+    "date_updated": "2025-10-03",
+    "description": "Zero-day exploits remain one of the most disruptive categories of cyberattacks, leveraging undisclosed vulnerabilities before security defenses can respond",
+    "forks_count": 0,
+    "html_url": "https://github.com/1Sonofman/Predictive-Analytics-for-Zero-Day-Exploit-Identification",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": null,
+    "repo_name": "Predictive-Analytics-for-Zero-Day-Exploit-Identification",
+    "repo_owner": "1Sonofman",
+    "repotime": "2025-10-03, 15:28:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 561,
+    "date_started": "2018-12-07",
+    "date_updated": "2025-10-03",
+    "description": "A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.",
+    "forks_count": 260,
+    "html_url": "https://github.com/TH3xACE/SUDO_KILLER",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges vulnerability",
+        "escalation of privileges exploitation"
+    ],
+    "language": "Shell",
+    "repo_name": "SUDO_KILLER",
+    "repo_owner": "TH3xACE",
+    "repotime": "2025-10-03, 12:13:04",
+    "stargazers_count": 2380,
+    "watchers_count": 2380
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-10-03",
+    "date_updated": "2025-10-03",
+    "description": "This repository contains ZAARA's implementation of the exploit for CVE-2021-4034 (PwnKit), a local privilege escalation vulnerability in polkit's pkexec. This tool demonstrates advanced exploitation techniques while maintaining operational security.",
+    "forks_count": 0,
+    "html_url": "https://github.com/zaaraZiof0/pkexec-exploit-CVE",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "Python",
+    "repo_name": "pkexec-exploit-CVE",
+    "repo_owner": "zaaraZiof0",
+    "repotime": "2025-10-03, 13:49:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-10-03",
+    "date_updated": "2025-10-03",
+    "description": "A low-cost Rubber Ducky using Digispark ATtiny85 microcontroller to simulate keystroke injection  attacks. Programmed HID payloads via Arduino IDE using the DigiKeyboard library to demonstrate  command execution, privilege escalation, and automation of system tasks on Windows systems. Gained  hands-on experience in USB emulation, HID-based attack.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vinora146/The-Digispark-Attiny85-Rubber-Ducky",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "The-Digispark-Attiny85-Rubber-Ducky",
+    "repo_owner": "Vinora146",
+    "repotime": "2025-10-03, 10:08:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-10-02",
+    "date_updated": "2025-10-02",
+    "description": "Unauthenticated Remote Code Execution in XWiki via SolrSearch Macro",
+    "forks_count": 0,
+    "html_url": "https://github.com/gotr00t0day/CVE-2025-24893",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-24893",
+    "repo_owner": "gotr00t0day",
+    "repotime": "2025-10-02, 20:18:01",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-10-02",
+    "date_updated": "2025-10-02",
+    "description": "The existing code is a Password Generator that helps users create a hard password.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Fanina92/password_generator-",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Python",
+    "repo_name": "password_generator-",
+    "repo_owner": "Fanina92",
+    "repotime": "2025-10-02, 15:08:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 197,
+    "date_started": "2013-11-05",
+    "date_updated": "2025-10-01",
+    "description": "Command line tool to edit resources of exe",
+    "forks_count": 207,
+    "html_url": "https://github.com/electron/rcedit",
+    "keywords": [
+        "Windows rce"
+    ],
+    "language": "C++",
+    "repo_name": "rcedit",
+    "repo_owner": "electron",
+    "repotime": "2025-10-01, 22:11:46",
+    "stargazers_count": 1967,
+    "watchers_count": 1967
+}
+{
+    "commits_count": 122,
+    "date_started": "2017-02-24",
+    "date_updated": "2025-10-01",
+    "description": "Wiki to collect Red Team infrastructure hardening resources",
+    "forks_count": 914,
+    "html_url": "https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki",
+    "keywords": [
+        "by_owner"
+    ],
+    "language": null,
+    "repo_name": "Red-Team-Infrastructure-Wiki",
+    "repo_owner": "bluscreenofjeff",
+    "repotime": "2025-10-01, 10:10:58",
+    "stargazers_count": 4370,
+    "watchers_count": 4370
+}
+{
+    "commits_count": 23,
+    "date_started": "2024-12-05",
+    "date_updated": "2025-10-01",
+    "description": "🥷 Prevent CSV injection and data exfiltration",
+    "forks_count": 0,
+    "html_url": "https://github.com/samber/go-safe-csv-writer",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Go",
+    "repo_name": "go-safe-csv-writer",
+    "repo_owner": "samber",
+    "repotime": "2025-10-01, 17:29:25",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 58,
+    "date_started": "2025-09-30",
+    "date_updated": "2025-10-01",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kaswwom/HTA-Exploit",
+    "keywords": [
+        "Microsoft remote code execution exploit",
+        "Microsoft remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "Kaswwom",
+    "repotime": "2025-10-01, 13:40:10",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-10-01",
+    "date_updated": "2025-10-01",
+    "description": "A Python-based Multiple Choice Quiz on Nutrition with 20 questions. The quiz covers food groups, vitamins, minerals, dietary diseases, digestion, BMI, and probiotics. Users can answer MCQs, get a score with percentage, and review wrong answers with correct answers at the end. Includes input validation to avoid wrong key entries.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Zarra29/Nutrition-Questionnaire",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "Python",
+    "repo_name": "Nutrition-Questionnaire",
+    "repo_owner": "Zarra29",
+    "repotime": "2025-10-01, 19:18:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-10-01",
+    "date_updated": "2025-10-01",
+    "description": "PoC exploit for SyncBreeze 10.0.28 buffer overflow vulnerability, demonstrating DEP bypass using WriteProcessMemory (WPM)",
+    "forks_count": 0,
+    "html_url": "https://github.com/thekeym4ker/SyncBreeze-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Python",
+    "repo_name": "SyncBreeze-DEP-Bypass",
+    "repo_owner": "thekeym4ker",
+    "repotime": "2025-10-01, 19:18:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-10-01",
+    "date_updated": "2025-10-01",
+    "description": "This paper analyzes the evolving cyber threat landscape, covering attacks like malware, phishing, DoS/DDoS, SQL injection, MitM, and zero-day exploits. It highlights their impacts and evaluates defense strategies, stressing layered security, user awareness, and AI-driven solutions for stronger digital resilience.",
+    "forks_count": 0,
+    "html_url": "https://github.com/muhammadfakhriamir/ISAS-2-Semester-2-2CS2-Q2",
+    "keywords": [
+        "zero-day dos"
+    ],
+    "language": null,
+    "repo_name": "ISAS-2-Semester-2-2CS2-Q2",
+    "repo_owner": "muhammadfakhriamir",
+    "repotime": "2025-10-01, 14:15:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 46,
+    "date_started": "2019-06-08",
+    "date_updated": "2025-10-01",
+    "description": "Local file inclusion exploitation tool",
+    "forks_count": 112,
+    "html_url": "https://github.com/mzfr/liffy",
+    "keywords": [
+        "lfi",
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "liffy",
+    "repo_owner": "mzfr",
+    "repotime": "2025-10-01, 14:46:29",
+    "stargazers_count": 900,
+    "watchers_count": 900
+}

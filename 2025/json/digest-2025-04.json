@@ -1,22 +1,5 @@
 {
     "commits_count": 10,
-    "date_started": "2025-04-12",
-    "date_updated": "2025-04-30",
-    "description": " Python-Based Log Analyzer That Detects Brute-Force Attacks, Directory Traversal, And Suspicious Behavior In System Or Web Server Logs. Built For Threat Detection And Security Analysis.",
-    "forks_count": 2,
-    "html_url": "https://github.com/DecryptMike/DecryptMike-Log-Analyzer",
-    "keywords": [
-        "directory traversal attack"
-    ],
-    "language": null,
-    "repo_name": "DecryptMike-Log-Analyzer",
-    "repo_owner": "DecryptMike",
-    "repotime": "2025-04-30, 10:57:12",
-    "stargazers_count": 19,
-    "watchers_count": 19
-}
-{
-    "commits_count": 10,
     "date_started": "2025-05-06",
     "date_updated": "2025-04-30",
     "description": " Python-Based Log Analyzer That Detects Brute-Force Attacks, Directory Traversal, And Suspicious Behavior In System Or Web Server Logs. Built For Threat Detection And Security Analysis.",
@@ -31,6 +14,23 @@
     "repotime": "2025-04-30, 10:57:12",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-04-12",
+    "date_updated": "2025-04-30",
+    "description": " Python-Based Log Analyzer That Detects Brute-Force Attacks, Directory Traversal, And Suspicious Behavior In System Or Web Server Logs. Built For Threat Detection And Security Analysis.",
+    "forks_count": 2,
+    "html_url": "https://github.com/DecryptMike/DecryptMike-Log-Analyzer",
+    "keywords": [
+        "directory traversal attack"
+    ],
+    "language": null,
+    "repo_name": "DecryptMike-Log-Analyzer",
+    "repo_owner": "DecryptMike",
+    "repotime": "2025-04-30, 10:57:12",
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 4,
@@ -218,15 +218,15 @@
     "repo_name": "Python_dependency_confusion_attacks",
     "repo_owner": "techghoshal",
     "repotime": "2025-04-29, 17:49:00",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 33,
     "date_started": "2023-05-30",
     "date_updated": "2025-04-29",
     "description": "Ruby package dependency confusion vulnerability POC. Impact this vulnerability is Remote code execution (RCE) ",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/techghoshal/ruby_dependency_confusion_attacks",
     "keywords": [
         "remote code execution vulnerability",
@@ -236,8 +236,8 @@
     "repo_name": "ruby_dependency_confusion_attacks",
     "repo_owner": "techghoshal",
     "repotime": "2025-04-29, 13:23:48",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 6,
@@ -501,8 +501,8 @@
     "repo_name": "CVE-2025-32432",
     "repo_owner": "Sachinart",
     "repotime": "2025-04-27, 14:35:54",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 10,
@@ -561,7 +561,7 @@
     "date_started": "2017-06-26",
     "date_updated": "2025-04-26",
     "description": "Most advanced XSS scanner.",
-    "forks_count": 2010,
+    "forks_count": 2024,
     "html_url": "https://github.com/s0md3v/XSStrike",
     "keywords": [
         "xss"
@@ -570,8 +570,8 @@
     "repo_name": "XSStrike",
     "repo_owner": "s0md3v",
     "repotime": "2025-04-26, 14:17:06",
-    "stargazers_count": 14311,
-    "watchers_count": 14311
+    "stargazers_count": 14398,
+    "watchers_count": 14398
 }
 {
     "commits_count": 7,
@@ -587,8 +587,8 @@
     "repo_name": "CVE-2024-4577-PHP-RCE",
     "repo_owner": "ZephrFish",
     "repotime": "2025-04-26, 07:33:07",
-    "stargazers_count": 26,
-    "watchers_count": 26
+    "stargazers_count": 28,
+    "watchers_count": 28
 }
 {
     "commits_count": 4,
@@ -640,23 +640,6 @@
     "repotime": "2025-04-25, 17:16:15",
     "stargazers_count": 6,
     "watchers_count": 6
-}
-{
-    "commits_count": 2,
-    "date_started": "2025-04-25",
-    "date_updated": "2025-04-25",
-    "description": "SAP NetWeaver Visual Composer Metadata Uploader is not protected with a proper authorization, allowing unauthenticated agent to upload potentially malicious executable binaries that could severely harm the host system. This could significantly affect the confidentiality, integrity, and availability of the targeted system.",
-    "forks_count": 0,
-    "html_url": "https://github.com/rxerium/CVE-2025-31324",
-    "keywords": [
-        "zero-day vulnerability"
-    ],
-    "language": null,
-    "repo_name": "CVE-2025-31324",
-    "repo_owner": "rxerium",
-    "repotime": "2025-04-25, 17:36:23",
-    "stargazers_count": 5,
-    "watchers_count": 5
 }
 {
     "commits_count": 4,
@@ -740,8 +723,8 @@
     "repo_name": "DL_for_xss",
     "repo_owner": "SparkSharly",
     "repotime": "2025-04-24, 21:33:28",
-    "stargazers_count": 148,
-    "watchers_count": 148
+    "stargazers_count": 147,
+    "watchers_count": 147
 }
 {
     "commits_count": 7,
@@ -1004,7 +987,7 @@
     "date_started": "2015-02-01",
     "date_updated": "2025-04-21",
     "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
-    "forks_count": 119,
+    "forks_count": 121,
     "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
     "keywords": [
         "rce exploit",
@@ -1032,8 +1015,8 @@
     "repo_name": "mcp-exploit-demo",
     "repo_owner": "Repello-AI",
     "repotime": "2025-04-21, 18:08:32",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 4,
@@ -1049,24 +1032,6 @@
     "repo_name": "vuln-directory-traversal-scanner",
     "repo_owner": "ShadowStrikeHQ",
     "repotime": "2025-04-20, 20:54:59",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 48,
-    "date_started": "2024-10-15",
-    "date_updated": "2025-04-20",
-    "description": "Repository Showcasing Practical/Hands-On Zero-Day Exploit Development and Techniques",
-    "forks_count": 0,
-    "html_url": "https://github.com/danielvilaca/ZeroDayEDT",
-    "keywords": [
-        "zero-day exploit",
-        "zero-day exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "ZeroDayEDT",
-    "repo_owner": "danielvilaca",
-    "repotime": "2025-04-20, 22:41:29",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -1101,8 +1066,8 @@
     "repo_name": "Smep-Bypass",
     "repo_owner": "r0keb",
     "repotime": "2025-04-20, 20:42:37",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 2,
@@ -1230,7 +1195,7 @@
     "date_started": "2025-04-18",
     "date_updated": "2025-04-18",
     "description": "AKQ_0D_PE is a lightweight and powerful Zero-day local privilege escalation exploit targeting a critical vulnerability in the Linux PipeFS subsystem.",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/AnonKryptiQuz/AKQ-PipeFS-ZeroDay-Exploit",
     "keywords": [
         "zero-day exploit",
@@ -1241,8 +1206,8 @@
     "repo_name": "AKQ-PipeFS-ZeroDay-Exploit",
     "repo_owner": "AnonKryptiQuz",
     "repotime": "2025-04-18, 23:58:27",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 1349,
@@ -1263,74 +1228,6 @@
     "repotime": "2025-04-18, 07:51:32",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 4,
-    "date_started": "2024-08-28",
-    "date_updated": "2025-04-18",
-    "description": "Incorrect implementation of an authentication algorithm in Ivanti vTM other than versions 22.2R1 or 22.7R2 allows a remote unauthenticated attacker to bypass authentication of the admin panel.",
-    "forks_count": 0,
-    "html_url": "https://github.com/rxerium/CVE-2024-7593",
-    "keywords": [
-        "unauthenticated attacker"
-    ],
-    "language": null,
-    "repo_name": "CVE-2024-7593",
-    "repo_owner": "rxerium",
-    "repotime": "2025-04-18, 08:22:31",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 5,
-    "date_started": "2024-02-24",
-    "date_updated": "2025-04-18",
-    "description": "Atlassian Confluence Data Center and Server Broken Access Control Vulnerability",
-    "forks_count": 0,
-    "html_url": "https://github.com/rxerium/CVE-2023-22515",
-    "keywords": [
-        "0day vulnerability"
-    ],
-    "language": null,
-    "repo_name": "CVE-2023-22515",
-    "repo_owner": "rxerium",
-    "repotime": "2025-04-18, 08:22:10",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 5,
-    "date_started": "2024-03-17",
-    "date_updated": "2025-04-18",
-    "description": "An attacker could place HTML containing executable JavaScript inside element attributes. This markup becomes unescaped, causing arbitrary markup to be injected into the document.",
-    "forks_count": 0,
-    "html_url": "https://github.com/rxerium/CVE-2022-24086",
-    "keywords": [
-        "0day poc"
-    ],
-    "language": null,
-    "repo_name": "CVE-2022-24086",
-    "repo_owner": "rxerium",
-    "repotime": "2025-04-18, 08:18:54",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 5,
-    "date_started": "2024-03-17",
-    "date_updated": "2025-04-18",
-    "description": "Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability",
-    "forks_count": 0,
-    "html_url": "https://github.com/rxerium/CVE-2022-41352",
-    "keywords": [
-        "0day poc"
-    ],
-    "language": null,
-    "repo_name": "CVE-2022-41352",
-    "repo_owner": "rxerium",
-    "repotime": "2025-04-18, 08:18:32",
-    "stargazers_count": 2,
-    "watchers_count": 2
 }
 {
     "commits_count": 113,
@@ -1410,7 +1307,7 @@
     "date_started": "2025-04-17",
     "date_updated": "2025-04-17",
     "description": "LPE: BackupOperator to Domain Admin Active Directory Proof of Concept",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/G4sp4rCS/backup-operator-to-domain-admin-POC",
     "keywords": [
         "lpe poc"
@@ -1419,8 +1316,8 @@
     "repo_name": "backup-operator-to-domain-admin-POC",
     "repo_owner": "G4sp4rCS",
     "repotime": "2025-04-17, 10:25:41",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 5,
@@ -1540,8 +1437,8 @@
     "repo_name": "pop_n_bubble",
     "repo_owner": "demon-i386",
     "repotime": "2025-04-15, 17:15:17",
-    "stargazers_count": 75,
-    "watchers_count": 75
+    "stargazers_count": 77,
+    "watchers_count": 77
 }
 {
     "commits_count": 6,
@@ -1582,7 +1479,7 @@
     "date_started": "2025-04-14",
     "date_updated": "2025-04-14",
     "description": "A tool to exploit Local File Inclusion (LFI) vulnerabilities for Remote Code Execution (RCE)",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/OssamaN7/LFI_Racer",
     "keywords": [
         "local file inclusion"
@@ -1591,8 +1488,8 @@
     "repo_name": "LFI_Racer",
     "repo_owner": "OssamaN7",
     "repotime": "2025-04-14, 14:35:47",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 3,
@@ -1616,7 +1513,7 @@
     "date_started": "2025-04-14",
     "date_updated": "2025-04-14",
     "description": "Wordpress SureTriggers &amp;lt;= 1.0.78 - Authorization Bypass due to Missing Empty Value Check to Unauthenticated Administrative User Creation",
-    "forks_count": 2,
+    "forks_count": 4,
     "html_url": "https://github.com/Nxploited/CVE-2025-3102",
     "keywords": [
         "unauthenticated user"
@@ -1625,8 +1522,8 @@
     "repo_name": "CVE-2025-3102",
     "repo_owner": "Nxploited",
     "repotime": "2025-04-14, 14:12:07",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 1,
@@ -1880,8 +1777,8 @@
     "repo_name": "mcp-injection-experiments",
     "repo_owner": "invariantlabs-ai",
     "repotime": "2025-04-10, 23:37:39",
-    "stargazers_count": 181,
-    "watchers_count": 181
+    "stargazers_count": 183,
+    "watchers_count": 183
 }
 {
     "commits_count": 1,
@@ -1916,23 +1813,6 @@
     "repotime": "2025-04-10, 22:40:08",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 24,
-    "date_started": "2024-05-03",
-    "date_updated": "2025-04-10",
-    "description": "&amp;quot;AMSI WRITE RAID&amp;quot; Vulnerability that leads to an effective AMSI BYPASS",
-    "forks_count": 52,
-    "html_url": "https://github.com/V-i-x-x/AMSI-WRITE-RAID-BYPASS",
-    "keywords": [
-        "0day vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "AMSI-WRITE-RAID-BYPASS",
-    "repo_owner": "V-i-x-x",
-    "repotime": "2025-04-10, 17:59:30",
-    "stargazers_count": 297,
-    "watchers_count": 297
 }
 {
     "commits_count": 1478,
@@ -1979,13 +1859,13 @@
     "date_updated": "2025-04-09",
     "description": "PoC demonstrating a client-side vulnerability in Runestone that allows spoofed answer submissions via forged fetch requests.",
     "forks_count": 0,
-    "html_url": "https://github.com/SRHackerr/runestone-answer-spoof-poc",
+    "html_url": "https://github.com/BlaizerBrumo/runestone-answer-spoof-poc",
     "keywords": [
         "spoofing vulnerability"
     ],
     "language": "JavaScript",
     "repo_name": "runestone-answer-spoof-poc",
-    "repo_owner": "SRHackerr",
+    "repo_owner": "BlaizerBrumo",
     "repotime": "2025-04-09, 17:07:40",
     "stargazers_count": 0,
     "watchers_count": 0
@@ -2072,8 +1952,8 @@
     "repo_name": "CVE-2025-30208",
     "repo_owner": "4xura",
     "repotime": "2025-04-09, 08:49:11",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 15,
@@ -2127,6 +2007,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 4,
+    "date_started": "2025-04-06",
+    "date_updated": "2025-04-06",
+    "description": "Python exploit for CVE-2024-42007 — a path traversal vulnerability in php-spx &amp;lt;= 0.4.15 that allows arbitrary file read via SPX_UI_URI parameter.",
+    "forks_count": 2,
+    "html_url": "https://github.com/BubblyCola/CVE_2024_42007",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE_2024_42007",
+    "repo_owner": "BubblyCola",
+    "repotime": "2025-04-06, 21:42:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 5,
     "date_started": "2025-04-06",
     "date_updated": "2025-04-06",
@@ -2166,7 +2063,7 @@
     "date_started": "2025-02-07",
     "date_updated": "2025-04-05",
     "description": "Zerodayf is an advanced code analysis platform that leverages artificial intelligence &amp;amp; SAST to identify vulnerabilities within source code. ",
-    "forks_count": 4,
+    "forks_count": 5,
     "html_url": "https://github.com/0xHamy/zerodayf",
     "keywords": [
         "0day vulnerability",
@@ -2218,7 +2115,7 @@
     "date_started": "2023-11-17",
     "date_updated": "2025-04-05",
     "description": "[漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.",
-    "forks_count": 36,
+    "forks_count": 37,
     "html_url": "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
     "keywords": [
         "xxe"
@@ -2227,8 +2124,8 @@
     "repo_name": "CVE-2023-4357-Chrome-XXE",
     "repo_owner": "xcanwin",
     "repotime": "2025-04-05, 02:37:38",
-    "stargazers_count": 221,
-    "watchers_count": 221
+    "stargazers_count": 223,
+    "watchers_count": 223
 }
 {
     "commits_count": 6,
@@ -2329,8 +2226,8 @@
     "repo_name": "PentestGPT",
     "repo_owner": "RicheByte",
     "repotime": "2025-04-04, 00:22:53",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 245,

@@ -98,8 +98,8 @@
     "repo_name": "lfi",
     "repo_owner": "lfi-project",
     "repotime": "2025-07-30, 13:52:26",
-    "stargazers_count": 87,
-    "watchers_count": 87
+    "stargazers_count": 90,
+    "watchers_count": 90
 }
 {
     "commits_count": 6,
@@ -136,23 +136,6 @@
     "watchers_count": 2
 }
 {
-    "commits_count": 5,
-    "date_started": "2023-07-07",
-    "date_updated": "2025-07-30",
-    "description": "Local File inclusion via une mauvaise gestion des téléchargements",
-    "forks_count": 0,
-    "html_url": "https://github.com/Hack-Oeil/LOCAL_FILE_INCLUSION_DOWNLOAD",
-    "keywords": [
-        "local file inclusion"
-    ],
-    "language": "Twig",
-    "repo_name": "LOCAL_FILE_INCLUSION_DOWNLOAD",
-    "repo_owner": "Hack-Oeil",
-    "repotime": "2025-07-30, 18:00:41",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 1,
     "date_started": "2025-07-30",
     "date_updated": "2025-07-30",
@@ -166,23 +149,6 @@
     "repo_name": "Detection-struts-cve-2017-5638-detector",
     "repo_owner": "joidiego",
     "repotime": "2025-07-30, 22:45:49",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 6,
-    "date_started": "2023-07-07",
-    "date_updated": "2025-07-30",
-    "description": "Une faille LFI à cause d'un builder CSS mal conçu",
-    "forks_count": 0,
-    "html_url": "https://github.com/Hack-Oeil/LOCAL_FILE_INCLUSION_BUILD_CSS",
-    "keywords": [
-        "local file inclusion"
-    ],
-    "language": "Twig",
-    "repo_name": "LOCAL_FILE_INCLUSION_BUILD_CSS",
-    "repo_owner": "Hack-Oeil",
-    "repotime": "2025-07-30, 17:30:27",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -225,7 +191,7 @@
     "date_started": "2025-07-30",
     "date_updated": "2025-07-30",
     "description": "Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally.",
-    "forks_count": 3,
+    "forks_count": 4,
     "html_url": "https://github.com/AfanPan/CVE-2025-29824-Exploit",
     "keywords": [
         "Windows use after free",
@@ -236,8 +202,8 @@
     "repo_name": "CVE-2025-29824-Exploit",
     "repo_owner": "AfanPan",
     "repotime": "2025-07-30, 16:15:59",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 37,
@@ -255,6 +221,23 @@
     "repotime": "2025-07-30, 02:27:41",
     "stargazers_count": 4,
     "watchers_count": 4
+}
+{
+    "commits_count": 37,
+    "date_started": "2025-07-31",
+    "date_updated": "2025-07-30",
+    "description": "A comprehensive privilege escalation enumeration tool designed for Linux/Unix security assessments. LOTL helps security professionals identify potential attack vectors by systematically checking for misconfigurations, exposed credentials, and vulnerable system components.",
+    "forks_count": 0,
+    "html_url": "https://github.com/CyVenom/CyVen_LivingOfTheLand",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "CyVen_LivingOfTheLand",
+    "repo_owner": "CyVenom",
+    "repotime": "2025-07-30, 02:27:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 3,
@@ -329,7 +312,7 @@
     "date_started": "2021-09-04",
     "date_updated": "2025-07-29",
     "description": "A list of practical projects that anyone can solve in any programming language (See solutions). These projects are divided into multiple categories, and each category has its own folder.  To get started, simply fork this repo.  CONTRIBUTING See ways of contributing to this repo. You can contribute solutions (will be published in this repo) to existing problems, add new projects, or remove existing ones. Make sure you follow all instructions properly.  Solutions You can find implementations of these projects in many other languages by other users in this repo.  Credits  Problems are motivated by the ones shared at:  Martyr2’s Mega Project List Rosetta Code Table of Contents Numbers Classic Algorithms Graph Data Structures Text Networking Classes Threading Web Files Databases Graphics and Multimedia Security Numbers Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.  Find e to the Nth Dig...",
-    "forks_count": 39,
+    "forks_count": 40,
     "html_url": "https://github.com/ManojKumarPatnaik/Major-project-list",
     "keywords": [
         "Windows zero-day analysis",
@@ -342,25 +325,8 @@
     "repo_name": "Major-project-list",
     "repo_owner": "ManojKumarPatnaik",
     "repotime": "2025-07-29, 15:52:11",
-    "stargazers_count": 181,
-    "watchers_count": 181
-}
-{
-    "commits_count": 1,
-    "date_started": "2025-07-29",
-    "date_updated": "2025-07-29",
-    "description": "Comprehensive personal archive of CTF and penetration testing walkthroughs focused on Linux environments, covering enumeration, initial access, privilege escalation, and exploitation of VulnHub machines for hands-on cybersecurity learning and practice.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Rahulkris488/Pen-test-Documentaion",
-    "keywords": [
-        "escalation of privileges exploitation"
-    ],
-    "language": null,
-    "repo_name": "Pen-test-Documentaion",
-    "repo_owner": "Rahulkris488",
-    "repotime": "2025-07-29, 15:43:58",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 190,
+    "watchers_count": 190
 }
 {
     "commits_count": 2,
@@ -413,15 +379,15 @@
     "repo_name": "CVE-2024-38063",
     "repo_owner": "ThemeHackers",
     "repotime": "2025-07-29, 12:49:48",
-    "stargazers_count": 36,
-    "watchers_count": 36
+    "stargazers_count": 37,
+    "watchers_count": 37
 }
 {
     "commits_count": 5,
     "date_started": "2025-06-27",
     "date_updated": "2025-07-28",
     "description": "Unauthenticated Python PoC for CVE-2025-20281 RCE against ISE ERS API",
-    "forks_count": 5,
+    "forks_count": 7,
     "html_url": "https://github.com/abrewer251/CVE-2025-20281-2-Cisco-ISE-RCE",
     "keywords": [
         "unauthenticated rce"
@@ -430,8 +396,8 @@
     "repo_name": "CVE-2025-20281-2-Cisco-ISE-RCE",
     "repo_owner": "abrewer251",
     "repotime": "2025-07-28, 09:43:35",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 5,
@@ -762,7 +728,7 @@
     "date_started": "2025-07-25",
     "date_updated": "2025-07-25",
     "description": "An archive of 0day.today exploits",
-    "forks_count": 35,
+    "forks_count": 43,
     "html_url": "https://github.com/vulncheck-oss/0day.today.archive",
     "keywords": [
         "0day exploit",
@@ -772,8 +738,8 @@
     "repo_name": "0day.today.archive",
     "repo_owner": "vulncheck-oss",
     "repotime": "2025-07-25, 09:47:56",
-    "stargazers_count": 167,
-    "watchers_count": 167
+    "stargazers_count": 200,
+    "watchers_count": 200
 }
 {
     "commits_count": 2,
@@ -810,11 +776,11 @@
     "watchers_count": 90
 }
 {
-    "commits_count": 21,
+    "commits_count": 22,
     "date_started": "2025-07-21",
     "date_updated": "2025-07-25",
     "description": "Scanner for the SharePoint CVE-2025-53770 RCE zero day vulnerability.",
-    "forks_count": 12,
+    "forks_count": 13,
     "html_url": "https://github.com/hazcod/CVE-2025-53770",
     "keywords": [
         "zero-day poc"
@@ -823,8 +789,8 @@
     "repo_name": "CVE-2025-53770",
     "repo_owner": "hazcod",
     "repotime": "2025-07-25, 09:50:22",
-    "stargazers_count": 42,
-    "watchers_count": 42
+    "stargazers_count": 43,
+    "watchers_count": 43
 }
 {
     "commits_count": 53,
@@ -912,23 +878,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 6,
-    "date_started": "2025-07-24",
-    "date_updated": "2025-07-24",
-    "description": "This project focuses on detecting potential cyberattacks by analyzing tabular network session data. The cleaned and transformed dataset is prepared for machine learning modeling to classify sessions as normal or attack attempts.",
-    "forks_count": 0,
-    "html_url": "https://github.com/maishatabassum932/Cyber-Attack-Detection",
-    "keywords": [
-        "session attack"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "Cyber-Attack-Detection",
-    "repo_owner": "maishatabassum932",
-    "repotime": "2025-07-24, 05:23:36",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 8,
     "date_started": "2025-07-10",
     "date_updated": "2025-07-24",
@@ -942,8 +891,8 @@
     "repo_name": "ptscanner",
     "repo_owner": "odaysec",
     "repotime": "2025-07-24, 16:55:34",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 2,
@@ -976,8 +925,8 @@
     "repo_name": "LOTUXorg",
     "repo_owner": "aitorfirm",
     "repotime": "2025-07-24, 00:56:49",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 111,
@@ -1169,6 +1118,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 235,
+    "date_started": "2024-06-11",
+    "date_updated": "2025-07-21",
+    "description": "Addressing data leakage in a deep-learning model for predicting small molecule substrates of enzymes",
+    "forks_count": 0,
+    "html_url": "https://github.com/kalininalab/ESP_Leak_Analysis",
+    "keywords": [
+        "address leak analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "ESP_Leak_Analysis",
+    "repo_owner": "kalininalab",
+    "repotime": "2025-07-21, 15:48:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 6,
     "date_started": "2025-07-21",
     "date_updated": "2025-07-21",
@@ -1225,12 +1191,12 @@
     "date_updated": "2025-07-20",
     "description": "During analysis of the ecodotempo.com.br website, a Stored Cross-Site Scripting (XSS) vulnerability was discovered. This vulnerability allows an attacker to inject malicious scripts into fields that are subsequently rendered to other users without proper sanitization, specifically on the home page of the unauthenticated (disconnected) area.",
     "forks_count": 0,
-    "html_url": "https://github.com/RRespxwnss/XSS-Stored-002",
+    "html_url": "https://github.com/RRespxwnss/CVE-2025-56771",
     "keywords": [
         "unauthenticated attacker"
     ],
     "language": null,
-    "repo_name": "XSS-Stored-002",
+    "repo_name": "CVE-2025-56771",
     "repo_owner": "RRespxwnss",
     "repotime": "2025-07-20, 18:07:30",
     "stargazers_count": 0,
@@ -1259,12 +1225,12 @@
     "date_updated": "2025-07-20",
     "description": "During the analysis of the website ecodotempo.com.br, a Stored Cross-Site Scripting (XSS) vulnerability was discovered. This vulnerability allows an attacker to inject malicious scripts into fields that are later rendered to other users without proper sanitization, specifically on the main page of the unauthenticated (logged-out) area.",
     "forks_count": 0,
-    "html_url": "https://github.com/RRespxwnss/XSS-Stored",
+    "html_url": "https://github.com/RRespxwnss/CVE-2025-56772",
     "keywords": [
         "unauthenticated attacker"
     ],
     "language": null,
-    "repo_name": "XSS-Stored",
+    "repo_name": "CVE-2025-56772",
     "repo_owner": "RRespxwnss",
     "repotime": "2025-07-20, 17:50:38",
     "stargazers_count": 0,
@@ -1496,7 +1462,7 @@
     "date_started": "2024-09-06",
     "date_updated": "2025-07-18",
     "description": "Automation tool to testing and confirm the xss vulnerability.",
-    "forks_count": 52,
+    "forks_count": 54,
     "html_url": "https://github.com/iamunixtz/LazyXss",
     "keywords": [
         "xss"
@@ -1505,8 +1471,8 @@
     "repo_name": "LazyXss",
     "repo_owner": "iamunixtz",
     "repotime": "2025-07-18, 06:49:37",
-    "stargazers_count": 288,
-    "watchers_count": 288
+    "stargazers_count": 293,
+    "watchers_count": 293
 }
 {
     "commits_count": 3,
@@ -1530,7 +1496,7 @@
     "date_started": "2025-07-15",
     "date_updated": "2025-07-17",
     "description": "An advanced, powerful, and easy-to-use tool designed to detect and exploit CVE-2025-5777 (CitrixBleed 2). This script not only identifies the vulnerability but also helps in demonstrating its impact by parsing human-readable information from the memory leak.",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/cyberleelawat/ExploitVeer",
     "keywords": [
         "memory leak exploit"
@@ -1539,8 +1505,8 @@
     "repo_name": "ExploitVeer",
     "repo_owner": "cyberleelawat",
     "repotime": "2025-07-17, 22:20:38",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 6,
@@ -1800,40 +1766,6 @@
     "watchers_count": 2
 }
 {
-    "commits_count": 46,
-    "date_started": "2025-05-22",
-    "date_updated": "2025-07-15",
-    "description": "In this course, master Hydra cybersecurity attack techniques through hands-on labs covering session restoration, SSL attacks, brute-force, and multi-target attacks.",
-    "forks_count": 0,
-    "html_url": "https://github.com/labex-labs/hydra-cybersecurity-attack-labs",
-    "keywords": [
-        "session attack"
-    ],
-    "language": null,
-    "repo_name": "hydra-cybersecurity-attack-labs",
-    "repo_owner": "labex-labs",
-    "repotime": "2025-07-15, 10:12:57",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 34,
-    "date_started": "2024-11-01",
-    "date_updated": "2025-07-15",
-    "description": "In this course, you will learn about the most common web vulnerabilities and how to exploit them. You will learn about SQL Injection, File Inclusion, Cross-Site Scripting (XSS), File Upload, Command Injection, and Directory Traversal vulnerabilities. You will also learn how to exploit these vulnerabilities using various techniques and tools.",
-    "forks_count": 0,
-    "html_url": "https://github.com/labex-labs/web-vulnerability-mastery",
-    "keywords": [
-        "directory traversal vulnerability"
-    ],
-    "language": null,
-    "repo_name": "web-vulnerability-mastery",
-    "repo_owner": "labex-labs",
-    "repotime": "2025-07-15, 10:01:03",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 229,
     "date_started": "2013-08-03",
     "date_updated": "2025-07-14",
@@ -1847,8 +1779,8 @@
     "repo_name": "Zebra_Session",
     "repo_owner": "stefangabos",
     "repotime": "2025-07-14, 23:42:30",
-    "stargazers_count": 176,
-    "watchers_count": 176
+    "stargazers_count": 177,
+    "watchers_count": 177
 }
 {
     "commits_count": 3,
@@ -1886,23 +1818,6 @@
 }
 {
     "commits_count": 4,
-    "date_started": "2025-07-08",
-    "date_updated": "2025-07-14",
-    "description": "This project implements a complete Evil Twin attack targeting WPA2-Enterprise (Eduroam) networks by exploiting clients that do not validate RADIUS certificates. It automates rogue AP deployment (hostapd-wpe), DNS/DHCP spoofing (dnsmasq), captive portal delivery (Flask), HTTPS interception (mitmproxy), and MS-CHAPv2 hash capture and cracking — built",
-    "forks_count": 1,
-    "html_url": "https://github.com/raffaeledb01/demo_attack_eduroam",
-    "keywords": [
-        "spoofing certificate"
-    ],
-    "language": "Shell",
-    "repo_name": "demo_attack_eduroam",
-    "repo_owner": "raffaeledb01",
-    "repotime": "2025-07-14, 14:13:13",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 4,
     "date_started": "2025-07-09",
     "date_updated": "2025-07-14",
     "description": "This project implements a complete Evil Twin attack targeting WPA2-Enterprise (Eduroam) networks by exploiting clients that do not validate RADIUS certificates. It automates rogue AP deployment (hostapd-wpe), DNS/DHCP spoofing (dnsmasq), captive portal delivery (Flask), HTTPS interception (mitmproxy), and MS-CHAPv2 hash capture and cracking — built",
@@ -1917,6 +1832,23 @@
     "repotime": "2025-07-14, 14:13:13",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-07-08",
+    "date_updated": "2025-07-14",
+    "description": "This project implements a complete Evil Twin attack targeting WPA2-Enterprise (Eduroam) networks by exploiting clients that do not validate RADIUS certificates. It automates rogue AP deployment (hostapd-wpe), DNS/DHCP spoofing (dnsmasq), captive portal delivery (Flask), HTTPS interception (mitmproxy), and MS-CHAPv2 hash capture and cracking — built",
+    "forks_count": 0,
+    "html_url": "https://github.com/raffaeledb01/demo_attack_eduroam",
+    "keywords": [
+        "spoofing certificate"
+    ],
+    "language": "Shell",
+    "repo_name": "demo_attack_eduroam",
+    "repo_owner": "raffaeledb01",
+    "repotime": "2025-07-14, 14:13:13",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 28,
@@ -2176,8 +2108,8 @@
     "repo_name": "CVE-2025-34085-Multi-target",
     "repo_owner": "ill-deed",
     "repotime": "2025-07-12, 22:26:31",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 24,
@@ -2210,8 +2142,8 @@
     "repo_name": "dse_pg_bypass",
     "repo_owner": "4l3x777",
     "repotime": "2025-07-12, 11:25:32",
-    "stargazers_count": 62,
-    "watchers_count": 62
+    "stargazers_count": 64,
+    "watchers_count": 64
 }
 {
     "commits_count": 13,
@@ -2270,7 +2202,7 @@
     "date_started": "2025-07-11",
     "date_updated": "2025-07-11",
     "description": "CVE-2025-38001: Linux HFSC Eltree Use-After-Free - Debian 12 PoC",
-    "forks_count": 6,
+    "forks_count": 7,
     "html_url": "https://github.com/0xdevil/CVE-2025-38001",
     "keywords": [
         "use after free poc"
@@ -2279,8 +2211,8 @@
     "repo_name": "CVE-2025-38001",
     "repo_owner": "0xdevil",
     "repotime": "2025-07-11, 18:35:11",
-    "stargazers_count": 52,
-    "watchers_count": 52
+    "stargazers_count": 56,
+    "watchers_count": 56
 }
 {
     "commits_count": 9,
@@ -2304,7 +2236,7 @@
     "date_started": "2025-07-10",
     "date_updated": "2025-07-11",
     "description": "CVE-2025-5777 Citrix NetScaler Memory Leak Exploit (CitrixBleed 2)",
-    "forks_count": 5,
+    "forks_count": 6,
     "html_url": "https://github.com/bughuntar/CVE-2025-5777",
     "keywords": [
         "memory leak exploit"
@@ -2626,8 +2558,8 @@
     "repo_name": "CVE-2025-5777",
     "repo_owner": "win3zz",
     "repotime": "2025-07-08, 23:28:44",
-    "stargazers_count": 42,
-    "watchers_count": 42
+    "stargazers_count": 43,
+    "watchers_count": 43
 }
 {
     "commits_count": 3,
@@ -2698,7 +2630,7 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 136,
+    "commits_count": 137,
     "date_started": "2021-02-23",
     "date_updated": "2025-07-08",
     "description": "Repository for information about 0-days exploited in-the-wild.",
@@ -2712,8 +2644,8 @@
     "repo_name": "0days-in-the-wild",
     "repo_owner": "googleprojectzero",
     "repotime": "2025-07-08, 11:51:33",
-    "stargazers_count": 830,
-    "watchers_count": 830
+    "stargazers_count": 835,
+    "watchers_count": 835
 }
 {
     "commits_count": 9,
@@ -2816,8 +2748,8 @@
     "repo_name": "MemorySnitcher",
     "repo_owner": "ricardojoserf",
     "repotime": "2025-07-07, 14:14:30",
-    "stargazers_count": 37,
-    "watchers_count": 37
+    "stargazers_count": 39,
+    "watchers_count": 39
 }
 {
     "commits_count": 2,
@@ -2835,6 +2767,23 @@
     "repotime": "2025-07-07, 11:58:36",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 16,
+    "date_started": "2025-06-29",
+    "date_updated": "2025-07-07",
+    "description": "A simple script to protect Windows from attacks like SMB RCE ",
+    "forks_count": 0,
+    "html_url": "https://github.com/Mr-DS-ML-85/Harden-Windows",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "PowerShell",
+    "repo_name": "Harden-Windows",
+    "repo_owner": "Mr-DS-ML-85",
+    "repotime": "2025-07-07, 15:43:51",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 4,
@@ -2872,11 +2821,28 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 5,
+    "date_started": "2025-06-10",
+    "date_updated": "2025-07-06",
+    "description": "A PoC exploit for CVE-2017-9841 - PHPUnit Remote Code Execution(RCE)",
+    "forks_count": 0,
+    "html_url": "https://github.com/K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Go",
+    "repo_name": "CVE-2017-9841-EXPLOIT",
+    "repo_owner": "K3ysTr0K3R",
+    "repotime": "2025-07-06, 16:10:12",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
     "commits_count": 33,
     "date_started": "2012-08-07",
     "date_updated": "2025-07-06",
     "description": "Automatic generate dll wrapper for code injection.",
-    "forks_count": 57,
+    "forks_count": 58,
     "html_url": "https://github.com/mavenlin/wrap_dll",
     "keywords": [
         "code injection"
@@ -2885,8 +2851,8 @@
     "repo_name": "wrap_dll",
     "repo_owner": "mavenlin",
     "repotime": "2025-07-06, 22:29:55",
-    "stargazers_count": 174,
-    "watchers_count": 174
+    "stargazers_count": 173,
+    "watchers_count": 173
 }
 {
     "commits_count": 4,
@@ -3106,8 +3072,25 @@
     "repo_name": "CVE-2025-6218-POC",
     "repo_owner": "mulwareX",
     "repotime": "2025-07-03, 10:11:42",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-07-03",
+    "date_updated": "2025-07-02",
+    "description": "This script checks for the presence of the **CVE-2025-20281** vulnerability in Cisco Identity Services Engine (ISE) and ISE-PIC, which allows **unauthenticated remote code execution (RCE)** as root due to insufficient input validation in a specific API.",
+    "forks_count": 2,
+    "html_url": "https://github.com/grupooruss/CVE-2025-20281-Cisco",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-20281-Cisco",
+    "repo_owner": "grupooruss",
+    "repotime": "2025-07-02, 21:15:34",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 7,
@@ -3182,18 +3165,19 @@
     "date_started": "2025-07-02",
     "date_updated": "2025-07-02",
     "description": "Local Privilege Escalation to Root via Sudo chroot in Linux",
-    "forks_count": 18,
+    "forks_count": 55,
     "html_url": "https://github.com/kh4sh3i/CVE-2025-32463",
     "keywords": [
         "lpe exploit",
-        "lpe poc"
+        "lpe poc",
+        "lpe vulnerability"
     ],
     "language": "Shell",
     "repo_name": "CVE-2025-32463",
     "repo_owner": "kh4sh3i",
     "repotime": "2025-07-02, 12:04:43",
-    "stargazers_count": 168,
-    "watchers_count": 168
+    "stargazers_count": 367,
+    "watchers_count": 367
 }
 {
     "commits_count": 1,

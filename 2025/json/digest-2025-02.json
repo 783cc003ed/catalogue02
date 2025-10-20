@@ -220,28 +220,11 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 147,
-    "date_started": "2022-10-01",
-    "date_updated": "2025-02-26",
-    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
-    "forks_count": 391,
-    "html_url": "https://github.com/r0oth3x49/ghauri",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Python",
-    "repo_name": "ghauri",
-    "repo_owner": "r0oth3x49",
-    "repotime": "2025-02-26, 00:09:45",
-    "stargazers_count": 3684,
-    "watchers_count": 3684
-}
-{
     "commits_count": 4725,
     "date_started": "2017-05-29",
     "date_updated": "2025-02-25",
     "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
-    "forks_count": 165,
+    "forks_count": 166,
     "html_url": "https://github.com/airbus-seclab/bincat",
     "keywords": [
         "use after free analysis"
@@ -250,8 +233,8 @@
     "repo_name": "bincat",
     "repo_owner": "airbus-seclab",
     "repotime": "2025-02-25, 17:53:49",
-    "stargazers_count": 1830,
-    "watchers_count": 1830
+    "stargazers_count": 1832,
+    "watchers_count": 1832
 }
 {
     "commits_count": 5,
@@ -284,8 +267,8 @@
     "repo_name": "QuickAssist_UAC_Bypass",
     "repo_owner": "R41N3RZUF477",
     "repotime": "2025-02-25, 02:25:30",
-    "stargazers_count": 120,
-    "watchers_count": 120
+    "stargazers_count": 123,
+    "watchers_count": 123
 }
 {
     "commits_count": 3,
@@ -303,23 +286,6 @@
     "repotime": "2025-02-24, 17:18:44",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 22,
-    "date_started": "2023-11-19",
-    "date_updated": "2025-02-24",
-    "description": "xxe漏洞靶场",
-    "forks_count": 0,
-    "html_url": "https://github.com/mcc0624/XXE",
-    "keywords": [
-        "xxe"
-    ],
-    "language": "CSS",
-    "repo_name": "XXE",
-    "repo_owner": "mcc0624",
-    "repotime": "2025-02-24, 23:50:44",
-    "stargazers_count": 4,
-    "watchers_count": 4
 }
 {
     "commits_count": 1,
@@ -343,7 +309,7 @@
     "date_started": "2015-05-28",
     "date_updated": "2025-02-24",
     "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
-    "forks_count": 569,
+    "forks_count": 568,
     "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
     "keywords": [
         "vulnerability",
@@ -357,8 +323,8 @@
     "repo_name": "HackSysExtremeVulnerableDriver",
     "repo_owner": "hacksysteam",
     "repotime": "2025-02-24, 17:49:16",
-    "stargazers_count": 2824,
-    "watchers_count": 2824
+    "stargazers_count": 2837,
+    "watchers_count": 2837
 }
 {
     "commits_count": 2450,
@@ -451,7 +417,7 @@
     "date_started": "2022-01-04",
     "date_updated": "2025-02-23",
     "description": "WPF Partial Trust Security Article 10 minutes to read In general, Internet applications should be restricted from having direct access to critical system resources, to prevent malicious damage. By default, HTML and client-side scripting languages are not able to access critical system resources. Because Windows Presentation Foundation (WPF) browser-hosted applications can be launched from the browser, they should conform to a similar set of restrictions. To enforce these restrictions, WPF relies on both Code Access Security (CAS) and ClickOnce (see WPF Security Strategy - Platform Security). By default, browser-hosted applications request the Internet zone CAS set of permissions, irrespective of whether they are launched from the Internet, the local intranet, or the local computer. Applications that run with anything less than the full set of permissions are said to be running with partial trust. WPF provides a wide variety of support to ensure that as much functionality as possible ca...",
-    "forks_count": 4,
+    "forks_count": 6,
     "html_url": "https://github.com/lhai36366/lhai36366",
     "keywords": [
         "cross-side-scripting"
@@ -460,8 +426,8 @@
     "repo_name": "lhai36366",
     "repo_owner": "lhai36366",
     "repotime": "2025-02-23, 05:22:29",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 3,
@@ -529,8 +495,8 @@
     "repo_name": "ZombifyDocker",
     "repo_owner": "4m3rr0r",
     "repotime": "2025-02-22, 11:18:57",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 51,
@@ -718,8 +684,8 @@
     "repo_name": "WebKit-Bug-256172",
     "repo_owner": "wh1te4ever",
     "repotime": "2025-02-18, 17:58:05",
-    "stargazers_count": 146,
-    "watchers_count": 146
+    "stargazers_count": 150,
+    "watchers_count": 150
 }
 {
     "commits_count": 3,
@@ -787,8 +753,8 @@
     "repo_name": "ronin-vulns",
     "repo_owner": "ronin-rb",
     "repotime": "2025-02-17, 13:24:05",
-    "stargazers_count": 77,
-    "watchers_count": 77
+    "stargazers_count": 78,
+    "watchers_count": 78
 }
 {
     "commits_count": 25,
@@ -1008,8 +974,8 @@
     "repo_name": "Auto-SSRF",
     "repo_owner": "banchengkemeng",
     "repotime": "2025-02-13, 13:59:13",
-    "stargazers_count": 113,
-    "watchers_count": 113
+    "stargazers_count": 116,
+    "watchers_count": 116
 }
 {
     "commits_count": 2,
@@ -1112,23 +1078,6 @@
     "repotime": "2025-02-12, 14:19:42",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 8,
-    "date_started": "2024-09-09",
-    "date_updated": "2025-02-12",
-    "description": "Xninjaz is a powerful and versatile multi-vulnerability scanner designed to detect various web application vulnerabilities, including Local File Inclusion (LFI), Open Redirects (OR), SQL Injection (SQLi), and Cross-Site Scripting (XSS). This tool was created by Mr.X",
-    "forks_count": 3,
-    "html_url": "https://github.com/Whomrx666/Xninjaz",
-    "keywords": [
-        "local file inclusion"
-    ],
-    "language": "Python",
-    "repo_name": "Xninjaz",
-    "repo_owner": "Whomrx666",
-    "repotime": "2025-02-12, 13:36:18",
-    "stargazers_count": 9,
-    "watchers_count": 9
 }
 {
     "commits_count": 4,
@@ -1273,7 +1222,7 @@
     "date_started": "2024-07-23",
     "date_updated": "2025-02-10",
     "description": "Advanced SQL Injection Techniques for Bug Bounty Hunters",
-    "forks_count": 77,
+    "forks_count": 78,
     "html_url": "https://github.com/ifconfig-me/SQL_Injection-Techniques",
     "keywords": [
         "sql injection"
@@ -1282,8 +1231,8 @@
     "repo_name": "SQL_Injection-Techniques",
     "repo_owner": "ifconfig-me",
     "repotime": "2025-02-10, 23:30:03",
-    "stargazers_count": 137,
-    "watchers_count": 137
+    "stargazers_count": 138,
+    "watchers_count": 138
 }
 {
     "commits_count": 1,
@@ -1542,23 +1491,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 3,
-    "date_started": "2025-02-07",
-    "date_updated": "2025-02-07",
-    "description": "Cityworks deserialization of untrusted data vulnerability Detection",
-    "forks_count": 0,
-    "html_url": "https://github.com/rxerium/CVE-2025-0994",
-    "keywords": [
-        "deserialization of untrusted data"
-    ],
-    "language": null,
-    "repo_name": "CVE-2025-0994",
-    "repo_owner": "rxerium",
-    "repotime": "2025-02-07, 14:15:32",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
     "commits_count": 2,
     "date_started": "2025-02-07",
     "date_updated": "2025-02-07",
@@ -1749,8 +1681,8 @@
     "repo_name": "advanced-sql-injection-for-awae",
     "repo_owner": "shreyaschavhan",
     "repotime": "2025-02-05, 10:53:10",
-    "stargazers_count": 203,
-    "watchers_count": 203
+    "stargazers_count": 204,
+    "watchers_count": 204
 }
 {
     "commits_count": 2,
@@ -2004,8 +1936,8 @@
     "repo_name": "berate_ap",
     "repo_owner": "sensepost",
     "repotime": "2025-02-03, 11:46:09",
-    "stargazers_count": 242,
-    "watchers_count": 242
+    "stargazers_count": 241,
+    "watchers_count": 241
 }
 {
     "commits_count": 5,

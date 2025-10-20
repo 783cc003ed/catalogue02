@@ -482,8 +482,8 @@
     "repo_name": "CVE-2023-23397_EXPLOIT_0DAY",
     "repo_owner": "sqrtZeroKnowledge",
     "repotime": "2023-03-15, 18:53:53",
-    "stargazers_count": 161,
-    "watchers_count": 161
+    "stargazers_count": 160,
+    "watchers_count": 160
 }
 {
     "commits_count": 5,
@@ -620,8 +620,8 @@
     "repo_name": "go-sec-code",
     "repo_owner": "cokeBeer",
     "repotime": "2023-03-11, 22:28:31",
-    "stargazers_count": 43,
-    "watchers_count": 43
+    "stargazers_count": 48,
+    "watchers_count": 48
 }
 {
     "commits_count": 3,
@@ -639,23 +639,6 @@
     "repotime": "2023-03-10, 09:03:40",
     "stargazers_count": 2,
     "watchers_count": 2
-}
-{
-    "commits_count": 116,
-    "date_started": "2017-02-24",
-    "date_updated": "2023-03-09",
-    "description": "Wiki to collect Red Team infrastructure hardening resources",
-    "forks_count": 912,
-    "html_url": "https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki",
-    "keywords": [
-        "by_owner"
-    ],
-    "language": null,
-    "repo_name": "Red-Team-Infrastructure-Wiki",
-    "repo_owner": "bluscreenofjeff",
-    "repotime": "2023-03-09, 12:53:32",
-    "stargazers_count": 4349,
-    "watchers_count": 4349
 }
 {
     "commits_count": 219,
@@ -803,27 +786,8 @@
     "repo_name": "injectAmsiBypass",
     "repo_owner": "boku7",
     "repotime": "2023-03-08, 08:54:57",
-    "stargazers_count": 380,
-    "watchers_count": 380
-}
-{
-    "commits_count": 2,
-    "date_started": "2023-03-08",
-    "date_updated": "2023-03-08",
-    "description": "A vulnerability within Microsoft Office's wwlib allows attackers to achieve remote code execution with the privileges of the victim that opens a malicious RTF document. The attacker could deliver this file as an email attachment (or other means).",
-    "forks_count": 7,
-    "html_url": "https://github.com/gyaansastra/CVE-2023-21716",
-    "keywords": [
-        "Microsoft remote code execution vulnerability",
-        "Microsoft remote code execution",
-        "remote code execution vulnerability"
-    ],
-    "language": null,
-    "repo_name": "CVE-2023-21716",
-    "repo_owner": "gyaansastra",
-    "repotime": "2023-03-08, 17:21:58",
-    "stargazers_count": 59,
-    "watchers_count": 59
+    "stargazers_count": 381,
+    "watchers_count": 381
 }
 {
     "commits_count": 8,
@@ -1119,6 +1083,6 @@
     "repo_name": "Thunderstorm",
     "repo_owner": "JoelGMSec",
     "repotime": "2023-03-01, 11:14:43",
-    "stargazers_count": 65,
-    "watchers_count": 65
+    "stargazers_count": 66,
+    "watchers_count": 66
 }

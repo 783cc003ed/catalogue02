@@ -74,7 +74,7 @@
     "date_started": "2021-09-09",
     "date_updated": "2025-05-30",
     "description": "APT38 Tactic PoC for Stealing 0days from security researchers",
-    "forks_count": 45,
+    "forks_count": 46,
     "html_url": "https://github.com/ZeroMemoryEx/APT38-0day-Stealer",
     "keywords": [
         "rce poc",
@@ -84,8 +84,8 @@
     "repo_name": "APT38-0day-Stealer",
     "repo_owner": "ZeroMemoryEx",
     "repotime": "2025-05-30, 17:52:14",
-    "stargazers_count": 318,
-    "watchers_count": 318
+    "stargazers_count": 319,
+    "watchers_count": 319
 }
 {
     "commits_count": 3,
@@ -173,6 +173,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 2,
+    "date_started": "2025-05-29",
+    "date_updated": "2025-05-28",
+    "description": "A console‑based C&amp;&#35;35; (or other language) Hangman implementation that randomly selects a secret word and lets the user guess letters one at a time. Correct guesses reveal letters, wrong guesses decrement remaining lives. Demonstrates string/array manipulation, loops, conditionals, and user input validation in a simple game setting.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Abhi-AIX/hangman-game",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "C#",
+    "repo_name": "hangman-game",
+    "repo_owner": "Abhi-AIX",
+    "repotime": "2025-05-28, 23:07:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 45,
     "date_started": "2024-08-06",
     "date_updated": "2025-05-28",
@@ -203,8 +220,8 @@
     "repo_name": "Scene-Release-Organiser-NFO-Downloader",
     "repo_owner": "qu0tex",
     "repotime": "2025-05-28, 12:33:47",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 3,
@@ -475,8 +492,8 @@
     "repo_name": "vulnverse",
     "repo_owner": "w1t3ack3r",
     "repotime": "2025-05-26, 09:24:56",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 11,
@@ -612,8 +629,8 @@
     "repo_name": "LeakyTozed",
     "repo_owner": "Zephkek",
     "repotime": "2025-05-23, 10:41:04",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 26,
@@ -971,8 +988,8 @@
     "repo_name": "CVE-2025-31200-iOS-AudioConverter-RCE",
     "repo_owner": "serundengsapi",
     "repotime": "2025-05-19, 11:30:42",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 104,
@@ -1181,23 +1198,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 28,
-    "date_started": "2025-04-04",
-    "date_updated": "2025-05-17",
-    "description": "Just a simple userscript to bypass the soft paywall on gocomics.com, and removes the adspaces as well.",
-    "forks_count": 1,
-    "html_url": "https://github.com/Idiot-01/Gocomics-Depaywall",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "JavaScript",
-    "repo_name": "Gocomics-Depaywall",
-    "repo_owner": "Idiot-01",
-    "repotime": "2025-05-17, 21:25:50",
-    "stargazers_count": 7,
-    "watchers_count": 7
-}
-{
     "commits_count": 63,
     "date_started": "2023-01-20",
     "date_updated": "2025-05-16",
@@ -1211,8 +1211,8 @@
     "repo_name": "awesome-neural-sbi",
     "repo_owner": "smsharma",
     "repotime": "2025-05-16, 20:27:34",
-    "stargazers_count": 126,
-    "watchers_count": 126
+    "stargazers_count": 130,
+    "watchers_count": 130
 }
 {
     "commits_count": 7,
@@ -1457,7 +1457,7 @@
     "date_started": "2019-01-29",
     "date_updated": "2025-05-14",
     "description": "The Serverless Blind XSS App",
-    "forks_count": 133,
+    "forks_count": 135,
     "html_url": "https://github.com/mazen160/xless",
     "keywords": [
         "xss"
@@ -1466,8 +1466,8 @@
     "repo_name": "xless",
     "repo_owner": "mazen160",
     "repotime": "2025-05-14, 00:05:40",
-    "stargazers_count": 340,
-    "watchers_count": 340
+    "stargazers_count": 339,
+    "watchers_count": 339
 }
 {
     "commits_count": 52,
@@ -1728,23 +1728,6 @@
     "watchers_count": 4
 }
 {
-    "commits_count": 6,
-    "date_started": "2025-04-07",
-    "date_updated": "2025-05-11",
-    "description": "<no description>",
-    "forks_count": 0,
-    "html_url": "https://github.com/Jeytha/Case-study-replicating-the-Mitnick-Attack-a-TCP-session-hijacking-technique",
-    "keywords": [
-        "session attack"
-    ],
-    "language": "Python",
-    "repo_name": "Case-study-replicating-the-Mitnick-Attack-a-TCP-session-hijacking-technique",
-    "repo_owner": "Jeytha",
-    "repotime": "2025-05-11, 22:08:26",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 5,
     "date_started": "2025-05-11",
     "date_updated": "2025-05-11",
@@ -1980,15 +1963,15 @@
     "repo_name": "CVE-2025-34028-PoC-Commvault-RCE",
     "repo_owner": "Mattb709",
     "repotime": "2025-05-08, 21:12:36",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 1550,
     "date_started": "2012-07-18",
     "date_updated": "2025-05-09",
     "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 436,
+    "forks_count": 437,
     "html_url": "https://github.com/ron190/jsql-injection",
     "keywords": [
         "sql injection"
@@ -1997,8 +1980,8 @@
     "repo_name": "jsql-injection",
     "repo_owner": "ron190",
     "repotime": "2025-05-09, 01:37:35",
-    "stargazers_count": 1678,
-    "watchers_count": 1678
+    "stargazers_count": 1690,
+    "watchers_count": 1690
 }
 {
     "commits_count": 16,
@@ -2164,14 +2147,15 @@
     "forks_count": 0,
     "html_url": "https://github.com/maryamirfan18/Windows-Privilege-Escalation",
     "keywords": [
-        "Windows escalation of privileges"
+        "Windows escalation of privileges",
+        "escalation of privileges exploit"
     ],
     "language": "Shell",
     "repo_name": "Windows-Privilege-Escalation",
     "repo_owner": "maryamirfan18",
     "repotime": "2025-05-04, 21:58:04",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 12,
@@ -2229,7 +2213,7 @@
     "date_started": "2025-03-04",
     "date_updated": "2025-05-03",
     "description": "A collection of concise notes for the Hack The Box Certified Penetration Testing Specialist (HTB CPTS) exam. Covers enumeration, exploitation, web attacks, privilege escalation, Active Directory, and post-exploitation. Includes essential commands and a cheat sheet for quick reference.",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/ShortGiant13/HTB-CPTS-Notes",
     "keywords": [
         "escalation of privileges exploit"
@@ -2238,8 +2222,8 @@
     "repo_name": "HTB-CPTS-Notes",
     "repo_owner": "ShortGiant13",
     "repotime": "2025-05-03, 17:25:46",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 4,
@@ -2279,7 +2263,7 @@
     "commits_count": 3,
     "date_started": "2025-05-02",
     "date_updated": "2025-05-02",
-    "description": "This isn't mine, credit to whoever made this. NotMyFault is a free tool to crash, hang, and cause kernel memory leaks to learn how to diagnose different device and hardware problems on Windows systems.",
+    "description": "This isn't mine, credit to Mark Russinovich. NotMyFault is a free tool to crash, hang, and cause kernel memory leaks to learn how to diagnose different device and hardware problems on Windows systems.",
     "forks_count": 0,
     "html_url": "https://github.com/Neruvy/NotMyFault",
     "keywords": [
@@ -2289,8 +2273,8 @@
     "repo_name": "NotMyFault",
     "repo_owner": "Neruvy",
     "repotime": "2025-05-02, 16:49:26",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 6,
@@ -2331,7 +2315,7 @@
     "date_started": "2025-05-01",
     "date_updated": "2025-05-02",
     "description": "An Advanced Web Application Firewall that protects against threats like SQL injection and XSS by filtering HTTP traffic. It combines signature-based detection and machine learning-based anomaly detection to identify obfuscated, zero-day, and unknown attacks through behavioral analysis.",
-    "forks_count": 5,
+    "forks_count": 6,
     "html_url": "https://github.com/Piyush-2975/Advanced-WAF-WAFinity",
     "keywords": [
         "zero-day analysis"
@@ -2340,8 +2324,8 @@
     "repo_name": "Advanced-WAF-WAFinity",
     "repo_owner": "Piyush-2975",
     "repotime": "2025-05-02, 17:12:56",
-    "stargazers_count": 29,
-    "watchers_count": 29
+    "stargazers_count": 35,
+    "watchers_count": 35
 }
 {
     "commits_count": 5,
@@ -2391,8 +2375,8 @@
     "repo_name": "Panoptic",
     "repo_owner": "lightos",
     "repotime": "2025-05-01, 01:06:17",
-    "stargazers_count": 315,
-    "watchers_count": 315
+    "stargazers_count": 316,
+    "watchers_count": 316
 }
 {
     "commits_count": 2,

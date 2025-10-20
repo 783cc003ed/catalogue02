@@ -3,7 +3,7 @@
     "date_started": "2019-10-14",
     "date_updated": "2024-10-31",
     "description": "A simple SSRF-testing sheriff written in Go",
-    "forks_count": 64,
+    "forks_count": 66,
     "html_url": "https://github.com/teknogeek/ssrf-sheriff",
     "keywords": [
         "ssrf"
@@ -12,8 +12,8 @@
     "repo_name": "ssrf-sheriff",
     "repo_owner": "teknogeek",
     "repotime": "2024-10-31, 13:47:15",
-    "stargazers_count": 330,
-    "watchers_count": 330
+    "stargazers_count": 332,
+    "watchers_count": 332
 }
 {
     "commits_count": 2,
@@ -37,7 +37,7 @@
     "date_started": "2018-03-11",
     "date_updated": "2024-10-31",
     "description": "Awesome XSS stuff",
-    "forks_count": 772,
+    "forks_count": 778,
     "html_url": "https://github.com/s0md3v/AwesomeXSS",
     "keywords": [
         "xss"
@@ -46,8 +46,8 @@
     "repo_name": "AwesomeXSS",
     "repo_owner": "s0md3v",
     "repotime": "2024-10-31, 00:31:09",
-    "stargazers_count": 4962,
-    "watchers_count": 4962
+    "stargazers_count": 5004,
+    "watchers_count": 5004
 }
 {
     "commits_count": 9,
@@ -258,7 +258,7 @@
     "date_started": "2023-02-28",
     "date_updated": "2024-10-23",
     "description": "C&amp;&#35;35; session hijacking gui",
-    "forks_count": 19,
+    "forks_count": 23,
     "html_url": "https://github.com/EbolaMan-YT/sessionsploit",
     "keywords": [
         "session hijacking"
@@ -267,8 +267,8 @@
     "repo_name": "sessionsploit",
     "repo_owner": "EbolaMan-YT",
     "repotime": "2024-10-23, 07:49:42",
-    "stargazers_count": 124,
-    "watchers_count": 124
+    "stargazers_count": 120,
+    "watchers_count": 120
 }
 {
     "commits_count": 3,
@@ -386,8 +386,25 @@
     "repo_name": "enzyme",
     "repo_owner": "camila314",
     "repotime": "2024-10-21, 18:04:57",
-    "stargazers_count": 118,
-    "watchers_count": 118
+    "stargazers_count": 122,
+    "watchers_count": 122
+}
+{
+    "commits_count": 4,
+    "date_started": "2024-10-21",
+    "date_updated": "2024-10-22",
+    "description": "Grafana RCE exploit (CVE-2024-9264)",
+    "forks_count": 5,
+    "html_url": "https://github.com/z3k0sec/CVE-2024-9264-RCE-Exploit",
+    "keywords": [
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-9264-RCE-Exploit",
+    "repo_owner": "z3k0sec",
+    "repotime": "2024-10-22, 00:31:47",
+    "stargazers_count": 37,
+    "watchers_count": 37
 }
 {
     "commits_count": 4,
@@ -627,8 +644,8 @@
     "repo_name": "Xploitra",
     "repo_owner": "AnonKryptiQuz",
     "repotime": "2024-10-17, 08:30:49",
-    "stargazers_count": 72,
-    "watchers_count": 72
+    "stargazers_count": 73,
+    "watchers_count": 73
 }
 {
     "commits_count": 4,
@@ -644,8 +661,8 @@
     "repo_name": "CVE-2024-6778-POC",
     "repo_owner": "ading2210",
     "repotime": "2024-10-17, 01:12:24",
-    "stargazers_count": 94,
-    "watchers_count": 94
+    "stargazers_count": 93,
+    "watchers_count": 93
 }
 {
     "commits_count": 10,
@@ -678,8 +695,8 @@
     "repo_name": "LMAP",
     "repo_owner": "TrustAI-laboratory",
     "repotime": "2024-10-16, 16:00:47",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 1204,
@@ -771,7 +788,7 @@
     "date_started": "2024-08-28",
     "date_updated": "2024-10-15",
     "description": "a powerful tool designed to automate the detection of Server-Side Request Forgery (SSRF) and Open Redirect vulnerabilities",
-    "forks_count": 3,
+    "forks_count": 4,
     "html_url": "https://github.com/KariiemGamal/0dSSRF",
     "keywords": [
         "server side request forgery"
@@ -780,8 +797,8 @@
     "repo_name": "0dSSRF",
     "repo_owner": "KariiemGamal",
     "repotime": "2024-10-15, 14:25:24",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 2,
@@ -957,6 +974,23 @@
     "watchers_count": 65
 }
 {
+    "commits_count": 61,
+    "date_started": "2024-05-17",
+    "date_updated": "2024-10-13",
+    "description": "A steganography tool for automatically encoding images that act as prompt injections/jailbreaks for AIs with code interpreter and vision.",
+    "forks_count": 66,
+    "html_url": "https://github.com/elder-plinius/STEGOSAURUS-WRECKS",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Python",
+    "repo_name": "STEGOSAURUS-WRECKS",
+    "repo_owner": "elder-plinius",
+    "repotime": "2024-10-13, 14:24:15",
+    "stargazers_count": 184,
+    "watchers_count": 184
+}
+{
     "commits_count": 8,
     "date_started": "2023-01-12",
     "date_updated": "2024-10-13",
@@ -1012,7 +1046,7 @@
     "date_started": "2017-05-04",
     "date_updated": "2024-10-12",
     "description": "XSS payloads for exploiting Markdown syntax",
-    "forks_count": 182,
+    "forks_count": 181,
     "html_url": "https://github.com/cujanovic/Markdown-XSS-Payloads",
     "keywords": [
         "xss"
@@ -1021,15 +1055,15 @@
     "repo_name": "Markdown-XSS-Payloads",
     "repo_owner": "cujanovic",
     "repotime": "2024-10-12, 14:43:35",
-    "stargazers_count": 478,
-    "watchers_count": 478
+    "stargazers_count": 484,
+    "watchers_count": 484
 }
 {
     "commits_count": 111,
     "date_started": "2017-03-21",
     "date_updated": "2024-10-12",
     "description": "SSRF (Server Side Request Forgery) testing resources",
-    "forks_count": 486,
+    "forks_count": 487,
     "html_url": "https://github.com/cujanovic/SSRF-Testing",
     "keywords": [
         "server side request forgery",
@@ -1039,8 +1073,8 @@
     "repo_name": "SSRF-Testing",
     "repo_owner": "cujanovic",
     "repotime": "2024-10-12, 14:43:20",
-    "stargazers_count": 2432,
-    "watchers_count": 2432
+    "stargazers_count": 2437,
+    "watchers_count": 2437
 }
 {
     "commits_count": 2,
@@ -1090,8 +1124,8 @@
     "repo_name": "XSSRocket",
     "repo_owner": "blackhatethicalhacking",
     "repotime": "2024-10-11, 12:18:15",
-    "stargazers_count": 146,
-    "watchers_count": 146
+    "stargazers_count": 147,
+    "watchers_count": 147
 }
 {
     "commits_count": 5633,
@@ -1302,6 +1336,23 @@
     "watchers_count": 3
 }
 {
+    "commits_count": 19,
+    "date_started": "2024-08-28",
+    "date_updated": "2024-10-07",
+    "description": "POC for CVE-2024-46310 For FXServer version's v9601 and prior,  Incorrect Access Control in FXServer version's v9601 and prior, for CFX.re FiveM, allows unauthenticated users to modify and read userdata via exposed api endpoint",
+    "forks_count": 0,
+    "html_url": "https://github.com/PRX5Y/CVE-2024-46310",
+    "keywords": [
+        "unauthenticated user"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-46310",
+    "repo_owner": "PRX5Y",
+    "repotime": "2024-10-07, 14:09:33",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 42,
     "date_started": "2024-10-06",
     "date_updated": "2024-10-07",
@@ -1455,23 +1506,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 8,
-    "date_started": "2024-02-28",
-    "date_updated": "2024-10-05",
-    "description": "LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges",
-    "forks_count": 0,
-    "html_url": "https://github.com/rxerium/CVE-2023-40000",
-    "keywords": [
-        "unauthenticated user"
-    ],
-    "language": null,
-    "repo_name": "CVE-2023-40000",
-    "repo_owner": "rxerium",
-    "repotime": "2024-10-05, 07:19:09",
-    "stargazers_count": 6,
-    "watchers_count": 6
-}
-{
     "commits_count": 1,
     "date_started": "2024-10-04",
     "date_updated": "2024-10-04",
@@ -1519,8 +1553,8 @@
     "repo_name": "CVE-2024-47176",
     "repo_owner": "l0n3m4n",
     "repotime": "2024-10-04, 01:11:16",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 1,
@@ -1621,8 +1655,8 @@
     "repo_name": "lfi-rig",
     "repo_owner": "fraktalcyber",
     "repotime": "2024-10-02, 09:54:42",
-    "stargazers_count": 88,
-    "watchers_count": 88
+    "stargazers_count": 89,
+    "watchers_count": 89
 }
 {
     "commits_count": 7,

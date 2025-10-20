@@ -86,23 +86,6 @@
     "watchers_count": 49
 }
 {
-    "commits_count": 3,
-    "date_started": "2022-03-30",
-    "date_updated": "2022-03-30",
-    "description": "DLL Hijacking and Mock directories technique to bypass Windows UAC security feature and getting high-level privileged reverse shell. Security researchers identified this technique which uses a simplified process of DLL hijacking and mock folders to bypass UAC control. I tested this on Windows 10,11 and bypassed Windows 10 UAC security feature.  ",
-    "forks_count": 4,
-    "html_url": "https://github.com/Offensive-Panda/C2_Elevated_Shell_DLL_Hijcking",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "C++",
-    "repo_name": "C2_Elevated_Shell_DLL_Hijcking",
-    "repo_owner": "Offensive-Panda",
-    "repotime": "2022-03-30, 17:19:33",
-    "stargazers_count": 15,
-    "watchers_count": 15
-}
-{
     "commits_count": 14,
     "date_started": "2022-03-30",
     "date_updated": "2022-03-30",
@@ -315,7 +298,7 @@
     "date_started": "2022-03-10",
     "date_updated": "2022-03-26",
     "description": "2020 was a roller coaster of major, world-shaking events. We all couldn't wait for the year to end. But just as 2020 was about to close, it pulled another fast one on us: the SolarWinds hack, one of the biggest cybersecurity breaches of the 21st century.  The SolarWinds hack was a major event not because a single company was breached, but because it triggered a much larger supply chain incident that affected thousands of organizations, including the U.S. government.  What is SolarWinds? SolarWinds is a major software company based in Tulsa, Okla., which provides system management tools for network and infrastructure monitoring, and other technical services to hundreds of thousands of organizations around the world. Among the company's products is an IT performance monitoring system called Orion.   As an IT monitoring system, SolarWinds Orion has privileged access to IT systems to obtain log and system performance data. It is that privileged position and its wide deployment that made So...",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/Mario-Kart-Felix/solar-wind-hacker-book",
     "keywords": [
         "Win use after free",
@@ -459,8 +442,8 @@
     "repo_name": "CVE-2019-0708",
     "repo_owner": "RICSecLab",
     "repotime": "2022-03-25, 15:46:40",
-    "stargazers_count": 140,
-    "watchers_count": 140
+    "stargazers_count": 143,
+    "watchers_count": 143
 }
 {
     "commits_count": 9,
@@ -511,8 +494,8 @@
     "repo_name": "Log4jUnifi",
     "repo_owner": "puzzlepeaches",
     "repotime": "2022-03-22, 19:35:16",
-    "stargazers_count": 159,
-    "watchers_count": 159
+    "stargazers_count": 160,
+    "watchers_count": 160
 }
 {
     "commits_count": 11,
@@ -877,7 +860,7 @@
     "date_started": "2022-03-14",
     "date_updated": "2022-03-15",
     "description": "RCE exploit for dompdf",
-    "forks_count": 68,
+    "forks_count": 66,
     "html_url": "https://github.com/positive-security/dompdf-rce",
     "keywords": [
         "rce exploit",
@@ -887,8 +870,8 @@
     "repo_name": "dompdf-rce",
     "repo_owner": "positive-security",
     "repotime": "2022-03-15, 11:55:55",
-    "stargazers_count": 181,
-    "watchers_count": 181
+    "stargazers_count": 182,
+    "watchers_count": 182
 }
 {
     "commits_count": 4,
@@ -1060,8 +1043,8 @@
     "repo_name": "CVE-2021-41773",
     "repo_owner": "thehackersbrain",
     "repotime": "2022-03-13, 03:00:42",
-    "stargazers_count": 109,
-    "watchers_count": 109
+    "stargazers_count": 110,
+    "watchers_count": 110
 }
 {
     "commits_count": 48,
@@ -1325,8 +1308,8 @@
     "repo_name": "bug-free-memory",
     "repo_owner": "Nate0634034090",
     "repotime": "2022-03-04, 16:01:01",
-    "stargazers_count": 25,
-    "watchers_count": 25
+    "stargazers_count": 27,
+    "watchers_count": 27
 }
 {
     "commits_count": 28,
@@ -1410,8 +1393,8 @@
     "repo_name": "findom-xss",
     "repo_owner": "dwisiswant0",
     "repotime": "2022-03-02, 22:50:42",
-    "stargazers_count": 820,
-    "watchers_count": 820
+    "stargazers_count": 826,
+    "watchers_count": 826
 }
 {
     "commits_count": 6,

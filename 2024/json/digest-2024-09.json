@@ -20,7 +20,7 @@
     "date_started": "2024-09-27",
     "date_updated": "2024-09-30",
     "description": "PoC and writeup for bypassing the initial patch of CVE-2024-0044, Android run-as any app vulnerability allowing privilege escalation from adb to installed app",
-    "forks_count": 23,
+    "forks_count": 22,
     "html_url": "https://github.com/canyie/CVE-2024-0044",
     "keywords": [
         "escalation of privileges poc"
@@ -29,8 +29,8 @@
     "repo_name": "CVE-2024-0044",
     "repo_owner": "canyie",
     "repotime": "2024-09-30, 20:47:42",
-    "stargazers_count": 160,
-    "watchers_count": 160
+    "stargazers_count": 164,
+    "watchers_count": 164
 }
 {
     "commits_count": 9,
@@ -86,10 +86,27 @@
 }
 {
     "commits_count": 6,
+    "date_started": "2024-09-29",
+    "date_updated": "2024-09-29",
+    "description": "🐍 Tool to find Local File Inclusion (LFI) vulnerabilities",
+    "forks_count": 0,
+    "html_url": "https://github.com/vffuunnyy/lfi-finder",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "lfi-finder",
+    "repo_owner": "vffuunnyy",
+    "repotime": "2024-09-29, 18:55:25",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
+    "commits_count": 6,
     "date_started": "2018-07-25",
     "date_updated": "2024-09-29",
     "description": "0day-mikrotik is a security tool designed to identify and exploit vulnerabilities in MikroTik routers, enabling security researchers to assess the resilience of their network infrastructure.",
-    "forks_count": 65,
+    "forks_count": 66,
     "html_url": "https://github.com/mrmtwoj/0day-mikrotik",
     "keywords": [
         "0day exploit",
@@ -100,8 +117,8 @@
     "repo_name": "0day-mikrotik",
     "repo_owner": "mrmtwoj",
     "repotime": "2024-09-29, 11:04:47",
-    "stargazers_count": 115,
-    "watchers_count": 115
+    "stargazers_count": 117,
+    "watchers_count": 117
 }
 {
     "commits_count": 11,
@@ -176,7 +193,7 @@
     "date_started": "2017-04-30",
     "date_updated": "2024-09-23",
     "description": "hack tools",
-    "forks_count": 495,
+    "forks_count": 494,
     "html_url": "https://github.com/hacktoolspack/hack-tools",
     "keywords": [
         "0day exploit",
@@ -186,8 +203,8 @@
     "repo_name": "hack-tools",
     "repo_owner": "hacktoolspack",
     "repotime": "2024-09-23, 23:27:19",
-    "stargazers_count": 1140,
-    "watchers_count": 1140
+    "stargazers_count": 1147,
+    "watchers_count": 1147
 }
 {
     "commits_count": 35,
@@ -324,8 +341,8 @@
     "repo_name": "lfimg",
     "repo_owner": "thimc",
     "repotime": "2024-09-20, 07:23:03",
-    "stargazers_count": 269,
-    "watchers_count": 269
+    "stargazers_count": 270,
+    "watchers_count": 270
 }
 {
     "commits_count": 4,
@@ -394,7 +411,7 @@
     "date_started": "2012-12-15",
     "date_updated": "2024-09-17",
     "description": "Cross Site &amp;quot;Scripter&amp;quot; (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.",
-    "forks_count": 252,
+    "forks_count": 254,
     "html_url": "https://github.com/epsylon/xsser",
     "keywords": [
         "xss"
@@ -403,8 +420,8 @@
     "repo_name": "xsser",
     "repo_owner": "epsylon",
     "repotime": "2024-09-17, 09:58:12",
-    "stargazers_count": 1359,
-    "watchers_count": 1359
+    "stargazers_count": 1369,
+    "watchers_count": 1369
 }
 {
     "commits_count": 2,
@@ -462,7 +479,7 @@
     "date_started": "2024-09-14",
     "date_updated": "2024-09-15",
     "description": "Stuxnet extracted binaries by reversing &amp;amp; Stuxnet Rootkit Analysis",
-    "forks_count": 18,
+    "forks_count": 20,
     "html_url": "https://github.com/x86byte/Stuxnet-Rootkit",
     "keywords": [
         "zero-day analysis"
@@ -471,8 +488,8 @@
     "repo_name": "Stuxnet-Rootkit",
     "repo_owner": "x86byte",
     "repotime": "2024-09-15, 00:01:28",
-    "stargazers_count": 66,
-    "watchers_count": 66
+    "stargazers_count": 70,
+    "watchers_count": 70
 }
 {
     "commits_count": 5,
@@ -496,7 +513,7 @@
     "date_started": "2020-04-15",
     "date_updated": "2024-09-13",
     "description": "GF Paterns For (ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic, interesting Subs) parameters grep",
-    "forks_count": 294,
+    "forks_count": 296,
     "html_url": "https://github.com/1ndianl33t/Gf-Patterns",
     "keywords": [
         "lfi",
@@ -506,8 +523,8 @@
     "repo_name": "Gf-Patterns",
     "repo_owner": "1ndianl33t",
     "repotime": "2024-09-13, 20:34:14",
-    "stargazers_count": 1361,
-    "watchers_count": 1361
+    "stargazers_count": 1367,
+    "watchers_count": 1367
 }
 {
     "commits_count": 1,
@@ -540,8 +557,8 @@
     "repo_name": "xssFuzz",
     "repo_owner": "Asperis-Security",
     "repotime": "2024-09-13, 10:44:50",
-    "stargazers_count": 114,
-    "watchers_count": 114
+    "stargazers_count": 117,
+    "watchers_count": 117
 }
 {
     "commits_count": 3,
@@ -659,8 +676,8 @@
     "repo_name": "CVE-2024-6624",
     "repo_owner": "RandomRobbieBF",
     "repotime": "2024-09-10, 13:11:56",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 4,
@@ -695,23 +712,6 @@
     "repotime": "2024-09-09, 22:16:00",
     "stargazers_count": 2,
     "watchers_count": 2
-}
-{
-    "commits_count": 44,
-    "date_started": "2024-07-03",
-    "date_updated": "2024-09-09",
-    "description": "ASUS wifi router RCE vulnerability",
-    "forks_count": 2,
-    "html_url": "https://github.com/BTtea/CVE-2018-14714-RCE-exploit",
-    "keywords": [
-        "rce vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2018-14714-RCE-exploit",
-    "repo_owner": "BTtea",
-    "repotime": "2024-09-09, 21:34:21",
-    "stargazers_count": 18,
-    "watchers_count": 18
 }
 {
     "commits_count": 3,
@@ -813,8 +813,8 @@
     "repo_name": "CVE-2024-8517",
     "repo_owner": "Chocapikk",
     "repotime": "2024-09-07, 04:12:04",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 1,
@@ -864,8 +864,8 @@
     "repo_name": "SQL-INJECTION-PWN",
     "repo_owner": "blackhatethicalhacking",
     "repotime": "2024-09-06, 16:34:31",
-    "stargazers_count": 41,
-    "watchers_count": 41
+    "stargazers_count": 42,
+    "watchers_count": 42
 }
 {
     "commits_count": 18,
@@ -881,8 +881,8 @@
     "repo_name": "SSRFPwned",
     "repo_owner": "blackhatethicalhacking",
     "repotime": "2024-09-06, 16:12:31",
-    "stargazers_count": 125,
-    "watchers_count": 125
+    "stargazers_count": 127,
+    "watchers_count": 127
 }
 {
     "commits_count": 5,
@@ -950,8 +950,8 @@
     "repo_name": "hypno",
     "repo_owner": "kmaork",
     "repotime": "2024-09-04, 14:05:39",
-    "stargazers_count": 100,
-    "watchers_count": 100
+    "stargazers_count": 101,
+    "watchers_count": 101
 }
 {
     "commits_count": 4,

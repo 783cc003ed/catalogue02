@@ -118,23 +118,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 3,
-    "date_started": "2025-06-10",
-    "date_updated": "2025-06-28",
-    "description": "A PoC exploit for CVE-2017-9841 - PHPUnit Remote Code Execution(RCE)",
-    "forks_count": 0,
-    "html_url": "https://github.com/K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
-    "keywords": [
-        "remote code execution poc"
-    ],
-    "language": "Go",
-    "repo_name": "CVE-2017-9841-EXPLOIT",
-    "repo_owner": "K3ysTr0K3R",
-    "repotime": "2025-06-28, 12:10:48",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
     "commits_count": 16,
     "date_started": "2018-01-15",
     "date_updated": "2025-06-28",
@@ -206,23 +189,6 @@
     "commits_count": 2,
     "date_started": "2025-06-27",
     "date_updated": "2025-06-27",
-    "description": "Exploit Proof of concept for privilege escalation on windows mountmgr.sys driver. Reverse Engineering the Windows Kernel - WIP",
-    "forks_count": 0,
-    "html_url": "https://github.com/0xIcarus/ioctl-mountmgr-poc",
-    "keywords": [
-        "Windows escalation of privileges"
-    ],
-    "language": "C",
-    "repo_name": "ioctl-mountmgr-poc",
-    "repo_owner": "0xIcarus",
-    "repotime": "2025-06-27, 17:03:16",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 2,
-    "date_started": "2025-06-27",
-    "date_updated": "2025-06-27",
     "description": "A console-based Hangman game in Python where the player guesses a random word letter by letter. Each wrong guess displays a progressive hangman figure. Includes input validation, word progress display, and win/lose conditions. Great for practicing loops, strings, and lists.",
     "forks_count": 0,
     "html_url": "https://github.com/Nikhitha213/CodeAlpha_hangman_game",
@@ -284,8 +250,8 @@
     "repo_name": "SQL-Injection-Scout",
     "repo_owner": "JaveleyQAQ",
     "repotime": "2025-06-27, 07:56:00",
-    "stargazers_count": 191,
-    "watchers_count": 191
+    "stargazers_count": 192,
+    "watchers_count": 192
 }
 {
     "commits_count": 3,
@@ -326,7 +292,7 @@
     "date_started": "2020-02-12",
     "date_updated": "2025-06-26",
     "description": "An XSS Exploitation Tool",
-    "forks_count": 62,
+    "forks_count": 63,
     "html_url": "https://github.com/Sharpforce/XSS-Exploitation-Tool",
     "keywords": [
         "xss"
@@ -335,8 +301,8 @@
     "repo_name": "XSS-Exploitation-Tool",
     "repo_owner": "Sharpforce",
     "repotime": "2025-06-26, 16:03:27",
-    "stargazers_count": 317,
-    "watchers_count": 317
+    "stargazers_count": 318,
+    "watchers_count": 318
 }
 {
     "commits_count": 2,
@@ -804,7 +770,7 @@
     "date_started": "2017-08-24",
     "date_updated": "2025-06-20",
     "description": "MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 3/4/5, Nintendo Switch, Android and other platforms",
-    "forks_count": 155,
+    "forks_count": 154,
     "html_url": "https://github.com/RudjiGames/MTuner",
     "keywords": [
         "Windows memory leak"
@@ -813,8 +779,8 @@
     "repo_name": "MTuner",
     "repo_owner": "RudjiGames",
     "repotime": "2025-06-20, 20:13:40",
-    "stargazers_count": 2727,
-    "watchers_count": 2727
+    "stargazers_count": 2723,
+    "watchers_count": 2723
 }
 {
     "commits_count": 10,
@@ -856,7 +822,7 @@
     "date_started": "2025-05-13",
     "date_updated": "2025-06-20",
     "description": "Code for the paper &amp;quot;Defeating Prompt Injections by Design&amp;quot;",
-    "forks_count": 14,
+    "forks_count": 21,
     "html_url": "https://github.com/google-research/camel-prompt-injection",
     "keywords": [
         "code injection"
@@ -865,25 +831,8 @@
     "repo_name": "camel-prompt-injection",
     "repo_owner": "google-research",
     "repotime": "2025-06-20, 15:59:27",
-    "stargazers_count": 114,
-    "watchers_count": 114
-}
-{
-    "commits_count": 743,
-    "date_started": "2018-07-17",
-    "date_updated": "2025-06-20",
-    "description": "CloudGoat is Rhino Security Labs' &amp;quot;Vulnerable by Design&amp;quot; AWS deployment tool",
-    "forks_count": 701,
-    "html_url": "https://github.com/RhinoSecurityLabs/cloudgoat",
-    "keywords": [
-        "by_owner"
-    ],
-    "language": "Python",
-    "repo_name": "cloudgoat",
-    "repo_owner": "RhinoSecurityLabs",
-    "repotime": "2025-06-20, 08:19:51",
-    "stargazers_count": 3331,
-    "watchers_count": 3331
+    "stargazers_count": 129,
+    "watchers_count": 129
 }
 {
     "commits_count": 4,
@@ -903,23 +852,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 1,
-    "date_started": "2025-06-19",
-    "date_updated": "2025-06-20",
-    "description": "SeTcbPrivilege Local Privilege Escalation Exploit",
-    "forks_count": 2,
-    "html_url": "https://github.com/CharminDoge/tcb-lpe",
-    "keywords": [
-        "Windows lpe"
-    ],
-    "language": "Go",
-    "repo_name": "tcb-lpe",
-    "repo_owner": "CharminDoge",
-    "repotime": "2025-06-20, 01:44:09",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
     "commits_count": 7,
     "date_started": "2024-03-28",
     "date_updated": "2025-06-20",
@@ -933,8 +865,8 @@
     "repo_name": "biotime-rce-8.5.5",
     "repo_owner": "omair2084",
     "repotime": "2025-06-20, 03:46:35",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 4,
@@ -1076,8 +1008,8 @@
     "repo_name": "xssorRecon",
     "repo_owner": "xss0r",
     "repotime": "2025-06-17, 13:03:05",
-    "stargazers_count": 169,
-    "watchers_count": 169
+    "stargazers_count": 174,
+    "watchers_count": 174
 }
 {
     "commits_count": 19,
@@ -1280,8 +1212,8 @@
     "repo_name": "CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit",
     "repo_owner": "Yuri08loveElaina",
     "repotime": "2025-06-15, 19:54:28",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 2,
@@ -1531,7 +1463,7 @@
     "date_started": "2013-06-25",
     "date_updated": "2025-06-12",
     "description": "Cleans HTML to avoid XSS attacks",
-    "forks_count": 213,
+    "forks_count": 214,
     "html_url": "https://github.com/mganss/HtmlSanitizer",
     "keywords": [
         "xss"
@@ -1540,8 +1472,8 @@
     "repo_name": "HtmlSanitizer",
     "repo_owner": "mganss",
     "repotime": "2025-06-12, 12:20:40",
-    "stargazers_count": 1649,
-    "watchers_count": 1649
+    "stargazers_count": 1655,
+    "watchers_count": 1655
 }
 {
     "commits_count": 30,
@@ -1646,23 +1578,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 4,
-    "date_started": "2025-06-10",
-    "date_updated": "2025-06-10",
-    "description": "Detection for CVE-2025-24016 - Deserialization of Untrusted Data Vulnerability in the Wazuh software",
-    "forks_count": 0,
-    "html_url": "https://github.com/rxerium/CVE-2025-24016",
-    "keywords": [
-        "deserialization of untrusted data"
-    ],
-    "language": null,
-    "repo_name": "CVE-2025-24016",
-    "repo_owner": "rxerium",
-    "repotime": "2025-06-10, 19:56:38",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
     "commits_count": 3,
     "date_started": "2025-06-09",
     "date_updated": "2025-06-09",
@@ -1761,8 +1676,8 @@
     "repo_name": "lucy-xss-filter",
     "repo_owner": "naver",
     "repotime": "2025-06-09, 06:53:14",
-    "stargazers_count": 332,
-    "watchers_count": 332
+    "stargazers_count": 334,
+    "watchers_count": 334
 }
 {
     "commits_count": 6,
@@ -1939,7 +1854,7 @@
     "date_started": "2025-06-06",
     "date_updated": "2025-06-06",
     "description": "Proof of Concept demonstrating Remote Code Execution through insecure deserialization in Roundcube (CVE-2025-49113).",
-    "forks_count": 15,
+    "forks_count": 16,
     "html_url": "https://github.com/hakaioffsec/CVE-2025-49113-exploit",
     "keywords": [
         "remote code execution proof of concept",
@@ -1949,8 +1864,8 @@
     "repo_name": "CVE-2025-49113-exploit",
     "repo_owner": "hakaioffsec",
     "repotime": "2025-06-06, 04:40:23",
-    "stargazers_count": 72,
-    "watchers_count": 72
+    "stargazers_count": 76,
+    "watchers_count": 76
 }
 {
     "commits_count": 23,
@@ -2078,7 +1993,7 @@
     "date_started": "2025-06-04",
     "date_updated": "2025-06-04",
     "description": "Code execution/injection technique using DLL PEB module structure manipulation",
-    "forks_count": 27,
+    "forks_count": 34,
     "html_url": "https://github.com/RWXstoned/LdrShuffle",
     "keywords": [
         "code injection"
@@ -2087,8 +2002,8 @@
     "repo_name": "LdrShuffle",
     "repo_owner": "RWXstoned",
     "repotime": "2025-06-04, 15:23:48",
-    "stargazers_count": 174,
-    "watchers_count": 174
+    "stargazers_count": 207,
+    "watchers_count": 207
 }
 {
     "commits_count": 17,
@@ -2152,7 +2067,7 @@
     "date_started": "2018-12-18",
     "date_updated": "2025-06-03",
     "description": "Proof-of-Concept exploits for CVEs found by the team at Rhino Security Labs",
-    "forks_count": 248,
+    "forks_count": 249,
     "html_url": "https://github.com/RhinoSecurityLabs/CVEs",
     "keywords": [
         "proof-of-concept",
@@ -2162,8 +2077,8 @@
     "repo_name": "CVEs",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2025-06-03, 20:34:21",
-    "stargazers_count": 873,
-    "watchers_count": 873
+    "stargazers_count": 877,
+    "watchers_count": 877
 }
 {
     "commits_count": 39,
