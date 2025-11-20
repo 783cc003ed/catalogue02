@@ -32,8 +32,8 @@
     "repo_name": "CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-",
     "repo_owner": "mbanyamer",
     "repotime": "2025-05-31, 15:23:53",
-    "stargazers_count": 63,
-    "watchers_count": 63
+    "stargazers_count": 59,
+    "watchers_count": 59
 }
 {
     "commits_count": 7,
@@ -74,7 +74,7 @@
     "date_started": "2021-09-09",
     "date_updated": "2025-05-30",
     "description": "APT38 Tactic PoC for Stealing 0days from security researchers",
-    "forks_count": 46,
+    "forks_count": 45,
     "html_url": "https://github.com/ZeroMemoryEx/APT38-0day-Stealer",
     "keywords": [
         "rce poc",
@@ -84,8 +84,8 @@
     "repo_name": "APT38-0day-Stealer",
     "repo_owner": "ZeroMemoryEx",
     "repotime": "2025-05-30, 17:52:14",
-    "stargazers_count": 319,
-    "watchers_count": 319
+    "stargazers_count": 312,
+    "watchers_count": 312
 }
 {
     "commits_count": 3,
@@ -156,6 +156,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 2,
+    "date_started": "2025-05-29",
+    "date_updated": "2025-05-29",
+    "description": "Slasher is a specialized path traversal vulnerability scanner that tests URLs using various path manipulation techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/fractalized-cyber/slasher",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "slasher",
+    "repo_owner": "fractalized-cyber",
+    "repotime": "2025-05-29, 15:50:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 3,
     "date_started": "2025-05-29",
     "date_updated": "2025-05-29",
@@ -173,23 +190,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 2,
-    "date_started": "2025-05-29",
-    "date_updated": "2025-05-28",
-    "description": "A console‑based C&amp;&#35;35; (or other language) Hangman implementation that randomly selects a secret word and lets the user guess letters one at a time. Correct guesses reveal letters, wrong guesses decrement remaining lives. Demonstrates string/array manipulation, loops, conditionals, and user input validation in a simple game setting.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Abhi-AIX/hangman-game",
-    "keywords": [
-        "wrong input validation"
-    ],
-    "language": "C#",
-    "repo_name": "hangman-game",
-    "repo_owner": "Abhi-AIX",
-    "repotime": "2025-05-28, 23:07:39",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 45,
     "date_started": "2024-08-06",
     "date_updated": "2025-05-28",
@@ -203,8 +203,8 @@
     "repo_name": "Logsign-RCE",
     "repo_owner": "sevbandonmez",
     "repotime": "2025-05-28, 15:57:20",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 7,
@@ -220,8 +220,8 @@
     "repo_name": "Scene-Release-Organiser-NFO-Downloader",
     "repo_owner": "qu0tex",
     "repotime": "2025-05-28, 12:33:47",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 3,
@@ -492,8 +492,8 @@
     "repo_name": "vulnverse",
     "repo_owner": "w1t3ack3r",
     "repotime": "2025-05-26, 09:24:56",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 11,
@@ -629,8 +629,8 @@
     "repo_name": "LeakyTozed",
     "repo_owner": "Zephkek",
     "repotime": "2025-05-23, 10:41:04",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 26,
@@ -683,6 +683,23 @@
     "repotime": "2025-05-22, 19:56:26",
     "stargazers_count": 9,
     "watchers_count": 9
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-05-22",
+    "date_updated": "2025-05-22",
+    "description": "Hydra Cybersecurity Attack Labs | This repo collects 4 of programming labs exercises for Hydra Cybersecurity Attack Labs. In this course, master Hydra cybersecurity attack techniques through hands-on labs covering session restoration, SSL attacks, brute-force, and multi-target attacks.",
+    "forks_count": 0,
+    "html_url": "https://github.com/labex-labs/hydra-cybersecurity-attack-labs",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "hydra-cybersecurity-attack-labs",
+    "repo_owner": "labex-labs",
+    "repotime": "2025-05-22, 15:23:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -903,8 +920,8 @@
     "repo_name": "HyFuzz",
     "repo_owner": "cs7org",
     "repotime": "2025-05-19, 22:56:52",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -976,20 +993,20 @@
 }
 {
     "commits_count": 3,
-    "date_started": "2025-05-22",
+    "date_started": "2025-05-17",
     "date_updated": "2025-05-19",
     "description": "Public disclosure of CVE-2025-31200 – Zero-click RCE in iOS 18.X via AudioConverterService and malicious audio file.",
-    "forks_count": 8,
-    "html_url": "https://github.com/serundengsapi/CVE-2025-31200-iOS-AudioConverter-RCE",
+    "forks_count": 7,
+    "html_url": "https://github.com/JGoyd/CVE-2025-31200-iOS-AudioConverter-RCE",
     "keywords": [
         "rce disclosure"
     ],
     "language": null,
     "repo_name": "CVE-2025-31200-iOS-AudioConverter-RCE",
-    "repo_owner": "serundengsapi",
+    "repo_owner": "JGoyd",
     "repotime": "2025-05-19, 11:30:42",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 104,
@@ -1198,11 +1215,28 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 28,
+    "date_started": "2025-04-04",
+    "date_updated": "2025-05-17",
+    "description": "Just a simple userscript to bypass the soft paywall on gocomics.com, and removes the adspaces as well.",
+    "forks_count": 1,
+    "html_url": "https://github.com/Idiot-01/Gocomics-Depaywall",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "JavaScript",
+    "repo_name": "Gocomics-Depaywall",
+    "repo_owner": "Idiot-01",
+    "repotime": "2025-05-17, 21:25:50",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 63,
     "date_started": "2023-01-20",
     "date_updated": "2025-05-16",
     "description": "Community-sourced list of papers and resources on neural simulation-based inference.",
-    "forks_count": 10,
+    "forks_count": 9,
     "html_url": "https://github.com/smsharma/awesome-neural-sbi",
     "keywords": [
         "lfi"
@@ -1211,8 +1245,8 @@
     "repo_name": "awesome-neural-sbi",
     "repo_owner": "smsharma",
     "repotime": "2025-05-16, 20:27:34",
-    "stargazers_count": 130,
-    "watchers_count": 130
+    "stargazers_count": 118,
+    "watchers_count": 118
 }
 {
     "commits_count": 7,
@@ -1249,6 +1283,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 11,
+    "date_started": "2025-03-29",
+    "date_updated": "2025-05-16",
+    "description": "This script automates SQL injection testing using SQLMap with AI-powered decision making.",
+    "forks_count": 30,
+    "html_url": "https://github.com/atiilla/sqlmap-ai",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlmap-ai",
+    "repo_owner": "atiilla",
+    "repotime": "2025-05-16, 12:46:11",
+    "stargazers_count": 197,
+    "watchers_count": 197
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-15",
+    "date_updated": "2025-05-15",
+    "description": "22h2 Windows patchguard runtime disabler.",
+    "forks_count": 1,
+    "html_url": "https://github.com/dpcpointer/patchedguard",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "patchedguard",
+    "repo_owner": "dpcpointer",
+    "repotime": "2025-05-15, 17:34:28",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 3,
     "date_started": "2025-05-15",
     "date_updated": "2025-05-15",
@@ -1281,6 +1349,40 @@
     "repotime": "2025-05-15, 12:40:28",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-07-07",
+    "date_updated": "2025-05-15",
+    "description": "Une faille LFI à cause d'un builder CSS mal conçu",
+    "forks_count": 0,
+    "html_url": "https://github.com/Hack-Oeil/LOCAL_FILE_INCLUSION_BUILD_CSS",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "CSS",
+    "repo_name": "LOCAL_FILE_INCLUSION_BUILD_CSS",
+    "repo_owner": "Hack-Oeil",
+    "repotime": "2025-05-15, 16:43:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2023-07-07",
+    "date_updated": "2025-05-15",
+    "description": "Local File inclusion via une mauvaise gestion des téléchargements",
+    "forks_count": 0,
+    "html_url": "https://github.com/Hack-Oeil/LOCAL_FILE_INCLUSION_DOWNLOAD",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "CSS",
+    "repo_name": "LOCAL_FILE_INCLUSION_DOWNLOAD",
+    "repo_owner": "Hack-Oeil",
+    "repotime": "2025-05-15, 16:39:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 41,
@@ -1457,7 +1559,7 @@
     "date_started": "2019-01-29",
     "date_updated": "2025-05-14",
     "description": "The Serverless Blind XSS App",
-    "forks_count": 135,
+    "forks_count": 133,
     "html_url": "https://github.com/mazen160/xless",
     "keywords": [
         "xss"
@@ -1466,8 +1568,8 @@
     "repo_name": "xless",
     "repo_owner": "mazen160",
     "repotime": "2025-05-14, 00:05:40",
-    "stargazers_count": 339,
-    "watchers_count": 339
+    "stargazers_count": 338,
+    "watchers_count": 338
 }
 {
     "commits_count": 52,
@@ -1539,6 +1641,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 7,
+    "date_started": "2025-05-04",
+    "date_updated": "2025-05-13",
+    "description": "Server-Side Request Forgery Testing Utility",
+    "forks_count": 0,
+    "html_url": "https://github.com/TheOSuite/oSSRF",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "Python",
+    "repo_name": "oSSRF",
+    "repo_owner": "TheOSuite",
+    "repotime": "2025-05-13, 12:12:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2025-05-13",
     "date_updated": "2025-05-13",
@@ -1603,8 +1722,8 @@
     "repo_name": "Malware-Analysis-Reports",
     "repo_owner": "SUmidcyber",
     "repotime": "2025-05-13, 16:51:56",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 12,
@@ -1664,7 +1783,7 @@
     "date_started": "2025-05-12",
     "date_updated": "2025-05-13",
     "description": "1day practice - Escape macOS sandbox (partial) using RemoteViewServices",
-    "forks_count": 8,
+    "forks_count": 6,
     "html_url": "https://github.com/wh1te4ever/CVE-2025-31258-PoC",
     "keywords": [
         "sandbox escape poc"
@@ -1673,8 +1792,8 @@
     "repo_name": "CVE-2025-31258-PoC",
     "repo_owner": "wh1te4ever",
     "repotime": "2025-05-13, 08:52:28",
-    "stargazers_count": 40,
-    "watchers_count": 40
+    "stargazers_count": 38,
+    "watchers_count": 38
 }
 {
     "commits_count": 7,
@@ -1707,8 +1826,8 @@
     "repo_name": "axis-rce",
     "repo_owner": "mascencerro",
     "repotime": "2025-05-12, 17:49:42",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 3,
@@ -1724,8 +1843,25 @@
     "repo_name": "MXSpoof",
     "repo_owner": "tomsec8",
     "repotime": "2025-05-12, 15:48:42",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-04-07",
+    "date_updated": "2025-05-11",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/Jeytha/Case-study-replicating-the-Mitnick-Attack-a-TCP-session-hijacking-technique",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Python",
+    "repo_name": "Case-study-replicating-the-Mitnick-Attack-a-TCP-session-hijacking-technique",
+    "repo_owner": "Jeytha",
+    "repotime": "2025-05-11, 22:08:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -1810,8 +1946,8 @@
     "repo_name": "ssrf_filter",
     "repo_owner": "arkadiyt",
     "repotime": "2025-05-10, 11:14:56",
-    "stargazers_count": 89,
-    "watchers_count": 89
+    "stargazers_count": 88,
+    "watchers_count": 88
 }
 {
     "commits_count": 8,
@@ -1880,6 +2016,23 @@
     "repotime": "2025-05-09, 20:55:43",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-05-09",
+    "date_updated": "2025-05-09",
+    "description": "Integration of x402 Payment Protocol with Nevermined that allows AI agents to pay other agents without constant transaction signing. Make a single payment to purchase credits, eliminating the need for vulnerable session keys while enabling a seamless AI agent economy.",
+    "forks_count": 1,
+    "html_url": "https://github.com/nevermined-io/x402-nevermined-demo",
+    "keywords": [
+        "session vulnerability"
+    ],
+    "language": "TypeScript",
+    "repo_name": "x402-nevermined-demo",
+    "repo_owner": "nevermined-io",
+    "repotime": "2025-05-09, 12:36:14",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 1,
@@ -1963,15 +2116,15 @@
     "repo_name": "CVE-2025-34028-PoC-Commvault-RCE",
     "repo_owner": "Mattb709",
     "repotime": "2025-05-08, 21:12:36",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
-    "commits_count": 1550,
+    "commits_count": 1547,
     "date_started": "2012-07-18",
     "date_updated": "2025-05-09",
     "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 437,
+    "forks_count": 430,
     "html_url": "https://github.com/ron190/jsql-injection",
     "keywords": [
         "sql injection"
@@ -1980,8 +2133,8 @@
     "repo_name": "jsql-injection",
     "repo_owner": "ron190",
     "repotime": "2025-05-09, 01:37:35",
-    "stargazers_count": 1690,
-    "watchers_count": 1690
+    "stargazers_count": 1631,
+    "watchers_count": 1631
 }
 {
     "commits_count": 16,
@@ -2065,8 +2218,8 @@
     "repo_name": "buffer-overflow",
     "repo_owner": "eamanor8",
     "repotime": "2025-05-06, 22:42:34",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 16,
@@ -2086,6 +2239,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 17,
+    "date_started": "2024-12-05",
+    "date_updated": "2025-05-05",
+    "description": "🥷 Prevent CSV injection and data exfiltration",
+    "forks_count": 0,
+    "html_url": "https://github.com/samber/go-safe-csv-writer",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": "Go",
+    "repo_name": "go-safe-csv-writer",
+    "repo_owner": "samber",
+    "repotime": "2025-05-05, 20:39:52",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
     "commits_count": 55,
     "date_started": "2024-05-14",
     "date_updated": "2025-05-05",
@@ -2095,15 +2265,14 @@
     "keywords": [
         "Windows rce",
         "csv injection",
-        "Windows rce vulnerability",
-        "Windows rce exploit"
+        "Windows rce vulnerability"
     ],
     "language": "Python",
     "repo_name": "WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956",
     "repo_owner": "AiGptCode",
     "repotime": "2025-05-05, 17:16:21",
-    "stargazers_count": 110,
-    "watchers_count": 110
+    "stargazers_count": 108,
+    "watchers_count": 108
 }
 {
     "commits_count": 3,
@@ -2147,15 +2316,14 @@
     "forks_count": 0,
     "html_url": "https://github.com/maryamirfan18/Windows-Privilege-Escalation",
     "keywords": [
-        "Windows escalation of privileges",
-        "escalation of privileges exploit"
+        "Windows escalation of privileges"
     ],
     "language": "Shell",
     "repo_name": "Windows-Privilege-Escalation",
     "repo_owner": "maryamirfan18",
     "repotime": "2025-05-04, 21:58:04",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 12,
@@ -2192,6 +2360,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 113,
+    "date_started": "2024-11-30",
+    "date_updated": "2025-05-03",
+    "description": "Server with vless+reality on board for my friends to bypass internet censorship ",
+    "forks_count": 1,
+    "html_url": "https://github.com/ed-asriyan/rkn-server-deploy",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "Jinja",
+    "repo_name": "rkn-server-deploy",
+    "repo_owner": "ed-asriyan",
+    "repotime": "2025-05-03, 14:06:13",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 15,
     "date_started": "2025-05-03",
     "date_updated": "2025-05-03",
@@ -2213,7 +2398,7 @@
     "date_started": "2025-03-04",
     "date_updated": "2025-05-03",
     "description": "A collection of concise notes for the Hack The Box Certified Penetration Testing Specialist (HTB CPTS) exam. Covers enumeration, exploitation, web attacks, privilege escalation, Active Directory, and post-exploitation. Includes essential commands and a cheat sheet for quick reference.",
-    "forks_count": 1,
+    "forks_count": 0,
     "html_url": "https://github.com/ShortGiant13/HTB-CPTS-Notes",
     "keywords": [
         "escalation of privileges exploit"
@@ -2222,8 +2407,8 @@
     "repo_name": "HTB-CPTS-Notes",
     "repo_owner": "ShortGiant13",
     "repotime": "2025-05-03, 17:25:46",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 4,
@@ -2239,8 +2424,8 @@
     "repo_name": "linux-memory-analyzer",
     "repo_owner": "nikhilkumar0102",
     "repotime": "2025-05-03, 12:06:07",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 2,
@@ -2263,7 +2448,7 @@
     "commits_count": 3,
     "date_started": "2025-05-02",
     "date_updated": "2025-05-02",
-    "description": "This isn't mine, credit to Mark Russinovich. NotMyFault is a free tool to crash, hang, and cause kernel memory leaks to learn how to diagnose different device and hardware problems on Windows systems.",
+    "description": "This isn't mine, credit to whoever made this. NotMyFault is a free tool to crash, hang, and cause kernel memory leaks to learn how to diagnose different device and hardware problems on Windows systems.",
     "forks_count": 0,
     "html_url": "https://github.com/Neruvy/NotMyFault",
     "keywords": [
@@ -2273,8 +2458,8 @@
     "repo_name": "NotMyFault",
     "repo_owner": "Neruvy",
     "repotime": "2025-05-02, 16:49:26",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 6,
@@ -2307,15 +2492,15 @@
     "repo_name": "bepo-xxerty",
     "repo_owner": "Zwyx",
     "repotime": "2025-05-02, 22:32:39",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 35,
     "date_started": "2025-05-01",
     "date_updated": "2025-05-02",
     "description": "An Advanced Web Application Firewall that protects against threats like SQL injection and XSS by filtering HTTP traffic. It combines signature-based detection and machine learning-based anomaly detection to identify obfuscated, zero-day, and unknown attacks through behavioral analysis.",
-    "forks_count": 6,
+    "forks_count": 0,
     "html_url": "https://github.com/Piyush-2975/Advanced-WAF-WAFinity",
     "keywords": [
         "zero-day analysis"
@@ -2324,8 +2509,8 @@
     "repo_name": "Advanced-WAF-WAFinity",
     "repo_owner": "Piyush-2975",
     "repotime": "2025-05-02, 17:12:56",
-    "stargazers_count": 35,
-    "watchers_count": 35
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 5,
@@ -2379,21 +2564,21 @@
     "watchers_count": 316
 }
 {
-    "commits_count": 2,
-    "date_started": "2025-05-01",
+    "commits_count": 193,
+    "date_started": "2013-11-05",
     "date_updated": "2025-05-01",
-    "description": "XML External Entity Injec",
-    "forks_count": 0,
-    "html_url": "https://github.com/M4rgs/xxe-injection",
+    "description": "Command line tool to edit resources of exe",
+    "forks_count": 202,
+    "html_url": "https://github.com/electron/rcedit",
     "keywords": [
-        "xml external entity"
+        "Windows rce"
     ],
-    "language": "Python",
-    "repo_name": "xxe-injection",
-    "repo_owner": "M4rgs",
-    "repotime": "2025-05-01, 05:06:50",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "language": "C++",
+    "repo_name": "rcedit",
+    "repo_owner": "electron",
+    "repotime": "2025-05-01, 00:20:35",
+    "stargazers_count": 1920,
+    "watchers_count": 1920
 }
 {
     "commits_count": 5,

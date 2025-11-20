@@ -13,8 +13,8 @@
     "repo_name": "Laravel-PhpUnit-Rce-And-Get-Env-Exploiter",
     "repo_owner": "vsec7",
     "repotime": "2019-06-30, 12:03:04",
-    "stargazers_count": 23,
-    "watchers_count": 23
+    "stargazers_count": 24,
+    "watchers_count": 24
 }
 {
     "commits_count": 5,
@@ -140,8 +140,8 @@
     "repo_name": "FFmpeg-HLS-SSRF",
     "repo_owner": "0xcoyote",
     "repotime": "2019-06-25, 23:21:22",
-    "stargazers_count": 22,
-    "watchers_count": 22
+    "stargazers_count": 21,
+    "watchers_count": 21
 }
 {
     "commits_count": 3,
@@ -158,8 +158,8 @@
     "repo_name": "WinPools",
     "repo_owner": "DownWithUp",
     "repotime": "2019-06-22, 21:04:50",
-    "stargazers_count": 14,
-    "watchers_count": 14
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 0,
@@ -287,7 +287,7 @@
     "date_started": "2019-06-13",
     "date_updated": "2019-06-13",
     "description": "    {   &amp;quot;releases&amp;quot;: {     &amp;quot;2.0.4&amp;quot;: [       &amp;quot;[Fixed] Refresh for Enterprise repositories did not handle API error querying branches - &amp;&#35;35;7713&amp;quot;,       &amp;quot;[Fixed] Missing \\&amp;quot;Discard all changes\\&amp;quot; context menu in Changes header - &amp;&#35;35;7696&amp;quot;,       &amp;quot;[Fixed] \\&amp;quot;Select all\\&amp;quot; keyboard shortcut not firing on Windows - &amp;&#35;35;7759&amp;quot;     ],     &amp;quot;2.0.4-beta1&amp;quot;: [       &amp;quot;[Fixed] Refresh for Enterprise repositories did not handle API error querying branches - &amp;&#35;35;7713&amp;quot;,       &amp;quot;[Fixed] Missing \\&amp;quot;Discard all changes\\&amp;quot; context menu in Changes header - &amp;&#35;35;7696&amp;quot;,       &amp;quot;[Fixed] \\&amp;quot;Select all\\&amp;quot; keyboard shortcut not firing on Windows - &amp;&#35;35;7759&amp;quot;     ],     &amp;quot;2.0.4-beta0&amp;quot;: [       &amp;quot;[Added] Extend crash reports with more information about application state for troubleshooting - &amp;&#35;35;7693&amp;quot;,       &amp;quot;[Fixed] Crash when attempting to update pull requests with part...",
-    "forks_count": 36,
+    "forks_count": 31,
     "html_url": "https://github.com/klonnet23/helloy-word",
     "keywords": [
         "wrong input validation",
@@ -297,8 +297,8 @@
     "repo_name": "helloy-word",
     "repo_owner": "klonnet23",
     "repotime": "2019-06-13, 04:59:11",
-    "stargazers_count": 75,
-    "watchers_count": 75
+    "stargazers_count": 59,
+    "watchers_count": 59
 }
 {
     "commits_count": 1,
@@ -337,8 +337,8 @@
     "repo_name": "jenkins-rce",
     "repo_owner": "petercunha",
     "repotime": "2019-06-09, 23:57:57",
-    "stargazers_count": 297,
-    "watchers_count": 297
+    "stargazers_count": 296,
+    "watchers_count": 296
 }
 {
     "commits_count": 4,
@@ -423,8 +423,8 @@
     "repo_name": "TwitterX",
     "repo_owner": "nakiostudio",
     "repotime": "2019-06-05, 08:57:43",
-    "stargazers_count": 188,
-    "watchers_count": 188
+    "stargazers_count": 187,
+    "watchers_count": 187
 }
 {
     "commits_count": 1,
@@ -440,8 +440,8 @@
     "repo_name": "mongooseNewsScraping",
     "repo_owner": "Fitzpa",
     "repotime": "2019-06-04, 16:29:36",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 10,
@@ -465,7 +465,7 @@
     "date_started": "2018-11-14",
     "date_updated": "2019-06-04",
     "description": "A tool which creates a spoofed certificate of any online website and signs an Executable for AV Evasion. Works for both Windows and Linux",
-    "forks_count": 283,
+    "forks_count": 282,
     "html_url": "https://github.com/paranoidninja/CarbonCopy",
     "keywords": [
         "spoofing certificate"
@@ -474,15 +474,15 @@
     "repo_name": "CarbonCopy",
     "repo_owner": "paranoidninja",
     "repotime": "2019-06-04, 23:27:14",
-    "stargazers_count": 1398,
-    "watchers_count": 1398
+    "stargazers_count": 1377,
+    "watchers_count": 1377
 }
 {
     "commits_count": 11,
     "date_started": "2019-05-12",
     "date_updated": "2019-06-04",
     "description": "A simple PHP application to learn SQL Injection detection and exploitation techniques.",
-    "forks_count": 59,
+    "forks_count": 57,
     "html_url": "https://github.com/appsecco/sqlinjection-training-app",
     "keywords": [
         "sql injection"
@@ -491,6 +491,23 @@
     "repo_name": "sqlinjection-training-app",
     "repo_owner": "appsecco",
     "repotime": "2019-06-04, 15:50:57",
-    "stargazers_count": 124,
-    "watchers_count": 124
+    "stargazers_count": 117,
+    "watchers_count": 117
+}
+{
+    "commits_count": 10,
+    "date_started": "2019-05-28",
+    "date_updated": "2019-06-02",
+    "description": "Find directory Local File Inclusion on download website application query",
+    "forks_count": 0,
+    "html_url": "https://github.com/FachrulRH/lfi-attack",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "lfi-attack",
+    "repo_owner": "FachrulRH",
+    "repotime": "2019-06-02, 15:56:25",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }

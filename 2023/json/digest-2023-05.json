@@ -38,7 +38,7 @@
     "date_started": "2021-03-05",
     "date_updated": "2023-05-30",
     "description": "Secure router with XSS and CSRF",
-    "forks_count": 143,
+    "forks_count": 144,
     "html_url": "https://github.com/phprouter/main",
     "keywords": [
         "xss"
@@ -47,8 +47,8 @@
     "repo_name": "main",
     "repo_owner": "phprouter",
     "repotime": "2023-05-30, 11:30:34",
-    "stargazers_count": 553,
-    "watchers_count": 553
+    "stargazers_count": 550,
+    "watchers_count": 550
 }
 {
     "commits_count": 1,
@@ -215,7 +215,7 @@
     "date_started": "2019-02-26",
     "date_updated": "2023-05-26",
     "description": "A script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.",
-    "forks_count": 89,
+    "forks_count": 88,
     "html_url": "https://github.com/RhinoSecurityLabs/GCPBucketBrute",
     "keywords": [
         "by_owner"
@@ -224,8 +224,8 @@
     "repo_name": "GCPBucketBrute",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2023-05-26, 12:11:42",
-    "stargazers_count": 536,
-    "watchers_count": 536
+    "stargazers_count": 527,
+    "watchers_count": 527
 }
 {
     "commits_count": 2,
@@ -241,8 +241,8 @@
     "repo_name": "web-vulnerability-scanner",
     "repo_owner": "ihrishikesh0896",
     "repotime": "2023-05-26, 01:10:21",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 3,
@@ -258,8 +258,8 @@
     "repo_name": "Cherry-Plugin",
     "repo_owner": "InMyMine7",
     "repotime": "2023-05-25, 09:08:04",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 29,
@@ -425,8 +425,8 @@
     "repo_name": "CVE-2023-0297",
     "repo_owner": "JacobEbben",
     "repotime": "2023-05-21, 19:15:18",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 27,
@@ -476,8 +476,8 @@
     "repo_name": "the-road-to-zero",
     "repo_owner": "faisalmemon",
     "repotime": "2023-05-20, 09:44:26",
-    "stargazers_count": 28,
-    "watchers_count": 28
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 2,
@@ -675,8 +675,8 @@
     "repo_name": "SecBugs",
     "repo_owner": "j00sean",
     "repotime": "2023-05-12, 12:22:27",
-    "stargazers_count": 111,
-    "watchers_count": 111
+    "stargazers_count": 112,
+    "watchers_count": 112
 }
 {
     "commits_count": 16,
@@ -881,8 +881,8 @@
     "repo_name": "legacy-noptcha-patch-archived",
     "repo_owner": "Sqaaakoi",
     "repotime": "2023-05-06, 19:47:08",
-    "stargazers_count": 197,
-    "watchers_count": 197
+    "stargazers_count": 196,
+    "watchers_count": 196
 }
 {
     "commits_count": 1,
@@ -923,7 +923,7 @@
     "date_started": "2023-01-05",
     "date_updated": "2023-05-03",
     "description": "PoC for CVE-2022-46169 - Unauthenticated RCE on Cacti &amp;lt;= 1.2.22",
-    "forks_count": 6,
+    "forks_count": 8,
     "html_url": "https://github.com/sAsPeCt488/CVE-2022-46169",
     "keywords": [
         "unauthenticated rce",
@@ -933,8 +933,8 @@
     "repo_name": "CVE-2022-46169",
     "repo_owner": "sAsPeCt488",
     "repotime": "2023-05-03, 19:50:34",
-    "stargazers_count": 29,
-    "watchers_count": 29
+    "stargazers_count": 30,
+    "watchers_count": 30
 }
 {
     "commits_count": 3,
@@ -1067,6 +1067,25 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 218,
+    "date_started": "2016-07-11",
+    "date_updated": "2023-05-02",
+    "description": " QRLJacking or Quick Response Code Login Jacking is a simple-but-nasty attack vector affecting all the applications that relays on “Login with QR code” feature as a secure way to login into accounts which aims for hijacking users session by attackers.",
+    "forks_count": 642,
+    "html_url": "https://github.com/OWASP/QRLJacking",
+    "keywords": [
+        "session hijacking attack",
+        "session attack",
+        "session hijacking"
+    ],
+    "language": "Python",
+    "repo_name": "QRLJacking",
+    "repo_owner": "OWASP",
+    "repotime": "2023-05-02, 22:17:30",
+    "stargazers_count": 1418,
+    "watchers_count": 1418
+}
+{
     "commits_count": 13,
     "date_started": "2023-05-02",
     "date_updated": "2023-05-02",
@@ -1123,7 +1142,7 @@
     "date_started": "2023-05-01",
     "date_updated": "2023-05-01",
     "description": "Performing TCP/IP exploits such as SYN Flooding, TCP RST attack on SSH and TLS connections, session hijacking, and revershell attacks",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/karansj4/TCP-IP-exploit",
     "keywords": [
         "session attack",
@@ -1133,8 +1152,8 @@
     "repo_name": "TCP-IP-exploit",
     "repo_owner": "karansj4",
     "repotime": "2023-05-01, 19:07:01",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 34,
@@ -1150,6 +1169,6 @@
     "repo_name": "GregsBestFriend",
     "repo_owner": "WKL-Sec",
     "repotime": "2023-05-01, 07:08:58",
-    "stargazers_count": 196,
-    "watchers_count": 196
+    "stargazers_count": 193,
+    "watchers_count": 193
 }

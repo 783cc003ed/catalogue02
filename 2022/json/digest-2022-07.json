@@ -105,7 +105,7 @@
     "date_started": "2022-07-20",
     "date_updated": "2022-07-29",
     "description": "A tool for developing bad character-free shellcode to bypass DEP with WriteProcessMemory (32-bit only)",
-    "forks_count": 10,
+    "forks_count": 8,
     "html_url": "https://github.com/ommadawn46/win-x86-shellcoder",
     "keywords": [
         "dep bypass"
@@ -114,8 +114,8 @@
     "repo_name": "win-x86-shellcoder",
     "repo_owner": "ommadawn46",
     "repotime": "2022-07-29, 22:29:24",
-    "stargazers_count": 69,
-    "watchers_count": 69
+    "stargazers_count": 60,
+    "watchers_count": 60
 }
 {
     "commits_count": 27,
@@ -229,7 +229,7 @@
     "date_started": "2022-07-14",
     "date_updated": "2022-07-27",
     "description": "UAC bypass for x64 Windows 7 - 11",
-    "forks_count": 157,
+    "forks_count": 156,
     "html_url": "https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC",
     "keywords": [
         "uac bypass"
@@ -238,8 +238,8 @@
     "repo_name": "iscsicpl_bypassUAC",
     "repo_owner": "hackerhouse-opensource",
     "repotime": "2022-07-27, 10:48:24",
-    "stargazers_count": 817,
-    "watchers_count": 817
+    "stargazers_count": 809,
+    "watchers_count": 809
 }
 {
     "commits_count": 9,
@@ -369,7 +369,7 @@
     "date_started": "2022-07-25",
     "date_updated": "2022-07-25",
     "description": "According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because beAccording to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible. Yellow, black. Yellow, black. Yellow, black. Yellow, black. Ooh, black and yellow! Let's shake it up a little. Barry! Breakfast is ready! Ooming! Hang on a second. Hello? - Barry? - Adam? - Oan you believe this is happening? - I can't. I'll pick you up. Looking sharp. Use the stairs. Your father paid good money for those. Sorry. I'm excited. Here's the graduate. We're very proud of you, son. A perfect report card, all B's. Very proud. Ma! I got a thing going here. - You got lint on your fuzz. - Ow! That's me! - Wave to us! We'll be in row 118,000. - Bye! ...",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/Skattermuffin/this-ones-for-you-my-retalyation.-also-haha-arrow-game-lolol",
     "keywords": [
         "Windows use after free",
@@ -385,8 +385,8 @@
     "repo_name": "this-ones-for-you-my-retalyation.-also-haha-arrow-game-lolol",
     "repo_owner": "Skattermuffin",
     "repotime": "2022-07-25, 17:00:01",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 23,
@@ -454,8 +454,8 @@
     "repo_name": "CVE-2022-26134-Confluence-RCE",
     "repo_owner": "whokilleddb",
     "repotime": "2022-07-24, 07:12:44",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 15,
@@ -472,15 +472,15 @@
     "repo_name": "SSRFexploit",
     "repo_owner": "akincibor",
     "repotime": "2022-07-23, 12:18:18",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 11,
     "date_started": "2022-07-23",
     "date_updated": "2022-07-23",
     "description": "EventViewer Bypass Uac Bof",
-    "forks_count": 4,
+    "forks_count": 6,
     "html_url": "https://github.com/Libraggbond/EventViewerBypassUacBof",
     "keywords": [
         "uac bypass"
@@ -489,8 +489,8 @@
     "repo_name": "EventViewerBypassUacBof",
     "repo_owner": "Libraggbond",
     "repotime": "2022-07-23, 12:44:34",
-    "stargazers_count": 23,
-    "watchers_count": 23
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 3,
@@ -743,7 +743,7 @@
     "date_started": "2020-01-16",
     "date_updated": "2022-07-17",
     "description": "Bypass WAF SQL Injection SQLMAP",
-    "forks_count": 64,
+    "forks_count": 62,
     "html_url": "https://github.com/gagaltotal/Bypass-WAF-SQLMAP",
     "keywords": [
         "sql injection"
@@ -752,8 +752,8 @@
     "repo_name": "Bypass-WAF-SQLMAP",
     "repo_owner": "gagaltotal",
     "repotime": "2022-07-17, 06:34:06",
-    "stargazers_count": 195,
-    "watchers_count": 195
+    "stargazers_count": 192,
+    "watchers_count": 192
 }
 {
     "commits_count": 8,
@@ -855,8 +855,8 @@
     "repo_name": "mec",
     "repo_owner": "jm33-m0",
     "repotime": "2022-07-14, 22:35:25",
-    "stargazers_count": 607,
-    "watchers_count": 607
+    "stargazers_count": 604,
+    "watchers_count": 604
 }
 {
     "commits_count": 4,
@@ -872,8 +872,8 @@
     "repo_name": "Host-header-injection-checker",
     "repo_owner": "DHIRAL2908",
     "repotime": "2022-07-14, 19:07:19",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 4,
@@ -914,7 +914,7 @@
     "date_started": "2016-06-16",
     "date_updated": "2022-07-14",
     "description": "🇺🇦 Windows driver with usermode interface which can hide processes, file-system and registry objects, protect processes and etc",
-    "forks_count": 501,
+    "forks_count": 500,
     "html_url": "https://github.com/JKornev/hidden",
     "keywords": [
         "Windows rce"
@@ -923,8 +923,8 @@
     "repo_name": "hidden",
     "repo_owner": "JKornev",
     "repotime": "2022-07-14, 00:48:44",
-    "stargazers_count": 1962,
-    "watchers_count": 1962
+    "stargazers_count": 1928,
+    "watchers_count": 1928
 }
 {
     "commits_count": 1,
@@ -1072,7 +1072,7 @@
     "date_started": "2018-08-11",
     "date_updated": "2022-07-11",
     "description": "This tool generates gopher link for exploiting SSRF and gaining RCE in various servers",
-    "forks_count": 398,
+    "forks_count": 389,
     "html_url": "https://github.com/tarunkant/Gopherus",
     "keywords": [
         "rce exploit",
@@ -1083,8 +1083,8 @@
     "repo_name": "Gopherus",
     "repo_owner": "tarunkant",
     "repotime": "2022-07-11, 17:41:56",
-    "stargazers_count": 3213,
-    "watchers_count": 3213
+    "stargazers_count": 3134,
+    "watchers_count": 3134
 }
 {
     "commits_count": 24,
@@ -1100,8 +1100,8 @@
     "repo_name": "Bypass-UAC",
     "repo_owner": "ElliotAlderson51",
     "repotime": "2022-07-11, 11:10:09",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 0,
@@ -1125,7 +1125,7 @@
     "date_started": "2021-10-13",
     "date_updated": "2022-07-11",
     "description": "Keycloak 12.0.1 - 'request_uri ' Blind Server-Side Request Forgery (SSRF) (Unauthenticated) ",
-    "forks_count": 4,
+    "forks_count": 5,
     "html_url": "https://github.com/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770",
     "keywords": [
         "server side request forgery"
@@ -1134,8 +1134,8 @@
     "repo_name": "Keycloak-12.0.1-CVE-2020-10770",
     "repo_owner": "ColdFusionX",
     "repotime": "2022-07-11, 11:01:21",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 5,
@@ -1406,7 +1406,7 @@
     "date_started": "2022-07-08",
     "date_updated": "2022-07-08",
     "description": "Cobalt Strike Beacon Object File (BOF) that uses WinStationConnect API to perform local/remote RDP session hijacking.",
-    "forks_count": 47,
+    "forks_count": 46,
     "html_url": "https://github.com/netero1010/RDPHijack-BOF",
     "keywords": [
         "session hijacking"
@@ -1415,8 +1415,8 @@
     "repo_name": "RDPHijack-BOF",
     "repo_owner": "netero1010",
     "repotime": "2022-07-08, 18:14:31",
-    "stargazers_count": 310,
-    "watchers_count": 310
+    "stargazers_count": 304,
+    "watchers_count": 304
 }
 {
     "commits_count": 13,
@@ -1610,8 +1610,8 @@
     "repo_name": "svg2raster-cheatsheet",
     "repo_owner": "yuriisanin",
     "repotime": "2022-07-05, 19:32:25",
-    "stargazers_count": 30,
-    "watchers_count": 30
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 8,
@@ -1627,8 +1627,8 @@
     "repo_name": "MoLFI",
     "repo_owner": "SNTSVV",
     "repotime": "2022-07-05, 17:09:36",
-    "stargazers_count": 31,
-    "watchers_count": 31
+    "stargazers_count": 32,
+    "watchers_count": 32
 }
 {
     "commits_count": 10,

@@ -138,8 +138,8 @@
     "repo_name": "Maltrail-v0.53-Exploit",
     "repo_owner": "spookier",
     "repotime": "2023-10-29, 10:22:55",
-    "stargazers_count": 51,
-    "watchers_count": 51
+    "stargazers_count": 48,
+    "watchers_count": 48
 }
 {
     "commits_count": 4,
@@ -284,8 +284,8 @@
     "repo_name": "CVE-2023-36802-MSKSSRV-LPE",
     "repo_owner": "x0rb3l",
     "repotime": "2023-10-24, 11:56:46",
-    "stargazers_count": 36,
-    "watchers_count": 36
+    "stargazers_count": 35,
+    "watchers_count": 35
 }
 {
     "commits_count": 1,
@@ -339,23 +339,6 @@
     "repotime": "2023-10-23, 17:37:12",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 7,
-    "date_started": "2023-10-23",
-    "date_updated": "2023-10-23",
-    "description": "An advanced LFI and RFI vulnerability scanner in Python using concurrent threading to test URLs for local file inclusion (LFI) and remote file inclusion (RFI) vulnerabilities.",
-    "forks_count": 2,
-    "html_url": "https://github.com/haroonawanofficial/LFIRFI-SecurityToolkit",
-    "keywords": [
-        "local file inclusion"
-    ],
-    "language": "Python",
-    "repo_name": "LFIRFI-SecurityToolkit",
-    "repo_owner": "haroonawanofficial",
-    "repotime": "2023-10-23, 21:28:57",
-    "stargazers_count": 2,
-    "watchers_count": 2
 }
 {
     "commits_count": 16,
@@ -413,7 +396,7 @@
     "date_started": "2023-10-21",
     "date_updated": "2023-10-21",
     "description": "A sensible no bullshit repo of summaries of reports on hackerone, bugcrowd and alike, that makes straight up sense and make it easy to repeat and automate. This is supposed to serve as my personal reference, but should be a good public index reference for like minded. ",
-    "forks_count": 2,
+    "forks_count": 1,
     "html_url": "https://github.com/holmes-py/reports-summary",
     "keywords": [
         "rce dos"
@@ -422,8 +405,8 @@
     "repo_name": "reports-summary",
     "repo_owner": "holmes-py",
     "repotime": "2023-10-21, 15:37:47",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 4,
@@ -473,8 +456,8 @@
     "repo_name": "Elevator",
     "repo_owner": "Kudaes",
     "repotime": "2023-10-19, 10:51:08",
-    "stargazers_count": 628,
-    "watchers_count": 628
+    "stargazers_count": 618,
+    "watchers_count": 618
 }
 {
     "commits_count": 1,
@@ -527,8 +510,8 @@
     "repo_name": "Kevin-Mitnick-Attack",
     "repo_owner": "Aleem20",
     "repotime": "2023-10-18, 12:14:04",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 101,
@@ -817,8 +800,8 @@
     "repo_name": "CVE-2021-40444",
     "repo_owner": "klezVirus",
     "repotime": "2023-10-11, 19:44:51",
-    "stargazers_count": 815,
-    "watchers_count": 815
+    "stargazers_count": 812,
+    "watchers_count": 812
 }
 {
     "commits_count": 14,
@@ -859,7 +842,7 @@
     "date_started": "2023-10-09",
     "date_updated": "2023-10-10",
     "description": "LPE exploit for CVE-2023-36802",
-    "forks_count": 39,
+    "forks_count": 38,
     "html_url": "https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802",
     "keywords": [
         "Win lpe exploitation",
@@ -875,15 +858,15 @@
     "repo_name": "Windows_MSKSSRV_LPE_CVE-2023-36802",
     "repo_owner": "chompie1337",
     "repotime": "2023-10-10, 13:44:05",
-    "stargazers_count": 165,
-    "watchers_count": 165
+    "stargazers_count": 162,
+    "watchers_count": 162
 }
 {
     "commits_count": 21,
     "date_started": "2021-03-26",
     "date_updated": "2023-10-10",
     "description": "Guide to SSRF",
-    "forks_count": 22,
+    "forks_count": 21,
     "html_url": "https://github.com/MustafaSky/Guide-to-SSRF",
     "keywords": [
         "ssrf"
@@ -892,8 +875,8 @@
     "repo_name": "Guide-to-SSRF",
     "repo_owner": "MustafaSky",
     "repotime": "2023-10-10, 11:17:21",
-    "stargazers_count": 72,
-    "watchers_count": 72
+    "stargazers_count": 70,
+    "watchers_count": 70
 }
 {
     "commits_count": 2,
@@ -1057,7 +1040,7 @@
     "date_started": "2020-02-11",
     "date_updated": "2023-10-03",
     "description": "      CREDITS SEQUENCE              NEWSPAPER HEADLINE MONTAGE:              HEADLINES flash before us, displaying their accompanying       photographs.              &amp;quot;UBERMAN - METRO CITY'S HERO AFTER DEFEATING MASTER MIND!              PHOTO: A chiseled, statuesque man wearing the COOLEST SUPER       HERO SUIT IMAGINABLE, COMPLETE WITH FLOWING CAPE, shines a       confident smile at the lens. This is UBERMAN, champion of       METRO CITY.              &amp;quot;UBERMAN DEFEATS MASTER MIND'S GIANT ROBOT!&amp;quot;              PHOTO: Wide-shot of Uberman in mid-flight lifting the GIANT       ROBOT in the sky above the city buildings.              &amp;quot;MASTER MIND ALL WET AFTER UBERMAN FOILS AQUARIUM HEIST!&amp;quot;              PHOTO: Uberman stands knee-deep in water. He has his enemy by       the collar. The villain blocks his face from the shot with a       METALLIC GAUNTLET.              The images start to flash by even quicker, each showing the       MYSTERIOUS VILLAIN in various stag...",
-    "forks_count": 81,
+    "forks_count": 80,
     "html_url": "https://github.com/rprokap/pset-9",
     "keywords": [
         "Windows use after free"
@@ -1066,8 +1049,8 @@
     "repo_name": "pset-9",
     "repo_owner": "rprokap",
     "repotime": "2023-10-03, 17:46:12",
-    "stargazers_count": 217,
-    "watchers_count": 217
+    "stargazers_count": 205,
+    "watchers_count": 205
 }
 {
     "commits_count": 24,

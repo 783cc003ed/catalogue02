@@ -200,8 +200,8 @@
     "repo_name": "CVE-2025-2294",
     "repo_owner": "Nxploited",
     "repotime": "2025-03-29, 23:24:58",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 6,
@@ -209,13 +209,13 @@
     "date_updated": "2025-03-30",
     "description": "Address Bar Spoofing Vulnerability.",
     "forks_count": 0,
-    "html_url": "https://github.com/slvignesh05/Address-Bar-Spoofing",
+    "html_url": "https://github.com/izumigoto/Address-Bar-Spoofing",
     "keywords": [
         "spoofing vulnerability"
     ],
     "language": "HTML",
     "repo_name": "Address-Bar-Spoofing",
-    "repo_owner": "slvignesh05",
+    "repo_owner": "izumigoto",
     "repotime": "2025-03-30, 00:48:38",
     "stargazers_count": 0,
     "watchers_count": 0
@@ -269,8 +269,8 @@
     "repo_name": "Directory-Traversal-Scanner",
     "repo_owner": "kingjly",
     "repotime": "2025-03-28, 09:47:48",
-    "stargazers_count": 33,
-    "watchers_count": 33
+    "stargazers_count": 29,
+    "watchers_count": 29
 }
 {
     "commits_count": 3,
@@ -303,25 +303,8 @@
     "repo_name": "quickssrf",
     "repo_owner": "caido-community",
     "repotime": "2025-03-27, 12:28:22",
-    "stargazers_count": 29,
-    "watchers_count": 29
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-03-25",
-    "date_updated": "2025-03-27",
-    "description": "PoC (Proof of Concept) de la CVE-2024-4367 - Vulnérabilité RCE dans libwebp.  Démonstration complète incluant : création de payloads, scénarios d'attaque, analyse des risques et serveur Express.js de test.",
-    "forks_count": 0,
-    "html_url": "https://github.com/elamani-drawing/CVE-2024-4367-POC-PDFJS",
-    "keywords": [
-        "rce proof of concept"
-    ],
-    "language": "HTML",
-    "repo_name": "CVE-2024-4367-POC-PDFJS",
-    "repo_owner": "elamani-drawing",
-    "repotime": "2025-03-27, 10:51:21",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 4,
@@ -345,7 +328,7 @@
     "date_started": "2025-03-27",
     "date_updated": "2025-03-27",
     "description": "Windows File Explorer Spoofing Vulnerability (CVE-2025-24071)",
-    "forks_count": 3,
+    "forks_count": 2,
     "html_url": "https://github.com/ThemeHackers/CVE-2025-24071",
     "keywords": [
         "spoofing vulnerability"
@@ -354,8 +337,8 @@
     "repo_name": "CVE-2025-24071",
     "repo_owner": "ThemeHackers",
     "repotime": "2025-03-27, 15:50:23",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 5,
@@ -550,7 +533,7 @@
     "date_started": "2024-09-15",
     "date_updated": "2025-03-24",
     "description": "POC - Unauthenticated RCE Flaw in Rejetto HTTP File Server - CVE-2024-23692 ",
-    "forks_count": 16,
+    "forks_count": 15,
     "html_url": "https://github.com/verylazytech/CVE-2024-23692",
     "keywords": [
         "unauthenticated rce",
@@ -560,8 +543,8 @@
     "repo_name": "CVE-2024-23692",
     "repo_owner": "verylazytech",
     "repotime": "2025-03-24, 12:08:18",
-    "stargazers_count": 42,
-    "watchers_count": 42
+    "stargazers_count": 40,
+    "watchers_count": 40
 }
 {
     "commits_count": 26,
@@ -602,7 +585,7 @@
     "date_started": "2025-02-28",
     "date_updated": "2025-03-23",
     "description": "ZeroDay-SentinalAI is a framework powered by AI with the potential to revolutionize cybersecurity by addressing one of the most challenging aspects of threat detection—unknown vulnerabilities.",
-    "forks_count": 1,
+    "forks_count": 0,
     "html_url": "https://github.com/RiturajSingh2004/ZeroDay-SentinalAI",
     "keywords": [
         "zero-day vulnerability"
@@ -611,8 +594,8 @@
     "repo_name": "ZeroDay-SentinalAI",
     "repo_owner": "RiturajSingh2004",
     "repotime": "2025-03-23, 19:31:26",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 17,
@@ -836,6 +819,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 28,
+    "date_started": "2024-10-07",
+    "date_updated": "2025-03-21",
+    "description": "(ICRA'25) &amp;quot;SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis&amp;quot;",
+    "forks_count": 3,
+    "html_url": "https://github.com/Keio-CSG/slamspoof",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "slamspoof",
+    "repo_owner": "Keio-CSG",
+    "repotime": "2025-03-21, 08:12:31",
+    "stargazers_count": 23,
+    "watchers_count": 23
+}
+{
     "commits_count": 1663,
     "date_started": "2018-06-13",
     "date_updated": "2025-03-20",
@@ -944,7 +944,7 @@
     "date_started": "2025-03-18",
     "date_updated": "2025-03-19",
     "description": "HUSKY – Products Filter Professional for WooCommerce plugin for WordPress is vulnerable to Local File Inclusion (LFI)",
-    "forks_count": 2,
+    "forks_count": 1,
     "html_url": "https://github.com/MuhammadWaseem29/CVE-2025-1661",
     "keywords": [
         "local file inclusion"
@@ -953,8 +953,8 @@
     "repo_name": "CVE-2025-1661",
     "repo_owner": "MuhammadWaseem29",
     "repotime": "2025-03-19, 00:10:16",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 889,
@@ -981,7 +981,7 @@
     "date_started": "2025-02-17",
     "date_updated": "2025-03-18",
     "description": "【Hello-CTF labs】一个ssrf的综合靶场，包含RCE，SQL注入，Tomcat，Redis，MySQL提权等ssrf攻击场景",
-    "forks_count": 4,
+    "forks_count": 3,
     "html_url": "https://github.com/ProbiusOfficial/ssrf-labs",
     "keywords": [
         "ssrf"
@@ -990,8 +990,8 @@
     "repo_name": "ssrf-labs",
     "repo_owner": "ProbiusOfficial",
     "repotime": "2025-03-18, 11:25:21",
-    "stargazers_count": 72,
-    "watchers_count": 72
+    "stargazers_count": 65,
+    "watchers_count": 65
 }
 {
     "commits_count": 2,
@@ -1024,8 +1024,8 @@
     "repo_name": "dsnap",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2025-03-17, 11:06:23",
-    "stargazers_count": 87,
-    "watchers_count": 87
+    "stargazers_count": 86,
+    "watchers_count": 86
 }
 {
     "commits_count": 27,
@@ -1113,21 +1113,38 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 16,
+    "date_started": "2024-08-06",
+    "date_updated": "2025-03-17",
+    "description": "<no description>",
+    "forks_count": 20,
+    "html_url": "https://github.com/ShadowByte1/XSS",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "XSS",
+    "repo_owner": "ShadowByte1",
+    "repotime": "2025-03-17, 09:53:09",
+    "stargazers_count": 113,
+    "watchers_count": 113
+}
+{
     "commits_count": 135,
     "date_started": "2024-08-05",
     "date_updated": "2025-03-16",
     "description": "VFGadget locator to facilitate Counterfeit Object-Oriented Programming (COOP) and Loop-Oriented Programming (LOP) attacks to bypass advanced security protections like Intel CET and Control-Flow Guard (CFG) to achieve Remote Code Execution.",
-    "forks_count": 2,
-    "html_url": "https://github.com/GB102/VirtualEXploiter",
+    "forks_count": 1,
+    "html_url": "https://github.com/mar-ket-vector/VXpp",
     "keywords": [
         "uaf exploit"
     ],
     "language": "Python",
-    "repo_name": "VirtualEXploiter",
-    "repo_owner": "GB102",
+    "repo_name": "VXpp",
+    "repo_owner": "mar-ket-vector",
     "repotime": "2025-03-16, 16:34:27",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 6,
@@ -1270,7 +1287,7 @@
     "date_started": "2025-03-14",
     "date_updated": "2025-03-14",
     "description": "his repository contains an automated Proof of Concept (PoC) script for exploiting **CVE-2025-24813**, a Remote Code Execution (RCE) vulnerability in Apache Tomcat. The vulnerability allows an attacker to upload a malicious serialized payload to the server, leading to arbitrary code execution via deserialization when specific conditions are met.",
-    "forks_count": 40,
+    "forks_count": 35,
     "html_url": "https://github.com/absholi7ly/POC-CVE-2025-24813",
     "keywords": [
         "remote code execution exploitation",
@@ -1284,8 +1301,8 @@
     "repo_name": "POC-CVE-2025-24813",
     "repo_owner": "absholi7ly",
     "repotime": "2025-03-14, 10:57:27",
-    "stargazers_count": 167,
-    "watchers_count": 167
+    "stargazers_count": 148,
+    "watchers_count": 148
 }
 {
     "commits_count": 2,
@@ -1339,21 +1356,21 @@
     "watchers_count": 9
 }
 {
-    "commits_count": 7,
-    "date_started": "2025-02-02",
+    "commits_count": 4,
+    "date_started": "2025-03-13",
     "date_updated": "2025-03-13",
-    "description": "UAC Bypass using RequestTrace scheduled task",
-    "forks_count": 3,
-    "html_url": "https://github.com/R41N3RZUF477/RequestTrace_UAC_Bypass",
+    "description": "HackTheBox Writeup: Advanced XML External Entity (XXE) Exploitation: File Disclosure, Blind OOB Exfiltration, and Remote Code Execution (RCE) via Misconfigured XML Parsers.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ramyardaneshgar/HTB-Writeup-XML-External-Entity-XXE-Exploitation",
     "keywords": [
-        "uac bypass"
+        "rce disclosure"
     ],
-    "language": "C",
-    "repo_name": "RequestTrace_UAC_Bypass",
-    "repo_owner": "R41N3RZUF477",
-    "repotime": "2025-03-13, 13:46:07",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "language": null,
+    "repo_name": "HTB-Writeup-XML-External-Entity-XXE-Exploitation",
+    "repo_owner": "ramyardaneshgar",
+    "repotime": "2025-03-13, 10:49:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 8,
@@ -1371,6 +1388,23 @@
     "repotime": "2025-03-12, 19:49:40",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-03-01",
+    "date_updated": "2025-03-12",
+    "description": "multi-bind bypass cfg for cs2 (working jb/lj/mj/de-subtick binds)",
+    "forks_count": 0,
+    "html_url": "https://github.com/1rubyrain/cfg",
+    "keywords": [
+        "cfg bypass"
+    ],
+    "language": null,
+    "repo_name": "cfg",
+    "repo_owner": "1rubyrain",
+    "repotime": "2025-03-12, 05:06:58",
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 5,
@@ -1394,7 +1428,7 @@
     "date_started": "2020-12-02",
     "date_updated": "2025-03-12",
     "description": "SQL Injection Vulnerability Scanner made with Python",
-    "forks_count": 75,
+    "forks_count": 72,
     "html_url": "https://github.com/americo/sqlifinder",
     "keywords": [
         "sql injection"
@@ -1403,8 +1437,8 @@
     "repo_name": "sqlifinder",
     "repo_owner": "americo",
     "repotime": "2025-03-12, 00:52:13",
-    "stargazers_count": 375,
-    "watchers_count": 375
+    "stargazers_count": 368,
+    "watchers_count": 368
 }
 {
     "commits_count": 3,
@@ -1617,7 +1651,7 @@
     "date_started": "2024-10-05",
     "date_updated": "2025-03-09",
     "description": "Burp Suite extension to look for web vulnerabilities such as XSS, SQL and Path Traversal",
-    "forks_count": 3,
+    "forks_count": 2,
     "html_url": "https://github.com/AElX01/javaWscan",
     "keywords": [
         "path traversal vulnerability"
@@ -1722,15 +1756,14 @@
     "forks_count": 0,
     "html_url": "https://github.com/SleepTheGod/PS5_Linux_Boot",
     "keywords": [
-        "smap bypass",
-        "smep bypass"
+        "smap bypass"
     ],
     "language": "Shell",
     "repo_name": "PS5_Linux_Boot",
     "repo_owner": "SleepTheGod",
     "repotime": "2025-03-07, 10:16:50",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 2,
@@ -1754,7 +1787,7 @@
     "date_started": "2022-08-26",
     "date_updated": "2025-03-07",
     "description": "This repository contains a sample Java application vulnerable to command injection and server-side request forgery (SSRF).",
-    "forks_count": 114,
+    "forks_count": 97,
     "html_url": "https://github.com/DataDog/vulnerable-java-application",
     "keywords": [
         "server side request forgery",
@@ -1764,8 +1797,8 @@
     "repo_name": "vulnerable-java-application",
     "repo_owner": "DataDog",
     "repotime": "2025-03-07, 11:34:42",
-    "stargazers_count": 22,
-    "watchers_count": 22
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 25,
@@ -1823,7 +1856,7 @@
     "date_started": "2023-08-18",
     "date_updated": "2025-03-06",
     "description": "Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | 实战场景较通用的 Java Rce 相关漏洞的利用方式",
-    "forks_count": 60,
+    "forks_count": 61,
     "html_url": "https://github.com/Whoopsunix/JavaRce",
     "keywords": [
         "rce vulnerability",
@@ -1834,15 +1867,15 @@
     "repo_name": "JavaRce",
     "repo_owner": "Whoopsunix",
     "repotime": "2025-03-06, 13:21:37",
-    "stargazers_count": 531,
-    "watchers_count": 531
+    "stargazers_count": 516,
+    "watchers_count": 516
 }
 {
     "commits_count": 65,
     "date_started": "2019-07-31",
     "date_updated": "2025-03-05",
     "description": "Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.",
-    "forks_count": 151,
+    "forks_count": 150,
     "html_url": "https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension",
     "keywords": [
         "by_owner"
@@ -1851,8 +1884,25 @@
     "repo_name": "IPRotate_Burp_Extension",
     "repo_owner": "RhinoSecurityLabs",
     "repotime": "2025-03-05, 10:02:53",
-    "stargazers_count": 874,
-    "watchers_count": 874
+    "stargazers_count": 869,
+    "watchers_count": 869
+}
+{
+    "commits_count": 25,
+    "date_started": "2025-02-16",
+    "date_updated": "2025-03-05",
+    "description": "fud uac-bypass for win 10-11, from user to system",
+    "forks_count": 2,
+    "html_url": "https://github.com/SilentDev33/uac-bypass-win11",
+    "keywords": [
+        "Win 0day"
+    ],
+    "language": "Roff",
+    "repo_name": "uac-bypass-win11",
+    "repo_owner": "SilentDev33",
+    "repotime": "2025-03-05, 21:01:38",
+    "stargazers_count": 38,
+    "watchers_count": 38
 }
 {
     "commits_count": 2,
@@ -1872,6 +1922,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 5,
+    "date_started": "2025-03-05",
+    "date_updated": "2025-03-05",
+    "description": "A **Command-Line Web Vulnerability Scanner** built in Python to scan websites for **SQL Injection, XSS, Directory Traversal**, and **Subdomain Enumeration** with **Tor &amp;amp; Proxy support** for anonymous scanning. The tool also generates an **HTML report** with the results.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Arya182-ui/Web_Venerability_Scanner",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Web_Venerability_Scanner",
+    "repo_owner": "Arya182-ui",
+    "repotime": "2025-03-05, 10:00:17",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 3,
     "date_started": "2025-03-03",
     "date_updated": "2025-03-04",
@@ -1879,15 +1946,14 @@
     "forks_count": 0,
     "html_url": "https://github.com/Qb7354vm/cybersecurity-threats-report",
     "keywords": [
-        "zero-day exploit",
-        "zero-day exploitation"
+        "zero-day exploit"
     ],
     "language": null,
     "repo_name": "cybersecurity-threats-report",
     "repo_owner": "Qb7354vm",
     "repotime": "2025-03-04, 18:53:38",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 5,
@@ -1907,6 +1973,23 @@
     "watchers_count": 2
 }
 {
+    "commits_count": 5,
+    "date_started": "2025-03-04",
+    "date_updated": "2025-03-03",
+    "description": "HackTheBox Writeup: Exploiting broken authentication vulnerabilities using enumeration, brute-force attacks, token manipulation, and session hijacking.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ramyardaneshgar/HTB-Writeup-BrokenAuthentication",
+    "keywords": [
+        "session attack"
+    ],
+    "language": null,
+    "repo_name": "HTB-Writeup-BrokenAuthentication",
+    "repo_owner": "ramyardaneshgar",
+    "repotime": "2025-03-03, 21:29:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 166,
     "date_started": "2024-10-09",
     "date_updated": "2025-03-03",
@@ -1920,8 +2003,8 @@
     "repo_name": "aungrecon",
     "repo_owner": "aungsanoo-usa",
     "repotime": "2025-03-03, 20:30:17",
-    "stargazers_count": 49,
-    "watchers_count": 49
+    "stargazers_count": 35,
+    "watchers_count": 35
 }
 {
     "commits_count": 3,
@@ -1979,7 +2062,7 @@
     "date_started": "2025-02-22",
     "date_updated": "2025-03-02",
     "description": "Creates Kubernetes Golden Tickets through ServiceAccount token forging and user certificate forging.",
-    "forks_count": 4,
+    "forks_count": 3,
     "html_url": "https://github.com/jtesta/k8s_spoofilizer",
     "keywords": [
         "spoofing certificate"
@@ -1988,8 +2071,8 @@
     "repo_name": "k8s_spoofilizer",
     "repo_owner": "jtesta",
     "repotime": "2025-03-02, 21:04:27",
-    "stargazers_count": 49,
-    "watchers_count": 49
+    "stargazers_count": 48,
+    "watchers_count": 48
 }
 {
     "commits_count": 9,

@@ -66,8 +66,8 @@
     "repo_name": "CVE-2023-32364-macos-app-sandbox-escape",
     "repo_owner": "gergelykalman",
     "repotime": "2023-09-26, 16:44:01",
-    "stargazers_count": 22,
-    "watchers_count": 22
+    "stargazers_count": 21,
+    "watchers_count": 21
 }
 {
     "commits_count": 1,
@@ -120,8 +120,8 @@
     "repo_name": "containers",
     "repo_owner": "trickest",
     "repotime": "2023-09-25, 15:39:20",
-    "stargazers_count": 69,
-    "watchers_count": 69
+    "stargazers_count": 67,
+    "watchers_count": 67
 }
 {
     "commits_count": 3,
@@ -269,7 +269,7 @@
     "date_started": "2020-08-13",
     "date_updated": "2023-09-16",
     "description": "An exquisite dns&amp;amp;http log server for verify SSRF/XXE/RFI/RCE vulnerability ",
-    "forks_count": 75,
+    "forks_count": 74,
     "html_url": "https://github.com/chennqqi/godnslog",
     "keywords": [
         "rce vulnerability",
@@ -305,7 +305,7 @@
     "date_started": "2023-09-14",
     "date_updated": "2023-09-14",
     "description": "Bypassing UAC with SSPI Datagram Contexts ",
-    "forks_count": 59,
+    "forks_count": 57,
     "html_url": "https://github.com/antonioCoco/SspiUacBypass",
     "keywords": [
         "uac bypass"
@@ -314,8 +314,8 @@
     "repo_name": "SspiUacBypass",
     "repo_owner": "antonioCoco",
     "repotime": "2023-09-14, 23:03:22",
-    "stargazers_count": 452,
-    "watchers_count": 452
+    "stargazers_count": 440,
+    "watchers_count": 440
 }
 {
     "commits_count": 19,
@@ -444,8 +444,8 @@
     "repo_name": "SMB-Session-Spoofing",
     "repo_owner": "Sq00ky",
     "repotime": "2023-09-12, 21:44:02",
-    "stargazers_count": 122,
-    "watchers_count": 122
+    "stargazers_count": 123,
+    "watchers_count": 123
 }
 {
     "commits_count": 6,
@@ -469,7 +469,7 @@
     "date_started": "2022-04-07",
     "date_updated": "2023-09-12",
     "description": "各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新",
-    "forks_count": 858,
+    "forks_count": 857,
     "html_url": "https://github.com/helloexp/0day",
     "keywords": [
         "0day exploit",
@@ -479,8 +479,8 @@
     "repo_name": "0day",
     "repo_owner": "helloexp",
     "repotime": "2023-09-12, 08:57:05",
-    "stargazers_count": 2199,
-    "watchers_count": 2199
+    "stargazers_count": 2195,
+    "watchers_count": 2195
 }
 {
     "commits_count": 13,
@@ -539,7 +539,7 @@
     "date_started": "2017-10-31",
     "date_updated": "2023-09-11",
     "description": "the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&amp;amp;java scripts, device memory extraction, data decryption, and encryption, etc. ",
-    "forks_count": 555,
+    "forks_count": 547,
     "html_url": "https://github.com/charles2gan/GDA-android-reversing-Tool",
     "keywords": [
         "memory leak vulnerability"
@@ -548,8 +548,8 @@
     "repo_name": "GDA-android-reversing-Tool",
     "repo_owner": "charles2gan",
     "repotime": "2023-09-11, 12:59:51",
-    "stargazers_count": 4573,
-    "watchers_count": 4573
+    "stargazers_count": 4495,
+    "watchers_count": 4495
 }
 {
     "commits_count": 6,
@@ -685,6 +685,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4,
+    "date_started": "2023-09-08",
+    "date_updated": "2023-09-08",
+    "description": "A single byte modification in the kernel memory bypasses and disables all core functions of the AV/EDR security solutions",
+    "forks_count": 0,
+    "html_url": "https://github.com/ByteWhite1x1/EDR-bypass-disable-PspNotifyEnableMask",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C",
+    "repo_name": "EDR-bypass-disable-PspNotifyEnableMask",
+    "repo_owner": "ByteWhite1x1",
+    "repotime": "2023-09-08, 14:17:24",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 6,
     "date_started": "2023-09-05",
     "date_updated": "2023-09-08",
@@ -805,11 +822,11 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 588,
+    "commits_count": 587,
     "date_started": "2015-03-12",
     "date_updated": "2023-09-04",
     "description": "㊙️ AntiXSS | Protection against Cross-site scripting (XSS) via PHP",
-    "forks_count": 109,
+    "forks_count": 108,
     "html_url": "https://github.com/voku/anti-xss",
     "keywords": [
         "xss"
@@ -818,8 +835,8 @@
     "repo_name": "anti-xss",
     "repo_owner": "voku",
     "repotime": "2023-09-04, 17:36:40",
-    "stargazers_count": 699,
-    "watchers_count": 699
+    "stargazers_count": 696,
+    "watchers_count": 696
 }
 {
     "commits_count": 1,
@@ -860,7 +877,7 @@
     "date_started": "2020-12-16",
     "date_updated": "2023-09-03",
     "description": "Demonstrates SQL injection attacks using malicious SQL queries and SQL prevention techniques.",
-    "forks_count": 19,
+    "forks_count": 20,
     "html_url": "https://github.com/AswinBarath/sql-injection-and-prevention",
     "keywords": [
         "sql injection"
@@ -978,8 +995,8 @@
     "repo_name": "CVE-2023-35001",
     "repo_owner": "synacktiv",
     "repotime": "2023-09-01, 09:48:33",
-    "stargazers_count": 165,
-    "watchers_count": 165
+    "stargazers_count": 163,
+    "watchers_count": 163
 }
 {
     "commits_count": 4,

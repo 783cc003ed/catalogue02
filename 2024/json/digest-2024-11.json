@@ -71,7 +71,7 @@
     "date_started": "2020-07-09",
     "date_updated": "2024-11-29",
     "description": "A collection of tiny XSS Payloads that can be used in different contexts. https://tinyxss.terjanq.me",
-    "forks_count": 218,
+    "forks_count": 211,
     "html_url": "https://github.com/terjanq/Tiny-XSS-Payloads",
     "keywords": [
         "xss"
@@ -80,8 +80,8 @@
     "repo_name": "Tiny-XSS-Payloads",
     "repo_owner": "terjanq",
     "repotime": "2024-11-29, 23:58:22",
-    "stargazers_count": 2219,
-    "watchers_count": 2219
+    "stargazers_count": 2141,
+    "watchers_count": 2141
 }
 {
     "commits_count": 5,
@@ -97,8 +97,8 @@
     "repo_name": "DNS-Spoofer",
     "repo_owner": "spider863644",
     "repotime": "2024-11-29, 18:19:50",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 5,
@@ -156,7 +156,7 @@
     "date_started": "2023-02-16",
     "date_updated": "2024-11-28",
     "description": "SQLMutant is a powerful SQL injection testing tool that includes both passive and active reconnaissance processes for any given domain. It filters URLs to identify those with parameters susceptible to SQL injection formats and then performs injection attacks. These attacks include pattern matching, error analysis, and timing attacks.",
-    "forks_count": 37,
+    "forks_count": 36,
     "html_url": "https://github.com/blackhatethicalhacking/SQLMutant",
     "keywords": [
         "sql injection"
@@ -165,8 +165,8 @@
     "repo_name": "SQLMutant",
     "repo_owner": "blackhatethicalhacking",
     "repotime": "2024-11-28, 22:06:35",
-    "stargazers_count": 158,
-    "watchers_count": 158
+    "stargazers_count": 150,
+    "watchers_count": 150
 }
 {
     "commits_count": 3,
@@ -190,7 +190,7 @@
     "date_started": "2020-07-06",
     "date_updated": "2024-11-28",
     "description": " A proof-of-concept Remote Desktop (RDP) session hijack utility",
-    "forks_count": 85,
+    "forks_count": 82,
     "html_url": "https://github.com/bohops/SharpRDPHijack",
     "keywords": [
         "session hijacking"
@@ -199,8 +199,8 @@
     "repo_name": "SharpRDPHijack",
     "repo_owner": "bohops",
     "repotime": "2024-11-28, 01:08:58",
-    "stargazers_count": 491,
-    "watchers_count": 491
+    "stargazers_count": 486,
+    "watchers_count": 486
 }
 {
     "commits_count": 2,
@@ -433,15 +433,14 @@
     "forks_count": 0,
     "html_url": "https://github.com/xthalach/CVE-2024-11318",
     "keywords": [
-        "session vulnerability",
-        "session hijacking attack"
+        "session vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2024-11318",
     "repo_owner": "xthalach",
     "repotime": "2024-11-25, 00:08:04",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 64,
@@ -584,7 +583,7 @@
     "date_started": "2016-07-14",
     "date_updated": "2024-11-21",
     "description": "<no description>",
-    "forks_count": 15,
+    "forks_count": 14,
     "html_url": "https://github.com/Invoke-IR/PowerForensicsPortable",
     "keywords": [
         "by_owner"
@@ -593,15 +592,15 @@
     "repo_name": "PowerForensicsPortable",
     "repo_owner": "Invoke-IR",
     "repotime": "2024-11-21, 08:48:49",
-    "stargazers_count": 33,
-    "watchers_count": 33
+    "stargazers_count": 32,
+    "watchers_count": 32
 }
 {
     "commits_count": 41,
     "date_started": "2015-05-06",
     "date_updated": "2024-11-21",
     "description": "<no description>",
-    "forks_count": 83,
+    "forks_count": 82,
     "html_url": "https://github.com/Invoke-IR/ForensicPosters",
     "keywords": [
         "by_owner"
@@ -610,8 +609,8 @@
     "repo_name": "ForensicPosters",
     "repo_owner": "Invoke-IR",
     "repotime": "2024-11-21, 08:48:15",
-    "stargazers_count": 450,
-    "watchers_count": 450
+    "stargazers_count": 447,
+    "watchers_count": 447
 }
 {
     "commits_count": 9,
@@ -627,8 +626,8 @@
     "repo_name": "PHPTickler",
     "repo_owner": "j4k0m",
     "repotime": "2024-11-21, 14:16:08",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 4,
@@ -695,8 +694,8 @@
     "repo_name": "XXE-Demos",
     "repo_owner": "Tib3rius",
     "repotime": "2024-11-20, 01:47:08",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 3,
@@ -712,15 +711,15 @@
     "repo_name": "CVE-2023-3722",
     "repo_owner": "pizza-power",
     "repotime": "2024-11-19, 13:44:35",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 40,
     "date_started": "2021-04-22",
     "date_updated": "2024-11-19",
     "description": "Collection of Windows Privilege Escalation (Analyse/PoC/Exploit)",
-    "forks_count": 79,
+    "forks_count": 78,
     "html_url": "https://github.com/ycdxsb/WindowsPrivilegeEscalation",
     "keywords": [
         "Win escalation of privileges poc",
@@ -734,8 +733,8 @@
     "repo_name": "WindowsPrivilegeEscalation",
     "repo_owner": "ycdxsb",
     "repotime": "2024-11-19, 21:39:12",
-    "stargazers_count": 420,
-    "watchers_count": 420
+    "stargazers_count": 418,
+    "watchers_count": 418
 }
 {
     "commits_count": 6,
@@ -785,8 +784,8 @@
     "repo_name": "abdal-anydesk-remote-ip-detector",
     "repo_owner": "ebrasha",
     "repotime": "2024-11-18, 18:39:29",
-    "stargazers_count": 35,
-    "watchers_count": 35
+    "stargazers_count": 37,
+    "watchers_count": 37
 }
 {
     "commits_count": 4,
@@ -870,8 +869,8 @@
     "repo_name": "CVE-2018-5955",
     "repo_owner": "MikeTheHash",
     "repotime": "2024-11-15, 17:36:27",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 1,
@@ -922,8 +921,8 @@
     "repo_name": "Fortijump-Exploit-CVE-2024-47575",
     "repo_owner": "watchtowrlabs",
     "repotime": "2024-11-14, 16:25:52",
-    "stargazers_count": 92,
-    "watchers_count": 92
+    "stargazers_count": 88,
+    "watchers_count": 88
 }
 {
     "commits_count": 7,
@@ -939,15 +938,15 @@
     "repo_name": "GWTMap",
     "repo_owner": "FSecureLABS",
     "repotime": "2024-11-14, 12:23:05",
-    "stargazers_count": 106,
-    "watchers_count": 106
+    "stargazers_count": 101,
+    "watchers_count": 101
 }
 {
     "commits_count": 28,
     "date_started": "2024-11-11",
     "date_updated": "2024-11-14",
     "description": "SQLMap Command Generator: A web-based tool to easily generate customizable SQLMap commands for testing SQL injection vulnerabilities. Features include target configuration, connection options, detection levels, and various SQL injection techniques. Perfect for penetration testers and security enthusiasts.",
-    "forks_count": 21,
+    "forks_count": 19,
     "html_url": "https://github.com/Acorzo1983/SQLMapCG",
     "keywords": [
         "sql injection"
@@ -956,8 +955,8 @@
     "repo_name": "SQLMapCG",
     "repo_owner": "Acorzo1983",
     "repotime": "2024-11-14, 12:52:11",
-    "stargazers_count": 75,
-    "watchers_count": 75
+    "stargazers_count": 69,
+    "watchers_count": 69
 }
 {
     "commits_count": 4,
@@ -998,7 +997,7 @@
     "date_started": "2021-10-28",
     "date_updated": "2024-11-13",
     "description": "Unauthenticated enumeration of AWS, Azure, and GCP Principals",
-    "forks_count": 33,
+    "forks_count": 32,
     "html_url": "https://github.com/righteousgambit/quiet-riot",
     "keywords": [
         "unauthenticated user"
@@ -1007,8 +1006,8 @@
     "repo_name": "quiet-riot",
     "repo_owner": "righteousgambit",
     "repotime": "2024-11-13, 13:41:26",
-    "stargazers_count": 246,
-    "watchers_count": 246
+    "stargazers_count": 235,
+    "watchers_count": 235
 }
 {
     "commits_count": 10,
@@ -1093,8 +1092,8 @@
     "repo_name": "Citrix-Virtual-Apps-XEN-Exploit",
     "repo_owner": "watchtowrlabs",
     "repotime": "2024-11-12, 14:29:32",
-    "stargazers_count": 196,
-    "watchers_count": 196
+    "stargazers_count": 195,
+    "watchers_count": 195
 }
 {
     "commits_count": 11,
@@ -1501,8 +1500,8 @@
     "repo_name": ".gg-axiomaccounts-1",
     "repo_owner": "RamanSamoil",
     "repotime": "2024-11-05, 16:30:55",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 75,
@@ -1535,23 +1534,6 @@
     "repo_name": ".gg-axiomaccounts-10",
     "repo_owner": "RamanSamoil",
     "repotime": "2024-11-05, 16:29:54",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 21,
-    "date_started": "2024-06-14",
-    "date_updated": "2024-11-05",
-    "description": "<no description>",
-    "forks_count": 153,
-    "html_url": "https://github.com/breatheco-de/incident-report-for-sql-injection-exercise-project",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": null,
-    "repo_name": "incident-report-for-sql-injection-exercise-project",
-    "repo_owner": "breatheco-de",
-    "repotime": "2024-11-05, 16:38:39",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -1611,7 +1593,7 @@
     "date_started": "2021-09-08",
     "date_updated": "2024-11-05",
     "description": "Automated Multi UAC BYPASS for win10|win11|win12-pre-release|ws2019|ws2022",
-    "forks_count": 77,
+    "forks_count": 74,
     "html_url": "https://github.com/x0xr00t/Automated-MUlti-UAC-Bypass",
     "keywords": [
         "uac bypass"
@@ -1620,8 +1602,8 @@
     "repo_name": "Automated-MUlti-UAC-Bypass",
     "repo_owner": "x0xr00t",
     "repotime": "2024-11-05, 13:45:21",
-    "stargazers_count": 450,
-    "watchers_count": 450
+    "stargazers_count": 445,
+    "watchers_count": 445
 }
 {
     "commits_count": 2,
@@ -1746,7 +1728,7 @@
     "commits_count": 6,
     "date_started": "2024-06-13",
     "date_updated": "2024-11-02",
-    "description": "This project simulates the effects of a buffer overflow and privilege escalation attack on a Windows system.",
+    "description": "This project simulates the effects of a buffer overflow and privilege escalation attack on a Windows system. The objective is to demonstrate the importance of vigilance and good practices in computer security, particularly when executing .exe files of unknown or suspicious origin.",
     "forks_count": 0,
     "html_url": "https://github.com/lyamss/Hakai",
     "keywords": [

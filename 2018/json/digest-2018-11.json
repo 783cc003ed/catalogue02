@@ -3,7 +3,7 @@
     "date_started": "2018-11-30",
     "date_updated": "2018-11-30",
     "description": "‪APT,‬ ‪Cyber warfare,‬ ‪Penetration testing,‬ ‪Zero-day,Exploiting,‬ ‪Spyware,Malwares evade anti-virus detection,‬ ‪Rookit CYPTER,‬ ‪Antiviruses Bypassing-av,‬ ‪WORMS,Sandbox-Escape,‬ ‪Memory-injection,‬ ‪Ethical,Gray,White,RedTeam‬...",
-    "forks_count": 260,
+    "forks_count": 258,
     "html_url": "https://github.com/jwx0539/hackingLibrary",
     "keywords": [
         "zero-day exploitation",
@@ -15,8 +15,8 @@
     "repo_name": "hackingLibrary",
     "repo_owner": "jwx0539",
     "repotime": "2018-11-30, 10:14:36",
-    "stargazers_count": 294,
-    "watchers_count": 294
+    "stargazers_count": 283,
+    "watchers_count": 283
 }
 {
     "commits_count": 2,
@@ -42,7 +42,7 @@
     "date_started": "2018-11-25",
     "date_updated": "2018-11-26",
     "description": "CVE-2018-19537",
-    "forks_count": 6,
+    "forks_count": 5,
     "html_url": "https://github.com/JackDoan/TP-Link-ArcherC5-RCE",
     "keywords": [
         "rce vulnerability"
@@ -51,8 +51,8 @@
     "repo_name": "TP-Link-ArcherC5-RCE",
     "repo_owner": "JackDoan",
     "repotime": "2018-11-26, 16:39:07",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 22,
@@ -78,7 +78,7 @@
     "date_started": "2018-11-14",
     "date_updated": "2018-11-26",
     "description": "Bypassing disabled exec functions in PHP (c) CRLF",
-    "forks_count": 64,
+    "forks_count": 63,
     "html_url": "https://github.com/Bo0oM/PHP_imap_open_exploit",
     "keywords": [
         "0day exploit"
@@ -87,8 +87,8 @@
     "repo_name": "PHP_imap_open_exploit",
     "repo_owner": "Bo0oM",
     "repotime": "2018-11-26, 10:47:04",
-    "stargazers_count": 404,
-    "watchers_count": 404
+    "stargazers_count": 402,
+    "watchers_count": 402
 }
 {
     "commits_count": 6,
@@ -216,7 +216,7 @@
     "date_started": "2015-03-27",
     "date_updated": "2018-11-14",
     "description": "fimap is a little python tool which can find, prepare, audit, exploit and even google automatically for local and remote file inclusion bugs in webapps.",
-    "forks_count": 100,
+    "forks_count": 101,
     "html_url": "https://github.com/kurobeats/fimap",
     "keywords": [
         "local file inclusion"
@@ -225,8 +225,8 @@
     "repo_name": "fimap",
     "repo_owner": "kurobeats",
     "repotime": "2018-11-14, 20:27:58",
-    "stargazers_count": 561,
-    "watchers_count": 561
+    "stargazers_count": 556,
+    "watchers_count": 556
 }
 {
     "commits_count": 5,
@@ -322,7 +322,7 @@
     "date_started": "2018-06-28",
     "date_updated": "2018-11-11",
     "description": "Docker image to test XXE attacks in java with tomcat.",
-    "forks_count": 3,
+    "forks_count": 1,
     "html_url": "https://github.com/pimps/docker-java-xxe",
     "keywords": [
         "xxe"
@@ -373,7 +373,7 @@
     "date_started": "2018-11-09",
     "date_updated": "2018-11-09",
     "description": "                    GNU GENERAL PUBLIC LICENSE                        Version 3, 29 June 2007   Copyright (C) 2007 Free Software Foundation, Inc. &amp;lt;https://fsf.org/&amp;gt;  Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.                              Preamble    The GNU General Public License is a free, copyleft license for software and other kinds of works.    The licenses for most software and other practical works are designed to take away your freedom to share and change the works.  By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users.  We, the Free Software Foundation, use the GNU General Public License for most of our software; it applies also to any other work released this way by its authors.  You can apply it to your programs, too.    When we speak of free software, we are refer...",
-    "forks_count": 2,
+    "forks_count": 1,
     "html_url": "https://github.com/dulanaDias/login-screen",
     "keywords": [
         "Windows use after free"
@@ -382,8 +382,8 @@
     "repo_name": "login-screen",
     "repo_owner": "dulanaDias",
     "repotime": "2018-11-09, 17:09:31",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 5,
@@ -459,7 +459,7 @@
     "date_started": "2018-09-12",
     "date_updated": "2018-11-04",
     "description": "Crascan is a simple LFI, RFI, RCE, and Joomla Components vulnerability scanner.",
-    "forks_count": 12,
+    "forks_count": 11,
     "html_url": "https://github.com/aryanrtm/Crascan",
     "keywords": [
         "lfi",

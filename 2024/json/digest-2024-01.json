@@ -99,8 +99,8 @@
     "repo_name": "session-hijacking",
     "repo_owner": "qeeqbox",
     "repotime": "2024-01-28, 17:00:13",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 11,
@@ -158,7 +158,7 @@
     "date_started": "2019-01-23",
     "date_updated": "2024-01-28",
     "description": "  A tool to embed XXE and XSS payloads in docx, odt, pptx, xlsx files (oxml_xxe on steroids)",
-    "forks_count": 103,
+    "forks_count": 100,
     "html_url": "https://github.com/whitel1st/docem",
     "keywords": [
         "xxe"
@@ -167,8 +167,8 @@
     "repo_name": "docem",
     "repo_owner": "whitel1st",
     "repotime": "2024-01-28, 15:41:50",
-    "stargazers_count": 651,
-    "watchers_count": 651
+    "stargazers_count": 629,
+    "watchers_count": 629
 }
 {
     "commits_count": 4,
@@ -201,8 +201,8 @@
     "repo_name": "CVE_2023_3420",
     "repo_owner": "paulsery",
     "repotime": "2024-01-26, 18:59:39",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 13,
@@ -319,15 +319,14 @@
     "forks_count": 5,
     "html_url": "https://github.com/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell",
     "keywords": [
-        "remote code execution vulnerability",
-        "rce vulnerability"
+        "remote code execution vulnerability"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-46604-ActiveMQ-RCE-pseudoshell",
     "repo_owner": "duck-sec",
     "repotime": "2024-01-24, 13:44:29",
-    "stargazers_count": 17,
-    "watchers_count": 17
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 8,
@@ -343,26 +342,25 @@
     "repo_name": "Valgrind-42",
     "repo_owner": "zakarm",
     "repotime": "2024-01-24, 11:30:52",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 9,
     "date_started": "2024-01-06",
     "date_updated": "2024-01-23",
     "description": "CVE-2023-52251 There is a Remote Code Execution vulnerability provectus/kafka-ui.",
-    "forks_count": 4,
+    "forks_count": 3,
     "html_url": "https://github.com/BobTheShoplifter/CVE-2023-52251-POC",
     "keywords": [
-        "remote code execution vulnerability",
-        "remote code execution poc"
+        "remote code execution vulnerability"
     ],
     "language": "JavaScript",
     "repo_name": "CVE-2023-52251-POC",
     "repo_owner": "BobTheShoplifter",
     "repotime": "2024-01-23, 20:06:14",
-    "stargazers_count": 20,
-    "watchers_count": 20
+    "stargazers_count": 19,
+    "watchers_count": 19
 }
 {
     "commits_count": 10,
@@ -513,6 +511,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 6,
+    "date_started": "2024-01-15",
+    "date_updated": "2024-01-17",
+    "description": "Laboratorio diseñado para practicar la vulnerabilidad web SSRF (Server Side Request Forgery)",
+    "forks_count": 0,
+    "html_url": "https://github.com/PumaHat/Lab_SSRF",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "HTML",
+    "repo_name": "Lab_SSRF",
+    "repo_owner": "PumaHat",
+    "repotime": "2024-01-17, 17:23:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 7,
     "date_started": "2024-01-15",
     "date_updated": "2024-01-17",
@@ -526,8 +541,8 @@
     "repo_name": "LongBow",
     "repo_owner": "StanleyJobsonAU",
     "repotime": "2024-01-17, 20:20:03",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 10,
@@ -822,8 +837,8 @@
     "repo_name": "LFI-FINDER",
     "repo_owner": "capture0x",
     "repotime": "2024-01-07, 17:51:26",
-    "stargazers_count": 301,
-    "watchers_count": 301
+    "stargazers_count": 296,
+    "watchers_count": 296
 }
 {
     "commits_count": 4,
@@ -915,7 +930,7 @@
     "date_started": "2016-12-11",
     "date_updated": "2024-01-03",
     "description": "A mini webserver with FTP support for XXE payloads",
-    "forks_count": 56,
+    "forks_count": 57,
     "html_url": "https://github.com/staaldraad/xxeserv",
     "keywords": [
         "xxe"
@@ -924,8 +939,8 @@
     "repo_name": "xxeserv",
     "repo_owner": "staaldraad",
     "repotime": "2024-01-03, 14:07:24",
-    "stargazers_count": 333,
-    "watchers_count": 333
+    "stargazers_count": 332,
+    "watchers_count": 332
 }
 {
     "commits_count": 16,
@@ -958,15 +973,15 @@
     "repo_name": "Stinger",
     "repo_owner": "hackerhouse-opensource",
     "repotime": "2024-01-02, 18:12:18",
-    "stargazers_count": 300,
-    "watchers_count": 300
+    "stargazers_count": 293,
+    "watchers_count": 293
 }
 {
     "commits_count": 17,
     "date_started": "2023-12-30",
     "date_updated": "2024-01-02",
     "description": "CIA UAC bypass implementation that utilizes elevated COM object to write to System32 and an auto-elevated process to execute as administrator.",
-    "forks_count": 31,
+    "forks_count": 30,
     "html_url": "https://github.com/hackerhouse-opensource/Artillery",
     "keywords": [
         "uac bypass"
@@ -975,8 +990,8 @@
     "repo_name": "Artillery",
     "repo_owner": "hackerhouse-opensource",
     "repotime": "2024-01-02, 18:03:46",
-    "stargazers_count": 182,
-    "watchers_count": 182
+    "stargazers_count": 176,
+    "watchers_count": 176
 }
 {
     "commits_count": 5,

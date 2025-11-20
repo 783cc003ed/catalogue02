@@ -97,8 +97,8 @@
     "repo_name": "Uber-Data-Analysis",
     "repo_owner": "drish08",
     "repotime": "2025-02-27, 16:58:38",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 2,
@@ -116,6 +116,23 @@
     "repotime": "2025-02-26, 14:46:05",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 118,
+    "date_started": "2018-10-15",
+    "date_updated": "2025-02-26",
+    "description": "Automatic SSRF fuzzer and exploitation tool",
+    "forks_count": 547,
+    "html_url": "https://github.com/swisskyrepo/SSRFmap",
+    "keywords": [
+        "ssrf"
+    ],
+    "language": "Python",
+    "repo_name": "SSRFmap",
+    "repo_owner": "swisskyrepo",
+    "repotime": "2025-02-26, 20:38:36",
+    "stargazers_count": 3251,
+    "watchers_count": 3251
 }
 {
     "commits_count": 73,
@@ -140,13 +157,13 @@
     "date_updated": "2025-02-26",
     "description": "This code is used to check for different browser vulnerabilities such as address bar spoofing, url spoofing etc.",
     "forks_count": 0,
-    "html_url": "https://github.com/slvignesh05/BrowserSec",
+    "html_url": "https://github.com/izumigoto/BrowserSec",
     "keywords": [
         "spoofing vulnerability"
     ],
     "language": "HTML",
     "repo_name": "BrowserSec",
-    "repo_owner": "slvignesh05",
+    "repo_owner": "izumigoto",
     "repotime": "2025-02-26, 19:53:27",
     "stargazers_count": 0,
     "watchers_count": 0
@@ -199,8 +216,8 @@
     "repo_name": "MagicADPwn",
     "repo_owner": "Mag1cByt3s",
     "repotime": "2025-02-26, 07:14:24",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 30,
@@ -220,11 +237,28 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 147,
+    "date_started": "2022-10-01",
+    "date_updated": "2025-02-26",
+    "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
+    "forks_count": 375,
+    "html_url": "https://github.com/r0oth3x49/ghauri",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "ghauri",
+    "repo_owner": "r0oth3x49",
+    "repotime": "2025-02-26, 00:09:45",
+    "stargazers_count": 3593,
+    "watchers_count": 3593
+}
+{
     "commits_count": 4725,
     "date_started": "2017-05-29",
     "date_updated": "2025-02-25",
     "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
-    "forks_count": 166,
+    "forks_count": 167,
     "html_url": "https://github.com/airbus-seclab/bincat",
     "keywords": [
         "use after free analysis"
@@ -233,8 +267,25 @@
     "repo_name": "bincat",
     "repo_owner": "airbus-seclab",
     "repotime": "2025-02-25, 17:53:49",
-    "stargazers_count": 1832,
-    "watchers_count": 1832
+    "stargazers_count": 1813,
+    "watchers_count": 1813
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-25",
+    "date_updated": "2025-02-25",
+    "description": "CSCI218 Session 1 2025 Group 32 Assignment Submission",
+    "forks_count": 0,
+    "html_url": "https://github.com/lester-liam/csci218-diabetes-risk-prediction",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "csci218-diabetes-risk-prediction",
+    "repo_owner": "lester-liam",
+    "repotime": "2025-02-25, 17:21:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -258,7 +309,7 @@
     "date_started": "2025-02-18",
     "date_updated": "2025-02-25",
     "description": "UAC Bypass using UIAccess program QuickAssist",
-    "forks_count": 15,
+    "forks_count": 12,
     "html_url": "https://github.com/R41N3RZUF477/QuickAssist_UAC_Bypass",
     "keywords": [
         "uac bypass"
@@ -267,8 +318,8 @@
     "repo_name": "QuickAssist_UAC_Bypass",
     "repo_owner": "R41N3RZUF477",
     "repotime": "2025-02-25, 02:25:30",
-    "stargazers_count": 123,
-    "watchers_count": 123
+    "stargazers_count": 106,
+    "watchers_count": 106
 }
 {
     "commits_count": 3,
@@ -286,6 +337,23 @@
     "repotime": "2025-02-24, 17:18:44",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 22,
+    "date_started": "2023-11-19",
+    "date_updated": "2025-02-24",
+    "description": "xxe漏洞靶场",
+    "forks_count": 0,
+    "html_url": "https://github.com/mcc0624/XXE",
+    "keywords": [
+        "xxe"
+    ],
+    "language": "CSS",
+    "repo_name": "XXE",
+    "repo_owner": "mcc0624",
+    "repotime": "2025-02-24, 23:50:44",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 1,
@@ -309,7 +377,7 @@
     "date_started": "2015-05-28",
     "date_updated": "2025-02-24",
     "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows &amp;amp; Linux",
-    "forks_count": 568,
+    "forks_count": 556,
     "html_url": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
     "keywords": [
         "vulnerability",
@@ -323,8 +391,8 @@
     "repo_name": "HackSysExtremeVulnerableDriver",
     "repo_owner": "hacksysteam",
     "repotime": "2025-02-24, 17:49:16",
-    "stargazers_count": 2837,
-    "watchers_count": 2837
+    "stargazers_count": 2727,
+    "watchers_count": 2727
 }
 {
     "commits_count": 2450,
@@ -417,7 +485,7 @@
     "date_started": "2022-01-04",
     "date_updated": "2025-02-23",
     "description": "WPF Partial Trust Security Article 10 minutes to read In general, Internet applications should be restricted from having direct access to critical system resources, to prevent malicious damage. By default, HTML and client-side scripting languages are not able to access critical system resources. Because Windows Presentation Foundation (WPF) browser-hosted applications can be launched from the browser, they should conform to a similar set of restrictions. To enforce these restrictions, WPF relies on both Code Access Security (CAS) and ClickOnce (see WPF Security Strategy - Platform Security). By default, browser-hosted applications request the Internet zone CAS set of permissions, irrespective of whether they are launched from the Internet, the local intranet, or the local computer. Applications that run with anything less than the full set of permissions are said to be running with partial trust. WPF provides a wide variety of support to ensure that as much functionality as possible ca...",
-    "forks_count": 6,
+    "forks_count": 4,
     "html_url": "https://github.com/lhai36366/lhai36366",
     "keywords": [
         "cross-side-scripting"
@@ -426,8 +494,8 @@
     "repo_name": "lhai36366",
     "repo_owner": "lhai36366",
     "repotime": "2025-02-23, 05:22:29",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 3,
@@ -495,15 +563,15 @@
     "repo_name": "ZombifyDocker",
     "repo_owner": "4m3rr0r",
     "repotime": "2025-02-22, 11:18:57",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 51,
     "date_started": "2021-10-17",
     "date_updated": "2025-02-21",
     "description": "Consider  the  design  of  a  database  for  a  web  site  that  allow  people  to  buy  and  sell  a  cypto called PPS (see website testing.ppswap.org). Only registered users can buy and sell PPS. Each user is identified by a userid, which is an email, first name, last name, birthday, address (street number, street, city, state, and zip code), balance of PPS and balance of dollar.  Initially, both PPS and dollar balances are zero. A user can withdraw and deposit dollars. A special user root (this is the only user whose id is root and not an email) initially will have the whole supply of PPS, which is 1T. A user will sell and buy PPS only with this special user root (in real life, this special root might be just a smart contract). The price of the PPS is set to 1M/$ initially. For the simplicity of this project, we assume each buy will increase the price by a little: each dollar can buy 1 less PPS after each buy. In the same way, each sell will decrease the price a little bit:  each  d...",
-    "forks_count": 3,
+    "forks_count": 5,
     "html_url": "https://github.com/jonschumaker/PPS_Project",
     "keywords": [
         "hard coded password"
@@ -514,6 +582,23 @@
     "repotime": "2025-02-21, 20:40:55",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-02-21",
+    "date_updated": "2025-02-21",
+    "description": "Validate file system paths to prevent errors and directory traversal attacks",
+    "forks_count": 0,
+    "html_url": "https://github.com/Le0X8/safepath",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Rust",
+    "repo_name": "safepath",
+    "repo_owner": "Le0X8",
+    "repotime": "2025-02-21, 13:36:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 48,
@@ -573,13 +658,13 @@
     "date_updated": "2025-02-20",
     "description": "Illustrating session hijacking...",
     "forks_count": 0,
-    "html_url": "https://github.com/venantvr-security/Python.Session.Hijacking",
+    "html_url": "https://github.com/venantvr/Python.Session.Hijacking",
     "keywords": [
         "session hijacking"
     ],
     "language": "Python",
     "repo_name": "Python.Session.Hijacking",
-    "repo_owner": "venantvr-security",
+    "repo_owner": "venantvr",
     "repotime": "2025-02-20, 14:37:50",
     "stargazers_count": 0,
     "watchers_count": 0
@@ -649,8 +734,25 @@
     "repo_name": "CVE-2025-24016",
     "repo_owner": "0xjessie21",
     "repotime": "2025-02-19, 23:33:45",
-    "stargazers_count": 41,
-    "watchers_count": 41
+    "stargazers_count": 39,
+    "watchers_count": 39
+}
+{
+    "commits_count": 37,
+    "date_started": "2024-11-10",
+    "date_updated": "2025-02-19",
+    "description": "A command-line tool for analyzing the vulnerability of domain names to email spoofing attacks and suggesting changes for mitigation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/v1sc0/stopemailspoofing",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Go",
+    "repo_name": "stopemailspoofing",
+    "repo_owner": "v1sc0",
+    "repotime": "2025-02-19, 06:57:17",
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 3,
@@ -674,7 +776,7 @@
     "date_started": "2025-02-11",
     "date_updated": "2025-02-18",
     "description": "Safari 1day RCE Exploit",
-    "forks_count": 28,
+    "forks_count": 26,
     "html_url": "https://github.com/wh1te4ever/WebKit-Bug-256172",
     "keywords": [
         "rce exploit",
@@ -684,8 +786,8 @@
     "repo_name": "WebKit-Bug-256172",
     "repo_owner": "wh1te4ever",
     "repotime": "2025-02-18, 17:58:05",
-    "stargazers_count": 150,
-    "watchers_count": 150
+    "stargazers_count": 141,
+    "watchers_count": 141
 }
 {
     "commits_count": 3,
@@ -701,8 +803,8 @@
     "repo_name": "AmsiBypassUacDetector",
     "repo_owner": "wwh1004",
     "repotime": "2025-02-18, 16:18:17",
-    "stargazers_count": 26,
-    "watchers_count": 26
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 3,
@@ -761,7 +863,7 @@
     "date_started": "2025-02-14",
     "date_updated": "2025-02-17",
     "description": "A multi-threaded web vulnerability fuzzer for automated testing of common web application flaws—XSS, SQLi, LFI, and more—featuring URL-based, crawler, and raw HTTP request modes with integrated session and authentication management.",
-    "forks_count": 1,
+    "forks_count": 0,
     "html_url": "https://github.com/Tharbouch/WebVulnFuzz",
     "keywords": [
         "session vulnerability"
@@ -770,8 +872,8 @@
     "repo_name": "WebVulnFuzz",
     "repo_owner": "Tharbouch",
     "repotime": "2025-02-17, 10:54:51",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 1,
@@ -965,7 +1067,7 @@
     "date_started": "2024-10-26",
     "date_updated": "2025-02-13",
     "description": "基于 BurpSuite 新版 MontoyaAPI 的 SSRF 漏洞自动探测插件",
-    "forks_count": 7,
+    "forks_count": 5,
     "html_url": "https://github.com/banchengkemeng/Auto-SSRF",
     "keywords": [
         "ssrf"
@@ -974,8 +1076,8 @@
     "repo_name": "Auto-SSRF",
     "repo_owner": "banchengkemeng",
     "repotime": "2025-02-13, 13:59:13",
-    "stargazers_count": 116,
-    "watchers_count": 116
+    "stargazers_count": 102,
+    "watchers_count": 102
 }
 {
     "commits_count": 2,
@@ -1010,6 +1112,23 @@
     "repotime": "2025-02-12, 15:32:07",
     "stargazers_count": 2,
     "watchers_count": 2
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-02-12",
+    "date_updated": "2025-02-12",
+    "description": "Web Applications Vulnerable to Path Traversal",
+    "forks_count": 0,
+    "html_url": "https://github.com/hashacademy/hash-path-traversal-vulnerable-labs",
+    "keywords": [
+        "path traversal vulnerability"
+    ],
+    "language": "JavaScript",
+    "repo_name": "hash-path-traversal-vulnerable-labs",
+    "repo_owner": "hashacademy",
+    "repotime": "2025-02-12, 21:30:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 2,
@@ -1080,23 +1199,39 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 8,
+    "date_started": "2024-09-09",
+    "date_updated": "2025-02-12",
+    "description": "Xninjaz is a powerful and versatile multi-vulnerability scanner designed to detect various web application vulnerabilities, including Local File Inclusion (LFI), Open Redirects (OR), SQL Injection (SQLi), and Cross-Site Scripting (XSS). This tool was created by Mr.X",
+    "forks_count": 3,
+    "html_url": "https://github.com/Whomrx666/Xninjaz",
+    "keywords": [
+        "local file inclusion"
+    ],
+    "language": "Python",
+    "repo_name": "Xninjaz",
+    "repo_owner": "Whomrx666",
+    "repotime": "2025-02-12, 13:36:18",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
     "commits_count": 4,
     "date_started": "2025-01-08",
     "date_updated": "2025-02-12",
     "description": "Proof-of-Concept script for WordPress plugin Bit File Manager version 6.0 - 6.5.5 Unauthenticated Remote Code Execution via Race Condition (CVE-2024-7627) vulnerability",
-    "forks_count": 2,
+    "forks_count": 1,
     "html_url": "https://github.com/siunam321/CVE-2024-7627-PoC",
     "keywords": [
         "remote code execution proof of concept",
-        "unauthenticated remote code execution",
-        "remote code execution poc"
+        "unauthenticated remote code execution"
     ],
     "language": "Python",
     "repo_name": "CVE-2024-7627-PoC",
     "repo_owner": "siunam321",
     "repotime": "2025-02-12, 13:16:00",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 3,
@@ -1129,8 +1264,8 @@
     "repo_name": "RayVLite",
     "repo_owner": "ProjectLOREM",
     "repotime": "2025-02-11, 20:05:56",
-    "stargazers_count": 28,
-    "watchers_count": 28
+    "stargazers_count": 27,
+    "watchers_count": 27
 }
 {
     "commits_count": 1,
@@ -1222,7 +1357,7 @@
     "date_started": "2024-07-23",
     "date_updated": "2025-02-10",
     "description": "Advanced SQL Injection Techniques for Bug Bounty Hunters",
-    "forks_count": 78,
+    "forks_count": 77,
     "html_url": "https://github.com/ifconfig-me/SQL_Injection-Techniques",
     "keywords": [
         "sql injection"
@@ -1231,8 +1366,8 @@
     "repo_name": "SQL_Injection-Techniques",
     "repo_owner": "ifconfig-me",
     "repotime": "2025-02-10, 23:30:03",
-    "stargazers_count": 138,
-    "watchers_count": 138
+    "stargazers_count": 130,
+    "watchers_count": 130
 }
 {
     "commits_count": 1,
@@ -1290,7 +1425,7 @@
     "date_started": "2024-07-14",
     "date_updated": "2025-02-10",
     "description": "List of Directory Traversal/LFI Payloads Scraped from the Internet",
-    "forks_count": 38,
+    "forks_count": 34,
     "html_url": "https://github.com/ifconfig-me/Directory-Traversal-Payloads",
     "keywords": [
         "lfi"
@@ -1299,8 +1434,8 @@
     "repo_name": "Directory-Traversal-Payloads",
     "repo_owner": "ifconfig-me",
     "repotime": "2025-02-10, 06:27:53",
-    "stargazers_count": 179,
-    "watchers_count": 179
+    "stargazers_count": 178,
+    "watchers_count": 178
 }
 {
     "commits_count": 24,
@@ -1489,6 +1624,23 @@
     "repotime": "2025-02-08, 05:52:44",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-02-07",
+    "date_updated": "2025-02-07",
+    "description": "Cityworks deserialization of untrusted data vulnerability Detection",
+    "forks_count": 0,
+    "html_url": "https://github.com/rxerium/CVE-2025-0994",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-0994",
+    "repo_owner": "rxerium",
+    "repotime": "2025-02-07, 14:15:32",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 2,
@@ -1681,8 +1833,8 @@
     "repo_name": "advanced-sql-injection-for-awae",
     "repo_owner": "shreyaschavhan",
     "repotime": "2025-02-05, 10:53:10",
-    "stargazers_count": 204,
-    "watchers_count": 204
+    "stargazers_count": 202,
+    "watchers_count": 202
 }
 {
     "commits_count": 2,
@@ -1936,8 +2088,8 @@
     "repo_name": "berate_ap",
     "repo_owner": "sensepost",
     "repotime": "2025-02-03, 11:46:09",
-    "stargazers_count": 241,
-    "watchers_count": 241
+    "stargazers_count": 243,
+    "watchers_count": 243
 }
 {
     "commits_count": 5,
@@ -2055,6 +2207,23 @@
     "repo_name": "Bank-Loan-Prediction",
     "repo_owner": "AkshatAgg29",
     "repotime": "2025-02-01, 19:15:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-01-31",
+    "date_updated": "2025-02-01",
+    "description": "This repository contains a kernel exploit for PlayStation 4 firmware 6.72. The exploit leverages a vulnerability in the system kernel to achieve privilege escalation, allowing execution of unsigned code and jailbreak functionalities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Yonicodedemon/yg",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "yg",
+    "repo_owner": "Yonicodedemon",
+    "repotime": "2025-02-01, 14:07:52",
     "stargazers_count": 0,
     "watchers_count": 0
 }

@@ -238,7 +238,7 @@
     "date_started": "2019-05-21",
     "date_updated": "2019-05-21",
     "description": "Cisco Exploit  (CVE-2019-1821 Cisco Prime Infrastructure Remote Code Execution/CVE-2019-1653/Cisco SNMP RCE/Dump Cisco RV320 Password)",
-    "forks_count": 60,
+    "forks_count": 59,
     "html_url": "https://github.com/k8gege/CiscoExploit",
     "keywords": [
         "0day exploit",
@@ -255,15 +255,15 @@
     "repo_name": "CiscoExploit",
     "repo_owner": "k8gege",
     "repotime": "2019-05-21, 22:52:35",
-    "stargazers_count": 135,
-    "watchers_count": 135
+    "stargazers_count": 133,
+    "watchers_count": 133
 }
 {
     "commits_count": 7,
     "date_started": "2019-03-02",
     "date_updated": "2019-05-20",
     "description": "SEIS 665 Assignment 2: Linux &amp;amp; Git Overview This week we will focus on becoming familiar with launching a Linux server and working with some basic Linux and Git commands. We will use AWS to launch and host the Linux server. AWS might seem a little confusing at this point. Don’t worry, we will gain much more hands-on experience with AWS throughout the course. The goal is to get you comfortable working with the technology and not overwhelm you with all the details.  Requirements You need to have a personal AWS account and GitHub account for this assignment. You should also read the Git Hands-on Guide and Linux Hands-on Guide before beginning this exercise.  A word about grading One of the key DevOps practices we learn about in this class is the use of automation to increase the speed and repeatability of processes. Automation is utilized during the assignment grading process to review and assess your work.  It’s important that you follow the instructions in each assignment and type i...",
-    "forks_count": 20,
+    "forks_count": 18,
     "html_url": "https://github.com/nyaundid/EC2-AWS-AND-SHELL",
     "keywords": [
         "Windows escalation of privileges",
@@ -274,8 +274,8 @@
     "repo_name": "EC2-AWS-AND-SHELL",
     "repo_owner": "nyaundid",
     "repotime": "2019-05-20, 20:12:16",
-    "stargazers_count": 42,
-    "watchers_count": 42
+    "stargazers_count": 41,
+    "watchers_count": 41
 }
 {
     "commits_count": 1,
@@ -291,8 +291,8 @@
     "repo_name": "injectvm-binderjack",
     "repo_owner": "Chainfire",
     "repotime": "2019-05-20, 13:38:28",
-    "stargazers_count": 245,
-    "watchers_count": 245
+    "stargazers_count": 236,
+    "watchers_count": 236
 }
 {
     "commits_count": 2,
@@ -559,7 +559,7 @@
     "date_started": "2019-05-06",
     "date_updated": "2019-05-09",
     "description": "Zimbra邮件系统漏洞 XXE/RCE/SSRF/Upload GetShell Exploit  1. (CVE-2019-9621 Zimbra&amp;lt;8.8.11  XXE GetShell Exploit)",
-    "forks_count": 42,
+    "forks_count": 41,
     "html_url": "https://github.com/k8gege/ZimbraExploit",
     "keywords": [
         "0day exploit",
@@ -574,8 +574,8 @@
     "repo_name": "ZimbraExploit",
     "repo_owner": "k8gege",
     "repotime": "2019-05-09, 00:22:58",
-    "stargazers_count": 76,
-    "watchers_count": 76
+    "stargazers_count": 74,
+    "watchers_count": 74
 }
 {
     "commits_count": 6,
@@ -599,7 +599,7 @@
     "date_started": "2018-02-26",
     "date_updated": "2019-05-05",
     "description": "JShell - Get a JavaScript shell with XSS.",
-    "forks_count": 136,
+    "forks_count": 139,
     "html_url": "https://github.com/s0md3v/JShell",
     "keywords": [
         "xss"
@@ -608,8 +608,8 @@
     "repo_name": "JShell",
     "repo_owner": "s0md3v",
     "repotime": "2019-05-05, 15:49:40",
-    "stargazers_count": 527,
-    "watchers_count": 527
+    "stargazers_count": 526,
+    "watchers_count": 526
 }
 {
     "commits_count": 5,
@@ -719,7 +719,7 @@
     "date_started": "2019-04-30",
     "date_updated": "2019-05-01",
     "description": "<no description>",
-    "forks_count": 45,
+    "forks_count": 49,
     "html_url": "https://github.com/D4stiny/Dell-Support-Assist-RCE-PoC",
     "keywords": [
         "rce poc"

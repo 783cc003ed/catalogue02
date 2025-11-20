@@ -50,6 +50,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 32,
+    "date_started": "2024-02-19",
+    "date_updated": "2024-02-29",
+    "description": "EasyBuggy is a broken web application in order to understand behavior of bugs and vulnerabilities, for example, memory leak, deadlock, JVM crash, SQL injection and so on.",
+    "forks_count": 0,
+    "html_url": "https://github.com/berhane02/terraform-devsecops",
+    "keywords": [
+        "memory leak vulnerability"
+    ],
+    "language": "Java",
+    "repo_name": "terraform-devsecops",
+    "repo_owner": "berhane02",
+    "repotime": "2024-02-29, 01:14:45",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 1,
     "date_started": "2024-02-27",
     "date_updated": "2024-02-27",
@@ -173,8 +190,8 @@
     "repo_name": "CVE-2024-25600",
     "repo_owner": "Chocapikk",
     "repotime": "2024-02-25, 22:50:06",
-    "stargazers_count": 174,
-    "watchers_count": 174
+    "stargazers_count": 168,
+    "watchers_count": 168
 }
 {
     "commits_count": 6,
@@ -208,8 +225,8 @@
     "repo_name": "RuoYi-v4.7.8-RCE-POC",
     "repo_owner": "luelueking",
     "repotime": "2024-02-25, 15:26:32",
-    "stargazers_count": 244,
-    "watchers_count": 244
+    "stargazers_count": 241,
+    "watchers_count": 241
 }
 {
     "commits_count": 2,
@@ -253,7 +270,7 @@
     "date_started": "2024-02-23",
     "date_updated": "2024-02-24",
     "description": "Bu betik, Microsoft Outlook'ta keşfedilen ve CVSS değeri 9.8 olan önemli bir güvenlik açığı olan CVE-2024-21413 için bir kavram kanıtı (PoC) sunmaktadır. MonikerLink hatası olarak adlandırılan bu güvenlik açığı, yerel NTLM bilgilerinin potansiyel sızıntısı ve uzaktan kod çalıştırma olasılığı dahil olmak üzere geniş kapsamlı etkilere sahiptir.",
-    "forks_count": 2,
+    "forks_count": 1,
     "html_url": "https://github.com/ahmetkarakayaoffical/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
     "keywords": [
         "Microsoft remote code execution vulnerability",
@@ -439,8 +456,8 @@
     "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
     "repo_owner": "Mdusmandasthaheer",
     "repotime": "2024-02-20, 19:07:39",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 12,
@@ -481,7 +498,7 @@
     "date_started": "2024-02-16",
     "date_updated": "2024-02-19",
     "description": "Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
-    "forks_count": 160,
+    "forks_count": 159,
     "html_url": "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
     "keywords": [
         "Microsoft remote code execution",
@@ -492,8 +509,8 @@
     "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
     "repo_owner": "xaitax",
     "repotime": "2024-02-19, 21:00:35",
-    "stargazers_count": 742,
-    "watchers_count": 742
+    "stargazers_count": 731,
+    "watchers_count": 731
 }
 {
     "commits_count": 1,
@@ -594,8 +611,8 @@
     "repo_name": "tn-tame-session-defaults",
     "repo_owner": "timnashcouk",
     "repotime": "2024-02-17, 21:28:15",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 34,
@@ -655,7 +672,7 @@
     "date_started": "2024-02-16",
     "date_updated": "2024-02-16",
     "description": "Collection of UAC Bypass Techniques Weaponized as BOFs",
-    "forks_count": 69,
+    "forks_count": 65,
     "html_url": "https://github.com/icyguider/UAC-BOF-Bonanza",
     "keywords": [
         "uac bypass"
@@ -664,8 +681,8 @@
     "repo_name": "UAC-BOF-Bonanza",
     "repo_owner": "icyguider",
     "repotime": "2024-02-16, 09:57:46",
-    "stargazers_count": 564,
-    "watchers_count": 564
+    "stargazers_count": 520,
+    "watchers_count": 520
 }
 {
     "commits_count": 3,
@@ -814,22 +831,21 @@
         "unauthenticated remote code execution",
         "rce vulnerability",
         "remote code execution vulnerability",
-        "remote code execution exploit",
-        "unauthenticated rce"
+        "remote code execution exploit"
     ],
     "language": "Python",
     "repo_name": "CVE-2023-6553",
     "repo_owner": "Chocapikk",
     "repotime": "2024-02-07, 00:22:25",
-    "stargazers_count": 76,
-    "watchers_count": 76
+    "stargazers_count": 75,
+    "watchers_count": 75
 }
 {
     "commits_count": 11,
     "date_started": "2024-02-04",
     "date_updated": "2024-02-05",
     "description": "Nuclei template for CVE-2024-23897 (Jenkins LFI Vulnerability)",
-    "forks_count": 6,
+    "forks_count": 5,
     "html_url": "https://github.com/kaanatmacaa/CVE-2024-23897",
     "keywords": [
         "lfi"
@@ -838,8 +854,8 @@
     "repo_name": "CVE-2024-23897",
     "repo_owner": "kaanatmacaa",
     "repotime": "2024-02-05, 17:10:26",
-    "stargazers_count": 20,
-    "watchers_count": 20
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 12,
@@ -855,8 +871,8 @@
     "repo_name": "UAC-Exploit",
     "repo_owner": "DosX-dev",
     "repotime": "2024-02-04, 17:06:57",
-    "stargazers_count": 168,
-    "watchers_count": 168
+    "stargazers_count": 170,
+    "watchers_count": 170
 }
 {
     "commits_count": 3,
@@ -926,8 +942,8 @@
     "repo_name": "CVE-2024-21893.py",
     "repo_owner": "h4x0r-dz",
     "repotime": "2024-02-03, 00:27:09",
-    "stargazers_count": 91,
-    "watchers_count": 91
+    "stargazers_count": 90,
+    "watchers_count": 90
 }
 {
     "commits_count": 3,

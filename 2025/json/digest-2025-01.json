@@ -100,8 +100,8 @@
     "repo_name": "CVE-2022-45771-Pwndoc-LFI-to-RCE",
     "repo_owner": "p0dalirius",
     "repotime": "2025-01-31, 10:58:11",
-    "stargazers_count": 46,
-    "watchers_count": 46
+    "stargazers_count": 47,
+    "watchers_count": 47
 }
 {
     "commits_count": 12,
@@ -118,15 +118,15 @@
     "repo_name": "CVE-2022-36446-Webmin-Software-Package-Updates-RCE",
     "repo_owner": "p0dalirius",
     "repotime": "2025-01-31, 10:36:28",
-    "stargazers_count": 115,
-    "watchers_count": 115
+    "stargazers_count": 114,
+    "watchers_count": 114
 }
 {
     "commits_count": 37,
     "date_started": "2021-10-26",
     "date_updated": "2025-01-31",
     "description": "How to exploit a double free vulnerability in 2021. Use After Free for Dummies",
-    "forks_count": 65,
+    "forks_count": 66,
     "html_url": "https://github.com/stong/how-to-exploit-a-double-free",
     "keywords": [
         "use after free exploit",
@@ -137,8 +137,8 @@
     "repo_name": "how-to-exploit-a-double-free",
     "repo_owner": "stong",
     "repotime": "2025-01-31, 03:45:57",
-    "stargazers_count": 1367,
-    "watchers_count": 1367
+    "stargazers_count": 1354,
+    "watchers_count": 1354
 }
 {
     "commits_count": 2,
@@ -230,7 +230,7 @@
     "date_started": "2022-06-20",
     "date_updated": "2025-01-30",
     "description": "A Complete SSRF (Server Side Request Forgery) Scanner.",
-    "forks_count": 7,
+    "forks_count": 6,
     "html_url": "https://github.com/Dancas93/SSRF-Scanner",
     "keywords": [
         "ssrf",
@@ -350,7 +350,7 @@
     "date_started": "2020-03-16",
     "date_updated": "2025-01-28",
     "description": "Exfiltrate blind Remote Code Execution and SQL injection output over DNS via Burp Collaborator.",
-    "forks_count": 58,
+    "forks_count": 56,
     "html_url": "https://github.com/0xC01DF00D/Collabfiltrator",
     "keywords": [
         "code injection"
@@ -359,8 +359,8 @@
     "repo_name": "Collabfiltrator",
     "repo_owner": "0xC01DF00D",
     "repotime": "2025-01-28, 03:11:15",
-    "stargazers_count": 270,
-    "watchers_count": 270
+    "stargazers_count": 267,
+    "watchers_count": 267
 }
 {
     "commits_count": 6,
@@ -368,16 +368,16 @@
     "date_updated": "2025-01-28",
     "description": "SnapIPLeak is a script to capture and leak a victim's IP address through a Snapchat call using ARP spoofing and packet analysis.",
     "forks_count": 0,
-    "html_url": "https://github.com/OusH4x/SnapIPLeak",
+    "html_url": "https://github.com/OusCyb3rH4ck/SnapIPLeak",
     "keywords": [
         "address leak analysis"
     ],
     "language": "Shell",
     "repo_name": "SnapIPLeak",
-    "repo_owner": "OusH4x",
+    "repo_owner": "OusCyb3rH4ck",
     "repotime": "2025-01-28, 00:53:19",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 26,
@@ -431,6 +431,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 5,
+    "date_started": "2025-01-24",
+    "date_updated": "2025-01-26",
+    "description": "This repository contains C++ code to load custom drivers by exploiting a vulnerable driver in Windows. This project demonstrates a technique to bypass DSE (Driver Signature Enforcement) and PatchGuard using a vulnerable driver, and to load a custom driver. It serves as a proof of concept for security research purposes.",
+    "forks_count": 5,
+    "html_url": "https://github.com/Leksa667/Vulnerable-Driver-Manual-Mapper",
+    "keywords": [
+        "patchguard bypass"
+    ],
+    "language": "C++",
+    "repo_name": "Vulnerable-Driver-Manual-Mapper",
+    "repo_owner": "Leksa667",
+    "repotime": "2025-01-26, 01:24:04",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
     "commits_count": 97,
     "date_started": "2013-10-01",
     "date_updated": "2025-01-25",
@@ -452,7 +469,7 @@
     "date_started": "2019-02-23",
     "date_updated": "2025-01-25",
     "description": "K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
-    "forks_count": 2072,
+    "forks_count": 2069,
     "html_url": "https://github.com/k8gege/K8tools",
     "keywords": [
         "0day poc",
@@ -460,15 +477,14 @@
         "0day exploit",
         "lpe exploit",
         "rce exploit",
-        "lpe poc",
-        "lpe exploitation"
+        "lpe poc"
     ],
     "language": "PowerShell",
     "repo_name": "K8tools",
     "repo_owner": "k8gege",
     "repotime": "2025-01-25, 14:32:49",
-    "stargazers_count": 6083,
-    "watchers_count": 6083
+    "stargazers_count": 6011,
+    "watchers_count": 6011
 }
 {
     "commits_count": 3,
@@ -625,11 +641,11 @@
     "watchers_count": 52
 }
 {
-    "commits_count": 224,
+    "commits_count": 221,
     "date_started": "2023-01-25",
     "date_updated": "2025-01-22",
     "description": "<no description>",
-    "forks_count": 142,
+    "forks_count": 130,
     "html_url": "https://github.com/trufflesecurity/xsshunter",
     "keywords": [
         "xss"
@@ -638,8 +654,8 @@
     "repo_name": "xsshunter",
     "repo_owner": "trufflesecurity",
     "repotime": "2025-01-22, 15:35:19",
-    "stargazers_count": 513,
-    "watchers_count": 513
+    "stargazers_count": 470,
+    "watchers_count": 470
 }
 {
     "commits_count": 10,
@@ -727,6 +743,23 @@
     "watchers_count": 11
 }
 {
+    "commits_count": 255,
+    "date_started": "2018-07-10",
+    "date_updated": "2025-01-21",
+    "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+    "forks_count": 2312,
+    "html_url": "https://github.com/kgretzky/evilginx2",
+    "keywords": [
+        "session attack"
+    ],
+    "language": "Go",
+    "repo_name": "evilginx2",
+    "repo_owner": "kgretzky",
+    "repotime": "2025-01-21, 16:16:10",
+    "stargazers_count": 13303,
+    "watchers_count": 13303
+}
+{
     "commits_count": 3,
     "date_started": "2025-01-21",
     "date_updated": "2025-01-21",
@@ -748,7 +781,7 @@
     "date_started": "2025-01-19",
     "date_updated": "2025-01-20",
     "description": "A powerful AWS Cognito analysis and session hijacking toolkit designed for security researchers and penetration testers. CognitoHunter specializes in dissecting AWS Cognito implementations and performing advanced credential-to-session conversions.",
-    "forks_count": 2,
+    "forks_count": 1,
     "html_url": "https://github.com/nullenc0de/Cognitohunter",
     "keywords": [
         "session hijacking"
@@ -757,8 +790,8 @@
     "repo_name": "Cognitohunter",
     "repo_owner": "nullenc0de",
     "repotime": "2025-01-20, 15:28:37",
-    "stargazers_count": 21,
-    "watchers_count": 21
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 1,
@@ -835,7 +868,7 @@
     "date_started": "2022-05-08",
     "date_updated": "2025-01-19",
     "description": "An XSS exploitation command-line interface and payload generator.",
-    "forks_count": 194,
+    "forks_count": 192,
     "html_url": "https://github.com/t3l3machus/toxssin",
     "keywords": [
         "xss"
@@ -844,8 +877,8 @@
     "repo_name": "toxssin",
     "repo_owner": "t3l3machus",
     "repotime": "2025-01-19, 17:24:50",
-    "stargazers_count": 1398,
-    "watchers_count": 1398
+    "stargazers_count": 1382,
+    "watchers_count": 1382
 }
 {
     "commits_count": 19,
@@ -1187,8 +1220,8 @@
     "repo_name": "CVE-2025-0282-Ivanti-exploit",
     "repo_owner": "absholi7ly",
     "repotime": "2025-01-12, 01:54:06",
-    "stargazers_count": 49,
-    "watchers_count": 49
+    "stargazers_count": 47,
+    "watchers_count": 47
 }
 {
     "commits_count": 5,
@@ -1221,8 +1254,8 @@
     "repo_name": "balamod",
     "repo_owner": "balamod",
     "repotime": "2025-01-11, 12:09:02",
-    "stargazers_count": 146,
-    "watchers_count": 146
+    "stargazers_count": 139,
+    "watchers_count": 139
 }
 {
     "commits_count": 3,
@@ -1433,7 +1466,7 @@
     "date_started": "2023-10-01",
     "date_updated": "2025-01-07",
     "description": "Collection of one-liners to bypass User Account Control (UAC) in Windows. These techniques exploit certain behavior in Windows applications to elevate privileges.",
-    "forks_count": 13,
+    "forks_count": 12,
     "html_url": "https://github.com/blue0x1/uac-bypass-oneliners",
     "keywords": [
         "uac bypass"
@@ -1442,8 +1475,8 @@
     "repo_name": "uac-bypass-oneliners",
     "repo_owner": "blue0x1",
     "repotime": "2025-01-07, 22:56:28",
-    "stargazers_count": 137,
-    "watchers_count": 137
+    "stargazers_count": 124,
+    "watchers_count": 124
 }
 {
     "commits_count": 2,
@@ -1582,6 +1615,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 195,
+    "date_started": "2018-02-27",
+    "date_updated": "2025-01-06",
+    "description": "SQL injection protection module",
+    "forks_count": 62,
+    "html_url": "https://github.com/nearform/sql",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "JavaScript",
+    "repo_name": "sql",
+    "repo_owner": "nearform",
+    "repotime": "2025-01-06, 13:13:21",
+    "stargazers_count": 218,
+    "watchers_count": 218
+}
+{
+    "commits_count": 71,
+    "date_started": "2017-10-26",
+    "date_updated": "2025-01-06",
+    "description": "Server-Side Request Forgery (SSRF) protection plugin for HTTPlug",
+    "forks_count": 5,
+    "html_url": "https://github.com/j0k3r/httplug-ssrf-plugin",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "PHP",
+    "repo_name": "httplug-ssrf-plugin",
+    "repo_owner": "j0k3r",
+    "repotime": "2025-01-06, 10:13:08",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 3,
     "date_started": "2025-01-06",
     "date_updated": "2025-01-06",
@@ -1646,8 +1713,8 @@
     "repo_name": "DotnetCat",
     "repo_owner": "vandavey",
     "repotime": "2025-01-04, 15:30:03",
-    "stargazers_count": 29,
-    "watchers_count": 29
+    "stargazers_count": 30,
+    "watchers_count": 30
 }
 {
     "commits_count": 2,
@@ -1892,7 +1959,7 @@
     "date_started": "2018-06-07",
     "date_updated": "2025-01-02",
     "description": "List of XSS Vectors/Payloads ",
-    "forks_count": 269,
+    "forks_count": 257,
     "html_url": "https://github.com/RenwaX23/XSS-Payloads",
     "keywords": [
         "xss"
@@ -1901,23 +1968,6 @@
     "repo_name": "XSS-Payloads",
     "repo_owner": "RenwaX23",
     "repotime": "2025-01-02, 11:17:31",
-    "stargazers_count": 1331,
-    "watchers_count": 1331
-}
-{
-    "commits_count": 9,
-    "date_started": "2022-05-19",
-    "date_updated": "2025-01-01",
-    "description": "Simple PHP Photo Gallery 0.7 is vulnerable to Unauthenticated RFI. This script will attempt to turn that into RCE by automatically hosting a PHP reverse shell and then calling that shell back.",
-    "forks_count": 1,
-    "html_url": "https://github.com/beauknowstech/SimplePHPGal-RCE.py",
-    "keywords": [
-        "unauthenticated rce"
-    ],
-    "language": "Python",
-    "repo_name": "SimplePHPGal-RCE.py",
-    "repo_owner": "beauknowstech",
-    "repotime": "2025-01-01, 14:35:54",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 1239,
+    "watchers_count": 1239
 }

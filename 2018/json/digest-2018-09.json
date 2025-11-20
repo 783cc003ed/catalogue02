@@ -95,7 +95,7 @@
     "date_started": "2018-09-21",
     "date_updated": "2018-09-21",
     "description": "Usage: python sqlmap.py [options] Options: -h, --help Show basic help message and exit -hh Show advanced help message and exit --version Show program's version number and exit -v VERBOSE Verbosity level: 0-6 (default 1) Target: At least one of these options has to be provided to define the target(s) -d DIRECT Connection string for direct database connection -u URL, --url=URL Target URL (e.g. &amp;quot;http://www.site.com/vuln.php?id=1&amp;quot;) -l LOGFILE Parse target(s) from Burp or WebScarab proxy log file -x SITEMAPURL Parse target(s) from remote sitemap(.xml) file -m BULKFILE Scan multiple targets given in a textual file -r REQUESTFILE Load HTTP request from a file -g GOOGLEDORK Process Google dork results as target URLs -c CONFIGFILE Load options from a configuration INI file Request: These options can be used to specify how to connect to the target URL --method=METHOD Force usage of given HTTP method (e.g. PUT) --data=DATA Data string to be sent through POST --param-del=PARA.. Character...",
-    "forks_count": 3,
+    "forks_count": 7,
     "html_url": "https://github.com/HlaingPhyoAung/sqlmap",
     "keywords": [
         "Windows escalation of privileges exploit",
@@ -109,8 +109,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "HlaingPhyoAung",
     "repotime": "2018-09-21, 04:51:04",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 13,
+    "watchers_count": 13
 }
 {
     "commits_count": 18,
@@ -195,8 +195,8 @@
     "repo_name": "zeroday-powershell",
     "repo_owner": "OneLogicalMyth",
     "repotime": "2018-09-12, 10:03:03",
-    "stargazers_count": 327,
-    "watchers_count": 327
+    "stargazers_count": 326,
+    "watchers_count": 326
 }
 {
     "commits_count": 20,
@@ -271,8 +271,8 @@
     "repo_name": "Linux_kernel_exploits",
     "repo_owner": "ww9210",
     "repotime": "2018-09-06, 20:02:34",
-    "stargazers_count": 498,
-    "watchers_count": 498
+    "stargazers_count": 497,
+    "watchers_count": 497
 }
 {
     "commits_count": 10,
@@ -295,8 +295,8 @@
     "repo_name": "Function",
     "repo_owner": "landonasato",
     "repotime": "2018-09-05, 12:18:06",
-    "stargazers_count": 26,
-    "watchers_count": 26
+    "stargazers_count": 23,
+    "watchers_count": 23
 }
 {
     "commits_count": 1,

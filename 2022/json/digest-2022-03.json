@@ -86,6 +86,23 @@
     "watchers_count": 49
 }
 {
+    "commits_count": 3,
+    "date_started": "2022-03-30",
+    "date_updated": "2022-03-30",
+    "description": "DLL Hijacking and Mock directories technique to bypass Windows UAC security feature and getting high-level privileged reverse shell. Security researchers identified this technique which uses a simplified process of DLL hijacking and mock folders to bypass UAC control. I tested this on Windows 10,11 and bypassed Windows 10 UAC security feature.  ",
+    "forks_count": 4,
+    "html_url": "https://github.com/Offensive-Panda/C2_Elevated_Shell_DLL_Hijcking",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C++",
+    "repo_name": "C2_Elevated_Shell_DLL_Hijcking",
+    "repo_owner": "Offensive-Panda",
+    "repotime": "2022-03-30, 17:19:33",
+    "stargazers_count": 15,
+    "watchers_count": 15
+}
+{
     "commits_count": 14,
     "date_started": "2022-03-30",
     "date_updated": "2022-03-30",
@@ -239,15 +256,15 @@
     "repo_name": "ByPassUACTools",
     "repo_owner": "Adminisme",
     "repotime": "2022-03-28, 23:25:47",
-    "stargazers_count": 61,
-    "watchers_count": 61
+    "stargazers_count": 60,
+    "watchers_count": 60
 }
 {
     "commits_count": 20,
     "date_started": "2019-01-17",
     "date_updated": "2022-03-27",
     "description": "Windows UAC bypass techniques implemented and written in Go",
-    "forks_count": 41,
+    "forks_count": 40,
     "html_url": "https://github.com/0x9ef/golang-uacbypasser",
     "keywords": [
         "uac bypass"
@@ -256,8 +273,8 @@
     "repo_name": "golang-uacbypasser",
     "repo_owner": "0x9ef",
     "repotime": "2022-03-27, 21:20:48",
-    "stargazers_count": 213,
-    "watchers_count": 213
+    "stargazers_count": 212,
+    "watchers_count": 212
 }
 {
     "commits_count": 3,
@@ -281,7 +298,7 @@
     "date_started": "2022-03-26",
     "date_updated": "2022-03-27",
     "description": "spring-cloud-function SpEL RCE, Vultarget &amp;amp; Poc",
-    "forks_count": 39,
+    "forks_count": 40,
     "html_url": "https://github.com/cckuailong/spring-cloud-function-SpEL-RCE",
     "keywords": [
         "rce poc"
@@ -290,15 +307,15 @@
     "repo_name": "spring-cloud-function-SpEL-RCE",
     "repo_owner": "cckuailong",
     "repotime": "2022-03-27, 09:46:46",
-    "stargazers_count": 135,
-    "watchers_count": 135
+    "stargazers_count": 134,
+    "watchers_count": 134
 }
 {
     "commits_count": 10,
     "date_started": "2022-03-10",
     "date_updated": "2022-03-26",
     "description": "2020 was a roller coaster of major, world-shaking events. We all couldn't wait for the year to end. But just as 2020 was about to close, it pulled another fast one on us: the SolarWinds hack, one of the biggest cybersecurity breaches of the 21st century.  The SolarWinds hack was a major event not because a single company was breached, but because it triggered a much larger supply chain incident that affected thousands of organizations, including the U.S. government.  What is SolarWinds? SolarWinds is a major software company based in Tulsa, Okla., which provides system management tools for network and infrastructure monitoring, and other technical services to hundreds of thousands of organizations around the world. Among the company's products is an IT performance monitoring system called Orion.   As an IT monitoring system, SolarWinds Orion has privileged access to IT systems to obtain log and system performance data. It is that privileged position and its wide deployment that made So...",
-    "forks_count": 2,
+    "forks_count": 1,
     "html_url": "https://github.com/Mario-Kart-Felix/solar-wind-hacker-book",
     "keywords": [
         "Win use after free",
@@ -320,8 +337,8 @@
     "repo_name": "solar-wind-hacker-book",
     "repo_owner": "Mario-Kart-Felix",
     "repotime": "2022-03-26, 17:00:40",
-    "stargazers_count": 18,
-    "watchers_count": 18
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 5,
@@ -340,8 +357,8 @@
     "repo_name": "sunlogin-exp-cmd",
     "repo_owner": "theLSA",
     "repotime": "2022-03-27, 01:09:53",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 7,
@@ -442,8 +459,8 @@
     "repo_name": "CVE-2019-0708",
     "repo_owner": "RICSecLab",
     "repotime": "2022-03-25, 15:46:40",
-    "stargazers_count": 143,
-    "watchers_count": 143
+    "stargazers_count": 139,
+    "watchers_count": 139
 }
 {
     "commits_count": 9,
@@ -494,8 +511,8 @@
     "repo_name": "Log4jUnifi",
     "repo_owner": "puzzlepeaches",
     "repotime": "2022-03-22, 19:35:16",
-    "stargazers_count": 160,
-    "watchers_count": 160
+    "stargazers_count": 157,
+    "watchers_count": 157
 }
 {
     "commits_count": 11,
@@ -512,8 +529,8 @@
     "repo_name": "Larascript",
     "repo_owner": "pwnedshell",
     "repotime": "2022-03-22, 18:56:41",
-    "stargazers_count": 33,
-    "watchers_count": 33
+    "stargazers_count": 34,
+    "watchers_count": 34
 }
 {
     "commits_count": 5,
@@ -637,8 +654,8 @@
     "repo_name": "Disclosures",
     "repo_owner": "alisaesage",
     "repotime": "2022-03-20, 23:58:26",
-    "stargazers_count": 427,
-    "watchers_count": 427
+    "stargazers_count": 423,
+    "watchers_count": 423
 }
 {
     "commits_count": 27,
@@ -690,8 +707,8 @@
     "repo_name": "log4j2_rce",
     "repo_owner": "dbgee",
     "repotime": "2022-03-18, 15:27:13",
-    "stargazers_count": 101,
-    "watchers_count": 101
+    "stargazers_count": 99,
+    "watchers_count": 99
 }
 {
     "commits_count": 7,
@@ -789,7 +806,7 @@
     "date_started": "2022-03-16",
     "date_updated": "2022-03-16",
     "description": "Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit ",
-    "forks_count": 10,
+    "forks_count": 11,
     "html_url": "https://github.com/M4xSec/Apache-APISIX-CVE-2022-24112",
     "keywords": [
         "remote code execution proof of concept",
@@ -800,8 +817,8 @@
     "repo_name": "Apache-APISIX-CVE-2022-24112",
     "repo_owner": "M4xSec",
     "repotime": "2022-03-16, 04:19:30",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 9,
@@ -852,8 +869,8 @@
     "repo_name": "mcjacker",
     "repo_owner": "I2rys",
     "repotime": "2022-03-15, 21:43:37",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 6,
@@ -870,8 +887,8 @@
     "repo_name": "dompdf-rce",
     "repo_owner": "positive-security",
     "repotime": "2022-03-15, 11:55:55",
-    "stargazers_count": 182,
-    "watchers_count": 182
+    "stargazers_count": 178,
+    "watchers_count": 178
 }
 {
     "commits_count": 4,
@@ -964,17 +981,17 @@
     "date_started": "2022-03-14",
     "date_updated": "2022-03-14",
     "description": "Oracle Access Manager Unauthenticated Attacker Vulnerability CVE-2021-35587",
-    "forks_count": 11,
-    "html_url": "https://github.com/ZZ-SOCMAP/CVE-2021-35587",
+    "forks_count": 10,
+    "html_url": "https://github.com/antx-code/CVE-2021-35587",
     "keywords": [
         "unauthenticated attacker"
     ],
     "language": "Python",
     "repo_name": "CVE-2021-35587",
-    "repo_owner": "ZZ-SOCMAP",
+    "repo_owner": "antx-code",
     "repotime": "2022-03-14, 13:06:55",
-    "stargazers_count": 42,
-    "watchers_count": 42
+    "stargazers_count": 40,
+    "watchers_count": 40
 }
 {
     "commits_count": 1,
@@ -1032,7 +1049,7 @@
     "date_started": "2022-03-12",
     "date_updated": "2022-03-13",
     "description": "Apache2 2.4.49 - LFI &amp;amp; RCE Exploit - CVE-2021-41773",
-    "forks_count": 32,
+    "forks_count": 33,
     "html_url": "https://github.com/thehackersbrain/CVE-2021-41773",
     "keywords": [
         "rce exploit",
@@ -1043,8 +1060,8 @@
     "repo_name": "CVE-2021-41773",
     "repo_owner": "thehackersbrain",
     "repotime": "2022-03-13, 03:00:42",
-    "stargazers_count": 110,
-    "watchers_count": 110
+    "stargazers_count": 108,
+    "watchers_count": 108
 }
 {
     "commits_count": 48,
@@ -1060,8 +1077,8 @@
     "repo_name": "code_injection",
     "repo_owner": "Fahersto",
     "repotime": "2022-03-12, 14:42:46",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 22,
+    "watchers_count": 22
 }
 {
     "commits_count": 21,
@@ -1308,8 +1325,8 @@
     "repo_name": "bug-free-memory",
     "repo_owner": "Nate0634034090",
     "repotime": "2022-03-04, 16:01:01",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 24,
+    "watchers_count": 24
 }
 {
     "commits_count": 28,
@@ -1384,7 +1401,7 @@
     "date_started": "2020-04-11",
     "date_updated": "2022-03-02",
     "description": "A fast DOM based XSS vulnerability scanner with simplicity.",
-    "forks_count": 113,
+    "forks_count": 112,
     "html_url": "https://github.com/dwisiswant0/findom-xss",
     "keywords": [
         "xss"
@@ -1393,8 +1410,8 @@
     "repo_name": "findom-xss",
     "repo_owner": "dwisiswant0",
     "repotime": "2022-03-02, 22:50:42",
-    "stargazers_count": 826,
-    "watchers_count": 826
+    "stargazers_count": 807,
+    "watchers_count": 807
 }
 {
     "commits_count": 6,

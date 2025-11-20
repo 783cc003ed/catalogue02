@@ -12,8 +12,8 @@
     "repo_name": "payMe-Project",
     "repo_owner": "payMeQuiz",
     "repotime": "2022-11-30, 10:20:49",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 4,
@@ -81,8 +81,8 @@
     "repo_name": "xxe-lab",
     "repo_owner": "c0ny1",
     "repotime": "2022-11-28, 20:56:03",
-    "stargazers_count": 804,
-    "watchers_count": 804
+    "stargazers_count": 798,
+    "watchers_count": 798
 }
 {
     "commits_count": 116,
@@ -221,6 +221,23 @@
     "watchers_count": 4
 }
 {
+    "commits_count": 5,
+    "date_started": "2022-11-22",
+    "date_updated": "2022-11-22",
+    "description": "Apache HTTP-Server 2.4.49-2.4.50 Path Traversal &amp;amp; Remote Code Execution PoC (CVE-2021-41773 &amp;amp; CVE-2021-42013)",
+    "forks_count": 0,
+    "html_url": "https://github.com/blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution",
+    "keywords": [
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution",
+    "repo_owner": "blackn0te",
+    "repotime": "2022-11-22, 22:42:10",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
     "commits_count": 1,
     "date_started": "2022-11-22",
     "date_updated": "2022-11-22",
@@ -234,8 +251,8 @@
     "repo_name": "node-server-side-request-forgery-get-there-from-here",
     "repo_owner": "securec0ding",
     "repotime": "2022-11-22, 12:40:47",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 1,
@@ -313,18 +330,17 @@
     "date_started": "2022-11-04",
     "date_updated": "2022-11-21",
     "description": "Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability) ",
-    "forks_count": 3,
+    "forks_count": 2,
     "html_url": "https://github.com/cryxnet/CVE-2022-42889-RCE",
     "keywords": [
-        "rce proof of concept",
-        "rce vulnerability"
+        "rce proof of concept"
     ],
     "language": "Python",
     "repo_name": "CVE-2022-42889-RCE",
     "repo_owner": "cryxnet",
     "repotime": "2022-11-21, 11:16:57",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 18,
+    "watchers_count": 18
 }
 {
     "commits_count": 4,
@@ -469,23 +485,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 33,
-    "date_started": "2022-11-15",
-    "date_updated": "2022-11-16",
-    "description": "This project was developed with one thing in mind, demonstrate how an attacker can exploit XSS to steal sessions from cookies/localstorage.",
-    "forks_count": 0,
-    "html_url": "https://github.com/monsec/XSS_session_stealer",
-    "keywords": [
-        "session attack"
-    ],
-    "language": "Python",
-    "repo_name": "XSS_session_stealer",
-    "repo_owner": "monsec",
-    "repotime": "2022-11-16, 12:21:28",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 0,
     "date_started": "2020-06-18",
     "date_updated": "2022-11-15",
@@ -619,8 +618,8 @@
     "repo_name": "DSIN",
     "repo_owner": "shenweichen",
     "repotime": "2022-11-11, 13:11:13",
-    "stargazers_count": 446,
-    "watchers_count": 446
+    "stargazers_count": 445,
+    "watchers_count": 445
 }
 {
     "commits_count": 33,
@@ -712,7 +711,7 @@
     "date_started": "2022-03-30",
     "date_updated": "2022-11-09",
     "description": "Spring4Shell Proof Of Concept/And vulnerable application CVE-2022-22965",
-    "forks_count": 110,
+    "forks_count": 108,
     "html_url": "https://github.com/BobTheShoplifter/Spring4Shell-POC",
     "keywords": [
         "rce proof of concept",
@@ -723,8 +722,8 @@
     "repo_name": "Spring4Shell-POC",
     "repo_owner": "BobTheShoplifter",
     "repotime": "2022-11-09, 16:46:06",
-    "stargazers_count": 371,
-    "watchers_count": 371
+    "stargazers_count": 368,
+    "watchers_count": 368
 }
 {
     "commits_count": 24,
@@ -894,8 +893,8 @@
     "repo_name": "BypassUAC",
     "repo_owner": "arsium",
     "repotime": "2022-11-06, 11:06:36",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 2,

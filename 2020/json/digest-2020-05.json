@@ -152,15 +152,15 @@
     "repo_name": "XSS_Cheat_Sheet_2020_Edition",
     "repo_owner": "heroanswer",
     "repotime": "2020-05-25, 22:38:14",
-    "stargazers_count": 512,
-    "watchers_count": 512
+    "stargazers_count": 508,
+    "watchers_count": 508
 }
 {
     "commits_count": 1,
     "date_started": "2020-05-25",
     "date_updated": "2020-05-25",
     "description": "PE Injection、DLL Injection、Process Injection、Thread Injection、Code Injection、Shellcode Injection、ELF Injection、Dylib Injection, including 400+Tools and 350+posts",
-    "forks_count": 147,
+    "forks_count": 146,
     "html_url": "https://github.com/alphaSeclab/injection-stuff",
     "keywords": [
         "code injection"
@@ -169,15 +169,15 @@
     "repo_name": "injection-stuff",
     "repo_owner": "alphaSeclab",
     "repotime": "2020-05-25, 05:00:33",
-    "stargazers_count": 552,
-    "watchers_count": 552
+    "stargazers_count": 536,
+    "watchers_count": 536
 }
 {
     "commits_count": 1,
     "date_started": "2020-05-24",
     "date_updated": "2020-05-24",
     "description": "QNAP pre-auth root RCE Exploit (CVE-2019-7192 ~ CVE-2019-7195)",
-    "forks_count": 38,
+    "forks_count": 34,
     "html_url": "https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit",
     "keywords": [
         "rce exploit",
@@ -187,8 +187,8 @@
     "repo_name": "CVE-2019-7192_QNAP_Exploit",
     "repo_owner": "th3gundy",
     "repotime": "2020-05-24, 19:28:29",
-    "stargazers_count": 86,
-    "watchers_count": 86
+    "stargazers_count": 85,
+    "watchers_count": 85
 }
 {
     "commits_count": 10,
@@ -238,8 +238,8 @@
     "repo_name": "SB-Actuator",
     "repo_owner": "rabbitmask",
     "repotime": "2020-05-21, 10:28:36",
-    "stargazers_count": 518,
-    "watchers_count": 518
+    "stargazers_count": 517,
+    "watchers_count": 517
 }
 {
     "commits_count": 1,
@@ -308,6 +308,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 78,
+    "date_started": "2013-10-24",
+    "date_updated": "2020-05-17",
+    "description": "xss.js.org",
+    "forks_count": 64,
+    "html_url": "https://github.com/tennc/xss",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "xss",
+    "repo_owner": "tennc",
+    "repotime": "2020-05-17, 17:30:15",
+    "stargazers_count": 69,
+    "watchers_count": 69
+}
+{
     "commits_count": 4,
     "date_started": "2018-10-27",
     "date_updated": "2020-05-15",
@@ -321,8 +338,8 @@
     "repo_name": "Privacy-Policy",
     "repo_owner": "trigaten",
     "repotime": "2020-05-15, 18:20:59",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 37,
@@ -622,7 +639,7 @@
     "date_started": "2020-05-09",
     "date_updated": "2020-05-09",
     "description": "LFI Payloads List coolected from github repos",
-    "forks_count": 37,
+    "forks_count": 36,
     "html_url": "https://github.com/emadshanab/LFI-Payload-List",
     "keywords": [
         "lfi"
@@ -631,8 +648,8 @@
     "repo_name": "LFI-Payload-List",
     "repo_owner": "emadshanab",
     "repotime": "2020-05-09, 21:25:04",
-    "stargazers_count": 83,
-    "watchers_count": 83
+    "stargazers_count": 80,
+    "watchers_count": 80
 }
 {
     "commits_count": 2,
@@ -692,7 +709,7 @@
     "date_started": "2015-03-05",
     "date_updated": "2020-05-07",
     "description": "Miscellaneous exploit code",
-    "forks_count": 582,
+    "forks_count": 588,
     "html_url": "https://github.com/XiphosResearch/exploits",
     "keywords": [
         "Windows rce exploitation",
@@ -707,8 +724,8 @@
     "repo_name": "exploits",
     "repo_owner": "XiphosResearch",
     "repotime": "2020-05-07, 21:20:14",
-    "stargazers_count": 1560,
-    "watchers_count": 1560
+    "stargazers_count": 1556,
+    "watchers_count": 1556
 }
 {
     "commits_count": 3,
@@ -881,6 +898,6 @@
     "repo_name": "Sandbox-Escape-POC-iOS-13.4.1-and-lower",
     "repo_owner": "iosdec",
     "repotime": "2020-05-01, 11:02:23",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
