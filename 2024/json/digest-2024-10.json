@@ -1439,23 +1439,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 3,
-    "date_started": "2024-10-05",
-    "date_updated": "2024-10-05",
-    "description": "A Python tool for exploiting Django RCE via deserialization vulnerabilities in session cookies, allowing remote code execution through forged cookies.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Spix0r/django-rce-exploit",
-    "keywords": [
-        "session vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "django-rce-exploit",
-    "repo_owner": "Spix0r",
-    "repotime": "2024-10-05, 23:53:01",
-    "stargazers_count": 19,
-    "watchers_count": 19
-}
-{
     "commits_count": 4,
     "date_started": "2024-10-05",
     "date_updated": "2024-10-05",
