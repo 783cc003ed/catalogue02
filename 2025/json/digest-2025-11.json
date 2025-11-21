@@ -1,5 +1,5 @@
 {
-    "commits_count": 72,
+    "commits_count": 76,
     "date_started": "2025-11-20",
     "date_updated": "2025-11-21",
     "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -13,7 +13,7 @@
     "language": "C#",
     "repo_name": "HTA-Exploit",
     "repo_owner": "Chococolita",
-    "repotime": "2025-11-21, 12:00:23",
+    "repotime": "2025-11-21, 14:41:47",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -30,7 +30,94 @@
     "language": null,
     "repo_name": "KQL-Queries-Defender-Sentinel",
     "repo_owner": "Juanjo9471",
-    "repotime": "2025-11-21, 04:44:53",
+    "repotime": "2025-11-21, 09:09:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 465,
+    "date_started": "2025-11-16",
+    "date_updated": "2025-11-21",
+    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Watermlks/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C#",
+    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "repo_owner": "Watermlks",
+    "repotime": "2025-11-21, 13:57:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-13",
+    "date_updated": "2025-11-21",
+    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
+    "forks_count": 1,
+    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "MXSpoof",
+    "repo_owner": "debashishmishra1122",
+    "repotime": "2025-11-21, 18:45:14",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 257,
+    "date_started": "2015-02-01",
+    "date_updated": "2025-11-21",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 121,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2025-11-21, 08:07:00",
+    "stargazers_count": 403,
+    "watchers_count": 403
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-07-20",
+    "date_updated": "2025-11-21",
+    "description": "🛡️ Bypass DEP/NX protection on Windows x64 using hardware breakpoints and instruction emulation to execute code from non-executable memory.",
+    "forks_count": 0,
+    "html_url": "https://github.com/prateek123s/HWBP-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HWBP-DEP-Bypass",
+    "repo_owner": "prateek123s",
+    "repotime": "2025-11-21, 04:35:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-04-11",
+    "date_updated": "2025-11-21",
+    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HWBP-DEP-Bypass",
+    "repo_owner": "kal21k",
+    "repotime": "2025-11-21, 05:31:28",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -110,23 +197,6 @@
     "watchers_count": 10
 }
 {
-    "commits_count": 5,
-    "date_started": "2025-05-13",
-    "date_updated": "2025-11-21",
-    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
-    "forks_count": 1,
-    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
-    "keywords": [
-        "spoofing vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "MXSpoof",
-    "repo_owner": "debashishmishra1122",
-    "repotime": "2025-11-21, 10:10:53",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
     "commits_count": 2,
     "date_started": "2025-11-21",
     "date_updated": "2025-11-21",
@@ -158,57 +228,6 @@
     "repo_name": "CVE-2025-31258-PoC",
     "repo_owner": "sureshkumarsat",
     "repotime": "2025-11-21, 06:14:42",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 389,
-    "date_started": "2025-11-16",
-    "date_updated": "2025-11-20",
-    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Watermlks/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C#",
-    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
-    "repo_owner": "Watermlks",
-    "repotime": "2025-11-20, 16:16:51",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 13,
-    "date_started": "2025-07-20",
-    "date_updated": "2025-11-20",
-    "description": "🛡️ Bypass DEP/NX protection on Windows x64 using hardware breakpoints and instruction emulation to execute code from non-executable memory.",
-    "forks_count": 0,
-    "html_url": "https://github.com/prateek123s/HWBP-DEP-Bypass",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "prateek123s",
-    "repotime": "2025-11-20, 08:15:30",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 12,
-    "date_started": "2024-04-11",
-    "date_updated": "2025-11-20",
-    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
-    "forks_count": 0,
-    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "kal21k",
-    "repotime": "2025-11-20, 09:11:20",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -558,25 +577,6 @@
     "repotime": "2025-11-18, 18:11:59",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 254,
-    "date_started": "2015-02-01",
-    "date_updated": "2025-11-18",
-    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
-    "forks_count": 121,
-    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "xxe"
-    ],
-    "language": "HTML",
-    "repo_name": "Commodity-Injection-Signatures",
-    "repo_owner": "xsscx",
-    "repotime": "2025-11-18, 22:01:26",
-    "stargazers_count": 403,
-    "watchers_count": 403
 }
 {
     "commits_count": 9,
@@ -1333,8 +1333,8 @@
     "repo_name": "loxs",
     "repo_owner": "coffinxp",
     "repotime": "2025-11-12, 17:54:26",
-    "stargazers_count": 1427,
-    "watchers_count": 1427
+    "stargazers_count": 1429,
+    "watchers_count": 1429
 }
 {
     "commits_count": 83,
@@ -1562,7 +1562,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2025-11-10",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6108,
+    "forks_count": 6109,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -1571,8 +1571,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-11-10, 09:40:19",
-    "stargazers_count": 35881,
-    "watchers_count": 35881
+    "stargazers_count": 35897,
+    "watchers_count": 35897
 }
 {
     "commits_count": 51,
@@ -1605,8 +1605,8 @@
     "repo_name": "smart-doc",
     "repo_owner": "TongchengOpenSource",
     "repotime": "2025-11-10, 10:06:18",
-    "stargazers_count": 1588,
-    "watchers_count": 1588
+    "stargazers_count": 1587,
+    "watchers_count": 1587
 }
 {
     "commits_count": 3,
@@ -1674,11 +1674,11 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-11-09, 15:21:51",
-    "stargazers_count": 5027,
-    "watchers_count": 5027
+    "stargazers_count": 5029,
+    "watchers_count": 5029
 }
 {
-    "commits_count": 245,
+    "commits_count": 246,
     "date_started": "2024-05-30",
     "date_updated": "2025-11-09",
     "description": "Fourth evolution of Code Injection for Xcode",
@@ -1691,8 +1691,8 @@
     "repo_name": "InjectionNext",
     "repo_owner": "johnno1962",
     "repotime": "2025-11-09, 15:15:04",
-    "stargazers_count": 250,
-    "watchers_count": 250
+    "stargazers_count": 251,
+    "watchers_count": 251
 }
 {
     "commits_count": 7,
@@ -1776,8 +1776,8 @@
     "repo_name": "xxe-smb-server",
     "repo_owner": "cwkiller",
     "repotime": "2025-11-09, 14:30:54",
-    "stargazers_count": 95,
-    "watchers_count": 95
+    "stargazers_count": 96,
+    "watchers_count": 96
 }
 {
     "commits_count": 1,
