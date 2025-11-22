@@ -1,4 +1,107 @@
 {
+    "commits_count": 527,
+    "date_started": "2025-11-16",
+    "date_updated": "2025-11-22",
+    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Watermlks/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C#",
+    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "repo_owner": "Watermlks",
+    "repotime": "2025-11-22, 06:45:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 42630,
+    "date_started": "2025-08-24",
+    "date_updated": "2025-11-22",
+    "description": "Modified GLIBC to protect Use after free vulnerability",
+    "forks_count": 1,
+    "html_url": "https://github.com/Md-Monowarul-Amin/Glbc-Modified",
+    "keywords": [
+        "use after free vulnerability"
+    ],
+    "language": "Makefile",
+    "repo_name": "Glbc-Modified",
+    "repo_owner": "Md-Monowarul-Amin",
+    "repotime": "2025-11-22, 12:04:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 62,
+    "date_started": "2025-11-21",
+    "date_updated": "2025-11-22",
+    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Karatepng/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution exploit"
+    ],
+    "language": "C++",
+    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "repo_owner": "Karatepng",
+    "repotime": "2025-11-22, 05:59:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-11-22",
+    "date_updated": "2025-11-22",
+    "description": "This is a simple webpage built using HTML, CSS, and JavaScript that validates user input in real time. The page checks whether the entered details are correct before submitting the form, helping prevent errors and wrong inputs.",
+    "forks_count": 0,
+    "html_url": "https://github.com/rushikeshkanda3-oss/Validation-Form-webpage",
+    "keywords": [
+        "wrong input validation"
+    ],
+    "language": "HTML",
+    "repo_name": "Validation-Form-webpage",
+    "repo_owner": "rushikeshkanda3-oss",
+    "repotime": "2025-11-22, 11:22:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-07-20",
+    "date_updated": "2025-11-21",
+    "description": "🛡️ Bypass DEP/NX protection on Windows x64 using hardware breakpoints and instruction emulation to execute code from non-executable memory.",
+    "forks_count": 0,
+    "html_url": "https://github.com/prateek123s/HWBP-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HWBP-DEP-Bypass",
+    "repo_owner": "prateek123s",
+    "repotime": "2025-11-21, 22:49:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-04-11",
+    "date_updated": "2025-11-21",
+    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HWBP-DEP-Bypass",
+    "repo_owner": "kal21k",
+    "repotime": "2025-11-21, 23:45:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2022-11-15",
     "date_updated": "2025-11-21",
@@ -73,22 +176,21 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 54,
-    "date_started": "2025-11-21",
+    "commits_count": 3,
+    "date_started": "2025-05-23",
     "date_updated": "2025-11-22",
-    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Karatepng/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
     "keywords": [
-        "Windows remote code execution",
-        "Windows remote code execution exploit"
+        "Windows remote code execution"
     ],
-    "language": "C++",
-    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
-    "repo_owner": "Karatepng",
-    "repotime": "2025-11-22, 03:17:53",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-11-22, 08:12:26",
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 7,
@@ -108,6 +210,23 @@
     "repotime": "2025-11-22, 05:09:49",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 2796,
+    "date_started": "2009-12-19",
+    "date_updated": "2025-11-22",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "forks_count": 2269,
+    "html_url": "https://github.com/jhy/jsoup",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "jsoup",
+    "repo_owner": "jhy",
+    "repotime": "2025-11-22, 12:51:29",
+    "stargazers_count": 11283,
+    "watchers_count": 11283
 }
 {
     "commits_count": 30,
@@ -147,20 +266,20 @@
 }
 {
     "commits_count": 3,
-    "date_started": "2025-05-23",
-    "date_updated": "2025-11-22",
-    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
-    "forks_count": 2,
-    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
+    "date_started": "2025-11-21",
+    "date_updated": "2025-11-21",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/galgalo12/Microsoft-Defender-for-Endpoint-RCE-Detection-Device-Isolation-Lab",
     "keywords": [
-        "Windows remote code execution"
+        "Microsoft rce"
     ],
-    "language": "Python",
-    "repo_name": "Backdoor",
-    "repo_owner": "Zayden-Cyber",
-    "repotime": "2025-11-22, 03:40:54",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "language": null,
+    "repo_name": "Microsoft-Defender-for-Endpoint-RCE-Detection-Device-Isolation-Lab",
+    "repo_owner": "galgalo12",
+    "repotime": "2025-11-21, 15:23:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 5,
@@ -284,23 +403,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 465,
-    "date_started": "2025-11-16",
-    "date_updated": "2025-11-21",
-    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Watermlks/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C#",
-    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
-    "repo_owner": "Watermlks",
-    "repotime": "2025-11-21, 13:57:54",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 5,
     "date_started": "2025-11-21",
     "date_updated": "2025-11-21",
@@ -337,38 +439,21 @@
     "watchers_count": 403
 }
 {
-    "commits_count": 13,
-    "date_started": "2025-07-20",
+    "commits_count": 38,
+    "date_started": "2025-11-07",
     "date_updated": "2025-11-21",
-    "description": "🛡️ Bypass DEP/NX protection on Windows x64 using hardware breakpoints and instruction emulation to execute code from non-executable memory.",
-    "forks_count": 0,
-    "html_url": "https://github.com/prateek123s/HWBP-DEP-Bypass",
+    "description": "Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time execution. Loads unsigned drivers by surgically patching SeCiCallbacks via native subsystem. Includes anti-loop protection and dual-path architecture. Windows 11 25H2 driver signature enforcement bypass",
+    "forks_count": 1,
+    "html_url": "https://github.com/wesmar/KernelResearchKit",
     "keywords": [
-        "dep bypass"
+        "kernel patch protection bypass"
     ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "prateek123s",
-    "repotime": "2025-11-21, 04:35:19",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 12,
-    "date_started": "2024-04-11",
-    "date_updated": "2025-11-21",
-    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
-    "forks_count": 0,
-    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "kal21k",
-    "repotime": "2025-11-21, 05:31:28",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "language": "C++",
+    "repo_name": "KernelResearchKit",
+    "repo_owner": "wesmar",
+    "repotime": "2025-11-21, 12:54:59",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 2,
@@ -507,23 +592,6 @@
     "repotime": "2025-11-20, 01:12:49",
     "stargazers_count": 709,
     "watchers_count": 709
-}
-{
-    "commits_count": 2795,
-    "date_started": "2009-12-19",
-    "date_updated": "2025-11-20",
-    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2268,
-    "html_url": "https://github.com/jhy/jsoup",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Java",
-    "repo_name": "jsoup",
-    "repo_owner": "jhy",
-    "repotime": "2025-11-20, 10:59:22",
-    "stargazers_count": 11281,
-    "watchers_count": 11281
 }
 {
     "commits_count": 6,
@@ -974,23 +1042,6 @@
     "repotime": "2025-11-17, 11:56:04",
     "stargazers_count": 2,
     "watchers_count": 2
-}
-{
-    "commits_count": 37,
-    "date_started": "2025-11-07",
-    "date_updated": "2025-11-16",
-    "description": "Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time execution. Loads unsigned drivers by surgically patching SeCiCallbacks via native subsystem. Includes anti-loop protection and dual-path architecture. Windows 11 25H2 driver signature enforcement bypass",
-    "forks_count": 0,
-    "html_url": "https://github.com/wesmar/KernelResearchKit",
-    "keywords": [
-        "kernel patch protection bypass"
-    ],
-    "language": "C++",
-    "repo_name": "KernelResearchKit",
-    "repo_owner": "wesmar",
-    "repotime": "2025-11-16, 23:31:07",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 4,
@@ -1760,8 +1811,8 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-11-09, 15:21:51",
-    "stargazers_count": 5031,
-    "watchers_count": 5031
+    "stargazers_count": 5032,
+    "watchers_count": 5032
 }
 {
     "commits_count": 246,
