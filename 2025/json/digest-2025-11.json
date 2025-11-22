@@ -1,4 +1,90 @@
 {
+    "commits_count": 75,
+    "date_started": "2025-11-21",
+    "date_updated": "2025-11-22",
+    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Karatepng/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution exploit"
+    ],
+    "language": "C++",
+    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "repo_owner": "Karatepng",
+    "repotime": "2025-11-22, 10:36:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-11-22",
+    "date_updated": "2025-11-22",
+    "description": "CVE-2025-26633 (CVSS 7.8) – Zero-day MMC .msc EvilTwin LPE actively exploited by Water Gamayun APT. PoC creates local admin via malicious MSC file on unpatched Windows 10/11/Server. Patched March 2025. Authorized testing only.",
+    "forks_count": 0,
+    "html_url": "https://github.com/mbanyamer/MSC-EvilTwin-Local-Privilege-Escalation",
+    "keywords": [
+        "Windows zero-day"
+    ],
+    "language": "Python",
+    "repo_name": "MSC-EvilTwin-Local-Privilege-Escalation",
+    "repo_owner": "mbanyamer",
+    "repotime": "2025-11-22, 13:09:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 539,
+    "date_started": "2025-11-16",
+    "date_updated": "2025-11-22",
+    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Watermlks/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C#",
+    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "repo_owner": "Watermlks",
+    "repotime": "2025-11-22, 09:22:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-07-20",
+    "date_updated": "2025-11-22",
+    "description": "🛡️ Bypass DEP/NX protection on Windows x64 using hardware breakpoints and instruction emulation to execute code from non-executable memory.",
+    "forks_count": 0,
+    "html_url": "https://github.com/prateek123s/HWBP-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HWBP-DEP-Bypass",
+    "repo_owner": "prateek123s",
+    "repotime": "2025-11-22, 03:19:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-04-11",
+    "date_updated": "2025-11-22",
+    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HWBP-DEP-Bypass",
+    "repo_owner": "kal21k",
+    "repotime": "2025-11-22, 04:15:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2022-11-15",
     "date_updated": "2025-11-22",
@@ -37,6 +123,24 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 13,
+    "date_started": "2020-06-23",
+    "date_updated": "2025-11-22",
+    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "sureshkumarsat",
+    "repotime": "2025-11-22, 13:36:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 10,
     "date_started": "2025-09-04",
     "date_updated": "2025-11-22",
@@ -55,22 +159,57 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 68,
-    "date_started": "2025-11-21",
+    "commits_count": 3,
+    "date_started": "2025-05-23",
     "date_updated": "2025-11-22",
-    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Karatepng/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
     "keywords": [
-        "Windows remote code execution",
-        "Windows remote code execution exploit"
+        "Windows remote code execution"
     ],
-    "language": "C++",
-    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
-    "repo_owner": "Karatepng",
-    "repotime": "2025-11-22, 07:55:11",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-11-22, 12:41:59",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-11-22",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-11-22, 09:39:36",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-13",
+    "date_updated": "2025-11-22",
+    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
+    "forks_count": 1,
+    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "MXSpoof",
+    "repo_owner": "debashishmishra1122",
+    "repotime": "2025-11-22, 13:05:28",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 42631,
@@ -86,23 +225,6 @@
     "repo_name": "Glbc-Modified",
     "repo_owner": "Md-Monowarul-Amin",
     "repotime": "2025-11-22, 12:55:05",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 527,
-    "date_started": "2025-11-16",
-    "date_updated": "2025-11-22",
-    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Watermlks/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C#",
-    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
-    "repo_owner": "Watermlks",
-    "repotime": "2025-11-22, 06:45:49",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -160,40 +282,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 13,
-    "date_started": "2025-07-20",
-    "date_updated": "2025-11-21",
-    "description": "🛡️ Bypass DEP/NX protection on Windows x64 using hardware breakpoints and instruction emulation to execute code from non-executable memory.",
-    "forks_count": 0,
-    "html_url": "https://github.com/prateek123s/HWBP-DEP-Bypass",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "prateek123s",
-    "repotime": "2025-11-21, 22:49:01",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 12,
-    "date_started": "2024-04-11",
-    "date_updated": "2025-11-21",
-    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
-    "forks_count": 0,
-    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "kal21k",
-    "repotime": "2025-11-21, 23:45:11",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 12,
     "date_started": "2022-04-06",
     "date_updated": "2025-11-21",
@@ -227,77 +315,6 @@
     "repotime": "2025-11-21, 23:17:18",
     "stargazers_count": 5,
     "watchers_count": 5
-}
-{
-    "commits_count": 13,
-    "date_started": "2020-06-23",
-    "date_updated": "2025-11-22",
-    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
-    "forks_count": 0,
-    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
-    "keywords": [
-        "sandbox escape exploit",
-        "sandbox escape poc"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "CVE-2025-31258-PoC",
-    "repo_owner": "sureshkumarsat",
-    "repotime": "2025-11-22, 09:07:59",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-05-23",
-    "date_updated": "2025-11-22",
-    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
-    "forks_count": 2,
-    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
-    "keywords": [
-        "Windows remote code execution"
-    ],
-    "language": "Python",
-    "repo_name": "Backdoor",
-    "repo_owner": "Zayden-Cyber",
-    "repotime": "2025-11-22, 08:12:26",
-    "stargazers_count": 10,
-    "watchers_count": 10
-}
-{
-    "commits_count": 7,
-    "date_started": "2025-05-21",
-    "date_updated": "2025-11-22",
-    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability"
-    ],
-    "language": null,
-    "repo_name": "vsftpd-backdoor-exploit",
-    "repo_owner": "Daniel1234mata",
-    "repotime": "2025-11-22, 05:09:49",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 5,
-    "date_started": "2025-05-13",
-    "date_updated": "2025-11-22",
-    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
-    "forks_count": 1,
-    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
-    "keywords": [
-        "spoofing vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "MXSpoof",
-    "repo_owner": "debashishmishra1122",
-    "repotime": "2025-11-22, 08:35:37",
-    "stargazers_count": 4,
-    "watchers_count": 4
 }
 {
     "commits_count": 2796,
@@ -1699,7 +1716,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2025-11-10",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6109,
+    "forks_count": 6108,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -1708,8 +1725,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-11-10, 09:40:19",
-    "stargazers_count": 35902,
-    "watchers_count": 35902
+    "stargazers_count": 35903,
+    "watchers_count": 35903
 }
 {
     "commits_count": 51,
