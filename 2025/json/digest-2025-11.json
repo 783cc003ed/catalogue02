@@ -1,4 +1,40 @@
 {
+    "commits_count": 44,
+    "date_started": "2025-11-23",
+    "date_updated": "2025-11-24",
+    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rositaestival406/proteus",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "proteus",
+    "repo_owner": "Rositaestival406",
+    "repotime": "2025-11-24, 03:17:16",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2025-11-06",
+    "date_updated": "2025-11-22",
+    "description": "This repository contains research notes and a high-level proof-of-concept (PoC) for CVE-2024-21413, a vulnerability observed in certain mail clients when handling SMB/moniker-style links embedded in messages. The PoC and experiments documented here were performed in a controlled lab environment on systems.",
+    "forks_count": 0,
+    "html_url": "https://github.com/gurleen-147/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability-PoC",
+    "keywords": [
+        "Microsoft remote code execution",
+        "Microsoft remote code execution poc",
+        "remote code execution poc"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability-PoC",
+    "repo_owner": "gurleen-147",
+    "repotime": "2025-11-22, 10:53:45",
+    "stargazers_count": 2,
+    "watchers_count": 2
+}
+{
     "commits_count": 103,
     "date_started": "2025-11-21",
     "date_updated": "2025-11-22",
@@ -2208,24 +2244,6 @@
     "repotime": "2025-11-06, 20:50:36",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 10,
-    "date_started": "2025-11-06",
-    "date_updated": "2025-11-06",
-    "description": "This repository contains research notes and a high-level proof-of-concept (PoC) for CVE-2024-21413, a vulnerability observed in certain mail clients when handling SMB/moniker-style links embedded in messages. The PoC and experiments documented here were performed in a controlled lab environment on systems.",
-    "forks_count": 0,
-    "html_url": "https://github.com/gurleen-147/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability-PoC",
-    "keywords": [
-        "Microsoft remote code execution",
-        "Microsoft remote code execution poc"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability-PoC",
-    "repo_owner": "gurleen-147",
-    "repotime": "2025-11-06, 12:19:56",
-    "stargazers_count": 2,
-    "watchers_count": 2
 }
 {
     "commits_count": 42,
