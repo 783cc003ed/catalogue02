@@ -495,8 +495,8 @@
     "repo_name": "CVE-2024-30850-chaos-rat-rce-poc",
     "repo_owner": "chebuya",
     "repotime": "2024-04-15, 13:46:32",
-    "stargazers_count": 28,
-    "watchers_count": 28
+    "stargazers_count": 30,
+    "watchers_count": 30
 }
 {
     "commits_count": 10,
@@ -812,7 +812,7 @@
     "date_started": "2024-03-20",
     "date_updated": "2024-04-07",
     "description": "Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.",
-    "forks_count": 327,
+    "forks_count": 328,
     "html_url": "https://github.com/Notselwyn/CVE-2024-1086",
     "keywords": [
         "escalation of privileges poc",

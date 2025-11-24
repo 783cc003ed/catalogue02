@@ -199,8 +199,8 @@
     "repo_name": "CVE-2025-59287",
     "repo_owner": "jiansiting",
     "repotime": "2025-10-28, 16:43:44",
-    "stargazers_count": 157,
-    "watchers_count": 157
+    "stargazers_count": 159,
+    "watchers_count": 159
 }
 {
     "commits_count": 13,
@@ -1392,14 +1392,15 @@
     "forks_count": 2,
     "html_url": "https://github.com/CharminDoge/tcb-lpe",
     "keywords": [
-        "Windows lpe"
+        "Windows lpe",
+        "lpe exploit"
     ],
     "language": "Go",
     "repo_name": "tcb-lpe",
     "repo_owner": "CharminDoge",
     "repotime": "2025-10-20, 03:08:58",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 10,
@@ -1914,23 +1915,6 @@
     "repo_name": "Local-File-Inclusion-Vulnerability-attack-HackTheBox",
     "repo_owner": "Thulani102",
     "repotime": "2025-10-14, 15:43:51",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 12,
-    "date_started": "2025-10-13",
-    "date_updated": "2025-10-14",
-    "description": "Crypto Dashboard is a modern and transparent dashboard with authentication enabled using jwt and cookies to login and authenticate the user and protect the dashboard from the unauthenticated users.",
-    "forks_count": 0,
-    "html_url": "https://github.com/waqas-404/Crypto-Dashboard",
-    "keywords": [
-        "unauthenticated user"
-    ],
-    "language": "JavaScript",
-    "repo_name": "Crypto-Dashboard",
-    "repo_owner": "waqas-404",
-    "repotime": "2025-10-14, 18:23:29",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -2645,7 +2629,7 @@
     "date_started": "2018-07-10",
     "date_updated": "2025-10-06",
     "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-    "forks_count": 2474,
+    "forks_count": 2475,
     "html_url": "https://github.com/kgretzky/evilginx2",
     "keywords": [
         "session attack"
@@ -2654,8 +2638,8 @@
     "repo_name": "evilginx2",
     "repo_owner": "kgretzky",
     "repotime": "2025-10-06, 12:23:37",
-    "stargazers_count": 14110,
-    "watchers_count": 14110
+    "stargazers_count": 14116,
+    "watchers_count": 14116
 }
 {
     "commits_count": 4,
@@ -2764,7 +2748,7 @@
     "date_started": "2022-10-01",
     "date_updated": "2025-10-04",
     "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
-    "forks_count": 404,
+    "forks_count": 405,
     "html_url": "https://github.com/r0oth3x49/ghauri",
     "keywords": [
         "sql injection"
@@ -2773,8 +2757,8 @@
     "repo_name": "ghauri",
     "repo_owner": "r0oth3x49",
     "repotime": "2025-10-04, 07:50:12",
-    "stargazers_count": 3781,
-    "watchers_count": 3781
+    "stargazers_count": 3783,
+    "watchers_count": 3783
 }
 {
     "commits_count": 1,
