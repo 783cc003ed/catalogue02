@@ -1716,7 +1716,7 @@
     "date_started": "2025-08-13",
     "date_updated": "2025-10-16",
     "description": "POCs for CVE-2025-50154 and CVE-2025-59214, zero day vulnerabilities on windows file explorer disclosing NTLMv2-SSP without user interaction. It is a bypass for the CVE-2025-24054 Security Patch",
-    "forks_count": 10,
+    "forks_count": 11,
     "html_url": "https://github.com/rubenformation/CVE-2025-50154",
     "keywords": [
         "Windows zero-day poc",
@@ -1727,8 +1727,8 @@
     "repo_name": "CVE-2025-50154",
     "repo_owner": "rubenformation",
     "repotime": "2025-10-16, 13:53:07",
-    "stargazers_count": 41,
-    "watchers_count": 41
+    "stargazers_count": 42,
+    "watchers_count": 42
 }
 {
     "commits_count": 4,
@@ -2621,8 +2621,8 @@
     "repo_name": "evilginx2",
     "repo_owner": "kgretzky",
     "repotime": "2025-10-06, 12:23:37",
-    "stargazers_count": 14118,
-    "watchers_count": 14118
+    "stargazers_count": 14119,
+    "watchers_count": 14119
 }
 {
     "commits_count": 4,
@@ -2846,6 +2846,23 @@
     "repotime": "2025-10-02, 20:18:01",
     "stargazers_count": 4,
     "watchers_count": 4
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-10-02",
+    "date_updated": "2025-10-02",
+    "description": "An AI powered marketplace where Med-Device suppliers can get connected with hospitals easier by bypassing Group Purchasing Organizations ",
+    "forks_count": 0,
+    "html_url": "https://github.com/yuyum0/ProcurList-deprecated",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "TypeScript",
+    "repo_name": "ProcurList-deprecated",
+    "repo_owner": "yuyum0",
+    "repotime": "2025-10-02, 14:49:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 2,
