@@ -1,7 +1,7 @@
 {
     "commits_count": 4,
     "date_started": "2022-11-15",
-    "date_updated": "2025-11-24",
+    "date_updated": "2025-11-25",
     "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
     "forks_count": 0,
     "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
@@ -11,7 +11,96 @@
     "language": null,
     "repo_name": "KQL-Queries-Defender-Sentinel",
     "repo_owner": "Juanjo9471",
-    "repotime": "2025-11-24, 21:13:48",
+    "repotime": "2025-11-25, 01:40:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-06-23",
+    "date_updated": "2025-11-25",
+    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "sureshkumarsat",
+    "repotime": "2025-11-25, 11:52:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-11-25",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-11-25, 07:56:48",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 67,
+    "date_started": "2024-11-10",
+    "date_updated": "2025-11-24",
+    "description": "Python scripts designed for escalating Windows Privileges and bypassing the blockage of cmd.exe",
+    "forks_count": 0,
+    "html_url": "https://github.com/vel2006/Errox_CMD",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": "Python",
+    "repo_name": "Errox_CMD",
+    "repo_owner": "vel2006",
+    "repotime": "2025-11-24, 23:41:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-11-23",
+    "date_updated": "2025-11-25",
+    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rositaestival406/proteus",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "proteus",
+    "repo_owner": "Rositaestival406",
+    "repotime": "2025-11-25, 03:25:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-04-06",
+    "date_updated": "2025-11-24",
+    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
+    "keywords": [
+        "uaf exploit",
+        "uaf vulnerability"
+    ],
+    "language": "CSS",
+    "repo_name": "CVE-2025-49844",
+    "repo_owner": "Zain3311",
+    "repotime": "2025-11-24, 21:53:48",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -37,74 +126,19 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 7,
-    "date_started": "2025-05-21",
-    "date_updated": "2025-11-25",
-    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability"
-    ],
-    "language": null,
-    "repo_name": "vsftpd-backdoor-exploit",
-    "repo_owner": "Daniel1234mata",
-    "repotime": "2025-11-25, 03:25:13",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 45,
-    "date_started": "2025-11-23",
+    "commits_count": 76,
+    "date_started": "2025-08-07",
     "date_updated": "2025-11-24",
-    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
+    "description": "Webpage for Bueler's course in introductory real analysis (MATH 401) at UAF.",
     "forks_count": 0,
-    "html_url": "https://github.com/Rositaestival406/proteus",
+    "html_url": "https://github.com/bueler/real",
     "keywords": [
-        "zero-day analysis"
+        "uaf analysis"
     ],
-    "language": "Python",
-    "repo_name": "proteus",
-    "repo_owner": "Rositaestival406",
-    "repotime": "2025-11-24, 14:19:15",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 12,
-    "date_started": "2022-04-06",
-    "date_updated": "2025-11-24",
-    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
-    "keywords": [
-        "uaf exploit",
-        "uaf vulnerability"
-    ],
-    "language": "CSS",
-    "repo_name": "CVE-2025-49844",
-    "repo_owner": "Zain3311",
-    "repotime": "2025-11-24, 08:44:59",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 13,
-    "date_started": "2020-06-23",
-    "date_updated": "2025-11-24",
-    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
-    "forks_count": 0,
-    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
-    "keywords": [
-        "sandbox escape exploit",
-        "sandbox escape poc"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "CVE-2025-31258-PoC",
-    "repo_owner": "sureshkumarsat",
-    "repotime": "2025-11-24, 18:11:20",
+    "language": "TeX",
+    "repo_name": "real",
+    "repo_owner": "bueler",
+    "repotime": "2025-11-24, 16:14:28",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -298,8 +332,8 @@
     "repo_name": "iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
     "repo_owner": "JGoyd",
     "repotime": "2025-11-23, 20:49:30",
-    "stargazers_count": 73,
-    "watchers_count": 73
+    "stargazers_count": 74,
+    "watchers_count": 74
 }
 {
     "commits_count": 11,
@@ -767,23 +801,6 @@
     "watchers_count": 19
 }
 {
-    "commits_count": 66,
-    "date_started": "2024-11-10",
-    "date_updated": "2025-11-21",
-    "description": "Python scripts designed for escalating Windows Privileges and bypassing the blockage of cmd.exe",
-    "forks_count": 0,
-    "html_url": "https://github.com/vel2006/Errox_CMD",
-    "keywords": [
-        "Windows escalation of privileges"
-    ],
-    "language": "Python",
-    "repo_name": "Errox_CMD",
-    "repo_owner": "vel2006",
-    "repotime": "2025-11-21, 13:34:01",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 2,
     "date_started": "2025-11-21",
     "date_updated": "2025-11-21",
@@ -888,23 +905,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 74,
-    "date_started": "2025-08-07",
-    "date_updated": "2025-11-20",
-    "description": "Webpage for Bueler's course in introductory real analysis (MATH 401) at UAF.",
-    "forks_count": 0,
-    "html_url": "https://github.com/bueler/real",
-    "keywords": [
-        "uaf analysis"
-    ],
-    "language": "TeX",
-    "repo_name": "real",
-    "repo_owner": "bueler",
-    "repotime": "2025-11-20, 17:46:30",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 45,
     "date_started": "2025-05-09",
     "date_updated": "2025-11-20",
@@ -954,6 +954,23 @@
     "repotime": "2025-11-20, 19:17:08",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-11-18",
+    "date_updated": "2025-11-19",
+    "description": "FortiWeb Remote Code Execution (RCE) Exploit via CVE-2025-64446 + CVE-2025-58034 Chain",
+    "forks_count": 2,
+    "html_url": "https://github.com/lincemorado97/CVE-2025-64446_CVE-2025-58034",
+    "keywords": [
+        "remote code execution exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-64446_CVE-2025-58034",
+    "repo_owner": "lincemorado97",
+    "repotime": "2025-11-19, 22:52:00",
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 141,
@@ -2497,8 +2514,8 @@
     "repo_name": "EtwLeakKernel",
     "repo_owner": "Idov31",
     "repotime": "2025-11-06, 19:22:00",
-    "stargazers_count": 85,
-    "watchers_count": 85
+    "stargazers_count": 86,
+    "watchers_count": 86
 }
 {
     "commits_count": 1,
@@ -2832,8 +2849,8 @@
     "repo_name": "Nginx-Lua-Anti-DDoS",
     "repo_owner": "C0nw0nk",
     "repotime": "2025-11-03, 17:05:17",
-    "stargazers_count": 1509,
-    "watchers_count": 1509
+    "stargazers_count": 1510,
+    "watchers_count": 1510
 }
 {
     "commits_count": 3,
@@ -2912,7 +2929,7 @@
     "date_started": "2025-11-01",
     "date_updated": "2025-11-03",
     "description": "CVE-2025-50168 Exploit PoC — Pwn2Own Berlin 2025 - LPE(Windows 11) winning bug.",
-    "forks_count": 13,
+    "forks_count": 14,
     "html_url": "https://github.com/D4m0n/CVE-2025-50168-pwn2own-berlin-2025",
     "keywords": [
         "Windows lpe",
@@ -2925,8 +2942,8 @@
     "repo_name": "CVE-2025-50168-pwn2own-berlin-2025",
     "repo_owner": "D4m0n",
     "repotime": "2025-11-03, 09:40:21",
-    "stargazers_count": 109,
-    "watchers_count": 109
+    "stargazers_count": 110,
+    "watchers_count": 110
 }
 {
     "commits_count": 8,
