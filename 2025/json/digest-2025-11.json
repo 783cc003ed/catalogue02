@@ -1,4 +1,74 @@
 {
+    "commits_count": 45,
+    "date_started": "2025-11-23",
+    "date_updated": "2025-11-25",
+    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rositaestival406/proteus",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "proteus",
+    "repo_owner": "Rositaestival406",
+    "repotime": "2025-11-25, 07:49:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 245,
+    "date_started": "2025-11-21",
+    "date_updated": "2025-11-25",
+    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Karatepng/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution exploit"
+    ],
+    "language": "C++",
+    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "repo_owner": "Karatepng",
+    "repotime": "2025-11-25, 07:33:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-04-06",
+    "date_updated": "2025-11-25",
+    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
+    "keywords": [
+        "uaf exploit",
+        "uaf vulnerability"
+    ],
+    "language": "CSS",
+    "repo_name": "CVE-2025-49844",
+    "repo_owner": "Zain3311",
+    "repotime": "2025-11-25, 02:19:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-11-25",
+    "date_updated": "2025-11-25",
+    "description": "Editor widget by handled improper input validation",
+    "forks_count": 0,
+    "html_url": "https://github.com/sahildhania/GIS-editor-widget",
+    "keywords": [
+        "improper input validation"
+    ],
+    "language": "JavaScript",
+    "repo_name": "GIS-editor-widget",
+    "repo_owner": "sahildhania",
+    "repotime": "2025-11-25, 07:04:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2022-11-15",
     "date_updated": "2025-11-25",
@@ -12,6 +82,44 @@
     "repo_name": "KQL-Queries-Defender-Sentinel",
     "repo_owner": "Juanjo9471",
     "repotime": "2025-11-25, 01:40:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-11-24",
+    "description": "🛡️ Exploit Akamai's RepositoryService XXE vulnerability (CVE-2025-49493) with this testbed, aiding in secure coding practices and vulnerability assessments.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Soham-id/2025hvv",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "2025hvv",
+    "repo_owner": "Soham-id",
+    "repotime": "2025-11-24, 22:26:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-11-25",
+    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
+    "keywords": [
+        "lpe poc",
+        "escalation of privileges poc",
+        "lpe proof of concept",
+        "lpe vulnerability",
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463_chwoot",
+    "repo_owner": "ashardev002",
+    "repotime": "2025-11-25, 11:56:30",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -34,6 +142,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-11-25",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-11-25, 10:59:01",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
     "commits_count": 7,
     "date_started": "2025-05-21",
     "date_updated": "2025-11-25",
@@ -53,6 +178,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 5,
+    "date_started": "2025-05-13",
+    "date_updated": "2025-11-25",
+    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
+    "forks_count": 1,
+    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "MXSpoof",
+    "repo_owner": "debashishmishra1122",
+    "repotime": "2025-11-25, 11:22:50",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 67,
     "date_started": "2024-11-10",
     "date_updated": "2025-11-24",
@@ -70,58 +212,19 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 45,
-    "date_started": "2025-11-23",
-    "date_updated": "2025-11-25",
-    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Rositaestival406/proteus",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": "Python",
-    "repo_name": "proteus",
-    "repo_owner": "Rositaestival406",
-    "repotime": "2025-11-25, 03:25:49",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 12,
-    "date_started": "2022-04-06",
+    "commits_count": 2,
+    "date_started": "2025-11-25",
     "date_updated": "2025-11-24",
-    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
+    "description": "drugs-stealth-developer | Advanced Windows Stealth Toolkit (2025) Process Hollowing | Reflective DLL Loading | Certificate Spoofing &amp;amp; Cloning | AMSI/ETW/WDAC Bypass | Syscall Stubbing | Anti-VM &amp;amp; Anti-Sandbox Educational security research toolkit focused on modern Windows evasion techniques.",
     "forks_count": 0,
-    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
+    "html_url": "https://github.com/drugsraul/Drugs",
     "keywords": [
-        "uaf exploit",
-        "uaf vulnerability"
+        "spoofing certificate"
     ],
-    "language": "CSS",
-    "repo_name": "CVE-2025-49844",
-    "repo_owner": "Zain3311",
-    "repotime": "2025-11-24, 21:53:48",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 15,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-11-25",
-    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
-    "keywords": [
-        "lpe poc",
-        "escalation of privileges poc",
-        "lpe proof of concept",
-        "lpe vulnerability",
-        "escalation of privileges proof of concept"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2025-32463_chwoot",
-    "repo_owner": "ashardev002",
-    "repotime": "2025-11-25, 07:28:23",
+    "language": null,
+    "repo_name": "Drugs",
+    "repo_owner": "drugsraul",
+    "repotime": "2025-11-24, 22:34:22",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -143,6 +246,40 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 1547,
+    "date_started": "2012-07-18",
+    "date_updated": "2025-11-24",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 441,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2025-11-24, 20:05:16",
+    "stargazers_count": 1705,
+    "watchers_count": 1705
+}
+{
+    "commits_count": 808,
+    "date_started": "2013-06-25",
+    "date_updated": "2025-11-24",
+    "description": "Cleans HTML to avoid XSS attacks",
+    "forks_count": 217,
+    "html_url": "https://github.com/mganss/HtmlSanitizer",
+    "keywords": [
+        "xss"
+    ],
+    "language": "C#",
+    "repo_name": "HtmlSanitizer",
+    "repo_owner": "mganss",
+    "repotime": "2025-11-24, 15:55:06",
+    "stargazers_count": 1664,
+    "watchers_count": 1664
+}
+{
     "commits_count": 10,
     "date_started": "2025-09-04",
     "date_updated": "2025-11-24",
@@ -157,58 +294,6 @@
     "repo_name": "lab-cve-2020-0610",
     "repo_owner": "Riocipta75",
     "repotime": "2025-11-24, 20:35:41",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-05-23",
-    "date_updated": "2025-11-24",
-    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
-    "forks_count": 2,
-    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
-    "keywords": [
-        "Windows remote code execution"
-    ],
-    "language": "Python",
-    "repo_name": "Backdoor",
-    "repo_owner": "Zayden-Cyber",
-    "repotime": "2025-11-24, 17:16:37",
-    "stargazers_count": 11,
-    "watchers_count": 11
-}
-{
-    "commits_count": 5,
-    "date_started": "2025-05-13",
-    "date_updated": "2025-11-24",
-    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
-    "forks_count": 1,
-    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
-    "keywords": [
-        "spoofing vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "MXSpoof",
-    "repo_owner": "debashishmishra1122",
-    "repotime": "2025-11-24, 17:40:22",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
-    "commits_count": 207,
-    "date_started": "2025-11-21",
-    "date_updated": "2025-11-24",
-    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Karatepng/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
-    "keywords": [
-        "Windows remote code execution",
-        "Windows remote code execution exploit"
-    ],
-    "language": "C++",
-    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
-    "repo_owner": "Karatepng",
-    "repotime": "2025-11-24, 11:59:59",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -283,6 +368,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 75,
+    "date_started": "2017-10-26",
+    "date_updated": "2025-11-24",
+    "description": "Server-Side Request Forgery (SSRF) protection plugin for HTTPlug",
+    "forks_count": 5,
+    "html_url": "https://github.com/j0k3r/httplug-ssrf-plugin",
+    "keywords": [
+        "server side request forgery"
+    ],
+    "language": "PHP",
+    "repo_name": "httplug-ssrf-plugin",
+    "repo_owner": "j0k3r",
+    "repotime": "2025-11-24, 06:51:50",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 3,
     "date_started": "2025-11-24",
     "date_updated": "2025-11-24",
@@ -334,23 +436,6 @@
     "repotime": "2025-11-23, 20:49:30",
     "stargazers_count": 74,
     "watchers_count": 74
-}
-{
-    "commits_count": 11,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-11-23",
-    "description": "🛡️ Exploit Akamai's RepositoryService XXE vulnerability (CVE-2025-49493) with this testbed, aiding in secure coding practices and vulnerability assessments.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Soham-id/2025hvv",
-    "keywords": [
-        "0day vulnerability"
-    ],
-    "language": null,
-    "repo_name": "2025hvv",
-    "repo_owner": "Soham-id",
-    "repotime": "2025-11-23, 17:48:00",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 1377,
@@ -510,23 +595,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 1551,
-    "date_started": "2012-07-18",
-    "date_updated": "2025-11-23",
-    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 441,
-    "html_url": "https://github.com/ron190/jsql-injection",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Java",
-    "repo_name": "jsql-injection",
-    "repo_owner": "ron190",
-    "repotime": "2025-11-23, 13:28:16",
-    "stargazers_count": 1702,
-    "watchers_count": 1702
-}
-{
     "commits_count": 27,
     "date_started": "2025-06-25",
     "date_updated": "2025-11-23",
@@ -559,6 +627,24 @@
     "repotime": "2025-11-23, 10:53:37",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 186,
+    "date_started": "2025-08-01",
+    "date_updated": "2025-11-23",
+    "description": "GarudRecon automates domain recon with top open-source tools to discover assets, enumerate subdomains, and detect XSS, SQLi, LFI, RCE &amp;amp; more.",
+    "forks_count": 40,
+    "html_url": "https://github.com/rix4uni/GarudRecon",
+    "keywords": [
+        "rce vulnerability",
+        "lfi"
+    ],
+    "language": "Shell",
+    "repo_name": "GarudRecon",
+    "repo_owner": "rix4uni",
+    "repotime": "2025-11-23, 09:21:49",
+    "stargazers_count": 179,
+    "watchers_count": 179
 }
 {
     "commits_count": 40,
@@ -612,6 +698,23 @@
     "repotime": "2025-11-22, 10:49:04",
     "stargazers_count": 5,
     "watchers_count": 5
+}
+{
+    "commits_count": 198,
+    "date_started": "2021-05-26",
+    "date_updated": "2025-11-22",
+    "description": "Create, edit and write a2l files with this rust crate",
+    "forks_count": 17,
+    "html_url": "https://github.com/DanielT/a2lfile",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "Rust",
+    "repo_name": "a2lfile",
+    "repo_owner": "DanielT",
+    "repotime": "2025-11-22, 16:42:54",
+    "stargazers_count": 28,
+    "watchers_count": 28
 }
 {
     "commits_count": 4,
@@ -754,7 +857,7 @@
     "date_started": "2009-12-19",
     "date_updated": "2025-11-22",
     "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2269,
+    "forks_count": 2268,
     "html_url": "https://github.com/jhy/jsoup",
     "keywords": [
         "xss"
@@ -1056,24 +1159,6 @@
     "repotime": "2025-11-19, 17:43:42",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 185,
-    "date_started": "2025-08-01",
-    "date_updated": "2025-11-19",
-    "description": "GarudRecon automates domain recon with top open-source tools to discover assets, enumerate subdomains, and detect XSS, SQLi, LFI, RCE &amp;amp; more.",
-    "forks_count": 40,
-    "html_url": "https://github.com/rix4uni/GarudRecon",
-    "keywords": [
-        "rce vulnerability",
-        "lfi"
-    ],
-    "language": "Shell",
-    "repo_name": "GarudRecon",
-    "repo_owner": "rix4uni",
-    "repotime": "2025-11-19, 18:24:21",
-    "stargazers_count": 176,
-    "watchers_count": 176
 }
 {
     "commits_count": 55,
@@ -1778,8 +1863,8 @@
     "repo_name": "loxs",
     "repo_owner": "coffinxp",
     "repotime": "2025-11-12, 17:54:26",
-    "stargazers_count": 1429,
-    "watchers_count": 1429
+    "stargazers_count": 1432,
+    "watchers_count": 1432
 }
 {
     "commits_count": 83,
@@ -2007,7 +2092,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2025-11-10",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6111,
+    "forks_count": 6113,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -2016,8 +2101,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-11-10, 09:40:19",
-    "stargazers_count": 35915,
-    "watchers_count": 35915
+    "stargazers_count": 35924,
+    "watchers_count": 35924
 }
 {
     "commits_count": 51,
@@ -2037,11 +2122,11 @@
     "watchers_count": 5
 }
 {
-    "commits_count": 2218,
+    "commits_count": 2219,
     "date_started": "2019-09-10",
     "date_updated": "2025-11-10",
     "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
-    "forks_count": 295,
+    "forks_count": 296,
     "html_url": "https://github.com/TongchengOpenSource/smart-doc",
     "keywords": [
         "code injection"
@@ -2050,8 +2135,8 @@
     "repo_name": "smart-doc",
     "repo_owner": "TongchengOpenSource",
     "repotime": "2025-11-10, 10:06:18",
-    "stargazers_count": 1587,
-    "watchers_count": 1587
+    "stargazers_count": 1588,
+    "watchers_count": 1588
 }
 {
     "commits_count": 3,
@@ -2119,11 +2204,11 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-11-09, 15:21:51",
-    "stargazers_count": 5032,
-    "watchers_count": 5032
+    "stargazers_count": 5033,
+    "watchers_count": 5033
 }
 {
-    "commits_count": 248,
+    "commits_count": 250,
     "date_started": "2024-05-30",
     "date_updated": "2025-11-09",
     "description": "Fourth evolution of Code Injection for Xcode",
@@ -2136,8 +2221,8 @@
     "repo_name": "InjectionNext",
     "repo_owner": "johnno1962",
     "repotime": "2025-11-09, 15:15:04",
-    "stargazers_count": 257,
-    "watchers_count": 257
+    "stargazers_count": 261,
+    "watchers_count": 261
 }
 {
     "commits_count": 7,
@@ -2921,8 +3006,8 @@
     "repo_name": "awesome-neural-sbi",
     "repo_owner": "smsharma",
     "repotime": "2025-11-02, 17:52:05",
-    "stargazers_count": 135,
-    "watchers_count": 135
+    "stargazers_count": 136,
+    "watchers_count": 136
 }
 {
     "commits_count": 1,
