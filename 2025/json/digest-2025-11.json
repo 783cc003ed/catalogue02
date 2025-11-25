@@ -1,4 +1,61 @@
 {
+    "commits_count": 4,
+    "date_started": "2022-11-15",
+    "date_updated": "2025-11-24",
+    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "KQL-Queries-Defender-Sentinel",
+    "repo_owner": "Juanjo9471",
+    "repotime": "2025-11-24, 21:13:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-11-25",
+    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
+    "keywords": [
+        "lpe poc",
+        "escalation of privileges poc",
+        "lpe proof of concept",
+        "lpe vulnerability",
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463_chwoot",
+    "repo_owner": "ashardev002",
+    "repotime": "2025-11-25, 07:28:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-11-25",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-11-25, 03:25:13",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 45,
     "date_started": "2025-11-23",
     "date_updated": "2025-11-24",
@@ -30,44 +87,6 @@
     "repo_name": "CVE-2025-49844",
     "repo_owner": "Zain3311",
     "repotime": "2025-11-24, 08:44:59",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 4,
-    "date_started": "2022-11-15",
-    "date_updated": "2025-11-24",
-    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
-    "keywords": [
-        "Microsoft zero-day"
-    ],
-    "language": null,
-    "repo_name": "KQL-Queries-Defender-Sentinel",
-    "repo_owner": "Juanjo9471",
-    "repotime": "2025-11-24, 08:00:38",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 15,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-11-24",
-    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
-    "keywords": [
-        "lpe poc",
-        "escalation of privileges poc",
-        "lpe proof of concept",
-        "lpe vulnerability",
-        "escalation of privileges proof of concept"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2025-32463_chwoot",
-    "repo_owner": "ashardev002",
-    "repotime": "2025-11-24, 18:15:21",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -123,25 +142,6 @@
     "repotime": "2025-11-24, 17:16:37",
     "stargazers_count": 11,
     "watchers_count": 11
-}
-{
-    "commits_count": 7,
-    "date_started": "2025-05-21",
-    "date_updated": "2025-11-24",
-    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability"
-    ],
-    "language": null,
-    "repo_name": "vsftpd-backdoor-exploit",
-    "repo_owner": "Daniel1234mata",
-    "repotime": "2025-11-24, 14:14:27",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 5,
