@@ -1,4 +1,58 @@
 {
+    "commits_count": 3,
+    "date_started": "2025-11-26",
+    "date_updated": "2025-11-25",
+    "description": "This repository documents a complete offensive security exploitation lab conducted using Kali Linux, Metasploitable2, Nmap, and Metasploit. The project demonstrates real-world attacker methodology including service discovery, vulnerability identification, exploitation, privilege escalation, bind shell access, and remote GUI compromise via VNC.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Toyins-m/Offensive-Security-Exploitation-Lab",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "Offensive-Security-Exploitation-Lab",
+    "repo_owner": "Toyins-m",
+    "repotime": "2025-11-25, 22:23:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2025-11-13",
+    "date_updated": "2025-11-26",
+    "description": "👩💻 Create a documentation-as-code CV showcasing your skills and experience, with an easy-to-download PDF version for sharing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Boydunbarred375/gi-cv",
+    "keywords": [
+        "Windows rce poc",
+        "Windows rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "gi-cv",
+    "repo_owner": "Boydunbarred375",
+    "repotime": "2025-11-26, 05:15:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2025-11-07",
+    "date_updated": "2025-11-25",
+    "description": "A UAF (use-after-free) vulnerability in Animation timelines allowed to achieve code execution in the content process in order to be potentially deanonymized. This issue was patched.",
+    "forks_count": 0,
+    "html_url": "https://github.com/lucky89144/Tor-0day-JavaScript-Exploit",
+    "keywords": [
+        "use after free exploit",
+        "0day exploit",
+        "uaf exploit"
+    ],
+    "language": "HTML",
+    "repo_name": "Tor-0day-JavaScript-Exploit",
+    "repo_owner": "lucky89144",
+    "repotime": "2025-11-25, 20:42:47",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
     "commits_count": 4,
     "date_started": "2022-11-15",
     "date_updated": "2025-11-25",
@@ -51,6 +105,25 @@
     "watchers_count": 25
 }
 {
+    "commits_count": 1379,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-11-26",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 122,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-11-26, 01:14:43",
+    "stargazers_count": 711,
+    "watchers_count": 711
+}
+{
     "commits_count": 274,
     "date_started": "2025-08-10",
     "date_updated": "2025-11-25",
@@ -81,24 +154,6 @@
     "repo_name": "proteus",
     "repo_owner": "Rositaestival406",
     "repotime": "2025-11-25, 15:25:39",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 30,
-    "date_started": "2025-11-13",
-    "date_updated": "2025-11-25",
-    "description": "👩💻 Create a documentation-as-code CV showcasing your skills and experience, with an easy-to-download PDF version for sharing.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Boydunbarred375/gi-cv",
-    "keywords": [
-        "Windows rce poc",
-        "Windows rce vulnerability"
-    ],
-    "language": null,
-    "repo_name": "gi-cv",
-    "repo_owner": "Boydunbarred375",
-    "repotime": "2025-11-25, 15:18:32",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -365,25 +420,6 @@
     "repotime": "2025-11-24, 16:14:28",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 1378,
-    "date_started": "2022-03-19",
-    "date_updated": "2025-11-25",
-    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-    "forks_count": 122,
-    "html_url": "https://github.com/GhostTroops/TOP",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "rce vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "TOP",
-    "repo_owner": "GhostTroops",
-    "repotime": "2025-11-25, 01:14:23",
-    "stargazers_count": 711,
-    "watchers_count": 711
 }
 {
     "commits_count": 808,
@@ -2325,25 +2361,6 @@
     "repotime": "2025-11-08, 16:23:11",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 13,
-    "date_started": "2025-11-07",
-    "date_updated": "2025-11-08",
-    "description": "A UAF (use-after-free) vulnerability in Animation timelines allowed to achieve code execution in the content process in order to be potentially deanonymized. This issue was patched.",
-    "forks_count": 0,
-    "html_url": "https://github.com/staxsum/Tor-0day-JavaScript-Exploit",
-    "keywords": [
-        "use after free exploit",
-        "0day exploit",
-        "uaf exploit"
-    ],
-    "language": "HTML",
-    "repo_name": "Tor-0day-JavaScript-Exploit",
-    "repo_owner": "staxsum",
-    "repotime": "2025-11-08, 11:13:30",
-    "stargazers_count": 4,
-    "watchers_count": 4
 }
 {
     "commits_count": 714,
