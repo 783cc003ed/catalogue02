@@ -1,4 +1,79 @@
 {
+    "commits_count": 4,
+    "date_started": "2022-11-15",
+    "date_updated": "2025-11-26",
+    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "KQL-Queries-Defender-Sentinel",
+    "repo_owner": "Juanjo9471",
+    "repotime": "2025-11-26, 07:57:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-11-26",
+    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
+    "keywords": [
+        "lpe poc",
+        "escalation of privileges poc",
+        "lpe proof of concept",
+        "lpe vulnerability",
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463_chwoot",
+    "repo_owner": "ashardev002",
+    "repotime": "2025-11-26, 18:12:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-06-23",
+    "date_updated": "2025-11-26",
+    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "sureshkumarsat",
+    "repotime": "2025-11-26, 18:09:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-11-26",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-11-26, 14:10:38",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 302,
     "date_started": "2025-11-21",
     "date_updated": "2025-11-26",
@@ -17,6 +92,24 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 190,
+    "date_started": "2023-01-21",
+    "date_updated": "2025-11-26",
+    "description": "This cheatsheet contains techniques, commands, and tools commonly used during penetration tests. It covers various stages of penetration testing, including enumeration, exploitation, lateral movement, privilege escalation, and post-exploitation.",
+    "forks_count": 3,
+    "html_url": "https://github.com/jwardsmith/Penetration-Testing",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "Penetration-Testing",
+    "repo_owner": "jwardsmith",
+    "repotime": "2025-11-26, 20:15:49",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 12,
     "date_started": "2022-04-06",
     "date_updated": "2025-11-26",
@@ -31,41 +124,6 @@
     "repo_name": "CVE-2025-49844",
     "repo_owner": "Zain3311",
     "repotime": "2025-11-26, 04:06:38",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 4,
-    "date_started": "2022-11-15",
-    "date_updated": "2025-11-26",
-    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
-    "keywords": [
-        "Microsoft zero-day"
-    ],
-    "language": null,
-    "repo_name": "KQL-Queries-Defender-Sentinel",
-    "repo_owner": "Juanjo9471",
-    "repotime": "2025-11-26, 03:27:49",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 13,
-    "date_started": "2020-06-23",
-    "date_updated": "2025-11-26",
-    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
-    "forks_count": 0,
-    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
-    "keywords": [
-        "sandbox escape exploit",
-        "sandbox escape poc"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "CVE-2025-31258-PoC",
-    "repo_owner": "sureshkumarsat",
-    "repotime": "2025-11-26, 13:40:23",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -122,25 +180,7 @@
     "watchers_count": 4
 }
 {
-    "commits_count": 176,
-    "date_started": "2023-01-21",
-    "date_updated": "2025-11-26",
-    "description": "This cheatsheet contains techniques, commands, and tools commonly used during penetration tests. It covers various stages of penetration testing, including enumeration, exploitation, lateral movement, privilege escalation, and post-exploitation.",
-    "forks_count": 3,
-    "html_url": "https://github.com/jwardsmith/Penetration-Testing",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation"
-    ],
-    "language": null,
-    "repo_name": "Penetration-Testing",
-    "repo_owner": "jwardsmith",
-    "repotime": "2025-11-26, 17:42:04",
-    "stargazers_count": 6,
-    "watchers_count": 6
-}
-{
-    "commits_count": 3,
+    "commits_count": 11,
     "date_started": "2025-11-26",
     "date_updated": "2025-11-25",
     "description": "This repository documents a complete offensive security exploitation lab conducted using Kali Linux, Metasploitable2, Nmap, and Metasploit. The project demonstrates real-world attacker methodology including service discovery, vulnerability identification, exploitation, privilege escalation, bind shell access, and remote GUI compromise via VNC.",
@@ -152,7 +192,24 @@
     "language": null,
     "repo_name": "Offensive-Security-Exploitation-Lab",
     "repo_owner": "Toyins-m",
-    "repotime": "2025-11-25, 22:23:47",
+    "repotime": "2025-11-25, 23:11:26",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-11-26",
+    "date_updated": "2025-11-26",
+    "description": "Proof-of-concept experiments testing whether Apple Silicon GPUs leak residual data across GPU memory regions. Includes three GPU probes implemented in Metal, demonstrating that modern Apple GPUs zero-initialize memory and block OOB reads.",
+    "forks_count": 0,
+    "html_url": "https://github.com/aashish-pandey/gpu-memory-probe-apple-silicon",
+    "keywords": [
+        "memory leak proof of concept"
+    ],
+    "language": "Swift",
+    "repo_name": "gpu-memory-probe-apple-silicon",
+    "repo_owner": "aashish-pandey",
+    "repotime": "2025-11-26, 01:55:30",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -194,27 +251,6 @@
     "watchers_count": 4
 }
 {
-    "commits_count": 15,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-11-26",
-    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
-    "keywords": [
-        "lpe poc",
-        "escalation of privileges poc",
-        "lpe proof of concept",
-        "lpe vulnerability",
-        "escalation of privileges proof of concept"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2025-32463_chwoot",
-    "repo_owner": "ashardev002",
-    "repotime": "2025-11-26, 09:29:13",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 33,
     "date_started": "2025-08-23",
     "date_updated": "2025-11-25",
@@ -230,25 +266,6 @@
     "repotime": "2025-11-25, 22:54:30",
     "stargazers_count": 25,
     "watchers_count": 25
-}
-{
-    "commits_count": 7,
-    "date_started": "2025-05-21",
-    "date_updated": "2025-11-26",
-    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability"
-    ],
-    "language": null,
-    "repo_name": "vsftpd-backdoor-exploit",
-    "repo_owner": "Daniel1234mata",
-    "repotime": "2025-11-26, 05:29:00",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 1379,
@@ -2684,8 +2701,8 @@
     "repo_name": "one_gadget",
     "repo_owner": "david942j",
     "repotime": "2025-11-06, 22:57:51",
-    "stargazers_count": 2254,
-    "watchers_count": 2254
+    "stargazers_count": 2255,
+    "watchers_count": 2255
 }
 {
     "commits_count": 2,
