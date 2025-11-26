@@ -11,7 +11,111 @@
     "language": null,
     "repo_name": "KQL-Queries-Defender-Sentinel",
     "repo_owner": "Juanjo9471",
-    "repotime": "2025-11-25, 09:11:16",
+    "repotime": "2025-11-25, 23:13:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-06-23",
+    "date_updated": "2025-11-26",
+    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "sureshkumarsat",
+    "repotime": "2025-11-26, 09:25:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 33,
+    "date_started": "2025-08-23",
+    "date_updated": "2025-11-25",
+    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
+    "forks_count": 7,
+    "html_url": "https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
+    "keywords": [
+        "sandbox escape exploit"
+    ],
+    "language": null,
+    "repo_name": "Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
+    "repo_owner": "JGoyd",
+    "repotime": "2025-11-25, 22:54:30",
+    "stargazers_count": 25,
+    "watchers_count": 25
+}
+{
+    "commits_count": 274,
+    "date_started": "2025-08-10",
+    "date_updated": "2025-11-25",
+    "description": "🔐 Cybersecurity Lab Reports &amp;amp; CTF Write-ups – Reconnaissance, exploitation, privilege escalation, and mitigation strategies 🛠️ | My curated archive of hacking challenges, vulnerability assessments, and hands-on security research 📂",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nish344/CTF-walkthroughs",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CTF-walkthroughs",
+    "repo_owner": "Nish344",
+    "repotime": "2025-11-25, 16:00:07",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-11-23",
+    "date_updated": "2025-11-25",
+    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rositaestival406/proteus",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "proteus",
+    "repo_owner": "Rositaestival406",
+    "repotime": "2025-11-25, 15:25:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2025-11-13",
+    "date_updated": "2025-11-25",
+    "description": "👩💻 Create a documentation-as-code CV showcasing your skills and experience, with an easy-to-download PDF version for sharing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Boydunbarred375/gi-cv",
+    "keywords": [
+        "Windows rce poc",
+        "Windows rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "gi-cv",
+    "repo_owner": "Boydunbarred375",
+    "repotime": "2025-11-25, 15:18:32",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-11-25",
+    "description": "🛡️ Exploit Akamai's RepositoryService XXE vulnerability (CVE-2025-49493) with this testbed, aiding in secure coding practices and vulnerability assessments.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Soham-id/2025hvv",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "2025hvv",
+    "repo_owner": "Soham-id",
+    "repotime": "2025-11-25, 05:56:17",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -33,24 +137,6 @@
     "repo_name": "CVE-2025-32463_chwoot",
     "repo_owner": "ashardev002",
     "repotime": "2025-11-25, 19:26:08",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 13,
-    "date_started": "2020-06-23",
-    "date_updated": "2025-11-25",
-    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
-    "forks_count": 0,
-    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
-    "keywords": [
-        "sandbox escape exploit",
-        "sandbox escape poc"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "CVE-2025-31258-PoC",
-    "repo_owner": "sureshkumarsat",
-    "repotime": "2025-11-25, 19:21:59",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -143,41 +229,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 45,
-    "date_started": "2025-11-23",
-    "date_updated": "2025-11-25",
-    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Rositaestival406/proteus",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": "Python",
-    "repo_name": "proteus",
-    "repo_owner": "Rositaestival406",
-    "repotime": "2025-11-25, 10:56:35",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 30,
-    "date_started": "2025-11-13",
-    "date_updated": "2025-11-25",
-    "description": "👩💻 Create a documentation-as-code CV showcasing your skills and experience, with an easy-to-download PDF version for sharing.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Boydunbarred375/gi-cv",
-    "keywords": [
-        "Windows rce poc",
-        "Windows rce vulnerability"
-    ],
-    "language": null,
-    "repo_name": "gi-cv",
-    "repo_owner": "Boydunbarred375",
-    "repotime": "2025-11-25, 10:48:41",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 12,
     "date_started": "2024-04-11",
     "date_updated": "2025-11-25",
@@ -209,23 +260,6 @@
     "repo_name": "CVE-2025-49844",
     "repo_owner": "Zain3311",
     "repotime": "2025-11-25, 05:25:50",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 11,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-11-25",
-    "description": "🛡️ Exploit Akamai's RepositoryService XXE vulnerability (CVE-2025-49493) with this testbed, aiding in secure coding practices and vulnerability assessments.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Soham-id/2025hvv",
-    "keywords": [
-        "0day vulnerability"
-    ],
-    "language": null,
-    "repo_name": "2025hvv",
-    "repo_owner": "Soham-id",
-    "repotime": "2025-11-25, 01:31:32",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -331,6 +365,25 @@
     "repotime": "2025-11-24, 16:14:28",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 1378,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-11-25",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 122,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-11-25, 01:14:23",
+    "stargazers_count": 711,
+    "watchers_count": 711
 }
 {
     "commits_count": 808,
@@ -470,25 +523,6 @@
     "repotime": "2025-11-23, 20:49:30",
     "stargazers_count": 74,
     "watchers_count": 74
-}
-{
-    "commits_count": 1377,
-    "date_started": "2022-03-19",
-    "date_updated": "2025-11-24",
-    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-    "forks_count": 122,
-    "html_url": "https://github.com/GhostTroops/TOP",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "rce vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "TOP",
-    "repo_owner": "GhostTroops",
-    "repotime": "2025-11-24, 01:18:59",
-    "stargazers_count": 710,
-    "watchers_count": 710
 }
 {
     "commits_count": 2,
@@ -1125,23 +1159,6 @@
     "repotime": "2025-11-19, 19:26:28",
     "stargazers_count": 150,
     "watchers_count": 150
-}
-{
-    "commits_count": 270,
-    "date_started": "2025-08-10",
-    "date_updated": "2025-11-19",
-    "description": "🔐 Cybersecurity Lab Reports &amp;amp; CTF Write-ups – Reconnaissance, exploitation, privilege escalation, and mitigation strategies 🛠️ | My curated archive of hacking challenges, vulnerability assessments, and hands-on security research 📂",
-    "forks_count": 0,
-    "html_url": "https://github.com/Nish344/CTF-walkthroughs",
-    "keywords": [
-        "escalation of privileges exploit"
-    ],
-    "language": null,
-    "repo_name": "CTF-walkthroughs",
-    "repo_owner": "Nish344",
-    "repotime": "2025-11-19, 16:56:22",
-    "stargazers_count": 3,
-    "watchers_count": 3
 }
 {
     "commits_count": 38,
@@ -1813,23 +1830,6 @@
     "repotime": "2025-11-13, 05:10:16",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 29,
-    "date_started": "2025-08-23",
-    "date_updated": "2025-11-12",
-    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
-    "forks_count": 6,
-    "html_url": "https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
-    "keywords": [
-        "sandbox escape exploit"
-    ],
-    "language": null,
-    "repo_name": "Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
-    "repo_owner": "JGoyd",
-    "repotime": "2025-11-12, 16:41:39",
-    "stargazers_count": 25,
-    "watchers_count": 25
 }
 {
     "commits_count": 13,
@@ -2641,7 +2641,7 @@
     "date_started": "2017-02-07",
     "date_updated": "2025-11-06",
     "description": "The best tool for finding one gadget RCE in libc.so.6",
-    "forks_count": 147,
+    "forks_count": 146,
     "html_url": "https://github.com/david942j/one_gadget",
     "keywords": [
         "rce exploit"
@@ -2650,8 +2650,8 @@
     "repo_name": "one_gadget",
     "repo_owner": "david942j",
     "repotime": "2025-11-06, 22:57:51",
-    "stargazers_count": 2253,
-    "watchers_count": 2253
+    "stargazers_count": 2254,
+    "watchers_count": 2254
 }
 {
     "commits_count": 2,
