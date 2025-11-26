@@ -1,4 +1,39 @@
 {
+    "commits_count": 45,
+    "date_started": "2025-11-23",
+    "date_updated": "2025-11-26",
+    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rositaestival406/proteus",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "proteus",
+    "repo_owner": "Rositaestival406",
+    "repotime": "2025-11-26, 14:12:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 307,
+    "date_started": "2025-11-21",
+    "date_updated": "2025-11-26",
+    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Karatepng/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution exploit"
+    ],
+    "language": "C++",
+    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "repo_owner": "Karatepng",
+    "repotime": "2025-11-26, 13:49:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2022-11-15",
     "date_updated": "2025-11-26",
@@ -12,6 +47,23 @@
     "repo_name": "KQL-Queries-Defender-Sentinel",
     "repo_owner": "Juanjo9471",
     "repotime": "2025-11-26, 07:57:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-11-26",
+    "description": "🛡️ Exploit Akamai's RepositoryService XXE vulnerability (CVE-2025-49493) with this testbed, aiding in secure coding practices and vulnerability assessments.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Soham-id/2025hvv",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "2025hvv",
+    "repo_owner": "Soham-id",
+    "repotime": "2025-11-26, 04:42:45",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -55,6 +107,41 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 10,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-11-26",
+    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "lab-cve-2020-0610",
+    "repo_owner": "Riocipta75",
+    "repotime": "2025-11-26, 20:32:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-11-26",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-11-26, 17:13:01",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
     "commits_count": 7,
     "date_started": "2025-05-21",
     "date_updated": "2025-11-26",
@@ -74,20 +161,71 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 302,
-    "date_started": "2025-11-21",
+    "commits_count": 5,
+    "date_started": "2025-05-13",
     "date_updated": "2025-11-26",
-    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Karatepng/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
+    "forks_count": 1,
+    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
     "keywords": [
-        "Windows remote code execution",
-        "Windows remote code execution exploit"
+        "spoofing vulnerability"
     ],
-    "language": "C++",
-    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
-    "repo_owner": "Karatepng",
-    "repotime": "2025-11-26, 10:56:34",
+    "language": "Shell",
+    "repo_name": "MXSpoof",
+    "repo_owner": "debashishmishra1122",
+    "repotime": "2025-11-26, 17:36:19",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 59,
+    "date_started": "2025-10-28",
+    "date_updated": "2025-11-26",
+    "description": "A new approach to fighting cross-session tracking: multi-layer online fingerprint obfuscation. Spoofs browser/OS (headers &amp;amp; JS), hardware, TLS cipher-suite, canvas, peripherals and much more.",
+    "forks_count": 1,
+    "html_url": "https://github.com/un-nf/404",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "Rust",
+    "repo_name": "404",
+    "repo_owner": "un-nf",
+    "repotime": "2025-11-26, 04:58:08",
+    "stargazers_count": 29,
+    "watchers_count": 29
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-11-26",
+    "date_updated": "2025-11-26",
+    "description": "MALTRAIL 0.52 Unauthenticated RCE Exploit",
+    "forks_count": 0,
+    "html_url": "https://github.com/chalabizada/Maltrail-0.52-Exploit-RCE",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Shell",
+    "repo_name": "Maltrail-0.52-Exploit-RCE",
+    "repo_owner": "chalabizada",
+    "repotime": "2025-11-26, 12:20:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2025-11-13",
+    "date_updated": "2025-11-26",
+    "description": "👩💻 Create a documentation-as-code CV showcasing your skills and experience, with an easy-to-download PDF version for sharing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Boydunbarred375/gi-cv",
+    "keywords": [
+        "Windows rce poc",
+        "Windows rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "gi-cv",
+    "repo_owner": "Boydunbarred375",
+    "repotime": "2025-11-26, 09:30:09",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -128,58 +266,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 10,
-    "date_started": "2025-09-04",
-    "date_updated": "2025-11-26",
-    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
-    "keywords": [
-        "Windows rce",
-        "Windows rce vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "lab-cve-2020-0610",
-    "repo_owner": "Riocipta75",
-    "repotime": "2025-11-26, 16:05:05",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-05-23",
-    "date_updated": "2025-11-26",
-    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
-    "forks_count": 2,
-    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
-    "keywords": [
-        "Windows remote code execution"
-    ],
-    "language": "Python",
-    "repo_name": "Backdoor",
-    "repo_owner": "Zayden-Cyber",
-    "repotime": "2025-11-26, 12:46:58",
-    "stargazers_count": 10,
-    "watchers_count": 10
-}
-{
-    "commits_count": 5,
-    "date_started": "2025-05-13",
-    "date_updated": "2025-11-26",
-    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
-    "forks_count": 1,
-    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
-    "keywords": [
-        "spoofing vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "MXSpoof",
-    "repo_owner": "debashishmishra1122",
-    "repotime": "2025-11-26, 13:10:38",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
     "commits_count": 11,
     "date_started": "2025-11-26",
     "date_updated": "2025-11-25",
@@ -214,24 +300,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 30,
-    "date_started": "2025-11-13",
-    "date_updated": "2025-11-26",
-    "description": "👩💻 Create a documentation-as-code CV showcasing your skills and experience, with an easy-to-download PDF version for sharing.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Boydunbarred375/gi-cv",
-    "keywords": [
-        "Windows rce poc",
-        "Windows rce vulnerability"
-    ],
-    "language": null,
-    "repo_name": "gi-cv",
-    "repo_owner": "Boydunbarred375",
-    "repotime": "2025-11-26, 05:15:32",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 14,
     "date_started": "2025-11-07",
     "date_updated": "2025-11-25",
@@ -249,6 +317,23 @@
     "repotime": "2025-11-25, 20:42:47",
     "stargazers_count": 4,
     "watchers_count": 4
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-11-25",
+    "date_updated": "2025-11-26",
+    "description": "Prix AI Security System is an extremely sophisticated, multi-layered security platform designed to detect, catch, and block the most dangerous cyber threats including Pegasus spyware, ransomware, APT attacks, and zero-day exploits. Our software provides military-grade protection that makes it extremely difficult to bypass.",
+    "forks_count": 2,
+    "html_url": "https://github.com/devmonixtechnologies/prix",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "Python",
+    "repo_name": "prix",
+    "repo_owner": "devmonixtechnologies",
+    "repotime": "2025-11-26, 09:29:32",
+    "stargazers_count": 16,
+    "watchers_count": 16
 }
 {
     "commits_count": 33,
@@ -287,6 +372,40 @@
     "watchers_count": 711
 }
 {
+    "commits_count": 9,
+    "date_started": "2025-11-26",
+    "date_updated": "2025-11-26",
+    "description": "Python implementation of Netdata LPE exploit",
+    "forks_count": 0,
+    "html_url": "https://github.com/julichaan/CVE-2024-32019-ndsudo-local-privilege-escalation-NetData",
+    "keywords": [
+        "lpe exploit"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2024-32019-ndsudo-local-privilege-escalation-NetData",
+    "repo_owner": "julichaan",
+    "repotime": "2025-11-26, 01:47:06",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 57,
+    "date_started": "2025-10-27",
+    "date_updated": "2025-11-25",
+    "description": "Advanced zero-day static analysis engine built with Rust and Python for malware detection through entropy analysis, heuristics, and machine learning",
+    "forks_count": 0,
+    "html_url": "https://github.com/ChronoCoders/proteus",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "proteus",
+    "repo_owner": "ChronoCoders",
+    "repotime": "2025-11-25, 18:18:30",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 274,
     "date_started": "2025-08-10",
     "date_updated": "2025-11-25",
@@ -302,40 +421,6 @@
     "repotime": "2025-11-25, 16:00:07",
     "stargazers_count": 3,
     "watchers_count": 3
-}
-{
-    "commits_count": 45,
-    "date_started": "2025-11-23",
-    "date_updated": "2025-11-25",
-    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Rositaestival406/proteus",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": "Python",
-    "repo_name": "proteus",
-    "repo_owner": "Rositaestival406",
-    "repotime": "2025-11-25, 15:25:39",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 11,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-11-25",
-    "description": "🛡️ Exploit Akamai's RepositoryService XXE vulnerability (CVE-2025-49493) with this testbed, aiding in secure coding practices and vulnerability assessments.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Soham-id/2025hvv",
-    "keywords": [
-        "0day vulnerability"
-    ],
-    "language": null,
-    "repo_name": "2025hvv",
-    "repo_owner": "Soham-id",
-    "repotime": "2025-11-25, 05:56:17",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 812,
@@ -2603,23 +2688,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 42,
-    "date_started": "2025-10-27",
-    "date_updated": "2025-11-06",
-    "description": "Advanced zero-day static analysis engine built with Rust and Python for malware detection through entropy analysis, heuristics, and machine learning",
-    "forks_count": 0,
-    "html_url": "https://github.com/ChronoCoders/proteus",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": "Python",
-    "repo_name": "proteus",
-    "repo_owner": "ChronoCoders",
-    "repotime": "2025-11-06, 13:04:57",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 2,
     "date_started": "2025-11-06",
     "date_updated": "2025-11-06",
@@ -2875,8 +2943,8 @@
     "repo_name": "CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day",
     "repo_owner": "AdityaBhatt3010",
     "repotime": "2025-11-04, 15:01:20",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 1,
@@ -2985,8 +3053,8 @@
     "repo_name": "Nginx-Lua-Anti-DDoS",
     "repo_owner": "C0nw0nk",
     "repotime": "2025-11-03, 17:05:17",
-    "stargazers_count": 1510,
-    "watchers_count": 1510
+    "stargazers_count": 1513,
+    "watchers_count": 1513
 }
 {
     "commits_count": 3,
