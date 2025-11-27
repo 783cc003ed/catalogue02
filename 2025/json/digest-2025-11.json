@@ -1,24 +1,76 @@
 {
-    "commits_count": 45,
-    "date_started": "2025-11-23",
-    "date_updated": "2025-11-26",
-    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
+    "commits_count": 946,
+    "date_started": "2025-11-16",
+    "date_updated": "2025-11-27",
+    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
     "forks_count": 0,
-    "html_url": "https://github.com/Rositaestival406/proteus",
+    "html_url": "https://github.com/Watermlks/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
     "keywords": [
-        "zero-day analysis"
+        "dep bypass"
     ],
-    "language": "Python",
-    "repo_name": "proteus",
-    "repo_owner": "Rositaestival406",
-    "repotime": "2025-11-26, 14:12:22",
+    "language": "C#",
+    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "repo_owner": "Watermlks",
+    "repotime": "2025-11-27, 05:34:29",
     "stargazers_count": 0,
     "watchers_count": 0
 }
 {
-    "commits_count": 307,
-    "date_started": "2025-11-21",
+    "commits_count": 13,
+    "date_started": "2025-07-20",
     "date_updated": "2025-11-26",
+    "description": "🛡️ Bypass DEP/NX protection on Windows x64 using hardware breakpoints and instruction emulation to execute code from non-executable memory.",
+    "forks_count": 0,
+    "html_url": "https://github.com/prateek123s/HWBP-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HWBP-DEP-Bypass",
+    "repo_owner": "prateek123s",
+    "repotime": "2025-11-26, 22:22:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-04-11",
+    "date_updated": "2025-11-26",
+    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HWBP-DEP-Bypass",
+    "repo_owner": "kal21k",
+    "repotime": "2025-11-26, 23:18:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-04-06",
+    "date_updated": "2025-11-26",
+    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
+    "keywords": [
+        "uaf exploit",
+        "uaf vulnerability"
+    ],
+    "language": "CSS",
+    "repo_name": "CVE-2025-49844",
+    "repo_owner": "Zain3311",
+    "repotime": "2025-11-26, 23:11:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 341,
+    "date_started": "2025-11-21",
+    "date_updated": "2025-11-27",
     "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
     "forks_count": 0,
     "html_url": "https://github.com/Karatepng/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
@@ -29,7 +81,7 @@
     "language": "C++",
     "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
     "repo_owner": "Karatepng",
-    "repotime": "2025-11-26, 13:49:03",
+    "repotime": "2025-11-27, 04:01:55",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -46,7 +98,224 @@
     "language": null,
     "repo_name": "KQL-Queries-Defender-Sentinel",
     "repo_owner": "Juanjo9471",
-    "repotime": "2025-11-26, 07:57:50",
+    "repotime": "2025-11-26, 22:31:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-11-27",
+    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
+    "keywords": [
+        "lpe poc",
+        "escalation of privileges poc",
+        "lpe proof of concept",
+        "lpe vulnerability",
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463_chwoot",
+    "repo_owner": "ashardev002",
+    "repotime": "2025-11-27, 08:47:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-06-23",
+    "date_updated": "2025-11-27",
+    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "sureshkumarsat",
+    "repotime": "2025-11-27, 08:43:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-11-27",
+    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "lab-cve-2020-0610",
+    "repo_owner": "Riocipta75",
+    "repotime": "2025-11-27, 11:09:07",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-11-25",
+    "date_updated": "2025-11-26",
+    "description": "The goal of this project is to perform a full security assessment of the target machine, including reconnaissance, vulnerability analysis, and practical exploitation of exposed services. The objective is to gain unauthorized access, escalate privileges",
+    "forks_count": 0,
+    "html_url": "https://github.com/ArtemCyberLab/Project-Cold-VVars-",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "Project-Cold-VVars-",
+    "repo_owner": "ArtemCyberLab",
+    "repotime": "2025-11-26, 23:54:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 203,
+    "date_started": "2023-01-21",
+    "date_updated": "2025-11-27",
+    "description": "This cheatsheet contains techniques, commands, and tools commonly used during penetration tests. It covers various stages of penetration testing, including enumeration, exploitation, lateral movement, privilege escalation, and post-exploitation.",
+    "forks_count": 3,
+    "html_url": "https://github.com/jwardsmith/Penetration-Testing",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "Penetration-Testing",
+    "repo_owner": "jwardsmith",
+    "repotime": "2025-11-27, 13:53:19",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-11-27",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-11-27, 07:50:06",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-11-27",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-11-27, 04:47:38",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1380,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-11-27",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 123,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-11-27, 01:13:37",
+    "stargazers_count": 713,
+    "watchers_count": 713
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-11-26",
+    "date_updated": "2025-11-26",
+    "description": "Professional portfolio showcasing Active Directory exploitation, Windows privilege escalation, and enterprise infrastructure assessment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ForeverLX/offensive-security-portfolio",
+    "keywords": [
+        "Windows escalation of privileges"
+    ],
+    "language": null,
+    "repo_name": "offensive-security-portfolio",
+    "repo_owner": "ForeverLX",
+    "repotime": "2025-11-26, 16:52:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 259,
+    "date_started": "2015-02-01",
+    "date_updated": "2025-11-26",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 121,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2025-11-26, 17:41:58",
+    "stargazers_count": 403,
+    "watchers_count": 403
+}
+{
+    "commits_count": 11,
+    "date_started": "2025-11-26",
+    "date_updated": "2025-11-26",
+    "description": "A script for converting (sub)directories of stereo 3D .MPO files to side-by-side .JPGs for cross-eye 3d viewing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/PerH3R/MPO-to-SBS3D",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "Python",
+    "repo_name": "MPO-to-SBS3D",
+    "repo_owner": "PerH3R",
+    "repotime": "2025-11-26, 20:54:35",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-11-23",
+    "date_updated": "2025-11-26",
+    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rositaestival406/proteus",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "proteus",
+    "repo_owner": "Rositaestival406",
+    "repotime": "2025-11-26, 14:12:22",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -66,99 +335,6 @@
     "repotime": "2025-11-26, 04:42:45",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 15,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-11-26",
-    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
-    "keywords": [
-        "lpe poc",
-        "escalation of privileges poc",
-        "lpe proof of concept",
-        "lpe vulnerability",
-        "escalation of privileges proof of concept"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2025-32463_chwoot",
-    "repo_owner": "ashardev002",
-    "repotime": "2025-11-26, 18:12:42",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 13,
-    "date_started": "2020-06-23",
-    "date_updated": "2025-11-26",
-    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
-    "forks_count": 0,
-    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
-    "keywords": [
-        "sandbox escape exploit",
-        "sandbox escape poc"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "CVE-2025-31258-PoC",
-    "repo_owner": "sureshkumarsat",
-    "repotime": "2025-11-26, 18:09:08",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 10,
-    "date_started": "2025-09-04",
-    "date_updated": "2025-11-26",
-    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
-    "keywords": [
-        "Windows rce",
-        "Windows rce vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "lab-cve-2020-0610",
-    "repo_owner": "Riocipta75",
-    "repotime": "2025-11-26, 20:32:43",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-05-23",
-    "date_updated": "2025-11-26",
-    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
-    "forks_count": 2,
-    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
-    "keywords": [
-        "Windows remote code execution"
-    ],
-    "language": "Python",
-    "repo_name": "Backdoor",
-    "repo_owner": "Zayden-Cyber",
-    "repotime": "2025-11-26, 17:13:01",
-    "stargazers_count": 10,
-    "watchers_count": 10
-}
-{
-    "commits_count": 7,
-    "date_started": "2025-05-21",
-    "date_updated": "2025-11-26",
-    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability"
-    ],
-    "language": null,
-    "repo_name": "vsftpd-backdoor-exploit",
-    "repo_owner": "Daniel1234mata",
-    "repotime": "2025-11-26, 14:10:38",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 5,
@@ -226,42 +402,6 @@
     "repo_name": "gi-cv",
     "repo_owner": "Boydunbarred375",
     "repotime": "2025-11-26, 09:30:09",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 190,
-    "date_started": "2023-01-21",
-    "date_updated": "2025-11-26",
-    "description": "This cheatsheet contains techniques, commands, and tools commonly used during penetration tests. It covers various stages of penetration testing, including enumeration, exploitation, lateral movement, privilege escalation, and post-exploitation.",
-    "forks_count": 3,
-    "html_url": "https://github.com/jwardsmith/Penetration-Testing",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation"
-    ],
-    "language": null,
-    "repo_name": "Penetration-Testing",
-    "repo_owner": "jwardsmith",
-    "repotime": "2025-11-26, 20:15:49",
-    "stargazers_count": 6,
-    "watchers_count": 6
-}
-{
-    "commits_count": 12,
-    "date_started": "2022-04-06",
-    "date_updated": "2025-11-26",
-    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
-    "keywords": [
-        "uaf exploit",
-        "uaf vulnerability"
-    ],
-    "language": "CSS",
-    "repo_name": "CVE-2025-49844",
-    "repo_owner": "Zain3311",
-    "repotime": "2025-11-26, 04:06:38",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -339,7 +479,7 @@
     "commits_count": 33,
     "date_started": "2025-08-23",
     "date_updated": "2025-11-25",
-    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
+    "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, bypassing LockDown mode protection by exploiting ImageIO (CVE-2025-43300), then WebKit(CVE-2025-24201) and Core Media(CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
     "forks_count": 7,
     "html_url": "https://github.com/JGoyd/Glass-Cage-iOS18-CVE-2025-24085-CVE-2025-24201",
     "keywords": [
@@ -351,25 +491,6 @@
     "repotime": "2025-11-25, 22:54:30",
     "stargazers_count": 25,
     "watchers_count": 25
-}
-{
-    "commits_count": 1379,
-    "date_started": "2022-03-19",
-    "date_updated": "2025-11-26",
-    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-    "forks_count": 122,
-    "html_url": "https://github.com/GhostTroops/TOP",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "rce vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "TOP",
-    "repo_owner": "GhostTroops",
-    "repotime": "2025-11-26, 01:14:43",
-    "stargazers_count": 711,
-    "watchers_count": 711
 }
 {
     "commits_count": 9,
@@ -423,23 +544,6 @@
     "watchers_count": 3
 }
 {
-    "commits_count": 812,
-    "date_started": "2025-11-16",
-    "date_updated": "2025-11-25",
-    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Watermlks/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C#",
-    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
-    "repo_owner": "Watermlks",
-    "repotime": "2025-11-25, 11:58:49",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 1543,
     "date_started": "2012-07-18",
     "date_updated": "2025-11-25",
@@ -455,23 +559,6 @@
     "repotime": "2025-11-25, 12:36:33",
     "stargazers_count": 1705,
     "watchers_count": 1705
-}
-{
-    "commits_count": 12,
-    "date_started": "2024-04-11",
-    "date_updated": "2025-11-25",
-    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
-    "forks_count": 0,
-    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "kal21k",
-    "repotime": "2025-11-25, 05:36:49",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 8,
@@ -678,25 +765,6 @@
     "repotime": "2025-11-23, 18:37:55",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 258,
-    "date_started": "2015-02-01",
-    "date_updated": "2025-11-23",
-    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
-    "forks_count": 121,
-    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "xxe"
-    ],
-    "language": "HTML",
-    "repo_name": "Commodity-Injection-Signatures",
-    "repo_owner": "xsscx",
-    "repotime": "2025-11-23, 18:11:51",
-    "stargazers_count": 403,
-    "watchers_count": 403
 }
 {
     "commits_count": 13,
@@ -974,23 +1042,6 @@
     "watchers_count": 2
 }
 {
-    "commits_count": 13,
-    "date_started": "2025-07-20",
-    "date_updated": "2025-11-22",
-    "description": "🛡️ Bypass DEP/NX protection on Windows x64 using hardware breakpoints and instruction emulation to execute code from non-executable memory.",
-    "forks_count": 0,
-    "html_url": "https://github.com/prateek123s/HWBP-DEP-Bypass",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "prateek123s",
-    "repotime": "2025-11-22, 03:19:02",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 42631,
     "date_started": "2025-08-24",
     "date_updated": "2025-11-22",
@@ -1038,8 +1089,8 @@
     "repo_name": "jsoup",
     "repo_owner": "jhy",
     "repotime": "2025-11-22, 12:51:29",
-    "stargazers_count": 11284,
-    "watchers_count": 11284
+    "stargazers_count": 11285,
+    "watchers_count": 11285
 }
 {
     "commits_count": 11,
@@ -1303,7 +1354,7 @@
     "date_started": "2025-02-18",
     "date_updated": "2025-11-19",
     "description": "UAC Bypass using UIAccess program QuickAssist",
-    "forks_count": 18,
+    "forks_count": 21,
     "html_url": "https://github.com/R41N3RZUF477/QuickAssist_UAC_Bypass",
     "keywords": [
         "uac bypass"
@@ -1312,8 +1363,8 @@
     "repo_name": "QuickAssist_UAC_Bypass",
     "repo_owner": "R41N3RZUF477",
     "repotime": "2025-11-19, 19:26:28",
-    "stargazers_count": 150,
-    "watchers_count": 150
+    "stargazers_count": 189,
+    "watchers_count": 189
 }
 {
     "commits_count": 38,
@@ -1977,14 +2028,15 @@
     "forks_count": 0,
     "html_url": "https://github.com/BinRacer/ms08-067.py",
     "keywords": [
-        "Windows remote code execution vulnerability"
+        "Windows remote code execution vulnerability",
+        "Windows remote code execution"
     ],
     "language": "Python",
     "repo_name": "ms08-067.py",
     "repo_owner": "BinRacer",
     "repotime": "2025-11-13, 05:10:16",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 13,
@@ -2978,8 +3030,8 @@
     "repo_name": "kurasagi",
     "repo_owner": "NeoMaster831",
     "repotime": "2025-11-04, 13:51:33",
-    "stargazers_count": 214,
-    "watchers_count": 214
+    "stargazers_count": 215,
+    "watchers_count": 215
 }
 {
     "commits_count": 199,
@@ -3146,8 +3198,8 @@
     "repo_name": "CVE-2025-50168-pwn2own-berlin-2025",
     "repo_owner": "D4m0n",
     "repotime": "2025-11-03, 09:40:21",
-    "stargazers_count": 111,
-    "watchers_count": 111
+    "stargazers_count": 118,
+    "watchers_count": 118
 }
 {
     "commits_count": 8,
