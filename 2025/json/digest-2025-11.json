@@ -1,4 +1,23 @@
 {
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-11-27",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-11-27, 09:10:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 946,
     "date_started": "2025-11-16",
     "date_updated": "2025-11-27",
@@ -212,25 +231,6 @@
     "watchers_count": 10
 }
 {
-    "commits_count": 7,
-    "date_started": "2025-05-21",
-    "date_updated": "2025-11-27",
-    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability"
-    ],
-    "language": null,
-    "repo_name": "vsftpd-backdoor-exploit",
-    "repo_owner": "Daniel1234mata",
-    "repotime": "2025-11-27, 04:47:38",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 1380,
     "date_started": "2022-03-19",
     "date_updated": "2025-11-27",
@@ -286,6 +286,23 @@
     "watchers_count": 403
 }
 {
+    "commits_count": 1550,
+    "date_started": "2012-07-18",
+    "date_updated": "2025-11-26",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 441,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2025-11-26, 22:10:37",
+    "stargazers_count": 1705,
+    "watchers_count": 1705
+}
+{
     "commits_count": 11,
     "date_started": "2025-11-26",
     "date_updated": "2025-11-26",
@@ -303,6 +320,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 4,
+    "date_started": "2025-11-26",
+    "date_updated": "2025-11-26",
+    "description": "Remote Code Execution exploit for Nostromo nhttpd ≤ 1.9.6. Exploits directory traversal vulnerability using URL-encoded CRLF characters to execute arbitrary commands",
+    "forks_count": 0,
+    "html_url": "https://github.com/andknownmaly/CVE-2019-16278",
+    "keywords": [
+        "directory traversal vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2019-16278",
+    "repo_owner": "andknownmaly",
+    "repotime": "2025-11-26, 21:49:52",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 45,
     "date_started": "2025-11-23",
     "date_updated": "2025-11-26",
@@ -316,6 +350,23 @@
     "repo_name": "proteus",
     "repo_owner": "Rositaestival406",
     "repotime": "2025-11-26, 14:12:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-11-26",
+    "date_updated": "2025-11-26",
+    "description": "A Python-based Web Application Vulnerability Scanner that detects common security issues like Reflected XSS and SQL Injection using automated crawling, payload injection, response analysis, severity scoring, and reporting features. Includes a Flask web interface, JSON/CSV export, and a local vulnerable test environment for safe security testing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ArfaaTaj-savas/web-app-vulnerability-scanner",
+    "keywords": [
+        "csv injection"
+    ],
+    "language": null,
+    "repo_name": "web-app-vulnerability-scanner",
+    "repo_owner": "ArfaaTaj-savas",
+    "repotime": "2025-11-26, 18:42:18",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -527,6 +578,57 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 54,
+    "date_started": "2025-05-27",
+    "date_updated": "2025-11-25",
+    "description": "LFI verifier.",
+    "forks_count": 4,
+    "html_url": "https://github.com/lfi-project/lfi-verifier",
+    "keywords": [
+        "lfi"
+    ],
+    "language": "C",
+    "repo_name": "lfi-verifier",
+    "repo_owner": "lfi-project",
+    "repotime": "2025-11-25, 23:45:45",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-11-24",
+    "date_updated": "2025-11-25",
+    "description": "Neptune is a Web Application Firewall that you can use to protect your domains against common attacks (XSS, SSRF, SQLI, Path Traversal) and many others, it also can be used to hide your web server backend IP and protect against most DDoS attacks, come visit us !",
+    "forks_count": 0,
+    "html_url": "https://github.com/plumsydev/neptune-waf.app",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "neptune-waf.app",
+    "repo_owner": "plumsydev",
+    "repotime": "2025-11-25, 22:01:17",
+    "stargazers_count": 9,
+    "watchers_count": 9
+}
+{
+    "commits_count": 80,
+    "date_started": "2023-12-03",
+    "date_updated": "2025-11-25",
+    "description": "Prevent path traversal attacks at type level",
+    "forks_count": 0,
+    "html_url": "https://github.com/TheAlgorythm/path-ratchet",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "Rust",
+    "repo_name": "path-ratchet",
+    "repo_owner": "TheAlgorythm",
+    "repotime": "2025-11-25, 19:30:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 274,
     "date_started": "2025-08-10",
     "date_updated": "2025-11-25",
@@ -544,21 +646,21 @@
     "watchers_count": 3
 }
 {
-    "commits_count": 1543,
-    "date_started": "2012-07-18",
+    "commits_count": 10,
+    "date_started": "2025-11-24",
     "date_updated": "2025-11-25",
-    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 441,
-    "html_url": "https://github.com/ron190/jsql-injection",
+    "description": "Docker-based simulation of a Server-Side Request Forgery (SSRF) attack. Demonstrates vulnerability exploitation, credential exfiltration, and remediation techniques using PHP and Apache.",
+    "forks_count": 0,
+    "html_url": "https://github.com/RaffaeleD03/SSRF",
     "keywords": [
-        "sql injection"
+        "server side request forgery"
     ],
-    "language": "Java",
-    "repo_name": "jsql-injection",
-    "repo_owner": "ron190",
-    "repotime": "2025-11-25, 12:36:33",
-    "stargazers_count": 1705,
-    "watchers_count": 1705
+    "language": "PHP",
+    "repo_name": "SSRF",
+    "repo_owner": "RaffaeleD03",
+    "repotime": "2025-11-25, 16:59:46",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 8,
@@ -712,23 +814,6 @@
     "repotime": "2025-11-24, 06:51:50",
     "stargazers_count": 4,
     "watchers_count": 4
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-11-24",
-    "date_updated": "2025-11-24",
-    "description": "Neptune is a Web Application Firewall that you can use to protect your domains against common attacks (XSS, SSRF, SQLI, Path Traversal) and many others, it also can be used to hide your web server backend IP and protect against most DDoS attacks, come visit us ! https://neptune-waf.app/",
-    "forks_count": 0,
-    "html_url": "https://github.com/plumsydev/neptune-waf.app",
-    "keywords": [
-        "path traversal attack"
-    ],
-    "language": null,
-    "repo_name": "neptune-waf.app",
-    "repo_owner": "plumsydev",
-    "repotime": "2025-11-24, 05:12:11",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 36,
@@ -1415,23 +1500,6 @@
     "repo_name": "CVE-2025-64446",
     "repo_owner": "verylazytech",
     "repotime": "2025-11-19, 11:25:12",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 53,
-    "date_started": "2025-05-27",
-    "date_updated": "2025-11-18",
-    "description": "LFI verifier.",
-    "forks_count": 4,
-    "html_url": "https://github.com/lfi-project/lfi-verifier",
-    "keywords": [
-        "lfi"
-    ],
-    "language": "C",
-    "repo_name": "lfi-verifier",
-    "repo_owner": "lfi-project",
-    "repotime": "2025-11-18, 23:18:14",
     "stargazers_count": 4,
     "watchers_count": 4
 }
@@ -1517,8 +1585,8 @@
     "repo_name": "CVE-2025-64446",
     "repo_owner": "sensepost",
     "repotime": "2025-11-18, 18:27:01",
-    "stargazers_count": 19,
-    "watchers_count": 19
+    "stargazers_count": 20,
+    "watchers_count": 20
 }
 {
     "commits_count": 9,
@@ -1796,8 +1864,8 @@
     "repo_name": "SQLiDetector",
     "repo_owner": "eslam3kl",
     "repotime": "2025-11-16, 02:48:18",
-    "stargazers_count": 626,
-    "watchers_count": 626
+    "stargazers_count": 627,
+    "watchers_count": 627
 }
 {
     "commits_count": 32,
@@ -2193,23 +2261,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 79,
-    "date_started": "2023-12-03",
-    "date_updated": "2025-11-11",
-    "description": "Prevent path traversal attacks at type level",
-    "forks_count": 0,
-    "html_url": "https://github.com/TheAlgorythm/path-ratchet",
-    "keywords": [
-        "path traversal attack"
-    ],
-    "language": "Rust",
-    "repo_name": "path-ratchet",
-    "repo_owner": "TheAlgorythm",
-    "repotime": "2025-11-11, 00:33:25",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 6,
     "date_started": "2025-11-10",
     "date_updated": "2025-11-10",
@@ -2299,7 +2350,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2025-11-10",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6113,
+    "forks_count": 6118,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -2308,8 +2359,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-11-10, 09:40:19",
-    "stargazers_count": 35931,
-    "watchers_count": 35931
+    "stargazers_count": 35957,
+    "watchers_count": 35957
 }
 {
     "commits_count": 51,
@@ -2401,7 +2452,7 @@
     "date_started": "2019-04-19",
     "date_updated": "2025-11-09",
     "description": "Top disclosed reports from HackerOne",
-    "forks_count": 911,
+    "forks_count": 912,
     "html_url": "https://github.com/reddelexc/hackerone-reports",
     "keywords": [
         "xxe",
@@ -2411,11 +2462,11 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-11-09, 15:21:51",
-    "stargazers_count": 5033,
-    "watchers_count": 5033
+    "stargazers_count": 5035,
+    "watchers_count": 5035
 }
 {
-    "commits_count": 250,
+    "commits_count": 252,
     "date_started": "2024-05-30",
     "date_updated": "2025-11-09",
     "description": "Fourth evolution of Code Injection for Xcode",
@@ -2428,8 +2479,8 @@
     "repo_name": "InjectionNext",
     "repo_owner": "johnno1962",
     "repotime": "2025-11-09, 15:15:04",
-    "stargazers_count": 262,
-    "watchers_count": 262
+    "stargazers_count": 263,
+    "watchers_count": 263
 }
 {
     "commits_count": 7,
@@ -3105,8 +3156,8 @@
     "repo_name": "Nginx-Lua-Anti-DDoS",
     "repo_owner": "C0nw0nk",
     "repotime": "2025-11-03, 17:05:17",
-    "stargazers_count": 1513,
-    "watchers_count": 1513
+    "stargazers_count": 1514,
+    "watchers_count": 1514
 }
 {
     "commits_count": 3,
