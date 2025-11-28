@@ -72,6 +72,40 @@
     "watchers_count": 404
 }
 {
+    "commits_count": 3,
+    "date_started": "2025-11-27",
+    "date_updated": "2025-11-27",
+    "description": "CVE-2017-7921 is a critical vulnerability (CVSS score: 9.8) affecting multiple Hikvision IP camera and DVR models, first disclosed in 2017. It stems from an improper authentication flaw that allows unauthenticated remote attackers to bypass login mechanisms and gain unauthorized access to sensitive system information",
+    "forks_count": 0,
+    "html_url": "https://github.com/f3d0rq/CVE-2017-7921",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2017-7921",
+    "repo_owner": "f3d0rq",
+    "repotime": "2025-11-27, 23:45:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-11-27",
+    "date_updated": "2025-11-27",
+    "description": "CVE-2021-43798 is a high-severity path traversal vulnerability (CVSS 3.1 score: 7.5) affecting Grafana versions 8.0.0-beta1 through 8.3.0. It allows unauthenticated attackers to read arbitrary files from the server by exploiting improper sanitization in the /public/plugins/:pluginId endpoint",
+    "forks_count": 0,
+    "html_url": "https://github.com/f3d0rq/CVE-2021-43798",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-43798",
+    "repo_owner": "f3d0rq",
+    "repotime": "2025-11-27, 22:59:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 6,
     "date_started": "2025-11-27",
     "date_updated": "2025-11-27",
