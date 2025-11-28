@@ -1,4 +1,89 @@
 {
+    "commits_count": 1065,
+    "date_started": "2025-11-16",
+    "date_updated": "2025-11-28",
+    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Watermlks/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C#",
+    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "repo_owner": "Watermlks",
+    "repotime": "2025-11-28, 15:13:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-11-28",
+    "date_updated": "2025-11-28",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/beniah2/Log-analysis-using-Elastic-Logstash-Kibana-ELK-against-session-hijacking-and-captcha-bypass-attacks.",
+    "keywords": [
+        "session hijacking attack"
+    ],
+    "language": null,
+    "repo_name": "Log-analysis-using-Elastic-Logstash-Kibana-ELK-against-session-hijacking-and-captcha-bypass-attacks.",
+    "repo_owner": "beniah2",
+    "repotime": "2025-11-28, 08:51:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-11-22",
+    "date_updated": "2025-11-28",
+    "description": "Secure Pay is a mock banking portal designed to illustrate a financial workflow against common web threats, including credential stuffing, brute-force attacks, session hijacking, Cross-Site Request Forgery (CSRF), and replay attacks. ",
+    "forks_count": 0,
+    "html_url": "https://github.com/MightyMe10/SecurePay",
+    "keywords": [
+        "session hijacking attack"
+    ],
+    "language": "Python",
+    "repo_name": "SecurePay",
+    "repo_owner": "MightyMe10",
+    "repotime": "2025-11-28, 18:37:53",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-04-11",
+    "date_updated": "2025-11-28",
+    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HWBP-DEP-Bypass",
+    "repo_owner": "kal21k",
+    "repotime": "2025-11-28, 08:30:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-07-20",
+    "date_updated": "2025-11-28",
+    "description": "🛡️ Bypass DEP/NX protection on Windows x64 using hardware breakpoints and instruction emulation to execute code from non-executable memory.",
+    "forks_count": 0,
+    "html_url": "https://github.com/prateek123s/HWBP-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HWBP-DEP-Bypass",
+    "repo_owner": "prateek123s",
+    "repotime": "2025-11-28, 07:29:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 12,
     "date_started": "2022-04-06",
     "date_updated": "2025-11-28",
@@ -34,6 +119,45 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 237,
+    "date_started": "2023-01-21",
+    "date_updated": "2025-11-28",
+    "description": "This cheatsheet contains techniques, commands, and tools commonly used during penetration tests. It covers various stages of penetration testing, including enumeration, exploitation, lateral movement, privilege escalation, and post-exploitation.",
+    "forks_count": 3,
+    "html_url": "https://github.com/jwardsmith/Penetration-Testing",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "Penetration-Testing",
+    "repo_owner": "jwardsmith",
+    "repotime": "2025-11-28, 23:34:11",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-11-28",
+    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
+    "keywords": [
+        "lpe poc",
+        "escalation of privileges poc",
+        "lpe proof of concept",
+        "lpe vulnerability",
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463_chwoot",
+    "repo_owner": "ashardev002",
+    "repotime": "2025-11-28, 17:53:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 13,
     "date_started": "2020-06-23",
     "date_updated": "2025-11-28",
@@ -48,6 +172,42 @@
     "repo_name": "CVE-2025-31258-PoC",
     "repo_owner": "sureshkumarsat",
     "repotime": "2025-11-28, 17:49:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10468,
+    "date_started": "2012-06-26",
+    "date_updated": "2025-11-28",
+    "description": "Automatic SQL injection and database takeover tool",
+    "forks_count": 6126,
+    "html_url": "https://github.com/sqlmapproject/sqlmap",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Python",
+    "repo_name": "sqlmap",
+    "repo_owner": "sqlmapproject",
+    "repotime": "2025-11-28, 13:16:40",
+    "stargazers_count": 35973,
+    "watchers_count": 35973
+}
+{
+    "commits_count": 417,
+    "date_started": "2025-11-21",
+    "date_updated": "2025-11-28",
+    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Karatepng/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution exploit",
+        "Windows remote code execution exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "repo_owner": "Karatepng",
+    "repotime": "2025-11-28, 11:57:16",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -67,6 +227,25 @@
     "repotime": "2025-11-28, 16:53:12",
     "stargazers_count": 10,
     "watchers_count": 10
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-11-28",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-11-28, 13:51:00",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 5,
@@ -105,45 +284,6 @@
     "watchers_count": 115
 }
 {
-    "commits_count": 236,
-    "date_started": "2023-01-21",
-    "date_updated": "2025-11-28",
-    "description": "This cheatsheet contains techniques, commands, and tools commonly used during penetration tests. It covers various stages of penetration testing, including enumeration, exploitation, lateral movement, privilege escalation, and post-exploitation.",
-    "forks_count": 3,
-    "html_url": "https://github.com/jwardsmith/Penetration-Testing",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation"
-    ],
-    "language": null,
-    "repo_name": "Penetration-Testing",
-    "repo_owner": "jwardsmith",
-    "repotime": "2025-11-28, 19:59:12",
-    "stargazers_count": 6,
-    "watchers_count": 6
-}
-{
-    "commits_count": 15,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-11-28",
-    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
-    "keywords": [
-        "lpe poc",
-        "escalation of privileges poc",
-        "lpe proof of concept",
-        "lpe vulnerability",
-        "escalation of privileges proof of concept"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2025-32463_chwoot",
-    "repo_owner": "ashardev002",
-    "repotime": "2025-11-28, 12:50:21",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 10,
     "date_started": "2025-09-04",
     "date_updated": "2025-11-28",
@@ -160,25 +300,6 @@
     "repotime": "2025-11-28, 15:11:12",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 7,
-    "date_started": "2025-05-21",
-    "date_updated": "2025-11-28",
-    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability"
-    ],
-    "language": null,
-    "repo_name": "vsftpd-backdoor-exploit",
-    "repo_owner": "Daniel1234mata",
-    "repotime": "2025-11-28, 08:50:10",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 1,
@@ -212,6 +333,23 @@
     "repo_name": "Project-Cold-VVars-",
     "repo_owner": "ArtemCyberLab",
     "repotime": "2025-11-27, 23:48:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 11,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-11-27",
+    "description": "🛡️ Exploit Akamai's RepositoryService XXE vulnerability (CVE-2025-49493) with this testbed, aiding in secure coding practices and vulnerability assessments.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Soham-id/2025hvv",
+    "keywords": [
+        "0day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "2025hvv",
+    "repo_owner": "Soham-id",
+    "repotime": "2025-11-27, 18:42:01",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -322,6 +460,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 1551,
+    "date_started": "2012-07-18",
+    "date_updated": "2025-11-27",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 441,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2025-11-27, 19:28:52",
+    "stargazers_count": 1706,
+    "watchers_count": 1706
+}
+{
     "commits_count": 9,
     "date_started": "2025-11-26",
     "date_updated": "2025-11-27",
@@ -357,21 +512,36 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 365,
-    "date_started": "2025-11-21",
+    "commits_count": 15,
+    "date_started": "2025-11-26",
     "date_updated": "2025-11-27",
-    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
+    "description": "A script for converting (sub)directories with stereo 3D .MPO files to side-by-side .JPGs for cross-eye 3d viewing.",
     "forks_count": 0,
-    "html_url": "https://github.com/Karatepng/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "html_url": "https://github.com/PerH3R/MPO-to-SBS3D",
     "keywords": [
-        "Windows remote code execution",
-        "Windows remote code execution exploit",
-        "Windows remote code execution exploitation"
+        "cross-side-scripting"
     ],
-    "language": "C++",
-    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
-    "repo_owner": "Karatepng",
-    "repotime": "2025-11-27, 14:54:39",
+    "language": "Python",
+    "repo_name": "MPO-to-SBS3D",
+    "repo_owner": "PerH3R",
+    "repotime": "2025-11-27, 16:13:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-11-27",
+    "date_updated": "2025-11-27",
+    "description": "<no description>",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xhyder/ASLR-BYPASS",
+    "keywords": [
+        "aslr bypass"
+    ],
+    "language": "C",
+    "repo_name": "ASLR-BYPASS",
+    "repo_owner": "0xhyder",
+    "repotime": "2025-11-27, 19:59:25",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -462,57 +632,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 958,
-    "date_started": "2025-11-16",
-    "date_updated": "2025-11-27",
-    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Watermlks/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C#",
-    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
-    "repo_owner": "Watermlks",
-    "repotime": "2025-11-27, 08:58:34",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 13,
-    "date_started": "2025-07-20",
-    "date_updated": "2025-11-27",
-    "description": "🛡️ Bypass DEP/NX protection on Windows x64 using hardware breakpoints and instruction emulation to execute code from non-executable memory.",
-    "forks_count": 0,
-    "html_url": "https://github.com/prateek123s/HWBP-DEP-Bypass",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "prateek123s",
-    "repotime": "2025-11-27, 02:42:59",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 12,
-    "date_started": "2024-04-11",
-    "date_updated": "2025-11-27",
-    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
-    "forks_count": 0,
-    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "kal21k",
-    "repotime": "2025-11-27, 03:39:46",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 5,
     "date_started": "2025-11-24",
     "date_updated": "2025-11-27",
@@ -564,23 +683,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 1550,
-    "date_started": "2012-07-18",
-    "date_updated": "2025-11-26",
-    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 441,
-    "html_url": "https://github.com/ron190/jsql-injection",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Java",
-    "repo_name": "jsql-injection",
-    "repo_owner": "ron190",
-    "repotime": "2025-11-26, 22:10:37",
-    "stargazers_count": 1705,
-    "watchers_count": 1705
-}
-{
     "commits_count": 46,
     "date_started": "2025-05-09",
     "date_updated": "2025-11-26",
@@ -596,23 +698,6 @@
     "repotime": "2025-11-26, 21:21:06",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 11,
-    "date_started": "2025-11-26",
-    "date_updated": "2025-11-26",
-    "description": "A script for converting (sub)directories of stereo 3D .MPO files to side-by-side .JPGs for cross-eye 3d viewing.",
-    "forks_count": 0,
-    "html_url": "https://github.com/PerH3R/MPO-to-SBS3D",
-    "keywords": [
-        "cross-side-scripting"
-    ],
-    "language": "Python",
-    "repo_name": "MPO-to-SBS3D",
-    "repo_owner": "PerH3R",
-    "repotime": "2025-11-26, 20:54:35",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 60,
@@ -662,23 +747,6 @@
     "repo_name": "web-app-vulnerability-scanner",
     "repo_owner": "ArfaaTaj-savas",
     "repotime": "2025-11-26, 18:42:18",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 11,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-11-26",
-    "description": "🛡️ Exploit Akamai's RepositoryService XXE vulnerability (CVE-2025-49493) with this testbed, aiding in secure coding practices and vulnerability assessments.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Soham-id/2025hvv",
-    "keywords": [
-        "0day vulnerability"
-    ],
-    "language": null,
-    "repo_name": "2025hvv",
-    "repo_owner": "Soham-id",
-    "repotime": "2025-11-26, 04:42:45",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -987,8 +1055,8 @@
     "repo_name": "HtmlSanitizer",
     "repo_owner": "mganss",
     "repotime": "2025-11-24, 15:55:06",
-    "stargazers_count": 1664,
-    "watchers_count": 1664
+    "stargazers_count": 1665,
+    "watchers_count": 1665
 }
 {
     "commits_count": 10,
@@ -1228,8 +1296,8 @@
     "repo_name": "GarudRecon",
     "repo_owner": "rix4uni",
     "repotime": "2025-11-23, 09:21:49",
-    "stargazers_count": 180,
-    "watchers_count": 180
+    "stargazers_count": 181,
+    "watchers_count": 181
 }
 {
     "commits_count": 40,
@@ -1300,23 +1368,6 @@
     "repotime": "2025-11-22, 16:42:54",
     "stargazers_count": 28,
     "watchers_count": 28
-}
-{
-    "commits_count": 4,
-    "date_started": "2025-11-22",
-    "date_updated": "2025-11-22",
-    "description": "Secure Pay is a mock banking portal designed to illustrate a financial workflow against common web threats, including credential stuffing, brute-force attacks, session hijacking, Cross-Site Request Forgery (CSRF), and replay attacks. ",
-    "forks_count": 0,
-    "html_url": "https://github.com/MightyMe10/SecurePay",
-    "keywords": [
-        "session hijacking attack"
-    ],
-    "language": "Python",
-    "repo_name": "SecurePay",
-    "repo_owner": "MightyMe10",
-    "repotime": "2025-11-22, 19:36:45",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 27,
@@ -1391,7 +1442,7 @@
     "date_started": "2009-12-19",
     "date_updated": "2025-11-22",
     "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2268,
+    "forks_count": 2270,
     "html_url": "https://github.com/jhy/jsoup",
     "keywords": [
         "xss"
@@ -1400,8 +1451,8 @@
     "repo_name": "jsoup",
     "repo_owner": "jhy",
     "repotime": "2025-11-22, 12:51:29",
-    "stargazers_count": 11285,
-    "watchers_count": 11285
+    "stargazers_count": 11290,
+    "watchers_count": 11290
 }
 {
     "commits_count": 11,
@@ -1674,8 +1725,8 @@
     "repo_name": "QuickAssist_UAC_Bypass",
     "repo_owner": "R41N3RZUF477",
     "repotime": "2025-11-19, 19:26:28",
-    "stargazers_count": 189,
-    "watchers_count": 189
+    "stargazers_count": 191,
+    "watchers_count": 191
 }
 {
     "commits_count": 55,
@@ -2074,8 +2125,8 @@
     "repo_name": "SQLiDetector",
     "repo_owner": "eslam3kl",
     "repotime": "2025-11-16, 02:48:18",
-    "stargazers_count": 627,
-    "watchers_count": 627
+    "stargazers_count": 628,
+    "watchers_count": 628
 }
 {
     "commits_count": 32,
@@ -2539,23 +2590,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 10467,
-    "date_started": "2012-06-26",
-    "date_updated": "2025-11-10",
-    "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6121,
-    "html_url": "https://github.com/sqlmapproject/sqlmap",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Python",
-    "repo_name": "sqlmap",
-    "repo_owner": "sqlmapproject",
-    "repotime": "2025-11-10, 09:40:19",
-    "stargazers_count": 35963,
-    "watchers_count": 35963
-}
-{
     "commits_count": 51,
     "date_started": "2024-04-22",
     "date_updated": "2025-11-10",
@@ -2586,8 +2620,8 @@
     "repo_name": "smart-doc",
     "repo_owner": "TongchengOpenSource",
     "repotime": "2025-11-10, 10:06:18",
-    "stargazers_count": 1588,
-    "watchers_count": 1588
+    "stargazers_count": 1590,
+    "watchers_count": 1590
 }
 {
     "commits_count": 3,
@@ -2645,7 +2679,7 @@
     "date_started": "2019-04-19",
     "date_updated": "2025-11-09",
     "description": "Top disclosed reports from HackerOne",
-    "forks_count": 912,
+    "forks_count": 914,
     "html_url": "https://github.com/reddelexc/hackerone-reports",
     "keywords": [
         "xxe",
@@ -2655,8 +2689,8 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-11-09, 15:21:51",
-    "stargazers_count": 5035,
-    "watchers_count": 5035
+    "stargazers_count": 5036,
+    "watchers_count": 5036
 }
 {
     "commits_count": 252,
@@ -3349,8 +3383,8 @@
     "repo_name": "Nginx-Lua-Anti-DDoS",
     "repo_owner": "C0nw0nk",
     "repotime": "2025-11-03, 17:05:17",
-    "stargazers_count": 1514,
-    "watchers_count": 1514
+    "stargazers_count": 1515,
+    "watchers_count": 1515
 }
 {
     "commits_count": 3,
@@ -3366,8 +3400,8 @@
     "repo_name": "cve-2025-59287-exploit-poc",
     "repo_owner": "dexterm300",
     "repotime": "2025-11-03, 03:57:43",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 71,
@@ -3421,8 +3455,8 @@
     "repo_name": "awesome-neural-sbi",
     "repo_owner": "smsharma",
     "repotime": "2025-11-02, 17:52:05",
-    "stargazers_count": 136,
-    "watchers_count": 136
+    "stargazers_count": 137,
+    "watchers_count": 137
 }
 {
     "commits_count": 1,
