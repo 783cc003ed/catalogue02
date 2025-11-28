@@ -1,4 +1,96 @@
 {
+    "commits_count": 4,
+    "date_started": "2022-11-15",
+    "date_updated": "2025-11-27",
+    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "KQL-Queries-Defender-Sentinel",
+    "repo_owner": "Juanjo9471",
+    "repotime": "2025-11-27, 21:57:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-11-25",
+    "date_updated": "2025-11-27",
+    "description": "The goal of this project is to perform a full security assessment of the target machine, including reconnaissance, vulnerability analysis, and practical exploitation of exposed services. The objective is to gain unauthorized access, escalate privileges",
+    "forks_count": 0,
+    "html_url": "https://github.com/ArtemCyberLab/Project-Cold-VVars-",
+    "keywords": [
+        "escalation of privileges vulnerability",
+        "escalation of privileges analysis"
+    ],
+    "language": null,
+    "repo_name": "Project-Cold-VVars-",
+    "repo_owner": "ArtemCyberLab",
+    "repotime": "2025-11-27, 23:48:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1381,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-11-28",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 124,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-11-28, 01:12:34",
+    "stargazers_count": 713,
+    "watchers_count": 713
+}
+{
+    "commits_count": 260,
+    "date_started": "2015-02-01",
+    "date_updated": "2025-11-27",
+    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
+    "forks_count": 121,
+    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "xxe"
+    ],
+    "language": "HTML",
+    "repo_name": "Commodity-Injection-Signatures",
+    "repo_owner": "xsscx",
+    "repotime": "2025-11-27, 17:49:01",
+    "stargazers_count": 404,
+    "watchers_count": 404
+}
+{
+    "commits_count": 37,
+    "date_started": "2022-04-16",
+    "date_updated": "2025-11-27",
+    "description": "Laravel RCE Exploit Script - CVE-2021-3129",
+    "forks_count": 26,
+    "html_url": "https://github.com/joshuavanderpoll/CVE-2021-3129",
+    "keywords": [
+        "rce vulnerability",
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-3129",
+    "repo_owner": "joshuavanderpoll",
+    "repotime": "2025-11-27, 16:43:37",
+    "stargazers_count": 115,
+    "watchers_count": 115
+}
+{
     "commits_count": 365,
     "date_started": "2025-11-21",
     "date_updated": "2025-11-27",
@@ -83,23 +175,6 @@
     "repo_name": "secure-load-tester",
     "repo_owner": "mahmud-r-farhan",
     "repotime": "2025-11-27, 18:57:51",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 4,
-    "date_started": "2022-11-15",
-    "date_updated": "2025-11-27",
-    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
-    "keywords": [
-        "Microsoft zero-day"
-    ],
-    "language": null,
-    "repo_name": "KQL-Queries-Defender-Sentinel",
-    "repo_owner": "Juanjo9471",
-    "repotime": "2025-11-27, 07:24:27",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -352,42 +427,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 3,
-    "date_started": "2025-11-25",
-    "date_updated": "2025-11-26",
-    "description": "The goal of this project is to perform a full security assessment of the target machine, including reconnaissance, vulnerability analysis, and practical exploitation of exposed services. The objective is to gain unauthorized access, escalate privileges",
-    "forks_count": 0,
-    "html_url": "https://github.com/ArtemCyberLab/Project-Cold-VVars-",
-    "keywords": [
-        "escalation of privileges vulnerability"
-    ],
-    "language": null,
-    "repo_name": "Project-Cold-VVars-",
-    "repo_owner": "ArtemCyberLab",
-    "repotime": "2025-11-26, 23:54:18",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 1380,
-    "date_started": "2022-03-19",
-    "date_updated": "2025-11-27",
-    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-    "forks_count": 123,
-    "html_url": "https://github.com/GhostTroops/TOP",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "rce vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "TOP",
-    "repo_owner": "GhostTroops",
-    "repotime": "2025-11-27, 01:13:37",
-    "stargazers_count": 713,
-    "watchers_count": 713
-}
-{
     "commits_count": 8,
     "date_started": "2025-11-26",
     "date_updated": "2025-11-26",
@@ -403,25 +442,6 @@
     "repotime": "2025-11-26, 16:52:02",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 259,
-    "date_started": "2015-02-01",
-    "date_updated": "2025-11-26",
-    "description": "Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT",
-    "forks_count": 121,
-    "html_url": "https://github.com/xsscx/Commodity-Injection-Signatures",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "xxe"
-    ],
-    "language": "HTML",
-    "repo_name": "Commodity-Injection-Signatures",
-    "repo_owner": "xsscx",
-    "repotime": "2025-11-26, 17:41:58",
-    "stargazers_count": 403,
-    "watchers_count": 403
 }
 {
     "commits_count": 1550,
@@ -2010,7 +2030,7 @@
     "date_started": "2025-11-14",
     "date_updated": "2025-11-13",
     "description": "CVE-2025-62215 is an Elevation of Privilege (EoP) vulnerability in the Windows Kernel, disclosed in November 2025 and confirmed to be actively exploited as a zero-day.",
-    "forks_count": 3,
+    "forks_count": 7,
     "html_url": "https://github.com/dexterm300/CVE-2025-62215-exploit-poc",
     "keywords": [
         "Windows zero-day"
@@ -2019,8 +2039,8 @@
     "repo_name": "CVE-2025-62215-exploit-poc",
     "repo_owner": "dexterm300",
     "repotime": "2025-11-13, 23:07:13",
-    "stargazers_count": 8,
-    "watchers_count": 8
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 31,
@@ -2899,7 +2919,7 @@
     "date_started": "2017-02-07",
     "date_updated": "2025-11-06",
     "description": "The best tool for finding one gadget RCE in libc.so.6",
-    "forks_count": 146,
+    "forks_count": 147,
     "html_url": "https://github.com/david942j/one_gadget",
     "keywords": [
         "rce exploit"
@@ -2908,8 +2928,8 @@
     "repo_name": "one_gadget",
     "repo_owner": "david942j",
     "repotime": "2025-11-06, 22:57:51",
-    "stargazers_count": 2255,
-    "watchers_count": 2255
+    "stargazers_count": 2256,
+    "watchers_count": 2256
 }
 {
     "commits_count": 2,
