@@ -1,7 +1,25 @@
 {
+    "commits_count": 12,
+    "date_started": "2022-04-06",
+    "date_updated": "2025-11-28",
+    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
+    "keywords": [
+        "uaf exploit",
+        "uaf vulnerability"
+    ],
+    "language": "CSS",
+    "repo_name": "CVE-2025-49844",
+    "repo_owner": "Zain3311",
+    "repotime": "2025-11-28, 08:18:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2022-11-15",
-    "date_updated": "2025-11-27",
+    "date_updated": "2025-11-28",
     "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
     "forks_count": 0,
     "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
@@ -11,7 +29,171 @@
     "language": null,
     "repo_name": "KQL-Queries-Defender-Sentinel",
     "repo_owner": "Juanjo9471",
-    "repotime": "2025-11-27, 21:57:56",
+    "repotime": "2025-11-28, 07:38:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-06-23",
+    "date_updated": "2025-11-28",
+    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "sureshkumarsat",
+    "repotime": "2025-11-28, 17:49:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-11-28",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-11-28, 16:53:12",
+    "stargazers_count": 10,
+    "watchers_count": 10
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-13",
+    "date_updated": "2025-11-28",
+    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
+    "forks_count": 1,
+    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "MXSpoof",
+    "repo_owner": "debashishmishra1122",
+    "repotime": "2025-11-28, 17:16:49",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 39,
+    "date_started": "2022-04-16",
+    "date_updated": "2025-11-28",
+    "description": "Laravel RCE Exploit Script - CVE-2021-3129",
+    "forks_count": 26,
+    "html_url": "https://github.com/joshuavanderpoll/CVE-2021-3129",
+    "keywords": [
+        "rce vulnerability",
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2021-3129",
+    "repo_owner": "joshuavanderpoll",
+    "repotime": "2025-11-28, 11:53:05",
+    "stargazers_count": 115,
+    "watchers_count": 115
+}
+{
+    "commits_count": 236,
+    "date_started": "2023-01-21",
+    "date_updated": "2025-11-28",
+    "description": "This cheatsheet contains techniques, commands, and tools commonly used during penetration tests. It covers various stages of penetration testing, including enumeration, exploitation, lateral movement, privilege escalation, and post-exploitation.",
+    "forks_count": 3,
+    "html_url": "https://github.com/jwardsmith/Penetration-Testing",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation"
+    ],
+    "language": null,
+    "repo_name": "Penetration-Testing",
+    "repo_owner": "jwardsmith",
+    "repotime": "2025-11-28, 19:59:12",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-11-28",
+    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
+    "keywords": [
+        "lpe poc",
+        "escalation of privileges poc",
+        "lpe proof of concept",
+        "lpe vulnerability",
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463_chwoot",
+    "repo_owner": "ashardev002",
+    "repotime": "2025-11-28, 12:50:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-11-28",
+    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "lab-cve-2020-0610",
+    "repo_owner": "Riocipta75",
+    "repotime": "2025-11-28, 15:11:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-11-28",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-11-28, 08:50:10",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-11-28",
+    "date_updated": "2025-11-28",
+    "description": "Term project for the Introduction to Machine Learning course of 2024-Winter session",
+    "forks_count": 0,
+    "html_url": "https://github.com/mlnha/IWC426-Prediction-Model-Project",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "IWC426-Prediction-Model-Project",
+    "repo_owner": "mlnha",
+    "repotime": "2025-11-28, 15:18:27",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -51,6 +233,40 @@
     "repotime": "2025-11-28, 01:12:34",
     "stargazers_count": 713,
     "watchers_count": 713
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-11-27",
+    "date_updated": "2025-11-28",
+    "description": "An RCE vulnerability in XWiki was found allowing unauthenticated attackers to execute arbitrary Groovy code remotely without authentication or prior access.",
+    "forks_count": 0,
+    "html_url": "https://github.com/dr4xp/xwiki-rce",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "xwiki-rce",
+    "repo_owner": "dr4xp",
+    "repotime": "2025-11-28, 01:03:42",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 77,
+    "date_started": "2025-08-07",
+    "date_updated": "2025-11-27",
+    "description": "Webpage for Bueler's course in introductory real analysis (MATH 401) at UAF.",
+    "forks_count": 0,
+    "html_url": "https://github.com/bueler/real",
+    "keywords": [
+        "uaf analysis"
+    ],
+    "language": "TeX",
+    "repo_name": "real",
+    "repo_owner": "bueler",
+    "repotime": "2025-11-27, 15:36:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 260,
@@ -106,6 +322,24 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 9,
+    "date_started": "2025-11-26",
+    "date_updated": "2025-11-27",
+    "description": "Professional portfolio showcasing Active Directory exploitation, Windows privilege escalation, and enterprise infrastructure assessment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ForeverLX/offensive-security-portfolio",
+    "keywords": [
+        "Windows escalation of privileges",
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "offensive-security-portfolio",
+    "repo_owner": "ForeverLX",
+    "repotime": "2025-11-27, 08:47:33",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 6,
     "date_started": "2025-11-27",
     "date_updated": "2025-11-27",
@@ -121,25 +355,6 @@
     "repotime": "2025-11-27, 16:37:41",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 37,
-    "date_started": "2022-04-16",
-    "date_updated": "2025-11-27",
-    "description": "Laravel RCE Exploit Script - CVE-2021-3129",
-    "forks_count": 26,
-    "html_url": "https://github.com/joshuavanderpoll/CVE-2021-3129",
-    "keywords": [
-        "rce vulnerability",
-        "rce exploit",
-        "rce exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2021-3129",
-    "repo_owner": "joshuavanderpoll",
-    "repotime": "2025-11-27, 16:43:37",
-    "stargazers_count": 115,
-    "watchers_count": 115
 }
 {
     "commits_count": 365,
@@ -230,134 +445,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 15,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-11-27",
-    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
-    "keywords": [
-        "lpe poc",
-        "escalation of privileges poc",
-        "lpe proof of concept",
-        "lpe vulnerability",
-        "escalation of privileges proof of concept"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2025-32463_chwoot",
-    "repo_owner": "ashardev002",
-    "repotime": "2025-11-27, 17:38:00",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 13,
-    "date_started": "2020-06-23",
-    "date_updated": "2025-11-27",
-    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
-    "forks_count": 0,
-    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
-    "keywords": [
-        "sandbox escape exploit",
-        "sandbox escape poc"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "CVE-2025-31258-PoC",
-    "repo_owner": "sureshkumarsat",
-    "repotime": "2025-11-27, 17:34:14",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 10,
-    "date_started": "2025-09-04",
-    "date_updated": "2025-11-27",
-    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
-    "keywords": [
-        "Windows rce",
-        "Windows rce vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "lab-cve-2020-0610",
-    "repo_owner": "Riocipta75",
-    "repotime": "2025-11-27, 19:58:19",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 205,
-    "date_started": "2023-01-21",
-    "date_updated": "2025-11-27",
-    "description": "This cheatsheet contains techniques, commands, and tools commonly used during penetration tests. It covers various stages of penetration testing, including enumeration, exploitation, lateral movement, privilege escalation, and post-exploitation.",
-    "forks_count": 3,
-    "html_url": "https://github.com/jwardsmith/Penetration-Testing",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation"
-    ],
-    "language": null,
-    "repo_name": "Penetration-Testing",
-    "repo_owner": "jwardsmith",
-    "repotime": "2025-11-27, 22:46:40",
-    "stargazers_count": 6,
-    "watchers_count": 6
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-05-23",
-    "date_updated": "2025-11-27",
-    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
-    "forks_count": 2,
-    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
-    "keywords": [
-        "Windows remote code execution"
-    ],
-    "language": "Python",
-    "repo_name": "Backdoor",
-    "repo_owner": "Zayden-Cyber",
-    "repotime": "2025-11-27, 16:38:52",
-    "stargazers_count": 10,
-    "watchers_count": 10
-}
-{
-    "commits_count": 7,
-    "date_started": "2025-05-21",
-    "date_updated": "2025-11-27",
-    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability"
-    ],
-    "language": null,
-    "repo_name": "vsftpd-backdoor-exploit",
-    "repo_owner": "Daniel1234mata",
-    "repotime": "2025-11-27, 13:36:40",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 5,
-    "date_started": "2025-05-13",
-    "date_updated": "2025-11-27",
-    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
-    "forks_count": 1,
-    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
-    "keywords": [
-        "spoofing vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "MXSpoof",
-    "repo_owner": "debashishmishra1122",
-    "repotime": "2025-11-27, 17:02:17",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
     "commits_count": 3,
     "date_started": "2025-11-26",
     "date_updated": "2025-11-27",
@@ -443,24 +530,6 @@
     "watchers_count": 9
 }
 {
-    "commits_count": 12,
-    "date_started": "2022-04-06",
-    "date_updated": "2025-11-27",
-    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
-    "keywords": [
-        "uaf exploit",
-        "uaf vulnerability"
-    ],
-    "language": "CSS",
-    "repo_name": "CVE-2025-49844",
-    "repo_owner": "Zain3311",
-    "repotime": "2025-11-27, 03:32:56",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 2,
     "date_started": "2025-11-05",
     "date_updated": "2025-11-27",
@@ -491,23 +560,6 @@
     "repo_name": "GIS-editor-widget",
     "repo_owner": "sahildhania",
     "repotime": "2025-11-27, 07:06:41",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 8,
-    "date_started": "2025-11-26",
-    "date_updated": "2025-11-26",
-    "description": "Professional portfolio showcasing Active Directory exploitation, Windows privilege escalation, and enterprise infrastructure assessment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ForeverLX/offensive-security-portfolio",
-    "keywords": [
-        "Windows escalation of privileges"
-    ],
-    "language": null,
-    "repo_name": "offensive-security-portfolio",
-    "repo_owner": "ForeverLX",
-    "repotime": "2025-11-26, 16:52:02",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -576,8 +628,8 @@
     "repo_name": "404",
     "repo_owner": "un-nf",
     "repotime": "2025-11-26, 12:01:02",
-    "stargazers_count": 29,
-    "watchers_count": 29
+    "stargazers_count": 31,
+    "watchers_count": 31
 }
 {
     "commits_count": 4,
@@ -721,7 +773,7 @@
     "date_updated": "2025-11-25",
     "description": "A UAF (use-after-free) vulnerability in Animation timelines allowed to achieve code execution in the content process in order to be potentially deanonymized. This issue was patched.",
     "forks_count": 0,
-    "html_url": "https://github.com/lucky89144/Tor-0day-JavaScript-Exploit",
+    "html_url": "https://github.com/moscovium-mc/Tor-0day-JavaScript-Exploit",
     "keywords": [
         "use after free exploit",
         "0day exploit",
@@ -729,7 +781,7 @@
     ],
     "language": "HTML",
     "repo_name": "Tor-0day-JavaScript-Exploit",
-    "repo_owner": "lucky89144",
+    "repo_owner": "moscovium-mc",
     "repotime": "2025-11-25, 20:42:47",
     "stargazers_count": 4,
     "watchers_count": 4
@@ -918,23 +970,6 @@
     "repo_name": "Drugs",
     "repo_owner": "drugsraul",
     "repotime": "2025-11-24, 22:34:22",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 76,
-    "date_started": "2025-08-07",
-    "date_updated": "2025-11-24",
-    "description": "Webpage for Bueler's course in introductory real analysis (MATH 401) at UAF.",
-    "forks_count": 0,
-    "html_url": "https://github.com/bueler/real",
-    "keywords": [
-        "uaf analysis"
-    ],
-    "language": "TeX",
-    "repo_name": "real",
-    "repo_owner": "bueler",
-    "repotime": "2025-11-24, 16:14:28",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -1558,6 +1593,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 3,
+    "date_started": "2025-11-20",
+    "date_updated": "2025-11-20",
+    "description": "On February 13th, 2024, Microsoft announced a Microsoft Outlook RCE &amp;amp; credential leak vulnerability with the assigned CVE of CVE-2024-21413 (Moniker Link). Haifei Li of Check Point Research is credited with discovering the vulnerability.  The vulnerability bypasses Outlook's security mechanisms when handing a specific type of hyperlink .",
+    "forks_count": 0,
+    "html_url": "https://github.com/hau2212/Moniker-Link-CVE-2024-21413-",
+    "keywords": [
+        "Microsoft rce vulnerability"
+    ],
+    "language": "Python",
+    "repo_name": "Moniker-Link-CVE-2024-21413-",
+    "repo_owner": "hau2212",
+    "repotime": "2025-11-20, 13:11:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2025-11-18",
     "date_updated": "2025-11-19",
@@ -1571,8 +1623,8 @@
     "repo_name": "CVE-2025-64446_CVE-2025-58034",
     "repo_owner": "lincemorado97",
     "repotime": "2025-11-19, 22:52:00",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 141,
