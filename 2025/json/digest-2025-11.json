@@ -1,4 +1,21 @@
 {
+    "commits_count": 45,
+    "date_started": "2025-11-23",
+    "date_updated": "2025-11-29",
+    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rositaestival406/proteus",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "proteus",
+    "repo_owner": "Rositaestival406",
+    "repotime": "2025-11-29, 04:12:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 453,
     "date_started": "2025-11-21",
     "date_updated": "2025-11-29",
@@ -104,23 +121,6 @@
     "repotime": "2025-11-29, 01:12:53",
     "stargazers_count": 713,
     "watchers_count": 713
-}
-{
-    "commits_count": 45,
-    "date_started": "2025-11-23",
-    "date_updated": "2025-11-28",
-    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Rositaestival406/proteus",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": "Python",
-    "repo_name": "proteus",
-    "repo_owner": "Rositaestival406",
-    "repotime": "2025-11-28, 23:36:01",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 1103,
@@ -408,6 +408,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 13,
+    "date_started": "2025-11-05",
+    "date_updated": "2025-11-28",
+    "description": "ZAST Express: Your Security Copilot in IDE.",
+    "forks_count": 0,
+    "html_url": "https://github.com/zast-ai/zast-extension",
+    "keywords": [
+        "0day poc"
+    ],
+    "language": "TypeScript",
+    "repo_name": "zast-extension",
+    "repo_owner": "zast-ai",
+    "repotime": "2025-11-28, 21:13:44",
+    "stargazers_count": 21,
+    "watchers_count": 21
+}
+{
     "commits_count": 10468,
     "date_started": "2012-06-26",
     "date_updated": "2025-11-28",
@@ -683,23 +700,6 @@
     "watchers_count": 9
 }
 {
-    "commits_count": 2,
-    "date_started": "2025-11-05",
-    "date_updated": "2025-11-27",
-    "description": "ZAST Express: Your Security Copilot in IDE.",
-    "forks_count": 0,
-    "html_url": "https://github.com/zast-ai/zast-extension",
-    "keywords": [
-        "0day poc"
-    ],
-    "language": "TypeScript",
-    "repo_name": "zast-extension",
-    "repo_owner": "zast-ai",
-    "repotime": "2025-11-27, 15:34:20",
-    "stargazers_count": 18,
-    "watchers_count": 18
-}
-{
     "commits_count": 12,
     "date_started": "2025-11-25",
     "date_updated": "2025-11-27",
@@ -823,17 +823,18 @@
     "date_started": "2025-11-26",
     "date_updated": "2025-11-26",
     "description": "Usermode exploit to bypass any AC using a 0day shatter attack.",
-    "forks_count": 37,
+    "forks_count": 43,
     "html_url": "https://github.com/waryas/WaryasSWHE",
     "keywords": [
-        "0day exploitation"
+        "0day exploitation",
+        "0day exploit"
     ],
     "language": "C++",
     "repo_name": "WaryasSWHE",
     "repo_owner": "waryas",
     "repotime": "2025-11-26, 11:53:29",
-    "stargazers_count": 144,
-    "watchers_count": 144
+    "stargazers_count": 160,
+    "watchers_count": 160
 }
 {
     "commits_count": 11,
