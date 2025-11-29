@@ -1,4 +1,40 @@
 {
+    "commits_count": 452,
+    "date_started": "2025-11-21",
+    "date_updated": "2025-11-28",
+    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Karatepng/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "keywords": [
+        "Windows remote code execution",
+        "Windows remote code execution exploit",
+        "Windows remote code execution exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
+    "repo_owner": "Karatepng",
+    "repotime": "2025-11-28, 23:57:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-11-23",
+    "date_updated": "2025-11-28",
+    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rositaestival406/proteus",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "proteus",
+    "repo_owner": "Rositaestival406",
+    "repotime": "2025-11-28, 23:36:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 1103,
     "date_started": "2025-11-16",
     "date_updated": "2025-11-28",
@@ -12,6 +48,41 @@
     "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
     "repo_owner": "Watermlks",
     "repotime": "2025-11-28, 23:31:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 30,
+    "date_started": "2025-11-13",
+    "date_updated": "2025-11-28",
+    "description": "👩💻 Create a documentation-as-code CV showcasing your skills and experience, with an easy-to-download PDF version for sharing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Boydunbarred375/gi-cv",
+    "keywords": [
+        "Windows rce poc",
+        "Windows rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "gi-cv",
+    "repo_owner": "Boydunbarred375",
+    "repotime": "2025-11-28, 23:29:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-11-28",
+    "date_updated": "2025-11-29",
+    "description": "MathGuardian - AI Security for DeepSeek-Math-V2  Zero-day security framework built in 18 hours. Blocks 4 critical vulnerabilities: data poisoning, reasoning hijacks, sandbox escapes, and model extraction. Real-time threat detection with 100% success rate.  Python | AST Analysis | Behavioral Security  ",
+    "forks_count": 0,
+    "html_url": "https://github.com/supantha8-debug/Math-guardian-Zero-Day-cybersecurity-AI-tool",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": null,
+    "repo_name": "Math-guardian-Zero-Day-cybersecurity-AI-tool",
+    "repo_owner": "supantha8-debug",
+    "repotime": "2025-11-29, 04:57:12",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -106,6 +177,24 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 10,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-11-29",
+    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "lab-cve-2020-0610",
+    "repo_owner": "Riocipta75",
+    "repotime": "2025-11-29, 05:57:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 241,
     "date_started": "2023-01-21",
     "date_updated": "2025-11-29",
@@ -122,6 +211,23 @@
     "repotime": "2025-11-29, 08:50:14",
     "stargazers_count": 6,
     "watchers_count": 6
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-11-29",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-11-29, 02:38:21",
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 7,
@@ -281,42 +387,6 @@
     "watchers_count": 35975
 }
 {
-    "commits_count": 417,
-    "date_started": "2025-11-21",
-    "date_updated": "2025-11-28",
-    "description": "RAT tools use shellcodes for remote access and system control. Shellcode injection and execution techniques bypass defenses, while red team tools focus on compiling and handling payloads for post-exploitation scenarios.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Karatepng/ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
-    "keywords": [
-        "Windows remote code execution",
-        "Windows remote code execution exploit",
-        "Windows remote code execution exploitation"
-    ],
-    "language": "C++",
-    "repo_name": "ShellCode-Encrypt-Tool-Xor-Aes-Fud-Stable",
-    "repo_owner": "Karatepng",
-    "repotime": "2025-11-28, 11:57:16",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-05-23",
-    "date_updated": "2025-11-28",
-    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
-    "forks_count": 2,
-    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
-    "keywords": [
-        "Windows remote code execution"
-    ],
-    "language": "Python",
-    "repo_name": "Backdoor",
-    "repo_owner": "Zayden-Cyber",
-    "repotime": "2025-11-28, 16:53:12",
-    "stargazers_count": 10,
-    "watchers_count": 10
-}
-{
     "commits_count": 39,
     "date_started": "2022-04-16",
     "date_updated": "2025-11-28",
@@ -336,24 +406,6 @@
     "watchers_count": 115
 }
 {
-    "commits_count": 10,
-    "date_started": "2025-09-04",
-    "date_updated": "2025-11-28",
-    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
-    "keywords": [
-        "Windows rce",
-        "Windows rce vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "lab-cve-2020-0610",
-    "repo_owner": "Riocipta75",
-    "repotime": "2025-11-28, 15:11:12",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 1,
     "date_started": "2025-11-28",
     "date_updated": "2025-11-28",
@@ -367,6 +419,23 @@
     "repo_name": "IWC426-Prediction-Model-Project",
     "repo_owner": "mlnha",
     "repotime": "2025-11-28, 15:18:27",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-11-26",
+    "date_updated": "2025-11-28",
+    "description": "​A terminal-based, RAG-powered dashboard for tracking real-time cybersecurity threats, zero-day exploits, and kernel vulnerabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Vatsalj17/cyber-news",
+    "keywords": [
+        "zero-day exploitation"
+    ],
+    "language": "Python",
+    "repo_name": "cyber-news",
+    "repo_owner": "Vatsalj17",
+    "repotime": "2025-11-28, 11:24:01",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -563,41 +632,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 45,
-    "date_started": "2025-11-23",
-    "date_updated": "2025-11-27",
-    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Rositaestival406/proteus",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": "Python",
-    "repo_name": "proteus",
-    "repo_owner": "Rositaestival406",
-    "repotime": "2025-11-27, 13:36:44",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 30,
-    "date_started": "2025-11-13",
-    "date_updated": "2025-11-27",
-    "description": "👩💻 Create a documentation-as-code CV showcasing your skills and experience, with an easy-to-download PDF version for sharing.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Boydunbarred375/gi-cv",
-    "keywords": [
-        "Windows rce poc",
-        "Windows rce vulnerability"
-    ],
-    "language": null,
-    "repo_name": "gi-cv",
-    "repo_owner": "Boydunbarred375",
-    "repotime": "2025-11-27, 13:29:41",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 34,
     "date_started": "2025-08-23",
     "date_updated": "2025-11-27",
@@ -628,23 +662,6 @@
     "repo_name": "secure-load-tester",
     "repo_owner": "mahmud-r-farhan",
     "repotime": "2025-11-27, 18:57:51",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-11-26",
-    "date_updated": "2025-11-27",
-    "description": "​A terminal-based, RAG-powered dashboard for tracking real-time cybersecurity threats, zero-day exploits, and kernel vulnerabilities.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Vatsalj17/cyber-news",
-    "keywords": [
-        "zero-day exploitation"
-    ],
-    "language": "Python",
-    "repo_name": "cyber-news",
-    "repo_owner": "Vatsalj17",
-    "repotime": "2025-11-27, 17:01:40",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -1142,8 +1159,8 @@
     "repo_name": "iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
     "repo_owner": "JGoyd",
     "repotime": "2025-11-23, 20:49:30",
-    "stargazers_count": 75,
-    "watchers_count": 75
+    "stargazers_count": 76,
+    "watchers_count": 76
 }
 {
     "commits_count": 2,
@@ -3480,7 +3497,7 @@
     "date_started": "2025-11-01",
     "date_updated": "2025-11-03",
     "description": "CVE-2025-50168 Exploit PoC — Pwn2Own Berlin 2025 - LPE(Windows 11) winning bug.",
-    "forks_count": 15,
+    "forks_count": 16,
     "html_url": "https://github.com/D4m0n/CVE-2025-50168-pwn2own-berlin-2025",
     "keywords": [
         "Windows lpe",
@@ -3493,8 +3510,8 @@
     "repo_name": "CVE-2025-50168-pwn2own-berlin-2025",
     "repo_owner": "D4m0n",
     "repotime": "2025-11-03, 09:40:21",
-    "stargazers_count": 123,
-    "watchers_count": 123
+    "stargazers_count": 124,
+    "watchers_count": 124
 }
 {
     "commits_count": 8,
