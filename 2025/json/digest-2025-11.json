@@ -1,4 +1,38 @@
 {
+    "commits_count": 3,
+    "date_started": "2025-11-30",
+    "date_updated": "2025-11-30",
+    "description": "CVE-2025-49132 is a critical arbitrary code execution vulnerability affecting the Pterodactyl game server management panel. This vulnerability allows unauthenticated remote attackers to execute arbitrary code on affected systems, potentially leading to full system compromise",
+    "forks_count": 0,
+    "html_url": "https://github.com/f3d0rq/CVE-2025-49132",
+    "keywords": [
+        "unauthenticated attacker"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-49132",
+    "repo_owner": "f3d0rq",
+    "repotime": "2025-11-30, 17:39:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1552,
+    "date_started": "2012-07-18",
+    "date_updated": "2025-11-29",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 441,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2025-11-29, 18:46:56",
+    "stargazers_count": 1706,
+    "watchers_count": 1706
+}
+{
     "commits_count": 45,
     "date_started": "2025-11-23",
     "date_updated": "2025-11-29",
@@ -320,23 +354,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 1547,
-    "date_started": "2012-07-18",
-    "date_updated": "2025-11-28",
-    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 441,
-    "html_url": "https://github.com/ron190/jsql-injection",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Java",
-    "repo_name": "jsql-injection",
-    "repo_owner": "ron190",
-    "repotime": "2025-11-28, 21:13:05",
-    "stargazers_count": 1706,
-    "watchers_count": 1706
-}
-{
     "commits_count": 40,
     "date_started": "2022-04-16",
     "date_updated": "2025-11-28",
@@ -411,7 +428,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2025-11-28",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6128,
+    "forks_count": 6132,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -420,8 +437,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-11-28, 13:16:40",
-    "stargazers_count": 35983,
-    "watchers_count": 35983
+    "stargazers_count": 35999,
+    "watchers_count": 35999
 }
 {
     "commits_count": 1,
