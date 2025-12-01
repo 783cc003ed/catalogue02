@@ -192,7 +192,7 @@
     "date_started": "2025-08-30",
     "date_updated": "2025-08-29",
     "description": "Glass Cage is a zero-click PNG-based RCE chain in iOS 18.2.1, exploiting WebKit (CVE-2025-24201) and Core Media (CVE-2025-24085) to achieve sandbox escape, kernel-level access, and device bricking. Triggered via iMessage, it enables full compromise with no user interaction.",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/5ky9uy/glass-cage-i18-2025-24085-and-cve-2025-24201",
     "keywords": [
         "sandbox escape exploit"
@@ -201,8 +201,8 @@
     "repo_name": "glass-cage-i18-2025-24085-and-cve-2025-24201",
     "repo_owner": "5ky9uy",
     "repotime": "2025-08-29, 20:20:27",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 2,
