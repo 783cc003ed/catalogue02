@@ -150,8 +150,8 @@
     "repo_name": "java-sec-code",
     "repo_owner": "JoyChou93",
     "repotime": "2024-06-28, 09:52:04",
-    "stargazers_count": 2615,
-    "watchers_count": 2615
+    "stargazers_count": 2620,
+    "watchers_count": 2620
 }
 {
     "commits_count": 6,
@@ -886,8 +886,8 @@
     "repo_name": "CVE-2024-26229-exploit",
     "repo_owner": "RalfHacker",
     "repotime": "2024-06-11, 23:41:59",
-    "stargazers_count": 136,
-    "watchers_count": 136
+    "stargazers_count": 137,
+    "watchers_count": 137
 }
 {
     "commits_count": 16,
@@ -950,14 +950,15 @@
     "forks_count": 2,
     "html_url": "https://github.com/K3ysTr0K3R/CVE-2024-4577-EXPLOIT",
     "keywords": [
-        "remote code execution exploitation"
+        "remote code execution exploitation",
+        "remote code execution poc"
     ],
     "language": "Python",
     "repo_name": "CVE-2024-4577-EXPLOIT",
     "repo_owner": "K3ysTr0K3R",
     "repotime": "2024-06-10, 07:12:44",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 8,
@@ -1033,7 +1034,7 @@
     "date_started": "2024-06-07",
     "date_updated": "2024-06-07",
     "description": "PHP CGI Argument Injection (CVE-2024-4577) Remote Code Execution PoC",
-    "forks_count": 64,
+    "forks_count": 65,
     "html_url": "https://github.com/watchtowrlabs/CVE-2024-4577",
     "keywords": [
         "remote code execution poc",
@@ -1043,8 +1044,8 @@
     "repo_name": "CVE-2024-4577",
     "repo_owner": "watchtowrlabs",
     "repotime": "2024-06-07, 05:53:14",
-    "stargazers_count": 300,
-    "watchers_count": 300
+    "stargazers_count": 301,
+    "watchers_count": 301
 }
 {
     "commits_count": 9,

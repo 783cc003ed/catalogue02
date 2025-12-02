@@ -226,7 +226,7 @@
     "date_started": "2023-09-25",
     "date_updated": "2025-09-28",
     "description": "Dedicated library for runtime code patching, injection and some useful memory utilities. works for both Android and Linux",
-    "forks_count": 38,
+    "forks_count": 39,
     "html_url": "https://github.com/MJx0/KittyMemoryEx",
     "keywords": [
         "code injection"
@@ -235,8 +235,8 @@
     "repo_name": "KittyMemoryEx",
     "repo_owner": "MJx0",
     "repotime": "2025-09-28, 02:09:41",
-    "stargazers_count": 138,
-    "watchers_count": 138
+    "stargazers_count": 139,
+    "watchers_count": 139
 }
 {
     "commits_count": 7,
@@ -2333,6 +2333,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 2,
+    "date_started": "2025-09-06",
+    "date_updated": "2025-09-06",
+    "description": "This report critically examines the Stuxnet worm an advanced persistent threat (APT) developed by the United States and Israel to sabotage Iran’s Natanz nuclear facility. It explores the origin, tactics, and impact of the attack, including its use of zero-day vulnerabilities, USB-based propagation, and manipulation of Siemens PLCs.",
+    "forks_count": 0,
+    "html_url": "https://github.com/PrabinPradhan07/-Analysis-of-the-Stuxnet-Cyberwarfare",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": null,
+    "repo_name": "-Analysis-of-the-Stuxnet-Cyberwarfare",
+    "repo_owner": "PrabinPradhan07",
+    "repotime": "2025-09-06, 23:50:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2025-09-06",
     "date_updated": "2025-09-06",
@@ -2490,7 +2507,7 @@
     "date_started": "2019-07-24",
     "date_updated": "2025-09-04",
     "description": "渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms",
-    "forks_count": 2029,
+    "forks_count": 2032,
     "html_url": "https://github.com/Mr-xn/Penetration_Testing_POC",
     "keywords": [
         "rce poc",
@@ -2500,8 +2517,8 @@
     "repo_name": "Penetration_Testing_POC",
     "repo_owner": "Mr-xn",
     "repotime": "2025-09-04, 22:16:07",
-    "stargazers_count": 7138,
-    "watchers_count": 7138
+    "stargazers_count": 7145,
+    "watchers_count": 7145
 }
 {
     "commits_count": 6,
@@ -2659,8 +2676,8 @@
     "repo_name": "defusedcsv",
     "repo_owner": "raphaelm",
     "repotime": "2025-09-03, 16:57:37",
-    "stargazers_count": 23,
-    "watchers_count": 23
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 5,

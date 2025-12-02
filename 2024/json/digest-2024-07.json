@@ -20,7 +20,7 @@
     "date_started": "2024-07-31",
     "date_updated": "2024-07-31",
     "description": "Demonstration of a critical vulnerability in WhatsApp that allows automatic execution of malicious .pyz (Python) files, leading to a reverse shell and privilege escalation on Windows systems. This exploit bypasses security checks in Windows Defender, UAC, antivirus software, and WhatsApp itself.",
-    "forks_count": 3,
+    "forks_count": 4,
     "html_url": "https://github.com/r000t1ng/Reverse-Shell-Whatsapp",
     "keywords": [
         "escalation of privileges exploit",
@@ -30,8 +30,8 @@
     "repo_name": "Reverse-Shell-Whatsapp",
     "repo_owner": "r000t1ng",
     "repotime": "2024-07-31, 03:45:48",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 8,
@@ -374,8 +374,8 @@
     "repo_name": "Resources-for-Beginner-Bug-Bounty-Hunters",
     "repo_owner": "nahamsec",
     "repotime": "2024-07-23, 10:01:39",
-    "stargazers_count": 11644,
-    "watchers_count": 11644
+    "stargazers_count": 11643,
+    "watchers_count": 11643
 }
 {
     "commits_count": 3,
@@ -871,8 +871,8 @@
     "repo_name": "pwn_jenkins",
     "repo_owner": "gquere",
     "repotime": "2024-07-10, 13:18:30",
-    "stargazers_count": 2090,
-    "watchers_count": 2090
+    "stargazers_count": 2089,
+    "watchers_count": 2089
 }
 {
     "commits_count": 2,

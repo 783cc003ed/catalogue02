@@ -190,7 +190,7 @@
     "date_started": "2025-10-25",
     "date_updated": "2025-10-28",
     "description": "WSUS Unauthenticated RCE",
-    "forks_count": 21,
+    "forks_count": 22,
     "html_url": "https://github.com/jiansiting/CVE-2025-59287",
     "keywords": [
         "unauthenticated rce"
@@ -199,8 +199,8 @@
     "repo_name": "CVE-2025-59287",
     "repo_owner": "jiansiting",
     "repotime": "2025-10-28, 16:43:44",
-    "stargazers_count": 160,
-    "watchers_count": 160
+    "stargazers_count": 161,
+    "watchers_count": 161
 }
 {
     "commits_count": 13,
@@ -815,23 +815,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 4,
-    "date_started": "2025-10-23",
-    "date_updated": "2025-10-23",
-    "description": "SSHS is an SSH DDOS attack tool that exploits a malformed payload vulnerability and fake pointers to trigger a Use-After-Free or Double-Free",
-    "forks_count": 0,
-    "html_url": "https://github.com/London44380/SSHS",
-    "keywords": [
-        "use after free exploit"
-    ],
-    "language": "Python",
-    "repo_name": "SSHS",
-    "repo_owner": "London44380",
-    "repotime": "2025-10-23, 13:28:30",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 8,
     "date_started": "2025-08-27",
     "date_updated": "2025-10-23",
@@ -1376,32 +1359,15 @@
     "html_url": "https://github.com/CharminDoge/tcb-lpe",
     "keywords": [
         "Windows lpe",
-        "lpe exploit"
+        "lpe exploit",
+        "Windows lpe exploit"
     ],
     "language": "Go",
     "repo_name": "tcb-lpe",
     "repo_owner": "CharminDoge",
     "repotime": "2025-10-20, 03:08:58",
-    "stargazers_count": 6,
-    "watchers_count": 6
-}
-{
-    "commits_count": 10,
-    "date_started": "2025-08-08",
-    "date_updated": "2025-10-19",
-    "description": "This CVE addresses a vulnerability in sudo versions 1.9.14 to 1.9.17, enabling unauthorized local privilege escalation to root access.",
-    "forks_count": 2,
-    "html_url": "https://github.com/Nowafen/CVE-2025-32463",
-    "keywords": [
-        "lpe exploit",
-        "lpe vulnerability"
-    ],
-    "language": "Go",
-    "repo_name": "CVE-2025-32463",
-    "repo_owner": "Nowafen",
-    "repotime": "2025-10-19, 23:02:59",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 7,
+    "watchers_count": 7
 }
 {
     "commits_count": 2,
@@ -2433,8 +2399,8 @@
     "repo_name": "ResourcePoison",
     "repo_owner": "michalbednarski",
     "repotime": "2025-10-08, 15:12:51",
-    "stargazers_count": 84,
-    "watchers_count": 84
+    "stargazers_count": 85,
+    "watchers_count": 85
 }
 {
     "commits_count": 11,
@@ -2595,7 +2561,7 @@
     "date_started": "2018-07-10",
     "date_updated": "2025-10-06",
     "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-    "forks_count": 2478,
+    "forks_count": 2481,
     "html_url": "https://github.com/kgretzky/evilginx2",
     "keywords": [
         "session attack"
@@ -2604,8 +2570,8 @@
     "repo_name": "evilginx2",
     "repo_owner": "kgretzky",
     "repotime": "2025-10-06, 12:23:37",
-    "stargazers_count": 14148,
-    "watchers_count": 14148
+    "stargazers_count": 14170,
+    "watchers_count": 14170
 }
 {
     "commits_count": 4,
@@ -2714,7 +2680,7 @@
     "date_started": "2022-10-01",
     "date_updated": "2025-10-04",
     "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
-    "forks_count": 405,
+    "forks_count": 407,
     "html_url": "https://github.com/r0oth3x49/ghauri",
     "keywords": [
         "sql injection"
@@ -2723,8 +2689,8 @@
     "repo_name": "ghauri",
     "repo_owner": "r0oth3x49",
     "repotime": "2025-10-04, 07:50:12",
-    "stargazers_count": 3791,
-    "watchers_count": 3791
+    "stargazers_count": 3795,
+    "watchers_count": 3795
 }
 {
     "commits_count": 1,
@@ -2869,7 +2835,7 @@
     "date_started": "2017-02-24",
     "date_updated": "2025-10-01",
     "description": "Wiki to collect Red Team infrastructure hardening resources",
-    "forks_count": 916,
+    "forks_count": 918,
     "html_url": "https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki",
     "keywords": [
         "by_owner"
@@ -2878,8 +2844,8 @@
     "repo_name": "Red-Team-Infrastructure-Wiki",
     "repo_owner": "bluscreenofjeff",
     "repotime": "2025-10-01, 10:10:58",
-    "stargazers_count": 4393,
-    "watchers_count": 4393
+    "stargazers_count": 4398,
+    "watchers_count": 4398
 }
 {
     "commits_count": 23,
