@@ -209,7 +209,7 @@
     "date_started": "2025-08-01",
     "date_updated": "2025-11-29",
     "description": "GarudRecon automates domain recon with top open-source tools to discover assets, enumerate subdomains, and detect XSS, SQLi, LFI, RCE &amp;amp; more.",
-    "forks_count": 40,
+    "forks_count": 42,
     "html_url": "https://github.com/rix4uni/GarudRecon",
     "keywords": [
         "rce vulnerability",
@@ -219,8 +219,8 @@
     "repo_name": "GarudRecon",
     "repo_owner": "rix4uni",
     "repotime": "2025-11-29, 16:44:02",
-    "stargazers_count": 182,
-    "watchers_count": 182
+    "stargazers_count": 186,
+    "watchers_count": 186
 }
 {
     "commits_count": 2,
@@ -240,23 +240,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 1103,
-    "date_started": "2025-11-16",
-    "date_updated": "2025-11-28",
-    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Watermlks/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C#",
-    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
-    "repo_owner": "Watermlks",
-    "repotime": "2025-11-28, 23:31:41",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 5,
     "date_started": "2025-11-28",
     "date_updated": "2025-11-29",
@@ -270,40 +253,6 @@
     "repo_name": "Math-guardian-Zero-Day-cybersecurity-AI-tool",
     "repo_owner": "supantha8-debug",
     "repotime": "2025-11-29, 04:57:12",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 13,
-    "date_started": "2025-07-20",
-    "date_updated": "2025-11-28",
-    "description": "🛡️ Bypass DEP/NX protection on Windows x64 using hardware breakpoints and instruction emulation to execute code from non-executable memory.",
-    "forks_count": 0,
-    "html_url": "https://github.com/prateek123s/HWBP-DEP-Bypass",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "prateek123s",
-    "repotime": "2025-11-28, 17:16:18",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 12,
-    "date_started": "2024-04-11",
-    "date_updated": "2025-11-28",
-    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
-    "forks_count": 0,
-    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "kal21k",
-    "repotime": "2025-11-28, 18:12:28",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -361,23 +310,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 6,
-    "date_started": "2025-11-22",
-    "date_updated": "2025-11-28",
-    "description": "Secure Pay is a mock banking portal designed to illustrate a financial workflow against common web threats, including credential stuffing, brute-force attacks, session hijacking, Cross-Site Request Forgery (CSRF), and replay attacks. ",
-    "forks_count": 0,
-    "html_url": "https://github.com/MightyMe10/SecurePay",
-    "keywords": [
-        "session hijacking attack"
-    ],
-    "language": "Python",
-    "repo_name": "SecurePay",
-    "repo_owner": "MightyMe10",
-    "repotime": "2025-11-28, 18:37:53",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 13,
     "date_started": "2025-11-05",
     "date_updated": "2025-11-28",
@@ -393,23 +325,6 @@
     "repotime": "2025-11-28, 21:13:44",
     "stargazers_count": 22,
     "watchers_count": 22
-}
-{
-    "commits_count": 10468,
-    "date_started": "2012-06-26",
-    "date_updated": "2025-11-28",
-    "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6134,
-    "html_url": "https://github.com/sqlmapproject/sqlmap",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Python",
-    "repo_name": "sqlmap",
-    "repo_owner": "sqlmapproject",
-    "repotime": "2025-11-28, 13:16:40",
-    "stargazers_count": 36009,
-    "watchers_count": 36009
 }
 {
     "commits_count": 1,
@@ -516,24 +431,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 9,
-    "date_started": "2025-11-26",
-    "date_updated": "2025-11-27",
-    "description": "Professional portfolio showcasing Active Directory exploitation, Windows privilege escalation, and enterprise infrastructure assessment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ForeverLX/offensive-security-portfolio",
-    "keywords": [
-        "Windows escalation of privileges",
-        "escalation of privileges exploit"
-    ],
-    "language": null,
-    "repo_name": "offensive-security-portfolio",
-    "repo_owner": "ForeverLX",
-    "repotime": "2025-11-27, 08:47:33",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 6,
     "date_started": "2025-11-27",
     "date_updated": "2025-11-27",
@@ -634,23 +531,6 @@
     "repotime": "2025-11-27, 09:34:12",
     "stargazers_count": 9,
     "watchers_count": 9
-}
-{
-    "commits_count": 12,
-    "date_started": "2025-11-25",
-    "date_updated": "2025-11-27",
-    "description": "Editor widget by handled improper input validation",
-    "forks_count": 0,
-    "html_url": "https://github.com/sahildhania/GIS-editor-widget",
-    "keywords": [
-        "improper input validation"
-    ],
-    "language": "JavaScript",
-    "repo_name": "GIS-editor-widget",
-    "repo_owner": "sahildhania",
-    "repotime": "2025-11-27, 07:06:41",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 46,
@@ -1374,23 +1254,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 2796,
-    "date_started": "2009-12-19",
-    "date_updated": "2025-11-22",
-    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2270,
-    "html_url": "https://github.com/jhy/jsoup",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Java",
-    "repo_name": "jsoup",
-    "repo_owner": "jhy",
-    "repotime": "2025-11-22, 12:51:29",
-    "stargazers_count": 11292,
-    "watchers_count": 11292
-}
-{
     "commits_count": 3,
     "date_started": "2025-11-21",
     "date_updated": "2025-11-21",
@@ -1593,8 +1456,8 @@
     "repo_name": "CVE-2025-64446_CVE-2025-58034",
     "repo_owner": "lincemorado97",
     "repotime": "2025-11-19, 22:52:00",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 141,
@@ -1646,24 +1509,6 @@
     "repotime": "2025-11-19, 19:26:28",
     "stargazers_count": 191,
     "watchers_count": 191
-}
-{
-    "commits_count": 55,
-    "date_started": "2022-06-20",
-    "date_updated": "2025-11-19",
-    "description": "A Complete SSRF (Server Side Request Forgery) Scanner.",
-    "forks_count": 8,
-    "html_url": "https://github.com/Dancas93/SSRF-Scanner",
-    "keywords": [
-        "ssrf",
-        "server side request forgery"
-    ],
-    "language": "Python",
-    "repo_name": "SSRF-Scanner",
-    "repo_owner": "Dancas93",
-    "repotime": "2025-11-19, 12:32:16",
-    "stargazers_count": 40,
-    "watchers_count": 40
 }
 {
     "commits_count": 4,
@@ -2291,7 +2136,7 @@
     "date_started": "2024-09-13",
     "date_updated": "2025-11-12",
     "description": "best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect",
-    "forks_count": 324,
+    "forks_count": 323,
     "html_url": "https://github.com/coffinxp/loxs",
     "keywords": [
         "lfi",
@@ -2301,8 +2146,8 @@
     "repo_name": "loxs",
     "repo_owner": "coffinxp",
     "repotime": "2025-11-12, 17:54:26",
-    "stargazers_count": 1435,
-    "watchers_count": 1435
+    "stargazers_count": 1438,
+    "watchers_count": 1438
 }
 {
     "commits_count": 83,
@@ -2539,8 +2384,8 @@
     "repo_name": "smart-doc",
     "repo_owner": "TongchengOpenSource",
     "repotime": "2025-11-10, 10:06:18",
-    "stargazers_count": 1591,
-    "watchers_count": 1591
+    "stargazers_count": 1592,
+    "watchers_count": 1592
 }
 {
     "commits_count": 3,
@@ -2608,25 +2453,8 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-11-09, 15:21:51",
-    "stargazers_count": 5039,
-    "watchers_count": 5039
-}
-{
-    "commits_count": 253,
-    "date_started": "2024-05-30",
-    "date_updated": "2025-11-09",
-    "description": "Fourth evolution of Code Injection for Xcode",
-    "forks_count": 10,
-    "html_url": "https://github.com/johnno1962/InjectionNext",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Swift",
-    "repo_name": "InjectionNext",
-    "repo_owner": "johnno1962",
-    "repotime": "2025-11-09, 15:15:04",
-    "stargazers_count": 266,
-    "watchers_count": 266
+    "stargazers_count": 5046,
+    "watchers_count": 5046
 }
 {
     "commits_count": 7,
@@ -2663,23 +2491,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 7,
-    "date_started": "2025-11-07",
-    "date_updated": "2025-11-09",
-    "description": "Enterprise Security Scanner. Static analysis for PHP, JS, CSS. Runs 90+ checks: SQLi, XSS, RCE, Secrets, Insecure Functions (extract(), eval()). Features Node.js syntax check, multilingual interface, and advanced log filtering. AI-generated tool; no liability accepted.",
-    "forks_count": 0,
-    "html_url": "https://github.com/KonzolozZ/Project-Security-Scanner-Static-vulnerability-analysis-for-PHP-JS-CSS",
-    "keywords": [
-        "rce analysis"
-    ],
-    "language": "PHP",
-    "repo_name": "Project-Security-Scanner-Static-vulnerability-analysis-for-PHP-JS-CSS",
-    "repo_owner": "KonzolozZ",
-    "repotime": "2025-11-09, 09:55:32",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 3,
     "date_started": "2025-11-09",
     "date_updated": "2025-11-09",
@@ -2701,7 +2512,7 @@
     "date_started": "2025-11-07",
     "date_updated": "2025-11-09",
     "description": "在xxe中使用smb外带多行内容",
-    "forks_count": 10,
+    "forks_count": 13,
     "html_url": "https://github.com/cwkiller/xxe-smb-server",
     "keywords": [
         "xxe"
@@ -2710,8 +2521,8 @@
     "repo_name": "xxe-smb-server",
     "repo_owner": "cwkiller",
     "repotime": "2025-11-09, 14:30:54",
-    "stargazers_count": 96,
-    "watchers_count": 96
+    "stargazers_count": 97,
+    "watchers_count": 97
 }
 {
     "commits_count": 1,
@@ -2818,21 +2629,21 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 66,
-    "date_started": "2024-03-18",
-    "date_updated": "2025-11-07",
-    "description": "A console app sorting csv banking transaction entries into categories and compared to monthly budget limits. My approach for this project was to focus on dependency inversion, single responsibility, and loose coupling principles. The dependency injection pattern ensure future updates can be made modularly.",
+    "commits_count": 11,
+    "date_started": "2025-11-06",
+    "date_updated": "2025-11-08",
+    "description": "Research and Analysis on Session Hijacking Attacks (L7)",
     "forks_count": 0,
-    "html_url": "https://github.com/compSciKai/PersonalFinancesApp",
+    "html_url": "https://github.com/kchan139/session-hijacking",
     "keywords": [
-        "csv injection"
+        "session attack"
     ],
-    "language": "C#",
-    "repo_name": "PersonalFinancesApp",
-    "repo_owner": "compSciKai",
-    "repotime": "2025-11-07, 18:20:08",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "language": null,
+    "repo_name": "session-hijacking",
+    "repo_owner": "kchan139",
+    "repotime": "2025-11-08, 10:25:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 3,
@@ -3140,8 +2951,8 @@
     "repo_name": "lfi",
     "repo_owner": "lfi-project",
     "repotime": "2025-11-04, 10:47:44",
-    "stargazers_count": 91,
-    "watchers_count": 91
+    "stargazers_count": 92,
+    "watchers_count": 92
 }
 {
     "commits_count": 1,
