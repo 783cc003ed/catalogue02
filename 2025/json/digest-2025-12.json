@@ -1,4 +1,60 @@
 {
+    "commits_count": 188,
+    "date_started": "2025-11-30",
+    "date_updated": "2025-12-03",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sliaswrk/HTA-Exploit",
+    "keywords": [
+        "Microsoft remote code execution exploit",
+        "Windows remote code execution exploit"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "Sliaswrk",
+    "repotime": "2025-12-03, 03:56:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-11-15",
+    "date_updated": "2025-12-02",
+    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "KQL-Queries-Defender-Sentinel",
+    "repo_owner": "Juanjo9471",
+    "repotime": "2025-12-02, 19:13:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-12-03",
+    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
+    "keywords": [
+        "lpe poc",
+        "escalation of privileges poc",
+        "lpe proof of concept",
+        "lpe vulnerability",
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463_chwoot",
+    "repo_owner": "ashardev002",
+    "repotime": "2025-12-03, 05:22:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 17,
     "date_started": "2025-10-24",
     "date_updated": "2025-12-02",
@@ -33,6 +89,24 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 30,
+    "date_started": "2025-11-13",
+    "date_updated": "2025-12-02",
+    "description": "👩💻 Create a documentation-as-code CV showcasing your skills and experience, with an easy-to-download PDF version for sharing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Boydunbarred375/gi-cv",
+    "keywords": [
+        "Windows rce poc",
+        "Windows rce vulnerability"
+    ],
+    "language": null,
+    "repo_name": "gi-cv",
+    "repo_owner": "Boydunbarred375",
+    "repotime": "2025-12-02, 14:09:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 12,
     "date_started": "2022-04-06",
     "date_updated": "2025-12-02",
@@ -51,36 +125,20 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 4,
-    "date_started": "2022-11-15",
+    "commits_count": 10,
+    "date_started": "2025-09-04",
     "date_updated": "2025-12-02",
-    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
     "forks_count": 0,
-    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
     "keywords": [
-        "Microsoft zero-day"
+        "Windows rce",
+        "Windows rce vulnerability"
     ],
-    "language": null,
-    "repo_name": "KQL-Queries-Defender-Sentinel",
-    "repo_owner": "Juanjo9471",
-    "repotime": "2025-12-02, 07:55:30",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 145,
-    "date_started": "2025-11-30",
-    "date_updated": "2025-12-02",
-    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-    "forks_count": 0,
-    "html_url": "https://github.com/Sliaswrk/HTA-Exploit",
-    "keywords": [
-        "Microsoft remote code execution exploit"
-    ],
-    "language": "C#",
-    "repo_name": "HTA-Exploit",
-    "repo_owner": "Sliaswrk",
-    "repotime": "2025-12-02, 12:45:30",
+    "language": "PowerShell",
+    "repo_name": "lab-cve-2020-0610",
+    "repo_owner": "Riocipta75",
+    "repotime": "2025-12-02, 20:30:17",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -132,27 +190,6 @@
     "repo_name": "2025hvv",
     "repo_owner": "Soham-id",
     "repotime": "2025-12-01, 23:47:38",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 15,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-12-02",
-    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
-    "keywords": [
-        "lpe poc",
-        "escalation of privileges poc",
-        "lpe proof of concept",
-        "lpe vulnerability",
-        "escalation of privileges proof of concept"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2025-32463_chwoot",
-    "repo_owner": "ashardev002",
-    "repotime": "2025-12-02, 13:17:36",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -230,24 +267,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 30,
-    "date_started": "2025-11-13",
-    "date_updated": "2025-12-02",
-    "description": "👩💻 Create a documentation-as-code CV showcasing your skills and experience, with an easy-to-download PDF version for sharing.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Boydunbarred375/gi-cv",
-    "keywords": [
-        "Windows rce poc",
-        "Windows rce vulnerability"
-    ],
-    "language": null,
-    "repo_name": "gi-cv",
-    "repo_owner": "Boydunbarred375",
-    "repotime": "2025-12-02, 04:24:11",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 5,
     "date_started": "2025-12-02",
     "date_updated": "2025-12-02",
@@ -261,24 +280,6 @@
     "repo_name": "CVE-2025-65321",
     "repo_owner": "Smarttfoxx",
     "repotime": "2025-12-02, 00:55:36",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 10,
-    "date_started": "2025-09-04",
-    "date_updated": "2025-12-02",
-    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
-    "keywords": [
-        "Windows rce",
-        "Windows rce vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "lab-cve-2020-0610",
-    "repo_owner": "Riocipta75",
-    "repotime": "2025-12-02, 10:52:01",
     "stargazers_count": 0,
     "watchers_count": 0
 }
