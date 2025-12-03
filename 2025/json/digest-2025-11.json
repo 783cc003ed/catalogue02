@@ -50,6 +50,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 5,
+    "date_started": "2025-02-18",
+    "date_updated": "2025-11-30",
+    "description": "UAC Bypass using UIAccess program QuickAssist",
+    "forks_count": 21,
+    "html_url": "https://github.com/R41N3RZUF477/QuickAssist_UAC_Bypass",
+    "keywords": [
+        "uac bypass"
+    ],
+    "language": "C",
+    "repo_name": "QuickAssist_UAC_Bypass",
+    "repo_owner": "R41N3RZUF477",
+    "repotime": "2025-11-30, 18:36:21",
+    "stargazers_count": 197,
+    "watchers_count": 197
+}
+{
     "commits_count": 3,
     "date_started": "2025-11-30",
     "date_updated": "2025-11-30",
@@ -203,24 +220,6 @@
     "repotime": "2025-11-29, 18:18:18",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 187,
-    "date_started": "2025-08-01",
-    "date_updated": "2025-11-29",
-    "description": "GarudRecon automates domain recon with top open-source tools to discover assets, enumerate subdomains, and detect XSS, SQLi, LFI, RCE &amp;amp; more.",
-    "forks_count": 42,
-    "html_url": "https://github.com/rix4uni/GarudRecon",
-    "keywords": [
-        "rce vulnerability",
-        "lfi"
-    ],
-    "language": "Shell",
-    "repo_name": "GarudRecon",
-    "repo_owner": "rix4uni",
-    "repotime": "2025-11-29, 16:44:02",
-    "stargazers_count": 186,
-    "watchers_count": 186
 }
 {
     "commits_count": 2,
@@ -1362,7 +1361,7 @@
     "date_started": "2025-11-07",
     "date_updated": "2025-11-21",
     "description": "Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time execution. Loads unsigned drivers by surgically patching SeCiCallbacks via native subsystem. Includes anti-loop protection and dual-path architecture. Windows 11 25H2 driver signature enforcement bypass",
-    "forks_count": 1,
+    "forks_count": 2,
     "html_url": "https://github.com/wesmar/KernelResearchKit",
     "keywords": [
         "kernel patch protection bypass"
@@ -1371,8 +1370,8 @@
     "repo_name": "KernelResearchKit",
     "repo_owner": "wesmar",
     "repotime": "2025-11-21, 12:54:59",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 2,
@@ -1492,23 +1491,6 @@
     "repotime": "2025-11-19, 19:24:51",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 4,
-    "date_started": "2025-02-18",
-    "date_updated": "2025-11-19",
-    "description": "UAC Bypass using UIAccess program QuickAssist",
-    "forks_count": 21,
-    "html_url": "https://github.com/R41N3RZUF477/QuickAssist_UAC_Bypass",
-    "keywords": [
-        "uac bypass"
-    ],
-    "language": "C",
-    "repo_name": "QuickAssist_UAC_Bypass",
-    "repo_owner": "R41N3RZUF477",
-    "repotime": "2025-11-19, 19:26:28",
-    "stargazers_count": 191,
-    "watchers_count": 191
 }
 {
     "commits_count": 4,
@@ -2008,8 +1990,8 @@
     "repo_name": "sqlmap-ai",
     "repo_owner": "atiilla",
     "repotime": "2025-11-14, 00:39:01",
-    "stargazers_count": 383,
-    "watchers_count": 383
+    "stargazers_count": 384,
+    "watchers_count": 384
 }
 {
     "commits_count": 268,
