@@ -1,4 +1,150 @@
 {
+    "commits_count": 4,
+    "date_started": "2022-11-15",
+    "date_updated": "2025-12-03",
+    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "KQL-Queries-Defender-Sentinel",
+    "repo_owner": "Juanjo9471",
+    "repotime": "2025-12-03, 11:01:25",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 224,
+    "date_started": "2025-11-30",
+    "date_updated": "2025-12-03",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sliaswrk/HTA-Exploit",
+    "keywords": [
+        "Microsoft remote code execution exploit",
+        "Windows remote code execution exploit",
+        "Microsoft remote code execution",
+        "Windows remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "Sliaswrk",
+    "repotime": "2025-12-03, 15:52:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-12-03",
+    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
+    "keywords": [
+        "lpe poc",
+        "escalation of privileges poc",
+        "lpe proof of concept",
+        "lpe vulnerability",
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463_chwoot",
+    "repo_owner": "ashardev002",
+    "repotime": "2025-12-03, 21:14:38",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-12-03",
+    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "lab-cve-2020-0610",
+    "repo_owner": "Riocipta75",
+    "repotime": "2025-12-03, 23:34:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-12-03",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-12-03, 20:11:14",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-12-03",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-12-03, 17:08:21",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 276,
+    "date_started": "2025-08-10",
+    "date_updated": "2025-12-03",
+    "description": "🔐 Cybersecurity Lab Reports &amp;amp; CTF Write-ups – Reconnaissance, exploitation, privilege escalation, and mitigation strategies 🛠️ | My curated archive of hacking challenges, vulnerability assessments, and hands-on security research 📂",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nish344/CTF-walkthroughs",
+    "keywords": [
+        "escalation of privileges exploit"
+    ],
+    "language": null,
+    "repo_name": "CTF-walkthroughs",
+    "repo_owner": "Nish344",
+    "repotime": "2025-12-03, 14:16:18",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
+    "commits_count": 22,
+    "date_started": "2025-10-24",
+    "date_updated": "2025-12-03",
+    "description": "This repository is a exploit project for the brazilian eletronic voting sistem, This pentes is authorized for the public tests in 2025.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ReaperKoji/uaf-exploit",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": "Python",
+    "repo_name": "uaf-exploit",
+    "repo_owner": "ReaperKoji",
+    "repotime": "2025-12-03, 10:37:13",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 6,
     "date_started": "2025-11-30",
     "date_updated": "2025-12-03",
@@ -18,22 +164,19 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 215,
-    "date_started": "2025-11-30",
+    "commits_count": 45,
+    "date_started": "2025-11-23",
     "date_updated": "2025-12-03",
-    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
     "forks_count": 0,
-    "html_url": "https://github.com/Sliaswrk/HTA-Exploit",
+    "html_url": "https://github.com/Rositaestival406/proteus",
     "keywords": [
-        "Microsoft remote code execution exploit",
-        "Windows remote code execution exploit",
-        "Microsoft remote code execution",
-        "Windows remote code execution"
+        "zero-day analysis"
     ],
-    "language": "C#",
-    "repo_name": "HTA-Exploit",
-    "repo_owner": "Sliaswrk",
-    "repotime": "2025-12-03, 11:59:25",
+    "language": "Python",
+    "repo_name": "proteus",
+    "repo_owner": "Rositaestival406",
+    "repotime": "2025-12-03, 11:51:45",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -56,40 +199,20 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 4,
-    "date_started": "2022-11-15",
+    "commits_count": 12,
+    "date_started": "2022-04-06",
     "date_updated": "2025-12-03",
-    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
     "forks_count": 0,
-    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
     "keywords": [
-        "Microsoft zero-day"
+        "uaf exploit",
+        "uaf vulnerability"
     ],
-    "language": null,
-    "repo_name": "KQL-Queries-Defender-Sentinel",
-    "repo_owner": "Juanjo9471",
-    "repotime": "2025-12-03, 05:35:31",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 15,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-12-03",
-    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
-    "keywords": [
-        "lpe poc",
-        "escalation of privileges poc",
-        "lpe proof of concept",
-        "lpe vulnerability",
-        "escalation of privileges proof of concept"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2025-32463_chwoot",
-    "repo_owner": "ashardev002",
-    "repotime": "2025-12-03, 15:49:06",
+    "language": "CSS",
+    "repo_name": "CVE-2025-49844",
+    "repo_owner": "Zain3311",
+    "repotime": "2025-12-03, 06:18:01",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -112,24 +235,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 10,
-    "date_started": "2025-09-04",
-    "date_updated": "2025-12-03",
-    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
-    "keywords": [
-        "Windows rce",
-        "Windows rce vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "lab-cve-2020-0610",
-    "repo_owner": "Riocipta75",
-    "repotime": "2025-12-03, 18:08:43",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 193,
     "date_started": "2025-08-01",
     "date_updated": "2025-12-03",
@@ -148,23 +253,6 @@
     "watchers_count": 186
 }
 {
-    "commits_count": 3,
-    "date_started": "2025-05-23",
-    "date_updated": "2025-12-03",
-    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
-    "forks_count": 2,
-    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
-    "keywords": [
-        "Windows remote code execution"
-    ],
-    "language": "Python",
-    "repo_name": "Backdoor",
-    "repo_owner": "Zayden-Cyber",
-    "repotime": "2025-12-03, 14:48:46",
-    "stargazers_count": 11,
-    "watchers_count": 11
-}
-{
     "commits_count": 1450,
     "date_started": "2025-11-16",
     "date_updated": "2025-12-03",
@@ -180,25 +268,6 @@
     "repotime": "2025-12-03, 09:48:34",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 7,
-    "date_started": "2025-05-21",
-    "date_updated": "2025-12-03",
-    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability"
-    ],
-    "language": null,
-    "repo_name": "vsftpd-backdoor-exploit",
-    "repo_owner": "Daniel1234mata",
-    "repotime": "2025-12-03, 11:46:05",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 5,
@@ -235,23 +304,6 @@
     "watchers_count": 32
 }
 {
-    "commits_count": 45,
-    "date_started": "2025-11-23",
-    "date_updated": "2025-12-03",
-    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Rositaestival406/proteus",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": "Python",
-    "repo_name": "proteus",
-    "repo_owner": "Rositaestival406",
-    "repotime": "2025-12-03, 06:57:35",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 13,
     "date_started": "2025-07-20",
     "date_updated": "2025-12-03",
@@ -284,41 +336,6 @@
     "repotime": "2025-12-03, 01:32:54",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 12,
-    "date_started": "2022-04-06",
-    "date_updated": "2025-12-03",
-    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
-    "keywords": [
-        "uaf exploit",
-        "uaf vulnerability"
-    ],
-    "language": "CSS",
-    "repo_name": "CVE-2025-49844",
-    "repo_owner": "Zain3311",
-    "repotime": "2025-12-03, 01:25:39",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 20,
-    "date_started": "2025-10-24",
-    "date_updated": "2025-12-03",
-    "description": "This repository is a exploit project for the brazilian eletronic voting sistem, This pentes is authorized for the public tests in 2025.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ReaperKoji/uaf-exploit",
-    "keywords": [
-        "uaf exploit"
-    ],
-    "language": "Python",
-    "repo_name": "uaf-exploit",
-    "repo_owner": "ReaperKoji",
-    "repotime": "2025-12-03, 02:15:38",
-    "stargazers_count": 1,
-    "watchers_count": 1
 }
 {
     "commits_count": 76,
