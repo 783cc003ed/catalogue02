@@ -46,8 +46,8 @@
     "repo_name": "QuickAssist_UAC_Bypass",
     "repo_owner": "R41N3RZUF477",
     "repotime": "2025-11-30, 18:36:21",
-    "stargazers_count": 197,
-    "watchers_count": 197
+    "stargazers_count": 198,
+    "watchers_count": 198
 }
 {
     "commits_count": 3,
@@ -63,6 +63,23 @@
     "repo_name": "CVE-2025-49132",
     "repo_owner": "f3d0rq",
     "repotime": "2025-11-30, 17:39:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2025-10-25",
+    "date_updated": "2025-11-30",
+    "description": "A Path Traversal vulnerability in the unzip/extract functionality of the affected application allows an attacker to write files to arbitrary filesystem locations during archive extraction. Because the extraction routine fails to sanitize destination paths inside ZIP entries, an attacker can craft ZIP archives containing traversal sequences (e.g., .",
+    "forks_count": 0,
+    "html_url": "https://github.com/Theethat-Thamwasin/CVE-2025-65346",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-65346",
+    "repo_owner": "Theethat-Thamwasin",
+    "repotime": "2025-11-30, 14:40:46",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -1336,8 +1353,8 @@
     "repo_name": "KernelResearchKit",
     "repo_owner": "wesmar",
     "repotime": "2025-11-21, 12:54:59",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 2,
@@ -2094,8 +2111,8 @@
     "repo_name": "loxs",
     "repo_owner": "coffinxp",
     "repotime": "2025-11-12, 17:54:26",
-    "stargazers_count": 1438,
-    "watchers_count": 1438
+    "stargazers_count": 1436,
+    "watchers_count": 1436
 }
 {
     "commits_count": 83,
@@ -2319,7 +2336,7 @@
     "watchers_count": 5
 }
 {
-    "commits_count": 2220,
+    "commits_count": 2218,
     "date_started": "2019-09-10",
     "date_updated": "2025-11-10",
     "description": "Smart-doc is a java restful api document generation tool. Smart-doc is based on interface source code analysis to generate interface documentation, completely zero-injection.",
@@ -2401,8 +2418,8 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-11-09, 15:21:51",
-    "stargazers_count": 5047,
-    "watchers_count": 5047
+    "stargazers_count": 5045,
+    "watchers_count": 5045
 }
 {
     "commits_count": 7,
@@ -2811,8 +2828,8 @@
     "repo_name": "BadZure",
     "repo_owner": "mvelazc0",
     "repotime": "2025-11-05, 20:46:35",
-    "stargazers_count": 478,
-    "watchers_count": 478
+    "stargazers_count": 477,
+    "watchers_count": 477
 }
 {
     "commits_count": 43,
@@ -2920,7 +2937,7 @@
     "watchers_count": 2
 }
 {
-    "commits_count": 206,
+    "commits_count": 207,
     "date_started": "2025-07-16",
     "date_updated": "2025-11-04",
     "description": "Prevent directory traversal attacks with compile-time path boundary enforcement. Choose StrictPath to detect or reject escape attempts, or VirtualPath to contain and isolate them. Defending against 19+ real-world CVEs",
@@ -2933,8 +2950,8 @@
     "repo_name": "strict-path-rs",
     "repo_owner": "DK26",
     "repotime": "2025-11-04, 15:08:32",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 2,
@@ -2986,8 +3003,8 @@
     "repo_name": "kurasagi",
     "repo_owner": "NeoMaster831",
     "repotime": "2025-11-04, 13:51:33",
-    "stargazers_count": 215,
-    "watchers_count": 215
+    "stargazers_count": 216,
+    "watchers_count": 216
 }
 {
     "commits_count": 9,
