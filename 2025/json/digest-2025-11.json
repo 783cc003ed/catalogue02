@@ -1,21 +1,4 @@
 {
-    "commits_count": 79,
-    "date_started": "2025-08-07",
-    "date_updated": "2025-11-30",
-    "description": "Webpage for Bueler's course in introductory real analysis (MATH 401) at UAF.",
-    "forks_count": 0,
-    "html_url": "https://github.com/bueler/real",
-    "keywords": [
-        "uaf analysis"
-    ],
-    "language": "TeX",
-    "repo_name": "real",
-    "repo_owner": "bueler",
-    "repotime": "2025-11-30, 19:55:22",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 2,
     "date_started": "2025-12-01",
     "date_updated": "2025-11-30",
@@ -672,7 +655,7 @@
     "commits_count": 14,
     "date_started": "2025-11-07",
     "date_updated": "2025-11-25",
-    "description": "A UAF (use-after-free) vulnerability in Animation timelines allowed to achieve code execution in the content process in order to be potentially deanonymized. This issue was patched.",
+    "description": "CVE-2024-9680 A UAF (use-after-free) vulnerability in Animation timelines allowed to achieve code execution in the content process in order to be potentially deanonymized. This issue was patched October 10, 2024.",
     "forks_count": 0,
     "html_url": "https://github.com/moscovium-mc/Tor-0day-JavaScript-Exploit",
     "keywords": [
