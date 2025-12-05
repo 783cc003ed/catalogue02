@@ -1,5 +1,5 @@
 {
-    "commits_count": 346,
+    "commits_count": 348,
     "date_started": "2025-11-30",
     "date_updated": "2025-12-05",
     "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -14,9 +14,63 @@
     "language": "C#",
     "repo_name": "HTA-Exploit",
     "repo_owner": "Sliaswrk",
-    "repotime": "2025-12-05, 08:53:51",
+    "repotime": "2025-12-05, 09:34:18",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-12-05",
+    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "lab-cve-2020-0610",
+    "repo_owner": "Riocipta75",
+    "repotime": "2025-12-05, 17:29:46",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-12-05",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-12-05, 11:06:56",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 11,
+    "date_started": "2025-12-05",
+    "date_updated": "2025-12-05",
+    "description": "Exploit for CVE-2025-55182 &amp;amp; CVE-2025-66478",
+    "forks_count": 10,
+    "html_url": "https://github.com/pyroxenites/Nextjs_RCE_Exploit_Tool",
+    "keywords": [
+        "rce exploit"
+    ],
+    "language": "Go",
+    "repo_name": "Nextjs_RCE_Exploit_Tool",
+    "repo_owner": "pyroxenites",
+    "repotime": "2025-12-05, 16:53:55",
+    "stargazers_count": 31,
+    "watchers_count": 31
 }
 {
     "commits_count": 6,
@@ -128,24 +182,6 @@
     "repo_name": "CVE-2025-31258-PoC",
     "repo_owner": "sureshkumarsat",
     "repotime": "2025-12-05, 10:09:19",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 10,
-    "date_started": "2025-09-04",
-    "date_updated": "2025-12-05",
-    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
-    "keywords": [
-        "Windows rce",
-        "Windows rce vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "lab-cve-2020-0610",
-    "repo_owner": "Riocipta75",
-    "repotime": "2025-12-05, 12:33:42",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -353,25 +389,6 @@
     "repo_name": "malstring",
     "repo_owner": "Lands-Horizon-Corp",
     "repotime": "2025-12-04, 17:07:04",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 7,
-    "date_started": "2025-05-21",
-    "date_updated": "2025-12-04",
-    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability"
-    ],
-    "language": null,
-    "repo_name": "vsftpd-backdoor-exploit",
-    "repo_owner": "Daniel1234mata",
-    "repotime": "2025-12-04, 09:27:53",
     "stargazers_count": 1,
     "watchers_count": 1
 }
