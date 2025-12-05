@@ -72,7 +72,7 @@
     "date_started": "2021-08-29",
     "date_updated": "2024-04-28",
     "description": "An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.",
-    "forks_count": 209,
+    "forks_count": 207,
     "html_url": "https://github.com/h4r5h1t/webcopilot",
     "keywords": [
         "rce vulnerability",
@@ -83,8 +83,8 @@
     "repo_name": "webcopilot",
     "repo_owner": "h4r5h1t",
     "repotime": "2024-04-28, 18:49:52",
-    "stargazers_count": 1261,
-    "watchers_count": 1261
+    "stargazers_count": 1262,
+    "watchers_count": 1262
 }
 {
     "commits_count": 7,
@@ -812,7 +812,7 @@
     "date_started": "2024-03-20",
     "date_updated": "2024-04-07",
     "description": "Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.",
-    "forks_count": 328,
+    "forks_count": 327,
     "html_url": "https://github.com/Notselwyn/CVE-2024-1086",
     "keywords": [
         "escalation of privileges poc",
@@ -826,8 +826,8 @@
     "repo_name": "CVE-2024-1086",
     "repo_owner": "Notselwyn",
     "repotime": "2024-04-07, 11:34:08",
-    "stargazers_count": 2421,
-    "watchers_count": 2421
+    "stargazers_count": 2420,
+    "watchers_count": 2420
 }
 {
     "commits_count": 2,

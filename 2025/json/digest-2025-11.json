@@ -67,23 +67,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 12,
-    "date_started": "2025-10-25",
-    "date_updated": "2025-11-30",
-    "description": "A Path Traversal vulnerability in the unzip/extract functionality of the affected application allows an attacker to write files to arbitrary filesystem locations during archive extraction. Because the extraction routine fails to sanitize destination paths inside ZIP entries, an attacker can craft ZIP archives containing traversal sequences (e.g., .",
-    "forks_count": 0,
-    "html_url": "https://github.com/Theethat-Thamwasin/CVE-2025-65346",
-    "keywords": [
-        "path traversal attack"
-    ],
-    "language": null,
-    "repo_name": "CVE-2025-65346",
-    "repo_owner": "Theethat-Thamwasin",
-    "repotime": "2025-11-30, 14:40:46",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 15,
     "date_started": "2025-10-25",
     "date_updated": "2025-11-30",
@@ -123,12 +106,12 @@
     "date_updated": "2025-11-29",
     "description": "This project demonstrates a production-ready architecture for handling data ingestion. It goes beyond simple file uploads by implementing security sanitization (prevention of CSV Injection), dynamic schema generation, and scalable storage using MongoDB GridFS.",
     "forks_count": 0,
-    "html_url": "https://github.com/agslima/csv_schema_evolution",
+    "html_url": "https://github.com/agslima/csv-schema-evolution",
     "keywords": [
         "csv injection"
     ],
     "language": "Python",
-    "repo_name": "csv_schema_evolution",
+    "repo_name": "csv-schema-evolution",
     "repo_owner": "agslima",
     "repotime": "2025-11-29, 23:16:45",
     "stargazers_count": 1,
@@ -672,7 +655,7 @@
     "commits_count": 14,
     "date_started": "2025-11-07",
     "date_updated": "2025-11-25",
-    "description": "CVE-2024-9680 A UAF (use-after-free) vulnerability in Animation timelines allowed to achieve code execution in the content process in order to be potentially deanonymized. This issue was patched October 10, 2024.",
+    "description": "CVE-2024-9680 A UAF (use-after-free) vulnerability in Animation timelines allowed to achieve code execution in the content process in order to be potentially deanonymized. Patched November 5, 2024",
     "forks_count": 0,
     "html_url": "https://github.com/moscovium-mc/Tor-0day-JavaScript-Exploit",
     "keywords": [
@@ -684,8 +667,8 @@
     "repo_name": "Tor-0day-JavaScript-Exploit",
     "repo_owner": "moscovium-mc",
     "repotime": "2025-11-25, 20:42:47",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 7,
@@ -837,8 +820,8 @@
     "repo_name": "int3rceptor",
     "repo_owner": "S1b-Team",
     "repotime": "2025-11-25, 03:57:24",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 2,
@@ -941,8 +924,8 @@
     "repo_name": "iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
     "repo_owner": "JGoyd",
     "repotime": "2025-11-23, 20:49:30",
-    "stargazers_count": 76,
-    "watchers_count": 76
+    "stargazers_count": 77,
+    "watchers_count": 77
 }
 {
     "commits_count": 2,
@@ -1956,8 +1939,8 @@
     "repo_name": "CVE-2025-62215-exploit-poc",
     "repo_owner": "dexterm300",
     "repotime": "2025-11-13, 23:07:13",
-    "stargazers_count": 10,
-    "watchers_count": 10
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 31,
@@ -3061,8 +3044,8 @@
     "repo_name": "Nginx-Lua-Anti-DDoS",
     "repo_owner": "C0nw0nk",
     "repotime": "2025-11-03, 17:05:17",
-    "stargazers_count": 1515,
-    "watchers_count": 1515
+    "stargazers_count": 1516,
+    "watchers_count": 1516
 }
 {
     "commits_count": 3,

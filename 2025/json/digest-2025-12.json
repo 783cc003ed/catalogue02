@@ -1,4 +1,45 @@
 {
+    "commits_count": 346,
+    "date_started": "2025-11-30",
+    "date_updated": "2025-12-05",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sliaswrk/HTA-Exploit",
+    "keywords": [
+        "Microsoft remote code execution exploit",
+        "Windows remote code execution exploit",
+        "Microsoft remote code execution",
+        "Windows remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "Sliaswrk",
+    "repotime": "2025-12-05, 08:53:51",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-11-30",
+    "date_updated": "2025-12-05",
+    "description": "🔍 Leak kernel memory addresses using ETW by parsing stack traces, useful for exploitation scenarios or as a unique technical demonstration.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Suti2069/EtwLeakKernel",
+    "keywords": [
+        "Windows memory leak exploit",
+        "Windows memory leak",
+        "Windows address leak exploit",
+        "memory leak exploit",
+        "address leak exploit"
+    ],
+    "language": "C++",
+    "repo_name": "EtwLeakKernel",
+    "repo_owner": "Suti2069",
+    "repotime": "2025-12-05, 12:14:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 30,
     "date_started": "2025-11-13",
     "date_updated": "2025-12-05",
@@ -15,6 +56,115 @@
     "repotime": "2025-12-05, 06:08:31",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2022-04-06",
+    "date_updated": "2025-12-05",
+    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
+    "keywords": [
+        "uaf exploit",
+        "uaf vulnerability"
+    ],
+    "language": "CSS",
+    "repo_name": "CVE-2025-49844",
+    "repo_owner": "Zain3311",
+    "repotime": "2025-12-05, 00:42:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-11-15",
+    "date_updated": "2025-12-04",
+    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "KQL-Queries-Defender-Sentinel",
+    "repo_owner": "Juanjo9471",
+    "repotime": "2025-12-04, 23:59:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-12-05",
+    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
+    "keywords": [
+        "lpe poc",
+        "escalation of privileges poc",
+        "lpe proof of concept",
+        "lpe vulnerability",
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463_chwoot",
+    "repo_owner": "ashardev002",
+    "repotime": "2025-12-05, 10:13:30",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-06-23",
+    "date_updated": "2025-12-05",
+    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "sureshkumarsat",
+    "repotime": "2025-12-05, 10:09:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-12-05",
+    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "lab-cve-2020-0610",
+    "repo_owner": "Riocipta75",
+    "repotime": "2025-12-05, 12:33:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-12-05",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-12-05, 09:12:16",
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 1388,
@@ -53,6 +203,57 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 256,
+    "date_started": "2024-05-30",
+    "date_updated": "2025-12-05",
+    "description": "Fourth evolution of Code Injection for Xcode",
+    "forks_count": 10,
+    "html_url": "https://github.com/johnno1962/InjectionNext",
+    "keywords": [
+        "code injection"
+    ],
+    "language": "Swift",
+    "repo_name": "InjectionNext",
+    "repo_owner": "johnno1962",
+    "repotime": "2025-12-05, 00:58:36",
+    "stargazers_count": 274,
+    "watchers_count": 274
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-12-04",
+    "date_updated": "2025-12-04",
+    "description": "Explanation and full RCE PoC for CVE-2025-55182",
+    "forks_count": 32,
+    "html_url": "https://github.com/msanft/CVE-2025-55182",
+    "keywords": [
+        "rce poc"
+    ],
+    "language": "TypeScript",
+    "repo_name": "CVE-2025-55182",
+    "repo_owner": "msanft",
+    "repotime": "2025-12-04, 23:30:02",
+    "stargazers_count": 233,
+    "watchers_count": 233
+}
+{
+    "commits_count": 32,
+    "date_started": "2025-10-24",
+    "date_updated": "2025-12-04",
+    "description": "This repository is a exploit project for the brazilian eletronic voting sistem, This pentes is authorized for the public tests in 2025.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ReaperKoji/uaf-exploit",
+    "keywords": [
+        "uaf exploit"
+    ],
+    "language": "Python",
+    "repo_name": "uaf-exploit",
+    "repo_owner": "ReaperKoji",
+    "repotime": "2025-12-04, 16:05:16",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 9,
     "date_started": "2025-12-01",
     "date_updated": "2025-12-04",
@@ -67,6 +268,57 @@
     "repo_name": "LOC",
     "repo_owner": "Saad-Ayady",
     "repotime": "2025-12-04, 19:17:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-10-25",
+    "date_updated": "2025-12-05",
+    "description": "A Path Traversal vulnerability in the unzip/extract functionality of the affected application allows an attacker to write files to arbitrary filesystem locations during archive extraction. Because the extraction routine fails to sanitize destination paths inside ZIP entries, an attacker can craft ZIP archives containing traversal sequences (e.g., .",
+    "forks_count": 0,
+    "html_url": "https://github.com/Theethat-Thamwasin/CVE-2025-65346",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-65346",
+    "repo_owner": "Theethat-Thamwasin",
+    "repotime": "2025-12-05, 00:27:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2025-12-04",
+    "date_updated": "2025-12-04",
+    "description": "A proof of concept of remote code execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/zr0n/CVE-2025-48384-main",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "Roff",
+    "repo_name": "CVE-2025-48384-main",
+    "repo_owner": "zr0n",
+    "repotime": "2025-12-04, 07:39:12",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-12-01",
+    "date_updated": "2025-12-04",
+    "description": "An authenticated Directory Traversal vulnerability in laravel-file-manager v3.3.1 and below allows attackers with access to the file manager interface to use zip/archiving function to create archives containing files and directories outside the intended scope due to improper path validation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/tlekrean/CVE-2025-65345",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-65345",
+    "repo_owner": "tlekrean",
+    "repotime": "2025-12-04, 18:22:11",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -105,59 +357,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 12,
-    "date_started": "2022-04-06",
-    "date_updated": "2025-12-04",
-    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
-    "keywords": [
-        "uaf exploit",
-        "uaf vulnerability"
-    ],
-    "language": "CSS",
-    "repo_name": "CVE-2025-49844",
-    "repo_owner": "Zain3311",
-    "repotime": "2025-12-04, 03:55:42",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 4,
-    "date_started": "2022-11-15",
-    "date_updated": "2025-12-04",
-    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
-    "keywords": [
-        "Microsoft zero-day"
-    ],
-    "language": null,
-    "repo_name": "KQL-Queries-Defender-Sentinel",
-    "repo_owner": "Juanjo9471",
-    "repotime": "2025-12-04, 03:14:29",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 13,
-    "date_started": "2020-06-23",
-    "date_updated": "2025-12-04",
-    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
-    "forks_count": 0,
-    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
-    "keywords": [
-        "sandbox escape exploit",
-        "sandbox escape poc"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "CVE-2025-31258-PoC",
-    "repo_owner": "sureshkumarsat",
-    "repotime": "2025-12-04, 13:25:33",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 7,
     "date_started": "2025-05-21",
     "date_updated": "2025-12-04",
@@ -194,46 +393,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 267,
-    "date_started": "2025-11-30",
-    "date_updated": "2025-12-04",
-    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-    "forks_count": 0,
-    "html_url": "https://github.com/Sliaswrk/HTA-Exploit",
-    "keywords": [
-        "Microsoft remote code execution exploit",
-        "Windows remote code execution exploit",
-        "Microsoft remote code execution",
-        "Windows remote code execution"
-    ],
-    "language": "C#",
-    "repo_name": "HTA-Exploit",
-    "repo_owner": "Sliaswrk",
-    "repotime": "2025-12-04, 06:27:50",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 6,
-    "date_started": "2025-11-30",
-    "date_updated": "2025-12-04",
-    "description": "🔍 Leak kernel memory addresses using ETW by parsing stack traces, useful for exploitation scenarios or as a unique technical demonstration.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Suti2069/EtwLeakKernel",
-    "keywords": [
-        "Windows memory leak exploit",
-        "Windows memory leak",
-        "Windows address leak exploit",
-        "memory leak exploit"
-    ],
-    "language": "C++",
-    "repo_name": "EtwLeakKernel",
-    "repo_owner": "Suti2069",
-    "repotime": "2025-12-04, 10:17:30",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 13,
     "date_started": "2025-07-20",
     "date_updated": "2025-12-03",
@@ -266,62 +425,6 @@
     "repotime": "2025-12-03, 22:50:44",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 15,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-12-04",
-    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
-    "keywords": [
-        "lpe poc",
-        "escalation of privileges poc",
-        "lpe proof of concept",
-        "lpe vulnerability",
-        "escalation of privileges proof of concept"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2025-32463_chwoot",
-    "repo_owner": "ashardev002",
-    "repotime": "2025-12-04, 08:11:15",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 10,
-    "date_started": "2025-09-04",
-    "date_updated": "2025-12-04",
-    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
-    "keywords": [
-        "Windows rce",
-        "Windows rce vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "lab-cve-2020-0610",
-    "repo_owner": "Riocipta75",
-    "repotime": "2025-12-04, 10:31:07",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-05-23",
-    "date_updated": "2025-12-04",
-    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
-    "forks_count": 2,
-    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
-    "keywords": [
-        "Windows remote code execution"
-    ],
-    "language": "Python",
-    "repo_name": "Backdoor",
-    "repo_owner": "Zayden-Cyber",
-    "repotime": "2025-12-04, 07:06:17",
-    "stargazers_count": 11,
-    "watchers_count": 11
 }
 {
     "commits_count": 5,
@@ -388,23 +491,6 @@
     "repo_name": "-CVE-2025-XXXX-Firebase-Misconfiguration---Unauthenticated-RCE-",
     "repo_owner": "imad457",
     "repotime": "2025-12-03, 20:21:09",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 24,
-    "date_started": "2025-10-24",
-    "date_updated": "2025-12-03",
-    "description": "This repository is a exploit project for the brazilian eletronic voting sistem, This pentes is authorized for the public tests in 2025.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ReaperKoji/uaf-exploit",
-    "keywords": [
-        "uaf exploit"
-    ],
-    "language": "Python",
-    "repo_name": "uaf-exploit",
-    "repo_owner": "ReaperKoji",
-    "repotime": "2025-12-03, 16:00:05",
     "stargazers_count": 1,
     "watchers_count": 1
 }
@@ -494,6 +580,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 2,
+    "date_started": "2025-12-03",
+    "date_updated": "2025-12-03",
+    "description": "Public exploit for CVE-2025-41744",
+    "forks_count": 0,
+    "html_url": "https://github.com/sinrinmagic43/CVE-2025-41744-Poc",
+    "keywords": [
+        "zero-day exploitation"
+    ],
+    "language": null,
+    "repo_name": "CVE-2025-41744-Poc",
+    "repo_owner": "sinrinmagic43",
+    "repotime": "2025-12-03, 17:00:44",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 276,
     "date_started": "2025-08-10",
     "date_updated": "2025-12-03",
@@ -563,6 +666,23 @@
     "watchers_count": 33
 }
 {
+    "commits_count": 7,
+    "date_started": "2025-12-03",
+    "date_updated": "2025-12-03",
+    "description": "&amp;&#35;35; F5 BIG-IP CVE-2023-46747 – Unauth RCE + Auto Reverse Shell Modified &amp;amp; improved Nuclei template by raguraman ✓ Creates hidden admin   ✓ Instant TCP revshell (just edit LHOST/LPORT)   ✓ Works on all unpatched 13.x-17.x   ⚠️ Authorized pentesting ONLY!   Patch: K000137353",
+    "forks_count": 0,
+    "html_url": "https://github.com/Razzlemouse/F5-BIG-IP-CVE-2023-46747---Unauthenticated-RCE-Reverse-Shell-Nuclei-Template-Modified-",
+    "keywords": [
+        "unauthenticated rce"
+    ],
+    "language": "Python",
+    "repo_name": "F5-BIG-IP-CVE-2023-46747---Unauthenticated-RCE-Reverse-Shell-Nuclei-Template-Modified-",
+    "repo_owner": "Razzlemouse",
+    "repotime": "2025-12-03, 12:28:44",
+    "stargazers_count": 3,
+    "watchers_count": 3
+}
+{
     "commits_count": 76,
     "date_started": "2024-03-18",
     "date_updated": "2025-12-02",
@@ -613,23 +733,6 @@
     "repotime": "2025-12-03, 01:06:32",
     "stargazers_count": 9,
     "watchers_count": 9
-}
-{
-    "commits_count": 254,
-    "date_started": "2024-05-30",
-    "date_updated": "2025-12-02",
-    "description": "Fourth evolution of Code Injection for Xcode",
-    "forks_count": 10,
-    "html_url": "https://github.com/johnno1962/InjectionNext",
-    "keywords": [
-        "code injection"
-    ],
-    "language": "Swift",
-    "repo_name": "InjectionNext",
-    "repo_owner": "johnno1962",
-    "repotime": "2025-12-02, 21:44:38",
-    "stargazers_count": 273,
-    "watchers_count": 273
 }
 {
     "commits_count": 7,
@@ -940,23 +1043,6 @@
     "repotime": "2025-12-01, 11:42:13",
     "stargazers_count": 41,
     "watchers_count": 41
-}
-{
-    "commits_count": 2,
-    "date_started": "2025-12-01",
-    "date_updated": "2025-12-01",
-    "description": "An authenticated Directory Traversal vulnerability in laravel-file-manager v3.3.1 and below allows attackers with access to the file manager interface to use zip/archiving function to create archives containing files and directories outside the intended scope due to improper path validation.",
-    "forks_count": 0,
-    "html_url": "https://github.com/tlekrean/CVE-2025-65345",
-    "keywords": [
-        "path traversal attack"
-    ],
-    "language": null,
-    "repo_name": "CVE-2025-65345",
-    "repo_owner": "tlekrean",
-    "repotime": "2025-12-01, 17:00:13",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 13,
