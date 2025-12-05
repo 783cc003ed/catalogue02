@@ -652,25 +652,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 14,
-    "date_started": "2025-11-07",
-    "date_updated": "2025-11-25",
-    "description": "CVE-2024-9680 A UAF (use-after-free) vulnerability in Animation timelines allowed to achieve code execution in the content process in order to be potentially deanonymized. Patched November 5, 2024",
-    "forks_count": 0,
-    "html_url": "https://github.com/moscovium-mc/Tor-0day-JavaScript-Exploit",
-    "keywords": [
-        "use after free exploit",
-        "0day exploit",
-        "uaf exploit"
-    ],
-    "language": "HTML",
-    "repo_name": "Tor-0day-JavaScript-Exploit",
-    "repo_owner": "moscovium-mc",
-    "repotime": "2025-11-25, 20:42:47",
-    "stargazers_count": 8,
-    "watchers_count": 8
-}
-{
     "commits_count": 7,
     "date_started": "2025-11-25",
     "date_updated": "2025-11-26",
@@ -720,23 +701,6 @@
     "repotime": "2025-11-25, 18:18:30",
     "stargazers_count": 2,
     "watchers_count": 2
-}
-{
-    "commits_count": 7,
-    "date_started": "2025-11-03",
-    "date_updated": "2025-11-25",
-    "description": "Banking application demonstrating the use of hard-coded passwords (CWE-259)",
-    "forks_count": 0,
-    "html_url": "https://github.com/Joshanide/CPSC-525-Project",
-    "keywords": [
-        "hard coded password"
-    ],
-    "language": "Python",
-    "repo_name": "CPSC-525-Project",
-    "repo_owner": "Joshanide",
-    "repotime": "2025-11-25, 17:17:00",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 54,
@@ -924,8 +888,8 @@
     "repo_name": "iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
     "repo_owner": "JGoyd",
     "repotime": "2025-11-23, 20:49:30",
-    "stargazers_count": 77,
-    "watchers_count": 77
+    "stargazers_count": 78,
+    "watchers_count": 78
 }
 {
     "commits_count": 2,
@@ -1557,8 +1521,8 @@
     "repo_name": "CVE-2025-64446",
     "repo_owner": "sensepost",
     "repotime": "2025-11-18, 18:27:01",
-    "stargazers_count": 23,
-    "watchers_count": 23
+    "stargazers_count": 24,
+    "watchers_count": 24
 }
 {
     "commits_count": 9,
@@ -1810,7 +1774,7 @@
     "date_started": "2025-02-07",
     "date_updated": "2025-11-16",
     "description": "Zerodayf is an advanced code analysis platform that leverages artificial intelligence &amp;amp; SAST to identify vulnerabilities within source code. ",
-    "forks_count": 5,
+    "forks_count": 4,
     "html_url": "https://github.com/0xHamy/zerodayf",
     "keywords": [
         "0day vulnerability",
@@ -1820,8 +1784,8 @@
     "repo_name": "zerodayf",
     "repo_owner": "0xHamy",
     "repotime": "2025-11-16, 00:19:27",
-    "stargazers_count": 31,
-    "watchers_count": 31
+    "stargazers_count": 32,
+    "watchers_count": 32
 }
 {
     "commits_count": 140,
@@ -2084,7 +2048,7 @@
     "date_started": "2024-09-13",
     "date_updated": "2025-11-12",
     "description": "best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect",
-    "forks_count": 323,
+    "forks_count": 322,
     "html_url": "https://github.com/coffinxp/loxs",
     "keywords": [
         "lfi",
@@ -2094,8 +2058,8 @@
     "repo_name": "loxs",
     "repo_owner": "coffinxp",
     "repotime": "2025-11-12, 17:54:26",
-    "stargazers_count": 1436,
-    "watchers_count": 1436
+    "stargazers_count": 1439,
+    "watchers_count": 1439
 }
 {
     "commits_count": 83,
@@ -2401,8 +2365,8 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-11-09, 15:21:51",
-    "stargazers_count": 5045,
-    "watchers_count": 5045
+    "stargazers_count": 5049,
+    "watchers_count": 5049
 }
 {
     "commits_count": 7,
@@ -2573,23 +2537,6 @@
     "repo_name": "CVE-2025-8088",
     "repo_owner": "shourout",
     "repotime": "2025-11-08, 09:08:43",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 11,
-    "date_started": "2025-11-06",
-    "date_updated": "2025-11-08",
-    "description": "Research and Analysis on Session Hijacking Attacks (L7)",
-    "forks_count": 0,
-    "html_url": "https://github.com/kchan139/session-hijacking",
-    "keywords": [
-        "session attack"
-    ],
-    "language": null,
-    "repo_name": "session-hijacking",
-    "repo_owner": "kchan139",
-    "repotime": "2025-11-08, 10:25:44",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -3012,7 +2959,7 @@
     "date_started": "2025-10-07",
     "date_updated": "2025-11-03",
     "description": "RoboticsBootcamp IoT Projects – ESP32 experiments with DHT11 sensor data, LED control &amp;amp; Web-Server integration. Includes XAMPP backend, data visualization &amp;amp; live Python-based predictions.",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/muhpuc40/RoboticsBootcamp1.0_IoT_Session",
     "keywords": [
         "session prediction"
@@ -3021,8 +2968,8 @@
     "repo_name": "RoboticsBootcamp1.0_IoT_Session",
     "repo_owner": "muhpuc40",
     "repotime": "2025-11-03, 23:32:15",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 393,
@@ -3116,8 +3063,8 @@
     "repo_name": "awesome-neural-sbi",
     "repo_owner": "smsharma",
     "repotime": "2025-11-02, 17:52:05",
-    "stargazers_count": 137,
-    "watchers_count": 137
+    "stargazers_count": 138,
+    "watchers_count": 138
 }
 {
     "commits_count": 1,
