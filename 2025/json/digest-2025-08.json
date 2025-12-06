@@ -2384,7 +2384,7 @@
     "date_started": "2025-08-05",
     "date_updated": "2025-08-06",
     "description": "CVE-2024-32019 is a high-severity local privilege escalation vulnerability in Netdata (versions &amp;gt;= 1.44.0-60 &amp;lt; 1.45.3), caused by insecure use of the PATH variable in the ndsudo SUID binary, allowing attackers to execute arbitrary commands as root.",
-    "forks_count": 1,
+    "forks_count": 0,
     "html_url": "https://github.com/dollarboysushil/CVE-2024-32019-Netdata-ndsudo-PATH-Vulnerability-Privilege-Escalation",
     "keywords": [
         "escalation of privileges vulnerability"
@@ -2393,8 +2393,8 @@
     "repo_name": "CVE-2024-32019-Netdata-ndsudo-PATH-Vulnerability-Privilege-Escalation",
     "repo_owner": "dollarboysushil",
     "repotime": "2025-08-06, 21:11:11",
-    "stargazers_count": 9,
-    "watchers_count": 9
+    "stargazers_count": 10,
+    "watchers_count": 10
 }
 {
     "commits_count": 3,
