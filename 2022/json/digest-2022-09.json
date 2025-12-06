@@ -2025,7 +2025,7 @@
     "date_started": "2022-09-05",
     "date_updated": "2022-09-06",
     "description": "Exploits undocumented elevated COM interface ICMLuaUtil via process spoofing to edit registry  then calls ColorDataProxy to trigger UAC bypass. Win 7 &amp;amp; up.",
-    "forks_count": 26,
+    "forks_count": 25,
     "html_url": "https://github.com/hackerhouse-opensource/ColorDataProxyUACBypass",
     "keywords": [
         "uac bypass"
@@ -2034,8 +2034,8 @@
     "repo_name": "ColorDataProxyUACBypass",
     "repo_owner": "hackerhouse-opensource",
     "repotime": "2022-09-06, 08:13:21",
-    "stargazers_count": 142,
-    "watchers_count": 142
+    "stargazers_count": 141,
+    "watchers_count": 141
 }
 {
     "commits_count": 94,
