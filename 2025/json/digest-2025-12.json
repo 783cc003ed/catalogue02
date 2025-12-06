@@ -1,4 +1,64 @@
 {
+    "commits_count": 411,
+    "date_started": "2025-11-30",
+    "date_updated": "2025-12-06",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sliaswrk/HTA-Exploit",
+    "keywords": [
+        "Microsoft remote code execution exploit",
+        "Windows remote code execution exploit",
+        "Microsoft remote code execution",
+        "Windows remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "Sliaswrk",
+    "repotime": "2025-12-06, 04:40:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 14,
+    "date_started": "2025-12-05",
+    "date_updated": "2025-12-06",
+    "description": "Exploit for CVE-2025-55182 &amp;amp; CVE-2025-66478",
+    "forks_count": 11,
+    "html_url": "https://github.com/pyroxenites/Nextjs_RCE_Exploit_Tool",
+    "keywords": [
+        "rce exploit",
+        "rce exploitation"
+    ],
+    "language": "Go",
+    "repo_name": "Nextjs_RCE_Exploit_Tool",
+    "repo_owner": "pyroxenites",
+    "repotime": "2025-12-06, 11:34:28",
+    "stargazers_count": 40,
+    "watchers_count": 40
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-11-30",
+    "date_updated": "2025-12-06",
+    "description": "🔍 Leak kernel memory addresses using ETW by parsing stack traces, useful for exploitation scenarios or as a unique technical demonstration.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Suti2069/EtwLeakKernel",
+    "keywords": [
+        "Windows memory leak exploit",
+        "Windows memory leak",
+        "Windows address leak exploit",
+        "memory leak exploit",
+        "address leak exploit",
+        "memory leak exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "EtwLeakKernel",
+    "repo_owner": "Suti2069",
+    "repotime": "2025-12-06, 09:07:59",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 4,
     "date_started": "2022-11-15",
     "date_updated": "2025-12-05",
@@ -12,6 +72,27 @@
     "repo_name": "KQL-Queries-Defender-Sentinel",
     "repo_owner": "Juanjo9471",
     "repotime": "2025-12-05, 20:48:39",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-12-06",
+    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
+    "keywords": [
+        "lpe poc",
+        "escalation of privileges poc",
+        "lpe proof of concept",
+        "lpe vulnerability",
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463_chwoot",
+    "repo_owner": "ashardev002",
+    "repotime": "2025-12-06, 07:01:31",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -31,6 +112,43 @@
     "repotime": "2025-12-06, 04:27:14",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-12-06",
+    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "lab-cve-2020-0610",
+    "repo_owner": "Riocipta75",
+    "repotime": "2025-12-06, 09:20:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1389,
+    "date_started": "2022-03-19",
+    "date_updated": "2025-12-06",
+    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
+    "forks_count": 123,
+    "html_url": "https://github.com/GhostTroops/TOP",
+    "keywords": [
+        "rce exploit",
+        "rce poc",
+        "rce vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "TOP",
+    "repo_owner": "GhostTroops",
+    "repotime": "2025-12-06, 01:12:51",
+    "stargazers_count": 715,
+    "watchers_count": 715
 }
 {
     "commits_count": 3,
@@ -69,26 +187,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 405,
-    "date_started": "2025-11-30",
-    "date_updated": "2025-12-06",
-    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-    "forks_count": 0,
-    "html_url": "https://github.com/Sliaswrk/HTA-Exploit",
-    "keywords": [
-        "Microsoft remote code execution exploit",
-        "Windows remote code execution exploit",
-        "Microsoft remote code execution",
-        "Windows remote code execution"
-    ],
-    "language": "C#",
-    "repo_name": "HTA-Exploit",
-    "repo_owner": "Sliaswrk",
-    "repotime": "2025-12-06, 00:00:14",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 1,
     "date_started": "2025-12-05",
     "date_updated": "2025-12-05",
@@ -102,27 +200,6 @@
     "repo_name": "poc-cve-2025-55182",
     "repo_owner": "kOaDT",
     "repotime": "2025-12-05, 23:34:00",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 6,
-    "date_started": "2025-11-30",
-    "date_updated": "2025-12-06",
-    "description": "🔍 Leak kernel memory addresses using ETW by parsing stack traces, useful for exploitation scenarios or as a unique technical demonstration.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Suti2069/EtwLeakKernel",
-    "keywords": [
-        "Windows memory leak exploit",
-        "Windows memory leak",
-        "Windows address leak exploit",
-        "memory leak exploit",
-        "address leak exploit"
-    ],
-    "language": "C++",
-    "repo_name": "EtwLeakKernel",
-    "repo_owner": "Suti2069",
-    "repotime": "2025-12-06, 03:54:50",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -144,27 +221,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 15,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-12-06",
-    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
-    "keywords": [
-        "lpe poc",
-        "escalation of privileges poc",
-        "lpe proof of concept",
-        "lpe vulnerability",
-        "escalation of privileges proof of concept"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2025-32463_chwoot",
-    "repo_owner": "ashardev002",
-    "repotime": "2025-12-06, 01:49:31",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 13,
     "date_started": "2020-06-23",
     "date_updated": "2025-12-06",
@@ -179,24 +235,6 @@
     "repo_name": "CVE-2025-31258-PoC",
     "repo_owner": "sureshkumarsat",
     "repotime": "2025-12-06, 01:45:09",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 10,
-    "date_started": "2025-09-04",
-    "date_updated": "2025-12-06",
-    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
-    "keywords": [
-        "Windows rce",
-        "Windows rce vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "lab-cve-2020-0610",
-    "repo_owner": "Riocipta75",
-    "repotime": "2025-12-06, 04:09:17",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -222,7 +260,7 @@
     "date_started": "2025-12-04",
     "date_updated": "2025-12-05",
     "description": "Explanation and full RCE PoC for CVE-2025-55182",
-    "forks_count": 79,
+    "forks_count": 85,
     "html_url": "https://github.com/msanft/CVE-2025-55182",
     "keywords": [
         "rce poc"
@@ -231,8 +269,8 @@
     "repo_name": "CVE-2025-55182",
     "repo_owner": "msanft",
     "repotime": "2025-12-05, 20:10:11",
-    "stargazers_count": 453,
-    "watchers_count": 453
+    "stargazers_count": 473,
+    "watchers_count": 473
 }
 {
     "commits_count": 202,
@@ -549,28 +587,11 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 12,
-    "date_started": "2025-12-05",
-    "date_updated": "2025-12-05",
-    "description": "Exploit for CVE-2025-55182 &amp;amp; CVE-2025-66478",
-    "forks_count": 11,
-    "html_url": "https://github.com/pyroxenites/Nextjs_RCE_Exploit_Tool",
-    "keywords": [
-        "rce exploit"
-    ],
-    "language": "Go",
-    "repo_name": "Nextjs_RCE_Exploit_Tool",
-    "repo_owner": "pyroxenites",
-    "repotime": "2025-12-05, 18:30:47",
-    "stargazers_count": 39,
-    "watchers_count": 39
-}
-{
     "commits_count": 33,
     "date_started": "2025-12-04",
     "date_updated": "2025-12-05",
     "description": "A command-line scanner for batch detection of Next.js application versions and determining if they are affected by CVE-2025-66478 vulnerability.",
-    "forks_count": 17,
+    "forks_count": 21,
     "html_url": "https://github.com/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478",
     "keywords": [
         "rce vulnerability"
@@ -579,8 +600,8 @@
     "repo_name": "Next.js-RSC-RCE-Scanner-CVE-2025-66478",
     "repo_owner": "Malayke",
     "repotime": "2025-12-05, 17:51:01",
-    "stargazers_count": 87,
-    "watchers_count": 87
+    "stargazers_count": 103,
+    "watchers_count": 103
 }
 {
     "commits_count": 1,
@@ -632,25 +653,6 @@
     "repotime": "2025-12-04, 20:52:25",
     "stargazers_count": 9,
     "watchers_count": 9
-}
-{
-    "commits_count": 1388,
-    "date_started": "2022-03-19",
-    "date_updated": "2025-12-05",
-    "description": "TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things",
-    "forks_count": 123,
-    "html_url": "https://github.com/GhostTroops/TOP",
-    "keywords": [
-        "rce exploit",
-        "rce poc",
-        "rce vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "TOP",
-    "repo_owner": "GhostTroops",
-    "repotime": "2025-12-05, 01:16:43",
-    "stargazers_count": 715,
-    "watchers_count": 715
 }
 {
     "commits_count": 6,
