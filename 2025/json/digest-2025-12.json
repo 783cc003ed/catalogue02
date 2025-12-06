@@ -1,5 +1,22 @@
 {
-    "commits_count": 411,
+    "commits_count": 4,
+    "date_started": "2022-11-15",
+    "date_updated": "2025-12-06",
+    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "KQL-Queries-Defender-Sentinel",
+    "repo_owner": "Juanjo9471",
+    "repotime": "2025-12-06, 01:58:36",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 419,
     "date_started": "2025-11-30",
     "date_updated": "2025-12-06",
     "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -14,9 +31,44 @@
     "language": "C#",
     "repo_name": "HTA-Exploit",
     "repo_owner": "Sliaswrk",
-    "repotime": "2025-12-06, 04:40:56",
+    "repotime": "2025-12-06, 06:43:35",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 10,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-12-06",
+    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "lab-cve-2020-0610",
+    "repo_owner": "Riocipta75",
+    "repotime": "2025-12-06, 14:32:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-13",
+    "date_updated": "2025-12-06",
+    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
+    "forks_count": 1,
+    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "MXSpoof",
+    "repo_owner": "debashishmishra1122",
+    "repotime": "2025-12-06, 11:36:03",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 14,
@@ -59,21 +111,39 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 4,
-    "date_started": "2022-11-15",
+    "commits_count": 12,
+    "date_started": "2022-04-06",
     "date_updated": "2025-12-05",
-    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
     "forks_count": 0,
-    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
     "keywords": [
-        "Microsoft zero-day"
+        "uaf exploit",
+        "uaf vulnerability"
     ],
-    "language": null,
-    "repo_name": "KQL-Queries-Defender-Sentinel",
-    "repo_owner": "Juanjo9471",
-    "repotime": "2025-12-05, 20:48:39",
+    "language": "CSS",
+    "repo_name": "CVE-2025-49844",
+    "repo_owner": "Zain3311",
+    "repotime": "2025-12-05, 21:32:22",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 203,
+    "date_started": "2019-05-06",
+    "date_updated": "2025-12-05",
+    "description": "A blind XSS detection and XSS data capture framework",
+    "forks_count": 30,
+    "html_url": "https://github.com/daxAKAhackerman/XSS-Catcher",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Python",
+    "repo_name": "XSS-Catcher",
+    "repo_owner": "daxAKAhackerman",
+    "repotime": "2025-12-05, 20:49:46",
+    "stargazers_count": 174,
+    "watchers_count": 174
 }
 {
     "commits_count": 15,
@@ -97,11 +167,29 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 13,
+    "date_started": "2020-06-23",
+    "date_updated": "2025-12-06",
+    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "sureshkumarsat",
+    "repotime": "2025-12-06, 06:57:37",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 3,
     "date_started": "2025-12-06",
     "date_updated": "2025-12-06",
     "description": "RSC/Next.js RCE Vulnerability Detector &amp;amp; PoC Chrome Extension – CVE-2025-55182 &amp;amp; CVE-2025-66478",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/emredavut/CVE-2025-55182",
     "keywords": [
         "Chrome rce"
@@ -110,26 +198,8 @@
     "repo_name": "CVE-2025-55182",
     "repo_owner": "emredavut",
     "repotime": "2025-12-06, 04:27:14",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 10,
-    "date_started": "2025-09-04",
-    "date_updated": "2025-12-06",
-    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
-    "keywords": [
-        "Windows rce",
-        "Windows rce vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "lab-cve-2020-0610",
-    "repo_owner": "Riocipta75",
-    "repotime": "2025-12-06, 09:20:52",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 1389,
@@ -187,6 +257,23 @@
     "watchers_count": 1
 }
 {
+    "commits_count": 111,
+    "date_started": "2025-10-25",
+    "date_updated": "2025-12-05",
+    "description": "CWE 502: Deserialization of untrusted data",
+    "forks_count": 0,
+    "html_url": "https://github.com/fallen-krill/CPSC_525_Project",
+    "keywords": [
+        "deserialization of untrusted data"
+    ],
+    "language": "Python",
+    "repo_name": "CPSC_525_Project",
+    "repo_owner": "fallen-krill",
+    "repotime": "2025-12-05, 17:10:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 1,
     "date_started": "2025-12-05",
     "date_updated": "2025-12-05",
@@ -202,58 +289,6 @@
     "repotime": "2025-12-05, 23:34:00",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 103,
-    "date_started": "2025-10-25",
-    "date_updated": "2025-12-05",
-    "description": "CWE 502: Deserialization of untrusted data",
-    "forks_count": 0,
-    "html_url": "https://github.com/fallen-krill/CPSC_525_Project",
-    "keywords": [
-        "deserialization of untrusted data"
-    ],
-    "language": "Python",
-    "repo_name": "CPSC_525_Project",
-    "repo_owner": "fallen-krill",
-    "repotime": "2025-12-05, 14:42:17",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 13,
-    "date_started": "2020-06-23",
-    "date_updated": "2025-12-06",
-    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
-    "forks_count": 0,
-    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
-    "keywords": [
-        "sandbox escape exploit",
-        "sandbox escape poc"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "CVE-2025-31258-PoC",
-    "repo_owner": "sureshkumarsat",
-    "repotime": "2025-12-06, 01:45:09",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 5,
-    "date_started": "2025-05-13",
-    "date_updated": "2025-12-06",
-    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
-    "forks_count": 1,
-    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
-    "keywords": [
-        "spoofing vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "MXSpoof",
-    "repo_owner": "debashishmishra1122",
-    "repotime": "2025-12-06, 01:09:36",
-    "stargazers_count": 4,
-    "watchers_count": 4
 }
 {
     "commits_count": 11,
@@ -291,6 +326,23 @@
     "watchers_count": 185
 }
 {
+    "commits_count": 119,
+    "date_started": "2020-02-12",
+    "date_updated": "2025-12-05",
+    "description": "An XSS Exploitation Tool",
+    "forks_count": 66,
+    "html_url": "https://github.com/Sharpforce/XSS-Exploitation-Tool",
+    "keywords": [
+        "xss"
+    ],
+    "language": "PHP",
+    "repo_name": "XSS-Exploitation-Tool",
+    "repo_owner": "Sharpforce",
+    "repotime": "2025-12-05, 17:59:52",
+    "stargazers_count": 331,
+    "watchers_count": 331
+}
+{
     "commits_count": 13,
     "date_started": "2025-12-01",
     "date_updated": "2025-12-05",
@@ -309,22 +361,21 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 12,
-    "date_started": "2022-04-06",
+    "commits_count": 9,
+    "date_started": "2025-12-05",
     "date_updated": "2025-12-05",
-    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
+    "description": "A complete machine-learning system that predicts AI assistant user satisfaction using behavioral signals such as device, usage category, time features, session metrics, and model metadata. Includes full ML pipeline, SHAP explainability, evaluation suite, and an interactive Streamlit analytics dashboard.",
     "forks_count": 0,
-    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
+    "html_url": "https://github.com/AmirhosseinHonardoust/AI-Assistant-Satisfaction-Prediction-Engine",
     "keywords": [
-        "uaf exploit",
-        "uaf vulnerability"
+        "session prediction"
     ],
-    "language": "CSS",
-    "repo_name": "CVE-2025-49844",
-    "repo_owner": "Zain3311",
-    "repotime": "2025-12-05, 10:56:44",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "language": "Python",
+    "repo_name": "AI-Assistant-Satisfaction-Prediction-Engine",
+    "repo_owner": "AmirhosseinHonardoust",
+    "repotime": "2025-12-05, 20:00:44",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 1,
@@ -497,8 +548,8 @@
     "repo_name": "CVE-2025-55182-exp",
     "repo_owner": "Spritualkb",
     "repotime": "2025-12-05, 19:39:47",
-    "stargazers_count": 13,
-    "watchers_count": 13
+    "stargazers_count": 15,
+    "watchers_count": 15
 }
 {
     "commits_count": 10,
@@ -625,7 +676,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2025-12-05",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6137,
+    "forks_count": 6138,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -634,8 +685,25 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-12-05, 10:30:13",
-    "stargazers_count": 36031,
-    "watchers_count": 36031
+    "stargazers_count": 36032,
+    "watchers_count": 36032
+}
+{
+    "commits_count": 11,
+    "date_started": "2025-12-04",
+    "date_updated": "2025-12-05",
+    "description": "a critical Remote Code Execution (RCE) vulnerability in React Server Components (RSC). It also includes a realistic &amp;quot;Lab Environment&amp;quot; to safely test and understand the vulnerability.",
+    "forks_count": 2,
+    "html_url": "https://github.com/ThemeHackers/CVE-2025-55182",
+    "keywords": [
+        "remote code execution vulnerability"
+    ],
+    "language": "HTML",
+    "repo_name": "CVE-2025-55182",
+    "repo_owner": "ThemeHackers",
+    "repotime": "2025-12-05, 15:27:30",
+    "stargazers_count": 9,
+    "watchers_count": 9
 }
 {
     "commits_count": 3,
@@ -653,6 +721,23 @@
     "repotime": "2025-12-04, 20:52:25",
     "stargazers_count": 9,
     "watchers_count": 9
+}
+{
+    "commits_count": 2799,
+    "date_started": "2009-12-19",
+    "date_updated": "2025-12-05",
+    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
+    "forks_count": 2273,
+    "html_url": "https://github.com/jhy/jsoup",
+    "keywords": [
+        "xss"
+    ],
+    "language": "Java",
+    "repo_name": "jsoup",
+    "repo_owner": "jhy",
+    "repotime": "2025-12-05, 11:22:27",
+    "stargazers_count": 11293,
+    "watchers_count": 11293
 }
 {
     "commits_count": 6,
@@ -753,6 +838,23 @@
     "repo_name": "CVE-2025-65345",
     "repo_owner": "tlekrean",
     "repotime": "2025-12-04, 18:22:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-12-03",
+    "date_updated": "2025-12-04",
+    "description": "This project is looking at developing a tool that detects and prevent client side cross site scripting attacks which is also called, 'DOM XSS'",
+    "forks_count": 0,
+    "html_url": "https://github.com/0b0d0/DOM-XSS-detector-preventing-tool-project",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "HTML",
+    "repo_name": "DOM-XSS-detector-preventing-tool-project",
+    "repo_owner": "0b0d0",
+    "repotime": "2025-12-04, 10:43:19",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -978,23 +1080,6 @@
     "watchers_count": 3
 }
 {
-    "commits_count": 1,
-    "date_started": "2025-12-03",
-    "date_updated": "2025-12-03",
-    "description": "This project is looking at developing a tool that detects and prevent client side cross site scripting attacks which is also called, 'DOM XSS'",
-    "forks_count": 0,
-    "html_url": "https://github.com/0b0d0/DOM-XSS-detector-preventing-tool-project",
-    "keywords": [
-        "cross-side-scripting"
-    ],
-    "language": null,
-    "repo_name": "DOM-XSS-detector-preventing-tool-project",
-    "repo_owner": "0b0d0",
-    "repotime": "2025-12-03, 10:54:28",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 61,
     "date_started": "2025-10-28",
     "date_updated": "2025-12-03",
@@ -1183,23 +1268,6 @@
     "repotime": "2025-12-02, 00:55:36",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 2798,
-    "date_started": "2009-12-19",
-    "date_updated": "2025-12-02",
-    "description": "jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",
-    "forks_count": 2272,
-    "html_url": "https://github.com/jhy/jsoup",
-    "keywords": [
-        "xss"
-    ],
-    "language": "Java",
-    "repo_name": "jsoup",
-    "repo_owner": "jhy",
-    "repotime": "2025-12-02, 09:47:40",
-    "stargazers_count": 11293,
-    "watchers_count": 11293
 }
 {
     "commits_count": 2,
