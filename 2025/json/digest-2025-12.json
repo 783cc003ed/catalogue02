@@ -1,4 +1,58 @@
 {
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-12-06",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-12-06, 05:58:57",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
+    "commits_count": 405,
+    "date_started": "2025-11-30",
+    "date_updated": "2025-12-06",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Sliaswrk/HTA-Exploit",
+    "keywords": [
+        "Microsoft remote code execution exploit",
+        "Windows remote code execution exploit",
+        "Microsoft remote code execution",
+        "Windows remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "Sliaswrk",
+    "repotime": "2025-12-06, 00:00:14",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-12-05",
+    "date_updated": "2025-12-05",
+    "description": "This repository contains a proof-of-concept demonstration of CVE-2025-55182, a critical (CVSS score 10.0) pre-authentication remote code execution vulnerability affecting React Server Components, also known as React2Shell.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kOaDT/poc-cve-2025-55182",
+    "keywords": [
+        "remote code execution proof of concept"
+    ],
+    "language": "TypeScript",
+    "repo_name": "poc-cve-2025-55182",
+    "repo_owner": "kOaDT",
+    "repotime": "2025-12-05, 23:34:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 6,
     "date_started": "2025-11-30",
     "date_updated": "2025-12-06",
@@ -33,26 +87,6 @@
     "repo_name": "CPSC_525_Project",
     "repo_owner": "fallen-krill",
     "repotime": "2025-12-05, 14:42:17",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 390,
-    "date_started": "2025-11-30",
-    "date_updated": "2025-12-05",
-    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-    "forks_count": 0,
-    "html_url": "https://github.com/Sliaswrk/HTA-Exploit",
-    "keywords": [
-        "Microsoft remote code execution exploit",
-        "Windows remote code execution exploit",
-        "Microsoft remote code execution",
-        "Windows remote code execution"
-    ],
-    "language": "C#",
-    "repo_name": "HTA-Exploit",
-    "repo_owner": "Sliaswrk",
-    "repotime": "2025-12-05, 20:56:32",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -113,6 +147,24 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 10,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-12-06",
+    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
+    "keywords": [
+        "Windows rce",
+        "Windows rce vulnerability"
+    ],
+    "language": "PowerShell",
+    "repo_name": "lab-cve-2020-0610",
+    "repo_owner": "Riocipta75",
+    "repotime": "2025-12-06, 04:09:17",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 7,
     "date_started": "2025-05-21",
     "date_updated": "2025-12-05",
@@ -153,7 +205,7 @@
     "date_started": "2025-12-04",
     "date_updated": "2025-12-05",
     "description": "Explanation and full RCE PoC for CVE-2025-55182",
-    "forks_count": 74,
+    "forks_count": 79,
     "html_url": "https://github.com/msanft/CVE-2025-55182",
     "keywords": [
         "rce poc"
@@ -162,8 +214,8 @@
     "repo_name": "CVE-2025-55182",
     "repo_owner": "msanft",
     "repotime": "2025-12-05, 20:10:11",
-    "stargazers_count": 436,
-    "watchers_count": 436
+    "stargazers_count": 453,
+    "watchers_count": 453
 }
 {
     "commits_count": 202,
@@ -288,24 +340,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 10,
-    "date_started": "2025-09-04",
-    "date_updated": "2025-12-05",
-    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
-    "keywords": [
-        "Windows rce",
-        "Windows rce vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "lab-cve-2020-0610",
-    "repo_owner": "Riocipta75",
-    "repotime": "2025-12-05, 22:41:59",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 22,
     "date_started": "2025-11-07",
     "date_updated": "2025-12-05",
@@ -358,23 +392,6 @@
     "repotime": "2025-12-05, 21:22:29",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-05-23",
-    "date_updated": "2025-12-05",
-    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
-    "forks_count": 2,
-    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
-    "keywords": [
-        "Windows remote code execution"
-    ],
-    "language": "Python",
-    "repo_name": "Backdoor",
-    "repo_owner": "Zayden-Cyber",
-    "repotime": "2025-12-05, 19:20:02",
-    "stargazers_count": 11,
-    "watchers_count": 11
 }
 {
     "commits_count": 1,
@@ -545,8 +562,8 @@
     "repo_name": "Next.js-RSC-RCE-Scanner-CVE-2025-66478",
     "repo_owner": "Malayke",
     "repotime": "2025-12-05, 17:51:01",
-    "stargazers_count": 83,
-    "watchers_count": 83
+    "stargazers_count": 87,
+    "watchers_count": 87
 }
 {
     "commits_count": 1,
