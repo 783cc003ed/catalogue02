@@ -1,5 +1,42 @@
 {
-    "commits_count": 452,
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-12-06",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-12-06, 18:49:47",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 29,
+    "date_started": "2025-12-06",
+    "date_updated": "2025-12-06",
+    "description": "Command-line post-exploitation toolkit for Microsoft SQL Server — enabling RCE, privilege escalation, persistence, and defense evasion via T-SQL.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Trimamkash/SqlKnife",
+    "keywords": [
+        "Microsoft rce",
+        "Microsoft rce exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "SqlKnife",
+    "repo_owner": "Trimamkash",
+    "repotime": "2025-12-06, 16:41:28",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 462,
     "date_started": "2025-11-30",
     "date_updated": "2025-12-06",
     "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -14,7 +51,41 @@
     "language": "C#",
     "repo_name": "HTA-Exploit",
     "repo_owner": "Sliaswrk",
-    "repotime": "2025-12-06, 14:33:48",
+    "repotime": "2025-12-06, 16:41:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1553,
+    "date_started": "2012-07-18",
+    "date_updated": "2025-12-06",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 441,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2025-12-06, 16:42:34",
+    "stargazers_count": 1709,
+    "watchers_count": 1709
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-09-17",
+    "date_updated": "2025-12-06",
+    "description": "Hands-on directory traversal training app. Learn ../ path attacks and defenses through staged challenges, all client-side.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ipusiron/path-escape",
+    "keywords": [
+        "path traversal attack"
+    ],
+    "language": "HTML",
+    "repo_name": "path-escape",
+    "repo_owner": "ipusiron",
+    "repotime": "2025-12-06, 23:26:34",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -167,23 +238,21 @@
     "watchers_count": 11
 }
 {
-    "commits_count": 7,
-    "date_started": "2025-05-21",
+    "commits_count": 5,
+    "date_started": "2025-05-13",
     "date_updated": "2025-12-06",
-    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
+    "forks_count": 1,
+    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
     "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability"
+        "spoofing vulnerability"
     ],
-    "language": null,
-    "repo_name": "vsftpd-backdoor-exploit",
-    "repo_owner": "Daniel1234mata",
-    "repotime": "2025-12-06, 13:11:19",
-    "stargazers_count": 1,
-    "watchers_count": 1
+    "language": "Shell",
+    "repo_name": "MXSpoof",
+    "repo_owner": "debashishmishra1122",
+    "repotime": "2025-12-06, 16:36:49",
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 17,
@@ -289,23 +358,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 5,
-    "date_started": "2025-05-13",
-    "date_updated": "2025-12-06",
-    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
-    "forks_count": 1,
-    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
-    "keywords": [
-        "spoofing vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "MXSpoof",
-    "repo_owner": "debashishmishra1122",
-    "repotime": "2025-12-06, 11:36:03",
-    "stargazers_count": 4,
-    "watchers_count": 4
-}
-{
     "commits_count": 14,
     "date_started": "2025-12-05",
     "date_updated": "2025-12-06",
@@ -363,17 +415,18 @@
     "date_started": "2025-12-06",
     "date_updated": "2025-12-06",
     "description": "RSC/Next.js RCE Vulnerability Detector &amp;amp; PoC Chrome Extension – CVE-2025-55182 &amp;amp; CVE-2025-66478",
-    "forks_count": 9,
+    "forks_count": 16,
     "html_url": "https://github.com/emredavut/CVE-2025-55182",
     "keywords": [
-        "Chrome rce"
+        "Chrome rce",
+        "Chrome rce vulnerability"
     ],
     "language": "JavaScript",
     "repo_name": "CVE-2025-55182",
     "repo_owner": "emredavut",
     "repotime": "2025-12-06, 04:27:14",
-    "stargazers_count": 49,
-    "watchers_count": 49
+    "stargazers_count": 59,
+    "watchers_count": 59
 }
 {
     "commits_count": 1389,
@@ -546,8 +599,8 @@
     "repo_name": "AI-Assistant-Satisfaction-Prediction-Engine",
     "repo_owner": "AmirhosseinHonardoust",
     "repotime": "2025-12-05, 20:00:44",
-    "stargazers_count": 3,
-    "watchers_count": 3
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 1,
@@ -580,8 +633,8 @@
     "repo_name": "InjectionNext",
     "repo_owner": "johnno1962",
     "repotime": "2025-12-05, 16:35:19",
-    "stargazers_count": 275,
-    "watchers_count": 275
+    "stargazers_count": 277,
+    "watchers_count": 277
 }
 {
     "commits_count": 23,
@@ -805,8 +858,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-12-05, 10:30:13",
-    "stargazers_count": 36033,
-    "watchers_count": 36033
+    "stargazers_count": 36037,
+    "watchers_count": 36037
 }
 {
     "commits_count": 11,
@@ -1372,23 +1425,6 @@
     "repotime": "2025-12-01, 18:24:52",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 1549,
-    "date_started": "2012-07-18",
-    "date_updated": "2025-12-01",
-    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 441,
-    "html_url": "https://github.com/ron190/jsql-injection",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Java",
-    "repo_name": "jsql-injection",
-    "repo_owner": "ron190",
-    "repotime": "2025-12-01, 22:16:11",
-    "stargazers_count": 1709,
-    "watchers_count": 1709
 }
 {
     "commits_count": 2,
