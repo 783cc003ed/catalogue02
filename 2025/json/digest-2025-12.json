@@ -1,5 +1,45 @@
 {
-    "commits_count": 473,
+    "commits_count": 4,
+    "date_started": "2022-11-15",
+    "date_updated": "2025-12-07",
+    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "KQL-Queries-Defender-Sentinel",
+    "repo_owner": "Juanjo9471",
+    "repotime": "2025-12-07, 23:48:55",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-11-30",
+    "date_updated": "2025-12-08",
+    "description": "🔍 Leak kernel memory addresses using ETW by parsing stack traces, useful for exploitation scenarios or as a unique technical demonstration.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Suti2069/EtwLeakKernel",
+    "keywords": [
+        "Windows memory leak exploit",
+        "Windows memory leak",
+        "Windows address leak exploit",
+        "memory leak exploit",
+        "address leak exploit",
+        "memory leak exploitation",
+        "Windows address leak"
+    ],
+    "language": "C++",
+    "repo_name": "EtwLeakKernel",
+    "repo_owner": "Suti2069",
+    "repotime": "2025-12-08, 06:00:15",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 479,
     "date_started": "2025-11-30",
     "date_updated": "2025-12-06",
     "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -15,7 +55,42 @@
     "language": "C#",
     "repo_name": "HTA-Exploit",
     "repo_owner": "Sliaswrk",
-    "repotime": "2025-12-06, 19:07:29",
+    "repotime": "2025-12-06, 20:14:18",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-12-06",
+    "date_updated": "2025-12-06",
+    "description": "Command-line post-exploitation toolkit for Microsoft SQL Server — enabling RCE, privilege escalation, persistence, and defense evasion via T-SQL.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Trimamkash/SqlKnife",
+    "keywords": [
+        "Microsoft rce",
+        "Microsoft rce exploitation"
+    ],
+    "language": "C++",
+    "repo_name": "SqlKnife",
+    "repo_owner": "Trimamkash",
+    "repotime": "2025-12-06, 19:56:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-12-06",
+    "date_updated": "2025-12-06",
+    "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
+    "forks_count": 0,
+    "html_url": "https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL",
+    "keywords": [
+        "Windows lpe vulnerability"
+    ],
+    "language": "C",
+    "repo_name": "PrintSpoofer-ReflectiveDLL",
+    "repo_owner": "JonyFilc",
+    "repotime": "2025-12-06, 19:56:33",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -51,23 +126,6 @@
     "repo_name": "CVE-2024-28397-Exploit-Automation",
     "repo_owner": "L1337Xi",
     "repotime": "2025-12-06, 23:21:37",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 4,
-    "date_started": "2022-11-15",
-    "date_updated": "2025-12-06",
-    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
-    "keywords": [
-        "Microsoft zero-day"
-    ],
-    "language": null,
-    "repo_name": "KQL-Queries-Defender-Sentinel",
-    "repo_owner": "Juanjo9471",
-    "repotime": "2025-12-06, 12:42:56",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -146,6 +204,23 @@
     "watchers_count": 0
 }
 {
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-12-06",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-12-06, 21:52:41",
+    "stargazers_count": 11,
+    "watchers_count": 11
+}
+{
     "commits_count": 7,
     "date_started": "2025-05-21",
     "date_updated": "2025-12-06",
@@ -163,24 +238,6 @@
     "repotime": "2025-12-06, 18:49:47",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 29,
-    "date_started": "2025-12-06",
-    "date_updated": "2025-12-06",
-    "description": "Command-line post-exploitation toolkit for Microsoft SQL Server — enabling RCE, privilege escalation, persistence, and defense evasion via T-SQL.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Trimamkash/SqlKnife",
-    "keywords": [
-        "Microsoft rce",
-        "Microsoft rce exploitation"
-    ],
-    "language": "C++",
-    "repo_name": "SqlKnife",
-    "repo_owner": "Trimamkash",
-    "repotime": "2025-12-06, 16:41:28",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 1553,
@@ -213,29 +270,6 @@
     "repo_name": "path-escape",
     "repo_owner": "ipusiron",
     "repotime": "2025-12-06, 23:26:34",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 6,
-    "date_started": "2025-11-30",
-    "date_updated": "2025-12-06",
-    "description": "🔍 Leak kernel memory addresses using ETW by parsing stack traces, useful for exploitation scenarios or as a unique technical demonstration.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Suti2069/EtwLeakKernel",
-    "keywords": [
-        "Windows memory leak exploit",
-        "Windows memory leak",
-        "Windows address leak exploit",
-        "memory leak exploit",
-        "address leak exploit",
-        "memory leak exploitation",
-        "Windows address leak"
-    ],
-    "language": "C++",
-    "repo_name": "EtwLeakKernel",
-    "repo_owner": "Suti2069",
-    "repotime": "2025-12-06, 19:27:39",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -273,23 +307,6 @@
     "repotime": "2025-12-06, 07:48:02",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 3,
-    "date_started": "2025-05-23",
-    "date_updated": "2025-12-06",
-    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
-    "forks_count": 2,
-    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
-    "keywords": [
-        "Windows remote code execution"
-    ],
-    "language": "Python",
-    "repo_name": "Backdoor",
-    "repo_owner": "Zayden-Cyber",
-    "repotime": "2025-12-06, 16:13:46",
-    "stargazers_count": 11,
-    "watchers_count": 11
 }
 {
     "commits_count": 5,
@@ -433,7 +450,7 @@
     "date_started": "2025-12-06",
     "date_updated": "2025-12-06",
     "description": "RSC/Next.js RCE Vulnerability Detector &amp;amp; PoC Chrome Extension – CVE-2025-55182 &amp;amp; CVE-2025-66478",
-    "forks_count": 16,
+    "forks_count": 39,
     "html_url": "https://github.com/emredavut/CVE-2025-55182",
     "keywords": [
         "Chrome rce",
@@ -443,8 +460,8 @@
     "repo_name": "CVE-2025-55182",
     "repo_owner": "emredavut",
     "repotime": "2025-12-06, 04:27:14",
-    "stargazers_count": 59,
-    "watchers_count": 59
+    "stargazers_count": 195,
+    "watchers_count": 195
 }
 {
     "commits_count": 1389,
