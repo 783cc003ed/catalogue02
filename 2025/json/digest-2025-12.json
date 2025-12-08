@@ -1,5 +1,5 @@
 {
-    "commits_count": 73,
+    "commits_count": 76,
     "date_started": "2025-12-06",
     "date_updated": "2025-12-08",
     "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
@@ -13,7 +13,7 @@
     "language": "C",
     "repo_name": "PrintSpoofer-ReflectiveDLL",
     "repo_owner": "JonyFilc",
-    "repotime": "2025-12-08, 07:01:22",
+    "repotime": "2025-12-08, 08:57:50",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -184,6 +184,23 @@
     "watchers_count": 11
 }
 {
+    "commits_count": 7,
+    "date_started": "2025-12-08",
+    "date_updated": "2025-12-07",
+    "description": "🛠️ Demonstrate a PS5 kernel exploit for firmware &amp;lt;=10.40 using a stack use-after-free vulnerability in the fsc2h_ctrl syscall.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Camal2010/no_ctrl",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "no_ctrl",
+    "repo_owner": "Camal2010",
+    "repotime": "2025-12-07, 19:44:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 5,
     "date_started": "2025-05-13",
     "date_updated": "2025-12-08",
@@ -241,6 +258,23 @@
     "repotime": "2025-12-08, 06:00:15",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-12-07",
+    "date_updated": "2025-12-08",
+    "description": "A comprehensive collection of detailed penetration testing write-ups from various Capture The Flag challenges. Each document provides thorough analysis of vulnerabilities, exploitation techniques, and privilege escalation methodologies.",
+    "forks_count": 0,
+    "html_url": "https://github.com/M3RICK/WriteUps",
+    "keywords": [
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "WriteUps",
+    "repo_owner": "M3RICK",
+    "repotime": "2025-12-08, 00:23:01",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 2,
@@ -358,8 +392,8 @@
     "repo_name": "CVE-2024-28397-Exploit-Automation",
     "repo_owner": "L1337Xi",
     "repotime": "2025-12-06, 23:21:37",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 11,
@@ -903,7 +937,7 @@
     "date_started": "2025-12-05",
     "date_updated": "2025-12-05",
     "description": "CVE-2025-55182 React Server Components Remote Code Execution Exploit Tool",
-    "forks_count": 4,
+    "forks_count": 7,
     "html_url": "https://github.com/Spritualkb/CVE-2025-55182-exp",
     "keywords": [
         "remote code execution exploitation",
@@ -913,8 +947,8 @@
     "repo_name": "CVE-2025-55182-exp",
     "repo_owner": "Spritualkb",
     "repotime": "2025-12-05, 19:39:47",
-    "stargazers_count": 15,
-    "watchers_count": 15
+    "stargazers_count": 24,
+    "watchers_count": 24
 }
 {
     "commits_count": 10,
@@ -1605,7 +1639,7 @@
     "date_started": "2013-11-05",
     "date_updated": "2025-12-01",
     "description": "Command line tool to edit resources of exe",
-    "forks_count": 206,
+    "forks_count": 207,
     "html_url": "https://github.com/electron/rcedit",
     "keywords": [
         "Windows rce"
@@ -1614,8 +1648,8 @@
     "repo_name": "rcedit",
     "repo_owner": "electron",
     "repotime": "2025-12-01, 11:26:14",
-    "stargazers_count": 2002,
-    "watchers_count": 2002
+    "stargazers_count": 2003,
+    "watchers_count": 2003
 }
 {
     "commits_count": 2,
