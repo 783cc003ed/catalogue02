@@ -1,5 +1,5 @@
 {
-    "commits_count": 76,
+    "commits_count": 79,
     "date_started": "2025-12-06",
     "date_updated": "2025-12-08",
     "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
@@ -13,7 +13,41 @@
     "language": "C",
     "repo_name": "PrintSpoofer-ReflectiveDLL",
     "repo_owner": "JonyFilc",
-    "repotime": "2025-12-08, 08:57:50",
+    "repotime": "2025-12-08, 11:00:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2024-09-28",
+    "date_updated": "2025-12-08",
+    "description": "Bachelor's thesis summary: Analysis of FreePhish framework for detecting phishing attacks on Free Website Builders (Weebly, Google Sites, Blogspot). 31.4K zero-day attacks identified.",
+    "forks_count": 0,
+    "html_url": "https://github.com/francescacraievich/Presentation_Francesca_Craievich",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": null,
+    "repo_name": "Presentation_Francesca_Craievich",
+    "repo_owner": "francescacraievich",
+    "repotime": "2025-12-08, 11:59:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-12-08",
+    "date_updated": "2025-12-08",
+    "description": "LPE for FortiOS 5.6.0 to 5.6.2, 5.4.0 to 5.4.8, and below 5.2",
+    "forks_count": 0,
+    "html_url": "https://github.com/0xSIGILL/CVE-2017-14187_PoC_ARMv7",
+    "keywords": [
+        "lpe poc"
+    ],
+    "language": "Makefile",
+    "repo_name": "CVE-2017-14187_PoC_ARMv7",
+    "repo_owner": "0xSIGILL",
+    "repotime": "2025-12-08, 18:37:26",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -35,6 +69,23 @@
     "repo_name": "HTA-Exploit",
     "repo_owner": "Sliaswrk",
     "repotime": "2025-12-08, 06:43:29",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-11-23",
+    "date_updated": "2025-12-08",
+    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rositaestival406/proteus",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "proteus",
+    "repo_owner": "Rositaestival406",
+    "repotime": "2025-12-08, 06:23:41",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -328,6 +379,23 @@
     "watchers_count": 5
 }
 {
+    "commits_count": 48,
+    "date_started": "2025-05-09",
+    "date_updated": "2025-12-07",
+    "description": "In this satirical simulation game, you take on the role of an underdog who makes money not through fighting, but through hacking, piracy, and all kinds of shady tricks. Instead of battles, you’ll rely on digital manipulation, illegal deals, and clever schemes to build your empire — always with a wink and plenty of absurd situations.",
+    "forks_count": 0,
+    "html_url": "https://github.com/TomatenHead/Zero_Day_Exploit",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "GDScript",
+    "repo_name": "Zero_Day_Exploit",
+    "repo_owner": "TomatenHead",
+    "repotime": "2025-12-07, 18:43:34",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 6,
     "date_started": "2025-12-01",
     "date_updated": "2025-12-07",
@@ -480,23 +548,6 @@
     "repo_name": "path-escape",
     "repo_owner": "ipusiron",
     "repotime": "2025-12-06, 23:26:34",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 45,
-    "date_started": "2025-11-23",
-    "date_updated": "2025-12-06",
-    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Rositaestival406/proteus",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": "Python",
-    "repo_name": "proteus",
-    "repo_owner": "Rositaestival406",
-    "repotime": "2025-12-06, 13:27:03",
     "stargazers_count": 0,
     "watchers_count": 0
 }
