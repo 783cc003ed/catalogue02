@@ -1,4 +1,58 @@
 {
+    "commits_count": 116,
+    "date_started": "2025-12-06",
+    "date_updated": "2025-12-09",
+    "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
+    "forks_count": 1,
+    "html_url": "https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL",
+    "keywords": [
+        "Windows lpe vulnerability",
+        "Windows lpe",
+        "lpe vulnerability",
+        "Windows lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "PrintSpoofer-ReflectiveDLL",
+    "repo_owner": "JonyFilc",
+    "repotime": "2025-12-09, 09:56:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-12-08",
+    "date_updated": "2025-12-09",
+    "description": "🛠️ Demonstrate a PS5 kernel exploit for firmware &amp;lt;=10.40 using a stack use-after-free vulnerability in the fsc2h_ctrl syscall.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Camal2010/no_ctrl",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "no_ctrl",
+    "repo_owner": "Camal2010",
+    "repotime": "2025-12-09, 12:36:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-12-09",
+    "date_updated": "2025-12-09",
+    "description": "React2Shell (CVE-2025-55182) proof-of-concept (PoC) exploit demonstrating a CRITICAL remote code execution (RCE) vulnerability in modern web frameworks using React Server Components (RSC).",
+    "forks_count": 0,
+    "html_url": "https://github.com/rsch-io/CVE-2025-55182-React2Shell",
+    "keywords": [
+        "rce proof of concept"
+    ],
+    "language": "JavaScript",
+    "repo_name": "CVE-2025-55182-React2Shell",
+    "repo_owner": "rsch-io",
+    "repotime": "2025-12-09, 14:55:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 30,
     "date_started": "2025-11-13",
     "date_updated": "2025-12-09",
@@ -13,25 +67,6 @@
     "repo_name": "gi-cv",
     "repo_owner": "Boydunbarred375",
     "repotime": "2025-12-09, 06:03:19",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 108,
-    "date_started": "2025-12-06",
-    "date_updated": "2025-12-09",
-    "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
-    "forks_count": 1,
-    "html_url": "https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL",
-    "keywords": [
-        "Windows lpe vulnerability",
-        "Windows lpe",
-        "lpe vulnerability"
-    ],
-    "language": "C",
-    "repo_name": "PrintSpoofer-ReflectiveDLL",
-    "repo_owner": "JonyFilc",
-    "repotime": "2025-12-09, 04:59:10",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -51,23 +86,6 @@
     "repotime": "2025-12-09, 09:37:46",
     "stargazers_count": 11,
     "watchers_count": 11
-}
-{
-    "commits_count": 7,
-    "date_started": "2025-12-08",
-    "date_updated": "2025-12-09",
-    "description": "🛠️ Demonstrate a PS5 kernel exploit for firmware &amp;lt;=10.40 using a stack use-after-free vulnerability in the fsc2h_ctrl syscall.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Camal2010/no_ctrl",
-    "keywords": [
-        "use after free exploit"
-    ],
-    "language": "JavaScript",
-    "repo_name": "no_ctrl",
-    "repo_owner": "Camal2010",
-    "repotime": "2025-12-09, 07:57:56",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 8,
