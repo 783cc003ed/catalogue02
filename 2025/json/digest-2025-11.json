@@ -856,25 +856,6 @@
     "watchers_count": 4
 }
 {
-    "commits_count": 36,
-    "date_started": "2025-05-17",
-    "date_updated": "2025-11-23",
-    "description": "CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by a malicious audio file via iMessage/SMS. Exploitation bypassed Blastdoor, enabled kernel escalation (CVE-2025-31201), and allowed token theft until patched in iOS 18.4.1 (Apr 16, 2025).",
-    "forks_count": 12,
-    "html_url": "https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
-    "keywords": [
-        "rce disclosure",
-        "zero-day exploitation",
-        "zero-day exploit"
-    ],
-    "language": null,
-    "repo_name": "iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201",
-    "repo_owner": "JGoyd",
-    "repotime": "2025-11-23, 20:49:30",
-    "stargazers_count": 78,
-    "watchers_count": 78
-}
-{
     "commits_count": 2,
     "date_started": "2025-11-24",
     "date_updated": "2025-11-23",
@@ -1504,8 +1485,8 @@
     "repo_name": "CVE-2025-64446",
     "repo_owner": "sensepost",
     "repotime": "2025-11-18, 18:27:01",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 9,
@@ -1886,8 +1867,8 @@
     "repo_name": "CVE-2025-62215-exploit-poc",
     "repo_owner": "dexterm300",
     "repotime": "2025-11-13, 23:07:13",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 31,
@@ -2458,7 +2439,7 @@
     "date_started": "2025-09-01",
     "date_updated": "2025-11-08",
     "description": "Laravel RCE Exploitation Toolkit",
-    "forks_count": 6,
+    "forks_count": 7,
     "html_url": "https://github.com/khadafigans/Laravel-RCE-Exploitation-Toolkit",
     "keywords": [
         "rce exploitation",
@@ -2468,8 +2449,8 @@
     "repo_name": "Laravel-RCE-Exploitation-Toolkit",
     "repo_owner": "khadafigans",
     "repotime": "2025-11-08, 23:20:00",
-    "stargazers_count": 49,
-    "watchers_count": 49
+    "stargazers_count": 48,
+    "watchers_count": 48
 }
 {
     "commits_count": 1,
@@ -2698,7 +2679,7 @@
     "date_started": "2017-02-07",
     "date_updated": "2025-11-06",
     "description": "The best tool for finding one gadget RCE in libc.so.6",
-    "forks_count": 146,
+    "forks_count": 147,
     "html_url": "https://github.com/david942j/one_gadget",
     "keywords": [
         "rce exploit"
@@ -2707,8 +2688,8 @@
     "repo_name": "one_gadget",
     "repo_owner": "david942j",
     "repotime": "2025-11-06, 22:57:51",
-    "stargazers_count": 2266,
-    "watchers_count": 2266
+    "stargazers_count": 2267,
+    "watchers_count": 2267
 }
 {
     "commits_count": 2,
@@ -2837,7 +2818,7 @@
     "date_started": "2025-11-04",
     "date_updated": "2025-11-04",
     "description": "CVE-2025-11953 demonstration: Critical RCE vulnerability in React Native CLI (CVSS 9.8). Educational security research with proof-of-concept exploits and mitigation strategies.",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/SaidBenaissa/cve-2025-11953-vulnerability-demo",
     "keywords": [
         "rce proof of concept"
@@ -2846,8 +2827,8 @@
     "repo_name": "cve-2025-11953-vulnerability-demo",
     "repo_owner": "SaidBenaissa",
     "repotime": "2025-11-04, 19:02:22",
-    "stargazers_count": 2,
-    "watchers_count": 2
+    "stargazers_count": 4,
+    "watchers_count": 4
 }
 {
     "commits_count": 207,
@@ -2881,8 +2862,8 @@
     "repo_name": "CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day",
     "repo_owner": "AdityaBhatt3010",
     "repotime": "2025-11-04, 15:01:20",
-    "stargazers_count": 4,
-    "watchers_count": 4
+    "stargazers_count": 5,
+    "watchers_count": 5
 }
 {
     "commits_count": 1,
@@ -2991,24 +2972,6 @@
     "repo_name": "cve-2025-59287-exploit-poc",
     "repo_owner": "dexterm300",
     "repotime": "2025-11-03, 03:57:43",
-    "stargazers_count": 2,
-    "watchers_count": 2
-}
-{
-    "commits_count": 71,
-    "date_started": "2025-06-19",
-    "date_updated": "2025-11-03",
-    "description": "Crema is a static analysis tool for Rust-C FFI. It detects memory errors (memory leak, double-free and use-after-free) in pure Rust code and Rust interacting with C code.",
-    "forks_count": 0,
-    "html_url": "https://github.com/AFx3/crema-static-analyzer",
-    "keywords": [
-        "use after free analysis",
-        "memory leak analysis"
-    ],
-    "language": "Rust",
-    "repo_name": "crema-static-analyzer",
-    "repo_owner": "AFx3",
-    "repotime": "2025-11-03, 11:49:01",
     "stargazers_count": 2,
     "watchers_count": 2
 }
