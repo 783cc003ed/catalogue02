@@ -1,7 +1,41 @@
 {
-    "commits_count": 120,
-    "date_started": "2025-12-06",
+    "commits_count": 45,
+    "date_started": "2025-11-23",
+    "date_updated": "2025-12-10",
+    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rositaestival406/proteus",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "proteus",
+    "repo_owner": "Rositaestival406",
+    "repotime": "2025-12-10, 04:07:43",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-04-11",
     "date_updated": "2025-12-09",
+    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HWBP-DEP-Bypass",
+    "repo_owner": "kal21k",
+    "repotime": "2025-12-09, 22:59:19",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 145,
+    "date_started": "2025-12-06",
+    "date_updated": "2025-12-10",
     "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
     "forks_count": 1,
     "html_url": "https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL",
@@ -14,7 +48,24 @@
     "language": "C",
     "repo_name": "PrintSpoofer-ReflectiveDLL",
     "repo_owner": "JonyFilc",
-    "repotime": "2025-12-09, 11:56:52",
+    "repotime": "2025-12-10, 03:48:31",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2,
+    "date_started": "2025-12-09",
+    "date_updated": "2025-12-09",
+    "description": "To bypass the security controls, I constructed a Python script that spoofs a legitimate browser session.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Tutorjay/penetration-testing-scripts",
+    "keywords": [
+        "spoofing session"
+    ],
+    "language": "Python",
+    "repo_name": "penetration-testing-scripts",
+    "repo_owner": "Tutorjay",
+    "repotime": "2025-12-09, 14:48:16",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -222,6 +273,23 @@
     "watchers_count": 717
 }
 {
+    "commits_count": 52,
+    "date_started": "2025-05-09",
+    "date_updated": "2025-12-08",
+    "description": "In this satirical simulation game, you take on the role of an underdog who makes money not through fighting, but through hacking, piracy, and all kinds of shady tricks. Instead of battles, you’ll rely on digital manipulation, illegal deals, and clever schemes to build your empire — always with a wink and plenty of absurd situations.",
+    "forks_count": 0,
+    "html_url": "https://github.com/TomatenHead/Zero_Day_Exploit",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "GDScript",
+    "repo_name": "Zero_Day_Exploit",
+    "repo_owner": "TomatenHead",
+    "repotime": "2025-12-08, 23:46:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 12,
     "date_started": "2022-04-06",
     "date_updated": "2025-12-08",
@@ -324,23 +392,6 @@
     "repotime": "2025-12-08, 14:51:01",
     "stargazers_count": 813,
     "watchers_count": 813
-}
-{
-    "commits_count": 45,
-    "date_started": "2025-11-23",
-    "date_updated": "2025-12-08",
-    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Rositaestival406/proteus",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": "Python",
-    "repo_name": "proteus",
-    "repo_owner": "Rositaestival406",
-    "repotime": "2025-12-08, 13:22:30",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 30,
@@ -588,23 +639,6 @@
     "watchers_count": 5
 }
 {
-    "commits_count": 48,
-    "date_started": "2025-05-09",
-    "date_updated": "2025-12-07",
-    "description": "In this satirical simulation game, you take on the role of an underdog who makes money not through fighting, but through hacking, piracy, and all kinds of shady tricks. Instead of battles, you’ll rely on digital manipulation, illegal deals, and clever schemes to build your empire — always with a wink and plenty of absurd situations.",
-    "forks_count": 0,
-    "html_url": "https://github.com/TomatenHead/Zero_Day_Exploit",
-    "keywords": [
-        "zero-day exploit"
-    ],
-    "language": "GDScript",
-    "repo_name": "Zero_Day_Exploit",
-    "repo_owner": "TomatenHead",
-    "repotime": "2025-12-07, 18:43:34",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 280,
     "date_started": "2025-08-10",
     "date_updated": "2025-12-07",
@@ -727,6 +761,23 @@
     "watchers_count": 78
 }
 {
+    "commits_count": 1558,
+    "date_started": "2012-07-18",
+    "date_updated": "2025-12-06",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 440,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2025-12-06, 21:03:10",
+    "stargazers_count": 1709,
+    "watchers_count": 1709
+}
+{
     "commits_count": 72,
     "date_started": "2025-06-19",
     "date_updated": "2025-12-06",
@@ -760,23 +811,6 @@
     "repotime": "2025-12-06, 23:21:37",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 1553,
-    "date_started": "2012-07-18",
-    "date_updated": "2025-12-06",
-    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 441,
-    "html_url": "https://github.com/ron190/jsql-injection",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Java",
-    "repo_name": "jsql-injection",
-    "repo_owner": "ron190",
-    "repotime": "2025-12-06, 16:42:34",
-    "stargazers_count": 1709,
-    "watchers_count": 1709
 }
 {
     "commits_count": 3,
@@ -894,23 +928,6 @@
     "repo_name": "BruteForge-Pro",
     "repo_owner": "DonatelloXP",
     "repotime": "2025-12-06, 09:50:03",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 12,
-    "date_started": "2024-04-11",
-    "date_updated": "2025-12-06",
-    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
-    "forks_count": 0,
-    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "kal21k",
-    "repotime": "2025-12-06, 02:49:40",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -1335,7 +1352,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2025-12-05",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6138,
+    "forks_count": 6136,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -1344,8 +1361,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-12-05, 10:30:13",
-    "stargazers_count": 36037,
-    "watchers_count": 36037
+    "stargazers_count": 36064,
+    "watchers_count": 36064
 }
 {
     "commits_count": 2799,
@@ -1514,6 +1531,23 @@
     "repo_name": "malstring",
     "repo_owner": "Lands-Horizon-Corp",
     "repotime": "2025-12-04, 17:07:04",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-12-04",
+    "date_updated": "2025-12-04",
+    "description": "A structured vulnerability assessment project focused on identifying security weaknesses, evaluating risks, and recommending mitigation strategies based on industry best practices. Includes a detailed report, risk matrix, and findings summary.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kevin2901/ZeroDayRadar--Enterprise-Security-Vulnerability-Assessment",
+    "keywords": [
+        "zero-day vulnerability"
+    ],
+    "language": null,
+    "repo_name": "ZeroDayRadar--Enterprise-Security-Vulnerability-Assessment",
+    "repo_owner": "Kevin2901",
+    "repotime": "2025-12-04, 10:05:01",
     "stargazers_count": 1,
     "watchers_count": 1
 }
