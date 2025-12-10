@@ -17,26 +17,7 @@
     "language": "C++",
     "repo_name": "EtwLeakKernel",
     "repo_owner": "Suti2069",
-    "repotime": "2025-12-10, 18:53:25",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 325,
-    "date_started": "2025-12-06",
-    "date_updated": "2025-12-10",
-    "description": "Command-line post-exploitation toolkit for Microsoft SQL Server — enabling RCE, privilege escalation, persistence, and defense evasion via T-SQL.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Trimamkash/SqlKnife",
-    "keywords": [
-        "Microsoft rce",
-        "Microsoft rce exploitation",
-        "Microsoft rce exploit"
-    ],
-    "language": "C++",
-    "repo_name": "SqlKnife",
-    "repo_owner": "Trimamkash",
-    "repotime": "2025-12-10, 13:01:51",
+    "repotime": "2025-12-10, 21:08:06",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -53,7 +34,27 @@
     "language": null,
     "repo_name": "KQL-Queries-Defender-Sentinel",
     "repo_owner": "Juanjo9471",
-    "repotime": "2025-12-10, 07:36:11",
+    "repotime": "2025-12-10, 09:52:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 160,
+    "date_started": "2025-12-06",
+    "date_updated": "2025-12-10",
+    "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
+    "forks_count": 1,
+    "html_url": "https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL",
+    "keywords": [
+        "Windows lpe vulnerability",
+        "Windows lpe",
+        "lpe vulnerability",
+        "Windows lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "PrintSpoofer-ReflectiveDLL",
+    "repo_owner": "JonyFilc",
+    "repotime": "2025-12-10, 14:51:26",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -74,7 +75,7 @@
     "language": "Shell",
     "repo_name": "CVE-2025-32463_chwoot",
     "repo_owner": "ashardev002",
-    "repotime": "2025-12-10, 17:59:46",
+    "repotime": "2025-12-10, 20:17:41",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -92,7 +93,7 @@
     "language": "Jupyter Notebook",
     "repo_name": "CVE-2025-31258-PoC",
     "repo_owner": "sureshkumarsat",
-    "repotime": "2025-12-10, 17:58:16",
+    "repotime": "2025-12-10, 20:15:20",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -110,7 +111,7 @@
     "language": "PowerShell",
     "repo_name": "lab-cve-2020-0610",
     "repo_owner": "Riocipta75",
-    "repotime": "2025-12-10, 20:26:13",
+    "repotime": "2025-12-10, 22:44:02",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -127,7 +128,7 @@
     "language": "Python",
     "repo_name": "Backdoor",
     "repo_owner": "Zayden-Cyber",
-    "repotime": "2025-12-10, 17:19:58",
+    "repotime": "2025-12-10, 19:36:45",
     "stargazers_count": 11,
     "watchers_count": 11
 }
@@ -146,27 +147,43 @@
     "language": null,
     "repo_name": "vsftpd-backdoor-exploit",
     "repo_owner": "Daniel1234mata",
-    "repotime": "2025-12-10, 14:18:38",
+    "repotime": "2025-12-10, 16:35:53",
     "stargazers_count": 1,
     "watchers_count": 1
 }
 {
-    "commits_count": 158,
+    "commits_count": 5,
+    "date_started": "2025-05-13",
+    "date_updated": "2025-12-10",
+    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
+    "forks_count": 1,
+    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "MXSpoof",
+    "repo_owner": "debashishmishra1122",
+    "repotime": "2025-12-10, 20:04:26",
+    "stargazers_count": 4,
+    "watchers_count": 4
+}
+{
+    "commits_count": 325,
     "date_started": "2025-12-06",
     "date_updated": "2025-12-10",
-    "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
-    "forks_count": 1,
-    "html_url": "https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL",
+    "description": "Command-line post-exploitation toolkit for Microsoft SQL Server — enabling RCE, privilege escalation, persistence, and defense evasion via T-SQL.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Trimamkash/SqlKnife",
     "keywords": [
-        "Windows lpe vulnerability",
-        "Windows lpe",
-        "lpe vulnerability",
-        "Windows lpe exploit"
+        "Microsoft rce",
+        "Microsoft rce exploitation",
+        "Microsoft rce exploit"
     ],
-    "language": "C",
-    "repo_name": "PrintSpoofer-ReflectiveDLL",
-    "repo_owner": "JonyFilc",
-    "repotime": "2025-12-10, 11:58:48",
+    "language": "C++",
+    "repo_name": "SqlKnife",
+    "repo_owner": "Trimamkash",
+    "repotime": "2025-12-10, 13:01:51",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -238,23 +255,6 @@
     "repotime": "2025-12-10, 05:12:12",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 5,
-    "date_started": "2025-05-13",
-    "date_updated": "2025-12-10",
-    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
-    "forks_count": 1,
-    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
-    "keywords": [
-        "spoofing vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "MXSpoof",
-    "repo_owner": "debashishmishra1122",
-    "repotime": "2025-12-10, 15:11:36",
-    "stargazers_count": 4,
-    "watchers_count": 4
 }
 {
     "commits_count": 5,
@@ -1295,8 +1295,8 @@
     "repo_name": "CVE-2025-55182",
     "repo_owner": "emredavut",
     "repotime": "2025-12-06, 04:27:14",
-    "stargazers_count": 261,
-    "watchers_count": 261
+    "stargazers_count": 263,
+    "watchers_count": 263
 }
 {
     "commits_count": 10,
