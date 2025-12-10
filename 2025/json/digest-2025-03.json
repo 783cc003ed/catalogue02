@@ -1253,7 +1253,7 @@
     "date_started": "2025-03-14",
     "date_updated": "2025-03-14",
     "description": "his repository contains an automated Proof of Concept (PoC) script for exploiting **CVE-2025-24813**, a Remote Code Execution (RCE) vulnerability in Apache Tomcat. The vulnerability allows an attacker to upload a malicious serialized payload to the server, leading to arbitrary code execution via deserialization when specific conditions are met.",
-    "forks_count": 42,
+    "forks_count": 43,
     "html_url": "https://github.com/absholi7ly/POC-CVE-2025-24813",
     "keywords": [
         "remote code execution exploitation",
@@ -1267,8 +1267,8 @@
     "repo_name": "POC-CVE-2025-24813",
     "repo_owner": "absholi7ly",
     "repotime": "2025-03-14, 10:57:27",
-    "stargazers_count": 179,
-    "watchers_count": 179
+    "stargazers_count": 180,
+    "watchers_count": 180
 }
 {
     "commits_count": 2,
@@ -1403,8 +1403,8 @@
     "repo_name": "sqlifinder",
     "repo_owner": "americo",
     "repotime": "2025-03-12, 00:52:13",
-    "stargazers_count": 380,
-    "watchers_count": 380
+    "stargazers_count": 379,
+    "watchers_count": 379
 }
 {
     "commits_count": 3,
@@ -1754,7 +1754,7 @@
     "date_started": "2022-08-26",
     "date_updated": "2025-03-07",
     "description": "This repository contains a sample Java application vulnerable to command injection and server-side request forgery (SSRF).",
-    "forks_count": 114,
+    "forks_count": 123,
     "html_url": "https://github.com/DataDog/vulnerable-java-application",
     "keywords": [
         "server side request forgery",
@@ -1834,8 +1834,8 @@
     "repo_name": "JavaRce",
     "repo_owner": "Whoopsunix",
     "repotime": "2025-03-06, 13:21:37",
-    "stargazers_count": 536,
-    "watchers_count": 536
+    "stargazers_count": 537,
+    "watchers_count": 537
 }
 {
     "commits_count": 65,

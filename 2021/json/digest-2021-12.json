@@ -736,8 +736,8 @@
     "repo_name": "nmap-log4shell",
     "repo_owner": "giterlizzi",
     "repotime": "2021-12-17, 18:23:49",
-    "stargazers_count": 79,
-    "watchers_count": 79
+    "stargazers_count": 78,
+    "watchers_count": 78
 }
 {
     "commits_count": 12,
@@ -1005,7 +1005,7 @@
     "date_started": "2021-12-10",
     "date_updated": "2021-12-14",
     "description": "A script that checks for vulnerable Log4j (CVE-2021-44228) systems using injection of the payload in common HTTP headers.",
-    "forks_count": 26,
+    "forks_count": 25,
     "html_url": "https://github.com/NorthwaveSecurity/log4jcheck",
     "keywords": [
         "rce vulnerability"

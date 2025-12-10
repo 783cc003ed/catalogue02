@@ -46,8 +46,8 @@
     "repo_name": "QuickAssist_UAC_Bypass",
     "repo_owner": "R41N3RZUF477",
     "repotime": "2025-11-30, 18:36:21",
-    "stargazers_count": 198,
-    "watchers_count": 198
+    "stargazers_count": 199,
+    "watchers_count": 199
 }
 {
     "commits_count": 3,
@@ -184,8 +184,8 @@
     "repo_name": "CVE-2025-32463",
     "repo_owner": "Nowafen",
     "repotime": "2025-11-29, 17:33:23",
-    "stargazers_count": 11,
-    "watchers_count": 11
+    "stargazers_count": 12,
+    "watchers_count": 12
 }
 {
     "commits_count": 2,
@@ -1251,23 +1251,6 @@
     "watchers_count": 1
 }
 {
-    "commits_count": 38,
-    "date_started": "2025-11-07",
-    "date_updated": "2025-11-21",
-    "description": "Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time execution. Loads unsigned drivers by surgically patching SeCiCallbacks via native subsystem. Includes anti-loop protection and dual-path architecture. Windows 11 25H2 driver signature enforcement bypass",
-    "forks_count": 2,
-    "html_url": "https://github.com/wesmar/KernelResearchKit",
-    "keywords": [
-        "kernel patch protection bypass"
-    ],
-    "language": "C++",
-    "repo_name": "KernelResearchKit",
-    "repo_owner": "wesmar",
-    "repotime": "2025-11-21, 12:54:59",
-    "stargazers_count": 3,
-    "watchers_count": 3
-}
-{
     "commits_count": 2,
     "date_started": "2025-11-21",
     "date_updated": "2025-11-21",
@@ -1867,15 +1850,15 @@
     "repo_name": "CVE-2025-62215-exploit-poc",
     "repo_owner": "dexterm300",
     "repotime": "2025-11-13, 23:07:13",
-    "stargazers_count": 12,
-    "watchers_count": 12
+    "stargazers_count": 14,
+    "watchers_count": 14
 }
 {
     "commits_count": 31,
     "date_started": "2025-03-29",
     "date_updated": "2025-11-14",
     "description": "This script automates SQL injection testing using SQLMap with AI-powered decision making.",
-    "forks_count": 69,
+    "forks_count": 70,
     "html_url": "https://github.com/atiilla/sqlmap-ai",
     "keywords": [
         "sql injection"
@@ -1884,8 +1867,8 @@
     "repo_name": "sqlmap-ai",
     "repo_owner": "atiilla",
     "repotime": "2025-11-14, 00:39:01",
-    "stargazers_count": 385,
-    "watchers_count": 385
+    "stargazers_count": 386,
+    "watchers_count": 386
 }
 {
     "commits_count": 268,
@@ -2006,24 +1989,6 @@
     "repotime": "2025-11-12, 21:46:00",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 135,
-    "date_started": "2024-09-13",
-    "date_updated": "2025-11-12",
-    "description": "best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect",
-    "forks_count": 322,
-    "html_url": "https://github.com/coffinxp/loxs",
-    "keywords": [
-        "lfi",
-        "xss"
-    ],
-    "language": "Python",
-    "repo_name": "loxs",
-    "repo_owner": "coffinxp",
-    "repotime": "2025-11-12, 17:54:26",
-    "stargazers_count": 1439,
-    "watchers_count": 1439
 }
 {
     "commits_count": 83,
@@ -2260,8 +2225,8 @@
     "repo_name": "smart-doc",
     "repo_owner": "TongchengOpenSource",
     "repotime": "2025-11-10, 10:06:18",
-    "stargazers_count": 1593,
-    "watchers_count": 1593
+    "stargazers_count": 1590,
+    "watchers_count": 1590
 }
 {
     "commits_count": 3,
@@ -2315,24 +2280,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 143,
-    "date_started": "2019-04-19",
-    "date_updated": "2025-11-09",
-    "description": "Top disclosed reports from HackerOne",
-    "forks_count": 914,
-    "html_url": "https://github.com/reddelexc/hackerone-reports",
-    "keywords": [
-        "xxe",
-        "ssrf"
-    ],
-    "language": "Python",
-    "repo_name": "hackerone-reports",
-    "repo_owner": "reddelexc",
-    "repotime": "2025-11-09, 15:21:51",
-    "stargazers_count": 5052,
-    "watchers_count": 5052
-}
-{
     "commits_count": 7,
     "date_started": "2025-11-09",
     "date_updated": "2025-11-09",
@@ -2346,8 +2293,8 @@
     "repo_name": "Google-chrome-zero-day",
     "repo_owner": "Muhammednihalmp",
     "repotime": "2025-11-09, 18:34:21",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 3,
@@ -2709,7 +2656,7 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 210,
+    "commits_count": 214,
     "date_started": "2023-05-05",
     "date_updated": "2025-11-05",
     "description": "BadZure automates the deployment of intentionally misconfigured Entra ID tenants and Azure subscriptions, populating them with diverse entities and configurable, traversable attack paths.",

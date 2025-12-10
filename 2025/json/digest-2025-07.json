@@ -202,8 +202,8 @@
     "repo_name": "CVE-2025-29824-Exploit",
     "repo_owner": "AfanPan",
     "repotime": "2025-07-30, 16:15:59",
-    "stargazers_count": 16,
-    "watchers_count": 16
+    "stargazers_count": 17,
+    "watchers_count": 17
 }
 {
     "commits_count": 37,
@@ -362,26 +362,6 @@
     "repotime": "2025-07-29, 14:38:28",
     "stargazers_count": 0,
     "watchers_count": 0
-}
-{
-    "commits_count": 49,
-    "date_started": "2024-08-31",
-    "date_updated": "2025-07-29",
-    "description": "CVE-2024-38063 is a critical security vulnerability in the Windows TCP/IP stack that allows for remote code execution (RCE)",
-    "forks_count": 7,
-    "html_url": "https://github.com/ThemeHackers/CVE-2024-38063",
-    "keywords": [
-        "remote code execution vulnerability",
-        "Windows rce",
-        "Windows rce vulnerability",
-        "Windows remote code execution vulnerability"
-    ],
-    "language": "Python",
-    "repo_name": "CVE-2024-38063",
-    "repo_owner": "ThemeHackers",
-    "repotime": "2025-07-29, 12:49:48",
-    "stargazers_count": 39,
-    "watchers_count": 39
 }
 {
     "commits_count": 5,
@@ -1431,7 +1411,7 @@
     "date_started": "2024-09-06",
     "date_updated": "2025-07-18",
     "description": "Automation tool to testing and confirm the xss vulnerability.",
-    "forks_count": 53,
+    "forks_count": 54,
     "html_url": "https://github.com/iamunixtz/LazyXss",
     "keywords": [
         "xss"
@@ -1440,8 +1420,8 @@
     "repo_name": "LazyXss",
     "repo_owner": "iamunixtz",
     "repotime": "2025-07-18, 06:49:37",
-    "stargazers_count": 300,
-    "watchers_count": 300
+    "stargazers_count": 301,
+    "watchers_count": 301
 }
 {
     "commits_count": 3,
@@ -2180,8 +2160,8 @@
     "repo_name": "CVE-2025-5777",
     "repo_owner": "bughuntar",
     "repotime": "2025-07-11, 17:19:58",
-    "stargazers_count": 27,
-    "watchers_count": 27
+    "stargazers_count": 28,
+    "watchers_count": 28
 }
 {
     "commits_count": 2,
@@ -3035,7 +3015,7 @@
     "date_started": "2025-07-02",
     "date_updated": "2025-07-02",
     "description": "Local Privilege Escalation to Root via Sudo chroot in Linux",
-    "forks_count": 57,
+    "forks_count": 58,
     "html_url": "https://github.com/kh4sh3i/CVE-2025-32463",
     "keywords": [
         "lpe exploit",
@@ -3046,8 +3026,8 @@
     "repo_name": "CVE-2025-32463",
     "repo_owner": "kh4sh3i",
     "repotime": "2025-07-02, 12:04:43",
-    "stargazers_count": 409,
-    "watchers_count": 409
+    "stargazers_count": 412,
+    "watchers_count": 412
 }
 {
     "commits_count": 1,
