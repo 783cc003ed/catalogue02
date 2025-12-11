@@ -2321,7 +2321,7 @@
     "date_started": "2025-07-10",
     "date_updated": "2025-07-10",
     "description": "CVE-2025-6218 is a directory traversal vulnerability in WinRAR that allows an attacker to place files outside the intended extraction directory when a user extracts a specially crafted",
-    "forks_count": 0,
+    "forks_count": 1,
     "html_url": "https://github.com/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE",
     "keywords": [
         "Win rce",
@@ -2331,8 +2331,8 @@
     "repo_name": "CVE-2025-6218-WinRAR-Directory-Traversal-RCE",
     "repo_owner": "absholi7ly",
     "repotime": "2025-07-10, 05:31:38",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 2,
