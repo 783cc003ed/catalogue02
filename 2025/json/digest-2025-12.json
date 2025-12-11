@@ -1,4 +1,59 @@
 {
+    "commits_count": 363,
+    "date_started": "2025-12-06",
+    "date_updated": "2025-12-11",
+    "description": "Command-line post-exploitation toolkit for Microsoft SQL Server — enabling RCE, privilege escalation, persistence, and defense evasion via T-SQL.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Trimamkash/SqlKnife",
+    "keywords": [
+        "Microsoft rce",
+        "Microsoft rce exploitation",
+        "Microsoft rce exploit"
+    ],
+    "language": "C++",
+    "repo_name": "SqlKnife",
+    "repo_owner": "Trimamkash",
+    "repotime": "2025-12-11, 03:20:50",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-11-15",
+    "date_updated": "2025-12-10",
+    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "KQL-Queries-Defender-Sentinel",
+    "repo_owner": "Juanjo9471",
+    "repotime": "2025-12-10, 22:03:21",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-11-16",
+    "date_updated": "2025-12-11",
+    "description": "Unauthenticated RCE PoC in Microsoft Windows Server Update Service (WSUS) - CVE-2025-59287 &amp;amp; CVE-2023-35317",
+    "forks_count": 1,
+    "html_url": "https://github.com/M507/CVE-2025-59287-PoC",
+    "keywords": [
+        "Windows rce",
+        "Windows rce poc",
+        "Microsoft rce"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-59287-PoC",
+    "repo_owner": "M507",
+    "repotime": "2025-12-11, 00:33:18",
+    "stargazers_count": 6,
+    "watchers_count": 6
+}
+{
     "commits_count": 8,
     "date_started": "2025-11-30",
     "date_updated": "2025-12-10",
@@ -17,44 +72,42 @@
     "language": "C++",
     "repo_name": "EtwLeakKernel",
     "repo_owner": "Suti2069",
-    "repotime": "2025-12-10, 21:08:06",
+    "repotime": "2025-12-10, 22:24:11",
     "stargazers_count": 0,
     "watchers_count": 0
 }
 {
-    "commits_count": 4,
-    "date_started": "2022-11-15",
+    "commits_count": 12,
+    "date_started": "2022-04-06",
     "date_updated": "2025-12-10",
-    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
     "forks_count": 0,
-    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
     "keywords": [
-        "Microsoft zero-day"
+        "uaf exploit",
+        "uaf vulnerability"
     ],
-    "language": null,
-    "repo_name": "KQL-Queries-Defender-Sentinel",
-    "repo_owner": "Juanjo9471",
-    "repotime": "2025-12-10, 09:52:00",
+    "language": "CSS",
+    "repo_name": "CVE-2025-49844",
+    "repo_owner": "Zain3311",
+    "repotime": "2025-12-10, 11:23:28",
     "stargazers_count": 0,
     "watchers_count": 0
 }
 {
-    "commits_count": 160,
-    "date_started": "2025-12-06",
+    "commits_count": 7,
+    "date_started": "2025-12-09",
     "date_updated": "2025-12-10",
-    "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
-    "forks_count": 1,
-    "html_url": "https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL",
+    "description": "Proof of Concept for CVE-2025-55182 (&amp;quot;React2Shell&amp;quot;). A fully dockerized environment demonstrating Remote Code Execution (RCE) via insecure deserialization in React Server Components. Includes vulnerable targets for both Vanilla React (Express) and Next.js, along with a custom Python exploit script.",
+    "forks_count": 0,
+    "html_url": "https://github.com/trax69/cve-2025-55182-poc",
     "keywords": [
-        "Windows lpe vulnerability",
-        "Windows lpe",
-        "lpe vulnerability",
-        "Windows lpe exploit"
+        "remote code execution proof of concept"
     ],
-    "language": "C",
-    "repo_name": "PrintSpoofer-ReflectiveDLL",
-    "repo_owner": "JonyFilc",
-    "repotime": "2025-12-10, 14:51:26",
+    "language": "Python",
+    "repo_name": "cve-2025-55182-poc",
+    "repo_owner": "trax69",
+    "repotime": "2025-12-10, 17:17:14",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -75,7 +128,7 @@
     "language": "Shell",
     "repo_name": "CVE-2025-32463_chwoot",
     "repo_owner": "ashardev002",
-    "repotime": "2025-12-10, 20:17:41",
+    "repotime": "2025-12-10, 21:33:59",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -93,7 +146,63 @@
     "language": "Jupyter Notebook",
     "repo_name": "CVE-2025-31258-PoC",
     "repo_owner": "sureshkumarsat",
-    "repotime": "2025-12-10, 20:15:20",
+    "repotime": "2025-12-10, 21:32:41",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-12-10",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-12-10, 17:53:09",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-12-08",
+    "date_updated": "2025-12-10",
+    "description": "🛠️ Demonstrate a PS5 kernel exploit for firmware &amp;lt;=10.40 using a stack use-after-free vulnerability in the fsc2h_ctrl syscall.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Camal2010/no_ctrl",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "no_ctrl",
+    "repo_owner": "Camal2010",
+    "repotime": "2025-12-10, 19:25:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 160,
+    "date_started": "2025-12-06",
+    "date_updated": "2025-12-10",
+    "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
+    "forks_count": 1,
+    "html_url": "https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL",
+    "keywords": [
+        "Windows lpe vulnerability",
+        "Windows lpe",
+        "lpe vulnerability",
+        "Windows lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "PrintSpoofer-ReflectiveDLL",
+    "repo_owner": "JonyFilc",
+    "repotime": "2025-12-10, 14:51:26",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -133,25 +242,6 @@
     "watchers_count": 11
 }
 {
-    "commits_count": 7,
-    "date_started": "2025-05-21",
-    "date_updated": "2025-12-10",
-    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability"
-    ],
-    "language": null,
-    "repo_name": "vsftpd-backdoor-exploit",
-    "repo_owner": "Daniel1234mata",
-    "repotime": "2025-12-10, 16:35:53",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 5,
     "date_started": "2025-05-13",
     "date_updated": "2025-12-10",
@@ -167,25 +257,6 @@
     "repotime": "2025-12-10, 20:04:26",
     "stargazers_count": 4,
     "watchers_count": 4
-}
-{
-    "commits_count": 325,
-    "date_started": "2025-12-06",
-    "date_updated": "2025-12-10",
-    "description": "Command-line post-exploitation toolkit for Microsoft SQL Server — enabling RCE, privilege escalation, persistence, and defense evasion via T-SQL.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Trimamkash/SqlKnife",
-    "keywords": [
-        "Microsoft rce",
-        "Microsoft rce exploitation",
-        "Microsoft rce exploit"
-    ],
-    "language": "C++",
-    "repo_name": "SqlKnife",
-    "repo_owner": "Trimamkash",
-    "repotime": "2025-12-10, 13:01:51",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 45,
@@ -222,46 +293,11 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 8,
-    "date_started": "2025-12-08",
-    "date_updated": "2025-12-10",
-    "description": "🛠️ Demonstrate a PS5 kernel exploit for firmware &amp;lt;=10.40 using a stack use-after-free vulnerability in the fsc2h_ctrl syscall.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Camal2010/no_ctrl",
-    "keywords": [
-        "use after free exploit"
-    ],
-    "language": "JavaScript",
-    "repo_name": "no_ctrl",
-    "repo_owner": "Camal2010",
-    "repotime": "2025-12-10, 14:31:24",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 12,
-    "date_started": "2022-04-06",
-    "date_updated": "2025-12-10",
-    "description": "🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Zain3311/CVE-2025-49844",
-    "keywords": [
-        "uaf exploit",
-        "uaf vulnerability"
-    ],
-    "language": "CSS",
-    "repo_name": "CVE-2025-49844",
-    "repo_owner": "Zain3311",
-    "repotime": "2025-12-10, 05:12:12",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 5,
     "date_started": "2025-12-05",
     "date_updated": "2025-12-10",
     "description": "React2Shell Ultimate - The most comprehensive CVE-2025-66478 Scanner for Next.js RSC RCE vulnerability. Multi-mode detection, WAF bypass, local scanning.",
-    "forks_count": 20,
+    "forks_count": 21,
     "html_url": "https://github.com/hackersatyamrastogi/react2shell-ultimate",
     "keywords": [
         "rce vulnerability"
@@ -270,8 +306,8 @@
     "repo_name": "react2shell-ultimate",
     "repo_owner": "hackersatyamrastogi",
     "repotime": "2025-12-10, 15:05:11",
-    "stargazers_count": 102,
-    "watchers_count": 102
+    "stargazers_count": 105,
+    "watchers_count": 105
 }
 {
     "commits_count": 4,
@@ -397,23 +433,6 @@
     "repotime": "2025-12-10, 01:18:04",
     "stargazers_count": 717,
     "watchers_count": 717
-}
-{
-    "commits_count": 6,
-    "date_started": "2025-12-09",
-    "date_updated": "2025-12-10",
-    "description": "Proof of Concept for CVE-2025-55182 (&amp;quot;React2Shell&amp;quot;). A fully dockerized environment demonstrating Remote Code Execution (RCE) via insecure deserialization in React Server Components. Includes vulnerable targets for both Vanilla React (Express) and Next.js, along with a custom Python exploit script.",
-    "forks_count": 0,
-    "html_url": "https://github.com/trax69/cve-2025-55182-poc",
-    "keywords": [
-        "remote code execution proof of concept"
-    ],
-    "language": "Python",
-    "repo_name": "cve-2025-55182-poc",
-    "repo_owner": "trax69",
-    "repotime": "2025-12-10, 01:06:10",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 35,
@@ -625,7 +644,7 @@
     "date_started": "2025-12-08",
     "date_updated": "2025-12-08",
     "description": "A toolkit designed for studying how misconfigurations or insecure patterns in Next.js applications can lead to severe vulnerabilities such as Remote Code Execution (RCE).",
-    "forks_count": 28,
+    "forks_count": 35,
     "html_url": "https://github.com/strawsle/Nextjs-RCE-exploit-kit",
     "keywords": [
         "rce exploit",
@@ -635,8 +654,8 @@
     "repo_name": "Nextjs-RCE-exploit-kit",
     "repo_owner": "strawsle",
     "repotime": "2025-12-08, 10:09:05",
-    "stargazers_count": 51,
-    "watchers_count": 51
+    "stargazers_count": 76,
+    "watchers_count": 76
 }
 {
     "commits_count": 12,
@@ -1216,7 +1235,7 @@
     "date_started": "2025-12-04",
     "date_updated": "2025-12-06",
     "description": "A command-line scanner for batch detection of Next.js application versions and determining if they are affected by CVE-2025-66478 vulnerability.",
-    "forks_count": 67,
+    "forks_count": 68,
     "html_url": "https://github.com/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478",
     "keywords": [
         "rce vulnerability"
@@ -1225,8 +1244,8 @@
     "repo_name": "Next.js-RSC-RCE-Scanner-CVE-2025-66478",
     "repo_owner": "Malayke",
     "repotime": "2025-12-06, 19:42:32",
-    "stargazers_count": 318,
-    "watchers_count": 318
+    "stargazers_count": 321,
+    "watchers_count": 321
 }
 {
     "commits_count": 17,
@@ -1295,8 +1314,8 @@
     "repo_name": "CVE-2025-55182",
     "repo_owner": "emredavut",
     "repotime": "2025-12-06, 04:27:14",
-    "stargazers_count": 263,
-    "watchers_count": 263
+    "stargazers_count": 264,
+    "watchers_count": 264
 }
 {
     "commits_count": 10,
@@ -1589,8 +1608,8 @@
     "repo_name": "CVE-2025-55182-exp",
     "repo_owner": "Spritualkb",
     "repotime": "2025-12-05, 19:39:47",
-    "stargazers_count": 32,
-    "watchers_count": 32
+    "stargazers_count": 33,
+    "watchers_count": 33
 }
 {
     "commits_count": 10,
