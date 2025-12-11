@@ -1,17 +1,20 @@
 {
-    "commits_count": 9,
-    "date_started": "2025-12-08",
+    "commits_count": 195,
+    "date_started": "2025-12-06",
     "date_updated": "2025-12-11",
-    "description": "🛠️ Demonstrate a PS5 kernel exploit for firmware &amp;lt;=10.40 using a stack use-after-free vulnerability in the fsc2h_ctrl syscall.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Camal2010/no_ctrl",
+    "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
+    "forks_count": 1,
+    "html_url": "https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL",
     "keywords": [
-        "use after free exploit"
+        "Windows lpe vulnerability",
+        "Windows lpe",
+        "lpe vulnerability",
+        "Windows lpe exploit"
     ],
-    "language": "JavaScript",
-    "repo_name": "no_ctrl",
-    "repo_owner": "Camal2010",
-    "repotime": "2025-12-11, 16:31:26",
+    "language": "C",
+    "repo_name": "PrintSpoofer-ReflectiveDLL",
+    "repo_owner": "JonyFilc",
+    "repotime": "2025-12-11, 14:58:29",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -28,7 +31,24 @@
     "language": "Python",
     "repo_name": "proteus",
     "repo_owner": "Rositaestival406",
-    "repotime": "2025-12-11, 12:21:31",
+    "repotime": "2025-12-11, 14:43:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-12-08",
+    "date_updated": "2025-12-11",
+    "description": "🛠️ Demonstrate a PS5 kernel exploit for firmware &amp;lt;=10.40 using a stack use-after-free vulnerability in the fsc2h_ctrl syscall.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Camal2010/no_ctrl",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "no_ctrl",
+    "repo_owner": "Camal2010",
+    "repotime": "2025-12-11, 16:31:26",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -51,26 +71,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 192,
-    "date_started": "2025-12-06",
-    "date_updated": "2025-12-11",
-    "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
-    "forks_count": 1,
-    "html_url": "https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL",
-    "keywords": [
-        "Windows lpe vulnerability",
-        "Windows lpe",
-        "lpe vulnerability",
-        "Windows lpe exploit"
-    ],
-    "language": "C",
-    "repo_name": "PrintSpoofer-ReflectiveDLL",
-    "repo_owner": "JonyFilc",
-    "repotime": "2025-12-11, 11:58:57",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 7,
     "date_started": "2025-12-04",
     "date_updated": "2025-12-11",
@@ -86,6 +86,23 @@
     "repotime": "2025-12-11, 16:19:20",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 153,
+    "date_started": "2010-01-09",
+    "date_updated": "2025-12-11",
+    "description": "A database resource control interface for Ruby that lets you avoid hard coding your passwords",
+    "forks_count": 0,
+    "html_url": "https://github.com/djberg96/dbi-dbrc",
+    "keywords": [
+        "hard coded password"
+    ],
+    "language": "Ruby",
+    "repo_name": "dbi-dbrc",
+    "repo_owner": "djberg96",
+    "repotime": "2025-12-11, 05:04:28",
+    "stargazers_count": 3,
+    "watchers_count": 3
 }
 {
     "commits_count": 8,
@@ -1191,8 +1208,8 @@
     "repo_name": "jsql-injection",
     "repo_owner": "ron190",
     "repotime": "2025-12-06, 21:03:10",
-    "stargazers_count": 1709,
-    "watchers_count": 1709
+    "stargazers_count": 1710,
+    "watchers_count": 1710
 }
 {
     "commits_count": 72,
@@ -1727,8 +1744,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-12-05, 10:30:13",
-    "stargazers_count": 36066,
-    "watchers_count": 36066
+    "stargazers_count": 36078,
+    "watchers_count": 36078
 }
 {
     "commits_count": 6,
