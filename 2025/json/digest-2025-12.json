@@ -1,5 +1,5 @@
 {
-    "commits_count": 222,
+    "commits_count": 226,
     "date_started": "2025-12-06",
     "date_updated": "2025-12-12",
     "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
@@ -14,7 +14,24 @@
     "language": "C",
     "repo_name": "PrintSpoofer-ReflectiveDLL",
     "repo_owner": "JonyFilc",
-    "repotime": "2025-12-12, 09:57:56",
+    "repotime": "2025-12-12, 11:58:42",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-12-08",
+    "date_updated": "2025-12-12",
+    "description": "🛠️ Demonstrate a PS5 kernel exploit for firmware &amp;lt;=10.40 using a stack use-after-free vulnerability in the fsc2h_ctrl syscall.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Camal2010/no_ctrl",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "no_ctrl",
+    "repo_owner": "Camal2010",
+    "repotime": "2025-12-12, 15:58:17",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -32,23 +49,6 @@
     "repo_name": "proteus",
     "repo_owner": "Rositaestival406",
     "repotime": "2025-12-12, 09:20:54",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 9,
-    "date_started": "2025-12-08",
-    "date_updated": "2025-12-12",
-    "description": "🛠️ Demonstrate a PS5 kernel exploit for firmware &amp;lt;=10.40 using a stack use-after-free vulnerability in the fsc2h_ctrl syscall.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Camal2010/no_ctrl",
-    "keywords": [
-        "use after free exploit"
-    ],
-    "language": "JavaScript",
-    "repo_name": "no_ctrl",
-    "repo_owner": "Camal2010",
-    "repotime": "2025-12-12, 11:32:38",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -1519,8 +1519,8 @@
     "repo_name": "AI-Assistant-Satisfaction-Prediction-Engine",
     "repo_owner": "AmirhosseinHonardoust",
     "repotime": "2025-12-05, 20:00:44",
-    "stargazers_count": 6,
-    "watchers_count": 6
+    "stargazers_count": 11,
+    "watchers_count": 11
 }
 {
     "commits_count": 1,
@@ -1761,8 +1761,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-12-05, 10:30:13",
-    "stargazers_count": 36080,
-    "watchers_count": 36080
+    "stargazers_count": 36082,
+    "watchers_count": 36082
 }
 {
     "commits_count": 6,
