@@ -2683,7 +2683,7 @@
     "date_started": "2018-12-07",
     "date_updated": "2025-10-03",
     "description": "A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.",
-    "forks_count": 260,
+    "forks_count": 261,
     "html_url": "https://github.com/TH3xACE/SUDO_KILLER",
     "keywords": [
         "escalation of privileges exploit",
@@ -2694,8 +2694,8 @@
     "repo_name": "SUDO_KILLER",
     "repo_owner": "TH3xACE",
     "repotime": "2025-10-03, 12:13:04",
-    "stargazers_count": 2399,
-    "watchers_count": 2399
+    "stargazers_count": 2400,
+    "watchers_count": 2400
 }
 {
     "commits_count": 8,
