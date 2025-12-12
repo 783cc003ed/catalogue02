@@ -1,5 +1,5 @@
 {
-    "commits_count": 213,
+    "commits_count": 214,
     "date_started": "2025-12-06",
     "date_updated": "2025-12-12",
     "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
@@ -14,7 +14,24 @@
     "language": "C",
     "repo_name": "PrintSpoofer-ReflectiveDLL",
     "repo_owner": "JonyFilc",
-    "repotime": "2025-12-12, 03:50:37",
+    "repotime": "2025-12-12, 04:55:57",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-12-08",
+    "date_updated": "2025-12-12",
+    "description": "🛠️ Demonstrate a PS5 kernel exploit for firmware &amp;lt;=10.40 using a stack use-after-free vulnerability in the fsc2h_ctrl syscall.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Camal2010/no_ctrl",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "no_ctrl",
+    "repo_owner": "Camal2010",
+    "repotime": "2025-12-12, 07:12:04",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -32,23 +49,6 @@
     "repo_name": "proteus",
     "repo_owner": "Rositaestival406",
     "repotime": "2025-12-11, 16:05:45",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 9,
-    "date_started": "2025-12-08",
-    "date_updated": "2025-12-11",
-    "description": "🛠️ Demonstrate a PS5 kernel exploit for firmware &amp;lt;=10.40 using a stack use-after-free vulnerability in the fsc2h_ctrl syscall.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Camal2010/no_ctrl",
-    "keywords": [
-        "use after free exploit"
-    ],
-    "language": "JavaScript",
-    "repo_name": "no_ctrl",
-    "repo_owner": "Camal2010",
-    "repotime": "2025-12-11, 16:31:26",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -413,6 +413,23 @@
     "repotime": "2025-12-10, 20:04:26",
     "stargazers_count": 4,
     "watchers_count": 4
+}
+{
+    "commits_count": 180,
+    "date_started": "2019-10-02",
+    "date_updated": "2025-12-10",
+    "description": "This repository contains all the XSS cheatsheet data to allow contributions from the community.",
+    "forks_count": 87,
+    "html_url": "https://github.com/PortSwigger/xss-cheatsheet-data",
+    "keywords": [
+        "xss"
+    ],
+    "language": null,
+    "repo_name": "xss-cheatsheet-data",
+    "repo_owner": "PortSwigger",
+    "repotime": "2025-12-10, 14:02:02",
+    "stargazers_count": 447,
+    "watchers_count": 447
 }
 {
     "commits_count": 20,
@@ -1195,7 +1212,7 @@
     "watchers_count": 87
 }
 {
-    "commits_count": 1558,
+    "commits_count": 1559,
     "date_started": "2012-07-18",
     "date_updated": "2025-12-06",
     "description": "jSQL Injection is a Java application for automatic SQL database injection.",
@@ -1208,8 +1225,8 @@
     "repo_name": "jsql-injection",
     "repo_owner": "ron190",
     "repotime": "2025-12-06, 21:03:10",
-    "stargazers_count": 1710,
-    "watchers_count": 1710
+    "stargazers_count": 1711,
+    "watchers_count": 1711
 }
 {
     "commits_count": 72,
@@ -1502,8 +1519,8 @@
     "repo_name": "AI-Assistant-Satisfaction-Prediction-Engine",
     "repo_owner": "AmirhosseinHonardoust",
     "repotime": "2025-12-05, 20:00:44",
-    "stargazers_count": 5,
-    "watchers_count": 5
+    "stargazers_count": 6,
+    "watchers_count": 6
 }
 {
     "commits_count": 1,
@@ -1744,8 +1761,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-12-05, 10:30:13",
-    "stargazers_count": 36078,
-    "watchers_count": 36078
+    "stargazers_count": 36080,
+    "watchers_count": 36080
 }
 {
     "commits_count": 6,
