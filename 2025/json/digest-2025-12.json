@@ -1,22 +1,5 @@
 {
-    "commits_count": 9,
-    "date_started": "2025-12-08",
-    "date_updated": "2025-12-12",
-    "description": "🛠️ Demonstrate a PS5 kernel exploit for firmware &amp;lt;=10.40 using a stack use-after-free vulnerability in the fsc2h_ctrl syscall.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Camal2010/no_ctrl",
-    "keywords": [
-        "use after free exploit"
-    ],
-    "language": "JavaScript",
-    "repo_name": "no_ctrl",
-    "repo_owner": "Camal2010",
-    "repotime": "2025-12-12, 19:27:23",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 226,
+    "commits_count": 245,
     "date_started": "2025-12-06",
     "date_updated": "2025-12-12",
     "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
@@ -31,7 +14,7 @@
     "language": "C",
     "repo_name": "PrintSpoofer-ReflectiveDLL",
     "repo_owner": "JonyFilc",
-    "repotime": "2025-12-12, 11:58:42",
+    "repotime": "2025-12-12, 21:54:23",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -48,7 +31,7 @@
     "language": "Python",
     "repo_name": "proteus",
     "repo_owner": "Rositaestival406",
-    "repotime": "2025-12-12, 09:20:54",
+    "repotime": "2025-12-12, 21:50:01",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -66,7 +49,41 @@
     "language": null,
     "repo_name": "gi-cv",
     "repo_owner": "Boydunbarred375",
-    "repotime": "2025-12-12, 06:11:21",
+    "repotime": "2025-12-12, 20:29:45",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 9,
+    "date_started": "2025-12-08",
+    "date_updated": "2025-12-12",
+    "description": "🛠️ Demonstrate a PS5 kernel exploit for firmware &amp;lt;=10.40 using a stack use-after-free vulnerability in the fsc2h_ctrl syscall.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Camal2010/no_ctrl",
+    "keywords": [
+        "use after free exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "no_ctrl",
+    "repo_owner": "Camal2010",
+    "repotime": "2025-12-12, 19:27:23",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-12-12",
+    "date_updated": "2025-12-12",
+    "description": "React Zero-Day Exploit Laboratory is a comprehensive security research environment designed for ethical hackers, penetration testers, and React developers. This platform demonstrates **real, exploitable vulnerabilities** in React Server Components through an interactive, containerized lab environment",
+    "forks_count": 0,
+    "html_url": "https://github.com/InfoSecAntara/React-Zero-Day-Exploit-Laboratory",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "React-Zero-Day-Exploit-Laboratory",
+    "repo_owner": "InfoSecAntara",
+    "repotime": "2025-12-12, 19:33:55",
     "stargazers_count": 0,
     "watchers_count": 0
 }
