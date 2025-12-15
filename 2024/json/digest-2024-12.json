@@ -493,8 +493,8 @@
     "repo_name": "Libc-GOT-Hijacking",
     "repo_owner": "n132",
     "repotime": "2024-12-23, 15:54:52",
-    "stargazers_count": 237,
-    "watchers_count": 237
+    "stargazers_count": 238,
+    "watchers_count": 238
 }
 {
     "commits_count": 32,
@@ -654,7 +654,7 @@
     "date_started": "2024-12-13",
     "date_updated": "2024-12-20",
     "description": "A critical vulnerability, CVE-2024-53677, has been identified in the popular Apache Struts framework, potentially allowing attackers to execute arbitrary code remotely. This vulnerability arises from flaws in the file upload logic, which can be exploited to perform path traversal and malicious file uploads.",
-    "forks_count": 32,
+    "forks_count": 31,
     "html_url": "https://github.com/TAM-K592/CVE-2024-53677-S2-067",
     "keywords": [
         "path traversal attack"
@@ -663,8 +663,8 @@
     "repo_name": "CVE-2024-53677-S2-067",
     "repo_owner": "TAM-K592",
     "repotime": "2024-12-20, 18:05:15",
-    "stargazers_count": 92,
-    "watchers_count": 92
+    "stargazers_count": 93,
+    "watchers_count": 93
 }
 {
     "commits_count": 3,
@@ -1100,13 +1100,13 @@
     "date_updated": "2024-12-14",
     "description": "Configuration-Based Path Traversal Attack",
     "forks_count": 0,
-    "html_url": "https://github.com/htringuyen/anya-secret",
+    "html_url": "https://github.com/tringh/anya-secret",
     "keywords": [
         "path traversal attack"
     ],
     "language": "Java",
     "repo_name": "anya-secret",
-    "repo_owner": "htringuyen",
+    "repo_owner": "tringh",
     "repotime": "2024-12-14, 03:26:24",
     "stargazers_count": 0,
     "watchers_count": 0
@@ -1210,8 +1210,8 @@
     "repo_name": "CVE-2024-50623",
     "repo_owner": "watchtowrlabs",
     "repotime": "2024-12-11, 14:23:19",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 3,
@@ -1815,7 +1815,7 @@
     "date_started": "2015-05-16",
     "date_updated": "2024-12-01",
     "description": "Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods.",
-    "forks_count": 322,
+    "forks_count": 323,
     "html_url": "https://github.com/enjoiz/XXEinjector",
     "keywords": [
         "xxe"
@@ -1824,8 +1824,8 @@
     "repo_name": "XXEinjector",
     "repo_owner": "enjoiz",
     "repotime": "2024-12-01, 16:25:27",
-    "stargazers_count": 1696,
-    "watchers_count": 1696
+    "stargazers_count": 1698,
+    "watchers_count": 1698
 }
 {
     "commits_count": 3,

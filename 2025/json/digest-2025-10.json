@@ -626,8 +626,8 @@
     "repo_name": "injectbot",
     "repo_owner": "tariqhawis",
     "repotime": "2025-10-24, 08:41:42",
-    "stargazers_count": 30,
-    "watchers_count": 30
+    "stargazers_count": 31,
+    "watchers_count": 31
 }
 {
     "commits_count": 1200,
@@ -679,23 +679,6 @@
     "repotime": "2025-10-24, 13:51:27",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 685,
-    "date_started": "2017-03-06",
-    "date_updated": "2025-10-24",
-    "description": "ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.",
-    "forks_count": 379,
-    "html_url": "https://github.com/ssl/ezXSS",
-    "keywords": [
-        "xss"
-    ],
-    "language": "PHP",
-    "repo_name": "ezXSS",
-    "repo_owner": "ssl",
-    "repotime": "2025-10-24, 12:40:23",
-    "stargazers_count": 2204,
-    "watchers_count": 2204
 }
 {
     "commits_count": 4,
@@ -1317,8 +1300,8 @@
     "repo_name": "tcb-lpe",
     "repo_owner": "CharminDoge",
     "repotime": "2025-10-20, 03:08:58",
-    "stargazers_count": 7,
-    "watchers_count": 7
+    "stargazers_count": 8,
+    "watchers_count": 8
 }
 {
     "commits_count": 2,
@@ -1512,7 +1495,7 @@
     "date_started": "2025-10-15",
     "date_updated": "2025-10-17",
     "description": "Educational proof-of-concept demonstrating DEP/NX bypass using hardware breakpoints, vectored exception handling, and instruction emulation on Windows x64. For security research and learning purposes only.",
-    "forks_count": 11,
+    "forks_count": 12,
     "html_url": "https://github.com/VirtualAlllocEx/HWBP-DEP-Bypass",
     "keywords": [
         "dep bypass"
@@ -1521,8 +1504,8 @@
     "repo_name": "HWBP-DEP-Bypass",
     "repo_owner": "VirtualAlllocEx",
     "repotime": "2025-10-17, 14:45:46",
-    "stargazers_count": 90,
-    "watchers_count": 90
+    "stargazers_count": 91,
+    "watchers_count": 91
 }
 {
     "commits_count": 5,
@@ -1576,23 +1559,6 @@
     "repotime": "2025-10-17, 17:45:58",
     "stargazers_count": 59,
     "watchers_count": 59
-}
-{
-    "commits_count": 15,
-    "date_started": "2025-07-02",
-    "date_updated": "2025-10-16",
-    "description": "Automates data fetching from an external API, stores it in SQL Server, and uploads XML files to an FTP server. Built with C&amp;&#35;35;, .NET Framework, and Entity Framework. Confidential commercial project",
-    "forks_count": 0,
-    "html_url": "https://github.com/calKU0/RolgutApiSync",
-    "keywords": [
-        "xml external entity"
-    ],
-    "language": "C#",
-    "repo_name": "RolgutApiSync",
-    "repo_owner": "calKU0",
-    "repotime": "2025-10-16, 20:15:57",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 9,
@@ -2513,7 +2479,7 @@
     "date_started": "2018-07-10",
     "date_updated": "2025-10-06",
     "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-    "forks_count": 2486,
+    "forks_count": 2489,
     "html_url": "https://github.com/kgretzky/evilginx2",
     "keywords": [
         "session attack"
@@ -2522,8 +2488,8 @@
     "repo_name": "evilginx2",
     "repo_owner": "kgretzky",
     "repotime": "2025-10-06, 12:23:37",
-    "stargazers_count": 14224,
-    "watchers_count": 14224
+    "stargazers_count": 14237,
+    "watchers_count": 14237
 }
 {
     "commits_count": 4,
@@ -2632,7 +2598,7 @@
     "date_started": "2022-10-01",
     "date_updated": "2025-10-04",
     "description": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
-    "forks_count": 407,
+    "forks_count": 408,
     "html_url": "https://github.com/r0oth3x49/ghauri",
     "keywords": [
         "sql injection"
@@ -2641,8 +2607,8 @@
     "repo_name": "ghauri",
     "repo_owner": "r0oth3x49",
     "repotime": "2025-10-04, 07:50:12",
-    "stargazers_count": 3811,
-    "watchers_count": 3811
+    "stargazers_count": 3819,
+    "watchers_count": 3819
 }
 {
     "commits_count": 1,
@@ -2660,6 +2626,23 @@
     "repotime": "2025-10-04, 01:11:16",
     "stargazers_count": 0,
     "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-10-03",
+    "date_updated": "2025-10-03",
+    "description": "Copypress Rest API 1.1 - 1.2 - Missing Configurable JWT Secret and File-Type Validation to Unauthenticated Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Nxploited/CVE-2025-8625",
+    "keywords": [
+        "unauthenticated remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "CVE-2025-8625",
+    "repo_owner": "Nxploited",
+    "repotime": "2025-10-03, 21:13:32",
+    "stargazers_count": 2,
+    "watchers_count": 2
 }
 {
     "commits_count": 2,
@@ -2694,8 +2677,8 @@
     "repo_name": "SUDO_KILLER",
     "repo_owner": "TH3xACE",
     "repotime": "2025-10-03, 12:13:04",
-    "stargazers_count": 2400,
-    "watchers_count": 2400
+    "stargazers_count": 2402,
+    "watchers_count": 2402
 }
 {
     "commits_count": 8,
@@ -2787,7 +2770,7 @@
     "date_started": "2017-02-24",
     "date_updated": "2025-10-01",
     "description": "Wiki to collect Red Team infrastructure hardening resources",
-    "forks_count": 918,
+    "forks_count": 917,
     "html_url": "https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki",
     "keywords": [
         "by_owner"
@@ -2796,8 +2779,8 @@
     "repo_name": "Red-Team-Infrastructure-Wiki",
     "repo_owner": "bluscreenofjeff",
     "repotime": "2025-10-01, 10:10:58",
-    "stargazers_count": 4400,
-    "watchers_count": 4400
+    "stargazers_count": 4402,
+    "watchers_count": 4402
 }
 {
     "commits_count": 23,
@@ -2900,6 +2883,6 @@
     "repo_name": "liffy",
     "repo_owner": "mzfr",
     "repotime": "2025-10-01, 14:46:29",
-    "stargazers_count": 907,
-    "watchers_count": 907
+    "stargazers_count": 910,
+    "watchers_count": 910
 }
