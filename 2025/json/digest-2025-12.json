@@ -1,4 +1,157 @@
 {
+    "commits_count": 4,
+    "date_started": "2022-11-15",
+    "date_updated": "2025-12-15",
+    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "KQL-Queries-Defender-Sentinel",
+    "repo_owner": "Juanjo9471",
+    "repotime": "2025-12-15, 05:03:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 15,
+    "date_started": "2025-09-20",
+    "date_updated": "2025-12-15",
+    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
+    "keywords": [
+        "lpe poc",
+        "escalation of privileges poc",
+        "lpe proof of concept",
+        "lpe vulnerability",
+        "escalation of privileges proof of concept"
+    ],
+    "language": "Shell",
+    "repo_name": "CVE-2025-32463_chwoot",
+    "repo_owner": "ashardev002",
+    "repotime": "2025-12-15, 15:28:11",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 13,
+    "date_started": "2020-06-23",
+    "date_updated": "2025-12-15",
+    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
+    "forks_count": 0,
+    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
+    "keywords": [
+        "sandbox escape exploit",
+        "sandbox escape poc"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "CVE-2025-31258-PoC",
+    "repo_owner": "sureshkumarsat",
+    "repotime": "2025-12-15, 15:26:56",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-12-15",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-12-15, 11:46:58",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-11-30",
+    "date_updated": "2025-12-15",
+    "description": "🔍 Leak kernel memory addresses using ETW by parsing stack traces, useful for exploitation scenarios or as a unique technical demonstration.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Suti2069/EtwLeakKernel",
+    "keywords": [
+        "Windows memory leak exploit",
+        "Windows memory leak",
+        "Windows address leak exploit",
+        "memory leak exploit",
+        "address leak exploit",
+        "memory leak exploitation",
+        "Windows address leak"
+    ],
+    "language": "C++",
+    "repo_name": "EtwLeakKernel",
+    "repo_owner": "Suti2069",
+    "repotime": "2025-12-15, 15:00:49",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 45,
+    "date_started": "2025-11-23",
+    "date_updated": "2025-12-15",
+    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Rositaestival406/proteus",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "proteus",
+    "repo_owner": "Rositaestival406",
+    "repotime": "2025-12-15, 09:11:24",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 104,
+    "date_started": "2025-12-13",
+    "date_updated": "2025-12-15",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kewoakm/HTA-Exploit",
+    "keywords": [
+        "Windows remote code execution",
+        "Microsoft remote code execution exploitation"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "Kewoakm",
+    "repotime": "2025-12-15, 09:01:22",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 354,
+    "date_started": "2025-12-06",
+    "date_updated": "2025-12-15",
+    "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
+    "forks_count": 2,
+    "html_url": "https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL",
+    "keywords": [
+        "Windows lpe vulnerability",
+        "Windows lpe",
+        "lpe vulnerability",
+        "Windows lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "PrintSpoofer-ReflectiveDLL",
+    "repo_owner": "JonyFilc",
+    "repotime": "2025-12-15, 08:59:54",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 2378,
     "date_started": "2025-11-16",
     "date_updated": "2025-12-15",
@@ -29,29 +182,6 @@
     "repo_name": "no_ctrl",
     "repo_owner": "Camal2010",
     "repotime": "2025-12-15, 11:12:57",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 8,
-    "date_started": "2025-11-30",
-    "date_updated": "2025-12-15",
-    "description": "🔍 Leak kernel memory addresses using ETW by parsing stack traces, useful for exploitation scenarios or as a unique technical demonstration.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Suti2069/EtwLeakKernel",
-    "keywords": [
-        "Windows memory leak exploit",
-        "Windows memory leak",
-        "Windows address leak exploit",
-        "memory leak exploit",
-        "address leak exploit",
-        "memory leak exploitation",
-        "Windows address leak"
-    ],
-    "language": "C++",
-    "repo_name": "EtwLeakKernel",
-    "repo_owner": "Suti2069",
-    "repotime": "2025-12-15, 12:55:21",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -125,81 +255,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 4,
-    "date_started": "2022-11-15",
-    "date_updated": "2025-12-15",
-    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
-    "keywords": [
-        "Microsoft zero-day"
-    ],
-    "language": null,
-    "repo_name": "KQL-Queries-Defender-Sentinel",
-    "repo_owner": "Juanjo9471",
-    "repotime": "2025-12-15, 01:43:21",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 15,
-    "date_started": "2025-09-20",
-    "date_updated": "2025-12-15",
-    "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/ashardev002/CVE-2025-32463_chwoot",
-    "keywords": [
-        "lpe poc",
-        "escalation of privileges poc",
-        "lpe proof of concept",
-        "lpe vulnerability",
-        "escalation of privileges proof of concept"
-    ],
-    "language": "Shell",
-    "repo_name": "CVE-2025-32463_chwoot",
-    "repo_owner": "ashardev002",
-    "repotime": "2025-12-15, 12:08:45",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 13,
-    "date_started": "2020-06-23",
-    "date_updated": "2025-12-15",
-    "description": "🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.",
-    "forks_count": 0,
-    "html_url": "https://github.com/sureshkumarsat/CVE-2025-31258-PoC",
-    "keywords": [
-        "sandbox escape exploit",
-        "sandbox escape poc"
-    ],
-    "language": "Jupyter Notebook",
-    "repo_name": "CVE-2025-31258-PoC",
-    "repo_owner": "sureshkumarsat",
-    "repotime": "2025-12-15, 12:07:39",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 7,
-    "date_started": "2025-05-21",
-    "date_updated": "2025-12-15",
-    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability"
-    ],
-    "language": null,
-    "repo_name": "vsftpd-backdoor-exploit",
-    "repo_owner": "Daniel1234mata",
-    "repotime": "2025-12-15, 08:29:12",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 5,
     "date_started": "2025-05-13",
     "date_updated": "2025-12-15",
@@ -215,23 +270,6 @@
     "repotime": "2025-12-15, 11:57:53",
     "stargazers_count": 5,
     "watchers_count": 5
-}
-{
-    "commits_count": 95,
-    "date_started": "2025-12-13",
-    "date_updated": "2025-12-15",
-    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-    "forks_count": 0,
-    "html_url": "https://github.com/Kewoakm/HTA-Exploit",
-    "keywords": [
-        "Windows remote code execution"
-    ],
-    "language": "C#",
-    "repo_name": "HTA-Exploit",
-    "repo_owner": "Kewoakm",
-    "repotime": "2025-12-15, 04:35:27",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 10,
@@ -269,26 +307,6 @@
     "watchers_count": 13
 }
 {
-    "commits_count": 348,
-    "date_started": "2025-12-06",
-    "date_updated": "2025-12-15",
-    "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
-    "forks_count": 2,
-    "html_url": "https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL",
-    "keywords": [
-        "Windows lpe vulnerability",
-        "Windows lpe",
-        "lpe vulnerability",
-        "Windows lpe exploit"
-    ],
-    "language": "C",
-    "repo_name": "PrintSpoofer-ReflectiveDLL",
-    "repo_owner": "JonyFilc",
-    "repotime": "2025-12-15, 04:00:58",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 3,
     "date_started": "2025-12-14",
     "date_updated": "2025-12-15",
@@ -323,6 +341,23 @@
     "watchers_count": 28
 }
 {
+    "commits_count": 1563,
+    "date_started": "2012-07-18",
+    "date_updated": "2025-12-14",
+    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "forks_count": 442,
+    "html_url": "https://github.com/ron190/jsql-injection",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Java",
+    "repo_name": "jsql-injection",
+    "repo_owner": "ron190",
+    "repotime": "2025-12-14, 22:44:49",
+    "stargazers_count": 1713,
+    "watchers_count": 1713
+}
+{
     "commits_count": 23,
     "date_started": "2025-12-03",
     "date_updated": "2025-12-14",
@@ -355,6 +390,23 @@
     "repotime": "2025-12-14, 14:11:49",
     "stargazers_count": 1,
     "watchers_count": 1
+}
+{
+    "commits_count": 6,
+    "date_started": "2025-11-15",
+    "date_updated": "2025-12-14",
+    "description": "It is a great project made during the IBM Project during the session.",
+    "forks_count": 0,
+    "html_url": "https://github.com/AshuDevWorks/Heart_Prediction_Ashu",
+    "keywords": [
+        "session prediction"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "Heart_Prediction_Ashu",
+    "repo_owner": "AshuDevWorks",
+    "repotime": "2025-12-14, 22:39:34",
+    "stargazers_count": 0,
+    "watchers_count": 0
 }
 {
     "commits_count": 2,
@@ -408,6 +460,23 @@
     "watchers_count": 2208
 }
 {
+    "commits_count": 16,
+    "date_started": "2025-09-12",
+    "date_updated": "2025-12-14",
+    "description": "&amp;quot;An advanced CLI tool to fetch, flatten, and display CVE data with filtering, highlighting, export, and automated URL features for security analysis.&amp;quot;",
+    "forks_count": 0,
+    "html_url": "https://github.com/cyb2rS2c/ZeroDay-Sentinel",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Python",
+    "repo_name": "ZeroDay-Sentinel",
+    "repo_owner": "cyb2rS2c",
+    "repotime": "2025-12-14, 10:27:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 18,
     "date_started": "2025-12-13",
     "date_updated": "2025-12-14",
@@ -459,6 +528,23 @@
     "watchers_count": 17
 }
 {
+    "commits_count": 7,
+    "date_started": "2025-12-14",
+    "date_updated": "2025-12-14",
+    "description": "Source code and evaluation scripts for the paper &amp;quot;Efficiency Analysis of AI Models for Code Generation.&amp;quot; Contains the raw Tetris code generated by ChatGPT, Gemini, and Claude, the unit test suite, and the Python scripts used to calculate the Chapter 3 efficiency metrics (LOC &amp;amp; LPE).",
+    "forks_count": 0,
+    "html_url": "https://github.com/nauvalmaulana25/AI-Tetris-Generation-Benchmark",
+    "keywords": [
+        "lpe analysis"
+    ],
+    "language": "Python",
+    "repo_name": "AI-Tetris-Generation-Benchmark",
+    "repo_owner": "nauvalmaulana25",
+    "repotime": "2025-12-14, 13:38:47",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 30,
     "date_started": "2025-10-21",
     "date_updated": "2025-12-14",
@@ -491,6 +577,23 @@
     "repotime": "2025-12-13, 20:26:48",
     "stargazers_count": 34,
     "watchers_count": 34
+}
+{
+    "commits_count": 141,
+    "date_started": "2022-07-27",
+    "date_updated": "2025-12-14",
+    "description": "Simple python script supported with BurpBouty profile that helps you to detect SQL injection &amp;quot;Error based&amp;quot; by sending multiple requests with 14 payloads and checking for 152 regex patterns for different databases.",
+    "forks_count": 113,
+    "html_url": "https://github.com/eslam3kl/SQLiDetector",
+    "keywords": [
+        "sql injection"
+    ],
+    "language": "Clojure",
+    "repo_name": "SQLiDetector",
+    "repo_owner": "eslam3kl",
+    "repotime": "2025-12-14, 02:58:20",
+    "stargazers_count": 628,
+    "watchers_count": 628
 }
 {
     "commits_count": 2,
@@ -663,23 +766,6 @@
     "repo_name": "gi-cv",
     "repo_owner": "Boydunbarred375",
     "repotime": "2025-12-13, 06:59:15",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 45,
-    "date_started": "2025-11-23",
-    "date_updated": "2025-12-13",
-    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Rositaestival406/proteus",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": "Python",
-    "repo_name": "proteus",
-    "repo_owner": "Rositaestival406",
-    "repotime": "2025-12-13, 05:50:41",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -1792,23 +1878,6 @@
     "watchers_count": 46
 }
 {
-    "commits_count": 1559,
-    "date_started": "2012-07-18",
-    "date_updated": "2025-12-06",
-    "description": "jSQL Injection is a Java application for automatic SQL database injection.",
-    "forks_count": 440,
-    "html_url": "https://github.com/ron190/jsql-injection",
-    "keywords": [
-        "sql injection"
-    ],
-    "language": "Java",
-    "repo_name": "jsql-injection",
-    "repo_owner": "ron190",
-    "repotime": "2025-12-06, 21:03:10",
-    "stargazers_count": 1711,
-    "watchers_count": 1711
-}
-{
     "commits_count": 72,
     "date_started": "2025-06-19",
     "date_updated": "2025-12-06",
@@ -2299,7 +2368,7 @@
     "date_started": "2016-11-14",
     "date_updated": "2025-12-05",
     "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (&amp;quot;transparent&amp;quot;) encryption. SQL, NoSQL.",
-    "forks_count": 133,
+    "forks_count": 134,
     "html_url": "https://github.com/cossacklabs/acra",
     "keywords": [
         "sql injection"
