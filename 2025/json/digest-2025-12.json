@@ -1,4 +1,44 @@
 {
+    "commits_count": 8,
+    "date_started": "2025-11-30",
+    "date_updated": "2025-12-15",
+    "description": "🔍 Leak kernel memory addresses using ETW by parsing stack traces, useful for exploitation scenarios or as a unique technical demonstration.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Suti2069/EtwLeakKernel",
+    "keywords": [
+        "Windows memory leak exploit",
+        "Windows memory leak",
+        "Windows address leak exploit",
+        "memory leak exploit",
+        "address leak exploit",
+        "memory leak exploitation",
+        "Windows address leak"
+    ],
+    "language": "C++",
+    "repo_name": "EtwLeakKernel",
+    "repo_owner": "Suti2069",
+    "repotime": "2025-12-15, 11:43:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 4,
+    "date_started": "2022-11-15",
+    "date_updated": "2025-12-15",
+    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
+    "keywords": [
+        "Microsoft zero-day"
+    ],
+    "language": null,
+    "repo_name": "KQL-Queries-Defender-Sentinel",
+    "repo_owner": "Juanjo9471",
+    "repotime": "2025-12-15, 00:31:58",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
     "commits_count": 15,
     "date_started": "2025-09-20",
     "date_updated": "2025-12-15",
@@ -15,7 +55,7 @@
     "language": "Shell",
     "repo_name": "CVE-2025-32463_chwoot",
     "repo_owner": "ashardev002",
-    "repotime": "2025-12-15, 09:45:37",
+    "repotime": "2025-12-15, 10:57:49",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -33,7 +73,43 @@
     "language": "Jupyter Notebook",
     "repo_name": "CVE-2025-31258-PoC",
     "repo_owner": "sureshkumarsat",
-    "repotime": "2025-12-15, 09:44:27",
+    "repotime": "2025-12-15, 10:56:04",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 7,
+    "date_started": "2025-05-21",
+    "date_updated": "2025-12-15",
+    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
+    "keywords": [
+        "escalation of privileges exploit",
+        "escalation of privileges exploitation",
+        "escalation of privileges vulnerability"
+    ],
+    "language": null,
+    "repo_name": "vsftpd-backdoor-exploit",
+    "repo_owner": "Daniel1234mata",
+    "repotime": "2025-12-15, 07:17:38",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
+    "commits_count": 95,
+    "date_started": "2025-12-13",
+    "date_updated": "2025-12-15",
+    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+    "forks_count": 0,
+    "html_url": "https://github.com/Kewoakm/HTA-Exploit",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "C#",
+    "repo_name": "HTA-Exploit",
+    "repo_owner": "Kewoakm",
+    "repotime": "2025-12-15, 04:35:27",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -73,25 +149,6 @@
     "watchers_count": 13
 }
 {
-    "commits_count": 7,
-    "date_started": "2025-05-21",
-    "date_updated": "2025-12-15",
-    "description": "Hands-on exploitation of the VSFTPD 2.3.4 backdoor vulnerability using Metasploit to gain shell access, create users, modify logs, and attempt privilege escalation in a secure lab environment.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Daniel1234mata/vsftpd-backdoor-exploit",
-    "keywords": [
-        "escalation of privileges exploit",
-        "escalation of privileges exploitation",
-        "escalation of privileges vulnerability"
-    ],
-    "language": null,
-    "repo_name": "vsftpd-backdoor-exploit",
-    "repo_owner": "Daniel1234mata",
-    "repotime": "2025-12-15, 06:06:20",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
     "commits_count": 348,
     "date_started": "2025-12-06",
     "date_updated": "2025-12-15",
@@ -108,63 +165,6 @@
     "repo_name": "PrintSpoofer-ReflectiveDLL",
     "repo_owner": "JonyFilc",
     "repotime": "2025-12-15, 04:00:58",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 94,
-    "date_started": "2025-12-13",
-    "date_updated": "2025-12-15",
-    "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
-    "forks_count": 0,
-    "html_url": "https://github.com/Kewoakm/HTA-Exploit",
-    "keywords": [
-        "Windows remote code execution"
-    ],
-    "language": "C#",
-    "repo_name": "HTA-Exploit",
-    "repo_owner": "Kewoakm",
-    "repotime": "2025-12-15, 03:50:35",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 8,
-    "date_started": "2025-11-30",
-    "date_updated": "2025-12-15",
-    "description": "🔍 Leak kernel memory addresses using ETW by parsing stack traces, useful for exploitation scenarios or as a unique technical demonstration.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Suti2069/EtwLeakKernel",
-    "keywords": [
-        "Windows memory leak exploit",
-        "Windows memory leak",
-        "Windows address leak exploit",
-        "memory leak exploit",
-        "address leak exploit",
-        "memory leak exploitation",
-        "Windows address leak"
-    ],
-    "language": "C++",
-    "repo_name": "EtwLeakKernel",
-    "repo_owner": "Suti2069",
-    "repotime": "2025-12-15, 08:23:09",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 4,
-    "date_started": "2022-11-15",
-    "date_updated": "2025-12-14",
-    "description": "🔍 Discover KQL queries designed for Microsoft Sentinel and Defender XDR to enhance your security monitoring and incident response capabilities.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Juanjo9471/KQL-Queries-Defender-Sentinel",
-    "keywords": [
-        "Microsoft zero-day"
-    ],
-    "language": null,
-    "repo_name": "KQL-Queries-Defender-Sentinel",
-    "repo_owner": "Juanjo9471",
-    "repotime": "2025-12-14, 21:06:26",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -1894,8 +1894,8 @@
     "repo_name": "CVE-2025-55182",
     "repo_owner": "emredavut",
     "repotime": "2025-12-06, 04:27:14",
-    "stargazers_count": 283,
-    "watchers_count": 283
+    "stargazers_count": 286,
+    "watchers_count": 286
 }
 {
     "commits_count": 10,
