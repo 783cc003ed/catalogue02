@@ -1,23 +1,17 @@
 {
-    "commits_count": 8,
-    "date_started": "2025-11-30",
+    "commits_count": 45,
+    "date_started": "2025-11-23",
     "date_updated": "2025-12-15",
-    "description": "🔍 Leak kernel memory addresses using ETW by parsing stack traces, useful for exploitation scenarios or as a unique technical demonstration.",
+    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
     "forks_count": 0,
-    "html_url": "https://github.com/Suti2069/EtwLeakKernel",
+    "html_url": "https://github.com/Rositaestival406/proteus",
     "keywords": [
-        "Windows memory leak exploit",
-        "Windows memory leak",
-        "Windows address leak exploit",
-        "memory leak exploit",
-        "address leak exploit",
-        "memory leak exploitation",
-        "Windows address leak"
+        "zero-day analysis"
     ],
-    "language": "C++",
-    "repo_name": "EtwLeakKernel",
-    "repo_owner": "Suti2069",
-    "repotime": "2025-12-15, 19:47:06",
+    "language": "Python",
+    "repo_name": "proteus",
+    "repo_owner": "Rositaestival406",
+    "repotime": "2025-12-15, 16:37:24",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -34,7 +28,7 @@
     "language": null,
     "repo_name": "KQL-Queries-Defender-Sentinel",
     "repo_owner": "Juanjo9471",
-    "repotime": "2025-12-15, 08:33:00",
+    "repotime": "2025-12-15, 11:11:58",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -55,29 +49,67 @@
     "language": "Shell",
     "repo_name": "CVE-2025-32463_chwoot",
     "repo_owner": "ashardev002",
-    "repotime": "2025-12-15, 18:57:15",
+    "repotime": "2025-12-15, 21:36:54",
     "stargazers_count": 0,
     "watchers_count": 0
 }
 {
-    "commits_count": 2,
-    "date_started": "2025-12-15",
-    "date_updated": "2025-12-15",
-    "description": "This repository contains the PyTorch implementation and experimental pipeline for an unsupervised web intrusion detection system based on deep autoencoders. The model is trained exclusively on benign traffic from the CIC-IDS2017 dataset and detects zero-day and anomalous web attacks using reconstruction error analysis.",
+    "commits_count": 10,
+    "date_started": "2025-09-04",
+    "date_updated": "2025-12-16",
+    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
     "forks_count": 0,
-    "html_url": "https://github.com/faizan-az02/anomalyDetection",
+    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
     "keywords": [
-        "zero-day analysis"
+        "Windows rce",
+        "Windows rce vulnerability"
     ],
-    "language": "Jupyter Notebook",
-    "repo_name": "anomalyDetection",
-    "repo_owner": "faizan-az02",
-    "repotime": "2025-12-15, 18:20:59",
+    "language": "PowerShell",
+    "repo_name": "lab-cve-2020-0610",
+    "repo_owner": "Riocipta75",
+    "repotime": "2025-12-16, 00:03:42",
     "stargazers_count": 0,
     "watchers_count": 0
 }
 {
-    "commits_count": 111,
+    "commits_count": 3,
+    "date_started": "2025-05-23",
+    "date_updated": "2025-12-15",
+    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
+    "forks_count": 2,
+    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
+    "keywords": [
+        "Windows remote code execution"
+    ],
+    "language": "Python",
+    "repo_name": "Backdoor",
+    "repo_owner": "Zayden-Cyber",
+    "repotime": "2025-12-15, 20:56:52",
+    "stargazers_count": 13,
+    "watchers_count": 13
+}
+{
+    "commits_count": 361,
+    "date_started": "2025-12-06",
+    "date_updated": "2025-12-15",
+    "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
+    "forks_count": 2,
+    "html_url": "https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL",
+    "keywords": [
+        "Windows lpe vulnerability",
+        "Windows lpe",
+        "lpe vulnerability",
+        "Windows lpe exploit"
+    ],
+    "language": "C",
+    "repo_name": "PrintSpoofer-ReflectiveDLL",
+    "repo_owner": "JonyFilc",
+    "repotime": "2025-12-15, 15:52:03",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 116,
     "date_started": "2025-12-13",
     "date_updated": "2025-12-15",
     "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
@@ -92,7 +124,166 @@
     "language": "C#",
     "repo_name": "HTA-Exploit",
     "repo_owner": "Kewoakm",
-    "repotime": "2025-12-15, 11:58:38",
+    "repotime": "2025-12-15, 15:23:01",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-11-30",
+    "date_updated": "2025-12-15",
+    "description": "🔍 Leak kernel memory addresses using ETW by parsing stack traces, useful for exploitation scenarios or as a unique technical demonstration.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Suti2069/EtwLeakKernel",
+    "keywords": [
+        "Windows memory leak exploit",
+        "Windows memory leak",
+        "Windows address leak exploit",
+        "memory leak exploit",
+        "address leak exploit",
+        "memory leak exploitation",
+        "Windows address leak"
+    ],
+    "language": "C++",
+    "repo_name": "EtwLeakKernel",
+    "repo_owner": "Suti2069",
+    "repotime": "2025-12-15, 21:05:08",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-12-15",
+    "date_updated": "2025-12-15",
+    "description": "a windows rce testing domain",
+    "forks_count": 0,
+    "html_url": "https://github.com/vuInerability/windows-rce",
+    "keywords": [
+        "Win rce"
+    ],
+    "language": "HTML",
+    "repo_name": "windows-rce",
+    "repo_owner": "vuInerability",
+    "repotime": "2025-12-15, 18:13:48",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 1,
+    "date_started": "2025-12-15",
+    "date_updated": "2025-12-15",
+    "description": "In this educational cybersecurity project, I built a lab to demonstrate how attackers chain common vulnerabilities to compromise a banking application. We'll walk through user enumeration, brute-force attacks, session hijacking, and simulated financial theft—then implement the defenses that stop it.",
+    "forks_count": 0,
+    "html_url": "https://github.com/ndi-tech/Project-Banking-X",
+    "keywords": [
+        "session hijacking attack"
+    ],
+    "language": null,
+    "repo_name": "Project-Banking-X",
+    "repo_owner": "ndi-tech",
+    "repotime": "2025-12-15, 06:58:40",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 2393,
+    "date_started": "2025-11-16",
+    "date_updated": "2025-12-15",
+    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
+    "forks_count": 0,
+    "html_url": "https://github.com/Watermlks/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C#",
+    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
+    "repo_owner": "Watermlks",
+    "repotime": "2025-12-15, 14:45:02",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 28,
+    "date_started": "2025-12-03",
+    "date_updated": "2025-12-15",
+    "description": "This project is looking at developing a tool that detects and prevent client side cross site scripting attacks which is also called, 'DOM XSS'",
+    "forks_count": 0,
+    "html_url": "https://github.com/0b0d0/DOM-XSS-detector-preventing-tool-project",
+    "keywords": [
+        "cross-side-scripting"
+    ],
+    "language": "JavaScript",
+    "repo_name": "DOM-XSS-detector-preventing-tool-project",
+    "repo_owner": "0b0d0",
+    "repotime": "2025-12-15, 14:38:05",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 5,
+    "date_started": "2025-05-13",
+    "date_updated": "2025-12-15",
+    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
+    "forks_count": 1,
+    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
+    "keywords": [
+        "spoofing vulnerability"
+    ],
+    "language": "Shell",
+    "repo_name": "MXSpoof",
+    "repo_owner": "debashishmishra1122",
+    "repotime": "2025-12-15, 20:03:12",
+    "stargazers_count": 5,
+    "watchers_count": 5
+}
+{
+    "commits_count": 13,
+    "date_started": "2025-07-20",
+    "date_updated": "2025-12-15",
+    "description": "🛡️ Bypass DEP/NX protection on Windows x64 using hardware breakpoints and instruction emulation to execute code from non-executable memory.",
+    "forks_count": 0,
+    "html_url": "https://github.com/prateek123s/HWBP-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HWBP-DEP-Bypass",
+    "repo_owner": "prateek123s",
+    "repotime": "2025-12-15, 07:50:20",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 12,
+    "date_started": "2024-04-11",
+    "date_updated": "2025-12-15",
+    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
+    "forks_count": 0,
+    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
+    "keywords": [
+        "dep bypass"
+    ],
+    "language": "C",
+    "repo_name": "HWBP-DEP-Bypass",
+    "repo_owner": "kal21k",
+    "repotime": "2025-12-15, 08:49:00",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 3,
+    "date_started": "2025-12-15",
+    "date_updated": "2025-12-15",
+    "description": "This repository contains the PyTorch implementation and experimental pipeline for an unsupervised web intrusion detection system based on deep autoencoders. The model is trained exclusively on benign traffic from the CIC-IDS2017 dataset and detects zero-day and anomalous web attacks using reconstruction error analysis.",
+    "forks_count": 0,
+    "html_url": "https://github.com/faizan-az02/anomalyDetection",
+    "keywords": [
+        "zero-day analysis"
+    ],
+    "language": "Jupyter Notebook",
+    "repo_name": "anomalyDetection",
+    "repo_owner": "faizan-az02",
+    "repotime": "2025-12-15, 18:24:39",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -110,43 +301,6 @@
     "repo_name": "no_ctrl",
     "repo_owner": "Camal2010",
     "repotime": "2025-12-15, 15:50:58",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 358,
-    "date_started": "2025-12-06",
-    "date_updated": "2025-12-15",
-    "description": "The Windows Print Spooler privilege escalation vulnerability (CVE-2019-1040/CVE-2019-1019) has been implemented as a Reflective DLL for penetration testing.",
-    "forks_count": 2,
-    "html_url": "https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL",
-    "keywords": [
-        "Windows lpe vulnerability",
-        "Windows lpe",
-        "lpe vulnerability",
-        "Windows lpe exploit"
-    ],
-    "language": "C",
-    "repo_name": "PrintSpoofer-ReflectiveDLL",
-    "repo_owner": "JonyFilc",
-    "repotime": "2025-12-15, 11:50:46",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 45,
-    "date_started": "2025-11-23",
-    "date_updated": "2025-12-15",
-    "description": "🛡️ Analyze zero-day vulnerabilities effectively with Proteus, an advanced static analysis engine built using Rust and Python.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Rositaestival406/proteus",
-    "keywords": [
-        "zero-day analysis"
-    ],
-    "language": "Python",
-    "repo_name": "proteus",
-    "repo_owner": "Rositaestival406",
-    "repotime": "2025-12-15, 11:42:42",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -222,24 +376,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 10,
-    "date_started": "2025-09-04",
-    "date_updated": "2025-12-15",
-    "description": "🔍 Create a safe lab environment for testing CVE-2020-0610, a critical RCE vulnerability in Windows RD Gateway, with minimal disruption using DTLS techniques.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Riocipta75/lab-cve-2020-0610",
-    "keywords": [
-        "Windows rce",
-        "Windows rce vulnerability"
-    ],
-    "language": "PowerShell",
-    "repo_name": "lab-cve-2020-0610",
-    "repo_owner": "Riocipta75",
-    "repotime": "2025-12-15, 19:11:12",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 7,
     "date_started": "2025-05-21",
     "date_updated": "2025-12-15",
@@ -257,23 +393,6 @@
     "repotime": "2025-12-15, 13:04:03",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 5,
-    "date_started": "2025-05-13",
-    "date_updated": "2025-12-15",
-    "description": "MXSpoof is a Bash tool that checks if a domain is vulnerable to email spoofing by analyzing its SPF, DKIM, and DMARC records.",
-    "forks_count": 1,
-    "html_url": "https://github.com/debashishmishra1122/MXSpoof",
-    "keywords": [
-        "spoofing vulnerability"
-    ],
-    "language": "Shell",
-    "repo_name": "MXSpoof",
-    "repo_owner": "debashishmishra1122",
-    "repotime": "2025-12-15, 16:32:35",
-    "stargazers_count": 5,
-    "watchers_count": 5
 }
 {
     "commits_count": 682,
@@ -295,40 +414,6 @@
     "watchers_count": 0
 }
 {
-    "commits_count": 3,
-    "date_started": "2025-05-23",
-    "date_updated": "2025-12-15",
-    "description": "&amp;&#35;35; BackdoorThis repository contains a Python-based backdoor and listener server designed for educational purposes. Explore the code to understand reverse shell communication and remote command execution. 🐍✨",
-    "forks_count": 2,
-    "html_url": "https://github.com/Zayden-Cyber/Backdoor",
-    "keywords": [
-        "Windows remote code execution"
-    ],
-    "language": "Python",
-    "repo_name": "Backdoor",
-    "repo_owner": "Zayden-Cyber",
-    "repotime": "2025-12-15, 14:47:44",
-    "stargazers_count": 13,
-    "watchers_count": 13
-}
-{
-    "commits_count": 2378,
-    "date_started": "2025-11-16",
-    "date_updated": "2025-12-15",
-    "description": "HWID spoofer tools like spoofer EAC and easyanticheat bypass change hardware identifiers to avoid bans in games like Rust, Valorant, and Apex Legends. Drivers and cleaners ensure system compatibility and remove traces.",
-    "forks_count": 0,
-    "html_url": "https://github.com/Watermlks/DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C#",
-    "repo_name": "DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd",
-    "repo_owner": "Watermlks",
-    "repotime": "2025-12-15, 08:30:00",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
     "commits_count": 61,
     "date_started": "2025-10-28",
     "date_updated": "2025-12-15",
@@ -344,40 +429,6 @@
     "repotime": "2025-12-15, 00:06:06",
     "stargazers_count": 36,
     "watchers_count": 36
-}
-{
-    "commits_count": 13,
-    "date_started": "2025-07-20",
-    "date_updated": "2025-12-15",
-    "description": "🛡️ Bypass DEP/NX protection on Windows x64 using hardware breakpoints and instruction emulation to execute code from non-executable memory.",
-    "forks_count": 0,
-    "html_url": "https://github.com/prateek123s/HWBP-DEP-Bypass",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "prateek123s",
-    "repotime": "2025-12-15, 00:59:24",
-    "stargazers_count": 0,
-    "watchers_count": 0
-}
-{
-    "commits_count": 12,
-    "date_started": "2024-04-11",
-    "date_updated": "2025-12-15",
-    "description": "🚀 Demonstrate code execution from non-executable memory on Windows x64 by bypassing DEP/NX protection using hardware breakpoints and instruction emulation.",
-    "forks_count": 0,
-    "html_url": "https://github.com/kal21k/HWBP-DEP-Bypass",
-    "keywords": [
-        "dep bypass"
-    ],
-    "language": "C",
-    "repo_name": "HWBP-DEP-Bypass",
-    "repo_owner": "kal21k",
-    "repotime": "2025-12-15, 01:58:14",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 3,
@@ -431,21 +482,21 @@
     "watchers_count": 1713
 }
 {
-    "commits_count": 23,
-    "date_started": "2025-12-03",
+    "commits_count": 54,
+    "date_started": "2025-05-09",
     "date_updated": "2025-12-14",
-    "description": "This project is looking at developing a tool that detects and prevent client side cross site scripting attacks which is also called, 'DOM XSS'",
+    "description": "In this satirical simulation game, you take on the role of an underdog who makes money not through fighting, but through hacking, piracy, and all kinds of shady tricks. Instead of battles, you’ll rely on digital manipulation, illegal deals, and clever schemes to build your empire — always with a wink and plenty of absurd situations.",
     "forks_count": 0,
-    "html_url": "https://github.com/0b0d0/DOM-XSS-detector-preventing-tool-project",
+    "html_url": "https://github.com/TomatenHead/Zero_Day_Exploit",
     "keywords": [
-        "cross-side-scripting"
+        "zero-day exploit"
     ],
-    "language": "JavaScript",
-    "repo_name": "DOM-XSS-detector-preventing-tool-project",
-    "repo_owner": "0b0d0",
-    "repotime": "2025-12-14, 18:14:03",
-    "stargazers_count": 0,
-    "watchers_count": 0
+    "language": "GDScript",
+    "repo_name": "Zero_Day_Exploit",
+    "repo_owner": "TomatenHead",
+    "repotime": "2025-12-14, 21:33:20",
+    "stargazers_count": 1,
+    "watchers_count": 1
 }
 {
     "commits_count": 5,
@@ -533,6 +584,23 @@
     "watchers_count": 2208
 }
 {
+    "commits_count": 6,
+    "date_started": "2025-12-12",
+    "date_updated": "2025-12-14",
+    "description": "React Zero-Day Exploit Laboratory is a comprehensive security research environment designed for ethical hackers, penetration testers, and React developers. This platform demonstrates **real, exploitable vulnerabilities** in React Server Components through an interactive, containerized lab environment",
+    "forks_count": 0,
+    "html_url": "https://github.com/InfoSecAntara/React-Zero-Day-Exploit-Laboratory",
+    "keywords": [
+        "zero-day exploit"
+    ],
+    "language": "JavaScript",
+    "repo_name": "React-Zero-Day-Exploit-Laboratory",
+    "repo_owner": "InfoSecAntara",
+    "repotime": "2025-12-14, 15:36:17",
+    "stargazers_count": 1,
+    "watchers_count": 1
+}
+{
     "commits_count": 16,
     "date_started": "2025-09-12",
     "date_updated": "2025-12-14",
@@ -546,6 +614,23 @@
     "repo_name": "ZeroDay-Sentinel",
     "repo_owner": "cyb2rS2c",
     "repotime": "2025-12-14, 10:27:52",
+    "stargazers_count": 0,
+    "watchers_count": 0
+}
+{
+    "commits_count": 8,
+    "date_started": "2025-12-14",
+    "date_updated": "2025-12-14",
+    "description": "Practical lab demonstrating remote code execution through unrestricted file upload, using a vulnerable image upload feature to deploy a web shell.",
+    "forks_count": 0,
+    "html_url": "https://github.com/nivedh-j/file-upload-webshell",
+    "keywords": [
+        "unrestricted file upload"
+    ],
+    "language": null,
+    "repo_name": "file-upload-webshell",
+    "repo_owner": "nivedh-j",
+    "repotime": "2025-12-14, 14:36:42",
     "stargazers_count": 0,
     "watchers_count": 0
 }
@@ -741,7 +826,7 @@
     "date_started": "2025-12-09",
     "date_updated": "2025-12-13",
     "description": "Windows Session Hijacking via COM",
-    "forks_count": 27,
+    "forks_count": 28,
     "html_url": "https://github.com/3lp4tr0n/SessionHop",
     "keywords": [
         "session hijacking"
@@ -750,8 +835,8 @@
     "repo_name": "SessionHop",
     "repo_owner": "3lp4tr0n",
     "repotime": "2025-12-13, 08:33:07",
-    "stargazers_count": 255,
-    "watchers_count": 255
+    "stargazers_count": 256,
+    "watchers_count": 256
 }
 {
     "commits_count": 2,
@@ -874,23 +959,6 @@
     "repotime": "2025-12-12, 23:55:25",
     "stargazers_count": 1,
     "watchers_count": 1
-}
-{
-    "commits_count": 5,
-    "date_started": "2025-12-12",
-    "date_updated": "2025-12-12",
-    "description": "React Zero-Day Exploit Laboratory is a comprehensive security research environment designed for ethical hackers, penetration testers, and React developers. This platform demonstrates **real, exploitable vulnerabilities** in React Server Components through an interactive, containerized lab environment",
-    "forks_count": 0,
-    "html_url": "https://github.com/InfoSecAntara/React-Zero-Day-Exploit-Laboratory",
-    "keywords": [
-        "zero-day exploit"
-    ],
-    "language": "JavaScript",
-    "repo_name": "React-Zero-Day-Exploit-Laboratory",
-    "repo_owner": "InfoSecAntara",
-    "repotime": "2025-12-12, 19:33:55",
-    "stargazers_count": 0,
-    "watchers_count": 0
 }
 {
     "commits_count": 4,
@@ -1196,23 +1264,6 @@
     "repo_name": "terraform-devsecops",
     "repo_owner": "berhane02",
     "repotime": "2025-12-10, 21:57:34",
-    "stargazers_count": 1,
-    "watchers_count": 1
-}
-{
-    "commits_count": 53,
-    "date_started": "2025-05-09",
-    "date_updated": "2025-12-11",
-    "description": "In this satirical simulation game, you take on the role of an underdog who makes money not through fighting, but through hacking, piracy, and all kinds of shady tricks. Instead of battles, you’ll rely on digital manipulation, illegal deals, and clever schemes to build your empire — always with a wink and plenty of absurd situations.",
-    "forks_count": 0,
-    "html_url": "https://github.com/TomatenHead/Zero_Day_Exploit",
-    "keywords": [
-        "zero-day exploit"
-    ],
-    "language": "GDScript",
-    "repo_name": "Zero_Day_Exploit",
-    "repo_owner": "TomatenHead",
-    "repotime": "2025-12-11, 01:21:19",
     "stargazers_count": 1,
     "watchers_count": 1
 }
@@ -1788,8 +1839,8 @@
     "repo_name": "hackerone-reports",
     "repo_owner": "reddelexc",
     "repotime": "2025-12-07, 12:33:37",
-    "stargazers_count": 5061,
-    "watchers_count": 5061
+    "stargazers_count": 5063,
+    "watchers_count": 5063
 }
 {
     "commits_count": 136,
@@ -2456,7 +2507,7 @@
     "date_started": "2012-06-26",
     "date_updated": "2025-12-05",
     "description": "Automatic SQL injection and database takeover tool",
-    "forks_count": 6140,
+    "forks_count": 6141,
     "html_url": "https://github.com/sqlmapproject/sqlmap",
     "keywords": [
         "sql injection"
@@ -2465,8 +2516,8 @@
     "repo_name": "sqlmap",
     "repo_owner": "sqlmapproject",
     "repotime": "2025-12-05, 10:30:13",
-    "stargazers_count": 36096,
-    "watchers_count": 36096
+    "stargazers_count": 36102,
+    "watchers_count": 36102
 }
 {
     "commits_count": 6,
@@ -2952,7 +3003,7 @@
     "date_started": "2013-11-05",
     "date_updated": "2025-12-01",
     "description": "Command line tool to edit resources of exe",
-    "forks_count": 208,
+    "forks_count": 207,
     "html_url": "https://github.com/electron/rcedit",
     "keywords": [
         "Windows rce"
@@ -2961,8 +3012,8 @@
     "repo_name": "rcedit",
     "repo_owner": "electron",
     "repotime": "2025-12-01, 11:26:14",
-    "stargazers_count": 2005,
-    "watchers_count": 2005
+    "stargazers_count": 2006,
+    "watchers_count": 2006
 }
 {
     "commits_count": 2,
