@@ -501,8 +501,8 @@
     "repo_name": "CVE-2025-32432",
     "repo_owner": "Sachinart",
     "repotime": "2025-04-27, 14:35:54",
-    "stargazers_count": 24,
-    "watchers_count": 24
+    "stargazers_count": 25,
+    "watchers_count": 25
 }
 {
     "commits_count": 10,
@@ -2011,7 +2011,7 @@
     "date_started": "2025-03-31",
     "date_updated": "2025-04-05",
     "description": "Unauthenticated RCE exploit for CVE-2024-25600 in WordPress Bricks Builder &amp;lt;= 1.9.6. Executes arbitrary code remotely.",
-    "forks_count": 5,
+    "forks_count": 4,
     "html_url": "https://github.com/so1icitx/CVE-2024-25600",
     "keywords": [
         "unauthenticated rce"
